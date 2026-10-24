@@ -39,13 +39,17 @@ Batasan yang tetap berlaku dari percakapan: tanpa Docker; hemat token tetapi sta
 | 25 Okt 02:30 | Analisis branch Bagus | Langkah 1–6 docs/13 selesai: impor raw dengan SHA-256, header GenBank 592 aksesi, builder v0.3, kamus v0.3 = 65 sekuens 12S dari 38 spesies (V2 23, V3 42), 19 endemik di checklist tetapi 0 bersekuens. Belum: D-034 di 09, README, LOSO, PR |
 | 25 Okt 02:31 | Branch gabungan `integrasi/main-bagus` | Merge `main` + `origin/data/merge-bagus` tanpa konflik (3c66fb8); 101 tes lulus |
 | 25 Okt 02:40 | LOSO kamus v0.3 + D-034 + README | MiFish, 38 spesies, 65 query: M1 0% vs BLAST-97% 46,2%; M2 90,8%; M5 51,3% (78a4b25) |
+| 25 Okt 02:45 | Build web branch gabungan | Lulus (node_modules via junction ke folder utama) |
+| 25 Okt 02:50 | Harvester `scripts/harvest_tropis.py` | 11 dataset via `fetch_data.py`: FishBase, GenBank per negara & per spesies, BOLD, GBIF, OAI 11 jurnal, SRA/ENA, regulasi, Zenodo (c627133 + lanjutan) |
+| 25 Okt 02:55 | Panen selesai sebagian | FishBase 9 tabel (30 MB); SRA 7 BioProject/135 run/147 FASTQ (9,7 GB, URL ENA); regulasi 3 PDF; BOLD 423.278 rekaman Teleostei global |
+| 25 Okt 03:00 | Bug BOLD diperbaiki | API v5 mengabaikan filter geo; ID.tsv = MY.tsv. Kini satu unduhan global + saring lokal; duplikat dihapus, dicatat di manifest |
 
 ## Langkah berikutnya
 
 - [x] Sisa langkah Bagus: D-034 (Diusulkan), README, LOSO v0.3
-- [ ] Build web di branch gabungan
-- [ ] Harvester otomatis lewat `scripts/fetch_data.py` (A13): FishBase country/countrysub/species/synonyms, GBIF daftar spesies per negara, GenBank 12S+mitogenom (negara tropis + spesies daftar Indonesia), BOLD v5 COI Indonesia, OAI-PMH 4 jurnal Indonesia
-- [ ] Jalankan panen, catat SHA-256 di `raw/DOWNLOAD_LOG.md`; berkas besar tidak dikomit (gitignore), cukup manifest + skrip
+- [x] Build web di branch gabungan
+- [x] Harvester otomatis lewat `scripts/fetch_data.py` (A13): FishBase country/countrysub/species/synonyms, GBIF daftar spesies per negara, GenBank 12S+mitogenom (negara tropis + spesies daftar Indonesia), BOLD v5 COI Indonesia, OAI-PMH 4 jurnal Indonesia
+- [ ] (berjalan: genbank_country/freshwater/marine, gbif, oai, zenodo) Jalankan panen, catat SHA-256 di `raw/DOWNLOAD_LOG.md`; berkas besar tidak dikomit (gitignore), cukup manifest + skrip
 - [ ] Analisis celah per tingkat asal (ID / Sundaland / lain / tidak ada) × status (endemik/asli/introduksi) × habitat
 - [ ] Daftar sumber manual siap unduh dengan tautan langsung
 - [ ] Dokumentasi metode lengkap + catatan akhir; push branch; buka PR bila memungkinkan

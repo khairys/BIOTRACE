@@ -1,0 +1,77 @@
+{
+ "dataset": "fishbase",
+ "source": "FishBase v25.04 via HuggingFace cboettig/fishbase",
+ "license_reported_by_source": "CC BY-NC 4.0 (kartu dataset); pemakaian komersial perlu izin FishBase",
+ "method": "Unduh tabel parquet apa adanya; SHA-256 dibandingkan dengan LFS oid HuggingFace.",
+ "started": "2026-10-25T02:39:00",
+ "queries": {},
+ "files": {
+  "country.parquet": {
+   "url": "https://huggingface.co/datasets/cboettig/fishbase/resolve/main/data/fb/v25.04/parquet/country.parquet",
+   "bytes": 9553921,
+   "sha256": "4ab064c60473558216e69ecaa8ebb528aff839ecec8322227a4ccc41f194d1b7",
+   "records": null,
+   "lfs_oid_match": true
+  },
+  "countrysub.parquet": {
+   "url": "https://huggingface.co/datasets/cboettig/fishbase/resolve/main/data/fb/v25.04/parquet/countrysub.parquet",
+   "bytes": 1156633,
+   "sha256": "335c588c9a112104718f8d06f56b9036af98ccadb400c2e6c3524a5e1f4f76e1",
+   "records": null,
+   "lfs_oid_match": true
+  },
+  "countref.parquet": {
+   "url": "https://huggingface.co/datasets/cboettig/fishbase/resolve/main/data/fb/v25.04/parquet/countref.parquet",
+   "bytes": 418732,
+   "sha256": "775c358e1465cfdcf32a20702e33941fb1271f9849334f80965ed0fd1ce9bf26",
+   "records": null,
+   "lfs_oid_match": true
+  },
+  "species.parquet": {
+   "url": "https://huggingface.co/datasets/cboettig/fishbase/resolve/main/data/fb/v25.04/parquet/species.parquet",
+   "bytes": 5272364,
+   "sha256": "02bfae694deed266250e58ecebf4b10af595178944c431612e865cb37dc563e4",
+   "records": null,
+   "lfs_oid_match": true
+  },
+  "synonyms.parquet": {
+   "url": "https://huggingface.co/datasets/cboettig/fishbase/resolve/main/data/fb/v25.04/parquet/synonyms.parquet",
+   "bytes": 9754687,
+   "sha256": "9b41035cd24897fdb87e150027744c6179612595a289fbdbad0f90d82315ab00",
+   "records": null,
+   "lfs_oid_match": true
+  },
+  "families.parquet": {
+   "url": "https://huggingface.co/datasets/cboettig/fishbase/resolve/main/data/fb/v25.04/parquet/families.parquet",
+   "bytes": 427298,
+   "sha256": "3f09bbb09c1c10219277f35b4f8c42aebedd5f1b8e00ebdfdeb0e16574b0e090",
+   "records": null,
+   "lfs_oid_match": true
+  },
+  "genera.parquet": {
+   "url": "https://huggingface.co/datasets/cboettig/fishbase/resolve/main/data/fb/v25.04/parquet/genera.parquet",
+   "bytes": 1533756,
+   "sha256": "e886cb3f1dff5b1f8e4e0b7d1c8277072cee16e8cb681307619d596abf9c648f",
+   "records": null,
+   "lfs_oid_match": true
+  },
+  "orders.parquet": {
+   "url": "https://huggingface.co/datasets/cboettig/fishbase/resolve/main/data/fb/v25.04/parquet/orders.parquet",
+   "bytes": 49042,
+   "sha256": "a0f33b60ffbc1950ae8b57f652fd0b327f7d00713602c0f4e847ca1d8c8f69a0",
+   "records": null,
+   "lfs_oid_match": true
+  },
+  "ecosystemcountry.parquet": {
+   "url": "https://huggingface.co/datasets/cboettig/fishbase/resolve/main/data/fb/v25.04/parquet/ecosystemcountry.parquet",
+   "bytes": 3045043,
+   "sha256": "40d08a3970d12c54b1791fe862c6bb05d8cbe85145eab164b6888c765402daef",
+   "records": null,
+   "lfs_oid_match": true
+  }
+ },
+ "notes": [],
+ "updated": "2026-10-25T02:39:21",
+ "finished": "2026-10-25T02:39:21",
+ "summary": "9 tabel parquet FishBase v25.04"
+}

@@ -1,0 +1,28 @@
+{
+ "dataset": "bold",
+ "source": "BOLD Systems v5 portal API",
+ "license_reported_by_source": "Rekaman publik BOLD; lisensi per rekaman (lihat kolom BOLD)",
+ "method": "Satu unduhan global tax:class:Teleostei (extent=full, TSV); negara disaring lokal dari kolom country/ocean.",
+ "started": "2026-10-25T02:38:58",
+ "queries": {
+  "global": {
+   "query": "tax:class:Teleostei",
+   "records": 423278
+  }
+ },
+ "files": {
+  "teleostei_global.tsv": {
+   "url": "https://portal.boldsystems.org/api/documents/eAFLT823Ss4vzSspqtQvSk3PzM-z8sxLyc9LLc5MtC5JrLBKzkksLrYKSc1JzS8uSc20TivNyQEAL_4Uvw%3D%3D/download?format=tsv",
+   "bytes": 599442954,
+   "sha256": "0247983be20a70f84332dbed5ef8e19065ed9c003ba6c9cc5905c5300abb1e77",
+   "records": 423278,
+   "query": "tax:class:Teleostei;geo:country/region:Indonesia (filter geo diabaikan API)"
+  }
+ },
+ "notes": [
+  "2026-10-25: API v5 mengabaikan filter geo pada query extent=full; ID.tsv dan MY.tsv identik (semua Teleostei). ID.tsv diganti nama menjadi teleostei_global.tsv (hash tetap); MY.tsv dan SG.tsv.partial (duplikat) dihapus. Penyaringan negara dilakukan lokal dari kolom country/ocean."
+ ],
+ "finished": "2026-10-25T02:45:13",
+ "summary": "423278 rekaman Teleostei global",
+ "updated": "2026-10-25T02:45:13"
+}

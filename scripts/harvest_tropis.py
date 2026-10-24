@@ -69,7 +69,24 @@ OAI_JOURNALS = {
     "biodiversitas": "https://smujo.id/biodiv/oai",
     "treubia": "https://ejournal.brin.go.id/treubia/oai",
     "biotropia": "https://journal.biotrop.org/index.php/biotropia/oai",
+    # Ditambahkan setelah uji Identify 25 Okt 2026 (docs/16 §2).
+    "limnotek": "https://ejournal.brin.go.id/limnotek/oai",
+    "zoo_indonesia": "https://ejournal.brin.go.id/zoo_indonesia/oai",
+    "berita_biologi": "https://ejournal.brin.go.id/berita_biologi/oai",
+    "marine_research_indonesia": "https://ejournal.brin.go.id/mri/oai",
+    "oldi": "https://ejournal.brin.go.id/oldi/oai",
+    "ilmu_kelautan_undip": "https://ejournal.undip.ac.id/index.php/ijms/oai",
+    "jitkt_ipb": "https://journal.ipb.ac.id/index.php/jurnalikt/oai",
 }
+SRA_TERM = (
+    '(Indonesia[All Fields]) AND (eDNA[All Fields] OR "environmental DNA"[All Fields] OR '
+    "metabarcoding[All Fields]) AND (fish[All Fields] OR 12S[All Fields] OR MiFish[All Fields] "
+    "OR teleost*[All Fields])"
+)
+ENA_FIELDS = (
+    "run_accession,sample_accession,experiment_title,library_strategy,instrument_platform,"
+    "fastq_ftp,fastq_bytes,fastq_md5,sample_title,collection_date,country,location,lat,lon"
+)
 ZENODO = {
     "mifish_rcrux_2025": "17664847",  # 12S MiFish V5-V6, rCRUX nt + MitoFish (Nov 2025)
     "mitohelper_2025": "17602902",  # Mitohelper reference datasets (Nov 2025, +-2,2 GB)
@@ -352,30 +369,36 @@ def genbank_species_marine() -> None:
 
 
 def bold() -> None:
-    """BOLD v5 portal: rekaman Teleostei per negara (COI, voucher museum, koordinat)."""
+    """BOLD v5 portal: semua rekaman publik Teleostei (COI, voucher museum, koordinat).
+
+    API v5 mengabaikan filter geo pada query extent=full (diuji 25 Okt 2026: TSV Indonesia
+    dan Malaysia identik), jadi diunduh sekali secara global dan negara disaring lokal dari
+    kolom `country/ocean`.
+    """
     run = Run(
         "bold",
         "BOLD Systems v5 portal API",
         "Rekaman publik BOLD; lisensi per rekaman (lihat kolom BOLD)",
-        "api/query?query=tax:class:Teleostei;geo:country/region:<negara>&extent=full lalu "
-        "api/documents/<query_id>/download?format=tsv",
+        "Satu unduhan global tax:class:Teleostei (extent=full, TSV); negara disaring lokal "
+        "dari kolom country/ocean.",
     )
-    for country in ["Indonesia", *SUNDALAND, *WALLACEA_SAHUL]:
-        name = f"{ISO2[country]}.tsv"
-        if run.has(name):
-            continue
-        query = f"tax:class:Teleostei;geo:country/region:{country}"
+    name = "teleostei_global.tsv"
+    if not run.has(name):
+        query = "tax:class:Teleostei"
         qid = _json(
             "https://portal.boldsystems.org/api/query?"
             + urllib.parse.urlencode({"query": query, "extent": "full"})
         )["query_id"]
-        url = f"https://portal.boldsystems.org/api/documents/{urllib.parse.quote(qid)}/download?format=tsv"
+        url = (
+            f"https://portal.boldsystems.org/api/documents/{urllib.parse.quote(qid)}"
+            "/download?format=tsv"
+        )
         _download(url, run.folder / name)
-        rows = max(0, (run.folder / name).read_bytes().count(b"\n") - 1)
-        run.manifest["queries"][country] = {"query": query, "records": rows}
+        with open(run.folder / name, "rb") as f:
+            rows = max(0, sum(1 for _ in f) - 1)
+        run.manifest["queries"]["global"] = {"query": query, "records": rows}
         run.add(name, url, rows)
-        time.sleep(1)
-    run.finish("TSV BOLD per negara")
+    run.finish(f"{run.manifest['files'][name]['records']} rekaman Teleostei global")
 
 
 # ---------------------------------------------------------------- GBIF
@@ -499,7 +522,116 @@ def oai() -> None:
             "complete": True,
         }
         run.save()
-    run.finish("metadata OAI 4 jurnal")
+    run.finish(f"metadata OAI {len(OAI_JOURNALS)} jurnal")
+
+
+# ---------------------------------------------------------------- Regulasi Indonesia
+
+# Peraturan perundang-undangan bukan ciptaan yang dilindungi (UU 28/2014 Pasal 42).
+REGULATIONS = {
+    "kepmen_kp_1_2021_jenis_ikan_dilindungi.pdf": (
+        "https://emancing.kkp.go.id/assets/aturan/"
+        "KEPMEN%20NO%201%20TAHUN%202021%20TENTANG%20JENIS%20IKAN%20YG%20DILINDUNGI.pdf"
+    ),
+    "permen_kp_19_2020_jenis_ikan_membahayakan_bn829.pdf": (
+        "https://www.peraturan.go.id/files/bn829-2020.pdf"
+    ),
+    "kepmen_kp_83_2024_perlindungan_terbatas_belida_jawa.pdf": (
+        "https://ppid.kkp.go.id/media/uploads/document_information_public/"
+        "-2024kepmenkp083_1733794317.pdf"
+    ),
+}
+
+
+def regulasi() -> None:
+    """PDF regulasi status ikan Indonesia (dilindungi, membahayakan/invasif)."""
+    run = Run(
+        "regulasi",
+        "KKP eMancing, peraturan.go.id (Berita Negara), PPID KKP",
+        "Peraturan perundang-undangan; tidak dilindungi hak cipta (UU 28/2014 Ps. 42)",
+        "Unduh PDF apa adanya; lampiran daftar spesies diekstrak terpisah dan wajib dicek manusia",
+    )
+    for name, url in REGULATIONS.items():
+        if not run.has(name):
+            _download(url, run.folder / name)
+            if not (run.folder / name).read_bytes().startswith(b"%PDF"):
+                raise RuntimeError(f"{name}: bukan PDF")
+            run.add(name, url)
+    run.finish(f"{len(REGULATIONS)} PDF regulasi")
+
+
+# ---------------------------------------------------------------- SRA/ENA (eDNA lapangan)
+
+
+def sra() -> None:
+    """BioProject eDNA ikan Indonesia: metadata + daftar URL FASTQ (ENA), tanpa FASTQ-nya.
+
+    FASTQ besar tidak diunduh di sini; `fastq_urls.tsv` siap dipakai untuk unduhan manual
+    atau dataset lanjutan. Mengolah FASTQ menjadi ASV adalah F33 [P2].
+    """
+    run = Run(
+        "sra_edna",
+        "NCBI BioProject (E-utilities) + ENA portal API filereport",
+        "Data INSDC publik (NCBI/ENA); sitasi BioProject wajib",
+        "esearch db=bioproject: "
+        + SRA_TERM
+        + "; ENA filereport result=read_run fields="
+        + ENA_FIELDS,
+    )
+    ids = _json(
+        EUTILS + "esearch.fcgi",
+        {
+            "db": "bioproject",
+            "term": SRA_TERM,
+            "retmax": 500,
+            "retmode": "json",
+            "tool": "biotrace_harvest",
+        },
+    )["esearchresult"]["idlist"]
+    time.sleep(NCBI_PAUSE)
+    summary = _request(
+        EUTILS + "esummary.fcgi",
+        {"db": "bioproject", "id": ",".join(ids), "retmode": "json", "tool": "biotrace_harvest"},
+    )
+    _write(run.folder / "bioprojects.esummary.json", summary)
+    run.add("bioprojects.esummary.json", EUTILS + "esummary.fcgi", len(ids))
+    projects = json.loads(summary)["result"]
+    lines, total_bytes, runs = [], 0, 0
+    for uid in projects["uids"]:
+        acc = projects[uid]["project_acc"]
+        name = f"{acc}.ena_read_run.tsv"
+        url = "https://www.ebi.ac.uk/ena/portal/api/filereport?" + urllib.parse.urlencode(
+            {"accession": acc, "result": "read_run", "fields": ENA_FIELDS, "format": "tsv"}
+        )
+        if not run.has(name):
+            _write(run.folder / name, _request(url))
+            rows = max(0, (run.folder / name).read_bytes().count(b"\n") - 1)
+            run.add(name, url, rows, bioproject=acc, title=projects[uid].get("project_title"))
+            time.sleep(0.5)
+        table = (run.folder / name).read_text("utf-8").splitlines()
+        if not table:
+            continue
+        head = table[0].split("\t")
+        for row in table[1:]:
+            rec = dict(zip(head, row.split("\t"), strict=False))
+            for ftp, size, md5 in zip(
+                rec.get("fastq_ftp", "").split(";"),
+                rec.get("fastq_bytes", "").split(";"),
+                rec.get("fastq_md5", "").split(";"),
+                strict=False,
+            ):
+                if ftp:
+                    lines.append(f"{acc}\t{rec['run_accession']}\thttps://{ftp}\t{size}\t{md5}")
+                    total_bytes += int(size or 0)
+            runs += 1
+    _write(
+        run.folder / "fastq_urls.tsv",
+        ("bioproject\trun\turl\tbytes\tmd5\n" + "\n".join(sorted(lines)) + "\n").encode(),
+    )
+    run.add("fastq_urls.tsv", "ENA filereport fastq_ftp", len(lines), total_bytes=total_bytes)
+    run.finish(
+        f"{len(ids)} BioProject, {runs} run, {len(lines)} FASTQ ({total_bytes / 1e9:.1f} GB)"
+    )
 
 
 # ---------------------------------------------------------------- Zenodo
@@ -549,9 +681,11 @@ DATASETS: dict[str, tuple[Callable[[], None], str]] = {
         genbank_species_marine,
         "GenBank 12S+mitogenom spesies laut Indonesia (besar, butuh tropis_fishbase)",
     ),
-    "tropis_bold": (bold, "BOLD v5 COI Teleostei Indonesia + tetangga"),
+    "tropis_bold": (bold, "BOLD v5 COI Teleostei global (disaring lokal per negara)"),
     "tropis_gbif": (gbif, "GBIF jumlah okurensi/spesimen museum per spesies ikan"),
-    "tropis_oai": (oai, "Metadata OAI-PMH 4 jurnal Indonesia"),
+    "tropis_oai": (oai, "Metadata OAI-PMH 11 jurnal Indonesia (biologi, ikan, perairan, laut)"),
+    "tropis_regulasi": (regulasi, "PDF Kepmen KP 1/2021, Permen KP 19/2020, Kepmen KP 83/2024"),
+    "tropis_sra": (sra, "BioProject eDNA ikan Indonesia + daftar URL FASTQ ENA (tanpa FASTQ)"),
     "tropis_zenodo_mifish": (zenodo_mifish, "Pustaka 12S MiFish rCRUX+MitoFish (Zenodo, ±27,5 MB)"),
     "tropis_zenodo_mitohelper": (
         zenodo_mitohelper,

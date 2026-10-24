@@ -1,0 +1,83 @@
+{
+ "dataset": "sra_edna",
+ "source": "NCBI BioProject (E-utilities) + ENA portal API filereport",
+ "license_reported_by_source": "Data INSDC publik (NCBI/ENA); sitasi BioProject wajib",
+ "method": "esearch db=bioproject: (Indonesia[All Fields]) AND (eDNA[All Fields] OR \"environmental DNA\"[All Fields] OR metabarcoding[All Fields]) AND (fish[All Fields] OR 12S[All Fields] OR MiFish[All Fields] OR teleost*[All Fields]); ENA filereport result=read_run fields=run_accession,sample_accession,experiment_title,library_strategy,instrument_platform,fastq_ftp,fastq_bytes,fastq_md5,sample_title,collection_date,country,location,lat,lon",
+ "started": "2026-10-25T02:41:09",
+ "queries": {},
+ "files": {
+  "bioprojects.esummary.json": {
+   "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi",
+   "bytes": 10492,
+   "sha256": "167e513df5d554def6d95d3b9187a0039d623acda49238d52a698f3aa1e1a968",
+   "records": 7
+  },
+  "PRJNA1506905.ena_read_run.tsv": {
+   "url": "https://www.ebi.ac.uk/ena/portal/api/filereport?accession=PRJNA1506905&result=read_run&fields=run_accession%2Csample_accession%2Cexperiment_title%2Clibrary_strategy%2Cinstrument_platform%2Cfastq_ftp%2Cfastq_bytes%2Cfastq_md5%2Csample_title%2Ccollection_date%2Ccountry%2Clocation%2Clat%2Clon&format=tsv",
+   "bytes": 171,
+   "sha256": "b65a0a38f5f8b41b4eee3135ec1b45a94d09dac1a211eacb949510600e6bf9b6",
+   "records": 0,
+   "bioproject": "PRJNA1506905",
+   "title": "Environmental DNA: Revolutionizing Marine Biodiversity Assessment from Coastal to the Deep Sea"
+  },
+  "PRJNA1496488.ena_read_run.tsv": {
+   "url": "https://www.ebi.ac.uk/ena/portal/api/filereport?accession=PRJNA1496488&result=read_run&fields=run_accession%2Csample_accession%2Cexperiment_title%2Clibrary_strategy%2Cinstrument_platform%2Cfastq_ftp%2Cfastq_bytes%2Cfastq_md5%2Csample_title%2Ccollection_date%2Ccountry%2Clocation%2Clat%2Clon&format=tsv",
+   "bytes": 1466,
+   "sha256": "5f77eed2f1f834dc81ce60ec86f265883fd645d766d5d240e304d3216705a6ca",
+   "records": 4,
+   "bioproject": "PRJNA1496488",
+   "title": "GENETIC DIVERSITY OF FISH IN THE MUSI RIVER, SOUTH SUMATERA"
+  },
+  "PRJNA1430110.ena_read_run.tsv": {
+   "url": "https://www.ebi.ac.uk/ena/portal/api/filereport?accession=PRJNA1430110&result=read_run&fields=run_accession%2Csample_accession%2Cexperiment_title%2Clibrary_strategy%2Cinstrument_platform%2Cfastq_ftp%2Cfastq_bytes%2Cfastq_md5%2Csample_title%2Ccollection_date%2Ccountry%2Clocation%2Clat%2Clon&format=tsv",
+   "bytes": 6246,
+   "sha256": "5af9f317897b7630d72d318beac9e7c91421904edc0913dd2c5cdb185ed735f3",
+   "records": 30,
+   "bioproject": "PRJNA1430110",
+   "title": "Limited but Connected: Comparing Shallow Reef and Upper Mesophotic Fish Communities Using eDNA Metabarcoding in Karimunjawa National Park, Indonesia"
+  },
+  "PRJNA1389880.ena_read_run.tsv": {
+   "url": "https://www.ebi.ac.uk/ena/portal/api/filereport?accession=PRJNA1389880&result=read_run&fields=run_accession%2Csample_accession%2Cexperiment_title%2Clibrary_strategy%2Cinstrument_platform%2Cfastq_ftp%2Cfastq_bytes%2Cfastq_md5%2Csample_title%2Ccollection_date%2Ccountry%2Clocation%2Clat%2Clon&format=tsv",
+   "bytes": 3815,
+   "sha256": "00792b2c28f3e426c0072bb16df024e19ca18b0c30c9e8c74a474327ca3d13bf",
+   "records": 18,
+   "bioproject": "PRJNA1389880",
+   "title": "eDNA metabarcoding as a promising conservation tool to monitor fish diversity in Indonesia Marine Protected Areas"
+  },
+  "PRJEB84473.ena_read_run.tsv": {
+   "url": "https://www.ebi.ac.uk/ena/portal/api/filereport?accession=PRJEB84473&result=read_run&fields=run_accession%2Csample_accession%2Cexperiment_title%2Clibrary_strategy%2Cinstrument_platform%2Cfastq_ftp%2Cfastq_bytes%2Cfastq_md5%2Csample_title%2Ccollection_date%2Ccountry%2Clocation%2Clat%2Clon&format=tsv",
+   "bytes": 18645,
+   "sha256": "f5a2128645fe2c3e88d90a4d2256a8da4e3b6edde6e6018b40d07e24362b4d0a",
+   "records": 59,
+   "bioproject": "PRJEB84473",
+   "title": "Metabarcoding of fish eDNA in the Java Sea"
+  },
+  "PRJNA1159001.ena_read_run.tsv": {
+   "url": "https://www.ebi.ac.uk/ena/portal/api/filereport?accession=PRJNA1159001&result=read_run&fields=run_accession%2Csample_accession%2Cexperiment_title%2Clibrary_strategy%2Cinstrument_platform%2Cfastq_ftp%2Cfastq_bytes%2Cfastq_md5%2Csample_title%2Ccollection_date%2Ccountry%2Clocation%2Clat%2Clon&format=tsv",
+   "bytes": 4171,
+   "sha256": "763fd1c500a1e819c6f6935e246432789b40461488a7dd2428fd461e82ef0d05",
+   "records": 12,
+   "bioproject": "PRJNA1159001",
+   "title": "eDNA Uncovers Hidden Fish Diversity in the Coral Reef Ecosystems of Karimunjawa National Park, Indonesia"
+  },
+  "PRJNA1088903.ena_read_run.tsv": {
+   "url": "https://www.ebi.ac.uk/ena/portal/api/filereport?accession=PRJNA1088903&result=read_run&fields=run_accession%2Csample_accession%2Cexperiment_title%2Clibrary_strategy%2Cinstrument_platform%2Cfastq_ftp%2Cfastq_bytes%2Cfastq_md5%2Csample_title%2Ccollection_date%2Ccountry%2Clocation%2Clat%2Clon&format=tsv",
+   "bytes": 6271,
+   "sha256": "57387084d0f4fd2fcff6a7de623c6570365fa0d84bfe4cea2a0ad0567ac53344",
+   "records": 12,
+   "bioproject": "PRJNA1088903",
+   "title": "eDNA metabarcoding in Banggai MPA"
+  },
+  "fastq_urls.tsv": {
+   "url": "ENA filereport fastq_ftp",
+   "bytes": 21806,
+   "sha256": "871fea66dbcb5d2ba72e77e37b33eaab30d7388c25075a84e25714bdd8a1f662",
+   "records": 147,
+   "total_bytes": 9741212832
+  }
+ },
+ "notes": [],
+ "updated": "2026-10-25T02:41:29",
+ "finished": "2026-10-25T02:41:29",
+ "summary": "7 BioProject, 135 run, 147 FASTQ (9.7 GB)"
+}

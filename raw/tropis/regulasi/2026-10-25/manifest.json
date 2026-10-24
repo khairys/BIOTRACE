@@ -1,0 +1,32 @@
+{
+ "dataset": "regulasi",
+ "source": "KKP eMancing, peraturan.go.id (Berita Negara), PPID KKP",
+ "license_reported_by_source": "Peraturan perundang-undangan; tidak dilindungi hak cipta (UU 28/2014 Ps. 42)",
+ "method": "Unduh PDF apa adanya; lampiran daftar spesies diekstrak terpisah dan wajib dicek manusia",
+ "started": "2026-10-25T02:43:12",
+ "queries": {},
+ "files": {
+  "kepmen_kp_1_2021_jenis_ikan_dilindungi.pdf": {
+   "url": "https://emancing.kkp.go.id/assets/aturan/KEPMEN%20NO%201%20TAHUN%202021%20TENTANG%20JENIS%20IKAN%20YG%20DILINDUNGI.pdf",
+   "bytes": 552183,
+   "sha256": "2146057bef684e4b04f9805f76e6f42229597baefcdf0e03d318428de1cdc227",
+   "records": null
+  },
+  "permen_kp_19_2020_jenis_ikan_membahayakan_bn829.pdf": {
+   "url": "https://www.peraturan.go.id/files/bn829-2020.pdf",
+   "bytes": 1825791,
+   "sha256": "bd6d90376a83762780a0a78e0db832e7d60b89cceee0c1871ca6d2b59ad12774",
+   "records": null
+  },
+  "kepmen_kp_83_2024_perlindungan_terbatas_belida_jawa.pdf": {
+   "url": "https://ppid.kkp.go.id/media/uploads/document_information_public/-2024kepmenkp083_1733794317.pdf",
+   "bytes": 674049,
+   "sha256": "050b985c868fa632db57e231ab5b761eeafbcd8b38e56c82251ddd2b50a35504",
+   "records": null
+  }
+ },
+ "notes": [],
+ "updated": "2026-10-25T02:43:16",
+ "finished": "2026-10-25T02:43:16",
+ "summary": "3 PDF regulasi"
+}
