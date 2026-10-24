@@ -131,6 +131,23 @@ Templat:
 - Status: **Diusulkan** (konsekuensi D-003)
 - Keputusan usulan: Persona LSM dipindah dari pengguna utama ke kolaborator/pendana di PRD v3 dan deck.
 
+### D-025 — Dashboard hasil satu halaman
+- Tanggal: 2026-10-24 · Status: **Disetujui** · Disetujui oleh: Agathan (frontend)
+- Keputusan: Halaman P2–P6 digabung menjadi satu halaman Hasil: ringkasan, perhatian utama, keputusan per lokasi, daftar klaim + Evidence Card panel samping, kamus & celah, prioritas barcode, audit. Rincian di 10 §4.
+- Menggantikan: pembagian halaman P2–P6 di 02 §7.
+
+### D-026 — Unggah dengan drag & drop dan deteksi peran file
+- Status: **Disetujui** · Disetujui oleh: Agathan
+- Keputusan: Halaman Unggah satu kartu bersih, drag & drop banyak file, peran file dideteksi dari isi. Rincian di 10 §3.
+
+### D-027 — Sistem desain
+- Status: **Diusulkan** · Diusulkan oleh: Claude
+- Keputusan usulan: Token warna, Inter + JetBrains Mono, radius dan jarak sesuai 10 §2; tanpa aset dari CDN.
+
+### D-028 — Unduhan data lewat skrip
+- Status: **Diusulkan** · Diusulkan oleh: Claude
+- Keputusan usulan: Dataset publik diunduh dengan `scripts/fetch_data.py` ke `raw/` beserta log; agent boleh menjalankannya bila diminta manusia. Mesin inti tetap tanpa jaringan (A8, A13). Nama spesies asli hanya dari file sumber (A14).
+
 ---
 
 ## Konflik terbuka

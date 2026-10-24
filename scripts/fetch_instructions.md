@@ -1,14 +1,25 @@
-# Cara Mengunduh Data (dikerjakan manusia)
+# Cara Mengunduh Data
 
-Agent tidak mengunduh data dari portal luar. Ikuti langkah ini, lalu taruh file di folder `raw/` (di-.gitignore) dan beri tahu agent untuk mengkurasi.
+**Cara cepat (otomatis):**
+
+```
+python scripts/fetch_data.py --list
+python scripts/fetch_data.py all        # Stelbrink 2014 + Guyana 12S + Lake St. Pierre (CSV)
+```
+
+Skrip menyimpan file di `raw/` dan mencatat URL, tanggal, serta SHA-256 di `raw/DOWNLOAD_LOG.md`. Kolom lisensi diisi manual. Skrip belum diuji langsung terhadap API; bila gagal, pakai cara manual di bawah.
+
+PDF checklist (§4) selalu diunduh manual.
+
+**Cara manual:** ikuti langkah di bawah, taruh file di `raw/` (di-.gitignore), lalu minta agent mengkurasi.
 
 ## 1. Sekuens Telmatherinidae Malili (Stelbrink dkk. 2014) — T-DATA-01
 
 1. Buka https://www.ncbi.nlm.nih.gov/sites/batchentrez
 2. Database: **Nucleotide**.
 3. Buat file teks berisi aksesi KJ667771 sampai KJ667865 (satu per baris). Rentang bisa juga dicari di https://www.ncbi.nlm.nih.gov/nuccore dengan kueri `KJ667771:KJ667865[accn]`.
-4. Unduh dua format: **FASTA** dan **GenBank (full)**. Simpan sebagai `raw/stelbrink2014_12s16s.fasta` dan `raw/stelbrink2014_12s16s.gb`.
-5. Opsional: ND2 `KJ667866:KJ667963[accn]` → `raw/stelbrink2014_nd2.fasta`.
+4. Unduh dua format: **FASTA** dan **GenBank (full)**. Simpan sebagai `raw/stelbrink2014/stelbrink2014_12s16s.fasta` dan `raw/stelbrink2014/stelbrink2014_12s16s.gb`.
+5. Opsional: ND2 `KJ667866:KJ667963[accn]` → `raw/stelbrink2014/stelbrink2014_nd2.fasta`.
 
 ## 2. Pustaka 12S Guyana Prancis — T-DATA-06
 

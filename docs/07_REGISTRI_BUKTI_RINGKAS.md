@@ -92,6 +92,6 @@ Prioritas: **1** = Malili/Sulawesi, **2** = Indonesia, **3** = Asia Tenggara, **
 
 ## 4. Catatan untuk agent
 
-- Agent tidak mengunduh dataset. Manusia mengunduh mengikuti `scripts/fetch_instructions.md`, agent mengkurasi (04 §5).
+- Unduh dataset dengan `python scripts/fetch_data.py all` (atau manual: `scripts/fetch_instructions.md`). Agent mengkurasi hasilnya (04 §5).
 - Setiap dataset yang masuk repo wajib punya entri `sources.csv` dan `README.md` di foldernya, berisi sumber, lisensi, tanggal unduh.
 - Dataset prioritas 4 hanya boleh ditaruh di `data/external/` (aturan A4).

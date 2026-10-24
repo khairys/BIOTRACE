@@ -161,6 +161,8 @@ ID dipertahankan dari v2 bila fungsinya sama. ID baru mulai dari F37.
 
 ## 7. Halaman dashboard
 
+> **Diperbarui oleh D-025:** P2–P6 digabung menjadi satu halaman **Hasil** (dashboard satu halaman). Tata letak, token desain, dan Evidence Card dirinci di `10_DESAIN_UI_LAPORAN_DEMO.md`. Tabel di bawah tetap berlaku sebagai daftar isi yang harus ada.
+
 | # | Halaman | Isi | Fitur | Tag |
 |---|---|---|---|---|
 | P1 | **Unggah** | Area unggah 4 file, tombol "Muat data demo (SIMULASI)", hasil validasi input (peringatan/galat), tombol "Jalankan" | F1–F4, F11, F42 | `[MVP]` |

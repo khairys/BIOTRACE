@@ -28,7 +28,7 @@
 | PDF | ReportLab | 4.x | `[MVP]` |
 | Tes | pytest, pytest-cov | | `[MVP]` |
 | Lint | ruff | | `[MVP]` |
-| Frontend | React 18, Vite, TypeScript (strict), Tailwind CSS, Recharts, TanStack Table, React Router | | `[MVP]` |
+| Frontend | React 18, Vite, TypeScript (strict), Tailwind CSS, Recharts, TanStack Table, React Router, `react-dropzone`, `lucide-react`, `@fontsource/inter`, `@fontsource/jetbrains-mono` | | `[MVP]` |
 | Paket Python | `uv` (disarankan) atau `pip` + `requirements.txt` | | `[MVP]` |
 | Basis data | Tidak ada (berbasis file) | | `[MVP]` |
 | Basis data | PostgreSQL | | `[P1]` |
@@ -101,7 +101,8 @@ BIOTRACE/
 ├─ scripts/
 │  ├─ export_schemas.py         # pydantic → JSON Schema → TS types
 │  ├─ make_demo_data.py         # membangkitkan data SIMULASI (seed tetap)
-│  └─ fetch_instructions.md     # cara manusia mengunduh data (agent tidak mengunduh)
+│  ├─ fetch_data.py             # unduh dataset publik ke raw/ + log (A13)
+│  └─ fetch_instructions.md     # cara manual bila skrip gagal
 └─ tests/
    ├─ fixtures/fx1/             # Fixture FX-1 dari 03 §11
    ├─ test_rules_naming.py
@@ -235,10 +236,7 @@ Galat: `422` untuk validasi input, dengan isi `ValidationReport`. `500` dicatat 
 | Rute | Halaman (02 §7) |
 |---|---|
 | `/` | P1 Unggah |
-| `/runs/:id` | P2 Ringkasan |
-| `/runs/:id/claims` | P3 Klaim (+ P4 Evidence Card sebagai drawer `?claim=`) |
-| `/runs/:id/reference` | P5 Kamus & Celah |
-| `/runs/:id/report` | P6 Laporan |
+| `/runs/:id` | **Hasil** (dashboard satu halaman: P2–P6 digabung, D-025); Evidence Card sebagai panel samping `?claim=` |
 | `/methods` | P7 Metode |
 | `/validation` | P8 Validasi |
 
@@ -335,11 +333,11 @@ Urutan disusun agar selalu ada demo yang jalan bila waktu habis.
 |---|---|---|---|
 | 1 | Kerangka repo, `models.py`, `config.py`, rules YAML, fixture FX-1 | Backend | `make test` jalan |
 | 2 | `preprocess`, `naming/rules`, `scoring`, `causes`, `decision` + tes E1–E12 (mode taksonomi lab dulu, tanpa BLAST) | Backend | E1–E12 lulus |
-| 3 | `make_demo_data.py` → `data/demo/matano_sim_v1/` (SIMULASI) | Backend | Semua 4 keputusan muncul |
+| 3 | `make_demo_data.py` → `data/demo/matano_sim_v1/` (SIMULASI) sesuai 10 §6 | Backend | 16 skenario menghasilkan keputusan target |
 | 4 | API minimal: `/api/runs/demo`, `/claims`, `/coverage` | Backend | JSON keluar |
-| 5 | Halaman P1, P2, P3, P4 | Frontend | Alur demo berjalan dari unggah sampai Evidence Card |
+| 5 | Halaman Unggah (drag & drop) dan Hasil bagian ①–④ sesuai 10 §3–4 | Frontend | Alur demo berjalan dari unggah sampai Evidence Card |
 | 6 | Modul BLAST + kamus v0.1 (publik bila sudah terunduh; bila belum, sintetis SIMULASI) | Backend | Mode FASTA jalan |
-| 7 | P5 Kamus & Celah | Frontend | Grafik cakupan tampil |
+| 7 | Hasil bagian ⑤–⑦ | Frontend | Grafik cakupan dan audit tampil |
 | 8 | Audit + PDF | Backend/Frontend | PDF terunduh dengan fingerprint |
 | 9 | `make precompute` + P7 Metode + P8 Validasi (statis) | Semua | Demo bisa jalan offline tanpa BLAST |
 | 10 | README "Sebelum vs selama hackathon" | Manusia | Terisi |

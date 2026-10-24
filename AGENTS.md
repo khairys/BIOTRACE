@@ -14,10 +14,11 @@ Urutan baca minimum sebelum menulis kode atau dokumen:
    - Skema file, kamus referensi, kurasi → `docs/04_SPESIFIKASI_DATA.md`
    - Fitur, halaman, kriteria penerimaan → `docs/02_PRD_v3.md`
    - Struktur repo, API, stack, cara menjalankan → `docs/05_ARSITEKTUR.md`
+   - Tampilan dashboard, PDF, data demo → `docs/10_DESAIN_UI_LAPORAN_DEMO.md`
    - Tes dan validasi → `docs/06_VALIDASI_DAN_UJI.md`
    - Klaim angka dan dataset → `docs/07_REGISTRI_BUKTI_RINGKAS.md`
 
-**Urutan prioritas jika ada konflik:** 01 > 09 > 03 = 04 > 02 > 05 > 06 > 07.
+**Urutan prioritas jika ada konflik:** 01 > 09 > 03 = 04 > 10 > 02 > 05 > 06 > 07.
 Jika menemukan konflik, jangan memilih sendiri. Catat di `docs/09_LOG_KEPUTUSAN.md` bagian "Konflik terbuka" lalu tanyakan ke manusia.
 
 ## 2. Aturan yang tidak boleh dilanggar
@@ -36,6 +37,8 @@ Jika menemukan konflik, jangan memilih sendiri. Catat di `docs/09_LOG_KEPUTUSAN.
 | A10 | **BioTrace tidak menerbitkan dokumen AMDAL resmi.** Teks UI dan laporan selalu menyebut "laporan verifikasi pendukung". |
 | A11 | **Setiap kartu dan laporan memuat kalimat batas interpretasi**: deteksi DNA bukan bukti pasti ikan hidup di lokasi. |
 | A12 | **Jangan menghapus data mentah atau file referensi berversi.** Versi baru dibuat sebagai folder baru. |
+| A13 | **Unduhan data hanya lewat `scripts/fetch_data.py`** (atau cara manual di `scripts/fetch_instructions.md`), ke folder `raw/`, dengan log di `raw/DOWNLOAD_LOG.md`. Jangan mengunduh dari sumber lain atau menambahkan panggilan jaringan ke `biotrace_core/`. |
+| A14 | **Nama spesies asli hanya boleh berasal dari file sumber di `raw/` atau kamus berversi.** Jangan mengisi nama spesies, checklist, atau status dari ingatan model. Tanpa file sumber, pakai nama fiktif berlabel SIMULASI. |
 
 ## 3. Konvensi kode
 

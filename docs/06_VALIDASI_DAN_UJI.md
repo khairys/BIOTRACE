@@ -36,11 +36,11 @@ Validasi BioTrace punya tiga lapis:
 
 ## 2. Tugas data (dikerjakan manusia + agent)
 
-Agent **tidak** mengunduh dari NCBI/BOLD/Dryad. Manusia mengunduh, agent mengkurasi.
+Unduh dengan `python scripts/fetch_data.py all` (atau manual), lalu agent mengkurasi. Mesin inti tidak pernah mengunduh (A8, A13).
 
 | ID | Tugas | Pelaku | Hasil | Tag |
 |---|---|---|---|---|
-| T-DATA-01 | Unduh FASTA KJ667771–KJ667865 (Stelbrink 2014) lewat NCBI Batch Entrez | Manusia | `raw/stelbrink2014_12s16s.fasta` | `[MVP]` |
+| T-DATA-01 | Unduh FASTA KJ667771–KJ667865 (Stelbrink 2014): `fetch_data.py stelbrink2014` | Manusia atau agent (bila diminta) | `raw/stelbrink2014/stelbrink2014_12s16s.fasta` | `[MVP]` |
 | T-DATA-02 | Cek apakah fragmen itu mencakup daerah MiFish-U (R-CUR-05). Bila ya, ukur jarak antarspesies *Telmatherina* di daerah MiFish | Agent | Laporan: berapa spesies bisa dibedakan, pasangan yang identik → masukan untuk `complexes.csv` | `[MVP]` |
 | T-DATA-03 | Ekstrak checklist Malili dari Herder 2006/2012 dan Tantu & Nilawati 2007 | Manusia (PDF) + agent (ketik ke CSV) | `checklist.csv`, `introductions.csv` v0.1 | `[MVP]` |
 | T-DATA-04 | Cari sekuens 12S/mitogenom publik untuk setiap spesies checklist Malili | Manusia (cari di GenBank/MitoFish/BOLD) + agent (kurasi) | Kamus v0.1 lebih lengkap | `[P1]` |

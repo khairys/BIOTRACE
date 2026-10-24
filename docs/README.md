@@ -10,9 +10,10 @@ Mulai dari `01_KONSEP_INDUK.md`. Agent wajib membaca `../AGENTS.md` dulu.
 | 04 | [Spesifikasi Data](04_SPESIFIKASI_DATA.md) | Skema input/kamus/output, protokol kurasi, rules YAML, data demo | Backend, data |
 | 05 | [Arsitektur](05_ARSITEKTUR.md) | Stack, struktur repo, kontrak modul, BLAST, API, frontend, rencana kerja | Semua developer |
 | 06 | [Validasi dan Uji](06_VALIDASI_DAN_UJI.md) | Tes, tugas data, uji leave-one-species-out, validasi lapangan, skrip demo | Backend, QA |
+| 10 | [Desain UI, PDF, Data Demo](10_DESAIN_UI_LAPORAN_DEMO.md) | Token desain, halaman Unggah drag & drop, dashboard satu halaman, PDF, skenario demo | Frontend, backend |
 | 07 | [Registri Bukti (ringkas)](07_REGISTRI_BUKTI_RINGKAS.md) | Klaim yang boleh dipakai, dataset | Semua |
 | 09 | [Log Keputusan](09_LOG_KEPUTUSAN.md) | Keputusan disetujui, diusulkan, konflik terbuka | Semua |
 
 Dokumen di Project GENOHACK (bukan repo): `07_REGISTRI_BUKTI.md` (lengkap) dan `08_BISNIS_DAN_MASUK_PASAR.md`.
 
-Urutan prioritas bila bertentangan: 01 > 09 > 03 = 04 > 02 > 05 > 06 > 07.
+Urutan prioritas bila bertentangan: 01 > 09 > 03 = 04 > 10 > 02 > 05 > 06 > 07.
