@@ -139,7 +139,12 @@ def _read_fasta(path: Path) -> dict[str, str]:
 
 def load_genbank() -> dict[str, dict]:
     records: dict[str, dict] = {}
-    for dataset in ("genbank_country", "genbank_species_freshwater", "genbank_species_marine"):
+    for dataset in (
+        "genbank_country",
+        "genbank_species_freshwater",
+        "genbank_species_marine",
+        "genbank_cited",
+    ):
         folder = latest(dataset)
         if not folder:
             continue
@@ -364,6 +369,113 @@ def journal_articles() -> list[dict]:
     return sorted(out, key=lambda r: (r["journal"], r["date"], r["title"]))
 
 
+# ---------------------------------------------------------------- penemuan sumber
+
+
+def cited_accessions() -> dict[str, list[str]]:
+    """Aksesi -> PMCID artikel ikan Indonesia yang menyebutnya (Europe PMC)."""
+    folder = latest("europepmc")
+    out: dict[str, list[str]] = defaultdict(list)
+    if not folder or not (folder / "accession_annotations.json").is_file():
+        return out
+    for pmcid, accs in json.loads(
+        (folder / "accession_annotations.json").read_text("utf-8")
+    ).items():
+        for a in accs:
+            out[a.split(".")[0]].append(pmcid)
+    return out
+
+
+def brin_datasets() -> list[dict]:
+    folder = latest("brin_rin")
+    rows = []
+    if not folder:
+        return rows
+    for path in sorted(folder.glob("dataset_*.json")):
+        data = json.loads(path.read_text("utf-8")).get("data", {})
+        version = data.get("latestVersion", {})
+        fields = {
+            f["typeName"]: f["value"]
+            for f in version.get("metadataBlocks", {}).get("citation", {}).get("fields", [])
+            if isinstance(f.get("value"), str)
+        }
+        files = version.get("files", [])
+        names = [f["dataFile"]["filename"] for f in files]
+        rows.append(
+            {
+                "persistent_id": data.get("protocol", "")
+                + ":"
+                + data.get("authority", "")
+                + "/"
+                + data.get("identifier", ""),
+                "title": fields.get("title", ""),
+                "published": (data.get("publicationDate") or "")[:10],
+                "files": len(files),
+                "files_open": sum(not f.get("restricted") for f in files),
+                "files_restricted": sum(bool(f.get("restricted")) for f in files),
+                "accessions_in_filenames": ";".join(
+                    sorted(set(ACCESSION.findall(" ".join(names))))
+                )[:300],
+                "url": "https://data.brin.go.id/dataset.xhtml?persistentId="
+                + data.get("protocol", "")
+                + ":"
+                + data.get("authority", "")
+                + "/"
+                + data.get("identifier", ""),
+            }
+        )
+    return sorted(rows, key=lambda r: (r["files_open"] == 0, r["title"]))
+
+
+def repository_datasets() -> list[dict]:
+    folder = latest("repositori")
+    rows: dict[str, dict] = {}
+    if not folder:
+        return []
+    if (folder / "zenodo.json").is_file():
+        for h in json.loads((folder / "zenodo.json").read_text("utf-8")):
+            md = h.get("metadata", {})
+            rows[h.get("doi") or str(h.get("id"))] = {
+                "repository": "zenodo",
+                "title": md.get("title", ""),
+                "doi": h.get("doi", ""),
+                "date": md.get("publication_date", ""),
+                "license": (md.get("license") or {}).get("id", ""),
+                "url": h.get("links", {}).get("self_html", ""),
+            }
+    for path in sorted(folder.glob("dryad_*.json")):
+        for d in json.loads(path.read_text("utf-8")).get("_embedded", {}).get("stash:datasets", []):
+            doi = (d.get("identifier") or "").replace("doi:", "")
+            rows.setdefault(
+                doi,
+                {
+                    "repository": "dryad",
+                    "title": d.get("title", ""),
+                    "doi": doi,
+                    "date": d.get("publicationDate", ""),
+                    "license": d.get("license", ""),
+                    "url": "https://doi.org/" + doi,
+                },
+            )
+    for path in sorted(folder.glob("figshare_*.json")):
+        for d in json.loads(path.read_text("utf-8")):
+            text = d.get("title", "")
+            if not FISH_WORDS.search(text):
+                continue
+            rows.setdefault(
+                d.get("doi") or str(d.get("id")),
+                {
+                    "repository": "figshare",
+                    "title": text,
+                    "doi": d.get("doi", ""),
+                    "date": (d.get("published_date") or "")[:10],
+                    "license": "",
+                    "url": d.get("url_public_html", ""),
+                },
+            )
+    return sorted(rows.values(), key=lambda r: (r["repository"], r["title"]))
+
+
 # ---------------------------------------------------------------- utama
 
 
@@ -489,6 +601,41 @@ def main() -> None:
         )
         w.writeheader()
         w.writerows(articles)
+    for name, rows_out in (
+        ("brin_rin_datasets.csv", brin_datasets()),
+        ("repository_datasets.csv", repository_datasets()),
+    ):
+        if rows_out:
+            with open(OUT / name, "w", encoding="utf-8", newline="") as f:
+                w = csv.DictWriter(f, list(rows_out[0]), lineterminator="\n")
+                w.writeheader()
+                w.writerows(rows_out)
+    cited = cited_accessions()
+    candidates = []
+    for acc, r in sorted(records.items()):
+        if acc in cited and not r["country"]:
+            code = names.get(binomial(r["organism"]))
+            candidates.append(
+                {
+                    "accession": acc,
+                    "organism": r["organism"],
+                    "spec_code": code if code is not None else "",
+                    "mifish": int(lengths.get(acc, 0) > 0),
+                    "voucher": r["voucher"],
+                    "cited_in_pmcid": ";".join(sorted(set(cited[acc]))),
+                    "title": r["title"][:150],
+                }
+            )
+    if candidates:
+        with open(
+            OUT / "indonesian_specimen_candidates_from_papers.csv",
+            "w",
+            encoding="utf-8",
+            newline="",
+        ) as f:
+            w = csv.DictWriter(f, list(candidates[0]), lineterminator="\n")
+            w.writeheader()
+            w.writerows(candidates)
     sra = latest("sra_edna")
     if sra and (sra / "fastq_urls.tsv").is_file():
         (OUT / "edna_fastq_indonesia.tsv").write_bytes((sra / "fastq_urls.tsv").read_bytes())
@@ -543,6 +690,8 @@ def main() -> None:
         "journal_articles_fish_dna": len(articles),
         "articles_by_journal": dict(Counter(a["journal"] for a in articles)),
         "regulation_candidates": len(regs),
+        "cited_accessions_europepmc": len(cited),
+        "indonesian_specimen_candidates_from_papers": len(candidates),
         "notes": [
             "Eksplorasi otomatis; nama FishBase (CC BY-NC) tanpa tinjauan ahli. Bukan kamus berversi.",
             "MiFish = trim_mifish_fast, setara trim_mifish (R-CUR-05; primer dan mismatch dari rules YAML), diverifikasi identik pada sampel setiap run.",

@@ -52,6 +52,10 @@ MARKER_TERM = (
     '((12S[All Fields] OR "12S ribosomal RNA"[All Fields] OR "small subunit ribosomal RNA"'
     "[All Fields]) OR (mitochondrion[filter] AND 14000:20000[SLEN]))"
 )
+# Kueri per spesies/aksesi juga menangkap rakitan genom utuh (scaffold > 20 kb) yang anotasinya
+# menyebut 12S; unduhan FASTA-nya membengkak dan habis waktu. MiFish ada di mitogenom, jadi
+# panjang dibatasi <= 20 kb (diuji 25 Okt 2026: "Betta splendens" 15 rekaman, 1 di atas 20 kb).
+MARKER_TERM_CAPPED = f"({MARKER_TERM}) AND 50:20000[SLEN]"
 FISHBASE_VERSION = "v25.04"
 FISHBASE_TABLES = [
     "country",
@@ -126,6 +130,12 @@ def _write(path: Path, data: bytes) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
     temp = path.with_suffix(path.suffix + ".partial")
     temp.write_bytes(data)
+    for attempt in range(20):  # Windows: file tujuan bisa sedang dibuka proses lain
+        try:
+            temp.replace(path)
+            return
+        except PermissionError:
+            time.sleep(0.5 * (attempt + 1))
     temp.replace(path)
 
 
@@ -333,14 +343,18 @@ def _genbank_species(dataset: str, names: list[str], description: str) -> None:
         dataset,
         "NCBI GenBank nuccore (E-utilities); daftar nama dari FishBase raw/tropis/fishbase",
         "Kebijakan NCBI: tanpa batasan pemakaian, tanpa jaminan hak pihak ketiga",
-        f"{description}. Nama dibagi per 60 lalu digabung OR sebagai [Organism] AND " + MARKER_TERM,
+        f"{description}. Nama dibagi per 60 lalu digabung OR sebagai [Organism] AND "
+        + MARKER_TERM_CAPPED
+        + " (label *_s20k; label batchNNN lama tanpa batas panjang, gagal)",
     )
     run.manifest["target_species"] = len(names)
     total = 0
     for i in range(0, len(names), 60):
         chunk = names[i : i + 60]
         organisms = " OR ".join(f'"{n}"[Organism]' for n in chunk)
-        total += _genbank_query(run, f"batch{i // 60:03d}", f"({organisms}) AND {MARKER_TERM}")
+        total += _genbank_query(
+            run, f"b{i // 60:03d}_s20k", f"({organisms}) AND {MARKER_TERM_CAPPED}"
+        )
     run.finish(f"{total} rekaman untuk {len(names)} spesies target")
 
 
@@ -475,7 +489,7 @@ def genbank_cited() -> None:
         term = (
             "("
             + " OR ".join(f"{a}[accn]" for a in accs[i : i + 200])
-            + ") AND Actinopterygii[Organism]"
+            + ") AND Actinopterygii[Organism] AND 50:20000[SLEN]"
         )
         total += _genbank_query(run, f"cited{i // 200:03d}", term)
     run.finish(f"{total} rekaman ikan dari {len(accs)} aksesi yang dikutip")
@@ -720,6 +734,137 @@ def literatur() -> None:
     run.finish(f"{len(OPEN_LITERATURE)} PDF literatur")
 
 
+# ---------------------------------------------------------------- BRIN RIN (Dataverse)
+
+RIN = "https://data.brin.go.id/api/"
+RIN_QUERY = (
+    "(ikan OR fish OR pisces OR teleostei) AND (DNA OR COI OR 12S OR 16S OR barcode OR "
+    "barcoding OR mitokondria OR mitochondrial OR eDNA OR metabarcoding OR sekuens)"
+)
+
+
+def brin_rin() -> None:
+    """Repositori Ilmiah Nasional BRIN: metadata dataset DNA ikan + daftar file (terbuka/terkunci).
+
+    Hanya metadata. File terbuka bisa diunduh lewat URL di manifest; file terkunci perlu
+    permintaan akses ke pemilik. Nama file kerap memuat nomor aksesi GenBank publik.
+    """
+    run = Run(
+        "brin_rin",
+        "BRIN Repositori Ilmiah Nasional (Dataverse search + datasets API)",
+        "Per dataset (lihat license/termsOfAccess di metadata)",
+        "search q=" + RIN_QUERY + " type=dataset; datasets/:persistentId untuk tiap hasil",
+    )
+    if not run.has("search.json"):
+        items, start = [], 0
+        while True:
+            page = _json(
+                RIN
+                + "search?"
+                + urllib.parse.urlencode(
+                    {"q": RIN_QUERY, "type": "dataset", "per_page": 100, "start": start}
+                )
+            )["data"]
+            items += page["items"]
+            start += 100
+            if start >= page["total_count"]:
+                break
+            time.sleep(0.5)
+        _write(run.folder / "search.json", json.dumps(items, ensure_ascii=False).encode())
+        run.add("search.json", RIN + "search", len(items))
+    items = json.loads((run.folder / "search.json").read_text("utf-8"))
+    for item in items:
+        pid = item.get("global_id")
+        if not pid:
+            continue
+        name = "dataset_" + pid.split("/")[-1] + ".json"
+        if run.has(name):
+            continue
+        url = RIN + "datasets/:persistentId/?" + urllib.parse.urlencode({"persistentId": pid})
+        _write(run.folder / name, _request(url))
+        run.add(name, url, 1, persistent_id=pid)
+        time.sleep(0.3)
+    run.finish(f"{len(items)} dataset BRIN terkait DNA ikan")
+
+
+# ---------------------------------------------------------------- Repositori data internasional
+
+ZENODO_QUERY = (
+    "+Indonesia +(fish OR fishes OR ikan) +(DNA OR COI OR 12S OR barcode OR barcoding OR "
+    "mitochondrial OR mitogenome OR eDNA OR phylogeny)"
+)
+REPO_QUERIES = [
+    "Indonesia fish DNA",
+    "Indonesia eDNA fish",
+    "Sulawesi fish",
+    "Sumatra fish",
+    "Borneo freshwater fish",
+    "Java fish barcode",
+    "Papua fish",
+    "Sundaland freshwater fish",
+    "Wallacea fish",
+]
+
+
+def repositori() -> None:
+    """Penemuan dataset di Zenodo, Dryad, Figshare (metadata saja; unduhan per dataset manual)."""
+    run = Run(
+        "repositori",
+        "Zenodo records API, Dryad API v2 search, Figshare articles search",
+        "Metadata terbuka; lisensi per dataset tercantum di metadata",
+        "Zenodo q=" + ZENODO_QUERY + " type=dataset (semua halaman); Dryad dan Figshare per "
+        "kueri: " + "; ".join(REPO_QUERIES),
+    )
+    if not run.has("zenodo.json"):
+        hits, page = [], 1
+        while True:
+            data = _json(
+                "https://zenodo.org/api/records?"
+                + urllib.parse.urlencode(
+                    {"q": ZENODO_QUERY, "type": "dataset", "size": 25, "page": page}
+                )
+            )
+            hits += data["hits"]["hits"]
+            if len(hits) >= data["hits"]["total"] or not data["hits"]["hits"]:
+                break
+            page += 1
+            time.sleep(1)
+        _write(run.folder / "zenodo.json", json.dumps(hits, ensure_ascii=False).encode())
+        run.add("zenodo.json", "https://zenodo.org/api/records", len(hits))
+    for i, query in enumerate(REPO_QUERIES):
+        name = f"dryad_{i:02d}.json"
+        if not run.has(name):
+            url = "https://datadryad.org/api/v2/search?" + urllib.parse.urlencode(
+                {"q": query, "per_page": 100}
+            )
+            _write(run.folder / name, _request(url))
+            run.add(
+                name,
+                url,
+                json.loads((run.folder / name).read_text("utf-8")).get("count"),
+                query=query,
+            )
+            time.sleep(1)
+        name = f"figshare_{i:02d}.json"
+        if not run.has(name):
+            body = json.dumps({"search_for": query, "page_size": 200}).encode()
+            req = urllib.request.Request(
+                "https://api.figshare.com/v2/articles/search",
+                data=body,
+                headers={**UA, "Content-Type": "application/json"},
+            )
+            with urllib.request.urlopen(req, timeout=120) as r:
+                _write(run.folder / name, r.read())
+            run.add(
+                name,
+                "https://api.figshare.com/v2/articles/search",
+                len(json.loads((run.folder / name).read_text("utf-8"))),
+                query=query,
+            )
+            time.sleep(1)
+    run.finish("penemuan dataset Zenodo, Dryad, Figshare")
+
+
 # ---------------------------------------------------------------- SRA/ENA (eDNA lapangan)
 
 
@@ -854,6 +999,8 @@ DATASETS: dict[str, tuple[Callable[[], None], str]] = {
         literatur,
         "PDF literatur primer terbuka (Herder 2006 checklist Telmatherinidae)",
     ),
+    "tropis_brin": (brin_rin, "Metadata dataset DNA ikan di Repositori Ilmiah Nasional BRIN"),
+    "tropis_repositori": (repositori, "Penemuan dataset ikan Indonesia di Zenodo, Dryad, Figshare"),
     "tropis_sra": (sra, "BioProject eDNA ikan Indonesia + daftar URL FASTQ ENA (tanpa FASTQ)"),
     "tropis_zenodo_mifish": (zenodo_mifish, "Pustaka 12S MiFish rCRUX+MitoFish (Zenodo, ±27,5 MB)"),
     "tropis_zenodo_mitohelper": (

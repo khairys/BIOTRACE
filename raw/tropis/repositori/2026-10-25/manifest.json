@@ -1,0 +1,146 @@
+{
+ "dataset": "repositori",
+ "source": "Zenodo records API, Dryad API v2 search, Figshare articles search",
+ "license_reported_by_source": "Metadata terbuka; lisensi per dataset tercantum di metadata",
+ "method": "Zenodo q=+Indonesia +(fish OR fishes OR ikan) +(DNA OR COI OR 12S OR barcode OR barcoding OR mitochondrial OR mitogenome OR eDNA OR phylogeny) type=dataset (semua halaman); Dryad dan Figshare per kueri: Indonesia fish DNA; Indonesia eDNA fish; Sulawesi fish; Sumatra fish; Borneo freshwater fish; Java fish barcode; Papua fish; Sundaland freshwater fish; Wallacea fish",
+ "started": "2026-10-25T03:13:28",
+ "queries": {},
+ "files": {
+  "zenodo.json": {
+   "url": "https://zenodo.org/api/records",
+   "bytes": 173796,
+   "sha256": "8d05cd38eb6d4776a081acd3bb37521da3306c94660ee71ab4f5a807d81d90fa",
+   "records": 14
+  },
+  "dryad_00.json": {
+   "url": "https://datadryad.org/api/v2/search?q=Indonesia+fish+DNA&per_page=100",
+   "bytes": 27243,
+   "sha256": "4cdd5c03319ba5cc44817ae5702858c7ce1925dfcd92327e835d8c3f9588d994",
+   "records": 2,
+   "query": "Indonesia fish DNA"
+  },
+  "figshare_00.json": {
+   "url": "https://api.figshare.com/v2/articles/search",
+   "bytes": 10979,
+   "sha256": "0cedc1daea3fe86b404dedad92563d2d3fd85733ac9041214039cacca657e1fc",
+   "records": 9,
+   "query": "Indonesia fish DNA"
+  },
+  "dryad_01.json": {
+   "url": "https://datadryad.org/api/v2/search?q=Indonesia+eDNA+fish&per_page=100",
+   "bytes": 21135,
+   "sha256": "6db682c98528c6cd9357861b24225127204b6028939ec797baf1f366f9614a3d",
+   "records": 1,
+   "query": "Indonesia eDNA fish"
+  },
+  "figshare_01.json": {
+   "url": "https://api.figshare.com/v2/articles/search",
+   "bytes": 2082,
+   "sha256": "0e3213bdbcbba5fdb2850933d250732ab674f5a1e625ac8d4a61d35cd41f2db2",
+   "records": 2,
+   "query": "Indonesia eDNA fish"
+  },
+  "dryad_02.json": {
+   "url": "https://datadryad.org/api/v2/search?q=Sulawesi+fish&per_page=100",
+   "bytes": 58377,
+   "sha256": "15d20f7802a3858d778756fb43a2e9476a081175410ea9ba19a72c3a1eb2d52c",
+   "records": 8,
+   "query": "Sulawesi fish"
+  },
+  "figshare_02.json": {
+   "url": "https://api.figshare.com/v2/articles/search",
+   "bytes": 49469,
+   "sha256": "7d8648f7c7c0d0cff54177ef71f6e86beddf4e6b535cb936e6a9f0f1b010380f",
+   "records": 45,
+   "query": "Sulawesi fish"
+  },
+  "dryad_03.json": {
+   "url": "https://datadryad.org/api/v2/search?q=Sumatra+fish&per_page=100",
+   "bytes": 14000,
+   "sha256": "9d875d75d003ec80b57285568de480559acfc61a734b59f259542ee4c28cf6e8",
+   "records": 2,
+   "query": "Sumatra fish"
+  },
+  "figshare_03.json": {
+   "url": "https://api.figshare.com/v2/articles/search",
+   "bytes": 15976,
+   "sha256": "d16f011f6b253129314f0b104adabdfb1c436c206998301693f7da47b2d7d460",
+   "records": 14,
+   "query": "Sumatra fish"
+  },
+  "dryad_04.json": {
+   "url": "https://datadryad.org/api/v2/search?q=Borneo+freshwater+fish&per_page=100",
+   "bytes": 14030,
+   "sha256": "1468b4a2d10b602cd5c457063845b7194e8767788e2a48dc37b91d2e175bafd4",
+   "records": 2,
+   "query": "Borneo freshwater fish"
+  },
+  "figshare_04.json": {
+   "url": "https://api.figshare.com/v2/articles/search",
+   "bytes": 5809,
+   "sha256": "2b06ec6ea7af179778040b15538af696e7761fe0a83b8967ee8818cc45bfb55a",
+   "records": 5,
+   "query": "Borneo freshwater fish"
+  },
+  "dryad_05.json": {
+   "url": "https://datadryad.org/api/v2/search?q=Java+fish+barcode&per_page=100",
+   "bytes": 6402,
+   "sha256": "3b4afb9d374b109b431bf4dbc37574ce3e9899d9711e19732a3f21cc81b0439c",
+   "records": 1,
+   "query": "Java fish barcode"
+  },
+  "figshare_05.json": {
+   "url": "https://api.figshare.com/v2/articles/search",
+   "bytes": 1012,
+   "sha256": "f3506f64051e227ff457d73dbbe8618dd8a1111b5bd036ad70bce04f2e933999",
+   "records": 1,
+   "query": "Java fish barcode"
+  },
+  "dryad_06.json": {
+   "url": "https://datadryad.org/api/v2/search?q=Papua+fish&per_page=100",
+   "bytes": 134117,
+   "sha256": "6f6e519e12b5c7b0701497df2c97a5bac433a412c7d906f8c714e48ff19fab18",
+   "records": 17,
+   "query": "Papua fish"
+  },
+  "figshare_06.json": {
+   "url": "https://api.figshare.com/v2/articles/search",
+   "bytes": 182461,
+   "sha256": "aec237131ff3c37c5d140e315ccb57957778d10ffbabdf7e1b1c7cab32b9a109",
+   "records": 173,
+   "query": "Papua fish"
+  },
+  "dryad_07.json": {
+   "url": "https://datadryad.org/api/v2/search?q=Sundaland+freshwater+fish&per_page=100",
+   "bytes": 65245,
+   "sha256": "3459182aaa60b8084381acd4b9f32d70b7b76fe9f09f06bfe42dc27fb73b590b",
+   "records": 5,
+   "query": "Sundaland freshwater fish"
+  },
+  "figshare_07.json": {
+   "url": "https://api.figshare.com/v2/articles/search",
+   "bytes": 16896,
+   "sha256": "eee2217b2b53fd3a334c840aa9d35d6268e5c4ea3932e4346b0c639f18fadc56",
+   "records": 14,
+   "query": "Sundaland freshwater fish"
+  },
+  "dryad_08.json": {
+   "url": "https://datadryad.org/api/v2/search?q=Wallacea+fish&per_page=100",
+   "bytes": 13143,
+   "sha256": "5d3c845578bd8f0fc58550fbd8c8a4896554c0675bdf532b7c9bcc6bf5e4e2aa",
+   "records": 2,
+   "query": "Wallacea fish"
+  },
+  "figshare_08.json": {
+   "url": "https://api.figshare.com/v2/articles/search",
+   "bytes": 3192,
+   "sha256": "00d3cdcfac88f86bca01cd57e89efb17b21ba69f5dd25fe81691eaf13118c21a",
+   "records": 3,
+   "query": "Wallacea fish"
+  }
+ },
+ "notes": [],
+ "updated": "2026-10-25T03:14:10",
+ "finished": "2026-10-25T03:14:10",
+ "summary": "penemuan dataset Zenodo, Dryad, Figshare"
+}

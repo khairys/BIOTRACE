@@ -1,0 +1,37 @@
+{
+ "dataset": "europepmc",
+ "source": "Europe PMC REST search + Annotations API",
+ "license_reported_by_source": "Metadata Europe PMC terbuka; teks artikel mengikuti lisensi artikel (CC/OA)",
+ "method": "search query=(Indonesia OR Sulawesi OR Sumatra OR Kalimantan OR Borneo OR Java OR Papua OR Maluku) AND (fish OR fishes) AND (GenBank OR \"accession number\" OR \"accession numbers\" OR BOLD) AND OPEN_ACCESS:y; annotationsByArticleIds type=Accession Numbers per 8 PMCID",
+ "started": "2026-10-25T03:00:17",
+ "queries": {
+  "search": {
+   "query": "(Indonesia OR Sulawesi OR Sumatra OR Kalimantan OR Borneo OR Java OR Papua OR Maluku) AND (fish OR fishes) AND (GenBank OR \"accession number\" OR \"accession numbers\" OR BOLD) AND OPEN_ACCESS:y",
+   "hits": 3206
+  }
+ },
+ "files": {
+  "articles.json": {
+   "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search",
+   "bytes": 3115104,
+   "sha256": "84be22cae0b20e6008cadf9208b940b9bd98488fa9832e6ea44afa7064134b60",
+   "records": 3206
+  },
+  "accession_annotations.json": {
+   "url": "https://www.ebi.ac.uk/europepmc/annotations_api/annotationsByArticleIds",
+   "bytes": 1060115,
+   "sha256": "d5611741974aaca0a1fdf1c2a7a9a265fa83736be940e6cb7886ec0084265f16",
+   "records": 3183
+  },
+  "cited_accessions.txt": {
+   "url": "turunan accession_annotations.json",
+   "bytes": 476264,
+   "sha256": "0700381651d08fb8639810466688f6df574ff23b365fbf502f5af7c57994ced4",
+   "records": 53240
+  }
+ },
+ "notes": [],
+ "updated": "2026-10-25T03:12:50",
+ "finished": "2026-10-25T03:12:50",
+ "summary": "3206 artikel OA, 3183 PMCID, 53240 aksesi nukleotida unik"
+}

@@ -1,0 +1,468 @@
+{
+ "dataset": "brin_rin",
+ "source": "BRIN Repositori Ilmiah Nasional (Dataverse search + datasets API)",
+ "license_reported_by_source": "Per dataset (lihat license/termsOfAccess di metadata)",
+ "method": "search q=(ikan OR fish OR pisces OR teleostei) AND (DNA OR COI OR 12S OR 16S OR barcode OR barcoding OR mitokondria OR mitochondrial OR eDNA OR metabarcoding OR sekuens) type=dataset; datasets/:persistentId untuk tiap hasil",
+ "started": "2026-10-25T03:04:42",
+ "queries": {},
+ "files": {
+  "search.json": {
+   "url": "https://data.brin.go.id/api/search",
+   "bytes": 333151,
+   "sha256": "7667e770440d09d4ae077873a632b5fefa254888f25d818189be369c1d783fc2",
+   "records": 64
+  },
+  "dataset_H6VXUK.json": {
+   "url": "https://data.brin.go.id/api/datasets/:persistentId/?persistentId=hdl%3A20.500.12690%2FRIN%2FH6VXUK",
+   "bytes": 71397,
+   "sha256": "d1e591d92a5b28a05a139b50bafa80a98c787097b06c883f06f315d70ea8dcc7",
+   "records": 1,
+   "persistent_id": "hdl:20.500.12690/RIN/H6VXUK"
+  },
+  "dataset_BVOY3V.json": {
+   "url": "https://data.brin.go.id/api/datasets/:persistentId/?persistentId=hdl%3A20.500.12690%2FRIN%2FBVOY3V",
+   "bytes": 11069,
+   "sha256": "b0fc0237e3b7552af30f46ac2c7068e4916d3e6565e94b925e182989e66f08cb",
+   "records": 1,
+   "persistent_id": "hdl:20.500.12690/RIN/BVOY3V"
+  },
+  "dataset_OAS7CO.json": {
+   "url": "https://data.brin.go.id/api/datasets/:persistentId/?persistentId=hdl%3A20.500.12690%2FRIN%2FOAS7CO",
+   "bytes": 3797,
+   "sha256": "7ea0fb06519ac8a2252fa6e1a0e86eab0a20de1444298a59df1e97c4128508bb",
+   "records": 1,
+   "persistent_id": "hdl:20.500.12690/RIN/OAS7CO"
+  },
+  "dataset_6FWPQR.json": {
+   "url": "https://data.brin.go.id/api/datasets/:persistentId/?persistentId=hdl%3A20.500.12690%2FRIN%2F6FWPQR",
+   "bytes": 76633,
+   "sha256": "afe042a4a9360dad673b835b2ef525917dd17bc426e79fdcb8a96978c520fe05",
+   "records": 1,
+   "persistent_id": "hdl:20.500.12690/RIN/6FWPQR"
+  },
+  "dataset_COFLU1.json": {
+   "url": "https://data.brin.go.id/api/datasets/:persistentId/?persistentId=hdl%3A20.500.12690%2FRIN%2FCOFLU1",
+   "bytes": 14415,
+   "sha256": "442ccfcb8ce699e049f2221c560362b5cefe963152c2d0e0046bd418bac3eb6d",
+   "records": 1,
+   "persistent_id": "hdl:20.500.12690/RIN/COFLU1"
+  },
+  "dataset_OG8ADS.json": {
+   "url": "https://data.brin.go.id/api/datasets/:persistentId/?persistentId=hdl%3A20.500.12690%2FRIN%2FOG8ADS",
+   "bytes": 16120,
+   "sha256": "c26138e26fcf57ce982e80c5ae624fca17e8c7b1cda5333d4c2aa0e526f0887e",
+   "records": 1,
+   "persistent_id": "hdl:20.500.12690/RIN/OG8ADS"
+  },
+  "dataset_JGR82X.json": {
+   "url": "https://data.brin.go.id/api/datasets/:persistentId/?persistentId=hdl%3A20.500.12690%2FRIN%2FJGR82X",
+   "bytes": 6026,
+   "sha256": "dde3db1f3cd117101214848d5547f02d8a1b651514cb8d6df05f8c4fb254df35",
+   "records": 1,
+   "persistent_id": "hdl:20.500.12690/RIN/JGR82X"
+  },
+  "dataset_H0J1FM.json": {
+   "url": "https://data.brin.go.id/api/datasets/:persistentId/?persistentId=hdl%3A20.500.12690%2FRIN%2FH0J1FM",
+   "bytes": 5144,
+   "sha256": "c2bb202eca002eaac988ea9655b137979b2de6d59e5e6dbb3403cbe9f495eaad",
+   "records": 1,
+   "persistent_id": "hdl:20.500.12690/RIN/H0J1FM"
+  },
+  "dataset_KHPVZE.json": {
+   "url": "https://data.brin.go.id/api/datasets/:persistentId/?persistentId=hdl%3A20.500.12690%2FRIN%2FKHPVZE",
+   "bytes": 5790,
+   "sha256": "99db81ed449df8dab65dda92c63df24e1542f8cd1a17fc92be89ec1c1a447628",
+   "records": 1,
+   "persistent_id": "hdl:20.500.12690/RIN/KHPVZE"
+  },
+  "dataset_DDIQC9.json": {
+   "url": "https://data.brin.go.id/api/datasets/:persistentId/?persistentId=hdl%3A20.500.12690%2FRIN%2FDDIQC9",
+   "bytes": 3069,
+   "sha256": "97d2a5b3a6d390a26541a26c7e5d8123cb558de1eb3898c46a59c42086ca9860",
+   "records": 1,
+   "persistent_id": "hdl:20.500.12690/RIN/DDIQC9"
+  },
+  "dataset_DWCZZP.json": {
+   "url": "https://data.brin.go.id/api/datasets/:persistentId/?persistentId=hdl%3A20.500.12690%2FRIN%2FDWCZZP",
+   "bytes": 12277,
+   "sha256": "48e5e026dfb823695d2c809aca48f628f7506456e6707568d4bd67c25ae39100",
+   "records": 1,
+   "persistent_id": "hdl:20.500.12690/RIN/DWCZZP"
+  },
+  "dataset_IK4CZZ.json": {
+   "url": "https://data.brin.go.id/api/datasets/:persistentId/?persistentId=hdl%3A20.500.12690%2FRIN%2FIK4CZZ",
+   "bytes": 9419,
+   "sha256": "7868f3d39b5cc74c5860fb941ec3941126fd3e5f88aa5c64e5a8daf2a742b655",
+   "records": 1,
+   "persistent_id": "hdl:20.500.12690/RIN/IK4CZZ"
+  },
+  "dataset_VKXWRL.json": {
+   "url": "https://data.brin.go.id/api/datasets/:persistentId/?persistentId=hdl%3A20.500.12690%2FRIN%2FVKXWRL",
+   "bytes": 13925,
+   "sha256": "12726a90af2855bbc093b3efdb72cb1955e1ceab48517e5f48f3f67241d63e88",
+   "records": 1,
+   "persistent_id": "hdl:20.500.12690/RIN/VKXWRL"
+  },
+  "dataset_KCJSUA.json": {
+   "url": "https://data.brin.go.id/api/datasets/:persistentId/?persistentId=hdl%3A20.500.12690%2FRIN%2FKCJSUA",
+   "bytes": 8768,
+   "sha256": "f698833808f8762518e01b45ef7543be38cc2a7ec48f05be20d764d90612bdc8",
+   "records": 1,
+   "persistent_id": "hdl:20.500.12690/RIN/KCJSUA"
+  },
+  "dataset_QI9E34.json": {
+   "url": "https://data.brin.go.id/api/datasets/:persistentId/?persistentId=hdl%3A20.500.12690%2FRIN%2FQI9E34",
+   "bytes": 26248,
+   "sha256": "84d1d80d443440607c7bb71ff731f8843d85357a366239e9874879ad799f62f3",
+   "records": 1,
+   "persistent_id": "hdl:20.500.12690/RIN/QI9E34"
+  },
+  "dataset_PNVYTU.json": {
+   "url": "https://data.brin.go.id/api/datasets/:persistentId/?persistentId=hdl%3A20.500.12690%2FRIN%2FPNVYTU",
+   "bytes": 20848,
+   "sha256": "8c9a7f6094507d2d660d65904fa73f880d61032d3a372163d273b6f301c9f7e9",
+   "records": 1,
+   "persistent_id": "hdl:20.500.12690/RIN/PNVYTU"
+  },
+  "dataset_6VN9RM.json": {
+   "url": "https://data.brin.go.id/api/datasets/:persistentId/?persistentId=hdl%3A20.500.12690%2FRIN%2F6VN9RM",
+   "bytes": 25475,
+   "sha256": "f536b3a4ea67b03ce3731526500d42ee987643f1ed1f8153a73bd5d5268da096",
+   "records": 1,
+   "persistent_id": "hdl:20.500.12690/RIN/6VN9RM"
+  },
+  "dataset_HUONEL.json": {
+   "url": "https://data.brin.go.id/api/datasets/:persistentId/?persistentId=hdl%3A20.500.12690%2FRIN%2FHUONEL",
+   "bytes": 9465,
+   "sha256": "968b2bf7f645481ba14644d469618d196789e433be6f8e11eda817da5792e224",
+   "records": 1,
+   "persistent_id": "hdl:20.500.12690/RIN/HUONEL"
+  },
+  "dataset_KLG3SS.json": {
+   "url": "https://data.brin.go.id/api/datasets/:persistentId/?persistentId=hdl%3A20.500.12690%2FRIN%2FKLG3SS",
+   "bytes": 12568,
+   "sha256": "fca3d71ac24124552ef805e099d38077fcb29da0d7a4273d96cef1ba1561889e",
+   "records": 1,
+   "persistent_id": "hdl:20.500.12690/RIN/KLG3SS"
+  },
+  "dataset_CHZYDF.json": {
+   "url": "https://data.brin.go.id/api/datasets/:persistentId/?persistentId=hdl%3A20.500.12690%2FRIN%2FCHZYDF",
+   "bytes": 11136,
+   "sha256": "3f27c92766fec8227ce4d31baf0b9158c12821f2dab5b4f6c69b7eec5e5d797a",
+   "records": 1,
+   "persistent_id": "hdl:20.500.12690/RIN/CHZYDF"
+  },
+  "dataset_SJTNJN.json": {
+   "url": "https://data.brin.go.id/api/datasets/:persistentId/?persistentId=hdl%3A20.500.12690%2FRIN%2FSJTNJN",
+   "bytes": 21303,
+   "sha256": "28073d4a4d5af23899afbc938336bdeef686a32f8fc18f51f9383fe772064ffd",
+   "records": 1,
+   "persistent_id": "hdl:20.500.12690/RIN/SJTNJN"
+  },
+  "dataset_OJMFA5.json": {
+   "url": "https://data.brin.go.id/api/datasets/:persistentId/?persistentId=hdl%3A20.500.12690%2FRIN%2FOJMFA5",
+   "bytes": 11360,
+   "sha256": "f4dbe534ac41bfc52998db8fdbf177e9e83676cd0cca7791463fd24794dd5dc8",
+   "records": 1,
+   "persistent_id": "hdl:20.500.12690/RIN/OJMFA5"
+  },
+  "dataset_SCMF1U.json": {
+   "url": "https://data.brin.go.id/api/datasets/:persistentId/?persistentId=hdl%3A20.500.12690%2FRIN%2FSCMF1U",
+   "bytes": 8984,
+   "sha256": "00907e9d15e4bee9f398aa7126ca7c83714f9db3a481dd32623f0cce7dedeaaf",
+   "records": 1,
+   "persistent_id": "hdl:20.500.12690/RIN/SCMF1U"
+  },
+  "dataset_QLM1KX.json": {
+   "url": "https://data.brin.go.id/api/datasets/:persistentId/?persistentId=hdl%3A20.500.12690%2FRIN%2FQLM1KX",
+   "bytes": 13206,
+   "sha256": "c787f9b0e7004b81305a441010c9adc71f839051832e94ab7431fd04a8c554ba",
+   "records": 1,
+   "persistent_id": "hdl:20.500.12690/RIN/QLM1KX"
+  },
+  "dataset_2I6Q5D.json": {
+   "url": "https://data.brin.go.id/api/datasets/:persistentId/?persistentId=hdl%3A20.500.12690%2FRIN%2F2I6Q5D",
+   "bytes": 17827,
+   "sha256": "d32d7948596efa90b94f78b720324ab68e0090578460e8892e9be15392120940",
+   "records": 1,
+   "persistent_id": "hdl:20.500.12690/RIN/2I6Q5D"
+  },
+  "dataset_ZE486Z.json": {
+   "url": "https://data.brin.go.id/api/datasets/:persistentId/?persistentId=hdl%3A20.500.12690%2FRIN%2FZE486Z",
+   "bytes": 3743,
+   "sha256": "6ebe3f88ab893e3c4897d4c379114be1dcb91f23847e27edd96940195eddbe9a",
+   "records": 1,
+   "persistent_id": "hdl:20.500.12690/RIN/ZE486Z"
+  },
+  "dataset_PZCFSQ.json": {
+   "url": "https://data.brin.go.id/api/datasets/:persistentId/?persistentId=hdl%3A20.500.12690%2FRIN%2FPZCFSQ",
+   "bytes": 4905,
+   "sha256": "394ef91d594db3ebec31a4d4c1a776e071806b7b278ef7cbf1b88f6c841a4a09",
+   "records": 1,
+   "persistent_id": "hdl:20.500.12690/RIN/PZCFSQ"
+  },
+  "dataset_4NTVQH.json": {
+   "url": "https://data.brin.go.id/api/datasets/:persistentId/?persistentId=hdl%3A20.500.12690%2FRIN%2F4NTVQH",
+   "bytes": 13379,
+   "sha256": "a982251283a387a5aa8b511731e3e8d3d5e255c03034a47fc5a8de294f8862ad",
+   "records": 1,
+   "persistent_id": "hdl:20.500.12690/RIN/4NTVQH"
+  },
+  "dataset_9DSUNG.json": {
+   "url": "https://data.brin.go.id/api/datasets/:persistentId/?persistentId=hdl%3A20.500.12690%2FRIN%2F9DSUNG",
+   "bytes": 12577,
+   "sha256": "c832ac6b546ee17cbb71fba08ce829500cf34f0379c51521d0cef75dc0fd0b3c",
+   "records": 1,
+   "persistent_id": "hdl:20.500.12690/RIN/9DSUNG"
+  },
+  "dataset_OFCAMO.json": {
+   "url": "https://data.brin.go.id/api/datasets/:persistentId/?persistentId=hdl%3A20.500.12690%2FRIN%2FOFCAMO",
+   "bytes": 12967,
+   "sha256": "0557fa717b61935525145b4929c8c6fae283437e1557cb15e46e5add86819274",
+   "records": 1,
+   "persistent_id": "hdl:20.500.12690/RIN/OFCAMO"
+  },
+  "dataset_HHUOZK.json": {
+   "url": "https://data.brin.go.id/api/datasets/:persistentId/?persistentId=hdl%3A20.500.12690%2FRIN%2FHHUOZK",
+   "bytes": 3854,
+   "sha256": "addf687981e26de1b2b15732d3d578e46b8a75a82cbc1867ceb6802580192ec4",
+   "records": 1,
+   "persistent_id": "hdl:20.500.12690/RIN/HHUOZK"
+  },
+  "dataset_JZGKPS.json": {
+   "url": "https://data.brin.go.id/api/datasets/:persistentId/?persistentId=hdl%3A20.500.12690%2FRIN%2FJZGKPS",
+   "bytes": 11503,
+   "sha256": "d2ac323692875a6b1613ce74b5757393de07d4990502b9f7e80da09484adbd58",
+   "records": 1,
+   "persistent_id": "hdl:20.500.12690/RIN/JZGKPS"
+  },
+  "dataset_D81ECU.json": {
+   "url": "https://data.brin.go.id/api/datasets/:persistentId/?persistentId=hdl%3A20.500.12690%2FRIN%2FD81ECU",
+   "bytes": 16980,
+   "sha256": "d0a513c318eae1b5119e2beed84cab3f4ccde405340b84296e9c8992748a2ecf",
+   "records": 1,
+   "persistent_id": "hdl:20.500.12690/RIN/D81ECU"
+  },
+  "dataset_3B7RRG.json": {
+   "url": "https://data.brin.go.id/api/datasets/:persistentId/?persistentId=hdl%3A20.500.12690%2FRIN%2F3B7RRG",
+   "bytes": 6130,
+   "sha256": "a78b3c13fcb2665fd33925e32be345375a81add30cd792c0391a0fc96a64868c",
+   "records": 1,
+   "persistent_id": "hdl:20.500.12690/RIN/3B7RRG"
+  },
+  "dataset_PZCO9C.json": {
+   "url": "https://data.brin.go.id/api/datasets/:persistentId/?persistentId=hdl%3A20.500.12690%2FRIN%2FPZCO9C",
+   "bytes": 24117,
+   "sha256": "245a54f79cc831275bbdd8cd0bc1e81d67d807344ed42bd1c18753f7ab7cd957",
+   "records": 1,
+   "persistent_id": "hdl:20.500.12690/RIN/PZCO9C"
+  },
+  "dataset_GK9RND.json": {
+   "url": "https://data.brin.go.id/api/datasets/:persistentId/?persistentId=hdl%3A20.500.12690%2FRIN%2FGK9RND",
+   "bytes": 15368,
+   "sha256": "6e1063048f6b9ad9a4a74d3d9399ddaa6516d04442f75a9300c8e5fedda20af0",
+   "records": 1,
+   "persistent_id": "hdl:20.500.12690/RIN/GK9RND"
+  },
+  "dataset_FQKQ2P.json": {
+   "url": "https://data.brin.go.id/api/datasets/:persistentId/?persistentId=hdl%3A20.500.12690%2FRIN%2FFQKQ2P",
+   "bytes": 12575,
+   "sha256": "1988cf675092b38eb43275e97f9c7bd06a7b2966f72d419ce65c3ac70d9d4fa6",
+   "records": 1,
+   "persistent_id": "hdl:20.500.12690/RIN/FQKQ2P"
+  },
+  "dataset_Z2I0TC.json": {
+   "url": "https://data.brin.go.id/api/datasets/:persistentId/?persistentId=hdl%3A20.500.12690%2FRIN%2FZ2I0TC",
+   "bytes": 11139,
+   "sha256": "d3e930e04eb31aca1356a0bd0675c9cc44a7b7350f5a18bb8391fde0e659e9d2",
+   "records": 1,
+   "persistent_id": "hdl:20.500.12690/RIN/Z2I0TC"
+  },
+  "dataset_Q8QQCM.json": {
+   "url": "https://data.brin.go.id/api/datasets/:persistentId/?persistentId=hdl%3A20.500.12690%2FRIN%2FQ8QQCM",
+   "bytes": 19456,
+   "sha256": "c8e65bf13928f2b34a0c016dca638e7a5b760fcf2b7e5ba732e66526ae5f7f70",
+   "records": 1,
+   "persistent_id": "hdl:20.500.12690/RIN/Q8QQCM"
+  },
+  "dataset_IIZRN2.json": {
+   "url": "https://data.brin.go.id/api/datasets/:persistentId/?persistentId=hdl%3A20.500.12690%2FRIN%2FIIZRN2",
+   "bytes": 15884,
+   "sha256": "75b9f6dee866a7fd3b0a191421ac86b9227deda496c9533bcefd239dc81482b8",
+   "records": 1,
+   "persistent_id": "hdl:20.500.12690/RIN/IIZRN2"
+  },
+  "dataset_MZTYN2.json": {
+   "url": "https://data.brin.go.id/api/datasets/:persistentId/?persistentId=hdl%3A20.500.12690%2FRIN%2FMZTYN2",
+   "bytes": 13605,
+   "sha256": "594750ff3608975ccee00a9f17ebb48aae2c3239ba1efccbb9fd70321d1d6969",
+   "records": 1,
+   "persistent_id": "hdl:20.500.12690/RIN/MZTYN2"
+  },
+  "dataset_NEAL5F.json": {
+   "url": "https://data.brin.go.id/api/datasets/:persistentId/?persistentId=hdl%3A20.500.12690%2FRIN%2FNEAL5F",
+   "bytes": 12765,
+   "sha256": "d8aed4594fb199afd278ed4d3d80b357fba0615c8ce1da7ff3faa9d6aa01a2e8",
+   "records": 1,
+   "persistent_id": "hdl:20.500.12690/RIN/NEAL5F"
+  },
+  "dataset_EGM76L.json": {
+   "url": "https://data.brin.go.id/api/datasets/:persistentId/?persistentId=hdl%3A20.500.12690%2FRIN%2FEGM76L",
+   "bytes": 9909,
+   "sha256": "2ed0e5095d99c23646d5a00c01b8163f9051733b7e50ffa247568d21da9203d6",
+   "records": 1,
+   "persistent_id": "hdl:20.500.12690/RIN/EGM76L"
+  },
+  "dataset_FE8V6R.json": {
+   "url": "https://data.brin.go.id/api/datasets/:persistentId/?persistentId=hdl%3A20.500.12690%2FRIN%2FFE8V6R",
+   "bytes": 6127,
+   "sha256": "fc61f59a4f4081008f261009262cc7057b9468f349ff67c423a8aca87c44982f",
+   "records": 1,
+   "persistent_id": "hdl:20.500.12690/RIN/FE8V6R"
+  },
+  "dataset_SXNAWA.json": {
+   "url": "https://data.brin.go.id/api/datasets/:persistentId/?persistentId=hdl%3A20.500.12690%2FRIN%2FSXNAWA",
+   "bytes": 5305,
+   "sha256": "7fe4b9aa160e4697187b081c4e03f7695d4e258e6d687df16e26ca4ad0e1e642",
+   "records": 1,
+   "persistent_id": "hdl:20.500.12690/RIN/SXNAWA"
+  },
+  "dataset_2LRDHD.json": {
+   "url": "https://data.brin.go.id/api/datasets/:persistentId/?persistentId=hdl%3A20.500.12690%2FRIN%2F2LRDHD",
+   "bytes": 3228,
+   "sha256": "e82ce01c25c09746aa4ea92565f1b0ec870a11018b827796e443debdc7d29012",
+   "records": 1,
+   "persistent_id": "hdl:20.500.12690/RIN/2LRDHD"
+  },
+  "dataset_FDLXYF.json": {
+   "url": "https://data.brin.go.id/api/datasets/:persistentId/?persistentId=hdl%3A20.500.12690%2FRIN%2FFDLXYF",
+   "bytes": 15716,
+   "sha256": "a417e1ffdfc59ab5b45c15961575548c83c3c3da180515e29389de04b1865b22",
+   "records": 1,
+   "persistent_id": "hdl:20.500.12690/RIN/FDLXYF"
+  },
+  "dataset_JKZLFB.json": {
+   "url": "https://data.brin.go.id/api/datasets/:persistentId/?persistentId=hdl%3A20.500.12690%2FRIN%2FJKZLFB",
+   "bytes": 12802,
+   "sha256": "ed0b3100c5dcf28c58587645df7a5348e1e00431989fb0381328dbffbf41aa84",
+   "records": 1,
+   "persistent_id": "hdl:20.500.12690/RIN/JKZLFB"
+  },
+  "dataset_CEENGU.json": {
+   "url": "https://data.brin.go.id/api/datasets/:persistentId/?persistentId=hdl%3A20.500.12690%2FRIN%2FCEENGU",
+   "bytes": 16639,
+   "sha256": "3eef54f37fb1ec51eedb617b60b900ffa11876a532c8f5e8a1d14367f827c8ba",
+   "records": 1,
+   "persistent_id": "hdl:20.500.12690/RIN/CEENGU"
+  },
+  "dataset_ERXQVG.json": {
+   "url": "https://data.brin.go.id/api/datasets/:persistentId/?persistentId=hdl%3A20.500.12690%2FRIN%2FERXQVG",
+   "bytes": 16090,
+   "sha256": "3e8d08bcaf66c3d2b31ed847266a29020d0c4ec1da9c941d59b73a6c202b2a1d",
+   "records": 1,
+   "persistent_id": "hdl:20.500.12690/RIN/ERXQVG"
+  },
+  "dataset_VJ521Z.json": {
+   "url": "https://data.brin.go.id/api/datasets/:persistentId/?persistentId=hdl%3A20.500.12690%2FRIN%2FVJ521Z",
+   "bytes": 15724,
+   "sha256": "ffece4ed86e4f05c43e6f7e26456b688336d33e3fc4c5788968f0eb3df6d0539",
+   "records": 1,
+   "persistent_id": "hdl:20.500.12690/RIN/VJ521Z"
+  },
+  "dataset_B9CLXX.json": {
+   "url": "https://data.brin.go.id/api/datasets/:persistentId/?persistentId=hdl%3A20.500.12690%2FRIN%2FB9CLXX",
+   "bytes": 19857,
+   "sha256": "1e1f35c26b4d60ec15178d4d620d6da280f872a80c43831815b17c6c7efdf695",
+   "records": 1,
+   "persistent_id": "hdl:20.500.12690/RIN/B9CLXX"
+  },
+  "dataset_LS3CYU.json": {
+   "url": "https://data.brin.go.id/api/datasets/:persistentId/?persistentId=hdl%3A20.500.12690%2FRIN%2FLS3CYU",
+   "bytes": 15686,
+   "sha256": "3c4494fa419436ca4289bc0c85b954ec98cd636a8727e5d8f4b7ff3cef28bb1e",
+   "records": 1,
+   "persistent_id": "hdl:20.500.12690/RIN/LS3CYU"
+  },
+  "dataset_ULQDHU.json": {
+   "url": "https://data.brin.go.id/api/datasets/:persistentId/?persistentId=hdl%3A20.500.12690%2FRIN%2FULQDHU",
+   "bytes": 13294,
+   "sha256": "a846d1060f2aa9c96e32adddd0afb6f76d5148a59100abde7b28472db3d88833",
+   "records": 1,
+   "persistent_id": "hdl:20.500.12690/RIN/ULQDHU"
+  },
+  "dataset_6R5HXB.json": {
+   "url": "https://data.brin.go.id/api/datasets/:persistentId/?persistentId=hdl%3A20.500.12690%2FRIN%2F6R5HXB",
+   "bytes": 12446,
+   "sha256": "2cb2b2b5deae70a253f63e3b35983a40a99d084723913224f47e629e1ebedccc",
+   "records": 1,
+   "persistent_id": "hdl:20.500.12690/RIN/6R5HXB"
+  },
+  "dataset_VEVGR9.json": {
+   "url": "https://data.brin.go.id/api/datasets/:persistentId/?persistentId=hdl%3A20.500.12690%2FRIN%2FVEVGR9",
+   "bytes": 11281,
+   "sha256": "c824d2609f55213417e93e40bcb72468100bb9e5d698dc375935a4c6335d29d5",
+   "records": 1,
+   "persistent_id": "hdl:20.500.12690/RIN/VEVGR9"
+  },
+  "dataset_RL9EX1.json": {
+   "url": "https://data.brin.go.id/api/datasets/:persistentId/?persistentId=hdl%3A20.500.12690%2FRIN%2FRL9EX1",
+   "bytes": 11798,
+   "sha256": "7ce758ad0898ef37397e3e470b9ff0f2a6a04761e5c467925aa8acaef3da2ae3",
+   "records": 1,
+   "persistent_id": "hdl:20.500.12690/RIN/RL9EX1"
+  },
+  "dataset_LY9DYI.json": {
+   "url": "https://data.brin.go.id/api/datasets/:persistentId/?persistentId=hdl%3A20.500.12690%2FRIN%2FLY9DYI",
+   "bytes": 16986,
+   "sha256": "3a1bf6e08ce95626a586144136aed1aec9752a3a122eff8cba0aa450b0d39a3c",
+   "records": 1,
+   "persistent_id": "hdl:20.500.12690/RIN/LY9DYI"
+  },
+  "dataset_KFWQPJ.json": {
+   "url": "https://data.brin.go.id/api/datasets/:persistentId/?persistentId=hdl%3A20.500.12690%2FRIN%2FKFWQPJ",
+   "bytes": 8778,
+   "sha256": "423b80d424f18d114eb0dd00f6519b8a33ee96a3badcedbb7b60ac1c1988111d",
+   "records": 1,
+   "persistent_id": "hdl:20.500.12690/RIN/KFWQPJ"
+  },
+  "dataset_9VLYEY.json": {
+   "url": "https://data.brin.go.id/api/datasets/:persistentId/?persistentId=hdl%3A20.500.12690%2FRIN%2F9VLYEY",
+   "bytes": 10611,
+   "sha256": "d57d8e386c211274991f9d33cec093de62b369a5237a0fa694a087164a48252e",
+   "records": 1,
+   "persistent_id": "hdl:20.500.12690/RIN/9VLYEY"
+  },
+  "dataset_JZ1CAH.json": {
+   "url": "https://data.brin.go.id/api/datasets/:persistentId/?persistentId=hdl%3A20.500.12690%2FRIN%2FJZ1CAH",
+   "bytes": 8867,
+   "sha256": "45ece8d141b46380e24198129bda01643d1a35ad6532cf65073d34ca1fd7c1c0",
+   "records": 1,
+   "persistent_id": "hdl:20.500.12690/RIN/JZ1CAH"
+  },
+  "dataset_1EBL8O.json": {
+   "url": "https://data.brin.go.id/api/datasets/:persistentId/?persistentId=hdl%3A20.500.12690%2FRIN%2F1EBL8O",
+   "bytes": 8780,
+   "sha256": "3405e18829ca685e64b4598c002e85ba77b264f6f650d196005c9b9f42442a51",
+   "records": 1,
+   "persistent_id": "hdl:20.500.12690/RIN/1EBL8O"
+  },
+  "dataset_BDBCHN.json": {
+   "url": "https://data.brin.go.id/api/datasets/:persistentId/?persistentId=hdl%3A20.500.12690%2FRIN%2FBDBCHN",
+   "bytes": 4788,
+   "sha256": "ee51e2059bae8537184a269389400674bff22d4402dfb5b32fccc9eea9f53423",
+   "records": 1,
+   "persistent_id": "hdl:20.500.12690/RIN/BDBCHN"
+  },
+  "dataset_1NCZQO.json": {
+   "url": "https://data.brin.go.id/api/datasets/:persistentId/?persistentId=hdl%3A20.500.12690%2FRIN%2F1NCZQO",
+   "bytes": 121162,
+   "sha256": "8fc643a78589159c22f1e9e60780dcd01b13a3e2d13df34b9508f4a20b0334a8",
+   "records": 1,
+   "persistent_id": "hdl:20.500.12690/RIN/1NCZQO"
+  }
+ },
+ "notes": [],
+ "updated": "2026-10-25T03:05:23",
+ "finished": "2026-10-25T03:05:23",
+ "summary": "64 dataset BRIN terkait DNA ikan"
+}
