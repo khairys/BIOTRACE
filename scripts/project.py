@@ -40,6 +40,7 @@ def main() -> None:
             run(uv, "run", "python", "scripts/install_tools.py", "--blast")
         run(uv, "run", "python", "scripts/prepare_data.py", "indonesia")
         run(uv, "run", "python", "scripts/prepare_data.py", "indonesia_v02")
+        run(uv, "run", "python", "scripts/prepare_data.py", "indonesia_v03")
         if not (ROOT / "data/demo/matano_SIMULASI_v3").exists():
             run(uv, "run", "python", "scripts/make_demo_data.py")
     elif task in {"test", "test-slow"}:
