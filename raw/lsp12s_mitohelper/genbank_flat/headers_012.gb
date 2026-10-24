@@ -1,0 +1,2038 @@
+LOCUS       NC_001606                  1 bp    DNA     linear   VRT 03-APR-2023
+DEFINITION  Cyprinus carpio mitochondrion, complete genome.
+ACCESSION   NC_001606 REGION: 1
+VERSION     NC_001606.1
+DBLINK      BioProject: PRJNA927338
+KEYWORDS    RefSeq.
+SOURCE      mitochondrion Cyprinus carpio (common carp)
+  ORGANISM  Cyprinus carpio
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Cyprinidae; Cyprininae; Cyprinus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Chang,Y.S., Huang,F.L. and Lo,T.B.
+  TITLE     The complete nucleotide sequence and gene organization of carp
+            (Cyprinus carpio) mitochondrial genome
+  JOURNAL   J. Mol. Evol. 38 (2), 138-155 (1994)
+   PUBMED   8169959
+REFERENCE   2  (bases 1 to 1)
+  CONSRTM   NCBI Genome Project
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-APR-2003) National Center for Biotechnology
+            Information, NIH, Bethesda, MD 20894, USA
+REFERENCE   3  (bases 1 to 1)
+  AUTHORS   Huang,Fl.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-DEC-1993) F.L. Huang, Institute of Biological
+            Chemistry, Academia Sinica, P O Box 23-106, Taipei, Taiwan
+REFERENCE   4  (bases 1 to 1)
+  AUTHORS   Huang,Fl.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-JUL-1991) F.L. Huang, Institute of Biological
+            Chemistry, Academia Sinica, P O Box 23-106, Taipei, Taiwan
+  REMARK    revised by [3]
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to final
+            NCBI review. The reference sequence was derived from X61010.
+            See X00918 and X17006 for overlapping sequences.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Cyprinus carpio"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:7962"
+ORIGIN      
+        1 g
+//
+
+LOCUS       NC_001626                  1 bp    DNA     linear   VRT 03-APR-2023
+DEFINITION  Petromyzon marinus mitochondrion, complete genome.
+ACCESSION   NC_001626 REGION: 1
+VERSION     NC_001626.1
+DBLINK      BioProject: PRJNA927338
+KEYWORDS    RefSeq.
+SOURCE      mitochondrion Petromyzon marinus (sea lamprey)
+  ORGANISM  Petromyzon marinus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Cyclostomata;
+            Hyperoartia; Petromyzontiformes; Petromyzontidae; Petromyzon.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Lee,W.J. and Kocher,T.D.
+  TITLE     Complete sequence of a sea lamprey (Petromyzon marinus)
+            mitochondrial genome: early establishment of the vertebrate genome
+            organization
+  JOURNAL   Genetics 139 (2), 873-887 (1995)
+   PUBMED   7713438
+REFERENCE   2  (bases 1 to 1)
+  CONSRTM   NCBI Genome Project
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-SEP-1999) National Center for Biotechnology
+            Information, NIH, Bethesda, MD 20894, USA
+REFERENCE   3  (bases 1 to 1)
+  AUTHORS   Lee,W.-J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-JUL-1994) Woo-Jai Lee, Zoology, University of New
+            Hampshire, Spaulding Life Science Building, Durham, NH 03824, USA
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from U11880.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Petromyzon marinus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:7757"
+                     /dev_stage="adult"
+     gene            >1
+                     /gene="CYTB"
+                     /locus_tag="KEF39_p01"
+                     /db_xref="GeneID:807810"
+     CDS             >1
+                     /gene="CYTB"
+                     /locus_tag="KEF39_p01"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="NP_008147.1"
+                     /db_xref="GeneID:807810"
+                     /translation="MSHQPSIIRKTHPLLSLGNSMLVDLPSPANISAWWNFGSLLSLC
+                     LILQIITGLILAMHYTANTELAFSSVMHICRDVNNGWLMRNLHANGASMFFICIYAHI
+                     GRGIYYGSYLYKETWNVGVILFALTAATAFVGYVLPWGQMSFWGATVITNLISAMPYV
+                     GNDIVVWLWGGFSVSNATLTRFFTFHFILPFILAAMTMIHIMFLHQTGSSNPMGINSN
+                     LDKIQFHPYFSFKDILGFVILLGILFMISLLAPNALGEPDNFIYANPLSTPPHIKPEW
+                     YFLFAYAILRSVPNKLGGVVALAAAIMILLIIPFTHTSKQRGMQFRPLAQITFWILIA
+                     DLALLTWLGGEPAEYPFILMTQIASTVYFMIFILVFPILGYLENKMLLMSKNTGKFNW
+                     KLVY"
+ORIGIN      
+        1 a
+//
+
+LOCUS       NC_052757                  1 bp    DNA     linear   VRT 03-APR-2023
+DEFINITION  Neogobius melanostomus isolate DM352 mitochondrion, complete
+            genome.
+ACCESSION   NC_052757 REGION: 1
+VERSION     NC_052757.1
+DBLINK      BioProject: PRJNA927338
+KEYWORDS    RefSeq.
+SOURCE      mitochondrion Neogobius melanostomus (round goby)
+  ORGANISM  Neogobius melanostomus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Gobiaria; Gobiiformes; Gobioidei; Gobiidae;
+            Benthophilinae; Neogobiini; Neogobius.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Margaryan,A.
+  TITLE     DNAmark Project
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  CONSRTM   NCBI Genome Project
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-FEB-2021) National Center for Biotechnology
+            Information, NIH, Bethesda, MD 20894, USA
+REFERENCE   3  (bases 1 to 1)
+  AUTHORS   Margaryan,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-APR-2020) Section for Evolutionary Genomics,
+            University of Copenhagen, Oester Farimagsgade 5, Copenhagen 1353,
+            Denmark
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence is identical to MT410878.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Neogobius melanostomus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="DM352"
+                     /db_xref="taxon:47308"
+     gene            >1
+                     /gene="trnF(gaa)"
+                     /locus_tag="JR271_mgt01"
+                     /db_xref="GeneID:62623706"
+     tRNA            >1
+                     /gene="trnF(gaa)"
+                     /locus_tag="JR271_mgt01"
+                     /product="tRNA-Phe"
+                     /db_xref="GeneID:62623706"
+ORIGIN      
+        1 g
+//
+
+LOCUS       NC_066908                  1 bp    DNA     linear   VRT 12-APR-2023
+DEFINITION  Oncorhynchus clarkii mitochondrion, complete genome.
+ACCESSION   NC_066908 REGION: 1
+VERSION     NC_066908.1
+DBLINK      BioProject: PRJNA927338
+KEYWORDS    RefSeq.
+SOURCE      mitochondrion Oncorhynchus clarkii (cutthroat trout)
+  ORGANISM  Oncorhynchus clarkii
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Oncorhynchus.
+REFERENCE   1  (bases 1 to 1)
+  CONSRTM   NCBI Genome Project
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-OCT-2022) National Center for Biotechnology
+            Information, NIH, Bethesda, MD 20894, USA
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Dziedzic,E.H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-NOV-2021) Fisheries and Wildlife, Oregon State
+            University, 2820 SW Campus Way, Corvallis, OR 97331, United States
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to final
+            NCBI review. The reference sequence is identical to OL435160.
+            
+            ##Assembly-Data-START##
+            Assembly Method       :: SPAdes v. 3.13.1
+            Sequencing Technology :: Illumina
+            ##Assembly-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oncorhynchus clarkii"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:30962"
+                     /geo_loc_name="USA: Oregon, Linn County, Potts Creek via
+                     logging road, at Calapooia administrative line just
+                     upstream of bridge"
+                     /lat_lon="44.24609 N 122.50153 W"
+                     /collection_date="01-May-2018"
+                     /collected_by="Dan Coffman, Emily Loose"
+     gene            >1
+                     /locus_tag="OF231_mgt01"
+                     /db_xref="GeneID:75508229"
+     tRNA            >1
+                     /locus_tag="OF231_mgt01"
+                     /product="tRNA-Phe"
+                     /db_xref="GeneID:75508229"
+ORIGIN      
+        1 g
+//
+
+LOCUS       NC_066957                  1 bp    DNA     linear   VRT 12-APR-2023
+DEFINITION  Noturus gyrinus mitochondrion, complete genome.
+ACCESSION   NC_066957 REGION: 1
+VERSION     NC_066957.1
+DBLINK      BioProject: PRJNA927338
+KEYWORDS    RefSeq.
+SOURCE      mitochondrion Noturus gyrinus (tadpole madtom)
+  ORGANISM  Noturus gyrinus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi; Siluriformes;
+            Ictaluridae; Noturus.
+REFERENCE   1  (bases 1 to 1)
+  CONSRTM   NCBI Genome Project
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-OCT-2022) National Center for Biotechnology
+            Information, NIH, Bethesda, MD 20894, USA
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Dziedzic,E.H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-DEC-2021) Fisheries and Wildlife, Oregon State
+            University, 2820 SW Campus Way, Corvallis, OR 97331, United States
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to final
+            NCBI review. The reference sequence is identical to OL806601.
+            
+            ##Assembly-Data-START##
+            Assembly Method       :: SPAdes v. 3.13.1
+            Sequencing Technology :: Illumina
+            ##Assembly-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Noturus gyrinus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:90661"
+                     /geo_loc_name="USA: Oregon, Baker County, Snake River by
+                     Farewell Bend State Park boat ramp"
+                     /lat_lon="44.3058575 N 117.223693 W"
+                     /collection_date="25-Sep-2019"
+                     /collected_by="Trevan Cornwell, Staci Stein"
+     gene            >1
+                     /locus_tag="OF358_mgt01"
+                     /db_xref="GeneID:75517257"
+     tRNA            >1
+                     /locus_tag="OF358_mgt01"
+                     /product="tRNA-Phe"
+                     /db_xref="GeneID:75517257"
+ORIGIN      
+        1 g
+//
+
+LOCUS       NC_080906                  1 bp    DNA     linear   VRT 29-JUL-2023
+DEFINITION  Notropis volucellus mitochondrion, complete genome.
+ACCESSION   NC_080906 REGION: 1
+VERSION     NC_080906.1
+DBLINK      BioProject: PRJNA927338
+KEYWORDS    RefSeq.
+SOURCE      mitochondrion Paranotropis volucellus (mimic shiner)
+  ORGANISM  Paranotropis volucellus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Leuciscidae; Paranotropis.
+REFERENCE   1  (bases 1 to 1)
+  CONSRTM   NCBI Genome Project
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-JUL-2023) National Center for Biotechnology
+            Information, NIH, Bethesda, MD 20894, USA
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Ludwig,E.J., Duvernell,D.D. and Lee,V.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-MAY-2023) Biological Sciences, Missouri University of
+            Science and Technology, 400 W 11th Street, Rolla, MO 65409, USA
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to final
+            NCBI review. The reference sequence is identical to OR002146.
+            
+            ##Assembly-Data-START##
+            Assembly Method       :: Geneious v. 2022
+            Sequencing Technology :: Illumina
+            ##Assembly-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Paranotropis volucellus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:3363667"
+                     /geo_loc_name="USA: MO"
+     gene            >1
+                     /gene="trnF(gaa)"
+                     /locus_tag="Q6B34_mgt01"
+                     /db_xref="GeneID:83239853"
+     tRNA            >1
+                     /gene="trnF(gaa)"
+                     /locus_tag="Q6B34_mgt01"
+                     /product="tRNA-Phe"
+                     /db_xref="GeneID:83239853"
+ORIGIN      
+        1 g
+//
+
+LOCUS       OK172579                   1 bp    DNA     linear   VRT 22-SEP-2021
+DEFINITION  Microgadus tomcod isolate ABL19S39560 small subunit ribosomal RNA
+            gene, partial sequence; mitochondrial.
+ACCESSION   OK172579 REGION: 1
+VERSION     OK172579.1
+KEYWORDS    .
+SOURCE      mitochondrion Microgadus tomcod (Atlantic tomcod)
+  ORGANISM  Microgadus tomcod
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Zeiogadaria; Gadariae; Gadiformes; Gadoidei;
+            Gadidae; Microgadus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Gilmore,S.R., He,X., Jeffery,N.W., Rubidge,E.M., Stanley,R.R.,
+            Westfall,K.M. and Abbott,C.L.
+  TITLE     Advancing environmental DNA (eDNA) as a national standardized
+            biomonitoring tool in three oceans
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Gilmore,S.R., He,X., Jeffery,N.W., Rubidge,E.M., Stanley,R.R.,
+            Westfall,K.M. and Abbott,C.L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (17-SEP-2021) Aquatic Animal Health, Fisheries and Oceans
+            Canada, 3190 Hammond Bay Road, Nanaimo, BC V9T 6N7, Canada
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Illumina's bcl2fastq v. 2.20.0.422
+            Sequencing Technology :: Illumina
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Microgadus tomcod"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="ABL19S39560"
+                     /db_xref="taxon:34823"
+                     /geo_loc_name="Canada: Nova Scotia, Conrod Beach"
+                     /lat_lon="44.701 N 63.17831 W"
+                     /collection_date="2019-07-19"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 c
+//
+
+LOCUS       OK235336                   1 bp    DNA     linear   VRT 24-SEP-2022
+DEFINITION  Pomoxis nigromaculatus mitochondrion, complete genome.
+ACCESSION   OK235336 REGION: 1
+VERSION     OK235336.1
+DBLINK      BioProject: PRJNA490194
+KEYWORDS    .
+SOURCE      mitochondrion Pomoxis nigromaculatus (black crappie)
+  ORGANISM  Pomoxis nigromaculatus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Centrarchiformes; Centrarchoidei;
+            Centrarchidae; Pomoxis.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Dziedzic,E.H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-SEP-2021) Fisheries and Wildlife, Oregon State
+            University, 2820 SW Campus Way, Corvallis, OR 97331, United States
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: SPAdes v. 3.13.1
+            Sequencing Technology :: Illumina
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Pomoxis nigromaculatus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8182"
+                     /geo_loc_name="USA: Oregon, Lake County, Southwest corner
+                     of Hart Lake west of Hart Mountain near the town of Plush
+                     Oregon"
+                     /lat_lon="42.393355 N 119.873155 W"
+                     /collection_date="22-Jun-2017"
+                     /collected_by="Kate Huber, Anna Jensen"
+     tRNA            >1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       OK336456                   1 bp    DNA     linear   VRT 24-SEP-2022
+DEFINITION  Rhinichthys cataractae mitochondrion, complete genome.
+ACCESSION   OK336456 REGION: 1
+VERSION     OK336456.1
+DBLINK      BioProject: PRJNA490194
+KEYWORDS    .
+SOURCE      mitochondrion Rhinichthys cataractae (longnose dace)
+  ORGANISM  Rhinichthys cataractae
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Leuciscidae; Pogonichthyinae; Rhinichthys.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Dziedzic,E.H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-SEP-2021) Fisheries and Wildlife, Oregon State
+            University, 2820 SW Campus Way, Corvallis, OR 97331, United States
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: SPAdes v. 3.13.1
+            Sequencing Technology :: Illumina
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Rhinichthys cataractae"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:340988"
+                     /geo_loc_name="USA: Oregon, Lincoln County, Within a 100
+                     meter section downstream from highway 34 bridge crossing
+                     that crosses Fall Creek"
+                     /lat_lon="44.378733 N 123.73075878 W"
+                     /collection_date="20-Jul-2017"
+                     /collected_by="Trevan Cornwell, Staci Stein"
+     tRNA            >1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       OK576401                   1 bp    DNA     linear   VRT 27-OCT-2021
+DEFINITION  Cyprinus carpio voucher CC15780 small subunit ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   OK576401 REGION: 1
+VERSION     OK576401.1
+KEYWORDS    .
+SOURCE      mitochondrion Cyprinus carpio (common carp)
+  ORGANISM  Cyprinus carpio
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Cyprinidae; Cyprininae; Cyprinus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Stern,N. and Bollous,M.
+  TITLE     Freshwater ichthyofauna of Israel
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Stern,N. and Bollous,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-OCT-2021) Marine Biology, Israel Oceanographic and
+            Limnological Research Institute, Tel Shiqmona, Haifa 3109701,
+            Israel
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Cyprinus carpio"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="CC15780"
+                     /db_xref="taxon:7962"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 a
+//
+
+LOCUS       OK583901                   1 bp    DNA     linear   VRT 24-SEP-2022
+DEFINITION  Micropterus dolomieu mitochondrion, complete genome.
+ACCESSION   OK583901 REGION: 1
+VERSION     OK583901.1
+DBLINK      BioProject: PRJNA490194
+KEYWORDS    .
+SOURCE      mitochondrion Micropterus dolomieu (smallmouth bass)
+  ORGANISM  Micropterus dolomieu
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Centrarchiformes; Centrarchoidei;
+            Centrarchidae; Micropterus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Dziedzic,E.H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-OCT-2021) Fisheries and Wildlife, Oregon State
+            University, 2820 SW Campus Way, Corvallis, OR 97331, United States
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: SPAdes v. 3.13.1
+            Sequencing Technology :: Illumina
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Micropterus dolomieu"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:147949"
+                     /geo_loc_name="USA: Oregon, Douglas County, South Umpqua
+                     River at Three C Rock Campground upstream of Tiller"
+                     /lat_lon="42.966005 N 122.8871903 W"
+                     /collection_date="27-Sep-2017"
+                     /collected_by="Trevan Cornwell, Staci Stein"
+     tRNA            >1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       OK623674                   1 bp    DNA     linear   VRT 24-SEP-2022
+DEFINITION  Rhinichthys cataractae mitochondrion, complete genome.
+ACCESSION   OK623674 REGION: 1
+VERSION     OK623674.1
+DBLINK      BioProject: PRJNA490194
+KEYWORDS    .
+SOURCE      mitochondrion Rhinichthys cataractae (longnose dace)
+  ORGANISM  Rhinichthys cataractae
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Leuciscidae; Pogonichthyinae; Rhinichthys.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Dziedzic,E.H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (22-OCT-2021) Fisheries and Wildlife, Oregon State
+            University, 2820 SW Campus Way, Corvallis, OR 97331, United States
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: SPAdes v. 3.13.1
+            Sequencing Technology :: Illumina
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Rhinichthys cataractae"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:340988"
+                     /geo_loc_name="USA: Oregon, Grant County, North Fork John
+                     Day River at Monument Park recreation site"
+                     /lat_lon="44.814596 N 119.4239133 W"
+                     /collection_date="11-Oct-2017"
+                     /collected_by="Trevan Cornwell, Staci Stein"
+     tRNA            >1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       OK623677                   1 bp    DNA     linear   VRT 24-SEP-2022
+DEFINITION  Lepomis cyanellus mitochondrion, complete genome.
+ACCESSION   OK623677 REGION: 1
+VERSION     OK623677.1
+DBLINK      BioProject: PRJNA490194
+KEYWORDS    .
+SOURCE      mitochondrion Lepomis cyanellus (green sunfish)
+  ORGANISM  Lepomis cyanellus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Centrarchiformes; Centrarchoidei;
+            Centrarchidae; Lepomis.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Dziedzic,E.H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (22-OCT-2021) Fisheries and Wildlife, Oregon State
+            University, 2820 SW Campus Way, Corvallis, OR 97331, United States
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: SPAdes v. 3.13.1
+            Sequencing Technology :: Illumina
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Lepomis cyanellus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:201691"
+                     /geo_loc_name="USA: Oregon, Douglas County, Sterns City
+                     Park in Oakland on Calapooia Creek"
+                     /lat_lon="43.420342 N 123.3094599 W"
+                     /collection_date="17-Oct-2017"
+                     /collected_by="Trevan Cornwell, Staci Stein"
+     tRNA            >1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       OK945936                   1 bp    DNA     linear   VRT 24-SEP-2022
+DEFINITION  Micropterus salmoides mitochondrion, complete genome.
+ACCESSION   OK945936 REGION: 1
+VERSION     OK945936.1
+DBLINK      BioProject: PRJNA490194
+KEYWORDS    .
+SOURCE      mitochondrion Micropterus salmoides (largemouth bass)
+  ORGANISM  Micropterus salmoides
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Centrarchiformes; Centrarchoidei;
+            Centrarchidae; Micropterus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Dziedzic,E.H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (28-OCT-2021) Fisheries and Wildlife, Oregon State
+            University, 2820 SW Campus Way, Corvallis, OR 97331, United States
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: SPAdes v. 3.13.1
+            Sequencing Technology :: Illumina
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Micropterus salmoides"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:27706"
+                     /geo_loc_name="USA: Oregon, Klamath County, Fish salvaged
+                     from J-Canal near Lake Ewauna in diversion channel"
+                     /lat_lon="42.01047 N 121.5613 W"
+                     /collection_date="29-Nov-2017"
+                     /collected_by="Mark Buettner"
+     tRNA            >1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       OK945939                   1 bp    DNA     linear   VRT 24-SEP-2022
+DEFINITION  Micropterus salmoides mitochondrion, complete genome.
+ACCESSION   OK945939 REGION: 1
+VERSION     OK945939.1
+DBLINK      BioProject: PRJNA490194
+KEYWORDS    .
+SOURCE      mitochondrion Micropterus salmoides (largemouth bass)
+  ORGANISM  Micropterus salmoides
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Centrarchiformes; Centrarchoidei;
+            Centrarchidae; Micropterus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Dziedzic,E.H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (28-OCT-2021) Fisheries and Wildlife, Oregon State
+            University, 2820 SW Campus Way, Corvallis, OR 97331, United States
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: SPAdes v. 3.13.1
+            Sequencing Technology :: Illumina
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Micropterus salmoides"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:27706"
+                     /geo_loc_name="USA: Oregon, Klamath County, Fish salvaged
+                     from J-Canal near Lake Ewauna in diversion channel"
+                     /lat_lon="42.01047 N 121.5613 W"
+                     /collection_date="29-Nov-2017"
+                     /collected_by="Mark Buettner"
+     tRNA            >1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       OL339392                   1 bp    DNA     linear   VRT 24-SEP-2022
+DEFINITION  Ameiurus nebulosus mitochondrion, complete genome.
+ACCESSION   OL339392 REGION: 1
+VERSION     OL339392.1
+DBLINK      BioProject: PRJNA490194
+KEYWORDS    .
+SOURCE      mitochondrion Ameiurus nebulosus (brown bullhead)
+  ORGANISM  Ameiurus nebulosus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi; Siluriformes;
+            Ictaluridae; Ameiurus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Dziedzic,E.H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (01-NOV-2021) Fisheries and Wildlife, Oregon State
+            University, 2820 SW Campus Way, Corvallis, OR 97331, United States
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: SPAdes v. 3.13.1
+            Sequencing Technology :: Illumina
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Ameiurus nebulosus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:27778"
+                     /geo_loc_name="USA: Oregon, Klamath County, Braymill
+                     across from Klamath Tribes Research Station on the Sprague
+                     River"
+                     /lat_lon="42.60941 N 121.81142 W"
+                     /collection_date="01-Nov-2017"
+                     /collected_by="Mark Buettner"
+     tRNA            >1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       OL339395                   1 bp    DNA     linear   VRT 24-SEP-2022
+DEFINITION  Oncorhynchus kisutch mitochondrion, complete genome.
+ACCESSION   OL339395 REGION: 1
+VERSION     OL339395.1
+DBLINK      BioProject: PRJNA490194
+KEYWORDS    .
+SOURCE      mitochondrion Oncorhynchus kisutch (coho salmon)
+  ORGANISM  Oncorhynchus kisutch
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Oncorhynchus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Dziedzic,E.H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (01-NOV-2021) Fisheries and Wildlife, Oregon State
+            University, 2820 SW Campus Way, Corvallis, OR 97331, United States
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: SPAdes v. 3.13.1
+            Sequencing Technology :: Illumina
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oncorhynchus kisutch"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8019"
+                     /geo_loc_name="USA: Oregon, Lincoln County, Deer Creek at
+                     Harlan Road crossing"
+                     /lat_lon="44.56310156 N 123.773057 W"
+                     /collection_date="06-Dec-2017"
+                     /collected_by="Trevan Cornwell, Staci Stein"
+     tRNA            >1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       OL339399                   1 bp    DNA     linear   VRT 24-SEP-2022
+DEFINITION  Lepomis macrochirus mitochondrion, complete genome.
+ACCESSION   OL339399 REGION: 1
+VERSION     OL339399.1
+DBLINK      BioProject: PRJNA490194
+KEYWORDS    .
+SOURCE      mitochondrion Lepomis macrochirus (bluegill)
+  ORGANISM  Lepomis macrochirus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Centrarchiformes; Centrarchoidei;
+            Centrarchidae; Lepomis.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Dziedzic,E.H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (01-NOV-2021) Fisheries and Wildlife, Oregon State
+            University, 2820 SW Campus Way, Corvallis, OR 97331, United States
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: SPAdes v. 3.13.1
+            Sequencing Technology :: Illumina
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Lepomis macrochirus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:13106"
+                     /geo_loc_name="USA: Oregon, Lane County, Above Lake Creek
+                     rock slide downstream from Triangle Lake"
+                     /lat_lon="44.159328 N 123.5730791 W"
+                     /collection_date="01-Nov-2017"
+                     /collected_by="Trevan Cornwell, Staci Stein, Brian Bangs"
+     tRNA            >1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       OL404932                   1 bp    DNA     linear   VRT 24-SEP-2022
+DEFINITION  Rhinichthys cataractae mitochondrion, complete genome.
+ACCESSION   OL404932 REGION: 1
+VERSION     OL404932.1
+DBLINK      BioProject: PRJNA490194
+KEYWORDS    .
+SOURCE      mitochondrion Rhinichthys cataractae (longnose dace)
+  ORGANISM  Rhinichthys cataractae
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Leuciscidae; Pogonichthyinae; Rhinichthys.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Dziedzic,E.H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-NOV-2021) Fisheries and Wildlife, Oregon State
+            University, 2820 SW Campus Way, Corvallis, OR 97331, United States
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: SPAdes v. 3.13.1
+            Sequencing Technology :: Illumina
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Rhinichthys cataractae"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:340988"
+                     /geo_loc_name="USA: Oregon, Coos County, West fork of the
+                     Millicoma River"
+                     /lat_lon="43.576100 N 123.960900 W"
+                     /collection_date="19-Jul-2017"
+                     /collected_by="Gary Vanderohe, Matt Falcy"
+     tRNA            >1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       OL404937                   1 bp    DNA     linear   VRT 24-SEP-2022
+DEFINITION  Gasterosteus aculeatus mitochondrion, complete genome.
+ACCESSION   OL404937 REGION: 1
+VERSION     OL404937.1
+DBLINK      BioProject: PRJNA490194
+KEYWORDS    .
+SOURCE      mitochondrion Gasterosteus aculeatus (three-spined stickleback)
+  ORGANISM  Gasterosteus aculeatus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Perciformes; Cottioidei;
+            Gasterosteales; Gasterosteidae; Gasterosteus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Dziedzic,E.H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-NOV-2021) Fisheries and Wildlife, Oregon State
+            University, 2820 SW Campus Way, Corvallis, OR 97331, United States
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: SPAdes v. 3.13.1
+            Sequencing Technology :: Illumina
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Gasterosteus aculeatus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:69293"
+                     /geo_loc_name="USA: Oregon, Lane County, Bernhardt Creek
+                     Road, Karnosky Creek by bridge crossing"
+                     /lat_lon="44.00311498 N 123.9960202 W"
+                     /collection_date="02-May-2018"
+                     /collected_by="Trevan Cornwell, Staci Stein"
+     tRNA            >1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       OL435152                   1 bp    DNA     linear   VRT 24-SEP-2022
+DEFINITION  Lepomis macrochirus mitochondrion, complete genome.
+ACCESSION   OL435152 REGION: 1
+VERSION     OL435152.1
+DBLINK      BioProject: PRJNA490194
+KEYWORDS    .
+SOURCE      mitochondrion Lepomis macrochirus (bluegill)
+  ORGANISM  Lepomis macrochirus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Centrarchiformes; Centrarchoidei;
+            Centrarchidae; Lepomis.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Dziedzic,E.H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-NOV-2021) Fisheries and Wildlife, Oregon State
+            University, 2820 SW Campus Way, Corvallis, OR 97331, United States
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: SPAdes v. 3.13.1
+            Sequencing Technology :: Illumina
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Lepomis macrochirus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:13106"
+                     /geo_loc_name="USA: Oregon, Marion County, Geren Island
+                     Water Treatment Plant, pond across from filter ponds"
+                     /lat_lon="44.794167 N 122.756389 W"
+                     /collection_date="04-Apr-2018"
+                     /collected_by="Dan Coffman, Emily Loose"
+     tRNA            >1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       OL457394                   1 bp    DNA     linear   VRT 24-SEP-2022
+DEFINITION  Oncorhynchus tshawytscha mitochondrion, complete genome.
+ACCESSION   OL457394 REGION: 1
+VERSION     OL457394.1
+DBLINK      BioProject: PRJNA490194
+KEYWORDS    .
+SOURCE      mitochondrion Oncorhynchus tshawytscha (Chinook salmon)
+  ORGANISM  Oncorhynchus tshawytscha
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Oncorhynchus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Dziedzic,E.H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-NOV-2021) Fisheries and Wildlife, Oregon State
+            University, 2820 SW Campus Way, Corvallis, OR 97331, United States
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: SPAdes v. 3.13.1
+            Sequencing Technology :: Illumina
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oncorhynchus tshawytscha"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:74940"
+                     /geo_loc_name="USA: Oregon, Marion County, Geren Island
+                     Water Treatment Plant in pond across from filter ponds"
+                     /lat_lon="44.794167 N 122.804167 W"
+                     /collection_date="04-Apr-2018"
+                     /collected_by="Dan Coffman, Emily Loose"
+     tRNA            >1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       OL457396                   1 bp    DNA     linear   VRT 24-SEP-2022
+DEFINITION  Lepomis macrochirus mitochondrion, complete genome.
+ACCESSION   OL457396 REGION: 1
+VERSION     OL457396.1
+DBLINK      BioProject: PRJNA490194
+KEYWORDS    .
+SOURCE      mitochondrion Lepomis macrochirus (bluegill)
+  ORGANISM  Lepomis macrochirus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Centrarchiformes; Centrarchoidei;
+            Centrarchidae; Lepomis.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Dziedzic,E.H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-NOV-2021) Fisheries and Wildlife, Oregon State
+            University, 2820 SW Campus Way, Corvallis, OR 97331, United States
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: SPAdes v. 3.13.1
+            Sequencing Technology :: Illumina
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Lepomis macrochirus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:13106"
+                     /geo_loc_name="USA: Oregon, Marion County, Ponds behind
+                     Knife River in Stayton"
+                     /lat_lon="44.787222 N 122.804167 W"
+                     /collection_date="04-Apr-2018"
+                     /collected_by="Dan Coffman, Staci Stein"
+     tRNA            >1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       OL457398                   1 bp    DNA     linear   VRT 24-SEP-2022
+DEFINITION  Notemigonus crysoleucas mitochondrion, complete genome.
+ACCESSION   OL457398 REGION: 1
+VERSION     OL457398.1
+DBLINK      BioProject: PRJNA490194
+KEYWORDS    .
+SOURCE      mitochondrion Notemigonus crysoleucas (golden shiner)
+  ORGANISM  Notemigonus crysoleucas
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Leuciscidae; Leuciscinae; Notemigonus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Dziedzic,E.H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-NOV-2021) Fisheries and Wildlife, Oregon State
+            University, 2820 SW Campus Way, Corvallis, OR 97331, United States
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: SPAdes v. 3.13.1
+            Sequencing Technology :: Illumina
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Notemigonus crysoleucas"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:28800"
+                     /geo_loc_name="USA: Oregon, Yamhill County, Palmer
+                     Creek-Dayton Landing County Park"
+                     /lat_lon="45.22156 N 123.07055 W"
+                     /collection_date="17-May-2018"
+                     /collected_by="Trevan Cornwell, Staci Stein"
+     tRNA            >1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       OL457399                   1 bp    DNA     linear   VRT 24-SEP-2022
+DEFINITION  Lepomis cyanellus mitochondrion, complete genome.
+ACCESSION   OL457399 REGION: 1
+VERSION     OL457399.1
+DBLINK      BioProject: PRJNA490194
+KEYWORDS    .
+SOURCE      mitochondrion Lepomis cyanellus (green sunfish)
+  ORGANISM  Lepomis cyanellus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Centrarchiformes; Centrarchoidei;
+            Centrarchidae; Lepomis.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Dziedzic,E.H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-NOV-2021) Fisheries and Wildlife, Oregon State
+            University, 2820 SW Campus Way, Corvallis, OR 97331, United States
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: SPAdes v. 3.13.1
+            Sequencing Technology :: Illumina
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Lepomis cyanellus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:201691"
+                     /geo_loc_name="USA: Oregon, Yamhill County, Palmer
+                     Creek-Dayton Landing County Park"
+                     /lat_lon="45.22156 N 123.07055 W"
+                     /collection_date="17-May-2018"
+                     /collected_by="Trevan Cornwell, Staci Stein"
+     tRNA            >1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       OL457413                   1 bp    DNA     linear   VRT 24-SEP-2022
+DEFINITION  Ameiurus natalis mitochondrion, complete genome.
+ACCESSION   OL457413 REGION: 1
+VERSION     OL457413.1
+DBLINK      BioProject: PRJNA490194
+KEYWORDS    .
+SOURCE      mitochondrion Ameiurus natalis (yellow bullhead)
+  ORGANISM  Ameiurus natalis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi; Siluriformes;
+            Ictaluridae; Ameiurus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Dziedzic,E.H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-NOV-2021) Fisheries and Wildlife, Oregon State
+            University, 2820 SW Campus Way, Corvallis, OR 97331, United States
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: SPAdes v. 3.13.3
+            Sequencing Technology :: Illumina
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Ameiurus natalis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:66912"
+                     /geo_loc_name="USA: Oregon, Harney County, Moon Reservoir"
+                     /lat_lon="43.372171 N 119.3963273 W"
+                     /collection_date="25-Jun-2018"
+                     /collected_by="Trevan Cornwell, Staci Stein"
+     tRNA            >1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       OL477728                   1 bp    DNA     linear   VRT 24-SEP-2022
+DEFINITION  Oncorhynchus kisutch mitochondrion, complete genome.
+ACCESSION   OL477728 REGION: 1
+VERSION     OL477728.1
+DBLINK      BioProject: PRJNA490194
+KEYWORDS    .
+SOURCE      mitochondrion Oncorhynchus kisutch (coho salmon)
+  ORGANISM  Oncorhynchus kisutch
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Oncorhynchus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Dziedzic,E.H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-NOV-2021) Fisheries and Wildlife, Oregon State
+            University, 2820 SW Campus Way, Corvallis, OR 97331, United States
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: SPAdes v. 3.13.1
+            Sequencing Technology :: Illumina
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oncorhynchus kisutch"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8019"
+                     /geo_loc_name="USA: Oregon, Lincoln County, Fall Creek by
+                     bridge crossing road 13-9-13.2 off County Highway 714"
+                     /lat_lon="44.44599966 N 123.7227746 W"
+                     /collection_date="17-Jan-2019"
+                     /collected_by="Trevan Cornwell, Staci Stein"
+     tRNA            >1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       OL504558                   1 bp    DNA     linear   VRT 07-SEP-2022
+DEFINITION  Lepomis gibbosus isolate Lgib_Calder small subunit ribosomal RNA
+            gene, partial sequence; mitochondrial.
+ACCESSION   OL504558 REGION: 1
+VERSION     OL504558.1
+KEYWORDS    .
+SOURCE      mitochondrion Lepomis gibbosus (pumpkinseed sunfish)
+  ORGANISM  Lepomis gibbosus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Centrarchiformes; Centrarchoidei;
+            Centrarchidae; Lepomis.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Flamio,R., Levano,S.R., Kashiwagi,T., Makkay,A.M. and Hekkala,E.R.
+  TITLE     Integrating ecological and molecular data to investigate species
+            maintenance and interspecific hybridization between the redbreast
+            sunfish (Lepomis auritus) and the pumpkinseed sunfish (Lepomis
+            gibbosus)
+  JOURNAL   Can J Zool 100 (6), 345-354 (2022)
+  REMARK    DOI: 10.1139/cjz-2021-0215
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Flamio,R., Levano,S.R., Kashiwagi,T., Makkay,A.M. and Hekkala,E.R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-NOV-2021) Department of Zoology, Southern Illinois
+            University Carbondale, 1125 Lincoln Drive - Room 251, Carbondale,
+            IL 62901, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Lepomis gibbosus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="Lgib_Calder"
+                     /db_xref="taxon:270329"
+                     /geo_loc_name="USA: New York"
+                     /collection_date="01-Aug-2016"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       OL693869                   1 bp    DNA     linear   VRT 24-SEP-2022
+DEFINITION  Rhinichthys cataractae mitochondrion, complete genome.
+ACCESSION   OL693869 REGION: 1
+VERSION     OL693869.1
+DBLINK      BioProject: PRJNA490194
+KEYWORDS    .
+SOURCE      mitochondrion Rhinichthys cataractae (longnose dace)
+  ORGANISM  Rhinichthys cataractae
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Leuciscidae; Pogonichthyinae; Rhinichthys.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Dziedzic,E.H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (02-DEC-2021) Fisheries and Wildlife, Oregon State
+            University, 2820 SW Campus Way, Corvallis, OR 97331, United States
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: SPAdes v. 3.13.1
+            Sequencing Technology :: Illumina
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Rhinichthys cataractae"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:340988"
+                     /geo_loc_name="USA: Oregon, Lincoln County, Fall Creek at
+                     highway bridge crossing"
+                     /lat_lon="44.37887422 N 123.7313003 W"
+                     /collection_date="17-Jan-2019"
+                     /collected_by="Trevan Cornwell, Staci Stein"
+     tRNA            >1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       OL693876                   1 bp    DNA     linear   VRT 24-SEP-2022
+DEFINITION  Oncorhynchus tshawytscha mitochondrion, complete genome.
+ACCESSION   OL693876 REGION: 1
+VERSION     OL693876.1
+DBLINK      BioProject: PRJNA490194
+KEYWORDS    .
+SOURCE      mitochondrion Oncorhynchus tshawytscha (Chinook salmon)
+  ORGANISM  Oncorhynchus tshawytscha
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Oncorhynchus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Dziedzic,E.H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (02-DEC-2021) Fisheries and Wildlife, Oregon State
+            University, 2820 SW Campus Way, Corvallis, OR 97331, United States
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: SPAdes v. 3.13.1
+            Sequencing Technology :: Illumina
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oncorhynchus tshawytscha"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:74940"
+                     /geo_loc_name="USA: Oregon, Lincoln County, Fall Creek,
+                     mid-coast"
+                     /lat_lon="44.37891007 N 123.7313259 W"
+                     /collection_date="17-Apr-2019"
+                     /collected_by="Trevan Cornwell, Staci Stein"
+     tRNA            >1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       OL699932                   1 bp    DNA     linear   VRT 10-OCT-2022
+DEFINITION  Cyprinus carpio mitochondrion, complete genome.
+ACCESSION   OL699932 REGION: 1
+VERSION     OL699932.1
+KEYWORDS    .
+SOURCE      mitochondrion Cyprinus carpio (common carp)
+  ORGANISM  Cyprinus carpio
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Cyprinidae; Cyprininae; Cyprinus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Ye,Y. and Chen,X.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (01-DEC-2021) National Engineering Research Center For
+            Marine Aquaculture, Zhejiang University, 866 Yuhangtang Rd,
+            Hangzhou, Zhejiang 310058, P.R. China
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: NOVOPlasty v. 4.3 Last update: 04/02/21
+            Assembly Name         :: Cyprinus carpio
+            Sequencing Technology :: Illumina
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Cyprinus carpio"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:7962"
+     gene            >1
+                     /gene="cox1"
+     CDS             >1
+                     /gene="cox1"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit 1"
+                     /protein_id="UXW92265.1"
+                     /translation="MAITRWFFSTNHKDIGTLYLVFGAWAGMVGTALSLLIRAELSQP
+                     GSLLGDDQIYNVIVTAHAFVMIFFMVMPILIGGFGNWLVPLMIGAPDMAFPRMNNMSF
+                     WLLPPSFLLLLASSGVEAGAGTGWTVYPPLAGNLAHAGASVDLTIFSLHLAGVSSILG
+                     AINFITTTINMKPPAISQYQTPLFVWSVLVTAVLLLLSLPVLAAGITMLLTDRNLNTT
+                     FFDPAGGGDPILYQHLFWFFGHPEVYILILPGFGIISHVVAYYSGKKEPFGYMGMVWA
+                     MMAIGLLGFIVWAHHMFTVGMDVDTRAYFTSATMIIAIPTGVKVFSWLATLHGGSIKW
+                     ETPMLWALGFIFLFTVGGLTGIVLSNSSLDIVLHDTYYVVAHFHYVLSMGAVFAIMAA
+                     FVHWFPLLTGYTLHSTWTKIHFGVMFIGVNLTFFPQHFLGLAGMPRRYSDYPDAYALW
+                     NTVSSIGSLISLVAVIMFLFILWEAFAAKREVLSVELTATNVEWLHGCPPPYHTYEEP
+                     AFVQIQSN"
+ORIGIN      
+        1 a
+//
+
+LOCUS       OL806597                   1 bp    DNA     linear   VRT 24-SEP-2022
+DEFINITION  Ameiurus nebulosus mitochondrion, complete genome.
+ACCESSION   OL806597 REGION: 1
+VERSION     OL806597.1
+DBLINK      BioProject: PRJNA490194
+KEYWORDS    .
+SOURCE      mitochondrion Ameiurus nebulosus (brown bullhead)
+  ORGANISM  Ameiurus nebulosus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi; Siluriformes;
+            Ictaluridae; Ameiurus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Dziedzic,E.H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-DEC-2021) Fisheries and Wildlife, Oregon State
+            University, 2820 SW Campus Way, Corvallis, OR 97331, United States
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: SPAdes v. 3.13.1
+            Sequencing Technology :: Illumina
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Ameiurus nebulosus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:27778"
+                     /geo_loc_name="USA: Oregon, Baker County, Burnt River
+                     below Huntington"
+                     /lat_lon="44.67335246 N 117.988243 W"
+                     /collection_date="25-Sep-2019"
+                     /collected_by="Trevan Cornwell, Staci Stein"
+     tRNA            >1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       OL806598                   1 bp    DNA     linear   VRT 19-SEP-2023
+DEFINITION  Cottus bairdii mitochondrion, complete genome.
+ACCESSION   OL806598 REGION: 1
+VERSION     OL806598.1
+DBLINK      BioProject: PRJNA490194
+KEYWORDS    .
+SOURCE      mitochondrion Cottus bairdii (mottled sculpin)
+  ORGANISM  Cottus bairdii
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Perciformes; Cottioidei; Cottales;
+            Cottidae; Cottus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Dziedzic,E.H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-DEC-2021) Fisheries and Wildlife, Oregon State
+            University, 2820 SW Campus Way, Corvallis, OR 97331, United States
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: SPAdes v. 3.13.1
+            Sequencing Technology :: Illumina
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Cottus bairdii"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:147208"
+                     /geo_loc_name="USA: Oregon, Baker County, Powder River by
+                     the day use area on United States Forest Service land
+                     below Mason Dam"
+                     /lat_lon="44.673352 N 117.988243 W"
+                     /collection_date="25-Sep-2019"
+                     /collected_by="Trevan Cornwell, Staci Stein"
+     tRNA            >1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       OL806599                   1 bp    DNA     linear   VRT 24-SEP-2022
+DEFINITION  Oncorhynchus nerka mitochondrion, complete genome.
+ACCESSION   OL806599 REGION: 1
+VERSION     OL806599.1
+DBLINK      BioProject: PRJNA490194
+KEYWORDS    .
+SOURCE      mitochondrion Oncorhynchus nerka (sockeye salmon)
+  ORGANISM  Oncorhynchus nerka
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Oncorhynchus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Dziedzic,E.H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-DEC-2021) Fisheries and Wildlife, Oregon State
+            University, 2820 SW Campus Way, Corvallis, OR 97331, United States
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: SPAdes v. 3.13.1
+            Sequencing Technology :: Illumina
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oncorhynchus nerka"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8023"
+                     /geo_loc_name="USA: Oregon, Valley County, Spring
+                     Creek-North Fork Lake Creek-east of Metolius Pond"
+                     /lat_lon="44.45670802 N 115.6490014 W"
+                     /collection_date="01-Oct-2019"
+                     /collected_by="Trevan Cornwell, Staci Stein"
+     tRNA            >1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       OL806600                   1 bp    DNA     linear   VRT 24-SEP-2022
+DEFINITION  Oncorhynchus nerka mitochondrion, complete genome.
+ACCESSION   OL806600 REGION: 1
+VERSION     OL806600.1
+DBLINK      BioProject: PRJNA490194
+KEYWORDS    .
+SOURCE      mitochondrion Oncorhynchus nerka (sockeye salmon)
+  ORGANISM  Oncorhynchus nerka
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Oncorhynchus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Dziedzic,E.H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-DEC-2021) Fisheries and Wildlife, Oregon State
+            University, 2820 SW Campus Way, Corvallis, OR 97331, United States
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: SPAdes v. 3.13.1
+            Sequencing Technology :: Illumina
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oncorhynchus nerka"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8023"
+                     /geo_loc_name="USA: Oregon, Valley County, Spring
+                     Creek-North Fork Lake Creek-east of Metolius Pond"
+                     /lat_lon="44.45670802 N 115.6490014 W"
+                     /collection_date="01-Oct-2019"
+                     /collected_by="Trevan Cornwell, Staci Stein"
+     tRNA            >1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       OM718772                   1 bp    DNA     linear   VRT 01-APR-2022
+DEFINITION  Pimephales notatus isolate samp01.01 mitochondrion, complete
+            genome.
+ACCESSION   OM718772 REGION: 1
+VERSION     OM718772.1
+KEYWORDS    .
+SOURCE      mitochondrion Pimephales notatus (bluntnose minnow)
+  ORGANISM  Pimephales notatus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Leuciscidae; Pogonichthyinae; Pimephales.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Cornman,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (15-FEB-2022) Fort Collins Science Center, U.S.
+            Geological Survey, 2150 Centre Ave., Building C, Fort Collins, CO
+            80526, USA
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Spades v. 3.15.2
+            Sequencing Technology :: Illumina
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Pimephales notatus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="samp01.01"
+                     /db_xref="taxon:51138"
+                     /dev_stage="adult"
+                     /geo_loc_name="USA: Missouri, Boone County"
+                     /collection_date="2019-05-03"
+                     /collected_by="M. Kruse"
+     tRNA            >1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       OM736785                   1 bp    DNA     linear   VRT 09-NOV-2022
+DEFINITION  Catostomus catostomus isolate NEFC_F21-016 mitochondrion, complete
+            genome.
+ACCESSION   OM736785 REGION: 1
+VERSION     OM736785.1
+DBLINK      BioProject: PRJNA633136
+            BioSample: SAMN22309089
+KEYWORDS    .
+SOURCE      mitochondrion Catostomus catostomus (longnose sucker)
+  ORGANISM  Catostomus catostomus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Catostomoidei; Catostomidae; Catostomus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Maloy,A.P., Coombs,J.A. and Bartron,M.L.
+  TITLE     Freshwater Fish Mitochondrial Genome Project
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Maloy,A.P., Coombs,J.A. and Bartron,M.L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (02-FEB-2022) Northeast Fishery Center, US Fish and
+            Wildlife Service, 227 Washington Avenue, Lamar, PA 16848, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Catostomus catostomus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="NEFC_F21-016"
+                     /isolation_source="Piney Creek, Pennsylvania"
+                     /db_xref="taxon:43956"
+                     /geo_loc_name="USA"
+                     /note="common: longnose sucker"
+     gene            >1
+                     /gene="trnF"
+                     /locus_tag="LKN00_001"
+     tRNA            >1
+                     /gene="trnF"
+                     /locus_tag="LKN00_001"
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       OM736786                   1 bp    DNA     linear   VRT 09-NOV-2022
+DEFINITION  Catostomus catostomus isolate NEFC_F21-015 mitochondrion, complete
+            genome.
+ACCESSION   OM736786 REGION: 1
+VERSION     OM736786.1
+DBLINK      BioProject: PRJNA633136
+            BioSample: SAMN22309088
+KEYWORDS    .
+SOURCE      mitochondrion Catostomus catostomus (longnose sucker)
+  ORGANISM  Catostomus catostomus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Catostomoidei; Catostomidae; Catostomus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Maloy,A.P., Coombs,J.A. and Bartron,M.L.
+  TITLE     Freshwater Fish Mitochondrial Genome Project
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Maloy,A.P., Coombs,J.A. and Bartron,M.L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (02-FEB-2022) Northeast Fishery Center, US Fish and
+            Wildlife Service, 227 Washington Avenue, Lamar, PA 16848, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Catostomus catostomus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="NEFC_F21-015"
+                     /isolation_source="Flaugherty Creek, Pennsylvania"
+                     /db_xref="taxon:43956"
+                     /geo_loc_name="USA"
+                     /note="common: longnose sucker"
+     gene            >1
+                     /gene="trnF"
+                     /locus_tag="LKM82_001"
+     tRNA            >1
+                     /gene="trnF"
+                     /locus_tag="LKM82_001"
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       OM736884                   1 bp    DNA     linear   VRT 09-NOV-2022
+DEFINITION  Semotilus atromaculatus mitochondrion, partial genome.
+ACCESSION   OM736884 REGION: 1
+VERSION     OM736884.1
+DBLINK      BioProject: PRJNA633136
+            BioSample: SAMN22309003
+KEYWORDS    .
+SOURCE      mitochondrion Semotilus atromaculatus (creek chub)
+  ORGANISM  Semotilus atromaculatus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Leuciscidae; Plagopterinae; Semotilus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Maloy,A.P., Coombs,J.A. and Bartron,M.L.
+  TITLE     Freshwater Fish Mitochondrial Genome Project
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Maloy,A.P., Coombs,J.A. and Bartron,M.L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (02-FEB-2022) Northeast Fishery Center, US Fish and
+            Wildlife Service, 227 Washington Avenue, Lamar, PA 16848, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Semotilus atromaculatus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="NEFC_F17-066"
+                     /isolation_source="Chenango River, New York"
+                     /db_xref="taxon:67558"
+                     /geo_loc_name="USA"
+                     /note="common: creek chub"
+ORIGIN      
+        1 a
+//
+
+LOCUS       OM736887                   1 bp    DNA     linear   VRT 09-NOV-2022
+DEFINITION  Salvelinus namaycush mitochondrion, partial genome.
+ACCESSION   OM736887 REGION: 1
+VERSION     OM736887.1
+DBLINK      BioProject: PRJNA633136
+            BioSample: SAMN22308991
+KEYWORDS    .
+SOURCE      mitochondrion Salvelinus namaycush (lake trout)
+  ORGANISM  Salvelinus namaycush
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Salvelinus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Maloy,A.P., Coombs,J.A. and Bartron,M.L.
+  TITLE     Freshwater Fish Mitochondrial Genome Project
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Maloy,A.P., Coombs,J.A. and Bartron,M.L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-FEB-2022) Northeast Fishery Center, US Fish and
+            Wildlife Service, 227 Washington Avenue, Lamar, PA 16848, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Salvelinus namaycush"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="NEFC_F16-013"
+                     /isolation_source="Lake Ontario, New York"
+                     /db_xref="taxon:8040"
+                     /geo_loc_name="USA"
+                     /note="common: lake trout"
+     gene            <1..>1
+                     /gene="ND5"
+                     /locus_tag="LKM64_001"
+     CDS             <1..>1
+                     /gene="ND5"
+                     /locus_tag="LKM64_001"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 5"
+                     /protein_id="UZC54350.1"
+                     /translation="PWLPSAMEGPTPVSALLHSSTMVVAGIFLLIRLHPLMENNQTAL
+                     TTCLCLGALTTLFTATCALTQNDIKKIVAFSTSSQLGLMMVTIGLNQPQLAFLHICTH
+                     AFFKAMLFLCSGSIIHSLNDEQDIRKMGGMHNLTPLTSSCLTIGSLALTGTPFLAGFF
+                     SKDAIIEALNTSHLNAWALTLTLLATSFTAVYSLRVIFFVSMGHPRFTAVAPINENNP
+                     SVINPIKRLAWGSIIAGLLITSNLLPSKTPVMTMPLPLKLAALLVTISGLLIALELAS
+                     LTSKQFKTTPNLITHNFSNMLGFFPAVVHRLAPKLNLTLGQTIASQMVDQTWFEKIGP
+                     KGVISTNLPMVTTTSNIQQGMIKTYLTLFFLSTALAVLLTLT"
+ORIGIN      
+        1 t
+//
+
+LOCUS       OM736897                   1 bp    DNA     linear   VRT 09-NOV-2022
+DEFINITION  Ambloplites rupestris mitochondrion, partial genome.
+ACCESSION   OM736897 REGION: 1
+VERSION     OM736897.1
+DBLINK      BioProject: PRJNA633136
+            BioSample: SAMN22308995
+KEYWORDS    .
+SOURCE      mitochondrion Ambloplites rupestris (rock bass)
+  ORGANISM  Ambloplites rupestris
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Centrarchiformes; Centrarchoidei;
+            Centrarchidae; Ambloplites.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Maloy,A.P., Coombs,J.A. and Bartron,M.L.
+  TITLE     Freshwater Fish Mitochondrial Genome Project
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Maloy,A.P., Coombs,J.A. and Bartron,M.L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-FEB-2022) Northeast Fishery Center, US Fish and
+            Wildlife Service, 227 Washington Avenue, Lamar, PA 16848, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Ambloplites rupestris"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="NEFC_F16-051"
+                     /isolation_source="Foster Joseph Sayers Reservoir,
+                     Pennsylvania"
+                     /db_xref="taxon:109273"
+                     /geo_loc_name="USA"
+                     /note="common: rock bass"
+ORIGIN      
+        1 a
+//
+
+LOCUS       OM743017                   1 bp    DNA     linear   VRT 01-APR-2022
+DEFINITION  Pimephales notatus isolate mod_samp02_03 mitochondrion, complete
+            genome.
+ACCESSION   OM743017 REGION: 1
+VERSION     OM743017.1
+KEYWORDS    .
+SOURCE      mitochondrion Pimephales notatus (bluntnose minnow)
+  ORGANISM  Pimephales notatus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Leuciscidae; Pogonichthyinae; Pimephales.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Cornman,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (17-FEB-2022) Fort Collins Science Center, U.S.
+            Geological Survey, 2150 Centre Ave., Building C, Fort Collins, CO
+            80526, USA
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Spades v. 3.15.2
+            Sequencing Technology :: Illumina
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Pimephales notatus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="mod_samp02_03"
+                     /db_xref="taxon:51138"
+                     /dev_stage="adult"
+                     /geo_loc_name="USA: Boone County, Missouri"
+                     /collection_date="2019-05-03"
+                     /collected_by="M. Kruse"
+     tRNA            >1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       OM801588                   1 bp    DNA     linear   VRT 28-FEB-2022
+DEFINITION  Cyprinus carpio isolate carp1 small subunit ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   OM801588 REGION: 1
+VERSION     OM801588.1
+KEYWORDS    .
+SOURCE      mitochondrion Cyprinus carpio (common carp)
+  ORGANISM  Cyprinus carpio
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Cyprinidae; Cyprininae; Cyprinus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Toth,B., Ashrafzadeh,M.R., Khosravi,R., Bagi,Z., Feher,M.,
+            Barsony,P., Kovacs,G. and Kusza,S.
+  TITLE     Insights into mitochondrial DNA variation of common carp Cyprinus
+            carpio strains in the Centre of Carpathian Basin
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Toth,B., Ashrafzadeh,M.R., Khosravi,R., Bagi,Z., Feher,M.,
+            Barsony,P., Kovacs,G. and Kusza,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-FEB-2022) Centre for Agricultural Genomics and
+            Biotechnology, University of Debrecen, Egyetem ter 1., Debrecen
+            4032, Hungary
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Cyprinus carpio"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="carp1"
+                     /db_xref="taxon:7962"
+                     /geo_loc_name="Hungary"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       OM801589                   1 bp    DNA     linear   VRT 28-FEB-2022
+DEFINITION  Cyprinus carpio isolate carp2 small subunit ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   OM801589 REGION: 1
+VERSION     OM801589.1
+KEYWORDS    .
+SOURCE      mitochondrion Cyprinus carpio (common carp)
+  ORGANISM  Cyprinus carpio
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Cyprinidae; Cyprininae; Cyprinus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Toth,B., Ashrafzadeh,M.R., Khosravi,R., Bagi,Z., Feher,M.,
+            Barsony,P., Kovacs,G. and Kusza,S.
+  TITLE     Insights into mitochondrial DNA variation of common carp Cyprinus
+            carpio strains in the Centre of Carpathian Basin
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Toth,B., Ashrafzadeh,M.R., Khosravi,R., Bagi,Z., Feher,M.,
+            Barsony,P., Kovacs,G. and Kusza,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-FEB-2022) Centre for Agricultural Genomics and
+            Biotechnology, University of Debrecen, Egyetem ter 1., Debrecen
+            4032, Hungary
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Cyprinus carpio"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="carp2"
+                     /db_xref="taxon:7962"
+                     /geo_loc_name="Hungary"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       OM801590                   1 bp    DNA     linear   VRT 28-FEB-2022
+DEFINITION  Cyprinus carpio isolate carp3 small subunit ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   OM801590 REGION: 1
+VERSION     OM801590.1
+KEYWORDS    .
+SOURCE      mitochondrion Cyprinus carpio (common carp)
+  ORGANISM  Cyprinus carpio
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Cyprinidae; Cyprininae; Cyprinus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Toth,B., Ashrafzadeh,M.R., Khosravi,R., Bagi,Z., Feher,M.,
+            Barsony,P., Kovacs,G. and Kusza,S.
+  TITLE     Insights into mitochondrial DNA variation of common carp Cyprinus
+            carpio strains in the Centre of Carpathian Basin
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Toth,B., Ashrafzadeh,M.R., Khosravi,R., Bagi,Z., Feher,M.,
+            Barsony,P., Kovacs,G. and Kusza,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-FEB-2022) Centre for Agricultural Genomics and
+            Biotechnology, University of Debrecen, Egyetem ter 1., Debrecen
+            4032, Hungary
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Cyprinus carpio"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="carp3"
+                     /db_xref="taxon:7962"
+                     /geo_loc_name="Hungary"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       OM801591                   1 bp    DNA     linear   VRT 28-FEB-2022
+DEFINITION  Cyprinus carpio isolate carp4 small subunit ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   OM801591 REGION: 1
+VERSION     OM801591.1
+KEYWORDS    .
+SOURCE      mitochondrion Cyprinus carpio (common carp)
+  ORGANISM  Cyprinus carpio
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Cyprinidae; Cyprininae; Cyprinus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Toth,B., Ashrafzadeh,M.R., Khosravi,R., Bagi,Z., Feher,M.,
+            Barsony,P., Kovacs,G. and Kusza,S.
+  TITLE     Insights into mitochondrial DNA variation of common carp Cyprinus
+            carpio strains in the Centre of Carpathian Basin
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Toth,B., Ashrafzadeh,M.R., Khosravi,R., Bagi,Z., Feher,M.,
+            Barsony,P., Kovacs,G. and Kusza,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-FEB-2022) Centre for Agricultural Genomics and
+            Biotechnology, University of Debrecen, Egyetem ter 1., Debrecen
+            4032, Hungary
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Cyprinus carpio"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="carp4"
+                     /db_xref="taxon:7962"
+                     /geo_loc_name="Hungary"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       OM801592                   1 bp    DNA     linear   VRT 28-FEB-2022
+DEFINITION  Cyprinus carpio isolate carp5 small subunit ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   OM801592 REGION: 1
+VERSION     OM801592.1
+KEYWORDS    .
+SOURCE      mitochondrion Cyprinus carpio (common carp)
+  ORGANISM  Cyprinus carpio
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Cyprinidae; Cyprininae; Cyprinus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Toth,B., Ashrafzadeh,M.R., Khosravi,R., Bagi,Z., Feher,M.,
+            Barsony,P., Kovacs,G. and Kusza,S.
+  TITLE     Insights into mitochondrial DNA variation of common carp Cyprinus
+            carpio strains in the Centre of Carpathian Basin
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Toth,B., Ashrafzadeh,M.R., Khosravi,R., Bagi,Z., Feher,M.,
+            Barsony,P., Kovacs,G. and Kusza,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-FEB-2022) Centre for Agricultural Genomics and
+            Biotechnology, University of Debrecen, Egyetem ter 1., Debrecen
+            4032, Hungary
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Cyprinus carpio"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="carp5"
+                     /db_xref="taxon:7962"
+                     /geo_loc_name="Hungary"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       OM801593                   1 bp    DNA     linear   VRT 28-FEB-2022
+DEFINITION  Cyprinus carpio isolate carp6 small subunit ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   OM801593 REGION: 1
+VERSION     OM801593.1
+KEYWORDS    .
+SOURCE      mitochondrion Cyprinus carpio (common carp)
+  ORGANISM  Cyprinus carpio
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Cyprinidae; Cyprininae; Cyprinus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Toth,B., Ashrafzadeh,M.R., Khosravi,R., Bagi,Z., Feher,M.,
+            Barsony,P., Kovacs,G. and Kusza,S.
+  TITLE     Insights into mitochondrial DNA variation of common carp Cyprinus
+            carpio strains in the Centre of Carpathian Basin
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Toth,B., Ashrafzadeh,M.R., Khosravi,R., Bagi,Z., Feher,M.,
+            Barsony,P., Kovacs,G. and Kusza,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-FEB-2022) Centre for Agricultural Genomics and
+            Biotechnology, University of Debrecen, Egyetem ter 1., Debrecen
+            4032, Hungary
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Cyprinus carpio"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="carp6"
+                     /db_xref="taxon:7962"
+                     /geo_loc_name="Hungary"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       OM801594                   1 bp    DNA     linear   VRT 28-FEB-2022
+DEFINITION  Cyprinus carpio isolate carp7 small subunit ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   OM801594 REGION: 1
+VERSION     OM801594.1
+KEYWORDS    .
+SOURCE      mitochondrion Cyprinus carpio (common carp)
+  ORGANISM  Cyprinus carpio
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Cyprinidae; Cyprininae; Cyprinus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Toth,B., Ashrafzadeh,M.R., Khosravi,R., Bagi,Z., Feher,M.,
+            Barsony,P., Kovacs,G. and Kusza,S.
+  TITLE     Insights into mitochondrial DNA variation of common carp Cyprinus
+            carpio strains in the Centre of Carpathian Basin
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Toth,B., Ashrafzadeh,M.R., Khosravi,R., Bagi,Z., Feher,M.,
+            Barsony,P., Kovacs,G. and Kusza,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-FEB-2022) Centre for Agricultural Genomics and
+            Biotechnology, University of Debrecen, Egyetem ter 1., Debrecen
+            4032, Hungary
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Cyprinus carpio"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="carp7"
+                     /db_xref="taxon:7962"
+                     /geo_loc_name="Hungary"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       OM801595                   1 bp    DNA     linear   VRT 28-FEB-2022
+DEFINITION  Cyprinus carpio isolate carp8 small subunit ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   OM801595 REGION: 1
+VERSION     OM801595.1
+KEYWORDS    .
+SOURCE      mitochondrion Cyprinus carpio (common carp)
+  ORGANISM  Cyprinus carpio
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Cyprinidae; Cyprininae; Cyprinus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Toth,B., Ashrafzadeh,M.R., Khosravi,R., Bagi,Z., Feher,M.,
+            Barsony,P., Kovacs,G. and Kusza,S.
+  TITLE     Insights into mitochondrial DNA variation of common carp Cyprinus
+            carpio strains in the Centre of Carpathian Basin
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Toth,B., Ashrafzadeh,M.R., Khosravi,R., Bagi,Z., Feher,M.,
+            Barsony,P., Kovacs,G. and Kusza,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-FEB-2022) Centre for Agricultural Genomics and
+            Biotechnology, University of Debrecen, Egyetem ter 1., Debrecen
+            4032, Hungary
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Cyprinus carpio"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="carp8"
+                     /db_xref="taxon:7962"
+                     /geo_loc_name="Hungary"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 g
+//
+

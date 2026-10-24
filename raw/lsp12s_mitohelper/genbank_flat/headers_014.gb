@@ -1,0 +1,2024 @@
+LOCUS       OQ198768                   1 bp    DNA     linear   VRT 14-JAN-2023
+DEFINITION  Dorosoma cepedianum isolate 62664 small subunit ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   OQ198768 REGION: 1
+VERSION     OQ198768.1
+KEYWORDS    .
+SOURCE      mitochondrion Dorosoma cepedianum (American gizzard shad)
+  ORGANISM  Dorosoma cepedianum
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Clupei; Clupeiformes;
+            Clupeoidei; Clupeidae; Dorosoma.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Williford,D., Hajovsky,P. and Anderson,J.
+  TITLE     12S barcoding of Texas fishes
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Williford,D., Hajovsky,P. and Anderson,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-JAN-2023) Texas Parks and Wildlife Department, Perry
+            R. Bass Marine Fisheries Research Station and Hatchery, 3864 FM RD
+            3280, Palacios, TX 77465, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Dorosoma cepedianum"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="62664"
+                     /db_xref="taxon:336262"
+                     /geo_loc_name="USA: Cedar Lakes, Texas"
+                     /collection_date="2022"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       OQ198769                   1 bp    DNA     linear   VRT 14-JAN-2023
+DEFINITION  Aplodinotus grunniens isolate 62667 small subunit ribosomal RNA
+            gene, partial sequence; mitochondrial.
+ACCESSION   OQ198769 REGION: 1
+VERSION     OQ198769.1
+KEYWORDS    .
+SOURCE      mitochondrion Aplodinotus grunniens (freshwater drum)
+  ORGANISM  Aplodinotus grunniens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Sciaenidae; Aplodinotus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Williford,D., Hajovsky,P. and Anderson,J.
+  TITLE     12S barcoding of Texas fishes
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Williford,D., Hajovsky,P. and Anderson,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-JAN-2023) Texas Parks and Wildlife Department, Perry
+            R. Bass Marine Fisheries Research Station and Hatchery, 3864 FM RD
+            3280, Palacios, TX 77465, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Aplodinotus grunniens"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="62667"
+                     /db_xref="taxon:225389"
+                     /geo_loc_name="USA: Lake Texana, Texas"
+                     /collection_date="Nov-2022"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       OQ198770                   1 bp    DNA     linear   VRT 14-JAN-2023
+DEFINITION  Aplodinotus grunniens isolate 62669 small subunit ribosomal RNA
+            gene, partial sequence; mitochondrial.
+ACCESSION   OQ198770 REGION: 1
+VERSION     OQ198770.1
+KEYWORDS    .
+SOURCE      mitochondrion Aplodinotus grunniens (freshwater drum)
+  ORGANISM  Aplodinotus grunniens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Sciaenidae; Aplodinotus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Williford,D., Hajovsky,P. and Anderson,J.
+  TITLE     12S barcoding of Texas fishes
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Williford,D., Hajovsky,P. and Anderson,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-JAN-2023) Texas Parks and Wildlife Department, Perry
+            R. Bass Marine Fisheries Research Station and Hatchery, 3864 FM RD
+            3280, Palacios, TX 77465, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Aplodinotus grunniens"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="62669"
+                     /db_xref="taxon:225389"
+                     /geo_loc_name="USA: Lake Texana, Texas"
+                     /collection_date="Nov-2022"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       OQ198771                   1 bp    DNA     linear   VRT 14-JAN-2023
+DEFINITION  Aplodinotus grunniens isolate 62670 small subunit ribosomal RNA
+            gene, partial sequence; mitochondrial.
+ACCESSION   OQ198771 REGION: 1
+VERSION     OQ198771.1
+KEYWORDS    .
+SOURCE      mitochondrion Aplodinotus grunniens (freshwater drum)
+  ORGANISM  Aplodinotus grunniens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Sciaenidae; Aplodinotus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Williford,D., Hajovsky,P. and Anderson,J.
+  TITLE     12S barcoding of Texas fishes
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Williford,D., Hajovsky,P. and Anderson,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-JAN-2023) Texas Parks and Wildlife Department, Perry
+            R. Bass Marine Fisheries Research Station and Hatchery, 3864 FM RD
+            3280, Palacios, TX 77465, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Aplodinotus grunniens"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="62670"
+                     /db_xref="taxon:225389"
+                     /geo_loc_name="USA: Lake Texana, Texas"
+                     /collection_date="Nov-2022"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       OQ198772                   1 bp    DNA     linear   VRT 14-JAN-2023
+DEFINITION  Dorosoma cepedianum isolate 62671 small subunit ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   OQ198772 REGION: 1
+VERSION     OQ198772.1
+KEYWORDS    .
+SOURCE      mitochondrion Dorosoma cepedianum (American gizzard shad)
+  ORGANISM  Dorosoma cepedianum
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Clupei; Clupeiformes;
+            Clupeoidei; Clupeidae; Dorosoma.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Williford,D., Hajovsky,P. and Anderson,J.
+  TITLE     12S barcoding of Texas fishes
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Williford,D., Hajovsky,P. and Anderson,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-JAN-2023) Texas Parks and Wildlife Department, Perry
+            R. Bass Marine Fisheries Research Station and Hatchery, 3864 FM RD
+            3280, Palacios, TX 77465, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Dorosoma cepedianum"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="62671"
+                     /db_xref="taxon:336262"
+                     /geo_loc_name="USA: Cedar Lakes, Texas"
+                     /collection_date="2022"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 c
+//
+
+LOCUS       OQ198779                   1 bp    DNA     linear   VRT 14-JAN-2023
+DEFINITION  Lepomis megalotis isolate 62686 small subunit ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   OQ198779 REGION: 1
+VERSION     OQ198779.1
+KEYWORDS    .
+SOURCE      mitochondrion Lepomis megalotis
+  ORGANISM  Lepomis megalotis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Centrarchiformes; Centrarchoidei;
+            Centrarchidae; Lepomis.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Williford,D., Hajovsky,P. and Anderson,J.
+  TITLE     12S barcoding of Texas fishes
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Williford,D., Hajovsky,P. and Anderson,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-JAN-2023) Texas Parks and Wildlife Department, Perry
+            R. Bass Marine Fisheries Research Station and Hatchery, 3864 FM RD
+            3280, Palacios, TX 77465, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Lepomis megalotis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="62686"
+                     /db_xref="taxon:270330"
+                     /geo_loc_name="USA: Lake Texana, Texas"
+                     /collection_date="Nov-2022"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       OQ198780                   1 bp    DNA     linear   VRT 14-JAN-2023
+DEFINITION  Lepomis megalotis isolate 62687 small subunit ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   OQ198780 REGION: 1
+VERSION     OQ198780.1
+KEYWORDS    .
+SOURCE      mitochondrion Lepomis megalotis
+  ORGANISM  Lepomis megalotis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Centrarchiformes; Centrarchoidei;
+            Centrarchidae; Lepomis.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Williford,D., Hajovsky,P. and Anderson,J.
+  TITLE     12S barcoding of Texas fishes
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Williford,D., Hajovsky,P. and Anderson,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-JAN-2023) Texas Parks and Wildlife Department, Perry
+            R. Bass Marine Fisheries Research Station and Hatchery, 3864 FM RD
+            3280, Palacios, TX 77465, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Lepomis megalotis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="62687"
+                     /db_xref="taxon:270330"
+                     /geo_loc_name="USA: Lake Texana, Texas"
+                     /collection_date="Nov-2022"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       OQ198781                   1 bp    DNA     linear   VRT 14-JAN-2023
+DEFINITION  Lepomis macrochirus isolate 62688 small subunit ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   OQ198781 REGION: 1
+VERSION     OQ198781.1
+KEYWORDS    .
+SOURCE      mitochondrion Lepomis macrochirus (bluegill)
+  ORGANISM  Lepomis macrochirus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Centrarchiformes; Centrarchoidei;
+            Centrarchidae; Lepomis.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Williford,D., Hajovsky,P. and Anderson,J.
+  TITLE     12S barcoding of Texas fishes
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Williford,D., Hajovsky,P. and Anderson,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-JAN-2023) Texas Parks and Wildlife Department, Perry
+            R. Bass Marine Fisheries Research Station and Hatchery, 3864 FM RD
+            3280, Palacios, TX 77465, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Lepomis macrochirus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="62688"
+                     /db_xref="taxon:13106"
+                     /geo_loc_name="USA: Lake Texana, Texas"
+                     /collection_date="Nov-2022"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       OQ198782                   1 bp    DNA     linear   VRT 14-JAN-2023
+DEFINITION  Lepomis macrochirus isolate 62689 small subunit ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   OQ198782 REGION: 1
+VERSION     OQ198782.1
+KEYWORDS    .
+SOURCE      mitochondrion Lepomis macrochirus (bluegill)
+  ORGANISM  Lepomis macrochirus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Centrarchiformes; Centrarchoidei;
+            Centrarchidae; Lepomis.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Williford,D., Hajovsky,P. and Anderson,J.
+  TITLE     12S barcoding of Texas fishes
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Williford,D., Hajovsky,P. and Anderson,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-JAN-2023) Texas Parks and Wildlife Department, Perry
+            R. Bass Marine Fisheries Research Station and Hatchery, 3864 FM RD
+            3280, Palacios, TX 77465, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Lepomis macrochirus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="62689"
+                     /db_xref="taxon:13106"
+                     /geo_loc_name="USA: Lake Texana, Texas"
+                     /collection_date="Nov-2022"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       OQ198783                   1 bp    DNA     linear   VRT 14-JAN-2023
+DEFINITION  Lepomis macrochirus isolate 62690 small subunit ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   OQ198783 REGION: 1
+VERSION     OQ198783.1
+KEYWORDS    .
+SOURCE      mitochondrion Lepomis macrochirus (bluegill)
+  ORGANISM  Lepomis macrochirus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Centrarchiformes; Centrarchoidei;
+            Centrarchidae; Lepomis.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Williford,D., Hajovsky,P. and Anderson,J.
+  TITLE     12S barcoding of Texas fishes
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Williford,D., Hajovsky,P. and Anderson,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-JAN-2023) Texas Parks and Wildlife Department, Perry
+            R. Bass Marine Fisheries Research Station and Hatchery, 3864 FM RD
+            3280, Palacios, TX 77465, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Lepomis macrochirus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="62690"
+                     /db_xref="taxon:13106"
+                     /geo_loc_name="USA: Lake Texana, Texas"
+                     /collection_date="Nov-2022"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       OQ198787                   1 bp    DNA     linear   VRT 14-JAN-2023
+DEFINITION  Lepomis macrochirus isolate 62695 small subunit ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   OQ198787 REGION: 1
+VERSION     OQ198787.1
+KEYWORDS    .
+SOURCE      mitochondrion Lepomis macrochirus (bluegill)
+  ORGANISM  Lepomis macrochirus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Centrarchiformes; Centrarchoidei;
+            Centrarchidae; Lepomis.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Williford,D., Hajovsky,P. and Anderson,J.
+  TITLE     12S barcoding of Texas fishes
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Williford,D., Hajovsky,P. and Anderson,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-JAN-2023) Texas Parks and Wildlife Department, Perry
+            R. Bass Marine Fisheries Research Station and Hatchery, 3864 FM RD
+            3280, Palacios, TX 77465, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Lepomis macrochirus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="62695"
+                     /db_xref="taxon:13106"
+                     /geo_loc_name="USA: Lake Texana, Texas"
+                     /collection_date="Nov-2022"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       OQ222862                   1 bp    DNA     linear   VRT 16-JAN-2023
+DEFINITION  Esox lucius isolate 12S small subunit ribosomal RNA gene, partial
+            sequence; mitochondrial.
+ACCESSION   OQ222862 REGION: 1
+VERSION     OQ222862.1
+KEYWORDS    .
+SOURCE      mitochondrion Esox lucius (northern pike)
+  ORGANISM  Esox lucius
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Esociformes; Esocidae; Esox.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Rund,H., Dobrovolny,S., Kurmayer,R. and Wanzenboeck,J.
+  TITLE     Spatial distribution patterns of eDNA in pre-alpine lakes reflect
+            habitat preferences of different fish species
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Rund,H., Dobrovolny,S., Kurmayer,R. and Wanzenboeck,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-JAN-2023) Research Department for Limnology,
+            University of Innsbruck, Mondseestrasse 9, Mondsee 5310, Austria
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: A5-miseq v. MAY-2020
+            Sequencing Technology :: Illumina
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Esox lucius"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="12S"
+                     /isolation_source="Tissue"
+                     /db_xref="taxon:8010"
+                     /geo_loc_name="Austria"
+                     /note="PCR_primers=fwd_name: MiFish-U, rev_name: MiFish-U"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 c
+//
+
+LOCUS       OQ225249                   1 bp    DNA     linear   VRT 16-JAN-2023
+DEFINITION  Salmo trutta small subunit ribosomal RNA gene, partial sequence;
+            mitochondrial.
+ACCESSION   OQ225249 REGION: 1
+VERSION     OQ225249.1
+KEYWORDS    .
+SOURCE      mitochondrion Salmo trutta (river trout)
+  ORGANISM  Salmo trutta
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Salmo.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Rund,H., Dobrovolny,S., Kurmayer,R. and Wanzenboeck,J.
+  TITLE     Spatial distribution patterns of eDNA in pre-alpine lakes reflect
+            habitat preferences of different fish species
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Rund,H., Dobrovolny,S., Kurmayer,R. and Wanzenboeck,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-JAN-2023) Research Department for Limnology,
+            University of Innsbruck, Mondseestrasse 9, Mondsee 5310, Austria
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: A5-miseq v. MAY-2020
+            Sequencing Technology :: Illumina
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Salmo trutta"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolation_source="tissue"
+                     /db_xref="taxon:8032"
+                     /geo_loc_name="Austria"
+                     /note="PCR_primers=fwd_name: MiFish-Uf, rev_name:
+                     MiFish-Ur"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 c
+//
+
+LOCUS       OQ225250                   1 bp    DNA     linear   VRT 16-JAN-2023
+DEFINITION  Scardinius erythrophthalmus small subunit ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   OQ225250 REGION: 1
+VERSION     OQ225250.1
+KEYWORDS    .
+SOURCE      mitochondrion Scardinius erythrophthalmus (rudd)
+  ORGANISM  Scardinius erythrophthalmus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Leuciscidae; Leuciscinae; Scardinius.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Rund,H., Dobrovolny,S., Kurmayer,R. and Wanzenboeck,J.
+  TITLE     Spatial distribution patterns of eDNA in pre-alpine lakes reflect
+            habitat preferences of different fish species
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Rund,H., Dobrovolny,S., Kurmayer,R. and Wanzenboeck,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-JAN-2023) Research Department for Limnology,
+            University of Innsbruck, Mondseestrasse 9, Mondsee 5310, Austria
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: A5-miseq v. MAY-2020
+            Sequencing Technology :: Illumina
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Scardinius erythrophthalmus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolation_source="tissue"
+                     /db_xref="taxon:58319"
+                     /geo_loc_name="Austria"
+                     /note="PCR_primers=fwd_name: MiFish-Uf, rev_name:
+                     MiFish-Ur"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 c
+//
+
+LOCUS       OQ679414                   1 bp    DNA     linear   VRT 28-MAR-2023
+DEFINITION  Paranotropis volucellus voucher ROM:89448 T10954M small subunit
+            ribosomal RNA gene, partial sequence; mitochondrial.
+ACCESSION   OQ679414 REGION: 1
+VERSION     OQ679414.1
+KEYWORDS    .
+SOURCE      mitochondrion Paranotropis volucellus (mimic shiner)
+  ORGANISM  Paranotropis volucellus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Leuciscidae; Paranotropis.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Van Nynatten,A., Gallage,K.S., Lujan,N.K., Mandrak,N.E. and
+            Lovejoy,N.R.
+  TITLE     Ichthyoplankton metabarcoding: an efficient tool for early
+            detection of invasive species establishment
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Van Nynatten,A., Gallage,K.S., Lujan,N.K., Mandrak,N.E. and
+            Lovejoy,N.R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-MAR-2023) Biological Sciences, University of Toronto
+            Scarborough, 1265 Military Trail, Toronto, ON M1C 1A4, Canada
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Paranotropis volucellus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="ROM:89448 T10954M"
+                     /db_xref="taxon:3363667"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 a
+//
+
+LOCUS       OQ679415                   1 bp    DNA     linear   VRT 28-MAR-2023
+DEFINITION  Notropis rubellus voucher ROM:89461 T10968M small subunit ribosomal
+            RNA gene, partial sequence; mitochondrial.
+ACCESSION   OQ679415 REGION: 1
+VERSION     OQ679415.1
+KEYWORDS    .
+SOURCE      mitochondrion Notropis rubellus (rosyface shiner)
+  ORGANISM  Notropis rubellus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Leuciscidae; Pogonichthyinae; Notropis.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Van Nynatten,A., Gallage,K.S., Lujan,N.K., Mandrak,N.E. and
+            Lovejoy,N.R.
+  TITLE     Ichthyoplankton metabarcoding: an efficient tool for early
+            detection of invasive species establishment
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Van Nynatten,A., Gallage,K.S., Lujan,N.K., Mandrak,N.E. and
+            Lovejoy,N.R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-MAR-2023) Biological Sciences, University of Toronto
+            Scarborough, 1265 Military Trail, Toronto, ON M1C 1A4, Canada
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Notropis rubellus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="ROM:89461 T10968M"
+                     /db_xref="taxon:33540"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 a
+//
+
+LOCUS       OQ681474                   1 bp    DNA     linear   VRT 28-MAR-2023
+DEFINITION  Cyprinus carpio voucher LINGU:FISH 00022 small subunit ribosomal
+            RNA gene, partial sequence; mitochondrial.
+ACCESSION   OQ681474 REGION: 1
+VERSION     OQ681474.1
+KEYWORDS    .
+SOURCE      mitochondrion Cyprinus carpio (common carp)
+  ORGANISM  Cyprinus carpio
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Cyprinidae; Cyprininae; Cyprinus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Chan,J.C., Tsang,A.H., Yau,S.-m., Hui,T.C., Lau,A., Tan,H.H.,
+            Low,B.W., Dudgeon,D. and Liew,J.H.
+  TITLE     The non-native freshwater fishes of Hong Kong: diversity,
+            distributions, and origins
+  JOURNAL   Raffles Bull Zool 71 (1), 128-168 (2023)
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Yau,S.-m.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-MAR-2023) Science Unit, Lingnan University, 8 Castle
+            Peak Road, Hong Kong 00000, Hong Kong
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Cyprinus carpio"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="LINGU:FISH 00022"
+                     /db_xref="taxon:7962"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 a
+//
+
+LOCUS       OQ681498                   1 bp    DNA     linear   VRT 28-MAR-2023
+DEFINITION  Micropterus salmoides voucher LINGU:FISH 00033 small subunit
+            ribosomal RNA gene, partial sequence; mitochondrial.
+ACCESSION   OQ681498 REGION: 1
+VERSION     OQ681498.1
+KEYWORDS    .
+SOURCE      mitochondrion Micropterus salmoides (largemouth bass)
+  ORGANISM  Micropterus salmoides
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Centrarchiformes; Centrarchoidei;
+            Centrarchidae; Micropterus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Chan,J.C., Tsang,A.H., Yau,S.-m., Hui,T.C., Lau,A., Tan,H.H.,
+            Low,B.W., Dudgeon,D. and Liew,J.H.
+  TITLE     The non-native freshwater fishes of Hong Kong: diversity,
+            distributions, and origins
+  JOURNAL   Raffles Bull Zool 71 (1), 128-168 (2023)
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Yau,S.-m.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-MAR-2023) Science Unit, Lingnan University, 8 Castle
+            Peak Road, Hong Kong 00000, Hong Kong
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Micropterus salmoides"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="LINGU:FISH 00033"
+                     /db_xref="taxon:27706"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 a
+//
+
+LOCUS       OQ702654                   1 bp    DNA     linear   VRT 02-APR-2023
+DEFINITION  Tinca tinca isolate Hap1 small subunit ribosomal RNA gene, partial
+            sequence; mitochondrial.
+ACCESSION   OQ702654 REGION: 1
+VERSION     OQ702654.1
+KEYWORDS    .
+SOURCE      mitochondrion Tinca tinca (tench)
+  ORGANISM  Tinca tinca
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Tincidae; Tinca.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Eren,H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (28-MAR-2023) Reclamation and Genetics, FISHERIES
+            RESEARCH INSTITUTE, Dr. Isa Koklu, Isparta/Egirdir 32500, Turkey
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Tinca tinca"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="Hap1"
+                     /db_xref="taxon:27717"
+                     /geo_loc_name="Turkey: Beysehir lake"
+                     /collection_date="2022"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 a
+//
+
+LOCUS       OR002150                   1 bp    DNA     linear   VRT 22-JAN-2024
+DEFINITION  Ameiurus natalis mitochondrion, complete genome.
+ACCESSION   OR002150 REGION: 1
+VERSION     OR002150.1
+KEYWORDS    .
+SOURCE      mitochondrion Ameiurus natalis (yellow bullhead)
+  ORGANISM  Ameiurus natalis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi; Siluriformes;
+            Ictaluridae; Ameiurus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Ludwig,E.J., Duvernell,D.D. and Lee,V.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-MAY-2023) Biological Sciences, Missouri University of
+            Science and Technology, 400 W 11th Street, Rolla, MO 65409, USA
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Geneious v. 2022
+            Sequencing Technology :: Illumina
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Ameiurus natalis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="CC-102"
+                     /db_xref="taxon:66912"
+                     /geo_loc_name="USA: Crooked Creek, Meramec River, Crawford
+                     County, Missouri"
+                     /lat_lon="37.79951 N 91.349207 W"
+     gene            >1
+                     /gene="trnF(gaa)"
+     tRNA            >1
+                     /gene="trnF(gaa)"
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       OR224425                   1 bp    DNA     linear   VRT 05-JUL-2023
+DEFINITION  Amia calva isolate 42581 small subunit ribosomal RNA gene, partial
+            sequence; mitochondrial.
+ACCESSION   OR224425 REGION: 1
+VERSION     OR224425.1
+KEYWORDS    .
+SOURCE      mitochondrion Amia calva (bowfin)
+  ORGANISM  Amia calva
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Holostei; Amiiformes; Amiidae; Amia.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Williford,D., Hajovsky,P. and Anderson,J.
+  TITLE     12S barcoding of Texas fishes
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Williford,D., Hajovsky,P. and Anderson,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (30-JUN-2023) Texas Parks and Wildlife Department, Perry
+            R. Bass Marine Fisheries Research Station and Hatchery, 3864 FM RD
+            3280, Palacios, TX 77465, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Amia calva"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="42581"
+                     /db_xref="taxon:7924"
+                     /geo_loc_name="USA: Lake Texana, Texas"
+                     /collection_date="06-Feb-2023"
+                     /collected_by="Dusty MacDonald"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       OR224426                   1 bp    DNA     linear   VRT 05-JUL-2023
+DEFINITION  Morone chrysops isolate 42583 small subunit ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   OR224426 REGION: 1
+VERSION     OR224426.1
+KEYWORDS    .
+SOURCE      mitochondrion Morone chrysops (white bass)
+  ORGANISM  Morone chrysops
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Moronidae; Morone.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Williford,D., Hajovsky,P. and Anderson,J.
+  TITLE     12S barcoding of Texas fishes
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Williford,D., Hajovsky,P. and Anderson,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (30-JUN-2023) Texas Parks and Wildlife Department, Perry
+            R. Bass Marine Fisheries Research Station and Hatchery, 3864 FM RD
+            3280, Palacios, TX 77465, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Morone chrysops"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="42583"
+                     /db_xref="taxon:46259"
+                     /geo_loc_name="USA: Navidad River (west of Lake Texana),
+                     Texas"
+                     /collection_date="06-Feb-2023"
+                     /collected_by="Dusty MacDonald"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 t
+//
+
+LOCUS       OR224427                   1 bp    DNA     linear   VRT 05-JUL-2023
+DEFINITION  Lepisosteus osseus isolate 42591 small subunit ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   OR224427 REGION: 1
+VERSION     OR224427.1
+KEYWORDS    .
+SOURCE      mitochondrion Lepisosteus osseus (longnose gar)
+  ORGANISM  Lepisosteus osseus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Holostei; Semionotiformes;
+            Lepisosteidae; Lepisosteus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Williford,D., Hajovsky,P. and Anderson,J.
+  TITLE     12S barcoding of Texas fishes
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Williford,D., Hajovsky,P. and Anderson,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (30-JUN-2023) Texas Parks and Wildlife Department, Perry
+            R. Bass Marine Fisheries Research Station and Hatchery, 3864 FM RD
+            3280, Palacios, TX 77465, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Lepisosteus osseus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="42591"
+                     /db_xref="taxon:34771"
+                     /geo_loc_name="USA: Lake Texana, Texas"
+                     /collection_date="21-Feb-2023"
+                     /collected_by="Dusty MacDonald"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 c
+//
+
+LOCUS       OR224428                   1 bp    DNA     linear   VRT 05-JUL-2023
+DEFINITION  Lepisosteus osseus isolate 42592 small subunit ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   OR224428 REGION: 1
+VERSION     OR224428.1
+KEYWORDS    .
+SOURCE      mitochondrion Lepisosteus osseus (longnose gar)
+  ORGANISM  Lepisosteus osseus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Holostei; Semionotiformes;
+            Lepisosteidae; Lepisosteus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Williford,D., Hajovsky,P. and Anderson,J.
+  TITLE     12S barcoding of Texas fishes
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Williford,D., Hajovsky,P. and Anderson,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (30-JUN-2023) Texas Parks and Wildlife Department, Perry
+            R. Bass Marine Fisheries Research Station and Hatchery, 3864 FM RD
+            3280, Palacios, TX 77465, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Lepisosteus osseus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="42592"
+                     /db_xref="taxon:34771"
+                     /geo_loc_name="USA: Lake Texana, Texas"
+                     /collection_date="21-Feb-2023"
+                     /collected_by="Dusty MacDonald"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 t
+//
+
+LOCUS       OR224429                   1 bp    DNA     linear   VRT 05-JUL-2023
+DEFINITION  Lepisosteus osseus isolate 42593 small subunit ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   OR224429 REGION: 1
+VERSION     OR224429.1
+KEYWORDS    .
+SOURCE      mitochondrion Lepisosteus osseus (longnose gar)
+  ORGANISM  Lepisosteus osseus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Holostei; Semionotiformes;
+            Lepisosteidae; Lepisosteus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Williford,D., Hajovsky,P. and Anderson,J.
+  TITLE     12S barcoding of Texas fishes
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Williford,D., Hajovsky,P. and Anderson,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (30-JUN-2023) Texas Parks and Wildlife Department, Perry
+            R. Bass Marine Fisheries Research Station and Hatchery, 3864 FM RD
+            3280, Palacios, TX 77465, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Lepisosteus osseus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="42593"
+                     /db_xref="taxon:34771"
+                     /geo_loc_name="USA: Lake Texana, Texas"
+                     /collection_date="21-Feb-2023"
+                     /collected_by="Dusty MacDonald"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 t
+//
+
+LOCUS       OR224430                   1 bp    DNA     linear   VRT 05-JUL-2023
+DEFINITION  Lepisosteus osseus isolate 42594 small subunit ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   OR224430 REGION: 1
+VERSION     OR224430.1
+KEYWORDS    .
+SOURCE      mitochondrion Lepisosteus osseus (longnose gar)
+  ORGANISM  Lepisosteus osseus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Holostei; Semionotiformes;
+            Lepisosteidae; Lepisosteus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Williford,D., Hajovsky,P. and Anderson,J.
+  TITLE     12S barcoding of Texas fishes
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Williford,D., Hajovsky,P. and Anderson,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (30-JUN-2023) Texas Parks and Wildlife Department, Perry
+            R. Bass Marine Fisheries Research Station and Hatchery, 3864 FM RD
+            3280, Palacios, TX 77465, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Lepisosteus osseus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="42594"
+                     /db_xref="taxon:34771"
+                     /geo_loc_name="USA: Lake Texana, Texas"
+                     /collection_date="21-Feb-2023"
+                     /collected_by="Dusty MacDonald"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 c
+//
+
+LOCUS       OR224431                   1 bp    DNA     linear   VRT 05-JUL-2023
+DEFINITION  Morone chrysops isolate 42597 small subunit ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   OR224431 REGION: 1
+VERSION     OR224431.1
+KEYWORDS    .
+SOURCE      mitochondrion Morone chrysops (white bass)
+  ORGANISM  Morone chrysops
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Moronidae; Morone.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Williford,D., Hajovsky,P. and Anderson,J.
+  TITLE     12S barcoding of Texas fishes
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Williford,D., Hajovsky,P. and Anderson,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (30-JUN-2023) Texas Parks and Wildlife Department, Perry
+            R. Bass Marine Fisheries Research Station and Hatchery, 3864 FM RD
+            3280, Palacios, TX 77465, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Morone chrysops"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="42597"
+                     /db_xref="taxon:46259"
+                     /geo_loc_name="USA: Lake Texana, Texas"
+                     /collection_date="21-Feb-2023"
+                     /collected_by="Dusty MacDonald"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 t
+//
+
+LOCUS       OR224432                   1 bp    DNA     linear   VRT 05-JUL-2023
+DEFINITION  Ictalurus punctatus isolate 42607 small subunit ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   OR224432 REGION: 1
+VERSION     OR224432.1
+KEYWORDS    .
+SOURCE      mitochondrion Ictalurus punctatus (channel catfish)
+  ORGANISM  Ictalurus punctatus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi; Siluriformes;
+            Ictaluridae; Ictalurus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Williford,D., Hajovsky,P. and Anderson,J.
+  TITLE     12S barcoding of Texas fishes
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Williford,D., Hajovsky,P. and Anderson,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (30-JUN-2023) Texas Parks and Wildlife Department, Perry
+            R. Bass Marine Fisheries Research Station and Hatchery, 3864 FM RD
+            3280, Palacios, TX 77465, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Ictalurus punctatus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="42607"
+                     /db_xref="taxon:7998"
+                     /geo_loc_name="USA: Lake Texana, Texas"
+                     /collection_date="21-Feb-2023"
+                     /collected_by="Dusty MacDonald"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 t
+//
+
+LOCUS       OR224433                   1 bp    DNA     linear   VRT 05-JUL-2023
+DEFINITION  Ictalurus punctatus isolate 42609 small subunit ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   OR224433 REGION: 1
+VERSION     OR224433.1
+KEYWORDS    .
+SOURCE      mitochondrion Ictalurus punctatus (channel catfish)
+  ORGANISM  Ictalurus punctatus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi; Siluriformes;
+            Ictaluridae; Ictalurus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Williford,D., Hajovsky,P. and Anderson,J.
+  TITLE     12S barcoding of Texas fishes
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Williford,D., Hajovsky,P. and Anderson,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (30-JUN-2023) Texas Parks and Wildlife Department, Perry
+            R. Bass Marine Fisheries Research Station and Hatchery, 3864 FM RD
+            3280, Palacios, TX 77465, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Ictalurus punctatus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="42609"
+                     /db_xref="taxon:7998"
+                     /geo_loc_name="USA: Lake Texana, Texas"
+                     /collection_date="21-Feb-2023"
+                     /collected_by="Dusty MacDonald"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       OR224434                   1 bp    DNA     linear   VRT 05-JUL-2023
+DEFINITION  Ictalurus punctatus isolate 42610 small subunit ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   OR224434 REGION: 1
+VERSION     OR224434.1
+KEYWORDS    .
+SOURCE      mitochondrion Ictalurus punctatus (channel catfish)
+  ORGANISM  Ictalurus punctatus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi; Siluriformes;
+            Ictaluridae; Ictalurus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Williford,D., Hajovsky,P. and Anderson,J.
+  TITLE     12S barcoding of Texas fishes
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Williford,D., Hajovsky,P. and Anderson,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (30-JUN-2023) Texas Parks and Wildlife Department, Perry
+            R. Bass Marine Fisheries Research Station and Hatchery, 3864 FM RD
+            3280, Palacios, TX 77465, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Ictalurus punctatus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="42610"
+                     /db_xref="taxon:7998"
+                     /geo_loc_name="USA: Lake Texana, Texas"
+                     /collection_date="21-Feb-2023"
+                     /collected_by="Dusty MacDonald"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 t
+//
+
+LOCUS       OR551991                   1 bp    DNA     linear   VRT 22-JAN-2024
+DEFINITION  Etheostoma caeruleum isolate Eric21-1 12S ribosomal RNA (rrn12)
+            gene, partial sequence; tRNA-Val (trnV) gene, complete sequence;
+            and 16S ribosomal RNA (rrn16) gene, partial sequence;
+            mitochondrial.
+ACCESSION   OR551991 REGION: 1
+VERSION     OR551991.1
+KEYWORDS    .
+SOURCE      mitochondrion Etheostoma caeruleum (rainbow darter)
+  ORGANISM  Etheostoma caeruleum
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Perciformes; Percoidei; Percidae;
+            Etheostomatinae; Etheostoma.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Lee,V.M., Berkman,L.K., Geheber,A.D., Landwer,B., Ludwig,E.J. and
+            Duvernell,D.
+  TITLE     A Field Comparison of eDNA Metabarcoding to Established Protocols
+            for Assessing Biodiversity in Missouri Ozark Highland Streams
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Duvernell,D., Ludwig,E.J. and Lee,V.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-SEP-2023) Biological Sciences, Missouri University of
+            Science and Technology, 400 W 11th St., Rolla, MO 65409, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Etheostoma caeruleum"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="Eric21-1"
+                     /isolation_source="Black River, Reynolds County, Missouri"
+                     /db_xref="taxon:54319"
+                     /lat_lon="37.445811 N 90.96374 W"
+     gene            <1..>1
+                     /gene="rrn12"
+     rRNA            <1..>1
+                     /gene="rrn12"
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 c
+//
+
+LOCUS       OR552021                   1 bp    DNA     linear   VRT 22-JAN-2024
+DEFINITION  Cyprinella spiloptera isolate MR-13 12S ribosomal RNA (rrn12) gene,
+            partial sequence; tRNA-Val (trnV) gene, complete sequence; and 16S
+            ribosomal RNA (rrn16) gene, partial sequence; mitochondrial.
+ACCESSION   OR552021 REGION: 1
+VERSION     OR552021.1
+KEYWORDS    .
+SOURCE      mitochondrion Cyprinella spiloptera (spotfin shiner)
+  ORGANISM  Cyprinella spiloptera
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Leuciscidae; Pogonichthyinae; Cyprinella.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Lee,V.M., Berkman,L.K., Geheber,A.D., Landwer,B., Ludwig,E.J. and
+            Duvernell,D.
+  TITLE     A Field Comparison of eDNA Metabarcoding to Established Protocols
+            for Assessing Biodiversity in Missouri Ozark Highland Streams
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Duvernell,D., Ludwig,E.J. and Lee,V.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-SEP-2023) Biological Sciences, Missouri University of
+            Science and Technology, 400 W 11th St., Rolla, MO 65409, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Cyprinella spiloptera"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="MR-13"
+                     /isolation_source="Meramec River, Crawford County
+                     Missouri"
+                     /specimen_voucher="KU:I:43066"
+                     /db_xref="taxon:13477"
+                     /lat_lon="37.9512 N 91.5086 W"
+     gene            <1..>1
+                     /gene="rrn12"
+     rRNA            <1..>1
+                     /gene="rrn12"
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 a
+//
+
+LOCUS       OR552031                   1 bp    DNA     linear   VRT 22-JAN-2024
+DEFINITION  Notemigonus crysoleucas isolate BC-9 mitochondrion, complete
+            genome.
+ACCESSION   OR552031 REGION: 1
+VERSION     OR552031.1
+KEYWORDS    .
+SOURCE      mitochondrion Notemigonus crysoleucas (golden shiner)
+  ORGANISM  Notemigonus crysoleucas
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Leuciscidae; Leuciscinae; Notemigonus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Lee,V.M., Berkman,L.K., Geheber,A.D., Landwer,B., Ludwig,E.J. and
+            Duvernell,D.
+  TITLE     A Field Comparison of eDNA Metabarcoding to Established Protocols
+            for Assessing Biodiversity in Missouri Ozark Highland Streams
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Duvernell,D., Ludwig,E.J. and Lee,V.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-SEP-2023) Biological Sciences, Missouri University of
+            Science and Technology, 400 W 11th St., Rolla, MO 65409, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Notemigonus crysoleucas"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="BC-9"
+                     /isolation_source="Big Cane Slough, Black River, Butler
+                     County, Missouri"
+                     /specimen_voucher="KU:I:42991"
+                     /db_xref="taxon:28800"
+                     /lat_lon="36.5022 N 90.5018 W"
+     gene            >1
+                     /gene="trnF"
+     tRNA            >1
+                     /gene="trnF"
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       OR552034                   1 bp    DNA     linear   VRT 22-JAN-2024
+DEFINITION  Lepomis megalotis isolate CC-6 mitochondrion, partial genome.
+ACCESSION   OR552034 REGION: 1
+VERSION     OR552034.1
+KEYWORDS    .
+SOURCE      mitochondrion Lepomis megalotis
+  ORGANISM  Lepomis megalotis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Centrarchiformes; Centrarchoidei;
+            Centrarchidae; Lepomis.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Lee,V.M., Berkman,L.K., Geheber,A.D., Landwer,B., Ludwig,E.J. and
+            Duvernell,D.
+  TITLE     A Field Comparison of eDNA Metabarcoding to Established Protocols
+            for Assessing Biodiversity in Missouri Ozark Highland Streams
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Duvernell,D., Ludwig,E.J. and Lee,V.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-SEP-2023) Biological Sciences, Missouri University of
+            Science and Technology, 400 W 11th St., Rolla, MO 65409, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Lepomis megalotis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="CC-6"
+                     /isolation_source="Crooked Creek, Meramec River, Crawford
+                     County, Missouri"
+                     /specimen_voucher="KU:I:43021"
+                     /db_xref="taxon:270330"
+                     /lat_lon="37.79951 N 91.349207 W"
+     gene            >1
+                     /gene="trnF"
+     tRNA            >1
+                     /gene="trnF"
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       OR552051                   1 bp    DNA     linear   VRT 22-JAN-2024
+DEFINITION  Etheostoma caeruleum isolate DF-11 mitochondrion, complete genome.
+ACCESSION   OR552051 REGION: 1
+VERSION     OR552051.1
+KEYWORDS    .
+SOURCE      mitochondrion Etheostoma caeruleum (rainbow darter)
+  ORGANISM  Etheostoma caeruleum
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Perciformes; Percoidei; Percidae;
+            Etheostomatinae; Etheostoma.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Lee,V.M., Berkman,L.K., Geheber,A.D., Landwer,B., Ludwig,E.J. and
+            Duvernell,D.
+  TITLE     A Field Comparison of eDNA Metabarcoding to Established Protocols
+            for Assessing Biodiversity in Missouri Ozark Highland Streams
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Duvernell,D., Ludwig,E.J. and Lee,V.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-SEP-2023) Biological Sciences, Missouri University of
+            Science and Technology, 400 W 11th St., Rolla, MO 65409, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Etheostoma caeruleum"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="DF-11"
+                     /isolation_source="Dry Fork, Meramec River, Phelps County,
+                     Missouri"
+                     /specimen_voucher="KU:I:43024"
+                     /db_xref="taxon:54319"
+                     /lat_lon="37.9816 N 91.572 W"
+     gene            >1
+                     /gene="trnF"
+     tRNA            >1
+                     /gene="trnF"
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       OR552068                   1 bp    DNA     linear   VRT 22-JAN-2024
+DEFINITION  Etheostoma flabellare isolate CC-9 mitochondrion, complete genome.
+ACCESSION   OR552068 REGION: 1
+VERSION     OR552068.1
+KEYWORDS    .
+SOURCE      mitochondrion Etheostoma flabellare (fantail darter)
+  ORGANISM  Etheostoma flabellare
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Perciformes; Percoidei; Percidae;
+            Etheostomatinae; Etheostoma.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Lee,V.M., Berkman,L.K., Geheber,A.D., Landwer,B., Ludwig,E.J. and
+            Duvernell,D.
+  TITLE     A Field Comparison of eDNA Metabarcoding to Established Protocols
+            for Assessing Biodiversity in Missouri Ozark Highland Streams
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Duvernell,D., Ludwig,E.J. and Lee,V.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-SEP-2023) Biological Sciences, Missouri University of
+            Science and Technology, 400 W 11th St., Rolla, MO 65409, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Etheostoma flabellare"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="CC-9"
+                     /isolation_source="Crooked Creek, Meramec River, Crawford
+                     County, Missouri"
+                     /specimen_voucher="KU:I:43023"
+                     /db_xref="taxon:54330"
+                     /lat_lon="37.79951 N 91.349207 W"
+     gene            >1
+                     /gene="trnF"
+     tRNA            >1
+                     /gene="trnF"
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       OR552070                   1 bp    DNA     linear   VRT 22-JAN-2024
+DEFINITION  Pimephales notatus isolate SMCr-2 mitochondrion, complete genome.
+ACCESSION   OR552070 REGION: 1
+VERSION     OR552070.1
+KEYWORDS    .
+SOURCE      mitochondrion Pimephales notatus (bluntnose minnow)
+  ORGANISM  Pimephales notatus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Leuciscidae; Pogonichthyinae; Pimephales.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Lee,V.M., Berkman,L.K., Geheber,A.D., Landwer,B., Ludwig,E.J. and
+            Duvernell,D.
+  TITLE     A Field Comparison of eDNA Metabarcoding to Established Protocols
+            for Assessing Biodiversity in Missouri Ozark Highland Streams
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Duvernell,D., Ludwig,E.J. and Lee,V.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-SEP-2023) Biological Sciences, Missouri University of
+            Science and Technology, 400 W 11th St., Rolla, MO 65409, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Pimephales notatus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="SMCr-2"
+                     /isolation_source="South Moreau Creek, Moreau River,
+                     Morgan County, Missouri"
+                     /specimen_voucher="KU:I:43075"
+                     /db_xref="taxon:51138"
+                     /lat_lon="38.3851 N 92.6103 W"
+     D-loop          >1
+     gene            >1
+                     /gene="trnF"
+     tRNA            >1
+                     /gene="trnF"
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       OR552078                   1 bp    DNA     linear   VRT 22-JAN-2024
+DEFINITION  Notropis volucellus isolate RAH-1258 mitochondrion, complete
+            genome.
+ACCESSION   OR552078 REGION: 1
+VERSION     OR552078.1
+KEYWORDS    .
+SOURCE      mitochondrion Paranotropis volucellus (mimic shiner)
+  ORGANISM  Paranotropis volucellus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Leuciscidae; Paranotropis.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Lee,V.M., Berkman,L.K., Geheber,A.D., Landwer,B., Ludwig,E.J. and
+            Duvernell,D.
+  TITLE     A Field Comparison of eDNA Metabarcoding to Established Protocols
+            for Assessing Biodiversity in Missouri Ozark Highland Streams
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Duvernell,D., Ludwig,E.J. and Lee,V.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-SEP-2023) Biological Sciences, Missouri University of
+            Science and Technology, 400 W 11th St., Rolla, MO 65409, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Paranotropis volucellus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="RAH-1258"
+                     /isolation_source="Apple Creek, Mississippi River basin,
+                     Cape Girardeau County, Missouri"
+                     /db_xref="taxon:3363667"
+     gene            >1
+                     /gene="trnF"
+     tRNA            >1
+                     /gene="trnF"
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       OR552089                   1 bp    DNA     linear   VRT 22-JAN-2024
+DEFINITION  Sander vitreus isolate ST677 mitochondrion, complete genome.
+ACCESSION   OR552089 REGION: 1
+VERSION     OR552089.1
+KEYWORDS    .
+SOURCE      mitochondrion Sander vitreus (walleye)
+  ORGANISM  Sander vitreus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Perciformes; Percoidei; Percidae;
+            Luciopercinae; Sander.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Lee,V.M., Berkman,L.K., Geheber,A.D., Landwer,B., Ludwig,E.J. and
+            Duvernell,D.
+  TITLE     A Field Comparison of eDNA Metabarcoding to Established Protocols
+            for Assessing Biodiversity in Missouri Ozark Highland Streams
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Duvernell,D., Ludwig,E.J. and Lee,V.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-SEP-2023) Biological Sciences, Missouri University of
+            Science and Technology, 400 W 11th St., Rolla, MO 65409, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Sander vitreus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="ST677"
+                     /isolation_source="Markham Spring, Black River, Wayne
+                     County, Missouri"
+                     /db_xref="taxon:283036"
+     gene            >1
+                     /gene="trnF"
+     tRNA            >1
+                     /gene="trnF"
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       OR737850                   1 bp    DNA     linear   VRT 30-JUN-2024
+DEFINITION  Carassius auratus isolate Ma_d_10_BR small subunit ribosomal RNA
+            gene, partial sequence; mitochondrial.
+ACCESSION   OR737850 REGION: 1
+VERSION     OR737850.1
+KEYWORDS    .
+SOURCE      mitochondrion Carassius auratus (goldfish)
+  ORGANISM  Carassius auratus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Cyprinidae; Cyprininae; Carassius.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Carvalho,C.O., Pazirgiannidi,M., Ravelomanana,T.,
+            Andriambelomanana,F., Schroder-Nielsen,A., Ready,J.S., de Boer,H.,
+            Fusari,C.-E. and Mauvisseau,Q.
+  TITLE     Multi-method eDNA survey rediscovers critically endangered species
+            and strengthens Madagascar's freshwater fish conservation
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Carvalho,C.O., Pazirgiannidi,M., Ravelomanana,T.,
+            Andriambelomanana,F., Schroder-Nielsen,A., Ready,J.S., de Boer,H.,
+            Fusari,C.-E. and Mauvisseau,Q.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-OCT-2023) Natural History Museum, University of Oslo,
+            Sars' gate 1, Oslo, Oslo 0562, Norway
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Carassius auratus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="Ma_d_10_BR"
+                     /db_xref="taxon:7957"
+                     /geo_loc_name="Madagascar: Antanilatsaka"
+                     /collection_date="22-Nov-2021"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 a
+//
+
+LOCUS       OR950752                   1 bp    DNA     linear   VRT 26-DEC-2023
+DEFINITION  Carassius auratus isolate F-C-a-8 mitochondrion, complete genome.
+ACCESSION   OR950752 REGION: 1
+VERSION     OR950752.1
+KEYWORDS    .
+SOURCE      mitochondrion Carassius auratus (goldfish)
+  ORGANISM  Carassius auratus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Cyprinidae; Cyprininae; Carassius.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Ellis,M.R., Wellington,C.M., McDonald,J.I., Gan,H.M. and
+            Sherman,C.D.H.
+  TITLE     Development of a national marine pest molecular reference
+            collection
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Ellis,M.R., Wellington,C.M., McDonald,J.I., Gan,H.M. and
+            Sherman,C.D.H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-DEC-2023) Patriot Biotech, Patriot Biotech, Jalan
+            Lagoon Selatan, Subang Jaya, Selangor 47500, Malaysia
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Carassius auratus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="F-C-a-8"
+                     /db_xref="taxon:7957"
+                     /tissue_type="Flesh"
+                     /geo_loc_name="Australia"
+                     /collection_date="28-May-2010"
+                     /collected_by="DPIRD - APB"
+                     /identified_by="Chris Bird (DPIRD)"
+     misc_feature    >1
+                     /note="putative control region"
+ORIGIN      
+        1 g
+//
+
+LOCUS       PP059104                   1 bp    DNA     linear   VRT 14-JAN-2024
+DEFINITION  Cyprinus carpio isolate F-C-c3 mitochondrion, complete genome.
+ACCESSION   PP059104 REGION: 1
+VERSION     PP059104.1
+KEYWORDS    .
+SOURCE      mitochondrion Cyprinus carpio (common carp)
+  ORGANISM  Cyprinus carpio
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Cyprinidae; Cyprininae; Cyprinus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Ellis,M.R., Wellington,C.M., McDonald,J.I., Gan,H.M. and
+            Sherman,C.D.H.
+  TITLE     Development of a national marine pest molecular reference
+            collection
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Ellis,M.R., Wellington,C.M., McDonald,J.I., Gan,H.M. and
+            Sherman,C.D.H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (26-DEC-2023) Patriot Biotech, Patriot Biotech, Jalan
+            Lagoon Selatan, Subang Jaya, Selangor 47500, Malaysia
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Cyprinus carpio"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="F-C-c3"
+                     /db_xref="taxon:7962"
+                     /tissue_type="Flesh"
+                     /geo_loc_name="Australia"
+                     /collection_date="15-Dec-2020"
+                     /collected_by="DPIRD - APB"
+                     /identified_by="Chris Bird (DPIRD)"
+     gene            >1
+                     /gene="trnF(gaa)"
+     tRNA            >1
+                     /gene="trnF(gaa)"
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       PP411914                   1 bp    DNA     linear   VRT 11-FEB-2025
+DEFINITION  Gasterosteus aculeatus mitochondrion, complete genome.
+ACCESSION   PP411914 REGION: 1
+VERSION     PP411914.1
+KEYWORDS    .
+SOURCE      mitochondrion Gasterosteus aculeatus (three-spined stickleback)
+  ORGANISM  Gasterosteus aculeatus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Perciformes; Cottioidei;
+            Gasterosteales; Gasterosteidae; Gasterosteus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Karlsen,B.O., Adhikari,D., Jorgensen,T.E., Hanssen,I.K., Moum,T.B.,
+            Nordeide,J.T. and Johansen,S.D.
+  TITLE     Two Distinct Maternal Lineages of Threespine Stickleback
+            (Gasterosteus aculeatus) in a Small Norwegian Subarctic Lake
+  JOURNAL   Fishes 9 (7), 285 (2024)
+  REMARK    DOI: 10.3390/fishes9070285
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Karlsen,B.O., Adhikari,D., Jorgensen,T.E., Hanssen,I.K., Moum,T.,
+            Nordeide,J.T. and Johansen,S.D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (28-FEB-2024) Genomics, Nord University,
+            Universitetsalleen 11, BODO, Nordland 8026, Norway
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: QIAGEN CLC Genomics Workbench v. 23
+            Sequencing Technology :: Illumina
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Gasterosteus aculeatus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /bio_material="Mitogenome"
+                     /db_xref="taxon:69293"
+                     /tissue_type="Posterior fin muscle"
+                     /geo_loc_name="Norway"
+                     /lat_lon="68.7803 N 15.1600 E"
+                     /altitude="80 m"
+                     /collection_date="2017"
+                     /note="type: Pelvic-spined"
+     gene            >1
+                     /gene="trnF"
+     tRNA            >1
+                     /gene="trnF"
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       PQ064517                   1 bp    DNA     linear   VRT 28-JUL-2024
+DEFINITION  Noturus insignis isolate NEFC_F19-049 mitochondrion, complete
+            genome.
+ACCESSION   PQ064517 REGION: 1
+VERSION     PQ064517.1
+DBLINK      BioProject: PRJNA633136
+            BioSample: SAMN42123395
+KEYWORDS    .
+SOURCE      mitochondrion Noturus insignis (margined madtom)
+  ORGANISM  Noturus insignis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi; Siluriformes;
+            Ictaluridae; Noturus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Vo,N.M., Maloy,A.P., Coombs,J.A. and Bartron,M.L.
+  TITLE     Freshwater Fish Mitochondrial Genome Project
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Vo,N.M., Maloy,A.P., Coombs,J.A. and Bartron,M.L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (22-JUL-2024) Northeast Fishery Center, US Fish and
+            Wildlife Service, 227 Washington Avenue, Lamar, PA 16848, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Noturus insignis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="NEFC_F19-049"
+                     /isolation_source="Pennsylvania_Allegheny River"
+                     /db_xref="taxon:90663"
+                     /geo_loc_name="USA"
+     gene            >1
+                     /gene="tRNA-Phe"
+                     /locus_tag="ABWI89_001"
+     tRNA            >1
+                     /gene="tRNA-Phe"
+                     /locus_tag="ABWI89_001"
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       PQ064518                   1 bp    DNA     linear   VRT 28-JUL-2024
+DEFINITION  Carpiodes cyprinus isolate NEFC_F22-252 mitochondrion, complete
+            genome.
+ACCESSION   PQ064518 REGION: 1
+VERSION     PQ064518.1
+DBLINK      BioProject: PRJNA633136
+            BioSample: SAMN42123396
+KEYWORDS    .
+SOURCE      mitochondrion Carpiodes cyprinus (quillback)
+  ORGANISM  Carpiodes cyprinus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Catostomoidei; Catostomidae; Carpiodes.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Vo,N.M., Maloy,A.P., Coombs,J.A. and Bartron,M.L.
+  TITLE     Freshwater Fish Mitochondrial Genome Project
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Vo,N.M., Maloy,A.P., Coombs,J.A. and Bartron,M.L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (22-JUL-2024) Northeast Fishery Center, US Fish and
+            Wildlife Service, 227 Washington Avenue, Lamar, PA 16848, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Carpiodes cyprinus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="NEFC_F22-252"
+                     /isolation_source="Wisconson_Lake Michigan"
+                     /db_xref="taxon:244777"
+                     /geo_loc_name="USA"
+     gene            >1
+                     /gene="tRNA-Phe"
+                     /locus_tag="ABWI90_001"
+     tRNA            >1
+                     /gene="tRNA-Phe"
+                     /locus_tag="ABWI90_001"
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       PQ064519                   1 bp    DNA     linear   VRT 05-SEP-2024
+DEFINITION  Moxostoma macrolepidotum isolate NEFC_F22-256 mitochondrion,
+            complete genome.
+ACCESSION   PQ064519 REGION: 1
+VERSION     PQ064519.1
+DBLINK      BioProject: PRJNA633136
+            BioSample: SAMN42123397
+KEYWORDS    .
+SOURCE      mitochondrion Moxostoma macrolepidotum (shorthead redhorse)
+  ORGANISM  Moxostoma macrolepidotum
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Catostomoidei; Catostomidae; Moxostoma.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Vo,N.M., Maloy,A.P., Coombs,J.A. and Bartron,M.L.
+  TITLE     Freshwater Fish Mitochondrial Genome Project
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Vo,N.M., Maloy,A.P., Coombs,J.A. and Bartron,M.L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (22-JUL-2024) Northeast Fishery Center, US Fish and
+            Wildlife Service, 227 Washington Avenue, Lamar, PA 16848, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Moxostoma macrolepidotum"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="NEFC_F22-256"
+                     /isolation_source="Illinois_Lake Michigan"
+                     /db_xref="taxon:196770"
+                     /geo_loc_name="USA"
+     gene            >1
+                     /gene="tRNA-Phe"
+                     /locus_tag="ABWI91_001"
+     tRNA            >1
+                     /gene="tRNA-Phe"
+                     /locus_tag="ABWI91_001"
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       PQ064520                   1 bp    DNA     linear   VRT 05-SEP-2024
+DEFINITION  Moxostoma macrolepidotum isolate NEFC_F22-267 mitochondrion,
+            complete genome.
+ACCESSION   PQ064520 REGION: 1
+VERSION     PQ064520.1
+DBLINK      BioProject: PRJNA633136
+            BioSample: SAMN42123398
+KEYWORDS    .
+SOURCE      mitochondrion Moxostoma macrolepidotum (shorthead redhorse)
+  ORGANISM  Moxostoma macrolepidotum
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Catostomoidei; Catostomidae; Moxostoma.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Vo,N.M., Maloy,A.P., Coombs,J.A. and Bartron,M.L.
+  TITLE     Freshwater Fish Mitochondrial Genome Project
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Vo,N.M., Maloy,A.P., Coombs,J.A. and Bartron,M.L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (22-JUL-2024) Northeast Fishery Center, US Fish and
+            Wildlife Service, 227 Washington Avenue, Lamar, PA 16848, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Moxostoma macrolepidotum"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="NEFC_F22-267"
+                     /isolation_source="Illinois_Lake Michigan"
+                     /db_xref="taxon:196770"
+                     /geo_loc_name="USA"
+     gene            >1
+                     /gene="tRNA-Phe"
+                     /locus_tag="ABWI92_001"
+     tRNA            >1
+                     /gene="tRNA-Phe"
+                     /locus_tag="ABWI92_001"
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       PQ064522                   1 bp    DNA     linear   VRT 28-JUL-2024
+DEFINITION  Aplodinotus grunniens isolate NEFC_F22-280 mitochondrion, complete
+            genome.
+ACCESSION   PQ064522 REGION: 1
+VERSION     PQ064522.1
+DBLINK      BioProject: PRJNA633136
+            BioSample: SAMN42123400
+KEYWORDS    .
+SOURCE      mitochondrion Aplodinotus grunniens (freshwater drum)
+  ORGANISM  Aplodinotus grunniens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Sciaenidae; Aplodinotus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Vo,N.M., Maloy,A.P., Coombs,J.A. and Bartron,M.L.
+  TITLE     Freshwater Fish Mitochondrial Genome Project
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Vo,N.M., Maloy,A.P., Coombs,J.A. and Bartron,M.L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (22-JUL-2024) Northeast Fishery Center, US Fish and
+            Wildlife Service, 227 Washington Avenue, Lamar, PA 16848, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Aplodinotus grunniens"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="NEFC_F22-280"
+                     /isolation_source="Illinois_Lake Michigan"
+                     /db_xref="taxon:225389"
+                     /geo_loc_name="USA"
+     gene            >1
+                     /gene="tRNA-Phe"
+                     /locus_tag="ABWI94_001"
+     tRNA            >1
+                     /gene="tRNA-Phe"
+                     /locus_tag="ABWI94_001"
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       PQ284202                   1 bp    DNA     linear   VRT 07-OCT-2024
+DEFINITION  Oncorhynchus mykiss isolate Onc_Far1 mitochondrion, complete
+            genome.
+ACCESSION   PQ284202 REGION: 1
+VERSION     PQ284202.1
+KEYWORDS    .
+SOURCE      mitochondrion Oncorhynchus mykiss (rainbow trout)
+  ORGANISM  Oncorhynchus mykiss
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Oncorhynchus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Ji,C., Zhao,H. and Wang,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (30-AUG-2024) Tianjin Normal University, School of Life
+            SciencesTianjin Normal University, Tianjin Normal University, No.
+            393, Extension of Bin Shui West Road, Tianjin, Tianjin 300387,
+            China
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: MitoZ v. 2.4
+            Sequencing Technology :: Illumina
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oncorhynchus mykiss"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="Onc_Far1"
+                     /db_xref="taxon:8022"
+                     /geo_loc_name="Denmark"
+     gene            >1
+                     /gene="trnF(gaa)"
+     tRNA            >1
+                     /gene="trnF(gaa)"
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       PQ284207                   1 bp    DNA     linear   VRT 07-OCT-2024
+DEFINITION  Salmo salar isolate Sal_Aus1 mitochondrion, complete genome.
+ACCESSION   PQ284207 REGION: 1
+VERSION     PQ284207.1
+KEYWORDS    .
+SOURCE      mitochondrion Salmo salar (Atlantic salmon)
+  ORGANISM  Salmo salar
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Salmo.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Ji,C., Zhao,H. and Wang,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (30-AUG-2024) Tianjin Normal University, School of Life
+            SciencesTianjin Normal University, Tianjin Normal University, No.
+            393, Extension of Bin Shui West Road, Tianjin, Tianjin 300387,
+            China
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: MitoZ v. 2.4
+            Sequencing Technology :: Illumina
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Salmo salar"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="Sal_Aus1"
+                     /db_xref="taxon:8030"
+                     /geo_loc_name="Australia"
+     gene            >1
+                     /gene="trnF(gaa)"
+     tRNA            >1
+                     /gene="trnF(gaa)"
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+

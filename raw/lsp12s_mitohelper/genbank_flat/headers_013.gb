@@ -1,0 +1,2056 @@
+LOCUS       OM801596                   1 bp    DNA     linear   VRT 28-FEB-2022
+DEFINITION  Cyprinus carpio isolate carp9 small subunit ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   OM801596 REGION: 1
+VERSION     OM801596.1
+KEYWORDS    .
+SOURCE      mitochondrion Cyprinus carpio (common carp)
+  ORGANISM  Cyprinus carpio
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Cyprinidae; Cyprininae; Cyprinus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Toth,B., Ashrafzadeh,M.R., Khosravi,R., Bagi,Z., Feher,M.,
+            Barsony,P., Kovacs,G. and Kusza,S.
+  TITLE     Insights into mitochondrial DNA variation of common carp Cyprinus
+            carpio strains in the Centre of Carpathian Basin
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Toth,B., Ashrafzadeh,M.R., Khosravi,R., Bagi,Z., Feher,M.,
+            Barsony,P., Kovacs,G. and Kusza,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-FEB-2022) Centre for Agricultural Genomics and
+            Biotechnology, University of Debrecen, Egyetem ter 1., Debrecen
+            4032, Hungary
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Cyprinus carpio"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="carp9"
+                     /db_xref="taxon:7962"
+                     /geo_loc_name="Hungary"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       OM801597                   1 bp    DNA     linear   VRT 28-FEB-2022
+DEFINITION  Cyprinus carpio isolate carp10 small subunit ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   OM801597 REGION: 1
+VERSION     OM801597.1
+KEYWORDS    .
+SOURCE      mitochondrion Cyprinus carpio (common carp)
+  ORGANISM  Cyprinus carpio
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Cyprinidae; Cyprininae; Cyprinus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Toth,B., Ashrafzadeh,M.R., Khosravi,R., Bagi,Z., Feher,M.,
+            Barsony,P., Kovacs,G. and Kusza,S.
+  TITLE     Insights into mitochondrial DNA variation of common carp Cyprinus
+            carpio strains in the Centre of Carpathian Basin
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Toth,B., Ashrafzadeh,M.R., Khosravi,R., Bagi,Z., Feher,M.,
+            Barsony,P., Kovacs,G. and Kusza,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-FEB-2022) Centre for Agricultural Genomics and
+            Biotechnology, University of Debrecen, Egyetem ter 1., Debrecen
+            4032, Hungary
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Cyprinus carpio"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="carp10"
+                     /db_xref="taxon:7962"
+                     /geo_loc_name="Hungary"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       OM801598                   1 bp    DNA     linear   VRT 28-FEB-2022
+DEFINITION  Cyprinus carpio isolate carp11 small subunit ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   OM801598 REGION: 1
+VERSION     OM801598.1
+KEYWORDS    .
+SOURCE      mitochondrion Cyprinus carpio (common carp)
+  ORGANISM  Cyprinus carpio
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Cyprinidae; Cyprininae; Cyprinus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Toth,B., Ashrafzadeh,M.R., Khosravi,R., Bagi,Z., Feher,M.,
+            Barsony,P., Kovacs,G. and Kusza,S.
+  TITLE     Insights into mitochondrial DNA variation of common carp Cyprinus
+            carpio strains in the Centre of Carpathian Basin
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Toth,B., Ashrafzadeh,M.R., Khosravi,R., Bagi,Z., Feher,M.,
+            Barsony,P., Kovacs,G. and Kusza,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-FEB-2022) Centre for Agricultural Genomics and
+            Biotechnology, University of Debrecen, Egyetem ter 1., Debrecen
+            4032, Hungary
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Cyprinus carpio"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="carp11"
+                     /db_xref="taxon:7962"
+                     /geo_loc_name="Hungary"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       OM801599                   1 bp    DNA     linear   VRT 28-FEB-2022
+DEFINITION  Cyprinus carpio isolate carp12 small subunit ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   OM801599 REGION: 1
+VERSION     OM801599.1
+KEYWORDS    .
+SOURCE      mitochondrion Cyprinus carpio (common carp)
+  ORGANISM  Cyprinus carpio
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Cyprinidae; Cyprininae; Cyprinus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Toth,B., Ashrafzadeh,M.R., Khosravi,R., Bagi,Z., Feher,M.,
+            Barsony,P., Kovacs,G. and Kusza,S.
+  TITLE     Insights into mitochondrial DNA variation of common carp Cyprinus
+            carpio strains in the Centre of Carpathian Basin
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Toth,B., Ashrafzadeh,M.R., Khosravi,R., Bagi,Z., Feher,M.,
+            Barsony,P., Kovacs,G. and Kusza,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-FEB-2022) Centre for Agricultural Genomics and
+            Biotechnology, University of Debrecen, Egyetem ter 1., Debrecen
+            4032, Hungary
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Cyprinus carpio"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="carp12"
+                     /db_xref="taxon:7962"
+                     /geo_loc_name="Hungary"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       OM801602                   1 bp    DNA     linear   VRT 28-FEB-2022
+DEFINITION  Cyprinus carpio isolate carp15 small subunit ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   OM801602 REGION: 1
+VERSION     OM801602.1
+KEYWORDS    .
+SOURCE      mitochondrion Cyprinus carpio (common carp)
+  ORGANISM  Cyprinus carpio
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Cyprinidae; Cyprininae; Cyprinus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Toth,B., Ashrafzadeh,M.R., Khosravi,R., Bagi,Z., Feher,M.,
+            Barsony,P., Kovacs,G. and Kusza,S.
+  TITLE     Insights into mitochondrial DNA variation of common carp Cyprinus
+            carpio strains in the Centre of Carpathian Basin
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Toth,B., Ashrafzadeh,M.R., Khosravi,R., Bagi,Z., Feher,M.,
+            Barsony,P., Kovacs,G. and Kusza,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-FEB-2022) Centre for Agricultural Genomics and
+            Biotechnology, University of Debrecen, Egyetem ter 1., Debrecen
+            4032, Hungary
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Cyprinus carpio"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="carp15"
+                     /db_xref="taxon:7962"
+                     /geo_loc_name="Hungary"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       OM801603                   1 bp    DNA     linear   VRT 28-FEB-2022
+DEFINITION  Cyprinus carpio isolate carp16 small subunit ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   OM801603 REGION: 1
+VERSION     OM801603.1
+KEYWORDS    .
+SOURCE      mitochondrion Cyprinus carpio (common carp)
+  ORGANISM  Cyprinus carpio
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Cyprinidae; Cyprininae; Cyprinus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Toth,B., Ashrafzadeh,M.R., Khosravi,R., Bagi,Z., Feher,M.,
+            Barsony,P., Kovacs,G. and Kusza,S.
+  TITLE     Insights into mitochondrial DNA variation of common carp Cyprinus
+            carpio strains in the Centre of Carpathian Basin
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Toth,B., Ashrafzadeh,M.R., Khosravi,R., Bagi,Z., Feher,M.,
+            Barsony,P., Kovacs,G. and Kusza,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-FEB-2022) Centre for Agricultural Genomics and
+            Biotechnology, University of Debrecen, Egyetem ter 1., Debrecen
+            4032, Hungary
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Cyprinus carpio"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="carp16"
+                     /db_xref="taxon:7962"
+                     /geo_loc_name="Hungary"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       OM801604                   1 bp    DNA     linear   VRT 28-FEB-2022
+DEFINITION  Cyprinus carpio isolate carp17 small subunit ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   OM801604 REGION: 1
+VERSION     OM801604.1
+KEYWORDS    .
+SOURCE      mitochondrion Cyprinus carpio (common carp)
+  ORGANISM  Cyprinus carpio
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Cyprinidae; Cyprininae; Cyprinus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Toth,B., Ashrafzadeh,M.R., Khosravi,R., Bagi,Z., Feher,M.,
+            Barsony,P., Kovacs,G. and Kusza,S.
+  TITLE     Insights into mitochondrial DNA variation of common carp Cyprinus
+            carpio strains in the Centre of Carpathian Basin
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Toth,B., Ashrafzadeh,M.R., Khosravi,R., Bagi,Z., Feher,M.,
+            Barsony,P., Kovacs,G. and Kusza,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-FEB-2022) Centre for Agricultural Genomics and
+            Biotechnology, University of Debrecen, Egyetem ter 1., Debrecen
+            4032, Hungary
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Cyprinus carpio"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="carp17"
+                     /db_xref="taxon:7962"
+                     /geo_loc_name="Hungary"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       ON479145                   1 bp    DNA     linear   VRT 11-FEB-2023
+DEFINITION  Lepomis macrochirus isolate PO08 small subunit ribosomal RNA gene,
+            partial sequence; tRNA-Val gene, complete sequence; and large
+            subunit ribosomal RNA gene, partial sequence; mitochondrial.
+ACCESSION   ON479145 REGION: 1
+VERSION     ON479145.1
+KEYWORDS    .
+SOURCE      mitochondrion Lepomis macrochirus (bluegill)
+  ORGANISM  Lepomis macrochirus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Centrarchiformes; Centrarchoidei;
+            Centrarchidae; Lepomis.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Amin,M.H.F., Lee,H.J., Byun,H.-W., Jang,J.E., Kim,A.R. and
+            Kim,H.-W.
+  TITLE     Haplotype difference of freshwater fish species revealed by
+            environmental DNA metabarcoding analysis of three streams in Korea
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Amin,M.H.F., Lee,H.J., Byun,H.-W., Jang,J.E., Kim,A.R. and
+            Kim,H.-W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-MAY-2022) Department of Biological Science, Sangji
+            University, Sangjidae-gil 83, Wonju, Gangwon 26339, South Korea
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Lepomis macrochirus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="PO08"
+                     /db_xref="taxon:13106"
+                     /geo_loc_name="South Korea: Hoam Reservoir"
+                     /collection_date="18-Mar-2022"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 c
+//
+
+LOCUS       OP537865                   1 bp    DNA     linear   VRT 02-OCT-2022
+DEFINITION  Anguilla rostrata isolate 62319 small subunit ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   OP537865 REGION: 1
+VERSION     OP537865.1
+KEYWORDS    .
+SOURCE      mitochondrion Anguilla rostrata (American eel)
+  ORGANISM  Anguilla rostrata
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Anguilliformes;
+            Anguillidae; Anguilla.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Williford,D., Hajovsky,P. and Anderson,J.
+  TITLE     12S barcoding of Texas fishes
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Williford,D., Hajovsky,P. and Anderson,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-SEP-2022) Texas Parks and Wildlife Department, Perry
+            R. Bass Marine Fisheries Research Station and Hatchery, 3864 FM RD
+            3280, Palacios, TX 77465, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Anguilla rostrata"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="62319"
+                     /db_xref="taxon:7938"
+                     /geo_loc_name="USA: Rockport, Texas"
+                     /collection_date="2020"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       OP547324                   1 bp    DNA     linear   VRT 03-OCT-2022
+DEFINITION  Lota lota isolate 16-223 small subunit ribosomal RNA gene, partial
+            sequence; mitochondrial.
+ACCESSION   OP547324 REGION: 1
+VERSION     OP547324.1
+KEYWORDS    .
+SOURCE      mitochondrion Lota lota (burbot)
+  ORGANISM  Lota lota
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Zeiogadaria; Gadariae; Gadiformes; Gadoidei;
+            Lotidae; Lota.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Halffman,C.M., Potter,B.A., Reuther,J.D., McKinney,H.J.,
+            Finney,B.P., Kemp,B.M., Lanoe,F.B., Lopez,J.A., Holmes,C.E.,
+            Palmer,E. and Capps,M.
+  TITLE     Late Pleistocene Fishing in Beringia
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Halffman,C.M., Potter,B.A., Reuther,J.D., McKinney,H.J.,
+            Finney,B.P., Kemp,B.M., Lanoe,F.B., Lopez,J.A., Holmes,C.E.,
+            Palmer,E. and Capps,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-SEP-2022) Laboratories of Molecular Anthropology and
+            Microbiome Research, University of Oklahoma, 101 David L Boren
+            Blvd, Norman, OK 73072, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Lota lota"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="16-223"
+                     /db_xref="taxon:69944"
+                     /note="case 4137"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       OP882668                   1 bp    DNA     linear   VRT 18-JUL-2023
+DEFINITION  Oncorhynchus mykiss isolate CES-417 mitochondrion, complete genome.
+ACCESSION   OP882668 REGION: 1
+VERSION     OP882668.1
+DBLINK      BioProject: PRJNA898089
+            BioSample: SAMN31703031
+KEYWORDS    .
+SOURCE      mitochondrion Oncorhynchus mykiss (rainbow trout)
+  ORGANISM  Oncorhynchus mykiss
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Oncorhynchus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Hardy,C.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-NOV-2022) Land and Water, CSIRO, Clunies Ross Street,
+            Canberra, ACT 2601, Australia
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: CLC Genomics Workbench v. 22
+            Sequencing Technology :: Illumina
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oncorhynchus mykiss"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="CES-417"
+                     /db_xref="taxon:8022"
+                     /tissue_type="muscle"
+                     /geo_loc_name="Australia: Australian Capital Territory,
+                     Cotter River"
+                     /lat_lon="35.3617 S 148.8775 E"
+     tRNA            >1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       OP931294                   1 bp    DNA     linear   VRT 16-JAN-2024
+DEFINITION  Cyprinus carpio isolate NMBE 1070877 small subunit ribosomal RNA
+            gene, partial sequence; mitochondrial.
+ACCESSION   OP931294 REGION: 1
+VERSION     OP931294.1
+KEYWORDS    .
+SOURCE      mitochondrion Cyprinus carpio (common carp)
+  ORGANISM  Cyprinus carpio
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Cyprinidae; Cyprininae; Cyprinus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Blackman,R.C., Walser,J.C., Rueber,L., Brantschen,J., Villalba,S.,
+            Brodersen,J., Seehausen,O. and Altermatt,F.
+  TITLE     General principles for assignments of communities from eDNA: Open
+            versus closed taxonomic databases
+  JOURNAL   Environ DNA 5 (2), 326-342 (2023)
+  REMARK    DOI: 10.1002/edn3.382
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Ruber,L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-NOV-2022) Vertebrates, Naturhistorisches Museum Bern,
+            Bernastrasse 15, Bern, Bern 3005, Switzerland
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Cyprinus carpio"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="NMBE 1070877"
+                     /db_xref="taxon:7962"
+                     /geo_loc_name="Germany: Bodensee"
+                     /lat_lon="47.645218 N 9.500414 E"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 c
+//
+
+LOCUS       OP931313                   1 bp    DNA     linear   VRT 16-JAN-2024
+DEFINITION  Esox lucius isolate NMBE 1086593 small subunit ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   OP931313 REGION: 1
+VERSION     OP931313.1
+KEYWORDS    .
+SOURCE      mitochondrion Esox lucius (northern pike)
+  ORGANISM  Esox lucius
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Esociformes; Esocidae; Esox.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Blackman,R.C., Walser,J.C., Rueber,L., Brantschen,J., Villalba,S.,
+            Brodersen,J., Seehausen,O. and Altermatt,F.
+  TITLE     General principles for assignments of communities from eDNA: Open
+            versus closed taxonomic databases
+  JOURNAL   Environ DNA 5 (2), 326-342 (2023)
+  REMARK    DOI: 10.1002/edn3.382
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Ruber,L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-NOV-2022) Vertebrates, Naturhistorisches Museum Bern,
+            Bernastrasse 15, Bern, Bern 3005, Switzerland
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Esox lucius"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="NMBE 1086593"
+                     /db_xref="taxon:8010"
+                     /geo_loc_name="Switzerland: AG, Ruppoldingen, Aare"
+                     /lat_lon="47.30479 N 7.860005 E"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 c
+//
+
+LOCUS       OP931314                   1 bp    DNA     linear   VRT 16-JAN-2024
+DEFINITION  Esox lucius isolate NMBE 1062904 small subunit ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   OP931314 REGION: 1
+VERSION     OP931314.1
+KEYWORDS    .
+SOURCE      mitochondrion Esox lucius (northern pike)
+  ORGANISM  Esox lucius
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Esociformes; Esocidae; Esox.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Blackman,R.C., Walser,J.C., Rueber,L., Brantschen,J., Villalba,S.,
+            Brodersen,J., Seehausen,O. and Altermatt,F.
+  TITLE     General principles for assignments of communities from eDNA: Open
+            versus closed taxonomic databases
+  JOURNAL   Environ DNA 5 (2), 326-342 (2023)
+  REMARK    DOI: 10.1002/edn3.382
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Ruber,L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-NOV-2022) Vertebrates, Naturhistorisches Museum Bern,
+            Bernastrasse 15, Bern, Bern 3005, Switzerland
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Esox lucius"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="NMBE 1062904"
+                     /db_xref="taxon:8010"
+                     /geo_loc_name="Switzerland: VD, Lac Brenet"
+                     /lat_lon="46.667495 N 6.321482 E"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 c
+//
+
+LOCUS       OP931315                   1 bp    DNA     linear   VRT 16-JAN-2024
+DEFINITION  Esox lucius isolate NMBE 1072804 small subunit ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   OP931315 REGION: 1
+VERSION     OP931315.1
+KEYWORDS    .
+SOURCE      mitochondrion Esox lucius (northern pike)
+  ORGANISM  Esox lucius
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Esociformes; Esocidae; Esox.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Blackman,R.C., Walser,J.C., Rueber,L., Brantschen,J., Villalba,S.,
+            Brodersen,J., Seehausen,O. and Altermatt,F.
+  TITLE     General principles for assignments of communities from eDNA: Open
+            versus closed taxonomic databases
+  JOURNAL   Environ DNA 5 (2), 326-342 (2023)
+  REMARK    DOI: 10.1002/edn3.382
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Ruber,L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-NOV-2022) Vertebrates, Naturhistorisches Museum Bern,
+            Bernastrasse 15, Bern, Bern 3005, Switzerland
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Esox lucius"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="NMBE 1072804"
+                     /db_xref="taxon:8010"
+                     /geo_loc_name="France: Lac de Chalain"
+                     /lat_lon="46.66995 N 5.776783 E"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 c
+//
+
+LOCUS       OP931322                   1 bp    DNA     linear   VRT 16-JAN-2024
+DEFINITION  Esox lucius isolate NMBE 1073406 small subunit ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   OP931322 REGION: 1
+VERSION     OP931322.1
+KEYWORDS    .
+SOURCE      mitochondrion Esox lucius (northern pike)
+  ORGANISM  Esox lucius
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Esociformes; Esocidae; Esox.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Blackman,R.C., Walser,J.C., Rueber,L., Brantschen,J., Villalba,S.,
+            Brodersen,J., Seehausen,O. and Altermatt,F.
+  TITLE     General principles for assignments of communities from eDNA: Open
+            versus closed taxonomic databases
+  JOURNAL   Environ DNA 5 (2), 326-342 (2023)
+  REMARK    DOI: 10.1002/edn3.382
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Ruber,L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-NOV-2022) Vertebrates, Naturhistorisches Museum Bern,
+            Bernastrasse 15, Bern, Bern 3005, Switzerland
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Esox lucius"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="NMBE 1073406"
+                     /db_xref="taxon:8010"
+                     /geo_loc_name="France: Lac de Remoray"
+                     /lat_lon="46.778166 N 6.267166 E"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 c
+//
+
+LOCUS       OP931332                   1 bp    DNA     linear   VRT 16-JAN-2024
+DEFINITION  Esox lucius isolate NMBE 1066808 small subunit ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   OP931332 REGION: 1
+VERSION     OP931332.1
+KEYWORDS    .
+SOURCE      mitochondrion Esox lucius (northern pike)
+  ORGANISM  Esox lucius
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Esociformes; Esocidae; Esox.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Blackman,R.C., Walser,J.C., Rueber,L., Brantschen,J., Villalba,S.,
+            Brodersen,J., Seehausen,O. and Altermatt,F.
+  TITLE     General principles for assignments of communities from eDNA: Open
+            versus closed taxonomic databases
+  JOURNAL   Environ DNA 5 (2), 326-342 (2023)
+  REMARK    DOI: 10.1002/edn3.382
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Ruber,L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-NOV-2022) Vertebrates, Naturhistorisches Museum Bern,
+            Bernastrasse 15, Bern, Bern 3005, Switzerland
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Esox lucius"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="NMBE 1066808"
+                     /db_xref="taxon:8010"
+                     /geo_loc_name="Switzerland: ZG, Zugersee"
+                     /lat_lon="47.140277 N 8.468888 E"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 c
+//
+
+LOCUS       OP931333                   1 bp    DNA     linear   VRT 16-JAN-2024
+DEFINITION  Gasterosteus aculeatus isolate Fishec 144024 small subunit
+            ribosomal RNA gene, partial sequence; mitochondrial.
+ACCESSION   OP931333 REGION: 1
+VERSION     OP931333.1
+KEYWORDS    .
+SOURCE      mitochondrion Gasterosteus aculeatus (three-spined stickleback)
+  ORGANISM  Gasterosteus aculeatus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Perciformes; Cottioidei;
+            Gasterosteales; Gasterosteidae; Gasterosteus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Blackman,R.C., Walser,J.C., Rueber,L., Brantschen,J., Villalba,S.,
+            Brodersen,J., Seehausen,O. and Altermatt,F.
+  TITLE     General principles for assignments of communities from eDNA: Open
+            versus closed taxonomic databases
+  JOURNAL   Environ DNA 5 (2), 326-342 (2023)
+  REMARK    DOI: 10.1002/edn3.382
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Ruber,L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-NOV-2022) Vertebrates, Naturhistorisches Museum Bern,
+            Bernastrasse 15, Bern, Bern 3005, Switzerland
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Gasterosteus aculeatus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="Fishec 144024"
+                     /db_xref="taxon:69293"
+                     /geo_loc_name="Switzerland: AG, Ruppoldingen, Aare"
+                     /lat_lon="47.305479 N 7.861061 E"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 c
+//
+
+LOCUS       OP931334                   1 bp    DNA     linear   VRT 16-JAN-2024
+DEFINITION  Gasterosteus aculeatus isolate NMBE 1086465 small subunit ribosomal
+            RNA gene, partial sequence; mitochondrial.
+ACCESSION   OP931334 REGION: 1
+VERSION     OP931334.1
+KEYWORDS    .
+SOURCE      mitochondrion Gasterosteus aculeatus (three-spined stickleback)
+  ORGANISM  Gasterosteus aculeatus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Perciformes; Cottioidei;
+            Gasterosteales; Gasterosteidae; Gasterosteus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Blackman,R.C., Walser,J.C., Rueber,L., Brantschen,J., Villalba,S.,
+            Brodersen,J., Seehausen,O. and Altermatt,F.
+  TITLE     General principles for assignments of communities from eDNA: Open
+            versus closed taxonomic databases
+  JOURNAL   Environ DNA 5 (2), 326-342 (2023)
+  REMARK    DOI: 10.1002/edn3.382
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Ruber,L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-NOV-2022) Vertebrates, Naturhistorisches Museum Bern,
+            Bernastrasse 15, Bern, Bern 3005, Switzerland
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Gasterosteus aculeatus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="NMBE 1086465"
+                     /db_xref="taxon:69293"
+                     /geo_loc_name="Switzerland: SO, Ruppoldingen, Aare"
+                     /lat_lon="47.285768 N 7.847484 E"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 c
+//
+
+LOCUS       OP931390                   1 bp    DNA     linear   VRT 16-JAN-2024
+DEFINITION  Lepomis gibbosus isolate NMBE 1086539 small subunit ribosomal RNA
+            gene, partial sequence; mitochondrial.
+ACCESSION   OP931390 REGION: 1
+VERSION     OP931390.1
+KEYWORDS    .
+SOURCE      mitochondrion Lepomis gibbosus (pumpkinseed sunfish)
+  ORGANISM  Lepomis gibbosus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Centrarchiformes; Centrarchoidei;
+            Centrarchidae; Lepomis.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Blackman,R.C., Walser,J.C., Rueber,L., Brantschen,J., Villalba,S.,
+            Brodersen,J., Seehausen,O. and Altermatt,F.
+  TITLE     General principles for assignments of communities from eDNA: Open
+            versus closed taxonomic databases
+  JOURNAL   Environ DNA 5 (2), 326-342 (2023)
+  REMARK    DOI: 10.1002/edn3.382
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Ruber,L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-NOV-2022) Vertebrates, Naturhistorisches Museum Bern,
+            Bernastrasse 15, Bern, Bern 3005, Switzerland
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Lepomis gibbosus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="NMBE 1086539"
+                     /db_xref="taxon:270329"
+                     /geo_loc_name="Switzerland: SO, Ruppoldingen, Aare"
+                     /lat_lon="47.309933 N 7.869282 E"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 c
+//
+
+LOCUS       OP931394                   1 bp    DNA     linear   VRT 16-JAN-2024
+DEFINITION  Lepomis gibbosus isolate NMBE 1070993 small subunit ribosomal RNA
+            gene, partial sequence; mitochondrial.
+ACCESSION   OP931394 REGION: 1
+VERSION     OP931394.1
+KEYWORDS    .
+SOURCE      mitochondrion Lepomis gibbosus (pumpkinseed sunfish)
+  ORGANISM  Lepomis gibbosus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Centrarchiformes; Centrarchoidei;
+            Centrarchidae; Lepomis.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Blackman,R.C., Walser,J.C., Rueber,L., Brantschen,J., Villalba,S.,
+            Brodersen,J., Seehausen,O. and Altermatt,F.
+  TITLE     General principles for assignments of communities from eDNA: Open
+            versus closed taxonomic databases
+  JOURNAL   Environ DNA 5 (2), 326-342 (2023)
+  REMARK    DOI: 10.1002/edn3.382
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Ruber,L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-NOV-2022) Vertebrates, Naturhistorisches Museum Bern,
+            Bernastrasse 15, Bern, Bern 3005, Switzerland
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Lepomis gibbosus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="NMBE 1070993"
+                     /db_xref="taxon:270329"
+                     /geo_loc_name="Germany: Bodensee"
+                     /lat_lon="47.715083 N 9.063944 E"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 c
+//
+
+LOCUS       OP931399                   1 bp    DNA     linear   VRT 16-JAN-2024
+DEFINITION  Lepomis gibbosus isolate NMBE 1088094 small subunit ribosomal RNA
+            gene, partial sequence; mitochondrial.
+ACCESSION   OP931399 REGION: 1
+VERSION     OP931399.1
+KEYWORDS    .
+SOURCE      mitochondrion Lepomis gibbosus (pumpkinseed sunfish)
+  ORGANISM  Lepomis gibbosus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Centrarchiformes; Centrarchoidei;
+            Centrarchidae; Lepomis.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Blackman,R.C., Walser,J.C., Rueber,L., Brantschen,J., Villalba,S.,
+            Brodersen,J., Seehausen,O. and Altermatt,F.
+  TITLE     General principles for assignments of communities from eDNA: Open
+            versus closed taxonomic databases
+  JOURNAL   Environ DNA 5 (2), 326-342 (2023)
+  REMARK    DOI: 10.1002/edn3.382
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Ruber,L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-NOV-2022) Vertebrates, Naturhistorisches Museum Bern,
+            Bernastrasse 15, Bern, Bern 3005, Switzerland
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Lepomis gibbosus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="NMBE 1088094"
+                     /db_xref="taxon:270329"
+                     /geo_loc_name="Switzerland: TI, La Spiaggetta, Ticino"
+                     /lat_lon="46.222096 N 9.037708 E"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 c
+//
+
+LOCUS       OP931423                   1 bp    DNA     linear   VRT 16-JAN-2024
+DEFINITION  Lota lota isolate NMBE 1071041 small subunit ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   OP931423 REGION: 1
+VERSION     OP931423.1
+KEYWORDS    .
+SOURCE      mitochondrion Lota lota (burbot)
+  ORGANISM  Lota lota
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Zeiogadaria; Gadariae; Gadiformes; Gadoidei;
+            Lotidae; Lota.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Blackman,R.C., Walser,J.C., Rueber,L., Brantschen,J., Villalba,S.,
+            Brodersen,J., Seehausen,O. and Altermatt,F.
+  TITLE     General principles for assignments of communities from eDNA: Open
+            versus closed taxonomic databases
+  JOURNAL   Environ DNA 5 (2), 326-342 (2023)
+  REMARK    DOI: 10.1002/edn3.382
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Ruber,L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-NOV-2022) Vertebrates, Naturhistorisches Museum Bern,
+            Bernastrasse 15, Bern, Bern 3005, Switzerland
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Lota lota"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="NMBE 1071041"
+                     /db_xref="taxon:69944"
+                     /geo_loc_name="Switzerland: TG, Bodensee"
+                     /lat_lon="47.528055 N 9.426388 E"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 c
+//
+
+LOCUS       OP931424                   1 bp    DNA     linear   VRT 16-JAN-2024
+DEFINITION  Lota lota isolate NMBE 1062902 small subunit ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   OP931424 REGION: 1
+VERSION     OP931424.1
+KEYWORDS    .
+SOURCE      mitochondrion Lota lota (burbot)
+  ORGANISM  Lota lota
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Zeiogadaria; Gadariae; Gadiformes; Gadoidei;
+            Lotidae; Lota.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Blackman,R.C., Walser,J.C., Rueber,L., Brantschen,J., Villalba,S.,
+            Brodersen,J., Seehausen,O. and Altermatt,F.
+  TITLE     General principles for assignments of communities from eDNA: Open
+            versus closed taxonomic databases
+  JOURNAL   Environ DNA 5 (2), 326-342 (2023)
+  REMARK    DOI: 10.1002/edn3.382
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Ruber,L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-NOV-2022) Vertebrates, Naturhistorisches Museum Bern,
+            Bernastrasse 15, Bern, Bern 3005, Switzerland
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Lota lota"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="NMBE 1062902"
+                     /db_xref="taxon:69944"
+                     /geo_loc_name="Switzerland: VD, Lac Brenet"
+                     /lat_lon="46.677869 N 6.326937 E"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 c
+//
+
+LOCUS       OP931437                   1 bp    DNA     linear   VRT 16-JAN-2024
+DEFINITION  Lota lota isolate NMBE 1071982 small subunit ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   OP931437 REGION: 1
+VERSION     OP931437.1
+KEYWORDS    .
+SOURCE      mitochondrion Lota lota (burbot)
+  ORGANISM  Lota lota
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Zeiogadaria; Gadariae; Gadiformes; Gadoidei;
+            Lotidae; Lota.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Blackman,R.C., Walser,J.C., Rueber,L., Brantschen,J., Villalba,S.,
+            Brodersen,J., Seehausen,O. and Altermatt,F.
+  TITLE     General principles for assignments of communities from eDNA: Open
+            versus closed taxonomic databases
+  JOURNAL   Environ DNA 5 (2), 326-342 (2023)
+  REMARK    DOI: 10.1002/edn3.382
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Ruber,L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-NOV-2022) Vertebrates, Naturhistorisches Museum Bern,
+            Bernastrasse 15, Bern, Bern 3005, Switzerland
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Lota lota"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="NMBE 1071982"
+                     /db_xref="taxon:69944"
+                     /geo_loc_name="Switzerland: SZ, Zurichsee"
+                     /lat_lon="47.212027 N 8.926083 E"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 c
+//
+
+LOCUS       OP931439                   1 bp    DNA     linear   VRT 16-JAN-2024
+DEFINITION  Micropterus salmoides isolate NMBE 1067865 small subunit ribosomal
+            RNA gene, partial sequence; mitochondrial.
+ACCESSION   OP931439 REGION: 1
+VERSION     OP931439.1
+KEYWORDS    .
+SOURCE      mitochondrion Micropterus salmoides (largemouth bass)
+  ORGANISM  Micropterus salmoides
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Centrarchiformes; Centrarchoidei;
+            Centrarchidae; Micropterus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Blackman,R.C., Walser,J.C., Rueber,L., Brantschen,J., Villalba,S.,
+            Brodersen,J., Seehausen,O. and Altermatt,F.
+  TITLE     General principles for assignments of communities from eDNA: Open
+            versus closed taxonomic databases
+  JOURNAL   Environ DNA 5 (2), 326-342 (2023)
+  REMARK    DOI: 10.1002/edn3.382
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Ruber,L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-NOV-2022) Vertebrates, Naturhistorisches Museum Bern,
+            Bernastrasse 15, Bern, Bern 3005, Switzerland
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Micropterus salmoides"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="NMBE 1067865"
+                     /db_xref="taxon:27706"
+                     /geo_loc_name="Italy: Lago di Garda"
+                     /lat_lon="45.630555 N 10.608333 E"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 c
+//
+
+LOCUS       OP931446                   1 bp    DNA     linear   VRT 16-JAN-2024
+DEFINITION  Neogobius melanostomus isolate NMBE 1086895 small subunit ribosomal
+            RNA gene, partial sequence; mitochondrial.
+ACCESSION   OP931446 REGION: 1
+VERSION     OP931446.1
+KEYWORDS    .
+SOURCE      mitochondrion Neogobius melanostomus (round goby)
+  ORGANISM  Neogobius melanostomus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Gobiaria; Gobiiformes; Gobioidei; Gobiidae;
+            Benthophilinae; Neogobiini; Neogobius.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Blackman,R.C., Walser,J.C., Rueber,L., Brantschen,J., Villalba,S.,
+            Brodersen,J., Seehausen,O. and Altermatt,F.
+  TITLE     General principles for assignments of communities from eDNA: Open
+            versus closed taxonomic databases
+  JOURNAL   Environ DNA 5 (2), 326-342 (2023)
+  REMARK    DOI: 10.1002/edn3.382
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Ruber,L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-NOV-2022) Vertebrates, Naturhistorisches Museum Bern,
+            Bernastrasse 15, Bern, Bern 3005, Switzerland
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Neogobius melanostomus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="NMBE 1086895"
+                     /db_xref="taxon:47308"
+                     /geo_loc_name="Switzerland: AG, Kaiseraugst, Rhein"
+                     /lat_lon="47.541388 N 7.723113 E"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 c
+//
+
+LOCUS       OP931449                   1 bp    DNA     linear   VRT 16-JAN-2024
+DEFINITION  Oncorhynchus mykiss isolate NMBE 1078740 small subunit ribosomal
+            RNA gene, partial sequence; mitochondrial.
+ACCESSION   OP931449 REGION: 1
+VERSION     OP931449.1
+KEYWORDS    .
+SOURCE      mitochondrion Oncorhynchus mykiss (rainbow trout)
+  ORGANISM  Oncorhynchus mykiss
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Oncorhynchus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Blackman,R.C., Walser,J.C., Rueber,L., Brantschen,J., Villalba,S.,
+            Brodersen,J., Seehausen,O. and Altermatt,F.
+  TITLE     General principles for assignments of communities from eDNA: Open
+            versus closed taxonomic databases
+  JOURNAL   Environ DNA 5 (2), 326-342 (2023)
+  REMARK    DOI: 10.1002/edn3.382
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Ruber,L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-NOV-2022) Vertebrates, Naturhistorisches Museum Bern,
+            Bernastrasse 15, Bern, Bern 3005, Switzerland
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oncorhynchus mykiss"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="NMBE 1078740"
+                     /db_xref="taxon:8022"
+                     /geo_loc_name="Switzerland: OW, Herrschaftshaus,
+                     Chaltibach"
+                     /lat_lon="46.869634 N 8.370396 E"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 c
+//
+
+LOCUS       OP931450                   1 bp    DNA     linear   VRT 16-JAN-2024
+DEFINITION  Oncorhynchus mykiss isolate NMBE 1071051 small subunit ribosomal
+            RNA gene, partial sequence; mitochondrial.
+ACCESSION   OP931450 REGION: 1
+VERSION     OP931450.1
+KEYWORDS    .
+SOURCE      mitochondrion Oncorhynchus mykiss (rainbow trout)
+  ORGANISM  Oncorhynchus mykiss
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Oncorhynchus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Blackman,R.C., Walser,J.C., Rueber,L., Brantschen,J., Villalba,S.,
+            Brodersen,J., Seehausen,O. and Altermatt,F.
+  TITLE     General principles for assignments of communities from eDNA: Open
+            versus closed taxonomic databases
+  JOURNAL   Environ DNA 5 (2), 326-342 (2023)
+  REMARK    DOI: 10.1002/edn3.382
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Ruber,L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-NOV-2022) Vertebrates, Naturhistorisches Museum Bern,
+            Bernastrasse 15, Bern, Bern 3005, Switzerland
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oncorhynchus mykiss"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="NMBE 1071051"
+                     /db_xref="taxon:8022"
+                     /geo_loc_name="Germany: Bodensee"
+                     /lat_lon="47.644917 N 9.443363 E"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 c
+//
+
+LOCUS       OP931455                   1 bp    DNA     linear   VRT 16-JAN-2024
+DEFINITION  Oncorhynchus mykiss isolate NMBE 1085840 small subunit ribosomal
+            RNA gene, partial sequence; mitochondrial.
+ACCESSION   OP931455 REGION: 1
+VERSION     OP931455.1
+KEYWORDS    .
+SOURCE      mitochondrion Oncorhynchus mykiss (rainbow trout)
+  ORGANISM  Oncorhynchus mykiss
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Oncorhynchus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Blackman,R.C., Walser,J.C., Rueber,L., Brantschen,J., Villalba,S.,
+            Brodersen,J., Seehausen,O. and Altermatt,F.
+  TITLE     General principles for assignments of communities from eDNA: Open
+            versus closed taxonomic databases
+  JOURNAL   Environ DNA 5 (2), 326-342 (2023)
+  REMARK    DOI: 10.1002/edn3.382
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Ruber,L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-NOV-2022) Vertebrates, Naturhistorisches Museum Bern,
+            Bernastrasse 15, Bern, Bern 3005, Switzerland
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oncorhynchus mykiss"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="NMBE 1085840"
+                     /db_xref="taxon:8022"
+                     /geo_loc_name="Switzerland: GR, Reichenau, Rhein"
+                     /lat_lon="46.823493 N 9.407869 E"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 c
+//
+
+LOCUS       OP931663                   1 bp    DNA     linear   VRT 16-JAN-2024
+DEFINITION  Salmo salar isolate Fishec 166660 small subunit ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   OP931663 REGION: 1
+VERSION     OP931663.1
+KEYWORDS    .
+SOURCE      mitochondrion Salmo salar (Atlantic salmon)
+  ORGANISM  Salmo salar
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Salmo.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Blackman,R.C., Walser,J.C., Rueber,L., Brantschen,J., Villalba,S.,
+            Brodersen,J., Seehausen,O. and Altermatt,F.
+  TITLE     General principles for assignments of communities from eDNA: Open
+            versus closed taxonomic databases
+  JOURNAL   Environ DNA 5 (2), 326-342 (2023)
+  REMARK    DOI: 10.1002/edn3.382
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Ruber,L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-NOV-2022) Vertebrates, Naturhistorisches Museum Bern,
+            Bernastrasse 15, Bern, Bern 3005, Switzerland
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Salmo salar"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="Fishec 166660"
+                     /db_xref="taxon:8030"
+                     /geo_loc_name="Switzerland: AG, Mohlin, Mohlinbach"
+                     /lat_lon="47.549693 N 7.858829 E"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 c
+//
+
+LOCUS       OP931682                   1 bp    DNA     linear   VRT 16-JAN-2024
+DEFINITION  Salmo trutta isolate NMBE 1084026 small subunit ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   OP931682 REGION: 1
+VERSION     OP931682.1
+KEYWORDS    .
+SOURCE      mitochondrion Salmo trutta (river trout)
+  ORGANISM  Salmo trutta
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Salmo.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Blackman,R.C., Walser,J.C., Rueber,L., Brantschen,J., Villalba,S.,
+            Brodersen,J., Seehausen,O. and Altermatt,F.
+  TITLE     General principles for assignments of communities from eDNA: Open
+            versus closed taxonomic databases
+  JOURNAL   Environ DNA 5 (2), 326-342 (2023)
+  REMARK    DOI: 10.1002/edn3.382
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Ruber,L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-NOV-2022) Vertebrates, Naturhistorisches Museum Bern,
+            Bernastrasse 15, Bern, Bern 3005, Switzerland
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Salmo trutta"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="NMBE 1084026"
+                     /db_xref="taxon:8032"
+                     /geo_loc_name="Switzerland: JU, Boncourt, Allaine"
+                     /lat_lon="47.500992 N 7.012032 E"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 c
+//
+
+LOCUS       OP931685                   1 bp    DNA     linear   VRT 16-JAN-2024
+DEFINITION  Salmo trutta isolate NMBE 1071118 small subunit ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   OP931685 REGION: 1
+VERSION     OP931685.1
+KEYWORDS    .
+SOURCE      mitochondrion Salmo trutta (river trout)
+  ORGANISM  Salmo trutta
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Salmo.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Blackman,R.C., Walser,J.C., Rueber,L., Brantschen,J., Villalba,S.,
+            Brodersen,J., Seehausen,O. and Altermatt,F.
+  TITLE     General principles for assignments of communities from eDNA: Open
+            versus closed taxonomic databases
+  JOURNAL   Environ DNA 5 (2), 326-342 (2023)
+  REMARK    DOI: 10.1002/edn3.382
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Ruber,L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-NOV-2022) Vertebrates, Naturhistorisches Museum Bern,
+            Bernastrasse 15, Bern, Bern 3005, Switzerland
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Salmo trutta"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="NMBE 1071118"
+                     /db_xref="taxon:8032"
+                     /geo_loc_name="Switzerland: TG, Bodensee"
+                     /lat_lon="47.672749 N 9.081061 E"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 c
+//
+
+LOCUS       OP931686                   1 bp    DNA     linear   VRT 16-JAN-2024
+DEFINITION  Salmo trutta isolate Fishec 174700 small subunit ribosomal RNA
+            gene, partial sequence; mitochondrial.
+ACCESSION   OP931686 REGION: 1
+VERSION     OP931686.1
+KEYWORDS    .
+SOURCE      mitochondrion Salmo trutta (river trout)
+  ORGANISM  Salmo trutta
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Salmo.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Blackman,R.C., Walser,J.C., Rueber,L., Brantschen,J., Villalba,S.,
+            Brodersen,J., Seehausen,O. and Altermatt,F.
+  TITLE     General principles for assignments of communities from eDNA: Open
+            versus closed taxonomic databases
+  JOURNAL   Environ DNA 5 (2), 326-342 (2023)
+  REMARK    DOI: 10.1002/edn3.382
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Ruber,L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-NOV-2022) Vertebrates, Naturhistorisches Museum Bern,
+            Bernastrasse 15, Bern, Bern 3005, Switzerland
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Salmo trutta"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="Fishec 174700"
+                     /db_xref="taxon:8032"
+                     /geo_loc_name="Switzerland: JU, Les Ravines, Doubs"
+                     /lat_lon="47.35498 N 7.17013 E"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 c
+//
+
+LOCUS       OP931692                   1 bp    DNA     linear   VRT 16-JAN-2024
+DEFINITION  Salmo trutta isolate NMBE 1065696 small subunit ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   OP931692 REGION: 1
+VERSION     OP931692.1
+KEYWORDS    .
+SOURCE      mitochondrion Salmo trutta (river trout)
+  ORGANISM  Salmo trutta
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Salmo.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Blackman,R.C., Walser,J.C., Rueber,L., Brantschen,J., Villalba,S.,
+            Brodersen,J., Seehausen,O. and Altermatt,F.
+  TITLE     General principles for assignments of communities from eDNA: Open
+            versus closed taxonomic databases
+  JOURNAL   Environ DNA 5 (2), 326-342 (2023)
+  REMARK    DOI: 10.1002/edn3.382
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Ruber,L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-NOV-2022) Vertebrates, Naturhistorisches Museum Bern,
+            Bernastrasse 15, Bern, Bern 3005, Switzerland
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Salmo trutta"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="NMBE 1065696"
+                     /db_xref="taxon:8032"
+                     /geo_loc_name="Switzerland: VD, Lac Leman"
+                     /lat_lon="46.507444 N 6.539083 E"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 c
+//
+
+LOCUS       OP931701                   1 bp    DNA     linear   VRT 16-JAN-2024
+DEFINITION  Salmo trutta isolate NMBE 1082667 small subunit ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   OP931701 REGION: 1
+VERSION     OP931701.1
+KEYWORDS    .
+SOURCE      mitochondrion Salmo trutta (river trout)
+  ORGANISM  Salmo trutta
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Salmo.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Blackman,R.C., Walser,J.C., Rueber,L., Brantschen,J., Villalba,S.,
+            Brodersen,J., Seehausen,O. and Altermatt,F.
+  TITLE     General principles for assignments of communities from eDNA: Open
+            versus closed taxonomic databases
+  JOURNAL   Environ DNA 5 (2), 326-342 (2023)
+  REMARK    DOI: 10.1002/edn3.382
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Ruber,L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-NOV-2022) Vertebrates, Naturhistorisches Museum Bern,
+            Bernastrasse 15, Bern, Bern 3005, Switzerland
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Salmo trutta"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="NMBE 1082667"
+                     /db_xref="taxon:8032"
+                     /geo_loc_name="Switzerland: GR, Casaccia, Maira"
+                     /lat_lon="46.384822 N 9.6599 E"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 c
+//
+
+LOCUS       OP931703                   1 bp    DNA     linear   VRT 16-JAN-2024
+DEFINITION  Salmo trutta isolate NMBE 1082671 small subunit ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   OP931703 REGION: 1
+VERSION     OP931703.1
+KEYWORDS    .
+SOURCE      mitochondrion Salmo trutta (river trout)
+  ORGANISM  Salmo trutta
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Salmo.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Blackman,R.C., Walser,J.C., Rueber,L., Brantschen,J., Villalba,S.,
+            Brodersen,J., Seehausen,O. and Altermatt,F.
+  TITLE     General principles for assignments of communities from eDNA: Open
+            versus closed taxonomic databases
+  JOURNAL   Environ DNA 5 (2), 326-342 (2023)
+  REMARK    DOI: 10.1002/edn3.382
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Ruber,L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-NOV-2022) Vertebrates, Naturhistorisches Museum Bern,
+            Bernastrasse 15, Bern, Bern 3005, Switzerland
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Salmo trutta"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="NMBE 1082671"
+                     /db_xref="taxon:8032"
+                     /geo_loc_name="Switzerland: GR, Casaccia, Maira"
+                     /lat_lon="46.384822 N 9.6599 E"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 c
+//
+
+LOCUS       OP931704                   1 bp    DNA     linear   VRT 16-JAN-2024
+DEFINITION  Salmo trutta isolate NMBE 1088411 small subunit ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   OP931704 REGION: 1
+VERSION     OP931704.1
+KEYWORDS    .
+SOURCE      mitochondrion Salmo trutta (river trout)
+  ORGANISM  Salmo trutta
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Salmo.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Blackman,R.C., Walser,J.C., Rueber,L., Brantschen,J., Villalba,S.,
+            Brodersen,J., Seehausen,O. and Altermatt,F.
+  TITLE     General principles for assignments of communities from eDNA: Open
+            versus closed taxonomic databases
+  JOURNAL   Environ DNA 5 (2), 326-342 (2023)
+  REMARK    DOI: 10.1002/edn3.382
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Ruber,L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-NOV-2022) Vertebrates, Naturhistorisches Museum Bern,
+            Bernastrasse 15, Bern, Bern 3005, Switzerland
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Salmo trutta"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="NMBE 1088411"
+                     /db_xref="taxon:8032"
+                     /geo_loc_name="Switzerland: GR, Julierpass, Ova dal
+                     Vallun"
+                     /lat_lon="46.471057 N 9.750354 E"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 c
+//
+
+LOCUS       OP931711                   1 bp    DNA     linear   VRT 16-JAN-2024
+DEFINITION  Salmo trutta isolate Fishec 167073 small subunit ribosomal RNA
+            gene, partial sequence; mitochondrial.
+ACCESSION   OP931711 REGION: 1
+VERSION     OP931711.1
+KEYWORDS    .
+SOURCE      mitochondrion Salmo trutta (river trout)
+  ORGANISM  Salmo trutta
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Salmo.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Blackman,R.C., Walser,J.C., Rueber,L., Brantschen,J., Villalba,S.,
+            Brodersen,J., Seehausen,O. and Altermatt,F.
+  TITLE     General principles for assignments of communities from eDNA: Open
+            versus closed taxonomic databases
+  JOURNAL   Environ DNA 5 (2), 326-342 (2023)
+  REMARK    DOI: 10.1002/edn3.382
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Ruber,L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-NOV-2022) Vertebrates, Naturhistorisches Museum Bern,
+            Bernastrasse 15, Bern, Bern 3005, Switzerland
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Salmo trutta"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="Fishec 167073"
+                     /db_xref="taxon:8032"
+                     /geo_loc_name="Switzerland: TI, La Spiaggetta, Ticino"
+                     /lat_lon="46.220697 N 9.038255 E"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 c
+//
+
+LOCUS       OP931712                   1 bp    DNA     linear   VRT 16-JAN-2024
+DEFINITION  Salvelinus fontinalis isolate NMBE 1088336 small subunit ribosomal
+            RNA gene, partial sequence; mitochondrial.
+ACCESSION   OP931712 REGION: 1
+VERSION     OP931712.1
+KEYWORDS    .
+SOURCE      mitochondrion Salvelinus fontinalis (brook trout)
+  ORGANISM  Salvelinus fontinalis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Salvelinus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Blackman,R.C., Walser,J.C., Rueber,L., Brantschen,J., Villalba,S.,
+            Brodersen,J., Seehausen,O. and Altermatt,F.
+  TITLE     General principles for assignments of communities from eDNA: Open
+            versus closed taxonomic databases
+  JOURNAL   Environ DNA 5 (2), 326-342 (2023)
+  REMARK    DOI: 10.1002/edn3.382
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Ruber,L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-NOV-2022) Vertebrates, Naturhistorisches Museum Bern,
+            Bernastrasse 15, Bern, Bern 3005, Switzerland
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Salvelinus fontinalis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="NMBE 1088336"
+                     /db_xref="taxon:8038"
+                     /geo_loc_name="Switzerland: GR, Fluelapass, Fluelabach"
+                     /lat_lon="46.765596 N 9.941301 E"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 c
+//
+
+LOCUS       OP931713                   1 bp    DNA     linear   VRT 16-JAN-2024
+DEFINITION  Salvelinus fontinalis isolate NMBE 1079370 small subunit ribosomal
+            RNA gene, partial sequence; mitochondrial.
+ACCESSION   OP931713 REGION: 1
+VERSION     OP931713.1
+KEYWORDS    .
+SOURCE      mitochondrion Salvelinus fontinalis (brook trout)
+  ORGANISM  Salvelinus fontinalis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Salvelinus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Blackman,R.C., Walser,J.C., Rueber,L., Brantschen,J., Villalba,S.,
+            Brodersen,J., Seehausen,O. and Altermatt,F.
+  TITLE     General principles for assignments of communities from eDNA: Open
+            versus closed taxonomic databases
+  JOURNAL   Environ DNA 5 (2), 326-342 (2023)
+  REMARK    DOI: 10.1002/edn3.382
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Ruber,L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-NOV-2022) Vertebrates, Naturhistorisches Museum Bern,
+            Bernastrasse 15, Bern, Bern 3005, Switzerland
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Salvelinus fontinalis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="NMBE 1079370"
+                     /db_xref="taxon:8038"
+                     /geo_loc_name="Switzerland: OW, Schwendi Kaltbach, Grosse
+                     Schliere"
+                     /lat_lon="46.90069 N 8.13002 E"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 c
+//
+
+LOCUS       OP931718                   1 bp    DNA     linear   VRT 16-JAN-2024
+DEFINITION  Salvelinus namaycush isolate NMBE 1088343 small subunit ribosomal
+            RNA gene, partial sequence; mitochondrial.
+ACCESSION   OP931718 REGION: 1
+VERSION     OP931718.1
+KEYWORDS    .
+SOURCE      mitochondrion Salvelinus namaycush (lake trout)
+  ORGANISM  Salvelinus namaycush
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Salvelinus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Blackman,R.C., Walser,J.C., Rueber,L., Brantschen,J., Villalba,S.,
+            Brodersen,J., Seehausen,O. and Altermatt,F.
+  TITLE     General principles for assignments of communities from eDNA: Open
+            versus closed taxonomic databases
+  JOURNAL   Environ DNA 5 (2), 326-342 (2023)
+  REMARK    DOI: 10.1002/edn3.382
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Ruber,L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-NOV-2022) Vertebrates, Naturhistorisches Museum Bern,
+            Bernastrasse 15, Bern, Bern 3005, Switzerland
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Salvelinus namaycush"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="NMBE 1088343"
+                     /db_xref="taxon:8040"
+                     /geo_loc_name="Switzerland: GR, Fluelapass, Fluelabach"
+                     /lat_lon="46.765596 N 9.941301 E"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 c
+//
+
+LOCUS       OP931719                   1 bp    DNA     linear   VRT 16-JAN-2024
+DEFINITION  Salvelinus namaycush isolate NMBE 1063690 small subunit ribosomal
+            RNA gene, partial sequence; mitochondrial.
+ACCESSION   OP931719 REGION: 1
+VERSION     OP931719.1
+KEYWORDS    .
+SOURCE      mitochondrion Salvelinus namaycush (lake trout)
+  ORGANISM  Salvelinus namaycush
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Salvelinus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Blackman,R.C., Walser,J.C., Rueber,L., Brantschen,J., Villalba,S.,
+            Brodersen,J., Seehausen,O. and Altermatt,F.
+  TITLE     General principles for assignments of communities from eDNA: Open
+            versus closed taxonomic databases
+  JOURNAL   Environ DNA 5 (2), 326-342 (2023)
+  REMARK    DOI: 10.1002/edn3.382
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Ruber,L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-NOV-2022) Vertebrates, Naturhistorisches Museum Bern,
+            Bernastrasse 15, Bern, Bern 3005, Switzerland
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Salvelinus namaycush"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="NMBE 1063690"
+                     /db_xref="taxon:8040"
+                     /geo_loc_name="Switzerland: GR, Lago di Poschiavo"
+                     /lat_lon="46.28975 N 10.080611 E"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 c
+//
+
+LOCUS       OP931761                   1 bp    DNA     linear   VRT 16-JAN-2024
+DEFINITION  Scardinius erythrophthalmus isolate NMBE 1057382 small subunit
+            ribosomal RNA gene, partial sequence; mitochondrial.
+ACCESSION   OP931761 REGION: 1
+VERSION     OP931761.1
+KEYWORDS    .
+SOURCE      mitochondrion Scardinius erythrophthalmus (rudd)
+  ORGANISM  Scardinius erythrophthalmus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Leuciscidae; Leuciscinae; Scardinius.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Blackman,R.C., Walser,J.C., Rueber,L., Brantschen,J., Villalba,S.,
+            Brodersen,J., Seehausen,O. and Altermatt,F.
+  TITLE     General principles for assignments of communities from eDNA: Open
+            versus closed taxonomic databases
+  JOURNAL   Environ DNA 5 (2), 326-342 (2023)
+  REMARK    DOI: 10.1002/edn3.382
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Ruber,L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-NOV-2022) Vertebrates, Naturhistorisches Museum Bern,
+            Bernastrasse 15, Bern, Bern 3005, Switzerland
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Scardinius erythrophthalmus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="NMBE 1057382"
+                     /db_xref="taxon:58319"
+                     /geo_loc_name="France: Lac du Bourget"
+                     /lat_lon="45.681383 N 5.892216 E"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 c
+//
+
+LOCUS       OP931763                   1 bp    DNA     linear   VRT 16-JAN-2024
+DEFINITION  Scardinius erythrophthalmus isolate NMBE 1072073 small subunit
+            ribosomal RNA gene, partial sequence; mitochondrial.
+ACCESSION   OP931763 REGION: 1
+VERSION     OP931763.1
+KEYWORDS    .
+SOURCE      mitochondrion Scardinius erythrophthalmus (rudd)
+  ORGANISM  Scardinius erythrophthalmus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Leuciscidae; Leuciscinae; Scardinius.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Blackman,R.C., Walser,J.C., Rueber,L., Brantschen,J., Villalba,S.,
+            Brodersen,J., Seehausen,O. and Altermatt,F.
+  TITLE     General principles for assignments of communities from eDNA: Open
+            versus closed taxonomic databases
+  JOURNAL   Environ DNA 5 (2), 326-342 (2023)
+  REMARK    DOI: 10.1002/edn3.382
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Ruber,L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-NOV-2022) Vertebrates, Naturhistorisches Museum Bern,
+            Bernastrasse 15, Bern, Bern 3005, Switzerland
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Scardinius erythrophthalmus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="NMBE 1072073"
+                     /db_xref="taxon:58319"
+                     /geo_loc_name="Switzerland: ZH, Zurichsee"
+                     /lat_lon="47.279333 N 8.613111 E"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 c
+//
+
+LOCUS       OP931849                   1 bp    DNA     linear   VRT 16-JAN-2024
+DEFINITION  Tinca tinca isolate NMBE 1086471 small subunit ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   OP931849 REGION: 1
+VERSION     OP931849.1
+KEYWORDS    .
+SOURCE      mitochondrion Tinca tinca (tench)
+  ORGANISM  Tinca tinca
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Tincidae; Tinca.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Blackman,R.C., Walser,J.C., Rueber,L., Brantschen,J., Villalba,S.,
+            Brodersen,J., Seehausen,O. and Altermatt,F.
+  TITLE     General principles for assignments of communities from eDNA: Open
+            versus closed taxonomic databases
+  JOURNAL   Environ DNA 5 (2), 326-342 (2023)
+  REMARK    DOI: 10.1002/edn3.382
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Ruber,L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-NOV-2022) Vertebrates, Naturhistorisches Museum Bern,
+            Bernastrasse 15, Bern, Bern 3005, Switzerland
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Tinca tinca"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="NMBE 1086471"
+                     /db_xref="taxon:27717"
+                     /geo_loc_name="Switzerland: SO, Ruppoldingen, Aare"
+                     /lat_lon="47.285768 N 7.847484 E"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 c
+//
+
+LOCUS       OP931860                   1 bp    DNA     linear   VRT 16-JAN-2024
+DEFINITION  Tinca tinca isolate NMBE 1069166 small subunit ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   OP931860 REGION: 1
+VERSION     OP931860.1
+KEYWORDS    .
+SOURCE      mitochondrion Tinca tinca (tench)
+  ORGANISM  Tinca tinca
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Tincidae; Tinca.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Blackman,R.C., Walser,J.C., Rueber,L., Brantschen,J., Villalba,S.,
+            Brodersen,J., Seehausen,O. and Altermatt,F.
+  TITLE     General principles for assignments of communities from eDNA: Open
+            versus closed taxonomic databases
+  JOURNAL   Environ DNA 5 (2), 326-342 (2023)
+  REMARK    DOI: 10.1002/edn3.382
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Ruber,L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-NOV-2022) Vertebrates, Naturhistorisches Museum Bern,
+            Bernastrasse 15, Bern, Bern 3005, Switzerland
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Tinca tinca"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="NMBE 1069166"
+                     /db_xref="taxon:27717"
+                     /geo_loc_name="Switzerland: LU, Vierwaldstattersee"
+                     /lat_lon="47.077778 N 8.436768 E"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 c
+//
+
+LOCUS       OQ198765                   1 bp    DNA     linear   VRT 14-JAN-2023
+DEFINITION  Dorosoma cepedianum isolate 62661 small subunit ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   OQ198765 REGION: 1
+VERSION     OQ198765.1
+KEYWORDS    .
+SOURCE      mitochondrion Dorosoma cepedianum (American gizzard shad)
+  ORGANISM  Dorosoma cepedianum
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Clupei; Clupeiformes;
+            Clupeoidei; Clupeidae; Dorosoma.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Williford,D., Hajovsky,P. and Anderson,J.
+  TITLE     12S barcoding of Texas fishes
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Williford,D., Hajovsky,P. and Anderson,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-JAN-2023) Texas Parks and Wildlife Department, Perry
+            R. Bass Marine Fisheries Research Station and Hatchery, 3864 FM RD
+            3280, Palacios, TX 77465, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Dorosoma cepedianum"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="62661"
+                     /db_xref="taxon:336262"
+                     /geo_loc_name="USA: Cedar Lakes, Texas"
+                     /collection_date="2022"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       OQ198766                   1 bp    DNA     linear   VRT 14-JAN-2023
+DEFINITION  Dorosoma cepedianum isolate 62662 small subunit ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   OQ198766 REGION: 1
+VERSION     OQ198766.1
+KEYWORDS    .
+SOURCE      mitochondrion Dorosoma cepedianum (American gizzard shad)
+  ORGANISM  Dorosoma cepedianum
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Clupei; Clupeiformes;
+            Clupeoidei; Clupeidae; Dorosoma.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Williford,D., Hajovsky,P. and Anderson,J.
+  TITLE     12S barcoding of Texas fishes
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Williford,D., Hajovsky,P. and Anderson,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-JAN-2023) Texas Parks and Wildlife Department, Perry
+            R. Bass Marine Fisheries Research Station and Hatchery, 3864 FM RD
+            3280, Palacios, TX 77465, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Dorosoma cepedianum"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="62662"
+                     /db_xref="taxon:336262"
+                     /geo_loc_name="USA: Cedar Lakes, Texas"
+                     /collection_date="2022"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       OQ198767                   1 bp    DNA     linear   VRT 14-JAN-2023
+DEFINITION  Dorosoma cepedianum isolate 62663 small subunit ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   OQ198767 REGION: 1
+VERSION     OQ198767.1
+KEYWORDS    .
+SOURCE      mitochondrion Dorosoma cepedianum (American gizzard shad)
+  ORGANISM  Dorosoma cepedianum
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Clupei; Clupeiformes;
+            Clupeoidei; Clupeidae; Dorosoma.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Williford,D., Hajovsky,P. and Anderson,J.
+  TITLE     12S barcoding of Texas fishes
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Williford,D., Hajovsky,P. and Anderson,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-JAN-2023) Texas Parks and Wildlife Department, Perry
+            R. Bass Marine Fisheries Research Station and Hatchery, 3864 FM RD
+            3280, Palacios, TX 77465, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Dorosoma cepedianum"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="62663"
+                     /db_xref="taxon:336262"
+                     /geo_loc_name="USA: Cedar Lakes, Texas"
+                     /collection_date="2022"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 g
+//
+

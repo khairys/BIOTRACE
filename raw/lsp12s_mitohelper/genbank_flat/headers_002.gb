@@ -1,0 +1,1746 @@
+LOCUS       AY372807                   1 bp    DNA     linear   VRT 23-JUL-2004
+DEFINITION  Stizostedion canadense 12S ribosomal RNA gene, partial sequence;
+            mitochondrial.
+ACCESSION   AY372807 REGION: 1
+VERSION     AY372807.1
+KEYWORDS    .
+SOURCE      mitochondrion Sander canadensis (sauger)
+  ORGANISM  Sander canadensis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Perciformes; Percoidei; Percidae;
+            Luciopercinae; Sander.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Sloss,B.L., Billington,N. and Burr,B.M.
+  TITLE     A molecular phylogeny of the Percidae (Teleostei, Perciformes)
+            based on mitochondrial DNA sequence
+  JOURNAL   Mol. Phylogenet. Evol. 32 (2), 545-562 (2004)
+   PUBMED   15223037
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Sloss,B.L., Billington,N. and Burr,B.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (22-AUG-2003) Wisconsin Cooperative Fisheries Research
+            Unit, BRD-USGS, College of Natural Resources, University of
+            Wisconsin-Stevens Point, 1900 Franklin St., Stevens Point, WI
+            54481, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Sander canadensis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:283034"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 c
+//
+
+LOCUS       AY372812                   1 bp    DNA     linear   VRT 23-JUL-2004
+DEFINITION  Morone chrysops 12S ribosomal RNA gene, partial sequence;
+            mitochondrial.
+ACCESSION   AY372812 REGION: 1
+VERSION     AY372812.1
+KEYWORDS    .
+SOURCE      mitochondrion Morone chrysops (white bass)
+  ORGANISM  Morone chrysops
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Moronidae; Morone.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Sloss,B.L., Billington,N. and Burr,B.M.
+  TITLE     A molecular phylogeny of the Percidae (Teleostei, Perciformes)
+            based on mitochondrial DNA sequence
+  JOURNAL   Mol. Phylogenet. Evol. 32 (2), 545-562 (2004)
+   PUBMED   15223037
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Sloss,B.L., Billington,N. and Burr,B.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (22-AUG-2003) Wisconsin Cooperative Fisheries Research
+            Unit, BRD-USGS, College of Natural Resources, University of
+            Wisconsin-Stevens Point, 1900 Franklin St., Stevens Point, WI
+            54481, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Morone chrysops"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:46259"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 c
+//
+
+LOCUS       AY430248                   1 bp    DNA     linear   VRT 26-AUG-2004
+DEFINITION  Hiodon alosoides 12S ribosomal RNA gene, partial sequence;
+            mitochondrial.
+ACCESSION   AY430248 REGION: 1
+VERSION     AY430248.1
+KEYWORDS    .
+SOURCE      mitochondrion Hiodon alosoides (goldeye)
+  ORGANISM  Hiodon alosoides
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Osteoglossocephala;
+            Osteoglossomorpha; Hiodontiformes; Hiodontidae; Hiodon.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Lopez,J.A., Chen,W.-J. and Orti,G.
+  TITLE     Esociform phylogeny
+  JOURNAL   Copeia 2004 (3), 449-464 (2004)
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Chen,W.-J. and Orti,G.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-OCT-2003) School of Biological Sciences, University
+            of Nebraska-Lincoln, 314 Manter Hall, Lincoln, NE 68588, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Hiodon alosoides"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:54904"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 a
+//
+
+LOCUS       AY430252                   1 bp    DNA     linear   VRT 26-AUG-2004
+DEFINITION  Ameiurus nebulosus 12S ribosomal RNA gene, partial sequence;
+            mitochondrial.
+ACCESSION   AY430252 REGION: 1
+VERSION     AY430252.1
+KEYWORDS    .
+SOURCE      mitochondrion Ameiurus nebulosus (brown bullhead)
+  ORGANISM  Ameiurus nebulosus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi; Siluriformes;
+            Ictaluridae; Ameiurus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Lopez,J.A., Chen,W.-J. and Orti,G.
+  TITLE     Esociform phylogeny
+  JOURNAL   Copeia 2004 (3), 449-464 (2004)
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Chen,W.-J. and Orti,G.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-OCT-2003) School of Biological Sciences, University
+            of Nebraska-Lincoln, 314 Manter Hall, Lincoln, NE 68588, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Ameiurus nebulosus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:27778"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 a
+//
+
+LOCUS       AY430253                   1 bp    DNA     linear   VRT 26-AUG-2004
+DEFINITION  Pimephales promelas 12S ribosomal RNA gene, partial sequence;
+            mitochondrial.
+ACCESSION   AY430253 REGION: 1
+VERSION     AY430253.1
+KEYWORDS    .
+SOURCE      mitochondrion Pimephales promelas (fathead minnow)
+  ORGANISM  Pimephales promelas
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Leuciscidae; Pogonichthyinae; Pimephales.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Lopez,J.A., Chen,W.-J. and Orti,G.
+  TITLE     Esociform phylogeny
+  JOURNAL   Copeia 2004 (3), 449-464 (2004)
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Chen,W.-J. and Orti,G.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-OCT-2003) School of Biological Sciences, University
+            of Nebraska-Lincoln, 314 Manter Hall, Lincoln, NE 68588, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Pimephales promelas"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:90988"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 a
+//
+
+LOCUS       AY430268                   1 bp    DNA     linear   VRT 26-AUG-2004
+DEFINITION  Umbra limi 12S ribosomal RNA gene, partial sequence; mitochondrial.
+ACCESSION   AY430268 REGION: 1
+VERSION     AY430268.1
+KEYWORDS    .
+SOURCE      mitochondrion Umbra limi (central mudminnow)
+  ORGANISM  Umbra limi
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Esociformes; Umbridae; Umbra.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Lopez,J.A., Chen,W.-J. and Orti,G.
+  TITLE     Esociform phylogeny
+  JOURNAL   Copeia 2004 (3), 449-464 (2004)
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Chen,W.-J. and Orti,G.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-OCT-2003) School of Biological Sciences, University
+            of Nebraska-Lincoln, 314 Manter Hall, Lincoln, NE 68588, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Umbra limi"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:75935"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 a
+//
+
+LOCUS       AY430273                   1 bp    DNA     linear   VRT 26-AUG-2004
+DEFINITION  Esox lucius 12S ribosomal RNA gene, partial sequence;
+            mitochondrial.
+ACCESSION   AY430273 REGION: 1
+VERSION     AY430273.1
+KEYWORDS    .
+SOURCE      mitochondrion Esox lucius (northern pike)
+  ORGANISM  Esox lucius
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Esociformes; Esocidae; Esox.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Lopez,J.A., Chen,W.-J. and Orti,G.
+  TITLE     Esociform phylogeny
+  JOURNAL   Copeia 2004 (3), 449-464 (2004)
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Chen,W.-J. and Orti,G.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-OCT-2003) School of Biological Sciences, University
+            of Nebraska-Lincoln, 314 Manter Hall, Lincoln, NE 68588, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Esox lucius"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8010"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 a
+//
+
+LOCUS       AY430274                   1 bp    DNA     linear   VRT 26-AUG-2004
+DEFINITION  Esox masquinongy 12S ribosomal RNA gene, partial sequence;
+            mitochondrial.
+ACCESSION   AY430274 REGION: 1
+VERSION     AY430274.1
+KEYWORDS    .
+SOURCE      mitochondrion Esox masquinongy (muskellunge)
+  ORGANISM  Esox masquinongy
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Esociformes; Esocidae; Esox.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Lopez,J.A., Chen,W.-J. and Orti,G.
+  TITLE     Esociform phylogeny
+  JOURNAL   Copeia 2004 (3), 449-464 (2004)
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Chen,W.-J. and Orti,G.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-OCT-2003) School of Biological Sciences, University
+            of Nebraska-Lincoln, 314 Manter Hall, Lincoln, NE 68588, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Esox masquinongy"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:126735"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 a
+//
+
+LOCUS       AY430276                   1 bp    DNA     linear   VRT 26-AUG-2004
+DEFINITION  Esox niger 12S ribosomal RNA gene, partial sequence; mitochondrial.
+ACCESSION   AY430276 REGION: 1
+VERSION     AY430276.1
+KEYWORDS    .
+SOURCE      mitochondrion Esox niger (chain pickerel)
+  ORGANISM  Esox niger
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Esociformes; Esocidae; Esox.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Lopez,J.A., Chen,W.-J. and Orti,G.
+  TITLE     Esociform phylogeny
+  JOURNAL   Copeia 2004 (3), 449-464 (2004)
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Chen,W.-J. and Orti,G.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-OCT-2003) School of Biological Sciences, University
+            of Nebraska-Lincoln, 314 Manter Hall, Lincoln, NE 68588, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Esox niger"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:184451"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 a
+//
+
+LOCUS       AY430283                   1 bp    DNA     linear   VRT 26-AUG-2004
+DEFINITION  Etheostoma caeruleum 12S ribosomal RNA gene, partial sequence;
+            mitochondrial.
+ACCESSION   AY430283 REGION: 1
+VERSION     AY430283.1
+KEYWORDS    .
+SOURCE      mitochondrion Etheostoma caeruleum (rainbow darter)
+  ORGANISM  Etheostoma caeruleum
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Perciformes; Percoidei; Percidae;
+            Etheostomatinae; Etheostoma.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Lopez,J.A., Chen,W.-J. and Orti,G.
+  TITLE     Esociform phylogeny
+  JOURNAL   Copeia 2004 (3), 449-464 (2004)
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Chen,W.-J. and Orti,G.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-OCT-2003) School of Biological Sciences, University
+            of Nebraska-Lincoln, 314 Manter Hall, Lincoln, NE 68588, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Etheostoma caeruleum"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:54319"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 a
+//
+
+LOCUS       AY430284                   1 bp    DNA     linear   VRT 26-AUG-2004
+DEFINITION  Lepomis macrochirus 12S ribosomal RNA gene, partial sequence;
+            mitochondrial.
+ACCESSION   AY430284 REGION: 1
+VERSION     AY430284.1
+KEYWORDS    .
+SOURCE      mitochondrion Lepomis macrochirus (bluegill)
+  ORGANISM  Lepomis macrochirus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Centrarchiformes; Centrarchoidei;
+            Centrarchidae; Lepomis.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Lopez,J.A., Chen,W.-J. and Orti,G.
+  TITLE     Esociform phylogeny
+  JOURNAL   Copeia 2004 (3), 449-464 (2004)
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Chen,W.-J. and Orti,G.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-OCT-2003) School of Biological Sciences, University
+            of Nebraska-Lincoln, 314 Manter Hall, Lincoln, NE 68588, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Lepomis macrochirus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:13106"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 a
+//
+
+LOCUS       AY442347                   1 bp    DNA     linear   VRT 26-JUL-2016
+DEFINITION  Amia calva mitochondrion, complete genome.
+ACCESSION   AY442347 REGION: 1
+VERSION     AY442347.1
+KEYWORDS    .
+SOURCE      mitochondrion Amia calva (bowfin)
+  ORGANISM  Amia calva
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Holostei; Amiiformes; Amiidae; Amia.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Dunn,K.A., Yang,Z., Coates,M. and Thomas,M.G.
+  TITLE     Molecular evidence for Permian teleosts
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Dunn,K.A., Yang,Z., Coates,M. and Thomas,M.G.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-OCT-2003) Department of Biology, University College
+            London, Darwin Building, Gower Street, London WC1E 6BT, United
+            Kingdom
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Amia calva"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:7924"
+     tRNA            >1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       AY458870                   1 bp    DNA     linear   VRT 29-APR-2004
+DEFINITION  Ictalurus punctatus 12S ribosomal RNA gene, partial sequence;
+            tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   AY458870 REGION: 1
+VERSION     AY458870.1
+KEYWORDS    .
+SOURCE      mitochondrion Ictalurus punctatus (channel catfish)
+  ORGANISM  Ictalurus punctatus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi; Siluriformes;
+            Ictaluridae; Ictalurus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Wilcox,T.P., Garcia de Leon,F.J., Hendrickson,D.A. and Hillis,D.M.
+  TITLE     Convergence among cave catfishes: long-branch attraction and a
+            Bayesian relative rates test
+  JOURNAL   Mol. Phylogenet. Evol. 31 (3), 1101-1113 (2004)
+   PUBMED   15120403
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Wilcox,T.P., Garcia de Leon,F.J., Hendrickson,D.A. and Hillis,D.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (04-NOV-2003) Section of Integrative Biology, University
+            of Texas, 1 University Station C0930, Austin, TX 78712, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Ictalurus punctatus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:7998"
+     misc_feature    <1..>1
+                     /note="contains 12S ribosomal RNA, tRNA-Val and 16S
+                     ribosomal RNA genes"
+ORIGIN      
+        1 c
+//
+
+LOCUS       AY458872                   1 bp    DNA     linear   VRT 29-APR-2004
+DEFINITION  Ameiurus natalis voucher TNHC 25769 12S ribosomal RNA gene, partial
+            sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA
+            gene, partial sequence; mitochondrial.
+ACCESSION   AY458872 REGION: 1
+VERSION     AY458872.1
+KEYWORDS    .
+SOURCE      mitochondrion Ameiurus natalis (yellow bullhead)
+  ORGANISM  Ameiurus natalis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi; Siluriformes;
+            Ictaluridae; Ameiurus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Wilcox,T.P., Garcia de Leon,F.J., Hendrickson,D.A. and Hillis,D.M.
+  TITLE     Convergence among cave catfishes: long-branch attraction and a
+            Bayesian relative rates test
+  JOURNAL   Mol. Phylogenet. Evol. 31 (3), 1101-1113 (2004)
+   PUBMED   15120403
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Wilcox,T.P., Garcia de Leon,F.J., Hendrickson,D.A. and Hillis,D.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (04-NOV-2003) Section of Integrative Biology, University
+            of Texas, 1 University Station C0930, Austin, TX 78712, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Ameiurus natalis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="TNHC 25769"
+                     /db_xref="taxon:66912"
+     misc_feature    <1..>1
+                     /note="contains 12S ribosomal RNA, tRNA-Val and 16S
+                     ribosomal RNA genes"
+ORIGIN      
+        1 c
+//
+
+LOCUS       AY458873                   1 bp    DNA     linear   VRT 29-APR-2004
+DEFINITION  Ameiurus nebulosus voucher TNHC 47496 12S ribosomal RNA gene,
+            partial sequence; tRNA-Val gene, complete sequence; and 16S
+            ribosomal RNA gene, partial sequence; mitochondrial.
+ACCESSION   AY458873 REGION: 1
+VERSION     AY458873.1
+KEYWORDS    .
+SOURCE      mitochondrion Ameiurus nebulosus (brown bullhead)
+  ORGANISM  Ameiurus nebulosus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi; Siluriformes;
+            Ictaluridae; Ameiurus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Wilcox,T.P., Garcia de Leon,F.J., Hendrickson,D.A. and Hillis,D.M.
+  TITLE     Convergence among cave catfishes: long-branch attraction and a
+            Bayesian relative rates test
+  JOURNAL   Mol. Phylogenet. Evol. 31 (3), 1101-1113 (2004)
+   PUBMED   15120403
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Wilcox,T.P., Garcia de Leon,F.J., Hendrickson,D.A. and Hillis,D.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (04-NOV-2003) Section of Integrative Biology, University
+            of Texas, 1 University Station C0930, Austin, TX 78712, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Ameiurus nebulosus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="TNHC 47496"
+                     /db_xref="taxon:27778"
+     misc_feature    <1..>1
+                     /note="contains 12S ribosomal RNA, tRNA-Val and 16S
+                     ribosomal RNA genes"
+ORIGIN      
+        1 c
+//
+
+LOCUS       AY458874                   1 bp    DNA     linear   VRT 29-APR-2004
+DEFINITION  Noturus gyrinus voucher TNHC 25004 12S ribosomal RNA gene, partial
+            sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA
+            gene, partial sequence; mitochondrial.
+ACCESSION   AY458874 REGION: 1
+VERSION     AY458874.1
+KEYWORDS    .
+SOURCE      mitochondrion Noturus gyrinus (tadpole madtom)
+  ORGANISM  Noturus gyrinus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi; Siluriformes;
+            Ictaluridae; Noturus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Wilcox,T.P., Garcia de Leon,F.J., Hendrickson,D.A. and Hillis,D.M.
+  TITLE     Convergence among cave catfishes: long-branch attraction and a
+            Bayesian relative rates test
+  JOURNAL   Mol. Phylogenet. Evol. 31 (3), 1101-1113 (2004)
+   PUBMED   15120403
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Wilcox,T.P., Garcia de Leon,F.J., Hendrickson,D.A. and Hillis,D.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (04-NOV-2003) Section of Integrative Biology, University
+            of Texas, 1 University Station C0930, Austin, TX 78712, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Noturus gyrinus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="TNHC 25004"
+                     /db_xref="taxon:90661"
+     misc_feature    <1..>1
+                     /note="contains 12S ribosomal RNA, tRNA-Val and 16S
+                     ribosomal RNA genes"
+ORIGIN      
+        1 c
+//
+
+LOCUS       AY458875                   1 bp    DNA     linear   VRT 29-APR-2004
+DEFINITION  Noturus insignis 12S ribosomal RNA gene, partial sequence; tRNA-Val
+            gene, complete sequence; and 16S ribosomal RNA gene, partial
+            sequence; mitochondrial.
+ACCESSION   AY458875 REGION: 1
+VERSION     AY458875.1
+KEYWORDS    .
+SOURCE      mitochondrion Noturus insignis (margined madtom)
+  ORGANISM  Noturus insignis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi; Siluriformes;
+            Ictaluridae; Noturus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Wilcox,T.P., Garcia de Leon,F.J., Hendrickson,D.A. and Hillis,D.M.
+  TITLE     Convergence among cave catfishes: long-branch attraction and a
+            Bayesian relative rates test
+  JOURNAL   Mol. Phylogenet. Evol. 31 (3), 1101-1113 (2004)
+   PUBMED   15120403
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Wilcox,T.P., Garcia de Leon,F.J., Hendrickson,D.A. and Hillis,D.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (04-NOV-2003) Section of Integrative Biology, University
+            of Texas, 1 University Station C0930, Austin, TX 78712, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Noturus insignis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:90663"
+     misc_feature    <1..>1
+                     /note="contains 12S ribosomal RNA, tRNA-Val and 16S
+                     ribosomal RNA genes"
+ORIGIN      
+        1 c
+//
+
+LOCUS       AY458876                   1 bp    DNA     linear   VRT 29-APR-2004
+DEFINITION  Noturus flavus voucher TNHC 25772 12S ribosomal RNA gene, partial
+            sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA
+            gene, partial sequence; mitochondrial.
+ACCESSION   AY458876 REGION: 1
+VERSION     AY458876.1
+KEYWORDS    .
+SOURCE      mitochondrion Noturus flavus (stonecat)
+  ORGANISM  Noturus flavus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi; Siluriformes;
+            Ictaluridae; Noturus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Wilcox,T.P., Garcia de Leon,F.J., Hendrickson,D.A. and Hillis,D.M.
+  TITLE     Convergence among cave catfishes: long-branch attraction and a
+            Bayesian relative rates test
+  JOURNAL   Mol. Phylogenet. Evol. 31 (3), 1101-1113 (2004)
+   PUBMED   15120403
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Wilcox,T.P., Garcia de Leon,F.J., Hendrickson,D.A. and Hillis,D.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (04-NOV-2003) Section of Integrative Biology, University
+            of Texas, 1 University Station C0930, Austin, TX 78712, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Noturus flavus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="TNHC 25772"
+                     /db_xref="taxon:202874"
+     misc_feature    <1..>1
+                     /note="contains 12S ribosomal RNA, tRNA-Val and 16S
+                     ribosomal RNA genes"
+ORIGIN      
+        1 c
+//
+
+LOCUS       AY504827                   1 bp    DNA     linear   VRT 30-AUG-2004
+DEFINITION  Hiodon alosoides 12S ribosomal RNA gene, partial sequence;
+            mitochondrial.
+ACCESSION   AY504827 REGION: 1
+VERSION     AY504827.1
+KEYWORDS    .
+SOURCE      mitochondrion Hiodon alosoides (goldeye)
+  ORGANISM  Hiodon alosoides
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Osteoglossocephala;
+            Osteoglossomorpha; Hiodontiformes; Hiodontidae; Hiodon.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Lavoue,S. and Sullivan,J.P.
+  TITLE     Simultaneous analysis of five molecular markers provides a
+            well-supported phylogenetic hypothesis for the living bony-tongue
+            fishes (Osteoglossomorpha: Teleostei)
+  JOURNAL   Mol. Phylogenet. Evol. 33 (1), 171-185 (2004)
+   PUBMED   15324846
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Lavoue,S. and Sullivan,J.P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (15-DEC-2003) Neurobiology and Behavior, Cornell
+            University, Ithaca, NY 14853, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Hiodon alosoides"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:54904"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 t
+//
+
+LOCUS       AY655511                   1 bp    DNA     linear   VRT 13-NOV-2004
+DEFINITION  Labidesthes sicculus 12S small subunit ribosomal RNA gene, partial
+            sequence; tRNA-Val gene, complete sequence; and 16S large subunit
+            ribosomal RNA gene, partial sequence; mitochondrial.
+ACCESSION   AY655511 REGION: 1
+VERSION     AY655511.1
+KEYWORDS    .
+SOURCE      mitochondrion Labidesthes sicculus (brook silverside)
+  ORGANISM  Labidesthes sicculus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Ovalentaria; Atherinomorphae; Atheriniformes;
+            Atherinopsidae; Atherinopsinae; Labidesthes.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Sparks,J.S. and Smith,W.L.
+  TITLE     Phylogeny and biogeography of the Malagasy and Australasian
+            rainbowfishes (Teleostei: Melanotaenioidei): Gondwanan vicariance
+            and evolution in freshwater
+  JOURNAL   Mol. Phylogenet. Evol. 33 (3), 719-734 (2004)
+   PUBMED   15522799
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Sparks,J.S. and Smith,W.L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-JUN-2004) Department of Ichthyology, American Museum
+            of Natural History, Central Park West at 79th Street, New York, NY
+            10024-5192, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Labidesthes sicculus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:300304"
+                     /geo_loc_name="USA: Florida"
+     rRNA            <1..>1
+                     /product="12S small subunit ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       AY655515                   1 bp    DNA     linear   VRT 13-NOV-2004
+DEFINITION  Fundulus heteroclitus 12S small subunit ribosomal RNA gene, partial
+            sequence; tRNA-Val gene, complete sequence; and 16S large subunit
+            ribosomal RNA gene, partial sequence; mitochondrial.
+ACCESSION   AY655515 REGION: 1
+VERSION     AY655515.1
+KEYWORDS    .
+SOURCE      mitochondrion Fundulus heteroclitus (mummichog)
+  ORGANISM  Fundulus heteroclitus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Ovalentaria; Atherinomorphae; Cyprinodontiformes;
+            Fundulidae; Fundulus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Sparks,J.S. and Smith,W.L.
+  TITLE     Phylogeny and biogeography of the Malagasy and Australasian
+            rainbowfishes (Teleostei: Melanotaenioidei): Gondwanan vicariance
+            and evolution in freshwater
+  JOURNAL   Mol. Phylogenet. Evol. 33 (3), 719-734 (2004)
+   PUBMED   15522799
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Sparks,J.S. and Smith,W.L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-JUN-2004) Department of Ichthyology, American Museum
+            of Natural History, Central Park West at 79th Street, New York, NY
+            10024-5192, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Fundulus heteroclitus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8078"
+                     /geo_loc_name="USA: New York, Shelter Island"
+     rRNA            <1..>1
+                     /product="12S small subunit ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       AY655518                   1 bp    DNA     linear   VRT 13-NOV-2004
+DEFINITION  Percopsis omiscomaycus 12S small subunit ribosomal RNA gene,
+            partial sequence; tRNA-Val gene, complete sequence; and 16S large
+            subunit ribosomal RNA gene, partial sequence; mitochondrial.
+ACCESSION   AY655518 REGION: 1
+VERSION     AY655518.1
+KEYWORDS    .
+SOURCE      mitochondrion Percopsis omiscomaycus
+  ORGANISM  Percopsis omiscomaycus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Percopsaria; Percopsiformes; Percopsoidei;
+            Percopsidae; Percopsis.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Sparks,J.S. and Smith,W.L.
+  TITLE     Phylogeny and biogeography of the Malagasy and Australasian
+            rainbowfishes (Teleostei: Melanotaenioidei): Gondwanan vicariance
+            and evolution in freshwater
+  JOURNAL   Mol. Phylogenet. Evol. 33 (3), 719-734 (2004)
+   PUBMED   15522799
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Sparks,J.S. and Smith,W.L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-JUN-2004) Department of Ichthyology, American Museum
+            of Natural History, Central Park West at 79th Street, New York, NY
+            10024-5192, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Percopsis omiscomaycus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:81381"
+     rRNA            <1..>1
+                     /product="12S small subunit ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       DQ288268                   1 bp    DNA     linear   VRT 26-JUL-2016
+DEFINITION  Oncorhynchus mykiss mitochondrion, complete genome.
+ACCESSION   DQ288268 REGION: 1
+VERSION     DQ288268.1
+KEYWORDS    .
+SOURCE      mitochondrion Oncorhynchus mykiss (rainbow trout)
+  ORGANISM  Oncorhynchus mykiss
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Oncorhynchus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Brown,K.H., Drew,R.E., Weber,L.A. and Thorgaard,G.H.
+  TITLE     Intraspecific variation in the rainbow trout mitochondrial DNA
+            genome
+  JOURNAL   Comp. Biochem. Physiol. Part D Genomics Proteomics 1 (2), 219-226
+            (2006)
+   PUBMED   20483253
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Brown,K.H., Drew,R.E., Weber,L.A. and Thorgaard,G.H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-NOV-2005) Biological Sciences, University of Idaho,
+            PO Box 443051, Moscow, ID 83844-3051, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oncorhynchus mykiss"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="Clearwater River 1"
+                     /db_xref="taxon:8022"
+     tRNA            >1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       DQ288269                   1 bp    DNA     linear   VRT 26-JUL-2016
+DEFINITION  Oncorhynchus mykiss mitochondrion, complete genome.
+ACCESSION   DQ288269 REGION: 1
+VERSION     DQ288269.1
+KEYWORDS    .
+SOURCE      mitochondrion Oncorhynchus mykiss (rainbow trout)
+  ORGANISM  Oncorhynchus mykiss
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Oncorhynchus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Brown,K.H., Drew,R.E., Weber,L.A. and Thorgaard,G.H.
+  TITLE     Intraspecific variation in the rainbow trout mitochondrial DNA
+            genome
+  JOURNAL   Comp. Biochem. Physiol. Part D Genomics Proteomics 1 (2), 219-226
+            (2006)
+   PUBMED   20483253
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Brown,K.H., Drew,R.E., Weber,L.A. and Thorgaard,G.H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-NOV-2005) Biological Sciences, University of Idaho,
+            PO Box 443051, Moscow, ID 83844-3051, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oncorhynchus mykiss"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="Clearwater River 2"
+                     /db_xref="taxon:8022"
+     tRNA            >1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       DQ533152                   1 bp    DNA     linear   VRT 27-DEC-2012
+DEFINITION  Ambloplites rupestris 12S ribosomal RNA gene, partial sequence;
+            tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   DQ533152 REGION: 1
+VERSION     DQ533152.1
+KEYWORDS    .
+SOURCE      mitochondrion Ambloplites rupestris
+  ORGANISM  Ambloplites rupestris
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Centrarchiformes; Centrarchoidei;
+            Centrarchidae; Ambloplites.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Smith,W.L. and Wheeler,W.C.
+  TITLE     Venom evolution widespread in fishes: a phylogenetic road map for
+            the bioprospecting of piscine venoms
+  JOURNAL   J. Hered. 97 (3), 206-217 (2006)
+   PUBMED   16740627
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Smith,W.L. and Wheeler,W.C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-MAY-2006) Ichthyology, American Museum of Natural
+            History, Central Park West at 79th Street, New York, NY 10024, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Ambloplites rupestris"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:109273"
+                     /geo_loc_name="USA: Minnesota, St. Croix River, Pine
+                     County"
+     misc_feature    <1..>1
+                     /note="contains 12S ribosomal RNA, tRNA-Val and 16S
+                     ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       DQ533233                   1 bp    DNA     linear   VRT 27-DEC-2012
+DEFINITION  Lota lota 12S ribosomal RNA gene, partial sequence; tRNA-Val gene,
+            complete sequence; and 16S ribosomal RNA gene, partial sequence;
+            mitochondrial.
+ACCESSION   DQ533233 REGION: 1
+VERSION     DQ533233.1
+KEYWORDS    .
+SOURCE      mitochondrion Lota lota (burbot)
+  ORGANISM  Lota lota
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Zeiogadaria; Gadariae; Gadiformes; Gadoidei;
+            Lotidae; Lota.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Smith,W.L. and Wheeler,W.C.
+  TITLE     Venom evolution widespread in fishes: a phylogenetic road map for
+            the bioprospecting of piscine venoms
+  JOURNAL   J. Hered. 97 (3), 206-217 (2006)
+   PUBMED   16740627
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Smith,W.L. and Wheeler,W.C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-MAY-2006) Ichthyology, American Museum of Natural
+            History, Central Park West at 79th Street, New York, NY 10024, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Lota lota"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:69944"
+     misc_feature    <1..>1
+                     /note="contains 12S ribosomal RNA, tRNA-Val and 16S
+                     ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       DQ533307                   1 bp    DNA     linear   VRT 27-DEC-2012
+DEFINITION  Stizostedion vitreum 12S ribosomal RNA gene, partial sequence;
+            tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   DQ533307 REGION: 1
+VERSION     DQ533307.1
+KEYWORDS    .
+SOURCE      mitochondrion Sander vitreus (walleye)
+  ORGANISM  Sander vitreus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Perciformes; Percoidei; Percidae;
+            Luciopercinae; Sander.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Smith,W.L. and Wheeler,W.C.
+  TITLE     Venom evolution widespread in fishes: a phylogenetic road map for
+            the bioprospecting of piscine venoms
+  JOURNAL   J. Hered. 97 (3), 206-217 (2006)
+   PUBMED   16740627
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Smith,W.L. and Wheeler,W.C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-MAY-2006) Ichthyology, American Museum of Natural
+            History, Central Park West at 79th Street, New York, NY 10024, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Sander vitreus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:283036"
+                     /geo_loc_name="USA: Minnesota, St. Croix River, Pine
+                     County"
+     misc_feature    <1..>1
+                     /note="contains 12S ribosomal RNA, tRNA-Val and 16S
+                     ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       DQ536422                   1 bp    DNA     linear   VRT 14-JUL-2016
+DEFINITION  Cyprinella spiloptera mitochondrion, complete genome.
+ACCESSION   DQ536422 REGION: 1
+VERSION     DQ536422.1
+KEYWORDS    .
+SOURCE      mitochondrion Cyprinella spiloptera (spotfin shiner)
+  ORGANISM  Cyprinella spiloptera
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Leuciscidae; Pogonichthyinae; Cyprinella.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Broughton,R.E. and Reneau,P.C.
+  TITLE     Spatial covariation of mutation and nonsynonymous substitution
+            rates in vertebrate mitochondrial genomes
+  JOURNAL   Mol. Biol. Evol. 23 (8), 1516-1524 (2006)
+   PUBMED   16705079
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Broughton,R.E., Reneau,P.C. and Richter,S.C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-MAY-2006) Oklahoma Biological Survey, University of
+            Oklahoma, 111 E Chesapeake St, Norman, OK 73019, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Cyprinella spiloptera"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:13477"
+     tRNA            >1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       DQ536423                   1 bp    DNA     linear   VRT 14-JUL-2016
+DEFINITION  Lepisosteus osseus mitochondrion, complete genome.
+ACCESSION   DQ536423 REGION: 1
+VERSION     DQ536423.1
+KEYWORDS    .
+SOURCE      mitochondrion Lepisosteus osseus (longnose gar)
+  ORGANISM  Lepisosteus osseus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Holostei; Semionotiformes;
+            Lepisosteidae; Lepisosteus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Broughton,R.E. and Reneau,P.C.
+  TITLE     Spatial covariation of mutation and nonsynonymous substitution
+            rates in vertebrate mitochondrial genomes
+  JOURNAL   Mol. Biol. Evol. 23 (8), 1516-1524 (2006)
+   PUBMED   16705079
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Broughton,R.E., Reneau,P.C. and Richter,S.C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-MAY-2006) Oklahoma Biological Survey, University of
+            Oklahoma, 111 E Chesapeake St, Norman, OK 73019, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Lepisosteus osseus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:34771"
+     tRNA            >1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       DQ536425                   1 bp    DNA     linear   VRT 14-JUL-2016
+DEFINITION  Micropterus salmoides mitochondrion, complete genome.
+ACCESSION   DQ536425 REGION: 1
+VERSION     DQ536425.1
+KEYWORDS    .
+SOURCE      mitochondrion Micropterus salmoides (largemouth bass)
+  ORGANISM  Micropterus salmoides
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Centrarchiformes; Centrarchoidei;
+            Centrarchidae; Micropterus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Broughton,R.E. and Reneau,P.C.
+  TITLE     Spatial covariation of mutation and nonsynonymous substitution
+            rates in vertebrate mitochondrial genomes
+  JOURNAL   Mol. Biol. Evol. 23 (8), 1516-1524 (2006)
+   PUBMED   16705079
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Broughton,R.E., Reneau,P.C. and Richter,S.C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-MAY-2006) Oklahoma Biological Survey, University of
+            Oklahoma, 111 E Chesapeake St, Norman, OK 73019, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Micropterus salmoides"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:27706"
+     tRNA            >1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       DQ536426                   1 bp    DNA     linear   VRT 14-JUL-2016
+DEFINITION  Dorosoma cepedianum mitochondrion, complete genome.
+ACCESSION   DQ536426 REGION: 1
+VERSION     DQ536426.1
+KEYWORDS    .
+SOURCE      mitochondrion Dorosoma cepedianum (American gizzard shad)
+  ORGANISM  Dorosoma cepedianum
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Clupei; Clupeiformes;
+            Clupeoidei; Clupeidae; Dorosoma.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Broughton,R.E. and Reneau,P.C.
+  TITLE     Spatial covariation of mutation and nonsynonymous substitution
+            rates in vertebrate mitochondrial genomes
+  JOURNAL   Mol. Biol. Evol. 23 (8), 1516-1524 (2006)
+   PUBMED   16705079
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Broughton,R.E., Reneau,P.C. and Richter,S.C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-MAY-2006) Oklahoma Biological Survey, University of
+            Oklahoma, 111 E Chesapeake St, Norman, OK 73019, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Dorosoma cepedianum"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:336262"
+     tRNA            >1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       DQ536429                   1 bp    DNA     linear   VRT 14-JUL-2016
+DEFINITION  Notropis stramineus mitochondrion, complete genome.
+ACCESSION   DQ536429 REGION: 1
+VERSION     DQ536429.1
+KEYWORDS    .
+SOURCE      mitochondrion Notropis stramineus (sand shiner)
+  ORGANISM  Notropis stramineus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Leuciscidae; Pogonichthyinae; Notropis.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Broughton,R.E. and Reneau,P.C.
+  TITLE     Spatial covariation of mutation and nonsynonymous substitution
+            rates in vertebrate mitochondrial genomes
+  JOURNAL   Mol. Biol. Evol. 23 (8), 1516-1524 (2006)
+   PUBMED   16705079
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Broughton,R.E., Reneau,P.C. and Richter,S.C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-MAY-2006) Oklahoma Biological Survey, University of
+            Oklahoma, 111 E Chesapeake St, Norman, OK 73019, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Notropis stramineus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:28795"
+     tRNA            >1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       DQ912027                   1 bp    DNA     linear   VRT 11-JUN-2007
+DEFINITION  Dorosoma cepedianum isolate C01 12S ribosomal RNA gene, partial
+            sequence; mitochondrial.
+ACCESSION   DQ912027 REGION: 1
+VERSION     DQ912027.1
+KEYWORDS    .
+SOURCE      mitochondrion Dorosoma cepedianum (American gizzard shad)
+  ORGANISM  Dorosoma cepedianum
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Clupei; Clupeiformes;
+            Clupeoidei; Clupeidae; Dorosoma.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Li,C. and Orti,G.
+  TITLE     Molecular phylogeny of Clupeiformes (Actinopterygii) inferred from
+            nuclear and mitochondrial DNA sequences
+  JOURNAL   Mol. Phylogenet. Evol. 44 (1), 386-398 (2007)
+   PUBMED   17161957
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Li,C. and Orti,G.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-AUG-2006) School of Biological Sciences, University
+            of Nebraska, 348 Manter, Lincoln, NE 68588-0118, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Dorosoma cepedianum"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="C01"
+                     /db_xref="taxon:336262"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 c
+//
+
+LOCUS       DQ912041                   1 bp    DNA     linear   VRT 11-JUN-2007
+DEFINITION  Alosa aestivalis isolate C15 12S ribosomal RNA gene, partial
+            sequence; mitochondrial.
+ACCESSION   DQ912041 REGION: 1
+VERSION     DQ912041.1
+KEYWORDS    .
+SOURCE      mitochondrion Alosa aestivalis (blueback shad)
+  ORGANISM  Alosa aestivalis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Clupei; Clupeiformes;
+            Clupeoidei; Clupeidae; Alosa.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Li,C. and Orti,G.
+  TITLE     Molecular phylogeny of Clupeiformes (Actinopterygii) inferred from
+            nuclear and mitochondrial DNA sequences
+  JOURNAL   Mol. Phylogenet. Evol. 44 (1), 386-398 (2007)
+   PUBMED   17161957
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Li,C. and Orti,G.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-AUG-2006) School of Biological Sciences, University
+            of Nebraska, 348 Manter, Lincoln, NE 68588-0118, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Alosa aestivalis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="C15"
+                     /specimen_voucher="T1504 (The University of Kansas Natural
+                     History Museum)"
+                     /db_xref="taxon:224703"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 c
+//
+
+LOCUS       DQ912044                   1 bp    DNA     linear   VRT 11-JUN-2007
+DEFINITION  Alosa pseudoharengus isolate C18 12S ribosomal RNA gene, partial
+            sequence; mitochondrial.
+ACCESSION   DQ912044 REGION: 1
+VERSION     DQ912044.1
+KEYWORDS    .
+SOURCE      mitochondrion Alosa pseudoharengus (alewife)
+  ORGANISM  Alosa pseudoharengus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Clupei; Clupeiformes;
+            Clupeoidei; Clupeidae; Alosa.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Li,C. and Orti,G.
+  TITLE     Molecular phylogeny of Clupeiformes (Actinopterygii) inferred from
+            nuclear and mitochondrial DNA sequences
+  JOURNAL   Mol. Phylogenet. Evol. 44 (1), 386-398 (2007)
+   PUBMED   17161957
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Li,C. and Orti,G.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-AUG-2006) School of Biological Sciences, University
+            of Nebraska, 348 Manter, Lincoln, NE 68588-0118, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Alosa pseudoharengus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="C18"
+                     /specimen_voucher="T1585 (The University of Kansas Natural
+                     History Museum)"
+                     /db_xref="taxon:34774"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 c
+//
+
+LOCUS       DQ912045                   1 bp    DNA     linear   VRT 11-JUN-2007
+DEFINITION  Alosa sapidissima isolate C19 12S ribosomal RNA gene, partial
+            sequence; mitochondrial.
+ACCESSION   DQ912045 REGION: 1
+VERSION     DQ912045.1
+KEYWORDS    .
+SOURCE      mitochondrion Alosa sapidissima (American shad)
+  ORGANISM  Alosa sapidissima
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Clupei; Clupeiformes;
+            Clupeoidei; Clupeidae; Alosa.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Li,C. and Orti,G.
+  TITLE     Molecular phylogeny of Clupeiformes (Actinopterygii) inferred from
+            nuclear and mitochondrial DNA sequences
+  JOURNAL   Mol. Phylogenet. Evol. 44 (1), 386-398 (2007)
+   PUBMED   17161957
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Li,C. and Orti,G.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-AUG-2006) School of Biological Sciences, University
+            of Nebraska, 348 Manter, Lincoln, NE 68588-0118, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Alosa sapidissima"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="C19"
+                     /specimen_voucher="T1586 (The University of Kansas Natural
+                     History Museum)"
+                     /db_xref="taxon:34773"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 c
+//
+
+LOCUS       DQ990528                   1 bp    DNA     linear   VRT 23-SEP-2020
+DEFINITION  Ictalurus punctatus voucher INHS:47559 12S ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   DQ990528 REGION: 1
+VERSION     DQ990528.1
+KEYWORDS    .
+SOURCE      mitochondrion Ictalurus punctatus (channel catfish)
+  ORGANISM  Ictalurus punctatus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi; Siluriformes;
+            Ictaluridae; Ictalurus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Betancur-R,R., Acero P,A., Bermingham,E. and Cooke,R.
+  TITLE     Systematics and biogeography of New World sea catfishes
+            (Siluriformes: Ariidae) as inferred from mitochondrial, nuclear,
+            and morphological evidence
+  JOURNAL   Mol. Phylogenet. Evol. 45 (1), 339-357 (2007)
+   PUBMED   17475516
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Betancur,R., Acero,A., Betmingham,E. and Cooke,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-SEP-2006) Biological Sciences, Auburn University, 331
+            Funchess Hall, Auburn, AL 36849, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Ictalurus punctatus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="INHS:47559"
+                     /db_xref="taxon:7998"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 t
+//
+
+LOCUS       EF055889                   1 bp    DNA     linear   VRT 14-JUL-2016
+DEFINITION  Oncorhynchus nerka mitochondrion, complete genome.
+ACCESSION   EF055889 REGION: 1
+VERSION     EF055889.1
+KEYWORDS    .
+SOURCE      mitochondrion Oncorhynchus nerka (sockeye salmon)
+  ORGANISM  Oncorhynchus nerka
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Oncorhynchus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Hsieh,C.C., Tsai,C.-L., Chang,H.-W., Gwo,J.-C. and Chou,Y.C.
+  TITLE     The complete sequence of mitochondrial genome of sockeye salmon
+            (Oncorhynchus nerka)
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Hsieh,C.C., Tsai,C.-L., Chang,H.-W., Gwo,J.-C. and Chou,Y.C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-OCT-2006) Department of Medical Technology, Chung Hwa
+            College of Medical Technology, 89, Wen Hwa 1st St., Jente, Tainan
+            717, Taiwan
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oncorhynchus nerka"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8023"
+     D-loop          >1
+                     /note="control region"
+ORIGIN      
+        1 a
+//
+
+LOCUS       EF120787                   1 bp    DNA     linear   VRT 17-APR-2007
+DEFINITION  Etheostoma nigrum 12S ribosomal RNA gene, partial sequence;
+            tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   EF120787 REGION: 1
+VERSION     EF120787.1
+KEYWORDS    .
+SOURCE      mitochondrion Etheostoma nigrum (Johnny darter)
+  ORGANISM  Etheostoma nigrum
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Perciformes; Percoidei; Percidae;
+            Etheostomatinae; Etheostoma.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Smith,W.L. and Craig,M.T.
+  TITLE     Casting the percomorph net widely: The importance of broad
+            taxonomic sampling in the search for the placement of serranid and
+            percid fishes
+  JOURNAL   Copeia 1, 35-55 (2007)
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Smith,W.L. and Craig,M.T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-NOV-2006) Department of Ichthyology, American Museum
+            of Natural History, Central Park West at 79th Street, New York, NY
+            10024, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Etheostoma nigrum"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:54337"
+     misc_feature    <1..>1
+                     /note="contains 12S ribosomal RNA, tRNA-Val gene, and 16S
+                     ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       EF120788                   1 bp    DNA     linear   VRT 17-APR-2007
+DEFINITION  Percina caprodes 12S ribosomal RNA gene, partial sequence; tRNA-Val
+            gene, complete sequence; and 16S ribosomal RNA gene, partial
+            sequence; mitochondrial.
+ACCESSION   EF120788 REGION: 1
+VERSION     EF120788.1
+KEYWORDS    .
+SOURCE      mitochondrion Percina caprodes (logperch)
+  ORGANISM  Percina caprodes
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Perciformes; Percoidei; Percidae;
+            Etheostomatinae; Percina.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Smith,W.L. and Craig,M.T.
+  TITLE     Casting the percomorph net widely: The importance of broad
+            taxonomic sampling in the search for the placement of serranid and
+            percid fishes
+  JOURNAL   Copeia 1, 35-55 (2007)
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Smith,W.L. and Craig,M.T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-NOV-2006) Department of Ichthyology, American Museum
+            of Natural History, Central Park West at 79th Street, New York, NY
+            10024, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Percina caprodes"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:54317"
+     misc_feature    <1..>1
+                     /note="contains 12S ribosomal RNA, tRNA-Val gene, and 16S
+                     ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       EF120828                   1 bp    DNA     linear   VRT 17-APR-2007
+DEFINITION  Morone americana 12S ribosomal RNA gene, partial sequence; tRNA-Val
+            gene, complete sequence; and 16S ribosomal RNA gene, partial
+            sequence; mitochondrial.
+ACCESSION   EF120828 REGION: 1
+VERSION     EF120828.1
+KEYWORDS    .
+SOURCE      mitochondrion Morone americana (white perch)
+  ORGANISM  Morone americana
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Moronidae; Morone.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Smith,W.L. and Craig,M.T.
+  TITLE     Casting the percomorph net widely: The importance of broad
+            taxonomic sampling in the search for the placement of serranid and
+            percid fishes
+  JOURNAL   Copeia 1, 35-55 (2007)
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Smith,W.L. and Craig,M.T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-NOV-2006) Department of Ichthyology, American Museum
+            of Natural History, Central Park West at 79th Street, New York, NY
+            10024, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Morone americana"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:46260"
+     misc_feature    <1..>1
+                     /note="contains 12S ribosomal RNA, tRNA-Val gene, and 16S
+                     ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       EF126369                   1 bp    DNA     linear   VRT 14-JUL-2016
+DEFINITION  Oncorhynchus kisutch mitochondrion, complete genome.
+ACCESSION   EF126369 REGION: 1
+VERSION     EF126369.1
+KEYWORDS    .
+SOURCE      mitochondrion Oncorhynchus kisutch (coho salmon)
+  ORGANISM  Oncorhynchus kisutch
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Oncorhynchus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Hsieh,C.C., Tsai,C.-L., Tsai,C.Y., Chang,H.-W. and Chou,Y.C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-NOV-2006) Department of Medical Technology, Chung Hwa
+            College of Medical Technology, 89, Wen Hwa 1st. St., Jente, Tainan
+            717, Taiwan
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oncorhynchus kisutch"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8019"
+     D-loop          >1
+                     /note="control region"
+ORIGIN      
+        1 a
+//
+
+LOCUS       EF455858                   1 bp    DNA     linear   VRT 11-MAR-2008
+DEFINITION  Alosa pseudoharengus isolate FR7 12S ribosomal RNA gene, partial
+            sequence; mitochondrial.
+ACCESSION   EF455858 REGION: 1
+VERSION     EF455858.1
+KEYWORDS    .
+SOURCE      mitochondrion Alosa pseudoharengus (alewife)
+  ORGANISM  Alosa pseudoharengus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Clupei; Clupeiformes;
+            Clupeoidei; Clupeidae; Alosa.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Palkovacs,E.P., Dion,K.B., Post,D.M. and Caccone,A.
+  TITLE     Independent evolutionary origins of landlocked alewife populations
+            and rapid parallel evolution of phenotypic traits
+  JOURNAL   Mol. Ecol. 17 (2), 582-597 (2008)
+   PUBMED   18179439
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Palkovacs,E.P., Dion,K.B., Post,D.M. and Caccone,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-FEB-2007) Ecology and Evolutionary Biology, Yale
+            University, 165 Prospect Street, New Haven, CT 06520, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Alosa pseudoharengus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="FR7"
+                     /db_xref="taxon:34774"
+                     /haplotype="1"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       EF455859                   1 bp    DNA     linear   VRT 11-MAR-2008
+DEFINITION  Alosa pseudoharengus isolate FR6 12S ribosomal RNA gene, partial
+            sequence; mitochondrial.
+ACCESSION   EF455859 REGION: 1
+VERSION     EF455859.1
+KEYWORDS    .
+SOURCE      mitochondrion Alosa pseudoharengus (alewife)
+  ORGANISM  Alosa pseudoharengus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Clupei; Clupeiformes;
+            Clupeoidei; Clupeidae; Alosa.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Palkovacs,E.P., Dion,K.B., Post,D.M. and Caccone,A.
+  TITLE     Independent evolutionary origins of landlocked alewife populations
+            and rapid parallel evolution of phenotypic traits
+  JOURNAL   Mol. Ecol. 17 (2), 582-597 (2008)
+   PUBMED   18179439
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Palkovacs,E.P., Dion,K.B., Post,D.M. and Caccone,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-FEB-2007) Ecology and Evolutionary Biology, Yale
+            University, 165 Prospect Street, New Haven, CT 06520, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Alosa pseudoharengus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="FR6"
+                     /db_xref="taxon:34774"
+                     /haplotype="2"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       EF483931                   1 bp    DNA     linear   VRT 23-JUL-2016
+DEFINITION  Carassius auratus mitochondrion, complete genome.
+ACCESSION   EF483931 REGION: 1
+VERSION     EF483931.1
+KEYWORDS    .
+SOURCE      mitochondrion Carassius auratus (goldfish)
+  ORGANISM  Carassius auratus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Cyprinidae; Cyprininae; Carassius.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Lee,J.-S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-MAR-2007) Molecular and Environmental Bioscience,
+            Hanyang University, Seongdong-gu, Seoul 133-791, Korea
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Carassius auratus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:7957"
+     tRNA            >1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       EF587842                   1 bp    DNA     linear   VRT 16-DEC-2014
+DEFINITION  Percina caprodes haplotype Pca1cr control region, partial sequence;
+            tRNA-Phe gene, complete sequence; and 12S ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   EF587842 REGION: 1
+VERSION     EF587842.1
+KEYWORDS    .
+SOURCE      mitochondrion Percina caprodes (logperch)
+  ORGANISM  Percina caprodes
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Perciformes; Percoidei; Percidae;
+            Etheostomatinae; Percina.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Haponski,A.E., Marth,T.A. and Stepien,C.A.
+  TITLE     Genetic Divergence across a Low-Head Dam: A Preliminary Analysis
+            using Logperch and Greenside Darters
+  JOURNAL   J. Great Lakes Res. 33 (Sl2), 117-126 (2007)
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Haponski,A.E. and Stepien,C.A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (01-MAY-2007) Environmental Sciences, University of
+            Toledo, 6200 Bayshore Rd., Toledo, OH 43616, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Percina caprodes"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:54317"
+                     /haplotype="Pca1cr"
+     misc_feature    <1..>1
+                     /note="control region"
+ORIGIN      
+        1 g
+//
+
+LOCUS       EF587845                   1 bp    DNA     linear   VRT 16-DEC-2014
+DEFINITION  Percina caprodes haplotype Pca4cr control region, partial sequence;
+            tRNA-Phe gene, complete sequence; and 12S ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   EF587845 REGION: 1
+VERSION     EF587845.1
+KEYWORDS    .
+SOURCE      mitochondrion Percina caprodes (logperch)
+  ORGANISM  Percina caprodes
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Perciformes; Percoidei; Percidae;
+            Etheostomatinae; Percina.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Haponski,A.E., Marth,T.A. and Stepien,C.A.
+  TITLE     Genetic Divergence across a Low-Head Dam: A Preliminary Analysis
+            using Logperch and Greenside Darters
+  JOURNAL   J. Great Lakes Res. 33 (Sl2), 117-126 (2007)
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Haponski,A.E. and Stepien,C.A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (01-MAY-2007) Environmental Sciences, University of
+            Toledo, 6200 Bayshore Rd., Toledo, OH 43616, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Percina caprodes"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:54317"
+                     /haplotype="Pca4cr"
+     misc_feature    <1..>1
+                     /note="control region"
+ORIGIN      
+        1 g
+//
+
+LOCUS       EU048341                   1 bp    DNA     linear   VRT 15-AUG-2007
+DEFINITION  Salmo trutta macrostigma voucher ZMH 4301 12S ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   EU048341 REGION: 1
+VERSION     EU048341.1
+KEYWORDS    .
+SOURCE      mitochondrion Salmo macrostigma
+  ORGANISM  Salmo macrostigma
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Salmo.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Di Finizio,A., Guerriero,G. and Ciarcia,G.
+  TITLE     Analysis of 12S rRNA and 16S rRNA gene fragments for fish species
+            identification
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Di Finizio,A., Guerriero,G. and Ciarcia,G.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-JUL-2007) Dept. of Biological Sciences, ECLab
+            -Laboratory of Comparative Endocrinology-University of Naples
+            Federico II, via Mezzocannone 8, Naples 80134, Italy
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Salmo macrostigma"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="ZMH 4301"
+                     /db_xref="taxon:157020"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 a
+//
+
+LOCUS       EU489724                   1 bp    DNA     linear   VRT 28-FEB-2009
+DEFINITION  Oncorhynchus tshawytscha isolate TSA12 12S ribosomal RNA gene,
+            partial sequence; tRNA-Phe gene, complete sequence; and D-loop,
+            partial sequence; mitochondrial.
+ACCESSION   EU489724 REGION: 1
+VERSION     EU489724.1
+KEYWORDS    .
+SOURCE      mitochondrion Oncorhynchus tshawytscha (Chinook salmon)
+  ORGANISM  Oncorhynchus tshawytscha
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Oncorhynchus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Martin,K.E., Steele,C.A., Brunelli,J.P. and Thorgaard,G.H.
+  TITLE     Mitochondrial variation and implications for the biogeographic
+            history of North American Chinook salmon (Oncorhynchus tshawytscha)
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Martin,K.E., Steele,C.A., Brunelli,J.P. and Thorgaard,G.H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-FEB-2008) School of Biological Sciences, Washington
+            State University, PO Box 644236, Pullman, WA 99164-4236, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oncorhynchus tshawytscha"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="TSA12"
+                     /db_xref="taxon:74940"
+     rRNA            complement(<1..>1)
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 a
+//
+
+LOCUS       EU489725                   1 bp    DNA     linear   VRT 28-FEB-2009
+DEFINITION  Oncorhynchus tshawytscha isolate TSA14 12S ribosomal RNA gene,
+            partial sequence; tRNA-Phe gene, complete sequence; and D-loop,
+            partial sequence; mitochondrial.
+ACCESSION   EU489725 REGION: 1
+VERSION     EU489725.1
+KEYWORDS    .
+SOURCE      mitochondrion Oncorhynchus tshawytscha (Chinook salmon)
+  ORGANISM  Oncorhynchus tshawytscha
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Oncorhynchus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Martin,K.E., Steele,C.A., Brunelli,J.P. and Thorgaard,G.H.
+  TITLE     Mitochondrial variation and implications for the biogeographic
+            history of North American Chinook salmon (Oncorhynchus tshawytscha)
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Martin,K.E., Steele,C.A., Brunelli,J.P. and Thorgaard,G.H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-FEB-2008) School of Biological Sciences, Washington
+            State University, PO Box 644236, Pullman, WA 99164-4236, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oncorhynchus tshawytscha"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="TSA14"
+                     /db_xref="taxon:74940"
+     rRNA            complement(<1..>1)
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 a
+//
+

@@ -182,10 +182,21 @@ def lsp_raw() -> None:
 MALILI = RAW / "malili12s_mitohelper"
 
 
-def _missing_voucher_or_country() -> list[str]:
+def _get_retry(url: str) -> bytes:
+    for attempt in range(4):  # NCBI kadang membalas 5xx sementara
+        try:
+            return _get(url)
+        except OSError:
+            if attempt == 3:
+                raise
+            time.sleep(2 ** (attempt + 1))
+    raise RuntimeError("tidak tercapai")
+
+
+def _missing_voucher_or_country(base: Path = MALILI) -> list[str]:
     """Aksesi kandidat yang esummary-nya tanpa /specimen_voucher atau /country (docs/13 §3)."""
     missing = []
-    for path in sorted((MALILI / "genbank").glob("esummary_*.json")):
+    for path in sorted((base / "genbank").glob("esummary_*.json")):
         result = json.loads(path.read_text(encoding="utf-8"))["result"]
         for uid in result["uids"]:
             doc = result[uid]
@@ -203,8 +214,12 @@ def malili12s_genbank_headers() -> None:
     efetch rettype=gb dengan seq_start=1 dan seq_stop=1: flat file lengkap kecuali sekuens
     (sekuens sudah ada di arsip mitohelper). Jumlah record diverifikasi per batch.
     """
-    ids = _missing_voucher_or_country()
-    out = MALILI / "genbank_flat"
+    _fetch_headers(
+        _missing_voucher_or_country(), MALILI / "genbank_flat", "malili12s_genbank_headers"
+    )
+
+
+def _fetch_headers(ids: list[str], out: Path, dataset: str) -> None:
     out.mkdir(parents=True, exist_ok=True)
     (out / "accessions.txt").write_text("\n".join(ids) + "\n", encoding="utf-8")
     for i in range(0, len(ids), 50):
@@ -223,14 +238,7 @@ def malili12s_genbank_headers() -> None:
                 "tool": "biotrace",
             }
         )
-        for attempt in range(4):  # NCBI kadang membalas 5xx sementara
-            try:
-                data = _get(f"{EUTILS}?{params}")
-                break
-            except OSError:
-                if attempt == 3:
-                    raise
-                time.sleep(2 ** (attempt + 1))
+        data = _get_retry(f"{EUTILS}?{params}")
         text = data.decode("utf-8")
         found = text.count("\nACCESSION ") + text.startswith("ACCESSION ")
         if found != len(chunk):
@@ -239,7 +247,7 @@ def malili12s_genbank_headers() -> None:
             )
         p.write_bytes(data)
         _log(
-            "malili12s_genbank_headers",
+            dataset,
             f"{EUTILS} (rettype=gb, seq_start=1, seq_stop=1)",
             p,
             f"{len(chunk)} aksesi tanpa voucher/negara di esummary",
@@ -247,7 +255,65 @@ def malili12s_genbank_headers() -> None:
         time.sleep(0.5)
 
 
+LSP = RAW / "lsp12s_mitohelper"
+LSP_CODES = RAW.parent / "data/external/lake_st_pierre/v20250924/fish_codes.csv"
+ESUMMARY = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi"
+
+
+def _lsp_accessions() -> list[str]:
+    """Aksesi mitohelper 12S untuk spesies binomial di fish_codes.csv Lake St. Pierre."""
+    import csv
+    import zipfile
+
+    with open(LSP_CODES, encoding="utf-8", newline="") as stream:
+        region = {
+            f"{r['Genus']} {r['Species']}"
+            for r in csv.DictReader(stream)
+            if r["Genus"][:1].isupper()
+            and r["Species"].isalpha()
+            and r["Species"].islower()
+            and r["Species"] not in {"sp", "spp"}
+        }
+    qza = MALILI / "mitohelper/QIIME-compatible/12S-tax-derep-uniq.qza"
+    with zipfile.ZipFile(qza) as archive:
+        name = next(n for n in archive.namelist() if n.endswith("taxonomy.tsv"))
+        lines = archive.read(name).decode("utf-8").splitlines()[1:]
+    return sorted(line.split("\t")[0] for line in lines if line.split("s__")[-1] in region)
+
+
+def lsp12s_genbank() -> None:
+    """Metadata GenBank untuk kamus 12S Kanada (modul validasi CA-QC, docs/13 §7).
+
+    esummary untuk semua aksesi mitohelper spesies Lake St. Pierre, lalu header flat file
+    (tanpa sekuens) untuk aksesi yang esummary-nya tanpa voucher/negara.
+    """
+    ids = _lsp_accessions()
+    out = LSP / "genbank"
+    out.mkdir(parents=True, exist_ok=True)
+    (LSP / "accessions.txt").write_text("\n".join(ids) + "\n", encoding="utf-8")
+    for i in range(0, len(ids), 100):
+        chunk = ids[i : i + 100]
+        p = out / f"esummary_{i // 100:03d}.json"
+        if p.exists():
+            continue
+        params = urllib.parse.urlencode(
+            {"db": "nuccore", "id": ",".join(chunk), "retmode": "json", "tool": "biotrace"}
+        )
+        data = _get_retry(f"{ESUMMARY}?{params}")
+        found = len(json.loads(data.decode("utf-8"))["result"]["uids"])
+        if found != len(chunk):
+            raise RuntimeError(f"batch {i // 100}: {found} dari {len(chunk)}; unduhan sebagian")
+        p.write_bytes(data)
+        _log("lsp12s_genbank", f"{ESUMMARY} (retmode=json)", p, f"{len(chunk)} aksesi")
+        time.sleep(0.5)
+    _fetch_headers(_missing_voucher_or_country(LSP), LSP / "genbank_flat", "lsp12s_genbank")
+
+
 DATASETS = {
+    "lsp12s_genbank": (
+        lsp12s_genbank,
+        "Metadata GenBank kamus 12S Kanada untuk modul validasi Lake St. Pierre (docs/13 §7)",
+    ),
     "malili12s_genbank_headers": (
         malili12s_genbank_headers,
         "Header GenBank aksesi Malili tanpa voucher/negara di esummary (docs/13 §3)",

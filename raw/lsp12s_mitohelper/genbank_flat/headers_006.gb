@@ -1,0 +1,1838 @@
+LOCUS       KJ564207                   1 bp    DNA     linear   VRT 26-MAR-2014
+DEFINITION  Anguilla rostrata isolate RB_Y_2 mitochondrion, complete genome.
+ACCESSION   KJ564207 REGION: 1
+VERSION     KJ564207.1
+KEYWORDS    .
+SOURCE      mitochondrion Anguilla rostrata (American eel)
+  ORGANISM  Anguilla rostrata
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Anguilliformes;
+            Anguillidae; Anguilla.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Jacobsen,M.W., Pujolar,J.M., Gilbert,M.T., Moreno-Mayar,J.V.,
+            Bernatchez,L., Als,T.D., Lobon-Cervia,J. and Hansen,M.M.
+  TITLE     Speciation and demographic history of Atlantic eels (Anguilla
+            anguilla and A. rostrata) revealed by mitogenome sequencing
+  JOURNAL   Heredity (Edinb) 113 (5), 432-442 (2014)
+   PUBMED   24865601
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Jacobsen,M.W., Pujolar,J.M., Gilbert,M.T.P., Moreno-Mayar,J.V.,
+            Bernatchez,L., Als,T.D., Lobon-Cervia,J. and Hansen,M.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-MAR-2014) Department of Bioscience, Aarhus
+            University, Ny Munkegade 114, Aarhus C 8000, Denmark
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Anguilla rostrata"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="RB_Y_2"
+                     /db_xref="taxon:7938"
+     tRNA            >1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       KJ564271                   1 bp    DNA     linear   VRT 26-MAR-2014
+DEFINITION  Anguilla rostrata isolate RB_G_10 mitochondrion, complete genome.
+ACCESSION   KJ564271 REGION: 1
+VERSION     KJ564271.1
+KEYWORDS    .
+SOURCE      mitochondrion Anguilla rostrata (American eel)
+  ORGANISM  Anguilla rostrata
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Anguilliformes;
+            Anguillidae; Anguilla.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Jacobsen,M.W., Pujolar,J.M., Gilbert,M.T., Moreno-Mayar,J.V.,
+            Bernatchez,L., Als,T.D., Lobon-Cervia,J. and Hansen,M.M.
+  TITLE     Speciation and demographic history of Atlantic eels (Anguilla
+            anguilla and A. rostrata) revealed by mitogenome sequencing
+  JOURNAL   Heredity (Edinb) 113 (5), 432-442 (2014)
+   PUBMED   24865601
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Jacobsen,M.W., Pujolar,J.M., Gilbert,M.T.P., Moreno-Mayar,J.V.,
+            Bernatchez,L., Als,T.D., Lobon-Cervia,J. and Hansen,M.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-MAR-2014) Department of Bioscience, Aarhus
+            University, Ny Munkegade 114, Aarhus C 8000, Denmark
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Anguilla rostrata"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="RB_G_10"
+                     /db_xref="taxon:7938"
+     tRNA            >1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       KJ627918                   1 bp    DNA     linear   VRT 02-SEP-2015
+DEFINITION  Pungitius pungitius haplotype Pun1 12S ribosomal RNA gene, partial
+            sequence; mitochondrial.
+ACCESSION   KJ627918 REGION: 1
+VERSION     KJ627918.1
+KEYWORDS    .
+SOURCE      mitochondrion Pungitius pungitius (ninespine stickleback)
+  ORGANISM  Pungitius pungitius
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Perciformes; Cottioidei;
+            Gasterosteales; Gasterosteidae; Pungitius.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Wang,C., Shikano,T., Persat,H. and Merila,J.
+  TITLE     Mitochondrial phylogeography and cryptic divergence in the
+            stickleback genus Pungitius
+  JOURNAL   J. Biogeogr. (2015) In press
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Wang,C., Shikano,T., Persat,H. and Merila,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-MAR-2014) Department of Biosciences, University of
+            Helsinki, Biocenter 3, Viikinkaari 1, Helsinki FIN-00014, Finland
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Pungitius pungitius"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:134920"
+                     /haplotype="Pun1"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 a
+//
+
+LOCUS       KJ627919                   1 bp    DNA     linear   VRT 02-SEP-2015
+DEFINITION  Pungitius pungitius haplotype Pun2 12S ribosomal RNA gene, partial
+            sequence; mitochondrial.
+ACCESSION   KJ627919 REGION: 1
+VERSION     KJ627919.1
+KEYWORDS    .
+SOURCE      mitochondrion Pungitius pungitius (ninespine stickleback)
+  ORGANISM  Pungitius pungitius
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Perciformes; Cottioidei;
+            Gasterosteales; Gasterosteidae; Pungitius.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Wang,C., Shikano,T., Persat,H. and Merila,J.
+  TITLE     Mitochondrial phylogeography and cryptic divergence in the
+            stickleback genus Pungitius
+  JOURNAL   J. Biogeogr. (2015) In press
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Wang,C., Shikano,T., Persat,H. and Merila,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-MAR-2014) Department of Biosciences, University of
+            Helsinki, Biocenter 3, Viikinkaari 1, Helsinki FIN-00014, Finland
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Pungitius pungitius"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:134920"
+                     /haplotype="Pun2"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 a
+//
+
+LOCUS       KJ627920                   1 bp    DNA     linear   VRT 02-SEP-2015
+DEFINITION  Pungitius pungitius haplotype Pun3 12S ribosomal RNA gene, partial
+            sequence; mitochondrial.
+ACCESSION   KJ627920 REGION: 1
+VERSION     KJ627920.1
+KEYWORDS    .
+SOURCE      mitochondrion Pungitius pungitius (ninespine stickleback)
+  ORGANISM  Pungitius pungitius
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Perciformes; Cottioidei;
+            Gasterosteales; Gasterosteidae; Pungitius.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Wang,C., Shikano,T., Persat,H. and Merila,J.
+  TITLE     Mitochondrial phylogeography and cryptic divergence in the
+            stickleback genus Pungitius
+  JOURNAL   J. Biogeogr. (2015) In press
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Wang,C., Shikano,T., Persat,H. and Merila,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-MAR-2014) Department of Biosciences, University of
+            Helsinki, Biocenter 3, Viikinkaari 1, Helsinki FIN-00014, Finland
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Pungitius pungitius"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:134920"
+                     /haplotype="Pun3"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 a
+//
+
+LOCUS       KJ627921                   1 bp    DNA     linear   VRT 02-SEP-2015
+DEFINITION  Pungitius pungitius haplotype Pun4 12S ribosomal RNA gene, partial
+            sequence; mitochondrial.
+ACCESSION   KJ627921 REGION: 1
+VERSION     KJ627921.1
+KEYWORDS    .
+SOURCE      mitochondrion Pungitius pungitius (ninespine stickleback)
+  ORGANISM  Pungitius pungitius
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Perciformes; Cottioidei;
+            Gasterosteales; Gasterosteidae; Pungitius.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Wang,C., Shikano,T., Persat,H. and Merila,J.
+  TITLE     Mitochondrial phylogeography and cryptic divergence in the
+            stickleback genus Pungitius
+  JOURNAL   J. Biogeogr. (2015) In press
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Wang,C., Shikano,T., Persat,H. and Merila,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-MAR-2014) Department of Biosciences, University of
+            Helsinki, Biocenter 3, Viikinkaari 1, Helsinki FIN-00014, Finland
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Pungitius pungitius"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:134920"
+                     /haplotype="Pun4"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 a
+//
+
+LOCUS       KJ627922                   1 bp    DNA     linear   VRT 02-SEP-2015
+DEFINITION  Pungitius pungitius haplotype Pun5 12S ribosomal RNA gene, partial
+            sequence; mitochondrial.
+ACCESSION   KJ627922 REGION: 1
+VERSION     KJ627922.1
+KEYWORDS    .
+SOURCE      mitochondrion Pungitius pungitius (ninespine stickleback)
+  ORGANISM  Pungitius pungitius
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Perciformes; Cottioidei;
+            Gasterosteales; Gasterosteidae; Pungitius.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Wang,C., Shikano,T., Persat,H. and Merila,J.
+  TITLE     Mitochondrial phylogeography and cryptic divergence in the
+            stickleback genus Pungitius
+  JOURNAL   J. Biogeogr. (2015) In press
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Wang,C., Shikano,T., Persat,H. and Merila,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-MAR-2014) Department of Biosciences, University of
+            Helsinki, Biocenter 3, Viikinkaari 1, Helsinki FIN-00014, Finland
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Pungitius pungitius"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:134920"
+                     /haplotype="Pun5"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 a
+//
+
+LOCUS       KJ627923                   1 bp    DNA     linear   VRT 02-SEP-2015
+DEFINITION  Pungitius pungitius haplotype Pun6 12S ribosomal RNA gene, partial
+            sequence; mitochondrial.
+ACCESSION   KJ627923 REGION: 1
+VERSION     KJ627923.1
+KEYWORDS    .
+SOURCE      mitochondrion Pungitius pungitius (ninespine stickleback)
+  ORGANISM  Pungitius pungitius
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Perciformes; Cottioidei;
+            Gasterosteales; Gasterosteidae; Pungitius.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Wang,C., Shikano,T., Persat,H. and Merila,J.
+  TITLE     Mitochondrial phylogeography and cryptic divergence in the
+            stickleback genus Pungitius
+  JOURNAL   J. Biogeogr. (2015) In press
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Wang,C., Shikano,T., Persat,H. and Merila,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-MAR-2014) Department of Biosciences, University of
+            Helsinki, Biocenter 3, Viikinkaari 1, Helsinki FIN-00014, Finland
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Pungitius pungitius"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:134920"
+                     /haplotype="Pun6"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 a
+//
+
+LOCUS       KJ627924                   1 bp    DNA     linear   VRT 02-SEP-2015
+DEFINITION  Pungitius pungitius haplotype Pun7 12S ribosomal RNA gene, partial
+            sequence; mitochondrial.
+ACCESSION   KJ627924 REGION: 1
+VERSION     KJ627924.1
+KEYWORDS    .
+SOURCE      mitochondrion Pungitius pungitius (ninespine stickleback)
+  ORGANISM  Pungitius pungitius
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Perciformes; Cottioidei;
+            Gasterosteales; Gasterosteidae; Pungitius.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Wang,C., Shikano,T., Persat,H. and Merila,J.
+  TITLE     Mitochondrial phylogeography and cryptic divergence in the
+            stickleback genus Pungitius
+  JOURNAL   J. Biogeogr. (2015) In press
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Wang,C., Shikano,T., Persat,H. and Merila,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-MAR-2014) Department of Biosciences, University of
+            Helsinki, Biocenter 3, Viikinkaari 1, Helsinki FIN-00014, Finland
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Pungitius pungitius"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:134920"
+                     /haplotype="Pun7"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 a
+//
+
+LOCUS       KJ627925                   1 bp    DNA     linear   VRT 02-SEP-2015
+DEFINITION  Pungitius pungitius haplotype Pun8 12S ribosomal RNA gene, partial
+            sequence; mitochondrial.
+ACCESSION   KJ627925 REGION: 1
+VERSION     KJ627925.1
+KEYWORDS    .
+SOURCE      mitochondrion Pungitius pungitius (ninespine stickleback)
+  ORGANISM  Pungitius pungitius
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Perciformes; Cottioidei;
+            Gasterosteales; Gasterosteidae; Pungitius.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Wang,C., Shikano,T., Persat,H. and Merila,J.
+  TITLE     Mitochondrial phylogeography and cryptic divergence in the
+            stickleback genus Pungitius
+  JOURNAL   J. Biogeogr. (2015) In press
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Wang,C., Shikano,T., Persat,H. and Merila,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-MAR-2014) Department of Biosciences, University of
+            Helsinki, Biocenter 3, Viikinkaari 1, Helsinki FIN-00014, Finland
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Pungitius pungitius"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:134920"
+                     /haplotype="Pun8"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 a
+//
+
+LOCUS       KJ627926                   1 bp    DNA     linear   VRT 02-SEP-2015
+DEFINITION  Pungitius pungitius haplotype Pun9 12S ribosomal RNA gene, partial
+            sequence; mitochondrial.
+ACCESSION   KJ627926 REGION: 1
+VERSION     KJ627926.1
+KEYWORDS    .
+SOURCE      mitochondrion Pungitius pungitius (ninespine stickleback)
+  ORGANISM  Pungitius pungitius
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Perciformes; Cottioidei;
+            Gasterosteales; Gasterosteidae; Pungitius.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Wang,C., Shikano,T., Persat,H. and Merila,J.
+  TITLE     Mitochondrial phylogeography and cryptic divergence in the
+            stickleback genus Pungitius
+  JOURNAL   J. Biogeogr. (2015) In press
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Wang,C., Shikano,T., Persat,H. and Merila,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-MAR-2014) Department of Biosciences, University of
+            Helsinki, Biocenter 3, Viikinkaari 1, Helsinki FIN-00014, Finland
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Pungitius pungitius"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:134920"
+                     /haplotype="Pun9"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 a
+//
+
+LOCUS       KJ627927                   1 bp    DNA     linear   VRT 02-SEP-2015
+DEFINITION  Pungitius pungitius haplotype Pun10 12S ribosomal RNA gene, partial
+            sequence; mitochondrial.
+ACCESSION   KJ627927 REGION: 1
+VERSION     KJ627927.1
+KEYWORDS    .
+SOURCE      mitochondrion Pungitius pungitius (ninespine stickleback)
+  ORGANISM  Pungitius pungitius
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Perciformes; Cottioidei;
+            Gasterosteales; Gasterosteidae; Pungitius.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Wang,C., Shikano,T., Persat,H. and Merila,J.
+  TITLE     Mitochondrial phylogeography and cryptic divergence in the
+            stickleback genus Pungitius
+  JOURNAL   J. Biogeogr. (2015) In press
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Wang,C., Shikano,T., Persat,H. and Merila,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-MAR-2014) Department of Biosciences, University of
+            Helsinki, Biocenter 3, Viikinkaari 1, Helsinki FIN-00014, Finland
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Pungitius pungitius"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:134920"
+                     /haplotype="Pun10"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 a
+//
+
+LOCUS       KJ627936                   1 bp    DNA     linear   VRT 02-SEP-2015
+DEFINITION  Gasterosteus aculeatus haplotype Gac1 12S ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   KJ627936 REGION: 1
+VERSION     KJ627936.1
+KEYWORDS    .
+SOURCE      mitochondrion Gasterosteus aculeatus (three-spined stickleback)
+  ORGANISM  Gasterosteus aculeatus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Perciformes; Cottioidei;
+            Gasterosteales; Gasterosteidae; Gasterosteus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Wang,C., Shikano,T., Persat,H. and Merila,J.
+  TITLE     Mitochondrial phylogeography and cryptic divergence in the
+            stickleback genus Pungitius
+  JOURNAL   J. Biogeogr. (2015) In press
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Wang,C., Shikano,T., Persat,H. and Merila,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-MAR-2014) Department of Biosciences, University of
+            Helsinki, Biocenter 3, Viikinkaari 1, Helsinki FIN-00014, Finland
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Gasterosteus aculeatus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:69293"
+                     /haplotype="Gac1"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 a
+//
+
+LOCUS       KJ774880                   1 bp    DNA     linear   VRT 01-JUL-2015
+DEFINITION  Oncorhynchus tshawytscha isolate CES-344 12S ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   KJ774880 REGION: 1
+VERSION     KJ774880.1
+KEYWORDS    .
+SOURCE      mitochondrion Oncorhynchus tshawytscha (Chinook salmon)
+  ORGANISM  Oncorhynchus tshawytscha
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Oncorhynchus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Hardy,C.M.
+  TITLE     DNA barcoding the freshwater fishes of southern Australia
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Hardy,C.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (01-MAY-2014) CSIRO, Clunies Ross Street, Canberra, ACT
+            2601, Australia
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oncorhynchus tshawytscha"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="CES-344"
+                     /db_xref="taxon:74940"
+                     /geo_loc_name="New Zealand: Seafood Trade, Sydney Fish
+                     Markets, NSW"
+                     /collection_date="2010"
+                     /PCR_primers="fwd_name: mt1091L, fwd_seq:
+                     caaactgggattagataccccactat, rev_name: mt1478H, rev_seq:
+                     tgactgcagagggtgacgggcggtgtgt"
+                     /note="introduced species"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       KJ874428                   1 bp    DNA     linear   VRT 31-MAY-2015
+DEFINITION  Carassius auratus mitochondrion, complete genome.
+ACCESSION   KJ874428 REGION: 1
+VERSION     KJ874428.1
+KEYWORDS    .
+SOURCE      mitochondrion Carassius auratus (triploid crucian carp)
+  ORGANISM  Carassius auratus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Cyprinidae; Cyprininae; Carassius.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Li,Z. and Zou,G.
+  TITLE     The complete mitochondrial genome of triploid crucian carp
+            (Carassius auratus)
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Li,Z., Hu,G. and Zou,G.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-MAY-2014) The Chinese Academy of Fisheries Sciences,
+            Yangtze River Fisheries Research Institute, Wuhan, Hubei, China
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Carassius auratus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:7957"
+                     /note="common: triploid crucian carp"
+     tRNA            >1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       KJ874430                   1 bp    DNA     linear   VRT 31-MAY-2015
+DEFINITION  Carassius auratus mitochondrion, complete genome.
+ACCESSION   KJ874430 REGION: 1
+VERSION     KJ874430.1
+KEYWORDS    .
+SOURCE      mitochondrion Carassius auratus (Red crucian carp)
+  ORGANISM  Carassius auratus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Cyprinidae; Cyprininae; Carassius.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Li,Z. and Zou,G.
+  TITLE     The complete mitochondrial genome of red crucian carp (Carassius
+            auratus)
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Li,Z., Hu,G. and Zou,G.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-MAY-2014) The Chinese Academy of Fisheries Sciences,
+            Yangtze River Fisheries Research Institute, Wuhan, Hubei, China
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Carassius auratus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:7957"
+                     /note="common: Red crucian carp"
+     tRNA            >1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       KM057993                   1 bp    DNA     linear   VRT 04-AUG-2014
+DEFINITION  Cottus bairdii 12S ribosomal RNA gene, partial sequence;
+            mitochondrial.
+ACCESSION   KM057993 REGION: 1
+VERSION     KM057993.1
+KEYWORDS    .
+SOURCE      mitochondrion Cottus bairdii (mottled sculpin)
+  ORGANISM  Cottus bairdii
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Perciformes; Cottioidei; Cottales;
+            Cottidae; Cottus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Smith,W.L. and Busby,M.S.
+  TITLE     Phylogeny and taxonomy of sculpins, sandfishes, and snailfishes
+            (Perciformes: Cottoidei) with comments on the phylogenetic
+            significance of their early-life-history specializations
+  JOURNAL   Mol. Phylogenet. Evol. 79C, 332-352 (2014)
+   PUBMED   25014569
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Smith,L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (25-JUN-2014) Biodiversity Institute, University of
+            Kansas, 1345 Jayhawk Blvd., Lawrence, KS 66045, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Cottus bairdii"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="AM_Simons"
+                     /db_xref="taxon:147208"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 t
+//
+
+LOCUS       KM201364                   1 bp    DNA     linear   VRT 03-NOV-2014
+DEFINITION  Lota lota mitochondrion, complete genome.
+ACCESSION   KM201364 REGION: 1
+VERSION     KM201364.1
+KEYWORDS    .
+SOURCE      mitochondrion Lota lota (burbot)
+  ORGANISM  Lota lota
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Zeiogadaria; Gadariae; Gadiformes; Gadoidei;
+            Lotidae; Lota.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Zhang,N., Song,N. and Gao,T.
+  TITLE     The complete mitochondrial genome of Lota lota (Gadiformes:
+            Gadidae)
+  JOURNAL   mitochondrial DNA, 1-2 (2014) In press
+   PUBMED   25231712
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Zhang,N., Song,N. and Gao,T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (15-JUL-2014) Institute of Evolution and Marine
+            Biodiversity, Ocean University of China, Yushan 5, Qingdao,
+            Shandong 266003, China
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Lota lota"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:69944"
+     tRNA            >1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       KM267716                   1 bp    DNA     linear   VRT 26-OCT-2014
+DEFINITION  Ichthyomyzon fossor mitochondrion, complete genome.
+ACCESSION   KM267716 REGION: 1
+VERSION     KM267716.1
+KEYWORDS    .
+SOURCE      mitochondrion Ichthyomyzon fossor
+  ORGANISM  Ichthyomyzon fossor
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Cyclostomata;
+            Hyperoartia; Petromyzontiformes; Petromyzontidae; Ichthyomyzon.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Ren,J., Buchinger,T., Pu,J., Jia,L. and Li,W.
+  TITLE     Complete mitochondrial genomes of paired species northern brook
+            lamprey (Ichthyomyzon fossor) and silver lamprey (I. unicuspis)
+  JOURNAL   Mitochondrial DNA, 1-2 (2014) In press
+   PUBMED   25319286
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Ren,J., Pu,J. and Li,W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-AUG-2014) College of Fisheries and Life Science,
+            Shanghai Ocean University, 999 Hucheng Huan Road, Shanghai,
+            Shanghai 201306, China
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Ichthyomyzon fossor"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolation_source="adult"
+                     /db_xref="taxon:245073"
+                     /sex="male"
+                     /tissue_type="muscle"
+                     /geo_loc_name="USA: Canada Creek in Montmorency County,
+                     MI"
+     gene            >1
+                     /gene="COX1"
+     CDS             >1
+                     /gene="COX1"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit 1"
+                     /protein_id="AIT96664.1"
+                     /translation="MTHIRWLFSTNHKDIGTLYLIFGAWAGMVGTALSILIRAELSQP
+                     GTLLGDDQIFNVIVTAHAFVMIFFMVMPIMIGGFGNWLVPLMLSAPDMAFPRMNNMSF
+                     WLLPPSLLLLLASAGVEAGAGTGWTVYPPSAGNLAHTGASIDLTIFSLHLAGISSILG
+                     AINFITTIFNMKPPTMTQYQTPLFVWSVLITAVLLLLSLPVLAAAITMLLTDRNLNTS
+                     FFDPAGGGDPILYQHLFWFFGHPEVYILILPGFGIISHVVAYYAGKKEPFGYMGMVWA
+                     MMAIGLLGFIVWAHHMFTVGMDVDTRAYFTSATMIIAIPTGVKVFSWLATLHGGKITW
+                     HTPMLWALGFIFLFTVGGLTGIILSNSSLDIILHDTYYVVAHFHYVLSMGAVFAIMAG
+                     FIHWFPLFTGYTLNETWTKAHFIIMFTGVNLTFFPQHFLGLAGMPRRYSDYPDAYTTW
+                     NIISSIGSMISLVAVMLLMFILWEAFSAKRKATTTNYLLNTNLEWLHGCPPPYHTYEE
+                     PAFVQTNFKK"
+ORIGIN      
+        1 g
+//
+
+LOCUS       KM267717                   1 bp    DNA     linear   VRT 26-OCT-2014
+DEFINITION  Ichthyomyzon unicuspis mitochondrion, complete genome.
+ACCESSION   KM267717 REGION: 1
+VERSION     KM267717.1
+KEYWORDS    .
+SOURCE      mitochondrion Ichthyomyzon unicuspis
+  ORGANISM  Ichthyomyzon unicuspis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Cyclostomata;
+            Hyperoartia; Petromyzontiformes; Petromyzontidae; Ichthyomyzon.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Ren,J., Buchinger,T., Pu,J., Jia,L. and Li,W.
+  TITLE     Complete mitochondrial genomes of paired species northern brook
+            lamprey (Ichthyomyzon fossor) and silver lamprey (I. unicuspis)
+  JOURNAL   Mitochondrial DNA, 1-2 (2014) In press
+   PUBMED   25319286
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Ren,J., Pu,J. and Li,W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-AUG-2014) College of Fisheries and Life Science,
+            Shanghai Ocean University, 999 Hucheng Huan Road, Shanghai,
+            Shanghai 201306, China
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Ichthyomyzon unicuspis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolation_source="adult"
+                     /db_xref="taxon:30308"
+                     /sex="male"
+                     /tissue_type="muscle"
+                     /geo_loc_name="USA: Peshtigo River, Marinette County, WI"
+     gene            >1
+                     /gene="COX1"
+     CDS             >1
+                     /gene="COX1"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit 1"
+                     /protein_id="AIT96677.1"
+                     /translation="MTHIRWLFSTNHKDIGTLYLIFGAWAGMVGTALSILIRAELSQP
+                     GTLLGDDQIFNVIVTAHAFVMIFFMVMPIMIGGFGNWLVPLMLSAPDMAFPRMNNMSF
+                     WLLPPSLLLLLASAGVEAGAGTGWTVYPPLAGNLAHTGASIDLTIFSLHLAGISSILG
+                     AINFITTIFNMKPPTMTQYQTPLFVWSVLITAVLLLLSLPVLAAAITMLLTDRNLNTS
+                     FFDPAGGGDPILYQHLFWFFGHPEVYILILPGFGIISHVVAYYAGKKEPFGYMGMVWA
+                     MMAIGLLGFIVWAHHMFTVGMDVDTRAYFTSATMIIAIPTGVKVFSWLATLHGGKITW
+                     HTPMLWALGFIFLFTVGGLTGIILSNSSLDIILHDTYYVVAHFHYVLSMGAVFAIMAG
+                     FIHWFPLFTGYTLNETWTKAHFIIMFTGVNLTFFPQHFLGLAGMPRRYSDYPDAYTTW
+                     NIISSIGSMISLVAVMLLMFILWEAFSAKRKATTTNYLLNTNLEWLHGCPPPYHTYEE
+                     PAFVQTNFKK"
+ORIGIN      
+        1 g
+//
+
+LOCUS       KM273795                   1 bp    DNA     linear   VRT 29-NOV-2014
+DEFINITION  Acipenser oxyrinchus 12S ribosomal RNA gene, partial sequence;
+            mitochondrial.
+ACCESSION   KM273795 REGION: 1
+VERSION     KM273795.1
+KEYWORDS    .
+SOURCE      mitochondrion Acipenser oxyrinchus (Atlantic sturgeon)
+  ORGANISM  Acipenser oxyrinchus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Chondrostei; Acipenseriformes; Acipenseridae;
+            Acipenser.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Olds,B.P., Jerde,C.L., Renshaw,M.A., Evans,N.T., Turner,C.R.,
+            Mahon,A.R., Pfrender,M.E., Lamberti,G.A. and Lodge,D.M.
+  TITLE     Estimating species richness using environmental DNA
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Renshaw,M.A., Olds,B.P. and Lodge,D.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-AUG-2014) Biological Sciences, University of Notre
+            Dame, 182 Galvin Life Sciences Center, Notre Dame, IN 46556, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Acipenser oxyrinchus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:36177"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+                     /note="Ac12S fragment"
+ORIGIN      
+        1 c
+//
+
+LOCUS       KM273796                   1 bp    DNA     linear   VRT 29-NOV-2014
+DEFINITION  Acipenser oxyrinchus desotoi 12S ribosomal RNA gene, partial
+            sequence; mitochondrial.
+ACCESSION   KM273796 REGION: 1
+VERSION     KM273796.1
+KEYWORDS    .
+SOURCE      mitochondrion Acipenser oxyrinchus desotoi (Gulf sturgeon)
+  ORGANISM  Acipenser oxyrinchus desotoi
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Chondrostei; Acipenseriformes; Acipenseridae;
+            Acipenser.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Olds,B.P., Jerde,C.L., Renshaw,M.A., Evans,N.T., Turner,C.R.,
+            Mahon,A.R., Pfrender,M.E., Lamberti,G.A. and Lodge,D.M.
+  TITLE     Estimating species richness using environmental DNA
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Renshaw,M.A., Olds,B.P. and Lodge,D.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-AUG-2014) Biological Sciences, University of Notre
+            Dame, 182 Galvin Life Sciences Center, Notre Dame, IN 46556, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Acipenser oxyrinchus desotoi"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:40146"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+                     /note="Ac12S fragment"
+ORIGIN      
+        1 c
+//
+
+LOCUS       KM273799                   1 bp    DNA     linear   VRT 29-NOV-2014
+DEFINITION  Ambloplites rupestris 12S ribosomal RNA gene, partial sequence;
+            mitochondrial.
+ACCESSION   KM273799 REGION: 1
+VERSION     KM273799.1
+KEYWORDS    .
+SOURCE      mitochondrion Ambloplites rupestris
+  ORGANISM  Ambloplites rupestris
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Centrarchiformes; Centrarchoidei;
+            Centrarchidae; Ambloplites.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Olds,B.P., Jerde,C.L., Renshaw,M.A., Evans,N.T., Turner,C.R.,
+            Mahon,A.R., Pfrender,M.E., Lamberti,G.A. and Lodge,D.M.
+  TITLE     Estimating species richness using environmental DNA
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Renshaw,M.A., Olds,B.P. and Lodge,D.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-AUG-2014) Biological Sciences, University of Notre
+            Dame, 182 Galvin Life Sciences Center, Notre Dame, IN 46556, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Ambloplites rupestris"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:109273"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+                     /note="Ac12S fragment"
+ORIGIN      
+        1 c
+//
+
+LOCUS       KM273808                   1 bp    DNA     linear   VRT 29-NOV-2014
+DEFINITION  Catostomus commersonii 12S ribosomal RNA gene, partial sequence;
+            mitochondrial.
+ACCESSION   KM273808 REGION: 1
+VERSION     KM273808.1
+KEYWORDS    .
+SOURCE      mitochondrion Catostomus commersonii (white sucker)
+  ORGANISM  Catostomus commersonii
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Catostomoidei; Catostomidae; Catostomus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Olds,B.P., Jerde,C.L., Renshaw,M.A., Evans,N.T., Turner,C.R.,
+            Mahon,A.R., Pfrender,M.E., Lamberti,G.A. and Lodge,D.M.
+  TITLE     Estimating species richness using environmental DNA
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Renshaw,M.A., Olds,B.P. and Lodge,D.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-AUG-2014) Biological Sciences, University of Notre
+            Dame, 182 Galvin Life Sciences Center, Notre Dame, IN 46556, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Catostomus commersonii"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:7971"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+                     /note="Ac1S fragment"
+ORIGIN      
+        1 c
+//
+
+LOCUS       KM273809                   1 bp    DNA     linear   VRT 29-NOV-2014
+DEFINITION  Cottus bairdii 12S ribosomal RNA gene, partial sequence;
+            mitochondrial.
+ACCESSION   KM273809 REGION: 1
+VERSION     KM273809.1
+KEYWORDS    .
+SOURCE      mitochondrion Cottus bairdii (mottled sculpin)
+  ORGANISM  Cottus bairdii
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Perciformes; Cottioidei; Cottales;
+            Cottidae; Cottus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Olds,B.P., Jerde,C.L., Renshaw,M.A., Evans,N.T., Turner,C.R.,
+            Mahon,A.R., Pfrender,M.E., Lamberti,G.A. and Lodge,D.M.
+  TITLE     Estimating species richness using environmental DNA
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Renshaw,M.A., Olds,B.P. and Lodge,D.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-AUG-2014) Biological Sciences, University of Notre
+            Dame, 182 Galvin Life Sciences Center, Notre Dame, IN 46556, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Cottus bairdii"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:147208"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+                     /note="Ac12S fragment"
+ORIGIN      
+        1 c
+//
+
+LOCUS       KM273814                   1 bp    DNA     linear   VRT 29-NOV-2014
+DEFINITION  Cyprinus carpio 12S ribosomal RNA gene, partial sequence;
+            mitochondrial.
+ACCESSION   KM273814 REGION: 1
+VERSION     KM273814.1
+KEYWORDS    .
+SOURCE      mitochondrion Cyprinus carpio (common carp)
+  ORGANISM  Cyprinus carpio
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Cyprinidae; Cyprininae; Cyprinus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Olds,B.P., Jerde,C.L., Renshaw,M.A., Evans,N.T., Turner,C.R.,
+            Mahon,A.R., Pfrender,M.E., Lamberti,G.A. and Lodge,D.M.
+  TITLE     Estimating species richness using environmental DNA
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Renshaw,M.A., Olds,B.P. and Lodge,D.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-AUG-2014) Biological Sciences, University of Notre
+            Dame, 182 Galvin Life Sciences Center, Notre Dame, IN 46556, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Cyprinus carpio"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:7962"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+                     /note="Ac1S fragment"
+ORIGIN      
+        1 c
+//
+
+LOCUS       KM273817                   1 bp    DNA     linear   VRT 29-NOV-2014
+DEFINITION  Etheostoma caeruleum 12S ribosomal RNA gene, partial sequence;
+            mitochondrial.
+ACCESSION   KM273817 REGION: 1
+VERSION     KM273817.1
+KEYWORDS    .
+SOURCE      mitochondrion Etheostoma caeruleum (rainbow darter)
+  ORGANISM  Etheostoma caeruleum
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Perciformes; Percoidei; Percidae;
+            Etheostomatinae; Etheostoma.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Olds,B.P., Jerde,C.L., Renshaw,M.A., Evans,N.T., Turner,C.R.,
+            Mahon,A.R., Pfrender,M.E., Lamberti,G.A. and Lodge,D.M.
+  TITLE     Estimating species richness using environmental DNA
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Renshaw,M.A., Olds,B.P. and Lodge,D.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-AUG-2014) Biological Sciences, University of Notre
+            Dame, 182 Galvin Life Sciences Center, Notre Dame, IN 46556, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Etheostoma caeruleum"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:54319"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+                     /note="Ac12S fragment"
+ORIGIN      
+        1 c
+//
+
+LOCUS       KM273819                   1 bp    DNA     linear   VRT 29-NOV-2014
+DEFINITION  Etheostoma exile 12S ribosomal RNA gene, partial sequence;
+            mitochondrial.
+ACCESSION   KM273819 REGION: 1
+VERSION     KM273819.1
+KEYWORDS    .
+SOURCE      mitochondrion Etheostoma exile (Iowa darter)
+  ORGANISM  Etheostoma exile
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Perciformes; Percoidei; Percidae;
+            Etheostomatinae; Etheostoma.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Olds,B.P., Jerde,C.L., Renshaw,M.A., Evans,N.T., Turner,C.R.,
+            Mahon,A.R., Pfrender,M.E., Lamberti,G.A. and Lodge,D.M.
+  TITLE     Estimating species richness using environmental DNA
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Renshaw,M.A., Olds,B.P. and Lodge,D.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-AUG-2014) Biological Sciences, University of Notre
+            Dame, 182 Galvin Life Sciences Center, Notre Dame, IN 46556, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Etheostoma exile"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:54329"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+                     /note="Ac12S fragment"
+ORIGIN      
+        1 c
+//
+
+LOCUS       KM273821                   1 bp    DNA     linear   VRT 29-NOV-2014
+DEFINITION  Etheostoma nigrum 12S ribosomal RNA gene, partial sequence;
+            mitochondrial.
+ACCESSION   KM273821 REGION: 1
+VERSION     KM273821.1
+KEYWORDS    .
+SOURCE      mitochondrion Etheostoma nigrum (Johnny darter)
+  ORGANISM  Etheostoma nigrum
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Perciformes; Percoidei; Percidae;
+            Etheostomatinae; Etheostoma.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Olds,B.P., Jerde,C.L., Renshaw,M.A., Evans,N.T., Turner,C.R.,
+            Mahon,A.R., Pfrender,M.E., Lamberti,G.A. and Lodge,D.M.
+  TITLE     Estimating species richness using environmental DNA
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Renshaw,M.A., Olds,B.P. and Lodge,D.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-AUG-2014) Biological Sciences, University of Notre
+            Dame, 182 Galvin Life Sciences Center, Notre Dame, IN 46556, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Etheostoma nigrum"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:54337"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+                     /note="Ac12S fragment"
+ORIGIN      
+        1 c
+//
+
+LOCUS       KM273828                   1 bp    DNA     linear   VRT 29-NOV-2014
+DEFINITION  Gasterosteus aculeatus williamsoni 12S ribosomal RNA gene, partial
+            sequence; mitochondrial.
+ACCESSION   KM273828 REGION: 1
+VERSION     KM273828.1
+KEYWORDS    .
+SOURCE      mitochondrion Gasterosteus aculeatus williamsoni (unarmored
+            threespine stickleback)
+  ORGANISM  Gasterosteus aculeatus williamsoni
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Perciformes; Cottioidei;
+            Gasterosteales; Gasterosteidae; Gasterosteus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Olds,B.P., Jerde,C.L., Renshaw,M.A., Evans,N.T., Turner,C.R.,
+            Mahon,A.R., Pfrender,M.E., Lamberti,G.A. and Lodge,D.M.
+  TITLE     Estimating species richness using environmental DNA
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Renshaw,M.A., Olds,B.P. and Lodge,D.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-AUG-2014) Biological Sciences, University of Notre
+            Dame, 182 Galvin Life Sciences Center, Notre Dame, IN 46556, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Gasterosteus aculeatus williamsoni"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:481462"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+                     /note="Ac12S fragment"
+ORIGIN      
+        1 c
+//
+
+LOCUS       KM273833                   1 bp    DNA     linear   VRT 29-NOV-2014
+DEFINITION  Lepomis cyanellus 12S ribosomal RNA gene, partial sequence;
+            mitochondrial.
+ACCESSION   KM273833 REGION: 1
+VERSION     KM273833.1
+KEYWORDS    .
+SOURCE      mitochondrion Lepomis cyanellus (green sunfish)
+  ORGANISM  Lepomis cyanellus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Centrarchiformes; Centrarchoidei;
+            Centrarchidae; Lepomis.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Olds,B.P., Jerde,C.L., Renshaw,M.A., Evans,N.T., Turner,C.R.,
+            Mahon,A.R., Pfrender,M.E., Lamberti,G.A. and Lodge,D.M.
+  TITLE     Estimating species richness using environmental DNA
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Renshaw,M.A., Olds,B.P. and Lodge,D.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-AUG-2014) Biological Sciences, University of Notre
+            Dame, 182 Galvin Life Sciences Center, Notre Dame, IN 46556, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Lepomis cyanellus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:201691"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+                     /note="Ac12S fragment"
+ORIGIN      
+        1 c
+//
+
+LOCUS       KM273834                   1 bp    DNA     linear   VRT 29-NOV-2014
+DEFINITION  Lepomis gibbosus 12S ribosomal RNA gene, partial sequence;
+            mitochondrial.
+ACCESSION   KM273834 REGION: 1
+VERSION     KM273834.1
+KEYWORDS    .
+SOURCE      mitochondrion Lepomis gibbosus (pumpkinseed sunfish)
+  ORGANISM  Lepomis gibbosus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Centrarchiformes; Centrarchoidei;
+            Centrarchidae; Lepomis.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Olds,B.P., Jerde,C.L., Renshaw,M.A., Evans,N.T., Turner,C.R.,
+            Mahon,A.R., Pfrender,M.E., Lamberti,G.A. and Lodge,D.M.
+  TITLE     Estimating species richness using environmental DNA
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Renshaw,M.A., Olds,B.P. and Lodge,D.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-AUG-2014) Biological Sciences, University of Notre
+            Dame, 182 Galvin Life Sciences Center, Notre Dame, IN 46556, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Lepomis gibbosus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:270329"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+                     /note="Ac12S fragment"
+ORIGIN      
+        1 c
+//
+
+LOCUS       KM273836                   1 bp    DNA     linear   VRT 29-NOV-2014
+DEFINITION  Lepomis macrochirus 12S ribosomal RNA gene, partial sequence;
+            mitochondrial.
+ACCESSION   KM273836 REGION: 1
+VERSION     KM273836.1
+KEYWORDS    .
+SOURCE      mitochondrion Lepomis macrochirus (bluegill)
+  ORGANISM  Lepomis macrochirus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Centrarchiformes; Centrarchoidei;
+            Centrarchidae; Lepomis.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Olds,B.P., Jerde,C.L., Renshaw,M.A., Evans,N.T., Turner,C.R.,
+            Mahon,A.R., Pfrender,M.E., Lamberti,G.A. and Lodge,D.M.
+  TITLE     Estimating species richness using environmental DNA
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Renshaw,M.A., Olds,B.P. and Lodge,D.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-AUG-2014) Biological Sciences, University of Notre
+            Dame, 182 Galvin Life Sciences Center, Notre Dame, IN 46556, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Lepomis macrochirus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:13106"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+                     /note="Ac1S fragment"
+ORIGIN      
+        1 c
+//
+
+LOCUS       KM273839                   1 bp    DNA     linear   VRT 29-NOV-2014
+DEFINITION  Micropterus dolomieu 12S ribosomal RNA gene, partial sequence;
+            mitochondrial.
+ACCESSION   KM273839 REGION: 1
+VERSION     KM273839.1
+KEYWORDS    .
+SOURCE      mitochondrion Micropterus dolomieu (smallmouth bass)
+  ORGANISM  Micropterus dolomieu
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Centrarchiformes; Centrarchoidei;
+            Centrarchidae; Micropterus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Olds,B.P., Jerde,C.L., Renshaw,M.A., Evans,N.T., Turner,C.R.,
+            Mahon,A.R., Pfrender,M.E., Lamberti,G.A. and Lodge,D.M.
+  TITLE     Estimating species richness using environmental DNA
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Renshaw,M.A., Olds,B.P. and Lodge,D.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-AUG-2014) Biological Sciences, University of Notre
+            Dame, 182 Galvin Life Sciences Center, Notre Dame, IN 46556, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Micropterus dolomieu"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:147949"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+                     /note="Ac12S fragment"
+ORIGIN      
+        1 c
+//
+
+LOCUS       KM273840                   1 bp    DNA     linear   VRT 29-NOV-2014
+DEFINITION  Micropterus salmoides 12S ribosomal RNA gene, partial sequence;
+            mitochondrial.
+ACCESSION   KM273840 REGION: 1
+VERSION     KM273840.1
+KEYWORDS    .
+SOURCE      mitochondrion Micropterus salmoides (largemouth bass)
+  ORGANISM  Micropterus salmoides
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Centrarchiformes; Centrarchoidei;
+            Centrarchidae; Micropterus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Olds,B.P., Jerde,C.L., Renshaw,M.A., Evans,N.T., Turner,C.R.,
+            Mahon,A.R., Pfrender,M.E., Lamberti,G.A. and Lodge,D.M.
+  TITLE     Estimating species richness using environmental DNA
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Renshaw,M.A., Olds,B.P. and Lodge,D.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-AUG-2014) Biological Sciences, University of Notre
+            Dame, 182 Galvin Life Sciences Center, Notre Dame, IN 46556, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Micropterus salmoides"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:27706"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+                     /note="Ac12S fragment"
+ORIGIN      
+        1 c
+//
+
+LOCUS       KM273842                   1 bp    DNA     linear   VRT 29-NOV-2014
+DEFINITION  Notemigonus crysoleucas 12S ribosomal RNA gene, partial sequence;
+            mitochondrial.
+ACCESSION   KM273842 REGION: 1
+VERSION     KM273842.1
+KEYWORDS    .
+SOURCE      mitochondrion Notemigonus crysoleucas (golden shiner)
+  ORGANISM  Notemigonus crysoleucas
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Leuciscidae; Leuciscinae; Notemigonus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Olds,B.P., Jerde,C.L., Renshaw,M.A., Evans,N.T., Turner,C.R.,
+            Mahon,A.R., Pfrender,M.E., Lamberti,G.A. and Lodge,D.M.
+  TITLE     Estimating species richness using environmental DNA
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Renshaw,M.A., Olds,B.P. and Lodge,D.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-AUG-2014) Biological Sciences, University of Notre
+            Dame, 182 Galvin Life Sciences Center, Notre Dame, IN 46556, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Notemigonus crysoleucas"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:28800"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+                     /note="Ac12S fragment"
+ORIGIN      
+        1 c
+//
+
+LOCUS       KM273844                   1 bp    DNA     linear   VRT 29-NOV-2014
+DEFINITION  Notropis heterodon 12S ribosomal RNA gene, partial sequence;
+            mitochondrial.
+ACCESSION   KM273844 REGION: 1
+VERSION     KM273844.1
+KEYWORDS    .
+SOURCE      mitochondrion Notropis heterodon (blackchin shiner)
+  ORGANISM  Notropis heterodon
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Leuciscidae; Pogonichthyinae; Notropis.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Olds,B.P., Jerde,C.L., Renshaw,M.A., Evans,N.T., Turner,C.R.,
+            Mahon,A.R., Pfrender,M.E., Lamberti,G.A. and Lodge,D.M.
+  TITLE     Estimating species richness using environmental DNA
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Renshaw,M.A., Olds,B.P. and Lodge,D.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-AUG-2014) Biological Sciences, University of Notre
+            Dame, 182 Galvin Life Sciences Center, Notre Dame, IN 46556, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Notropis heterodon"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:210130"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+                     /note="Ac12S fragment"
+ORIGIN      
+        1 c
+//
+
+LOCUS       KM273847                   1 bp    DNA     linear   VRT 29-NOV-2014
+DEFINITION  Oncorhynchus clarkii henshawi 12S ribosomal RNA gene, partial
+            sequence; mitochondrial.
+ACCESSION   KM273847 REGION: 1
+VERSION     KM273847.1
+KEYWORDS    .
+SOURCE      mitochondrion Oncorhynchus clarkii henshawi (Lahontan cutthroat
+            trout)
+  ORGANISM  Oncorhynchus clarkii henshawi
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Oncorhynchus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Olds,B.P., Jerde,C.L., Renshaw,M.A., Evans,N.T., Turner,C.R.,
+            Mahon,A.R., Pfrender,M.E., Lamberti,G.A. and Lodge,D.M.
+  TITLE     Estimating species richness using environmental DNA
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Renshaw,M.A., Olds,B.P. and Lodge,D.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-AUG-2014) Biological Sciences, University of Notre
+            Dame, 182 Galvin Life Sciences Center, Notre Dame, IN 46556, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oncorhynchus clarkii henshawi"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:72053"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+                     /note="Ac12S fragment"
+ORIGIN      
+        1 c
+//
+
+LOCUS       KM273848                   1 bp    DNA     linear   VRT 29-NOV-2014
+DEFINITION  Oncorhynchus clarkii stomias 12S ribosomal RNA gene, partial
+            sequence; mitochondrial.
+ACCESSION   KM273848 REGION: 1
+VERSION     KM273848.1
+KEYWORDS    .
+SOURCE      mitochondrion Oncorhynchus clarkii stomias (greenback cutthroat
+            trout)
+  ORGANISM  Oncorhynchus clarkii stomias
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Oncorhynchus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Olds,B.P., Jerde,C.L., Renshaw,M.A., Evans,N.T., Turner,C.R.,
+            Mahon,A.R., Pfrender,M.E., Lamberti,G.A. and Lodge,D.M.
+  TITLE     Estimating species richness using environmental DNA
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Renshaw,M.A., Olds,B.P. and Lodge,D.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-AUG-2014) Biological Sciences, University of Notre
+            Dame, 182 Galvin Life Sciences Center, Notre Dame, IN 46556, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oncorhynchus clarkii stomias"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:453929"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+                     /note="Ac12S fragment"
+ORIGIN      
+        1 c
+//
+
+LOCUS       KM273850                   1 bp    DNA     linear   VRT 29-NOV-2014
+DEFINITION  Oncorhynchus kisutch 12S ribosomal RNA gene, partial sequence;
+            mitochondrial.
+ACCESSION   KM273850 REGION: 1
+VERSION     KM273850.1
+KEYWORDS    .
+SOURCE      mitochondrion Oncorhynchus kisutch (coho salmon)
+  ORGANISM  Oncorhynchus kisutch
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Oncorhynchus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Olds,B.P., Jerde,C.L., Renshaw,M.A., Evans,N.T., Turner,C.R.,
+            Mahon,A.R., Pfrender,M.E., Lamberti,G.A. and Lodge,D.M.
+  TITLE     Estimating species richness using environmental DNA
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Renshaw,M.A., Olds,B.P. and Lodge,D.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-AUG-2014) Biological Sciences, University of Notre
+            Dame, 182 Galvin Life Sciences Center, Notre Dame, IN 46556, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oncorhynchus kisutch"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8019"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+                     /note="Ac12S fragment"
+ORIGIN      
+        1 c
+//
+
+LOCUS       KM273851                   1 bp    DNA     linear   VRT 29-NOV-2014
+DEFINITION  Oncorhynchus mykiss 12S ribosomal RNA gene, partial sequence;
+            mitochondrial.
+ACCESSION   KM273851 REGION: 1
+VERSION     KM273851.1
+KEYWORDS    .
+SOURCE      mitochondrion Oncorhynchus mykiss (rainbow trout)
+  ORGANISM  Oncorhynchus mykiss
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Oncorhynchus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Olds,B.P., Jerde,C.L., Renshaw,M.A., Evans,N.T., Turner,C.R.,
+            Mahon,A.R., Pfrender,M.E., Lamberti,G.A. and Lodge,D.M.
+  TITLE     Estimating species richness using environmental DNA
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Renshaw,M.A., Olds,B.P. and Lodge,D.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-AUG-2014) Biological Sciences, University of Notre
+            Dame, 182 Galvin Life Sciences Center, Notre Dame, IN 46556, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oncorhynchus mykiss"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8022"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+                     /note="Ac12S fragment"
+ORIGIN      
+        1 c
+//
+
+LOCUS       KM273852                   1 bp    DNA     linear   VRT 29-NOV-2014
+DEFINITION  Oncorhynchus tshawytscha 12S ribosomal RNA gene, partial sequence;
+            mitochondrial.
+ACCESSION   KM273852 REGION: 1
+VERSION     KM273852.1
+KEYWORDS    .
+SOURCE      mitochondrion Oncorhynchus tshawytscha (Chinook salmon)
+  ORGANISM  Oncorhynchus tshawytscha
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Oncorhynchus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Olds,B.P., Jerde,C.L., Renshaw,M.A., Evans,N.T., Turner,C.R.,
+            Mahon,A.R., Pfrender,M.E., Lamberti,G.A. and Lodge,D.M.
+  TITLE     Estimating species richness using environmental DNA
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Renshaw,M.A., Olds,B.P. and Lodge,D.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-AUG-2014) Biological Sciences, University of Notre
+            Dame, 182 Galvin Life Sciences Center, Notre Dame, IN 46556, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oncorhynchus tshawytscha"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:74940"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+                     /note="Ac12S fragment"
+ORIGIN      
+        1 c
+//
+
+LOCUS       KM273853                   1 bp    DNA     linear   VRT 29-NOV-2014
+DEFINITION  Perca flavescens 12S ribosomal RNA gene, partial sequence;
+            mitochondrial.
+ACCESSION   KM273853 REGION: 1
+VERSION     KM273853.1
+KEYWORDS    .
+SOURCE      mitochondrion Perca flavescens (yellow perch)
+  ORGANISM  Perca flavescens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Perciformes; Percoidei; Percidae;
+            Percinae; Perca.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Olds,B.P., Jerde,C.L., Renshaw,M.A., Evans,N.T., Turner,C.R.,
+            Mahon,A.R., Pfrender,M.E., Lamberti,G.A. and Lodge,D.M.
+  TITLE     Estimating species richness using environmental DNA
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Renshaw,M.A., Olds,B.P. and Lodge,D.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-AUG-2014) Biological Sciences, University of Notre
+            Dame, 182 Galvin Life Sciences Center, Notre Dame, IN 46556, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Perca flavescens"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8167"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+                     /note="Ac12S fragment"
+ORIGIN      
+        1 c
+//
+
+LOCUS       KM273855                   1 bp    DNA     linear   VRT 29-NOV-2014
+DEFINITION  Pimephales promelas 12S ribosomal RNA gene, partial sequence;
+            mitochondrial.
+ACCESSION   KM273855 REGION: 1
+VERSION     KM273855.1
+KEYWORDS    .
+SOURCE      mitochondrion Pimephales promelas (fathead minnow)
+  ORGANISM  Pimephales promelas
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Leuciscidae; Pogonichthyinae; Pimephales.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Olds,B.P., Jerde,C.L., Renshaw,M.A., Evans,N.T., Turner,C.R.,
+            Mahon,A.R., Pfrender,M.E., Lamberti,G.A. and Lodge,D.M.
+  TITLE     Estimating species richness using environmental DNA
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Renshaw,M.A., Olds,B.P. and Lodge,D.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-AUG-2014) Biological Sciences, University of Notre
+            Dame, 182 Galvin Life Sciences Center, Notre Dame, IN 46556, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Pimephales promelas"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:90988"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+                     /note="Ac1S fragment"
+ORIGIN      
+        1 c
+//
+
+LOCUS       KM273856                   1 bp    DNA     linear   VRT 29-NOV-2014
+DEFINITION  Pomoxis nigromaculatus 12S ribosomal RNA gene, partial sequence;
+            mitochondrial.
+ACCESSION   KM273856 REGION: 1
+VERSION     KM273856.1
+KEYWORDS    .
+SOURCE      mitochondrion Pomoxis nigromaculatus (black crappie)
+  ORGANISM  Pomoxis nigromaculatus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Centrarchiformes; Centrarchoidei;
+            Centrarchidae; Pomoxis.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Olds,B.P., Jerde,C.L., Renshaw,M.A., Evans,N.T., Turner,C.R.,
+            Mahon,A.R., Pfrender,M.E., Lamberti,G.A. and Lodge,D.M.
+  TITLE     Estimating species richness using environmental DNA
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Renshaw,M.A., Olds,B.P. and Lodge,D.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-AUG-2014) Biological Sciences, University of Notre
+            Dame, 182 Galvin Life Sciences Center, Notre Dame, IN 46556, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Pomoxis nigromaculatus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8182"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+                     /note="Ac12S fragment"
+ORIGIN      
+        1 c
+//
+
+LOCUS       KM273859                   1 bp    DNA     linear   VRT 29-NOV-2014
+DEFINITION  Salmo trutta 12S ribosomal RNA gene, partial sequence;
+            mitochondrial.
+ACCESSION   KM273859 REGION: 1
+VERSION     KM273859.1
+KEYWORDS    .
+SOURCE      mitochondrion Salmo trutta (river trout)
+  ORGANISM  Salmo trutta
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Salmo.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Olds,B.P., Jerde,C.L., Renshaw,M.A., Evans,N.T., Turner,C.R.,
+            Mahon,A.R., Pfrender,M.E., Lamberti,G.A. and Lodge,D.M.
+  TITLE     Estimating species richness using environmental DNA
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Renshaw,M.A., Olds,B.P. and Lodge,D.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-AUG-2014) Biological Sciences, University of Notre
+            Dame, 182 Galvin Life Sciences Center, Notre Dame, IN 46556, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Salmo trutta"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8032"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+                     /note="Ac12S fragment"
+ORIGIN      
+        1 c
+//
+
+LOCUS       KM273864                   1 bp    DNA     linear   VRT 29-NOV-2014
+DEFINITION  Umbra limi 12S ribosomal RNA gene, partial sequence; mitochondrial.
+ACCESSION   KM273864 REGION: 1
+VERSION     KM273864.1
+KEYWORDS    .
+SOURCE      mitochondrion Umbra limi (central mudminnow)
+  ORGANISM  Umbra limi
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Esociformes; Umbridae; Umbra.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Olds,B.P., Jerde,C.L., Renshaw,M.A., Evans,N.T., Turner,C.R.,
+            Mahon,A.R., Pfrender,M.E., Lamberti,G.A. and Lodge,D.M.
+  TITLE     Estimating species richness using environmental DNA
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Renshaw,M.A., Olds,B.P. and Lodge,D.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-AUG-2014) Biological Sciences, University of Notre
+            Dame, 182 Galvin Life Sciences Center, Notre Dame, IN 46556, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Umbra limi"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:75935"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+                     /note="Ac12S fragment"
+ORIGIN      
+        1 c
+//
+
+LOCUS       KM282391                   1 bp    DNA     linear   VRT 29-NOV-2014
+DEFINITION  Acipenser oxyrinchus 12S ribosomal RNA gene, partial sequence;
+            mitochondrial.
+ACCESSION   KM282391 REGION: 1
+VERSION     KM282391.1
+KEYWORDS    .
+SOURCE      mitochondrion Acipenser oxyrinchus (Atlantic sturgeon)
+  ORGANISM  Acipenser oxyrinchus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Chondrostei; Acipenseriformes; Acipenseridae;
+            Acipenser.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Olds,B.P., Jerde,C.L., Renshaw,M.A., Evans,N.T., Turner,C.R.,
+            Mahon,A.R., Pfrender,M.E., Lamberti,G.A. and Lodge,D.M.
+  TITLE     Estimating species richness using environmental DNA
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Renshaw,M.A., Olds,B.P. and Lodge,D.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-AUG-2014) Biological Sciences, University of Notre
+            Dame, 182 Galvin Life Sciences Center, Notre Dame, IN 46556, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Acipenser oxyrinchus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:36177"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+                     /note="Am12S fragment"
+ORIGIN      
+        1 a
+//
+
+LOCUS       KM282392                   1 bp    DNA     linear   VRT 29-NOV-2014
+DEFINITION  Acipenser oxyrinchus desotoi 12S ribosomal RNA gene, partial
+            sequence; mitochondrial.
+ACCESSION   KM282392 REGION: 1
+VERSION     KM282392.1
+KEYWORDS    .
+SOURCE      mitochondrion Acipenser oxyrinchus desotoi (Gulf sturgeon)
+  ORGANISM  Acipenser oxyrinchus desotoi
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Chondrostei; Acipenseriformes; Acipenseridae;
+            Acipenser.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Olds,B.P., Jerde,C.L., Renshaw,M.A., Evans,N.T., Turner,C.R.,
+            Mahon,A.R., Pfrender,M.E., Lamberti,G.A. and Lodge,D.M.
+  TITLE     Estimating species richness using environmental DNA
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Renshaw,M.A., Olds,B.P. and Lodge,D.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-AUG-2014) Biological Sciences, University of Notre
+            Dame, 182 Galvin Life Sciences Center, Notre Dame, IN 46556, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Acipenser oxyrinchus desotoi"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:40146"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+                     /note="Am12S fragment"
+ORIGIN      
+        1 a
+//
+
+LOCUS       KM282394                   1 bp    DNA     linear   VRT 29-NOV-2014
+DEFINITION  Ambloplites rupestris 12S ribosomal RNA gene, partial sequence;
+            mitochondrial.
+ACCESSION   KM282394 REGION: 1
+VERSION     KM282394.1
+KEYWORDS    .
+SOURCE      mitochondrion Ambloplites rupestris
+  ORGANISM  Ambloplites rupestris
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Centrarchiformes; Centrarchoidei;
+            Centrarchidae; Ambloplites.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Olds,B.P., Jerde,C.L., Renshaw,M.A., Evans,N.T., Turner,C.R.,
+            Mahon,A.R., Pfrender,M.E., Lamberti,G.A. and Lodge,D.M.
+  TITLE     Estimating species richness using environmental DNA
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Renshaw,M.A., Olds,B.P. and Lodge,D.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-AUG-2014) Biological Sciences, University of Notre
+            Dame, 182 Galvin Life Sciences Center, Notre Dame, IN 46556, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Ambloplites rupestris"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:109273"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+                     /note="Am12S fragment"
+ORIGIN      
+        1 a
+//
+

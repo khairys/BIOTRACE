@@ -1,0 +1,1782 @@
+LOCUS       MOZMTZ                     1 bp    DNA     linear   VRT 18-JAN-1996
+DEFINITION  Morone saxatilis mitochondrial transfer RNA-Thr, -Pro and -Phe
+            genes, control region, and 12S ribosomal RNA (12S rRNA) gene.
+ACCESSION   L60529 REGION: 1
+VERSION     L60529.1
+KEYWORDS    12S ribosomal RNA; control region; ribosomal RNA; transfer RNA;
+            transfer RNA-Phe; transfer RNA-Pro; transfer RNA-Thr.
+SOURCE      mitochondrion Morone saxatilis (striped sea-bass)
+  ORGANISM  Morone saxatilis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Moronidae; Morone.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Stabile,J.E. and Wirgin,I.I.
+  TITLE     Characterization of heteroplasmy and length variation of the
+            striped bass mitochondrial genome
+  JOURNAL   Unpublished
+COMMENT     Original source text: Mitochondrion Morone saxatilis
+            (individual_isolate East Hamptom Specimen 21) adult liver DNA.
+            The control region of the M. saxatilis can contain several copies
+            of a 121 bp tandem repeat. Length variation among different mtDNA
+            haplotypes is due to varying numbers of the tandem repeats.  The
+            smallest haplotype contains three copies while the largest can have
+            six or more.   The first tandem repeat among all genotypes examined
+            to date is truncated relative to the others.
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Morone saxatilis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="East Hamptom Specimen 21"
+                     /db_xref="taxon:34816"
+                     /haplotype="C"
+                     /tissue_type="liver"
+                     /dev_stage="adult"
+                     /note="striped bass"
+ORIGIN      
+        1 c
+//
+
+LOCUS       LC012541                   1 bp    DNA     linear   VRT 25-DEC-2015
+DEFINITION  Salmo salar mitochondrial DNA, complete genome.
+ACCESSION   LC012541 REGION: 1
+VERSION     LC012541.1
+KEYWORDS    .
+SOURCE      mitochondrion Salmo salar (Atlantic salmon)
+  ORGANISM  Salmo salar
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Salmo.
+REFERENCE   1
+  AUTHORS   Rezaei,A. and Akhshabi,S.H.
+  TITLE     Complete mitochondrial genomic in Salmo salar
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Rezaei,A. and Akhshabi,S.H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-DEC-2014) Contact:Abolhasan Rezaei Islamic Azad
+            University Tonekabon Branch, Genetics; Tonekabon, Mazandaran
+            46841-51111, Iran
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Salmo salar"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8030"
+                     /tissue_type="muscle"
+                     /geo_loc_name="Iran"
+                     /collection_date="2014-02-06"
+                     /collected_by="Abolhasan Rezaei"
+                     /identified_by="Abolhasan Rezaei"
+     D-loop          >1
+                     /note="control region"
+ORIGIN      
+        1 t
+//
+
+LOCUS       LC021007                   1 bp    DNA     linear   VRT 11-FEB-2025
+DEFINITION  Osmerus mordax dentex mitochondrial gene for 12S rRNA, partial
+            sequence, specimen_voucher: HUMZ:192216.
+ACCESSION   LC021007 REGION: 1
+VERSION     LC021007.1
+KEYWORDS    .
+SOURCE      mitochondrion Osmerus mordax dentex (Arctic rainbow smelt)
+  ORGANISM  Osmerus mordax dentex
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Stomiati; Osmeriformes;
+            Osmeridae; Osmerus.
+REFERENCE   1
+  AUTHORS   Miya,M. and Sado,T.
+  TITLE     Reference data for MiFish metabarcoding analysis
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Miya,M. and Sado,T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-JAN-2015) Contact:Masaki Miya Natural History Museum
+            & Institute, Chiba, Department of Zoology; 955-2 Aoba-cho, Chuo-ku,
+            Chiba, Chiba 260-8682, Japan
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Osmerus mordax dentex"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="HUMZ:192216"
+                     /db_xref="taxon:476919"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 c
+//
+
+LOCUS       LC021015                   1 bp    DNA     linear   VRT 11-FEB-2025
+DEFINITION  Esox masquinongy mitochondrial gene for 12S rRNA, partial sequence.
+ACCESSION   LC021015 REGION: 1
+VERSION     LC021015.1
+KEYWORDS    .
+SOURCE      mitochondrion Esox masquinongy (muskellunge)
+  ORGANISM  Esox masquinongy
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Esociformes; Esocidae; Esox.
+REFERENCE   1
+  AUTHORS   Miya,M. and Sado,T.
+  TITLE     Reference data for MiFish metabarcoding analysis
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Miya,M. and Sado,T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-JAN-2015) Contact:Masaki Miya Natural History Museum
+            & Institute, Chiba, Department of Zoology; 955-2 Aoba-cho, Chuo-ku,
+            Chiba, Chiba 260-8682, Japan
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Esox masquinongy"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:126735"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 c
+//
+
+LOCUS       LC021016                   1 bp    DNA     linear   VRT 11-FEB-2025
+DEFINITION  Umbra limi mitochondrial gene for 12S rRNA, partial sequence.
+ACCESSION   LC021016 REGION: 1
+VERSION     LC021016.1
+KEYWORDS    .
+SOURCE      mitochondrion Umbra limi (central mudminnow)
+  ORGANISM  Umbra limi
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Esociformes; Umbridae; Umbra.
+REFERENCE   1
+  AUTHORS   Miya,M. and Sado,T.
+  TITLE     Reference data for MiFish metabarcoding analysis
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Miya,M. and Sado,T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-JAN-2015) Contact:Masaki Miya Natural History Museum
+            & Institute, Chiba, Department of Zoology; 955-2 Aoba-cho, Chuo-ku,
+            Chiba, Chiba 260-8682, Japan
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Umbra limi"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:75935"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 c
+//
+
+LOCUS       LC026580                   1 bp    DNA     linear   VRT 11-FEB-2025
+DEFINITION  Gasterosteus aculeatus aculeatus mitochondrial gene for 12S rRNA,
+            partial sequence.
+ACCESSION   LC026580 REGION: 1
+VERSION     LC026580.1
+KEYWORDS    .
+SOURCE      mitochondrion Gasterosteus aculeatus aculeatus (three-spined
+            stickleback)
+  ORGANISM  Gasterosteus aculeatus aculeatus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Perciformes; Cottioidei;
+            Gasterosteales; Gasterosteidae; Gasterosteus.
+REFERENCE   1
+  AUTHORS   Miya,M. and Sado,T.
+  TITLE     Reference data for MiFish metabarcoding analysis
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Miya,M. and Sado,T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-FEB-2015) Contact:Masaki Miya Natural History Museum
+            & Institute, Chiba, Department of Zoology; 955-2 Aoba-cho, Chuo-ku,
+            Chiba, Chiba 260-8682, Japan
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Gasterosteus aculeatus aculeatus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="HUMZ:209533"
+                     /db_xref="taxon:481459"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 c
+//
+
+LOCUS       LC049665                   1 bp    DNA     linear   VRT 11-FEB-2025
+DEFINITION  Lepomis macrochirus mitochondrial gene for 12S rRNA, partial
+            sequence, specimen_voucher: CBM:ZF:15186-1.
+ACCESSION   LC049665 REGION: 1
+VERSION     LC049665.1
+KEYWORDS    .
+SOURCE      mitochondrion Lepomis macrochirus (bluegill)
+  ORGANISM  Lepomis macrochirus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Centrarchiformes; Centrarchoidei;
+            Centrarchidae; Lepomis.
+REFERENCE   1
+  AUTHORS   Miya,M. and Sado,T.
+  TITLE     Reference data for MiFish metabarcoding analysis
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Miya,M. and Sado,T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-APR-2015) Contact:Masaki Miya Natural History Museum
+            & Institute, Chiba, Department of Zoology; 955-2 Aoba-cho, Chuo-ku,
+            Chiba, Chiba 260-8682, Japan
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Lepomis macrochirus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="CBM:ZF:15186-1"
+                     /db_xref="taxon:13106"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 c
+//
+
+LOCUS       LC049666                   1 bp    DNA     linear   VRT 11-FEB-2025
+DEFINITION  Etheostoma caeruleum mitochondrial gene for 12S rRNA, partial
+            sequence, specimen_voucher: CBM:ZF:15465.
+ACCESSION   LC049666 REGION: 1
+VERSION     LC049666.1
+KEYWORDS    .
+SOURCE      mitochondrion Etheostoma caeruleum (rainbow darter)
+  ORGANISM  Etheostoma caeruleum
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Perciformes; Percoidei; Percidae;
+            Etheostomatinae; Etheostoma.
+REFERENCE   1
+  AUTHORS   Miya,M. and Sado,T.
+  TITLE     Reference data for MiFish metabarcoding analysis
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Miya,M. and Sado,T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-APR-2015) Contact:Masaki Miya Natural History Museum
+            & Institute, Chiba, Department of Zoology; 955-2 Aoba-cho, Chuo-ku,
+            Chiba, Chiba 260-8682, Japan
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Etheostoma caeruleum"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="CBM:ZF:15465"
+                     /db_xref="taxon:54319"
+                     /note="KAQ(Kyoto Aquarium)-P00238"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 c
+//
+
+LOCUS       LC050735                   1 bp    DNA     linear   VRT 10-SEP-2015
+DEFINITION  Oncorhynchus mykiss mitochondrial DNA, complete genome.
+ACCESSION   LC050735 REGION: 1
+VERSION     LC050735.1
+KEYWORDS    .
+SOURCE      mitochondrion Oncorhynchus mykiss (rainbow trout)
+  ORGANISM  Oncorhynchus mykiss
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Oncorhynchus.
+REFERENCE   1
+  AUTHORS   Song,Y.N., Li,J.T. and Sun,X.W.
+  TITLE     The complete mitochondrial genome sequence of steelhead, the
+            coastal rainbow trout (Oncorhynchus mykiss irideus)
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Li,J.T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-APR-2015) Contact:Jiong Tang Li Chinese Academy of
+            Fishery Sciences, The Centre for Applied Aquatic Genomics; No.150,
+            QingTa Village, YongDing Road, FengTai District, Beijing 10-0041,
+            China URL :http://genomics.cafs.ac.cn/
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oncorhynchus mykiss"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8022"
+     tRNA            >1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       LC069400                   1 bp    DNA     linear   VRT 11-FEB-2025
+DEFINITION  Carassius auratus mitochondrial gene for 12S rRNA, partial
+            sequence, specimen_voucher: CBM:ZF:15621.
+ACCESSION   LC069400 REGION: 1
+VERSION     LC069400.1
+KEYWORDS    .
+SOURCE      mitochondrion Carassius auratus (goldfish)
+  ORGANISM  Carassius auratus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Cyprinidae; Cyprininae; Carassius.
+REFERENCE   1
+  AUTHORS   Miya,M. and Sado,T.
+  TITLE     Reference data for MiFish metabarcoding analysis
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Miya,M. and Sado,T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (31-JUL-2015) Contact:Masaki Miya Natural History Museum
+            & Institute, Chiba, Department of Zoology; 955-2 Aoba-cho, Chuo-ku,
+            Chiba, Chiba 260-8682, Japan
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Carassius auratus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="CBM:ZF:15621"
+                     /db_xref="taxon:7957"
+                     /note="WAKIN;
+                     goldfish"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 c
+//
+
+LOCUS       LC069407                   1 bp    DNA     linear   VRT 11-FEB-2025
+DEFINITION  Cyprinus carpio mitochondrial gene for 12S rRNA, partial sequence,
+            specimen_voucher: CBM:ZF:15679.
+ACCESSION   LC069407 REGION: 1
+VERSION     LC069407.1
+KEYWORDS    .
+SOURCE      mitochondrion Cyprinus carpio (common carp)
+  ORGANISM  Cyprinus carpio
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Cyprinidae; Cyprininae; Cyprinus.
+REFERENCE   1
+  AUTHORS   Miya,M. and Sado,T.
+  TITLE     Reference data for MiFish metabarcoding analysis
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Miya,M. and Sado,T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (31-JUL-2015) Contact:Masaki Miya Natural History Museum
+            & Institute, Chiba, Department of Zoology; 955-2 Aoba-cho, Chuo-ku,
+            Chiba, Chiba 260-8682, Japan
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Cyprinus carpio"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="CBM:ZF:15679"
+                     /db_xref="taxon:7962"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 c
+//
+
+LOCUS       LC069408                   1 bp    DNA     linear   VRT 11-FEB-2025
+DEFINITION  Cyprinus carpio mitochondrial gene for 12S rRNA, partial sequence,
+            specimen_voucher: CBM:ZF:11714.
+ACCESSION   LC069408 REGION: 1
+VERSION     LC069408.1
+KEYWORDS    .
+SOURCE      mitochondrion Cyprinus carpio (common carp)
+  ORGANISM  Cyprinus carpio
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Cyprinidae; Cyprininae; Cyprinus.
+REFERENCE   1
+  AUTHORS   Miya,M. and Sado,T.
+  TITLE     Reference data for MiFish metabarcoding analysis
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Miya,M. and Sado,T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (31-JUL-2015) Contact:Masaki Miya Natural History Museum
+            & Institute, Chiba, Department of Zoology; 955-2 Aoba-cho, Chuo-ku,
+            Chiba, Chiba 260-8682, Japan
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Cyprinus carpio"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="CBM:ZF:11714"
+                     /db_xref="taxon:7962"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 c
+//
+
+LOCUS       LC069536                   1 bp    DNA     linear   VRT 19-SEP-2025
+DEFINITION  Micropterus nigricans mitochondrial gene for 12S rRNA, partial
+            sequence, specimen_voucher: CBM:ZF:15593.
+ACCESSION   LC069536 REGION: 1
+VERSION     LC069536.1
+KEYWORDS    .
+SOURCE      mitochondrion Micropterus nigricans
+  ORGANISM  Micropterus nigricans
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Centrarchiformes; Centrarchoidei;
+            Centrarchidae; Micropterus.
+REFERENCE   1
+  AUTHORS   Miya,M. and Sado,T.
+  TITLE     Reference data for MiFish metabarcoding analysis
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Miya,M. and Sado,T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (31-JUL-2015) Contact:Masaki Miya Natural History Museum
+            & Institute, Chiba, Department of Zoology; 955-2 Aoba-cho, Chuo-ku,
+            Chiba, Chiba 260-8682, Japan
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Micropterus nigricans"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="CBM:ZF:15593"
+                     /db_xref="taxon:3463859"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 c
+//
+
+LOCUS       LC091583                   1 bp    DNA     linear   VRT 03-NOV-2023
+DEFINITION  Alosa sapidissima mitochondrial gene for 12S rRNA, partial
+            sequence, specimen_voucher: UW:110484.
+ACCESSION   LC091583 REGION: 1
+VERSION     LC091583.1
+KEYWORDS    .
+SOURCE      mitochondrion Alosa sapidissima (American shad)
+  ORGANISM  Alosa sapidissima
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Clupei; Clupeiformes;
+            Clupeoidei; Clupeidae; Alosa.
+REFERENCE   1
+  AUTHORS   Miya,M. and Sado,T.
+  TITLE     Reference data for MiFish metabarcoding analysis
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Miya,M. and Sado,T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-OCT-2015) Contact:Masaki Miya Natural History Museum
+            & Institute, Chiba, Department of Zoology; 955-2 Aoba-cho, Chuo-ku,
+            Chiba, Chiba 260-8682, Japan
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Alosa sapidissima"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="UW:110484"
+                     /db_xref="taxon:34773"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 c
+//
+
+LOCUS       LC091619                   1 bp    DNA     linear   VRT 03-NOV-2023
+DEFINITION  Salmo salar mitochondrial gene for 12S rRNA, partial sequence,
+            specimen_voucher: UW:021734.
+ACCESSION   LC091619 REGION: 1
+VERSION     LC091619.1
+KEYWORDS    .
+SOURCE      mitochondrion Salmo salar (Atlantic salmon)
+  ORGANISM  Salmo salar
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Salmo.
+REFERENCE   1
+  AUTHORS   Miya,M. and Sado,T.
+  TITLE     Reference data for MiFish metabarcoding analysis
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Miya,M. and Sado,T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-OCT-2015) Contact:Masaki Miya Natural History Museum
+            & Institute, Chiba, Department of Zoology; 955-2 Aoba-cho, Chuo-ku,
+            Chiba, Chiba 260-8682, Japan
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Salmo salar"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="UW:021734"
+                     /db_xref="taxon:8030"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 c
+//
+
+LOCUS       LC091624                   1 bp    DNA     linear   VRT 03-NOV-2023
+DEFINITION  Oncorhynchus clarkii mitochondrial gene for 12S rRNA, partial
+            sequence, specimen_voucher: UW:151157.
+ACCESSION   LC091624 REGION: 1
+VERSION     LC091624.1
+KEYWORDS    .
+SOURCE      mitochondrion Oncorhynchus clarkii (cutthroat trout)
+  ORGANISM  Oncorhynchus clarkii
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Oncorhynchus.
+REFERENCE   1
+  AUTHORS   Miya,M. and Sado,T.
+  TITLE     Reference data for MiFish metabarcoding analysis
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Miya,M. and Sado,T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-OCT-2015) Contact:Masaki Miya Natural History Museum
+            & Institute, Chiba, Department of Zoology; 955-2 Aoba-cho, Chuo-ku,
+            Chiba, Chiba 260-8682, Japan
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oncorhynchus clarkii"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="UW:151157"
+                     /db_xref="taxon:30962"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 c
+//
+
+LOCUS       LC091626                   1 bp    DNA     linear   VRT 03-NOV-2023
+DEFINITION  Oncorhynchus kisutch mitochondrial gene for 12S rRNA, partial
+            sequence, specimen_voucher: UW:151183.
+ACCESSION   LC091626 REGION: 1
+VERSION     LC091626.1
+KEYWORDS    .
+SOURCE      mitochondrion Oncorhynchus kisutch (coho salmon)
+  ORGANISM  Oncorhynchus kisutch
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Oncorhynchus.
+REFERENCE   1
+  AUTHORS   Miya,M. and Sado,T.
+  TITLE     Reference data for MiFish metabarcoding analysis
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Miya,M. and Sado,T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-OCT-2015) Contact:Masaki Miya Natural History Museum
+            & Institute, Chiba, Department of Zoology; 955-2 Aoba-cho, Chuo-ku,
+            Chiba, Chiba 260-8682, Japan
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oncorhynchus kisutch"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="UW:151183"
+                     /db_xref="taxon:8019"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 c
+//
+
+LOCUS       LC091628                   1 bp    DNA     linear   VRT 03-NOV-2023
+DEFINITION  Oncorhynchus tshawytscha mitochondrial gene for 12S rRNA, partial
+            sequence, specimen_voucher: UW:151426.
+ACCESSION   LC091628 REGION: 1
+VERSION     LC091628.1
+KEYWORDS    .
+SOURCE      mitochondrion Oncorhynchus tshawytscha (Chinook salmon)
+  ORGANISM  Oncorhynchus tshawytscha
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Oncorhynchus.
+REFERENCE   1
+  AUTHORS   Miya,M. and Sado,T.
+  TITLE     Reference data for MiFish metabarcoding analysis
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Miya,M. and Sado,T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-OCT-2015) Contact:Masaki Miya Natural History Museum
+            & Institute, Chiba, Department of Zoology; 955-2 Aoba-cho, Chuo-ku,
+            Chiba, Chiba 260-8682, Japan
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oncorhynchus tshawytscha"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="UW:151426"
+                     /db_xref="taxon:74940"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 c
+//
+
+LOCUS       LC091630                   1 bp    DNA     linear   VRT 03-NOV-2023
+DEFINITION  Oncorhynchus nerka mitochondrial gene for 12S rRNA, partial
+            sequence, specimen_voucher: UW:043713.
+ACCESSION   LC091630 REGION: 1
+VERSION     LC091630.1
+KEYWORDS    .
+SOURCE      mitochondrion Oncorhynchus nerka (sockeye salmon)
+  ORGANISM  Oncorhynchus nerka
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Oncorhynchus.
+REFERENCE   1
+  AUTHORS   Miya,M. and Sado,T.
+  TITLE     Reference data for MiFish metabarcoding analysis
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Miya,M. and Sado,T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-OCT-2015) Contact:Masaki Miya Natural History Museum
+            & Institute, Chiba, Department of Zoology; 955-2 Aoba-cho, Chuo-ku,
+            Chiba, Chiba 260-8682, Japan
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oncorhynchus nerka"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="UW:043713"
+                     /db_xref="taxon:8023"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 c
+//
+
+LOCUS       LC091631                   1 bp    DNA     linear   VRT 03-NOV-2023
+DEFINITION  Oncorhynchus mykiss mitochondrial gene for 12S rRNA, partial
+            sequence, specimen_voucher: UW:118087.
+ACCESSION   LC091631 REGION: 1
+VERSION     LC091631.1
+KEYWORDS    .
+SOURCE      mitochondrion Oncorhynchus mykiss (rainbow trout)
+  ORGANISM  Oncorhynchus mykiss
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Oncorhynchus.
+REFERENCE   1
+  AUTHORS   Miya,M. and Sado,T.
+  TITLE     Reference data for MiFish metabarcoding analysis
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Miya,M. and Sado,T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-OCT-2015) Contact:Masaki Miya Natural History Museum
+            & Institute, Chiba, Department of Zoology; 955-2 Aoba-cho, Chuo-ku,
+            Chiba, Chiba 260-8682, Japan
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oncorhynchus mykiss"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="UW:118087"
+                     /db_xref="taxon:8022"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 c
+//
+
+LOCUS       LC091632                   1 bp    DNA     linear   VRT 03-NOV-2023
+DEFINITION  Prosopium cylindraceum mitochondrial gene for 12S rRNA, partial
+            sequence, bio_material: CBM(Chiba Museum) DNA No. 2010-064.
+ACCESSION   LC091632 REGION: 1
+VERSION     LC091632.1
+KEYWORDS    .
+SOURCE      mitochondrion Prosopium cylindraceum (round whitefish)
+  ORGANISM  Prosopium cylindraceum
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Coregoninae; Prosopium.
+REFERENCE   1
+  AUTHORS   Miya,M. and Sado,T.
+  TITLE     Reference data for MiFish metabarcoding analysis
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Miya,M. and Sado,T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-OCT-2015) Contact:Masaki Miya Natural History Museum
+            & Institute, Chiba, Department of Zoology; 955-2 Aoba-cho, Chuo-ku,
+            Chiba, Chiba 260-8682, Japan
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Prosopium cylindraceum"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /bio_material="CBM(Chiba Museum) DNA No. 2010-064"
+                     /db_xref="taxon:348696"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 c
+//
+
+LOCUS       LC091871                   1 bp    DNA     linear   VRT 03-NOV-2023
+DEFINITION  Labidesthes sicculus mitochondrial gene for 12S rRNA, partial
+            sequence, specimen_voucher: STL:369.02.
+ACCESSION   LC091871 REGION: 1
+VERSION     LC091871.1
+KEYWORDS    .
+SOURCE      mitochondrion Labidesthes sicculus (brook silverside)
+  ORGANISM  Labidesthes sicculus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Ovalentaria; Atherinomorphae; Atheriniformes;
+            Atherinopsidae; Atherinopsinae; Labidesthes.
+REFERENCE   1
+  AUTHORS   Miya,M. and Sado,T.
+  TITLE     Reference data for MiFish metabarcoding analysis
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Miya,M. and Sado,T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-OCT-2015) Contact:Masaki Miya Natural History Museum
+            & Institute, Chiba, Department of Zoology; 955-2 Aoba-cho, Chuo-ku,
+            Chiba, Chiba 260-8682, Japan
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Labidesthes sicculus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="STL:369.02"
+                     /db_xref="taxon:300304"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 c
+//
+
+LOCUS       LC091881                   1 bp    DNA     linear   VRT 03-NOV-2023
+DEFINITION  Gasterosteus aculeatus mitochondrial gene for 12S rRNA, partial
+            sequence, specimen_voucher: UW:151197.
+ACCESSION   LC091881 REGION: 1
+VERSION     LC091881.1
+KEYWORDS    .
+SOURCE      mitochondrion Gasterosteus aculeatus (three-spined stickleback)
+  ORGANISM  Gasterosteus aculeatus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Perciformes; Cottioidei;
+            Gasterosteales; Gasterosteidae; Gasterosteus.
+REFERENCE   1
+  AUTHORS   Miya,M. and Sado,T.
+  TITLE     Reference data for MiFish metabarcoding analysis
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Miya,M. and Sado,T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-OCT-2015) Contact:Masaki Miya Natural History Museum
+            & Institute, Chiba, Department of Zoology; 955-2 Aoba-cho, Chuo-ku,
+            Chiba, Chiba 260-8682, Japan
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Gasterosteus aculeatus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="UW:151197"
+                     /db_xref="taxon:69293"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 c
+//
+
+LOCUS       LC091960                   1 bp    DNA     linear   VRT 03-NOV-2023
+DEFINITION  Sander vitreus mitochondrial gene for 12S rRNA, partial sequence,
+            specimen_voucher: KU:23075.
+ACCESSION   LC091960 REGION: 1
+VERSION     LC091960.1
+KEYWORDS    .
+SOURCE      mitochondrion Sander vitreus (walleye)
+  ORGANISM  Sander vitreus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Perciformes; Percoidei; Percidae;
+            Luciopercinae; Sander.
+REFERENCE   1
+  AUTHORS   Miya,M. and Sado,T.
+  TITLE     Reference data for MiFish metabarcoding analysis
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Miya,M. and Sado,T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-OCT-2015) Contact:Masaki Miya Natural History Museum
+            & Institute, Chiba, Department of Zoology; 955-2 Aoba-cho, Chuo-ku,
+            Chiba, Chiba 260-8682, Japan
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Sander vitreus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="KU:23075"
+                     /db_xref="taxon:283036"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 c
+//
+
+LOCUS       LC092101                   1 bp    DNA     linear   VRT 03-NOV-2023
+DEFINITION  Tinca tinca mitochondrial gene for 12S rRNA, partial sequence,
+            specimen_voucher: UAIC:14421.01.
+ACCESSION   LC092101 REGION: 1
+VERSION     LC092101.1
+KEYWORDS    .
+SOURCE      mitochondrion Tinca tinca (tench)
+  ORGANISM  Tinca tinca
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Tincidae; Tinca.
+REFERENCE   1
+  AUTHORS   Miya,M. and Sado,T.
+  TITLE     Reference data for MiFish metabarcoding analysis
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Miya,M. and Sado,T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-OCT-2015) Contact:Masaki Miya Natural History Museum
+            & Institute, Chiba, Department of Zoology; 955-2 Aoba-cho, Chuo-ku,
+            Chiba, Chiba 260-8682, Japan
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Tinca tinca"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="UAIC:14421.01"
+                     /db_xref="taxon:27717"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 c
+//
+
+LOCUS       LC104407                   1 bp    DNA     linear   VRT 07-AUG-2025
+DEFINITION  Ameiurus nebulosus mitochondrial gene for 12S rRNA, partial
+            sequence, specimen_voucher: CBM:ZF:15821.
+ACCESSION   LC104407 REGION: 1
+VERSION     LC104407.1
+KEYWORDS    .
+SOURCE      mitochondrion Ameiurus nebulosus (brown bullhead)
+  ORGANISM  Ameiurus nebulosus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi; Siluriformes;
+            Ictaluridae; Ameiurus.
+REFERENCE   1
+  AUTHORS   Miya,M. and Sado,T.
+  TITLE     Reference data for MiFish metabarcoding analysis
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Miya,M. and Sado,T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (17-DEC-2015) Contact:Masaki Miya Natural History Museum
+            & Institute, Chiba, Department of Zoology; 955-2 Aoba-cho, Chuo-ku,
+            Chiba, Chiba 260-8682, Japan
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Ameiurus nebulosus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="CBM:ZF:15821"
+                     /db_xref="taxon:27778"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 c
+//
+
+LOCUS       LC104592                   1 bp    DNA     linear   VRT 03-FEB-2016
+DEFINITION  Morone americana mitochondrial gene for 12S rRNA, partial sequence.
+ACCESSION   LC104592 REGION: 1
+VERSION     LC104592.1
+KEYWORDS    .
+SOURCE      mitochondrion Morone americana (white perch)
+  ORGANISM  Morone americana
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Moronidae; Morone.
+REFERENCE   1
+  AUTHORS   Miya,M. and Sado,T.
+  TITLE     Reference data of mitochondrial gene for 12S ribosomal RNA, partial
+            sequence of fishes for eDNA analyzing
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Miya,M. and Sado,T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (17-DEC-2015) Contact:Masaki Miya Natural History Museum
+            & Institute, Chiba, Department of Zoology; 955-2 Aoba-cho, Chuo-ku,
+            Chiba, Chiba 260-8682, Japan
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Morone americana"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:46260"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 c
+//
+
+LOCUS       LC146188                   1 bp    DNA     linear   VRT 23-JAN-2025
+DEFINITION  Lota lota mitochondrial gene for 12S rRNA, partial sequence,
+            specimen_voucher: CBM:ZF:16277.
+ACCESSION   LC146188 REGION: 1
+VERSION     LC146188.1
+KEYWORDS    .
+SOURCE      mitochondrion Lota lota (burbot)
+  ORGANISM  Lota lota
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Zeiogadaria; Gadariae; Gadiformes; Gadoidei;
+            Lotidae; Lota.
+REFERENCE   1
+  AUTHORS   Miya,M. and Sado,T.
+  TITLE     Reference data for MiFish metabarcoding analysis
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Miya,M. and Sado,T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-APR-2016) Contact:Masaki Miya Natural History Museum
+            & Institute, Chiba, Department of Zoology; 955-2 Aoba-cho, Chuo-ku,
+            Chiba, Chiba 260-8682, Japan
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Lota lota"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="CBM:ZF:16277"
+                     /db_xref="taxon:69944"
+                     /note="KAQ(Kyoto Aquarium)-P00416"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 c
+//
+
+LOCUS       LC146203                   1 bp    DNA     linear   VRT 23-JAN-2025
+DEFINITION  Pungitius pungitius mitochondrial gene for 12S rRNA, partial
+            sequence, specimen_voucher: CBM:ZF:16183.
+ACCESSION   LC146203 REGION: 1
+VERSION     LC146203.1
+KEYWORDS    .
+SOURCE      mitochondrion Pungitius pungitius (ninespine stickleback)
+  ORGANISM  Pungitius pungitius
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Perciformes; Cottioidei;
+            Gasterosteales; Gasterosteidae; Pungitius.
+REFERENCE   1
+  AUTHORS   Miya,M. and Sado,T.
+  TITLE     Reference data for MiFish metabarcoding analysis
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Miya,M. and Sado,T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-APR-2016) Contact:Masaki Miya Natural History Museum
+            & Institute, Chiba, Department of Zoology; 955-2 Aoba-cho, Chuo-ku,
+            Chiba, Chiba 260-8682, Japan
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Pungitius pungitius"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="CBM:ZF:16183"
+                     /db_xref="taxon:134920"
+                     /note="KAQ(Kyoto Aquarium)-P00328"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 c
+//
+
+LOCUS       LC193240                   1 bp    DNA     linear   VRT 23-JAN-2025
+DEFINITION  Salvelinus namaycush mitochondrial gene for 12S rRNA, partial
+            sequence.
+ACCESSION   LC193240 REGION: 1
+VERSION     LC193240.1
+KEYWORDS    .
+SOURCE      mitochondrion Salvelinus namaycush (lake trout)
+  ORGANISM  Salvelinus namaycush
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Salvelinus.
+REFERENCE   1
+  AUTHORS   Miya,M. and Sado,T.
+  TITLE     Reference data for MiFish metabarcoding analysis
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Miya,M. and Sado,T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-OCT-2016) Contact:Masaki Miya Natural History Museum
+            & Institute, Chiba, Department of Zoology; 955-2 Aoba-cho, Chuo-ku,
+            Chiba, Chiba 260-8682, Japan
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Salvelinus namaycush"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8040"
+                     /geo_loc_name="Japan"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 c
+//
+
+LOCUS       LC193249                   1 bp    DNA     linear   VRT 23-JAN-2025
+DEFINITION  Gasterosteus aculeatus mitochondrial gene for 12S rRNA, partial
+            sequence.
+ACCESSION   LC193249 REGION: 1
+VERSION     LC193249.1
+KEYWORDS    .
+SOURCE      mitochondrion Gasterosteus aculeatus (three-spined stickleback)
+  ORGANISM  Gasterosteus aculeatus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Perciformes; Cottioidei;
+            Gasterosteales; Gasterosteidae; Gasterosteus.
+REFERENCE   1
+  AUTHORS   Miya,M. and Sado,T.
+  TITLE     Reference data for MiFish metabarcoding analysis
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Miya,M. and Sado,T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-OCT-2016) Contact:Masaki Miya Natural History Museum
+            & Institute, Chiba, Department of Zoology; 955-2 Aoba-cho, Chuo-ku,
+            Chiba, Chiba 260-8682, Japan
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Gasterosteus aculeatus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /bio_material="CBM(Chiba Museum) DNA No. 2016-389"
+                     /db_xref="taxon:69293"
+                     /note="KAQ(Kyoto Aquarium)-P00467;
+                     Pacific Landlocked type"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 c
+//
+
+LOCUS       LC277831                   1 bp    DNA     linear   VRT 23-JAN-2025
+DEFINITION  Salmo trutta mitochondrial gene for 12S rRNA, partial sequence,
+            specimen_voucher: FRLM:37778.
+ACCESSION   LC277831 REGION: 1
+VERSION     LC277831.1
+KEYWORDS    .
+SOURCE      mitochondrion Salmo trutta (river trout)
+  ORGANISM  Salmo trutta
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Salmo.
+REFERENCE   1
+  AUTHORS   Miya,M. and Sado,T.
+  TITLE     Reference data for MiFish metabarcoding analysis
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Miya,M. and Sado,T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (15-JUN-2017) Contact:Masaki Miya Natural History Museum
+            & Institute, Chiba, Department of Zoology; 955-2 Aoba-cho, Chuo-ku,
+            Chiba, Chiba 260-8682, Japan
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Salmo trutta"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="FRLM:37778"
+                     /db_xref="taxon:8032"
+                     /PCR_primers="fwd_seq: gtcggtaaaactcgtgccagc, rev_seq:
+                     catagtggggtatctaatcccagtttg"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 c
+//
+
+LOCUS       LC340052                   1 bp    DNA     linear   VRT 23-JAN-2025
+DEFINITION  Salvelinus fontinalis mitochondrial gene for 12S rRNA, partial
+            sequence.
+ACCESSION   LC340052 REGION: 1
+VERSION     LC340052.1
+KEYWORDS    .
+SOURCE      mitochondrion Salvelinus fontinalis (brook trout)
+  ORGANISM  Salvelinus fontinalis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Salvelinus.
+REFERENCE   1
+  AUTHORS   Miya,M. and Sado,T.
+  TITLE     Reference data for MiFish metabarcoding analysis
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Miya,M. and Sado,T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (30-NOV-2017) Contact:Masaki Miya Natural History Museum
+            & Institute, Chiba, Department of Zoology; 955-2 Aoba-cho, Chuo-ku,
+            Chiba, Chiba 260-8682, Japan
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Salvelinus fontinalis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8038"
+                     /PCR_primers="fwd_seq: gtcggtaaaactcgtgccagc, rev_seq:
+                     catagtggggtatctaatcccagtttg"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 c
+//
+
+LOCUS       LC340053                   1 bp    DNA     linear   VRT 23-JAN-2025
+DEFINITION  Oncorhynchus nerka mitochondrial gene for 12S rRNA, partial
+            sequence.
+ACCESSION   LC340053 REGION: 1
+VERSION     LC340053.1
+KEYWORDS    .
+SOURCE      mitochondrion Oncorhynchus nerka (sockeye salmon)
+  ORGANISM  Oncorhynchus nerka
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Oncorhynchus.
+REFERENCE   1
+  AUTHORS   Miya,M. and Sado,T.
+  TITLE     Reference data for MiFish metabarcoding analysis
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Miya,M. and Sado,T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (30-NOV-2017) Contact:Masaki Miya Natural History Museum
+            & Institute, Chiba, Department of Zoology; 955-2 Aoba-cho, Chuo-ku,
+            Chiba, Chiba 260-8682, Japan
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oncorhynchus nerka"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8023"
+                     /PCR_primers="fwd_seq: gtcggtaaaactcgtgccagc, rev_seq:
+                     catagtggggtatctaatcccagtttg"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 c
+//
+
+LOCUS       LC340054                   1 bp    DNA     linear   VRT 23-JAN-2025
+DEFINITION  Salmo trutta mitochondrial gene for 12S rRNA, partial sequence.
+ACCESSION   LC340054 REGION: 1
+VERSION     LC340054.1
+KEYWORDS    .
+SOURCE      mitochondrion Salmo trutta (river trout)
+  ORGANISM  Salmo trutta
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Salmo.
+REFERENCE   1
+  AUTHORS   Miya,M. and Sado,T.
+  TITLE     Reference data for MiFish metabarcoding analysis
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Miya,M. and Sado,T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (30-NOV-2017) Contact:Masaki Miya Natural History Museum
+            & Institute, Chiba, Department of Zoology; 955-2 Aoba-cho, Chuo-ku,
+            Chiba, Chiba 260-8682, Japan
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Salmo trutta"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8032"
+                     /PCR_primers="fwd_seq: gtcggtaaaactcgtgccagc, rev_seq:
+                     catagtggggtatctaatcccagtttg"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 c
+//
+
+LOCUS       LC340060                   1 bp    DNA     linear   VRT 23-JAN-2025
+DEFINITION  Percopsis omiscomaycus mitochondrial gene for 12S rRNA, partial
+            sequence.
+ACCESSION   LC340060 REGION: 1
+VERSION     LC340060.1
+KEYWORDS    .
+SOURCE      mitochondrion Percopsis omiscomaycus
+  ORGANISM  Percopsis omiscomaycus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Percopsaria; Percopsiformes; Percopsoidei;
+            Percopsidae; Percopsis.
+REFERENCE   1
+  AUTHORS   Miya,M. and Sado,T.
+  TITLE     Reference data for MiFish metabarcoding analysis
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Miya,M. and Sado,T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (30-NOV-2017) Contact:Masaki Miya Natural History Museum
+            & Institute, Chiba, Department of Zoology; 955-2 Aoba-cho, Chuo-ku,
+            Chiba, Chiba 260-8682, Japan
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Percopsis omiscomaycus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:81381"
+                     /PCR_primers="fwd_seq: gtcggtaaaactcgtgccagc, rev_seq:
+                     catagtggggtatctaatcccagtttg"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 c
+//
+
+LOCUS       LC340162                   1 bp    DNA     linear   VRT 26-SEP-2025
+DEFINITION  Etheostoma blennioides mitochondrial gene for 12S rRNA, partial
+            sequence.
+ACCESSION   LC340162 REGION: 1
+VERSION     LC340162.1
+KEYWORDS    .
+SOURCE      mitochondrion Etheostoma blennioides (greenside darter)
+  ORGANISM  Etheostoma blennioides
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Perciformes; Percoidei; Percidae;
+            Etheostomatinae; Etheostoma.
+REFERENCE   1
+  AUTHORS   Miya,M. and Sado,T.
+  TITLE     Reference data for MiFish metabarcoding analysis
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Miya,M. and Sado,T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (30-NOV-2017) Contact:Masaki Miya Natural History Museum
+            & Institute, Chiba, Department of Zoology; 955-2 Aoba-cho, Chuo-ku,
+            Chiba, Chiba 260-8682, Japan
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Etheostoma blennioides"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:54350"
+                     /PCR_primers="fwd_seq: gtcggtaaaactcgtgccagc, rev_seq:
+                     catagtggggtatctaatcccagtttg"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 c
+//
+
+LOCUS       LC385254                   1 bp    DNA     linear   VRT 23-JAN-2025
+DEFINITION  Cottus bairdii CBM:ZF:17794 mitochondrial gene for 12S rRNA,
+            partial sequence.
+ACCESSION   LC385254 REGION: 1
+VERSION     LC385254.1
+KEYWORDS    .
+SOURCE      mitochondrion Cottus bairdii (mottled sculpin)
+  ORGANISM  Cottus bairdii
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Perciformes; Cottioidei; Cottales;
+            Cottidae; Cottus.
+REFERENCE   1
+  AUTHORS   Miya,M., Sado,T. and Fukuchi,T.
+  TITLE     Reference data for MiFish metabarcoding analysis
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Miya,M., Sado,T. and Fukuchi,T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-MAY-2018) Contact:Masaki Miya Natural History Museum
+            & Institute, Chiba, Department of Zoology; 955-2 Aoba-cho, Chuo-ku,
+            Chiba, Chiba 260-8682, Japan
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Cottus bairdii"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="CBM:ZF:17794"
+                     /db_xref="taxon:147208"
+                     /PCR_primers="fwd_seq: gtcggtaaaactcgtgccagc, rev_seq:
+                     catagtggggtatctaatcccagtttg"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 c
+//
+
+LOCUS       LC385323                   1 bp    DNA     linear   VRT 23-JAN-2025
+DEFINITION  Petromyzon marinus mitochondrial gene for 12S rRNA, partial
+            sequence.
+ACCESSION   LC385323 REGION: 1
+VERSION     LC385323.1
+KEYWORDS    .
+SOURCE      mitochondrion Petromyzon marinus (sea lamprey)
+  ORGANISM  Petromyzon marinus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Cyclostomata;
+            Hyperoartia; Petromyzontiformes; Petromyzontidae; Petromyzon.
+REFERENCE   1
+  AUTHORS   Miya,M., Sado,T. and Fukuchi,T.
+  TITLE     Reference data for MiFish metabarcoding analysis
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Miya,M., Sado,T. and Fukuchi,T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-MAY-2018) Contact:Masaki Miya Natural History Museum
+            & Institute, Chiba, Department of Zoology; 955-2 Aoba-cho, Chuo-ku,
+            Chiba, Chiba 260-8682, Japan
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Petromyzon marinus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:7757"
+                     /PCR_primers="fwd_seq: gtcggtaaaactcgtgccagc, rev_seq:
+                     catagtggggtatctaatcccagtttg"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 c
+//
+
+LOCUS       LC492329                   1 bp    DNA     linear   VRT 20-JUL-2019
+DEFINITION  Pimephales notatus CBM:DNA No. 2009-133 mitochondrial gene for 12S
+            rRNA, partial sequence.
+ACCESSION   LC492329 REGION: 1
+VERSION     LC492329.1
+KEYWORDS    .
+SOURCE      mitochondrion Pimephales notatus (bluntnose minnow)
+  ORGANISM  Pimephales notatus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Leuciscidae; Pogonichthyinae; Pimephales.
+REFERENCE   1
+  AUTHORS   Sado,T., Fukuchi,T. and Miya,M.
+  TITLE     Reference data for MiFish metabarcoding analysis
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Sado,T., Fukuchi,T. and Miya,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-JUL-2019) Contact:Tetsuya Sado Natural History Museum
+            & Institute, Chiba, Japan, Department of Zoology; 955-2 Aoba-cho,
+            Chuo-ku, Chiba, Chiba 260-8682, Japan URL
+            :http://www2.chiba-muse.or.jp/NATURAL/
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Pimephales notatus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /bio_material="CBM:DNA No. 2009-133"
+                     /db_xref="taxon:51138"
+                     /PCR_primers="fwd_seq: gtcggtaaaactcgtgccagc, rev_seq:
+                     catagtggggtatctaatcccagtttg"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 c
+//
+
+LOCUS       LC533126                   1 bp    DNA     linear   VRT 24-MAR-2020
+DEFINITION  Gasterosteus aculeatus microcephalus BLM0002 mitochondrial gene for
+            12S rRNA, partial sequence.
+ACCESSION   LC533126 REGION: 1
+VERSION     LC533126.1
+KEYWORDS    .
+SOURCE      mitochondrion Gasterosteus aculeatus microcephalus
+  ORGANISM  Gasterosteus aculeatus microcephalus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Perciformes; Cottioidei;
+            Gasterosteales; Gasterosteidae; Gasterosteus.
+REFERENCE   1
+  AUTHORS   Nakamura,M., Souma,R., Ichitsuka,Y. and Kushida,T.
+  TITLE     Reference data for MiFish metabarcoding analysis
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Nakamura,M. and Souma,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-MAR-2020) Contact:Masatoshi Nakamura IDEA
+            Consultants, Inc.; 1334-5 Riemon, Yaizu, Shizuoka 421-0212, Japan
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Gasterosteus aculeatus microcephalus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="BLM0002"
+                     /db_xref="taxon:481460"
+                     /geo_loc_name="Japan: Shiga, Maibara city"
+                     /collected_by="Shigefumi Kanao"
+                     /identified_by="Shigefumi Kanao"
+                     /note="conservation breeding strain (Lake Biwa Museum);
+                     synonym: Gasterosteus aculeatus subsp. 2"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 c
+//
+
+LOCUS       LC552391                   1 bp    DNA     linear   VRT 04-JUN-2020
+DEFINITION  Scardinius erythrophthalmus CBM:ZF:11778 mitochondrial gene for 12S
+            rRNA, partial sequence.
+ACCESSION   LC552391 REGION: 1
+VERSION     LC552391.1
+KEYWORDS    .
+SOURCE      mitochondrion Scardinius erythrophthalmus (rudd)
+  ORGANISM  Scardinius erythrophthalmus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Leuciscidae; Leuciscinae; Scardinius.
+REFERENCE   1
+  AUTHORS   Sado,T., Fukuchi,T. and Miya,T.
+  TITLE     Reference data for MiFish metabarcoding analysis
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Sado,T., Fukuchi,T. and Miya,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (31-MAY-2020) Contact:Tetsuya Sado Natural History Museum
+            & Institute, Chiba, Japan; 955-2 Aoba-cho, Chuo-ku, Chiba, Chiba
+            260-8682, Japan
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Scardinius erythrophthalmus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="CBM:ZF:11778"
+                     /db_xref="taxon:58319"
+                     /PCR_primers="fwd_seq: gtcggtaaaactcgtgccagc, rev_seq:
+                     catagtggggtatctaatcccagtttg"
+                     /note="ornamental fish"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 c
+//
+
+LOCUS       LC782346                   1 bp    DNA     linear   VRT 24-JUN-2025
+DEFINITION  Lepomis megalotis 20230823-1 mitochondrial DNA, nearly complete
+            genome.
+ACCESSION   LC782346 REGION: 1
+VERSION     LC782346.1
+KEYWORDS    .
+SOURCE      mitochondrion Lepomis megalotis
+  ORGANISM  Lepomis megalotis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Centrarchiformes; Centrarchoidei;
+            Centrarchidae; Lepomis.
+REFERENCE   1
+  AUTHORS   Fujita,T., Hosoya,K., Nakai,K., Mukai,T., Taniguchi,Y. and Mori,S.
+  TITLE     Longear Sunfish (Lepomis megalotis) in Tokuyama Dam Reservoir, Gifu
+            Prefecture: first Japanese record
+  JOURNAL   Jpn J Ichthyol 72, 45-52 (2025)
+  REMARK    DOI:10.11369/jji.24-010
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Mukai,T. and Fujita,T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-OCT-2023) Contact:Takahiko Mukai Gifu University,
+            Faculty of Regional Studies; 1-1 Yanagido, Gifu, Gifu 501-1193,
+            Japan
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Lepomis megalotis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="20230823-1"
+                     /db_xref="taxon:270330"
+                     /geo_loc_name="Japan:Gifu, Ibigawa-cho, Tokuyama Dam
+                     Reservoir"
+                     /collection_date="2023-08-23"
+     tRNA            >1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       LC835958                   1 bp    DNA     linear   VRT 03-SEP-2024
+DEFINITION  Oncorhynchus nerka IDEA_Fish539 mitochondrial gene for 12S
+            ribosomal RNA, partial sequence.
+ACCESSION   LC835958 REGION: 1
+VERSION     LC835958.1
+KEYWORDS    .
+SOURCE      mitochondrion Oncorhynchus nerka (sockeye salmon)
+  ORGANISM  Oncorhynchus nerka
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Oncorhynchus.
+REFERENCE   1
+  AUTHORS   Nakamura,M., Souma,R. and Shirako,T.
+  TITLE     Reference data for MiFish metabarcoding analysis (PWRI eDNA
+            Project)
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Nakamura,M., Souma,R. and Shirako,T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-AUG-2024) Contact:Masatoshi Nakamura IDEA
+            Consultants, Inc.; 1334-5 Riemon, Yaizu, Shizuoka 4210212, Japan
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oncorhynchus nerka"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="IDEA_Fish539"
+                     /db_xref="taxon:8023"
+                     /geo_loc_name="Japan:Hokkaido, Lake Shikotsu"
+                     /collection_date="2023-06-18"
+                     /collected_by="Masatoshi Nakamura"
+                     /identified_by="Masatoshi Nakamura"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       LT617631                   1 bp    DNA     linear   VRT 03-OCT-2018
+DEFINITION  Salmo trutta mitochondrial genome, specimen voucher MNHN_IC_A_7585.
+ACCESSION   LT617631 REGION: 1
+VERSION     LT617631.1
+KEYWORDS    .
+SOURCE      mitochondrion Salmo trutta (river trout)
+  ORGANISM  Salmo trutta
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Salmo.
+REFERENCE   1
+  AUTHORS   Tougard,C., Justy,F., Guinand,B., Douzery,E.J.P. and Berrebi,P.
+  TITLE     Salmo macrostigma (Teleostei, Salmonidae): Nothing more than a
+            brown trout (S. trutta) lineage?
+  JOURNAL   J. Fish Biol. 93 (2), 302-310 (2018)
+   PUBMED   29992566
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Tougard,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (04-AUG-2016) CNRS, Place Eugene Bataillon, CC065, 34095
+            Montpellier, FRANCE
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Salmo trutta"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="MNHN_IC_A_7585"
+                     /db_xref="taxon:8032"
+     tRNA            >1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       MF621710                   1 bp    DNA     linear   VRT 03-JAN-2021
+DEFINITION  Micropterus dolomieu strain NEFC_F16-140 mitochondrion, complete
+            genome.
+ACCESSION   MF621710 REGION: 1
+VERSION     MF621710.1
+DBLINK      BioProject: PRJNA633136
+            BioSample: SAMN16874256
+KEYWORDS    .
+SOURCE      mitochondrion Micropterus dolomieu (smallmouth bass)
+  ORGANISM  Micropterus dolomieu
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Centrarchiformes; Centrarchoidei;
+            Centrarchidae; Micropterus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Schroeter,J.C., Maloy,A.P., Rees,C.B. and Bartron,M.L.
+  TITLE     Fish mitochondrial genome sequencing: expanding genetic resources
+            to support species detection and biodiversity monitoring using
+            environmental DNA
+  JOURNAL   Conserv Genet Resour 12 (3), 433-446 (2020)
+  REMARK    DOI: 10.1007/s12686-019-01111-0
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Maloy,A.P., Schroeter,J.C., Rees,C.B. and Bartron,M.L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-AUG-2017) Northeast Fishery Center, US Fish and
+            Wildlife Service, PO Box 75, Lamar, PA 16848, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Micropterus dolomieu"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /strain="NEFC_F16-140"
+                     /db_xref="taxon:147949"
+                     /geo_loc_name="USA: New York"
+     tRNA            >1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       MF621712                   1 bp    DNA     linear   VRT 03-JAN-2021
+DEFINITION  Lepomis macrochirus strain NEFC_F16-204 mitochondrion, complete
+            genome.
+ACCESSION   MF621712 REGION: 1
+VERSION     MF621712.1
+DBLINK      BioProject: PRJNA633136
+            BioSample: SAMN16874386
+KEYWORDS    .
+SOURCE      mitochondrion Lepomis macrochirus (bluegill)
+  ORGANISM  Lepomis macrochirus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Centrarchiformes; Centrarchoidei;
+            Centrarchidae; Lepomis.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Schroeter,J.C., Maloy,A.P., Rees,C.B. and Bartron,M.L.
+  TITLE     Fish mitochondrial genome sequencing: expanding genetic resources
+            to support species detection and biodiversity monitoring using
+            environmental DNA
+  JOURNAL   Conserv Genet Resour 12 (3), 433-446 (2020)
+  REMARK    DOI: 10.1007/s12686-019-01111-0
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Maloy,A.P., Schroeter,J.C., Rees,C.B. and Bartron,M.L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-AUG-2017) Northeast Fishery Center, US Fish and
+            Wildlife Service, PO Box 75, Lamar, PA 16848, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Lepomis macrochirus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /strain="NEFC_F16-204"
+                     /db_xref="taxon:13106"
+                     /geo_loc_name="USA: South Carolina"
+     tRNA            >1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       MF621713                   1 bp    DNA     linear   VRT 03-JAN-2021
+DEFINITION  Lepomis macrochirus strain NEFC_F16-029 mitochondrion, complete
+            genome.
+ACCESSION   MF621713 REGION: 1
+VERSION     MF621713.1
+DBLINK      BioProject: PRJNA633136
+            BioSample: SAMN16874388
+KEYWORDS    .
+SOURCE      mitochondrion Lepomis macrochirus (bluegill)
+  ORGANISM  Lepomis macrochirus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Centrarchiformes; Centrarchoidei;
+            Centrarchidae; Lepomis.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Schroeter,J.C., Maloy,A.P., Rees,C.B. and Bartron,M.L.
+  TITLE     Fish mitochondrial genome sequencing: expanding genetic resources
+            to support species detection and biodiversity monitoring using
+            environmental DNA
+  JOURNAL   Conserv Genet Resour 12 (3), 433-446 (2020)
+  REMARK    DOI: 10.1007/s12686-019-01111-0
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Maloy,A.P., Schroeter,J.C., Rees,C.B. and Bartron,M.L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-AUG-2017) Northeast Fishery Center, US Fish and
+            Wildlife Service, PO Box 75, Lamar, PA 16848, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Lepomis macrochirus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /strain="NEFC_F16-029"
+                     /db_xref="taxon:13106"
+                     /geo_loc_name="USA: Pennsylvania"
+     tRNA            >1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       MF621716                   1 bp    DNA     linear   VRT 03-JAN-2021
+DEFINITION  Ictalurus punctatus strain NEFC_F16-263 mitochondrion, complete
+            genome.
+ACCESSION   MF621716 REGION: 1
+VERSION     MF621716.1
+DBLINK      BioProject: PRJNA633136
+            BioSample: SAMN16874365
+KEYWORDS    .
+SOURCE      mitochondrion Ictalurus punctatus (channel catfish)
+  ORGANISM  Ictalurus punctatus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi; Siluriformes;
+            Ictaluridae; Ictalurus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Schroeter,J.C., Maloy,A.P., Rees,C.B. and Bartron,M.L.
+  TITLE     Fish mitochondrial genome sequencing: expanding genetic resources
+            to support species detection and biodiversity monitoring using
+            environmental DNA
+  JOURNAL   Conserv Genet Resour 12 (3), 433-446 (2020)
+  REMARK    DOI: 10.1007/s12686-019-01111-0
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Maloy,A.P., Schroeter,J.C., Rees,C.B. and Bartron,M.L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-AUG-2017) Northeast Fishery Center, US Fish and
+            Wildlife Service, PO Box 75, Lamar, PA 16848, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Ictalurus punctatus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /strain="NEFC_F16-263"
+                     /db_xref="taxon:7998"
+                     /geo_loc_name="USA: South Carolina"
+     tRNA            >1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       MF621717                   1 bp    DNA     linear   VRT 03-JAN-2021
+DEFINITION  Ictalurus punctatus strain NEFC_F16-045 mitochondrion, complete
+            genome.
+ACCESSION   MF621717 REGION: 1
+VERSION     MF621717.1
+DBLINK      BioProject: PRJNA633136
+            BioSample: SAMN16874369
+KEYWORDS    .
+SOURCE      mitochondrion Ictalurus punctatus (channel catfish)
+  ORGANISM  Ictalurus punctatus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi; Siluriformes;
+            Ictaluridae; Ictalurus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Schroeter,J.C., Maloy,A.P., Rees,C.B. and Bartron,M.L.
+  TITLE     Fish mitochondrial genome sequencing: expanding genetic resources
+            to support species detection and biodiversity monitoring using
+            environmental DNA
+  JOURNAL   Conserv Genet Resour 12 (3), 433-446 (2020)
+  REMARK    DOI: 10.1007/s12686-019-01111-0
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Maloy,A.P., Schroeter,J.C., Rees,C.B. and Bartron,M.L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-AUG-2017) Northeast Fishery Center, US Fish and
+            Wildlife Service, PO Box 75, Lamar, PA 16848, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Ictalurus punctatus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /strain="NEFC_F16-045"
+                     /db_xref="taxon:7998"
+                     /geo_loc_name="USA: Pennsylvania"
+     tRNA            >1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
