@@ -95,6 +95,7 @@ def _efetch(ids: list[str], rettype: str) -> bytes:
 
 # ---------------------------------------------------------------- datasets
 
+
 def stelbrink2014() -> None:
     """Telmatherinidae Malili, 12S–16S KJ667771–KJ667865 (Stelbrink dkk. 2014)."""
     ids = _accession_range("KJ", 667771, 667865)
@@ -131,8 +132,12 @@ def guyana12s() -> None:
 
 DRYAD_DOI = "doi:10.5061/dryad.3bk3j9kzf"
 LSP_SMALL = {
-    "edna_lg_clean.csv", "edna_env.csv", "elec_long.csv",
-    "elec_env.csv", "fish_codes.csv", "README.md",
+    "edna_lg_clean.csv",
+    "edna_env.csv",
+    "elec_long.csv",
+    "elec_env.csv",
+    "fish_codes.csv",
+    "README.md",
 }
 
 
@@ -146,7 +151,12 @@ def _dryad_files() -> list[dict]:
     files = _get_json(f"https://datadryad.org{files_href}")
     out = []
     for f in files["_embedded"]["stash:files"]:
-        out.append({"name": f["path"], "href": "https://datadryad.org" + f["_links"]["stash:download"]["href"]})
+        out.append(
+            {
+                "name": f["path"],
+                "href": "https://datadryad.org" + f["_links"]["stash:download"]["href"],
+            }
+        )
     return out
 
 
@@ -180,15 +190,19 @@ DEFAULT_ALL = ["stelbrink2014", "guyana12s", "lsp_small"]
 
 
 def main() -> int:
-    ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
+    ap = argparse.ArgumentParser(
+        description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter
+    )
     ap.add_argument("names", nargs="*", help="nama dataset atau 'all'")
     ap.add_argument("--list", action="store_true")
     a = ap.parse_args()
     if a.list or not a.names:
         for k, (_, d) in DATASETS.items():
             print(f"{k:20s} {d}")
-        print("\nPDF checklist (Herder 2006/2012, Tantu & Nilawati 2007) diunduh manual: "
-              "lihat scripts/fetch_instructions.md §4")
+        print(
+            "\nPDF checklist (Herder 2006/2012, Tantu & Nilawati 2007) diunduh manual: "
+            "lihat scripts/fetch_instructions.md §4"
+        )
         return 0
     names = DEFAULT_ALL if a.names == ["all"] else a.names
     failed = []
