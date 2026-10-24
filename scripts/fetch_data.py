@@ -179,7 +179,79 @@ def lsp_raw() -> None:
             _log("lake_st_pierre_raw", f["href"], p)
 
 
+MALILI = RAW / "malili12s_mitohelper"
+
+
+def _missing_voucher_or_country() -> list[str]:
+    """Aksesi kandidat yang esummary-nya tanpa /specimen_voucher atau /country (docs/13 §3)."""
+    missing = []
+    for path in sorted((MALILI / "genbank").glob("esummary_*.json")):
+        result = json.loads(path.read_text(encoding="utf-8"))["result"]
+        for uid in result["uids"]:
+            doc = result[uid]
+            names = (doc.get("subtype") or "").split("|")
+            values = (doc.get("subname") or "").split("|")
+            q = dict(zip(names, values, strict=False))
+            if not q.get("specimen_voucher") or not (q.get("country") or q.get("geo_loc_name")):
+                missing.append(doc["caption"])
+    return sorted(set(missing))
+
+
+def malili12s_genbank_headers() -> None:
+    """Header GenBank (REFERENCE, kualifier source) untuk aksesi Malili yang esummary-nya kurang.
+
+    efetch rettype=gb dengan seq_start=1 dan seq_stop=1: flat file lengkap kecuali sekuens
+    (sekuens sudah ada di arsip mitohelper). Jumlah record diverifikasi per batch.
+    """
+    ids = _missing_voucher_or_country()
+    out = MALILI / "genbank_flat"
+    out.mkdir(parents=True, exist_ok=True)
+    (out / "accessions.txt").write_text("\n".join(ids) + "\n", encoding="utf-8")
+    for i in range(0, len(ids), 50):
+        chunk = ids[i : i + 50]
+        p = out / f"headers_{i // 50:03d}.gb"
+        if p.exists():  # lanjutkan unduhan yang terputus; batch lama sudah tercatat di log
+            continue
+        params = urllib.parse.urlencode(
+            {
+                "db": "nuccore",
+                "id": ",".join(chunk),
+                "rettype": "gb",
+                "retmode": "text",
+                "seq_start": 1,
+                "seq_stop": 1,
+                "tool": "biotrace",
+            }
+        )
+        for attempt in range(4):  # NCBI kadang membalas 5xx sementara
+            try:
+                data = _get(f"{EUTILS}?{params}")
+                break
+            except OSError:
+                if attempt == 3:
+                    raise
+                time.sleep(2 ** (attempt + 1))
+        text = data.decode("utf-8")
+        found = text.count("\nACCESSION ") + text.startswith("ACCESSION ")
+        if found != len(chunk):
+            raise RuntimeError(
+                f"batch {i // 50}: {found} dari {len(chunk)} record; unduhan sebagian"
+            )
+        p.write_bytes(data)
+        _log(
+            "malili12s_genbank_headers",
+            f"{EUTILS} (rettype=gb, seq_start=1, seq_stop=1)",
+            p,
+            f"{len(chunk)} aksesi tanpa voucher/negara di esummary",
+        )
+        time.sleep(0.5)
+
+
 DATASETS = {
+    "malili12s_genbank_headers": (
+        malili12s_genbank_headers,
+        "Header GenBank aksesi Malili tanpa voucher/negara di esummary (docs/13 §3)",
+    ),
     "stelbrink2014": (stelbrink2014, "Sekuens 12S–16S Telmatherinidae Malili (prioritas 1)"),
     "stelbrink2014_nd2": (stelbrink2014_nd2, "Sekuens ND2 Telmatherinidae (opsional)"),
     "guyana12s": (guyana12s, "Pustaka 12S Guyana Prancis untuk uji LOSO (prioritas 4)"),
