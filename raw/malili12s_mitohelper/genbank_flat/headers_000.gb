@@ -1,0 +1,1922 @@
+LOCUS       AB021885                   1 bp    DNA     linear   VRT 14-JUL-2007
+DEFINITION  Anguilla megastoma mitochondrial gene for 12S ribosomal RNA,
+            partial sequence.
+ACCESSION   AB021885 REGION: 1
+VERSION     AB021885.1
+KEYWORDS    .
+SOURCE      mitochondrion Anguilla megastoma (Polynesian longfinned eel)
+  ORGANISM  Anguilla megastoma
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Anguilliformes;
+            Anguillidae; Anguilla.
+REFERENCE   1
+  AUTHORS   Aoyama,J.
+  TITLE     Molecular phylogeny and evolution of the freshwater eels, genus
+            Anguilla
+  JOURNAL   Thesis (1998) Ocean Research Institute, University of Tokyo
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Aoyama,J., Nishida,M. and Tsukamoto,K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (25-DEC-1998) Jun Aoyama, Ocean Research Institute,
+            University of Tokyo, Division of Fisheries Ecology; 1-15-1,
+            Minamidai, Nakano, Tokyo 164-8639, Japan
+            (E-mail:jaoyama@ori.u-tokyo.ac.jp, Tel:81-3-5351-6516,
+            Fax:81-3-5351-6514)
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Anguilla megastoma"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:86963"
+                     /tissue_type="liver"
+                     /dev_stage="adult"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       AB021886                   1 bp    DNA     linear   VRT 14-JUL-2007
+DEFINITION  Anguilla interioris mitochondrial gene for 12S ribosomal RNA,
+            partial sequence.
+ACCESSION   AB021886 REGION: 1
+VERSION     AB021886.1
+KEYWORDS    .
+SOURCE      mitochondrion Anguilla interioris (highlands long-finned eel)
+  ORGANISM  Anguilla interioris
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Anguilliformes;
+            Anguillidae; Anguilla.
+REFERENCE   1
+  AUTHORS   Aoyama,J.
+  TITLE     Molecular phylogeny and evolution of the freshwater eels, genus
+            Anguilla
+  JOURNAL   Thesis (1998) Ocean Research Institute, University of Tokyo
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Aoyama,J., Nishida,M. and Tsukamoto,K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (25-DEC-1998) Jun Aoyama, Ocean Research Institute,
+            University of Tokyo, Division of Fisheries Ecology; 1-15-1,
+            Minamidai, Nakano, Tokyo 164-8639, Japan
+            (E-mail:jaoyama@ori.u-tokyo.ac.jp, Tel:81-3-5351-6516,
+            Fax:81-3-5351-6514)
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Anguilla interioris"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:86967"
+                     /tissue_type="liver"
+                     /dev_stage="adult"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       AB021887                   1 bp    DNA     linear   VRT 14-JUL-2007
+DEFINITION  Anguilla anguilla mitochondrial gene for 12S ribosomal RNA, partial
+            sequence.
+ACCESSION   AB021887 REGION: 1
+VERSION     AB021887.1
+KEYWORDS    .
+SOURCE      mitochondrion Anguilla anguilla (European eel)
+  ORGANISM  Anguilla anguilla
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Anguilliformes;
+            Anguillidae; Anguilla.
+REFERENCE   1
+  AUTHORS   Aoyama,J.
+  TITLE     Molecular phylogeny and evolution of the freshwater eels, genus
+            Anguilla
+  JOURNAL   Thesis (1998) Ocean Research Institute, University of Tokyo
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Aoyama,J., Nishida,M. and Tsukamoto,K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (25-DEC-1998) Jun Aoyama, Ocean Research Institute,
+            University of Tokyo, Division of Fisheries Ecology; 1-15-1,
+            Minamidai, Nakano, Tokyo 164-8639, Japan
+            (E-mail:jaoyama@ori.u-tokyo.ac.jp, Tel:81-3-5351-6516,
+            Fax:81-3-5351-6514)
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Anguilla anguilla"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:7936"
+                     /tissue_type="liver"
+                     /dev_stage="adult"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       AB021888                   1 bp    DNA     linear   VRT 14-JUL-2007
+DEFINITION  Anguilla japonica mitochondrial gene for 12S ribosomal RNA, partial
+            sequence.
+ACCESSION   AB021888 REGION: 1
+VERSION     AB021888.1
+KEYWORDS    .
+SOURCE      mitochondrion Anguilla japonica (Japanese eel)
+  ORGANISM  Anguilla japonica
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Anguilliformes;
+            Anguillidae; Anguilla.
+REFERENCE   1
+  AUTHORS   Aoyama,J.
+  TITLE     Molecular phylogeny and evolution of the freshwater eels, genus
+            Anguilla
+  JOURNAL   Thesis (1998) Ocean Research Institute, University of Tokyo
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Aoyama,J., Nishida,M. and Tsukamoto,K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (25-DEC-1998) Jun Aoyama, Ocean Research Institute,
+            University of Tokyo, Division of Fisheries Ecology; 1-15-1,
+            Minamidai, Nakano, Tokyo 164-8639, Japan
+            (E-mail:jaoyama@ori.u-tokyo.ac.jp, Tel:81-3-5351-6516,
+            Fax:81-3-5351-6514)
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Anguilla japonica"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:7937"
+                     /tissue_type="liver"
+                     /dev_stage="adult"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       AB021889                   1 bp    DNA     linear   VRT 14-JUL-2007
+DEFINITION  Anguilla australis australis mitochondrial gene for 12S ribosomal
+            RNA, partial sequence.
+ACCESSION   AB021889 REGION: 1
+VERSION     AB021889.1
+KEYWORDS    .
+SOURCE      mitochondrion Anguilla australis australis
+  ORGANISM  Anguilla australis australis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Anguilliformes;
+            Anguillidae; Anguilla.
+REFERENCE   1
+  AUTHORS   Aoyama,J.
+  TITLE     Molecular phylogeny and evolution of the freshwater eels, genus
+            Anguilla
+  JOURNAL   Thesis (1998) Ocean Research Institute, University of Tokyo
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Aoyama,J., Nishida,M. and Tsukamoto,K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (25-DEC-1998) Jun Aoyama, Ocean Research Institute,
+            University of Tokyo, Division of Fisheries Ecology; 1-15-1,
+            Minamidai, Nakano, Tokyo 164-8639, Japan
+            (E-mail:jaoyama@ori.u-tokyo.ac.jp, Tel:81-3-5351-6516,
+            Fax:81-3-5351-6514)
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Anguilla australis australis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:86961"
+                     /tissue_type="liver"
+                     /dev_stage="adult"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       AB021890                   1 bp    DNA     linear   VRT 14-JUL-2007
+DEFINITION  Anguilla marmorata mitochondrial gene for 12S ribosomal RNA,
+            partial sequence.
+ACCESSION   AB021890 REGION: 1
+VERSION     AB021890.1
+KEYWORDS    .
+SOURCE      mitochondrion Anguilla marmorata (giant mottled eel)
+  ORGANISM  Anguilla marmorata
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Anguilliformes;
+            Anguillidae; Anguilla.
+REFERENCE   1
+  AUTHORS   Aoyama,J.
+  TITLE     Molecular phylogeny and evolution of the freshwater eels, genus
+            Anguilla
+  JOURNAL   Thesis (1998) Ocean Research Institute, University of Tokyo
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Aoyama,J., Nishida,M. and Tsukamoto,K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (25-DEC-1998) Jun Aoyama, Ocean Research Institute,
+            University of Tokyo, Division of Fisheries Ecology; 1-15-1,
+            Minamidai, Nakano, Tokyo 164-8639, Japan
+            (E-mail:jaoyama@ori.u-tokyo.ac.jp, Tel:81-3-5351-6516,
+            Fax:81-3-5351-6514)
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Anguilla marmorata"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:7939"
+                     /tissue_type="liver"
+                     /dev_stage="adult"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       AB021892                   1 bp    DNA     linear   VRT 14-JUL-2007
+DEFINITION  Anguilla mossambica mitochondrial gene for 12S ribosomal RNA,
+            partial sequence.
+ACCESSION   AB021892 REGION: 1
+VERSION     AB021892.1
+KEYWORDS    .
+SOURCE      mitochondrion Anguilla mossambica (African longfin eel)
+  ORGANISM  Anguilla mossambica
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Anguilliformes;
+            Anguillidae; Anguilla.
+REFERENCE   1
+  AUTHORS   Aoyama,J.
+  TITLE     Molecular phylogeny and evolution of the freshwater eels, genus
+            Anguilla
+  JOURNAL   Thesis (1998) Ocean Research Institute, University of Tokyo
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Aoyama,J., Nishida,M. and Tsukamoto,K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (25-DEC-1998) Jun Aoyama, Ocean Research Institute,
+            University of Tokyo, Division of Fisheries Ecology; 1-15-1,
+            Minamidai, Nakano, Tokyo 164-8639, Japan
+            (E-mail:jaoyama@ori.u-tokyo.ac.jp, Tel:81-3-5351-6516,
+            Fax:81-3-5351-6514)
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Anguilla mossambica"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:48164"
+                     /tissue_type="liver"
+                     /dev_stage="adult"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       AB021893                   1 bp    DNA     linear   VRT 14-JUL-2007
+DEFINITION  Anguilla bicolor bicolor mitochondrial gene for 12S ribosomal RNA,
+            partial sequence.
+ACCESSION   AB021893 REGION: 1
+VERSION     AB021893.1
+KEYWORDS    .
+SOURCE      mitochondrion Anguilla bicolor bicolor (Indonesian shortfin eel)
+  ORGANISM  Anguilla bicolor bicolor
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Anguilliformes;
+            Anguillidae; Anguilla.
+REFERENCE   1
+  AUTHORS   Aoyama,J.
+  TITLE     Molecular phylogeny and evolution of the freshwater eels, genus
+            Anguilla
+  JOURNAL   Thesis (1998) Ocean Research Institute, University of Tokyo
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Aoyama,J., Nishida,M. and Tsukamoto,K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (25-DEC-1998) Jun Aoyama, Ocean Research Institute,
+            University of Tokyo, Division of Fisheries Ecology; 1-15-1,
+            Minamidai, Nakano, Tokyo 164-8639, Japan
+            (E-mail:jaoyama@ori.u-tokyo.ac.jp, Tel:81-3-5351-6516,
+            Fax:81-3-5351-6514)
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Anguilla bicolor bicolor"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:61125"
+                     /tissue_type="liver"
+                     /dev_stage="adult"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       AB021894                   1 bp    DNA     linear   VRT 03-APR-2026
+DEFINITION  Anguilla pacifica mitochondrial gene for 12S ribosomal RNA, partial
+            sequence.
+ACCESSION   AB021894 REGION: 1
+VERSION     AB021894.1
+KEYWORDS    .
+SOURCE      mitochondrion Anguilla pacifica (Indian short-finned eel)
+  ORGANISM  Anguilla pacifica
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Anguilliformes;
+            Anguillidae; Anguilla.
+REFERENCE   1
+  AUTHORS   Aoyama,J.
+  TITLE     Molecular phylogeny and evolution of the freshwater eels, genus
+            Anguilla
+  JOURNAL   Thesis (1998) Ocean Research Institute, University of Tokyo
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Aoyama,J., Nishida,M. and Tsukamoto,K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (25-DEC-1998) Contact:Jun Aoyama Ocean Research
+            Institute, University of Tokyo, Division of Fisheries Ecology;
+            1-15-1, Minamidai, Nakano, Tokyo 164-8639, Japan
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Anguilla pacifica"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:3352002"
+                     /tissue_type="liver"
+                     /dev_stage="adult"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       AB021895                   1 bp    DNA     linear   VRT 14-JUL-2007
+DEFINITION  Anguilla malgumora mitochondrial gene for 12S ribosomal RNA,
+            partial sequence.
+ACCESSION   AB021895 REGION: 1
+VERSION     AB021895.1
+KEYWORDS    .
+SOURCE      mitochondrion Anguilla malgumora
+  ORGANISM  Anguilla malgumora
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Anguilliformes;
+            Anguillidae; Anguilla.
+REFERENCE   1
+  AUTHORS   Aoyama,J.
+  TITLE     Molecular phylogeny and evolution of the freshwater eels, genus
+            Anguilla
+  JOURNAL   Thesis (1998) Ocean Research Institute, University of Tokyo
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Aoyama,J., Nishida,M. and Tsukamoto,K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (25-DEC-1998) Jun Aoyama, Ocean Research Institute,
+            University of Tokyo, Division of Fisheries Ecology; 1-15-1,
+            Minamidai, Nakano, Tokyo 164-8639, Japan
+            (E-mail:jaoyama@ori.u-tokyo.ac.jp, Tel:81-3-5351-6516,
+            Fax:81-3-5351-6514)
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Anguilla malgumora"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:103812"
+                     /tissue_type="liver"
+                     /dev_stage="adult"
+                     /note="synonym: Anguilla borneensis"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       AB021897                   1 bp    DNA     linear   VRT 14-JUL-2007
+DEFINITION  Anguilla nebulosa nebulosa mitochondrial gene for 12S ribosomal
+            RNA, partial sequence.
+ACCESSION   AB021897 REGION: 1
+VERSION     AB021897.1
+KEYWORDS    .
+SOURCE      mitochondrion Anguilla nebulosa nebulosa
+  ORGANISM  Anguilla nebulosa nebulosa
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Anguilliformes;
+            Anguillidae; Anguilla.
+REFERENCE   1
+  AUTHORS   Aoyama,J.
+  TITLE     Molecular phylogeny and evolution of the freshwater eels, genus
+            Anguilla
+  JOURNAL   Thesis (1998) Ocean Research Institute, University of Tokyo
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Aoyama,J., Nishida,M. and Tsukamoto,K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (25-DEC-1998) Jun Aoyama, Ocean Research Institute,
+            University of Tokyo, Division of Fisheries Ecology; 1-15-1,
+            Minamidai, Nakano, Tokyo 164-8639, Japan
+            (E-mail:jaoyama@ori.u-tokyo.ac.jp, Tel:81-3-5351-6516,
+            Fax:81-3-5351-6514)
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Anguilla nebulosa nebulosa"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:86966"
+                     /tissue_type="liver"
+                     /dev_stage="adult"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       AB021898                   1 bp    DNA     linear   VRT 14-JUL-2007
+DEFINITION  Anguilla obscura mitochondrial gene for 12S ribosomal RNA, partial
+            sequence.
+ACCESSION   AB021898 REGION: 1
+VERSION     AB021898.1
+KEYWORDS    .
+SOURCE      mitochondrion Anguilla obscura (Pacific shortfinned eel)
+  ORGANISM  Anguilla obscura
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Anguilliformes;
+            Anguillidae; Anguilla.
+REFERENCE   1
+  AUTHORS   Aoyama,J.
+  TITLE     Molecular phylogeny and evolution of the freshwater eels, genus
+            Anguilla
+  JOURNAL   Thesis (1998) Ocean Research Institute, University of Tokyo
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Aoyama,J., Nishida,M. and Tsukamoto,K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (25-DEC-1998) Jun Aoyama, Ocean Research Institute,
+            University of Tokyo, Division of Fisheries Ecology; 1-15-1,
+            Minamidai, Nakano, Tokyo 164-8639, Japan
+            (E-mail:jaoyama@ori.u-tokyo.ac.jp, Tel:81-3-5351-6516,
+            Fax:81-3-5351-6514)
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Anguilla obscura"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:86964"
+                     /tissue_type="liver"
+                     /dev_stage="adult"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       AB021899                   1 bp    DNA     linear   VRT 14-JUL-2007
+DEFINITION  Anguilla dieffenbachii mitochondrial gene for 12S ribosomal RNA,
+            partial sequence.
+ACCESSION   AB021899 REGION: 1
+VERSION     AB021899.1
+KEYWORDS    .
+SOURCE      mitochondrion Anguilla dieffenbachii (New Zealand longfin eel)
+  ORGANISM  Anguilla dieffenbachii
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Anguilliformes;
+            Anguillidae; Anguilla.
+REFERENCE   1
+  AUTHORS   Aoyama,J.
+  TITLE     Molecular phylogeny and evolution of the freshwater eels, genus
+            Anguilla
+  JOURNAL   Thesis (1998) Ocean Research Institute, University of Tokyo
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Aoyama,J., Nishida,M. and Tsukamoto,K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (25-DEC-1998) Jun Aoyama, Ocean Research Institute,
+            University of Tokyo, Division of Fisheries Ecology; 1-15-1,
+            Minamidai, Nakano, Tokyo 164-8639, Japan
+            (E-mail:jaoyama@ori.u-tokyo.ac.jp, Tel:81-3-5351-6516,
+            Fax:81-3-5351-6514)
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Anguilla dieffenbachii"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:61127"
+                     /tissue_type="liver"
+                     /dev_stage="adult"
+                     /note="synonym: Anguilla dieffenbachi"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       AB021900                   1 bp    DNA     linear   VRT 14-JUL-2007
+DEFINITION  Anguilla reinhardtii mitochondrial gene for 12S ribosomal RNA,
+            partial sequence.
+ACCESSION   AB021900 REGION: 1
+VERSION     AB021900.1
+KEYWORDS    .
+SOURCE      mitochondrion Anguilla reinhardtii (speckled longfin eel)
+  ORGANISM  Anguilla reinhardtii
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Anguilliformes;
+            Anguillidae; Anguilla.
+REFERENCE   1
+  AUTHORS   Aoyama,J.
+  TITLE     Molecular phylogeny and evolution of the freshwater eels, genus
+            Anguilla
+  JOURNAL   Thesis (1998) Ocean Research Institute, University of Tokyo
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Aoyama,J., Nishida,M. and Tsukamoto,K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (25-DEC-1998) Jun Aoyama, Ocean Research Institute,
+            University of Tokyo, Division of Fisheries Ecology; 1-15-1,
+            Minamidai, Nakano, Tokyo 164-8639, Japan
+            (E-mail:jaoyama@ori.u-tokyo.ac.jp, Tel:81-3-5351-6516,
+            Fax:81-3-5351-6514)
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Anguilla reinhardtii"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:48165"
+                     /tissue_type="liver"
+                     /dev_stage="adult"
+                     /note="synonym: Anguilla reinhardti"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       AB021901                   1 bp    DNA     linear   VRT 14-JUL-2007
+DEFINITION  Anguilla rostrata mitochondrial gene for 12S ribosomal RNA, partial
+            sequence.
+ACCESSION   AB021901 REGION: 1
+VERSION     AB021901.1
+KEYWORDS    .
+SOURCE      mitochondrion Anguilla rostrata (American eel)
+  ORGANISM  Anguilla rostrata
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Anguilliformes;
+            Anguillidae; Anguilla.
+REFERENCE   1
+  AUTHORS   Aoyama,J.
+  TITLE     Molecular phylogeny and evolution of the freshwater eels, genus
+            Anguilla
+  JOURNAL   Thesis (1998) Ocean Research Institute, University of Tokyo
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Aoyama,J., Nishida,M. and Tsukamoto,K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (25-DEC-1998) Jun Aoyama, Ocean Research Institute,
+            University of Tokyo, Division of Fisheries Ecology; 1-15-1,
+            Minamidai, Nakano, Tokyo 164-8639, Japan
+            (E-mail:jaoyama@ori.u-tokyo.ac.jp, Tel:81-3-5351-6516,
+            Fax:81-3-5351-6514)
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Anguilla rostrata"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:7938"
+                     /tissue_type="liver"
+                     /dev_stage="adult"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       AB022893                   1 bp    DNA     linear   VRT 15-DEC-2007
+DEFINITION  Mugilogobius abei mitochondrial genes for 12S ribosomal RNA,
+            tRNA-Val, partial sequence.
+ACCESSION   AB022893 REGION: 1
+VERSION     AB022893.1
+KEYWORDS    .
+SOURCE      mitochondrion Mugilogobius abei (Abe's mangrove goby)
+  ORGANISM  Mugilogobius abei
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Gobiaria; Gobiiformes; Gobioidei; Gobiidae;
+            Gobionellinae; Mugilogobius.
+REFERENCE   1
+  AUTHORS   Mukai,T., Kajimura,M. and Iwata,K.
+  TITLE     Evolution of a Ureagenic Ability of Japanese Mugilogobius Species
+            (Pisces: Gobiidae)
+  JOURNAL   Zool. Sci. 17, 549-557 (2000)
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Mukai,T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-JAN-1999) Contact:Takahiko Mukai Faculty of Regional
+            Studies, Gifu University; Yanagido 1-1, Gifu, Gifu 501-1193, Japan
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Mugilogobius abei"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:88200"
+                     /tissue_type="Liver"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+                     /note="12S rRNA"
+ORIGIN      
+        1 a
+//
+
+LOCUS       AB022894                   1 bp    DNA     linear   VRT 15-DEC-2007
+DEFINITION  Mugilogobius sp. 1 mitochondrial genes for 12S ribosomal RNA,
+            tRNA-Val, partial sequence.
+ACCESSION   AB022894 REGION: 1
+VERSION     AB022894.1
+KEYWORDS    .
+SOURCE      mitochondrion Mugilogobius sp. 1
+  ORGANISM  Mugilogobius sp. 1
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Gobiaria; Gobiiformes; Gobioidei; Gobiidae;
+            Gobionellinae; Mugilogobius.
+REFERENCE   1
+  AUTHORS   Mukai,T., Kajimura,M. and Iwata,K.
+  TITLE     Evolution of a Ureagenic Ability of Japanese Mugilogobius Species
+            (Pisces: Gobiidae)
+  JOURNAL   Zool. Sci. 17, 549-557 (2000)
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Mukai,T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-JAN-1999) Contact:Takahiko Mukai Faculty of Regional
+            Studies, Gifu University; Yanagido 1-1, Gifu, Gifu 501-1193, Japan
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Mugilogobius sp. 1"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:88203"
+                     /tissue_type="Liver"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+                     /note="12S rRNA"
+ORIGIN      
+        1 a
+//
+
+LOCUS       AB022895                   1 bp    DNA     linear   VRT 15-DEC-2007
+DEFINITION  Mugilogobius sp. 2 mitochondrial genes for 12S ribosomal RNA,
+            tRNA-Val, partial sequence.
+ACCESSION   AB022895 REGION: 1
+VERSION     AB022895.1
+KEYWORDS    .
+SOURCE      mitochondrion Mugilogobius sp. 2
+  ORGANISM  Mugilogobius sp. 2
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Gobiaria; Gobiiformes; Gobioidei; Gobiidae;
+            Gobionellinae; Mugilogobius.
+REFERENCE   1
+  AUTHORS   Mukai,T., Kajimura,M. and Iwata,K.
+  TITLE     Evolution of a Ureagenic Ability of Japanese Mugilogobius Species
+            (Pisces: Gobiidae)
+  JOURNAL   Zool. Sci. 17, 549-557 (2000)
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Mukai,T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-JAN-1999) Contact:Takahiko Mukai Faculty of Regional
+            Studies, Gifu University; Yanagido 1-1, Gifu, Gifu 501-1193, Japan
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Mugilogobius sp. 2"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:88204"
+                     /tissue_type="Liver"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+                     /note="12S rRNA"
+ORIGIN      
+        1 a
+//
+
+LOCUS       AB022896                   1 bp    DNA     linear   VRT 15-DEC-2007
+DEFINITION  Mugilogobius chulae mitochondrial genes for 12S ribosomal RNA,
+            tRNA-Val, partial sequence.
+ACCESSION   AB022896 REGION: 1
+VERSION     AB022896.1
+KEYWORDS    .
+SOURCE      mitochondrion Mugilogobius chulae (yellowstripe goby)
+  ORGANISM  Mugilogobius chulae
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Gobiaria; Gobiiformes; Gobioidei; Gobiidae;
+            Gobionellinae; Mugilogobius.
+REFERENCE   1
+  AUTHORS   Mukai,T., Kajimura,M. and Iwata,K.
+  TITLE     Evolution of a Ureagenic Ability of Japanese Mugilogobius Species
+            (Pisces: Gobiidae)
+  JOURNAL   Zool. Sci. 17, 549-557 (2000)
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Mukai,T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-JAN-1999) Contact:Takahiko Mukai Faculty of Regional
+            Studies, Gifu University; Yanagido 1-1, Gifu, Gifu 501-1193, Japan
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Mugilogobius chulae"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:88201"
+                     /tissue_type="Liver"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+                     /note="12S rRNA"
+ORIGIN      
+        1 a
+//
+
+LOCUS       AB022897                   1 bp    DNA     linear   VRT 15-DEC-2007
+DEFINITION  Mugilogobius parvus mitochondrial genes for 12S ribosomal RNA,
+            tRNA-Val, partial sequence.
+ACCESSION   AB022897 REGION: 1
+VERSION     AB022897.1
+KEYWORDS    .
+SOURCE      mitochondrion Mugilogobius parvus (least mullet goby)
+  ORGANISM  Mugilogobius parvus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Gobiaria; Gobiiformes; Gobioidei; Gobiidae;
+            Gobionellinae; Mugilogobius.
+REFERENCE   1
+  AUTHORS   Mukai,T., Kajimura,M. and Iwata,K.
+  TITLE     Evolution of a Ureagenic Ability of Japanese Mugilogobius Species
+            (Pisces: Gobiidae)
+  JOURNAL   Zool. Sci. 17, 549-557 (2000)
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Mukai,T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-JAN-1999) Contact:Takahiko Mukai Faculty of Regional
+            Studies, Gifu University; Yanagido 1-1, Gifu, Gifu 501-1193, Japan
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Mugilogobius parvus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:88202"
+                     /tissue_type="Liver"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+                     /note="12S rRNA"
+ORIGIN      
+        1 a
+//
+
+LOCUS       AB038556                   1 bp    DNA     linear   VRT 25-JUL-2016
+DEFINITION  Anguilla japonica mitochondrial DNA, complete genome.
+ACCESSION   AB038556 REGION: 1
+VERSION     AB038556.2
+KEYWORDS    .
+SOURCE      mitochondrion Anguilla japonica (Japanese eel)
+  ORGANISM  Anguilla japonica
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Anguilliformes;
+            Anguillidae; Anguilla.
+REFERENCE   1
+  AUTHORS   Inoue,J., Miya,M., Aoyama,J., Ishikawa,S., Tsukamoto,K. and
+            Nishida,M.
+  TITLE     Complete mitochondrial DNA sequence of the Japanese eel Anguilla
+            japonica
+  JOURNAL   Fish Sci 67, 118-125 (2001)
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Inoue,J., Miya,M. and Nishida,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-FEB-2000) Contact:Jun Inoue Atmosphere and Ocean
+            Research Institute, The University of Tokyo; 5-1-5 Kashiwanoha,
+            Kashiwa, Chiba 277-8564, Japan
+COMMENT     On Jan 18, 2011 this sequence version replaced AB038556.1.
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Anguilla japonica"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="CBM-ZF 10301 (Natural History Museum &
+                     Institute, Chiba, Japan)"
+                     /db_xref="taxon:7937"
+     tRNA            >1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       AB188691                   1 bp    DNA     linear   VRT 10-JUL-2025
+DEFINITION  Oryzias celebensis mitochondrial gene for 12S rRNA, partial
+            sequence, country: Indonesia:Sulawesi, Ujung Pandang.
+ACCESSION   AB188691 REGION: 1
+VERSION     AB188691.1
+KEYWORDS    .
+SOURCE      mitochondrion Oryzias celebensis (Celebes medaka)
+  ORGANISM  Oryzias celebensis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Ovalentaria; Atherinomorphae; Beloniformes;
+            Adrianichthyidae; Oryziinae; Oryzias.
+REFERENCE   1
+  AUTHORS   Takehana,Y., Naruse,K. and Sakaizumi,M.
+  TITLE     Molecular phylogeny of the medaka fishes genus Oryzias
+            (Beloniformes: Adrianichthyidae) based on nuclear and mitochondrial
+            DNA sequences
+  JOURNAL   Mol Phylogenet Evol 36 (2), 417-428 (2005)
+   PUBMED   15955519
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Takehana,Y. and Sakaizumi,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-AUG-2004) Contact:Yusuke Takehana Niigata University,
+            Graduate School of Science and Technology; Ikarashi 8050, Niigata,
+            Niigata 950-2181, Japan
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oryzias celebensis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /strain="Laboratory stock"
+                     /db_xref="taxon:126373"
+                     /geo_loc_name="Indonesia:Sulawesi, Ujung Pandang"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       AB188692                   1 bp    DNA     linear   VRT 10-JUL-2025
+DEFINITION  Oryzias curvinotus mitochondrial gene for 12S rRNA, partial
+            sequence, country: Hong Kong:Sam A Tsuen, Plover Cove Country Park.
+ACCESSION   AB188692 REGION: 1
+VERSION     AB188692.1
+KEYWORDS    .
+SOURCE      mitochondrion Oryzias curvinotus
+  ORGANISM  Oryzias curvinotus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Ovalentaria; Atherinomorphae; Beloniformes;
+            Adrianichthyidae; Oryziinae; Oryzias.
+REFERENCE   1
+  AUTHORS   Takehana,Y., Naruse,K. and Sakaizumi,M.
+  TITLE     Molecular phylogeny of the medaka fishes genus Oryzias
+            (Beloniformes: Adrianichthyidae) based on nuclear and mitochondrial
+            DNA sequences
+  JOURNAL   Mol Phylogenet Evol 36 (2), 417-428 (2005)
+   PUBMED   15955519
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Takehana,Y. and Sakaizumi,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-AUG-2004) Contact:Yusuke Takehana Niigata University,
+            Graduate School of Science and Technology; Ikarashi 8050, Niigata,
+            Niigata 950-2181, Japan
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oryzias curvinotus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /strain="Laboratory stock"
+                     /db_xref="taxon:104658"
+                     /geo_loc_name="Hong Kong:Sam A Tsuen, Plover Cove Country
+                     Park"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       AB188693                   1 bp    DNA     linear   VRT 10-JUL-2025
+DEFINITION  Oryzias curvinotus mitochondrial gene for 12S rRNA, partial
+            sequence, country: Viet Nam:Caudien near Hanoi.
+ACCESSION   AB188693 REGION: 1
+VERSION     AB188693.1
+KEYWORDS    .
+SOURCE      mitochondrion Oryzias curvinotus
+  ORGANISM  Oryzias curvinotus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Ovalentaria; Atherinomorphae; Beloniformes;
+            Adrianichthyidae; Oryziinae; Oryzias.
+REFERENCE   1
+  AUTHORS   Takehana,Y., Naruse,K. and Sakaizumi,M.
+  TITLE     Molecular phylogeny of the medaka fishes genus Oryzias
+            (Beloniformes: Adrianichthyidae) based on nuclear and mitochondrial
+            DNA sequences
+  JOURNAL   Mol Phylogenet Evol 36 (2), 417-428 (2005)
+   PUBMED   15955519
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Takehana,Y. and Sakaizumi,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-AUG-2004) Contact:Yusuke Takehana Niigata University,
+            Graduate School of Science and Technology; Ikarashi 8050, Niigata,
+            Niigata 950-2181, Japan
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oryzias curvinotus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /strain="Laboratory stock"
+                     /db_xref="taxon:104658"
+                     /geo_loc_name="Viet Nam:Caudien near Hanoi"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       AB188694                   1 bp    DNA     linear   VRT 10-JUL-2025
+DEFINITION  Oryzias dancena mitochondrial gene for 12S rRNA, partial sequence,
+            country: India:Tamil Nadu, Chidambaram.
+ACCESSION   AB188694 REGION: 1
+VERSION     AB188694.1
+KEYWORDS    .
+SOURCE      mitochondrion Oryzias dancena
+  ORGANISM  Oryzias dancena
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Ovalentaria; Atherinomorphae; Beloniformes;
+            Adrianichthyidae; Oryziinae; Oryzias.
+REFERENCE   1
+  AUTHORS   Takehana,Y., Naruse,K. and Sakaizumi,M.
+  TITLE     Molecular phylogeny of the medaka fishes genus Oryzias
+            (Beloniformes: Adrianichthyidae) based on nuclear and mitochondrial
+            DNA sequences
+  JOURNAL   Mol Phylogenet Evol 36 (2), 417-428 (2005)
+   PUBMED   15955519
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Takehana,Y. and Sakaizumi,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-AUG-2004) Contact:Yusuke Takehana Niigata University,
+            Graduate School of Science and Technology; Ikarashi 8050, Niigata,
+            Niigata 950-2181, Japan
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oryzias dancena"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /strain="Laboratory stock"
+                     /db_xref="taxon:291360"
+                     /geo_loc_name="India:Tamil Nadu, Chidambaram"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       AB188695                   1 bp    DNA     linear   VRT 10-JUL-2025
+DEFINITION  Oryzias dancena mitochondrial gene for 12S rRNA, partial sequence,
+            country: Thailand:Phuket.
+ACCESSION   AB188695 REGION: 1
+VERSION     AB188695.1
+KEYWORDS    .
+SOURCE      mitochondrion Oryzias dancena
+  ORGANISM  Oryzias dancena
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Ovalentaria; Atherinomorphae; Beloniformes;
+            Adrianichthyidae; Oryziinae; Oryzias.
+REFERENCE   1
+  AUTHORS   Takehana,Y., Naruse,K. and Sakaizumi,M.
+  TITLE     Molecular phylogeny of the medaka fishes genus Oryzias
+            (Beloniformes: Adrianichthyidae) based on nuclear and mitochondrial
+            DNA sequences
+  JOURNAL   Mol Phylogenet Evol 36 (2), 417-428 (2005)
+   PUBMED   15955519
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Takehana,Y. and Sakaizumi,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-AUG-2004) Contact:Yusuke Takehana Niigata University,
+            Graduate School of Science and Technology; Ikarashi 8050, Niigata,
+            Niigata 950-2181, Japan
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oryzias dancena"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /strain="Laboratory stock"
+                     /db_xref="taxon:291360"
+                     /geo_loc_name="Thailand:Phuket"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       AB188696                   1 bp    DNA     linear   VRT 10-JUL-2025
+DEFINITION  Oryzias hubbsi mitochondrial gene for 12S rRNA, partial sequence,
+            country: Indonesia:Tangerang.
+ACCESSION   AB188696 REGION: 1
+VERSION     AB188696.1
+KEYWORDS    .
+SOURCE      mitochondrion Oryzias hubbsi
+  ORGANISM  Oryzias hubbsi
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Ovalentaria; Atherinomorphae; Beloniformes;
+            Adrianichthyidae; Oryziinae; Oryzias.
+REFERENCE   1
+  AUTHORS   Takehana,Y., Naruse,K. and Sakaizumi,M.
+  TITLE     Molecular phylogeny of the medaka fishes genus Oryzias
+            (Beloniformes: Adrianichthyidae) based on nuclear and mitochondrial
+            DNA sequences
+  JOURNAL   Mol Phylogenet Evol 36 (2), 417-428 (2005)
+   PUBMED   15955519
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Takehana,Y. and Sakaizumi,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-AUG-2004) Contact:Yusuke Takehana Niigata University,
+            Graduate School of Science and Technology; Ikarashi 8050, Niigata,
+            Niigata 950-2181, Japan
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oryzias hubbsi"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /strain="Laboratory stock"
+                     /db_xref="taxon:291361"
+                     /geo_loc_name="Indonesia:Tangerang"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       AB188697                   1 bp    DNA     linear   VRT 10-JUL-2025
+DEFINITION  Oryzias javanicus mitochondrial gene for 12S rRNA, partial
+            sequence, country: Malaysia:Penang.
+ACCESSION   AB188697 REGION: 1
+VERSION     AB188697.1
+KEYWORDS    .
+SOURCE      mitochondrion Oryzias javanicus (javanese ricefish)
+  ORGANISM  Oryzias javanicus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Ovalentaria; Atherinomorphae; Beloniformes;
+            Adrianichthyidae; Oryziinae; Oryzias.
+REFERENCE   1
+  AUTHORS   Takehana,Y., Naruse,K. and Sakaizumi,M.
+  TITLE     Molecular phylogeny of the medaka fishes genus Oryzias
+            (Beloniformes: Adrianichthyidae) based on nuclear and mitochondrial
+            DNA sequences
+  JOURNAL   Mol Phylogenet Evol 36 (2), 417-428 (2005)
+   PUBMED   15955519
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Takehana,Y. and Sakaizumi,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-AUG-2004) Contact:Yusuke Takehana Niigata University,
+            Graduate School of Science and Technology; Ikarashi 8050, Niigata,
+            Niigata 950-2181, Japan
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oryzias javanicus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /strain="Laboratory stock"
+                     /db_xref="taxon:123683"
+                     /geo_loc_name="Malaysia:Penang"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       AB188698                   1 bp    DNA     linear   VRT 10-JUL-2025
+DEFINITION  Oryzias javanicus mitochondrial gene for 12S rRNA, partial
+            sequence, country: Indonesia.
+ACCESSION   AB188698 REGION: 1
+VERSION     AB188698.1
+KEYWORDS    .
+SOURCE      mitochondrion Oryzias javanicus (javanese ricefish)
+  ORGANISM  Oryzias javanicus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Ovalentaria; Atherinomorphae; Beloniformes;
+            Adrianichthyidae; Oryziinae; Oryzias.
+REFERENCE   1
+  AUTHORS   Takehana,Y., Naruse,K. and Sakaizumi,M.
+  TITLE     Molecular phylogeny of the medaka fishes genus Oryzias
+            (Beloniformes: Adrianichthyidae) based on nuclear and mitochondrial
+            DNA sequences
+  JOURNAL   Mol Phylogenet Evol 36 (2), 417-428 (2005)
+   PUBMED   15955519
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Takehana,Y. and Sakaizumi,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-AUG-2004) Contact:Yusuke Takehana Niigata University,
+            Graduate School of Science and Technology; Ikarashi 8050, Niigata,
+            Niigata 950-2181, Japan
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oryzias javanicus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /strain="Laboratory stock"
+                     /isolation_source="Locality unknown (purchased from pet
+                     dealer)"
+                     /db_xref="taxon:123683"
+                     /geo_loc_name="Indonesia"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       AB188699                   1 bp    DNA     linear   VRT 16-JUN-2005
+DEFINITION  Oryzias latipes mitochondrial gene for 12S rRNA, partial sequence,
+            strain: HNI.
+ACCESSION   AB188699 REGION: 1
+VERSION     AB188699.1
+KEYWORDS    .
+SOURCE      mitochondrion Oryzias latipes (Japanese medaka)
+  ORGANISM  Oryzias latipes
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Ovalentaria; Atherinomorphae; Beloniformes;
+            Adrianichthyidae; Oryziinae; Oryzias.
+REFERENCE   1
+  AUTHORS   Takehana,Y., Naruse,K. and Sakaizumi,M.
+  TITLE     Molecular phylogeny of the medaka fishes genus Oryzias
+            (Beloniformes: Adrianichthyidae) based on nuclear and mitochondrial
+            DNA sequences
+  JOURNAL   Mol. Phylogenet. Evol. 36 (2), 417-428 (2005)
+   PUBMED   15955519
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Takehana,Y. and Sakaizumi,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-AUG-2004) Yusuke Takehana, Niigata University,
+            Graduate School of Science and Technology; Ikarashi 8050, Niigata,
+            Niigata 950-2181, Japan (E-mail:yusuke@env.sc.niigata-u.ac.jp,
+            Tel:81-25-262-6368, Fax:81-25-262-6368)
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oryzias latipes"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /strain="HNI"
+                     /db_xref="taxon:8090"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       AB188700                   1 bp    DNA     linear   VRT 16-JUN-2005
+DEFINITION  Oryzias latipes mitochondrial gene for 12S rRNA, partial sequence,
+            strain: Hd-rR.
+ACCESSION   AB188700 REGION: 1
+VERSION     AB188700.1
+KEYWORDS    .
+SOURCE      mitochondrion Oryzias latipes (Japanese medaka)
+  ORGANISM  Oryzias latipes
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Ovalentaria; Atherinomorphae; Beloniformes;
+            Adrianichthyidae; Oryziinae; Oryzias.
+REFERENCE   1
+  AUTHORS   Takehana,Y., Naruse,K. and Sakaizumi,M.
+  TITLE     Molecular phylogeny of the medaka fishes genus Oryzias
+            (Beloniformes: Adrianichthyidae) based on nuclear and mitochondrial
+            DNA sequences
+  JOURNAL   Mol. Phylogenet. Evol. 36 (2), 417-428 (2005)
+   PUBMED   15955519
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Takehana,Y. and Sakaizumi,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-AUG-2004) Yusuke Takehana, Niigata University,
+            Graduate School of Science and Technology; Ikarashi 8050, Niigata,
+            Niigata 950-2181, Japan (E-mail:yusuke@env.sc.niigata-u.ac.jp,
+            Tel:81-25-262-6368, Fax:81-25-262-6368)
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oryzias latipes"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /strain="Hd-rR"
+                     /db_xref="taxon:8090"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       AB188701                   1 bp    DNA     linear   VRT 10-JUL-2025
+DEFINITION  Oryzias latipes mitochondrial gene for 12S rRNA, partial sequence,
+            country: Japan:Tochigi, Mooka.
+ACCESSION   AB188701 REGION: 1
+VERSION     AB188701.1
+KEYWORDS    .
+SOURCE      mitochondrion Oryzias latipes (Japanese medaka)
+  ORGANISM  Oryzias latipes
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Ovalentaria; Atherinomorphae; Beloniformes;
+            Adrianichthyidae; Oryziinae; Oryzias.
+REFERENCE   1
+  AUTHORS   Takehana,Y., Naruse,K. and Sakaizumi,M.
+  TITLE     Molecular phylogeny of the medaka fishes genus Oryzias
+            (Beloniformes: Adrianichthyidae) based on nuclear and mitochondrial
+            DNA sequences
+  JOURNAL   Mol Phylogenet Evol 36 (2), 417-428 (2005)
+   PUBMED   15955519
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Takehana,Y. and Sakaizumi,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-AUG-2004) Contact:Yusuke Takehana Niigata University,
+            Graduate School of Science and Technology; Ikarashi 8050, Niigata,
+            Niigata 950-2181, Japan
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oryzias latipes"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8090"
+                     /geo_loc_name="Japan:Tochigi, Mooka"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       AB188702                   1 bp    DNA     linear   VRT 10-JUL-2025
+DEFINITION  Oryzias latipes mitochondrial gene for 12S rRNA, partial sequence,
+            country: South Korea:Sokcho, Gangweon.
+ACCESSION   AB188702 REGION: 1
+VERSION     AB188702.1
+KEYWORDS    .
+SOURCE      mitochondrion Oryzias latipes (Japanese medaka)
+  ORGANISM  Oryzias latipes
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Ovalentaria; Atherinomorphae; Beloniformes;
+            Adrianichthyidae; Oryziinae; Oryzias.
+REFERENCE   1
+  AUTHORS   Takehana,Y., Naruse,K. and Sakaizumi,M.
+  TITLE     Molecular phylogeny of the medaka fishes genus Oryzias
+            (Beloniformes: Adrianichthyidae) based on nuclear and mitochondrial
+            DNA sequences
+  JOURNAL   Mol Phylogenet Evol 36 (2), 417-428 (2005)
+   PUBMED   15955519
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Takehana,Y. and Sakaizumi,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-AUG-2004) Contact:Yusuke Takehana Niigata University,
+            Graduate School of Science and Technology; Ikarashi 8050, Niigata,
+            Niigata 950-2181, Japan
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oryzias latipes"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8090"
+                     /geo_loc_name="South Korea:Sokcho, Gangweon"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       AB188703                   1 bp    DNA     linear   VRT 10-JUL-2025
+DEFINITION  Oryzias latipes mitochondrial gene for 12S rRNA, partial sequence,
+            country: South Korea:Incheon, Ganghwa, Samsan.
+ACCESSION   AB188703 REGION: 1
+VERSION     AB188703.1
+KEYWORDS    .
+SOURCE      mitochondrion Oryzias latipes (Japanese medaka)
+  ORGANISM  Oryzias latipes
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Ovalentaria; Atherinomorphae; Beloniformes;
+            Adrianichthyidae; Oryziinae; Oryzias.
+REFERENCE   1
+  AUTHORS   Takehana,Y., Naruse,K. and Sakaizumi,M.
+  TITLE     Molecular phylogeny of the medaka fishes genus Oryzias
+            (Beloniformes: Adrianichthyidae) based on nuclear and mitochondrial
+            DNA sequences
+  JOURNAL   Mol Phylogenet Evol 36 (2), 417-428 (2005)
+   PUBMED   15955519
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Takehana,Y. and Sakaizumi,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-AUG-2004) Contact:Yusuke Takehana Niigata University,
+            Graduate School of Science and Technology; Ikarashi 8050, Niigata,
+            Niigata 950-2181, Japan
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oryzias latipes"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8090"
+                     /geo_loc_name="South Korea:Incheon, Ganghwa, Samsan"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       AB188704                   1 bp    DNA     linear   VRT 10-JUL-2025
+DEFINITION  Oryzias latipes mitochondrial gene for 12S rRNA, partial sequence,
+            country: China:Kunming.
+ACCESSION   AB188704 REGION: 1
+VERSION     AB188704.1
+KEYWORDS    .
+SOURCE      mitochondrion Oryzias latipes (Japanese medaka)
+  ORGANISM  Oryzias latipes
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Ovalentaria; Atherinomorphae; Beloniformes;
+            Adrianichthyidae; Oryziinae; Oryzias.
+REFERENCE   1
+  AUTHORS   Takehana,Y., Naruse,K. and Sakaizumi,M.
+  TITLE     Molecular phylogeny of the medaka fishes genus Oryzias
+            (Beloniformes: Adrianichthyidae) based on nuclear and mitochondrial
+            DNA sequences
+  JOURNAL   Mol Phylogenet Evol 36 (2), 417-428 (2005)
+   PUBMED   15955519
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Takehana,Y. and Sakaizumi,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-AUG-2004) Contact:Yusuke Takehana Niigata University,
+            Graduate School of Science and Technology; Ikarashi 8050, Niigata,
+            Niigata 950-2181, Japan
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oryzias latipes"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8090"
+                     /geo_loc_name="China:Kunming"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       AB188705                   1 bp    DNA     linear   VRT 10-JUL-2025
+DEFINITION  Oryzias luzonensis mitochondrial gene for 12S rRNA, partial
+            sequence, country: Philippines:Ilocos Norte, Solsona.
+ACCESSION   AB188705 REGION: 1
+VERSION     AB188705.1
+KEYWORDS    .
+SOURCE      mitochondrion Oryzias luzonensis
+  ORGANISM  Oryzias luzonensis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Ovalentaria; Atherinomorphae; Beloniformes;
+            Adrianichthyidae; Oryziinae; Oryzias.
+REFERENCE   1
+  AUTHORS   Takehana,Y., Naruse,K. and Sakaizumi,M.
+  TITLE     Molecular phylogeny of the medaka fishes genus Oryzias
+            (Beloniformes: Adrianichthyidae) based on nuclear and mitochondrial
+            DNA sequences
+  JOURNAL   Mol Phylogenet Evol 36 (2), 417-428 (2005)
+   PUBMED   15955519
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Takehana,Y. and Sakaizumi,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-AUG-2004) Contact:Yusuke Takehana Niigata University,
+            Graduate School of Science and Technology; Ikarashi 8050, Niigata,
+            Niigata 950-2181, Japan
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oryzias luzonensis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /strain="Laboratory stock"
+                     /db_xref="taxon:104659"
+                     /geo_loc_name="Philippines:Ilocos Norte, Solsona"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       AB188706                   1 bp    DNA     linear   VRT 10-JUL-2025
+DEFINITION  Oryzias marmoratus mitochondrial gene for 12S rRNA, partial
+            sequence, country: Indonesia:Sulawesi, Timampu, Lake Towuti.
+ACCESSION   AB188706 REGION: 1
+VERSION     AB188706.1
+KEYWORDS    .
+SOURCE      mitochondrion Oryzias marmoratus (marmorated medaka)
+  ORGANISM  Oryzias marmoratus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Ovalentaria; Atherinomorphae; Beloniformes;
+            Adrianichthyidae; Oryziinae; Oryzias.
+REFERENCE   1
+  AUTHORS   Takehana,Y., Naruse,K. and Sakaizumi,M.
+  TITLE     Molecular phylogeny of the medaka fishes genus Oryzias
+            (Beloniformes: Adrianichthyidae) based on nuclear and mitochondrial
+            DNA sequences
+  JOURNAL   Mol Phylogenet Evol 36 (2), 417-428 (2005)
+   PUBMED   15955519
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Takehana,Y. and Sakaizumi,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-AUG-2004) Contact:Yusuke Takehana Niigata University,
+            Graduate School of Science and Technology; Ikarashi 8050, Niigata,
+            Niigata 950-2181, Japan
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oryzias marmoratus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /strain="Laboratory stock"
+                     /db_xref="taxon:126374"
+                     /geo_loc_name="Indonesia:Sulawesi, Timampu, Lake Towuti"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       AB188708                   1 bp    DNA     linear   VRT 10-JUL-2025
+DEFINITION  Oryzias mekongensis mitochondrial gene for 12S rRNA, partial
+            sequence, country: Thailand:Yang Talat.
+ACCESSION   AB188708 REGION: 1
+VERSION     AB188708.1
+KEYWORDS    .
+SOURCE      mitochondrion Oryzias mekongensis
+  ORGANISM  Oryzias mekongensis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Ovalentaria; Atherinomorphae; Beloniformes;
+            Adrianichthyidae; Oryziinae; Oryzias.
+REFERENCE   1
+  AUTHORS   Takehana,Y., Naruse,K. and Sakaizumi,M.
+  TITLE     Molecular phylogeny of the medaka fishes genus Oryzias
+            (Beloniformes: Adrianichthyidae) based on nuclear and mitochondrial
+            DNA sequences
+  JOURNAL   Mol Phylogenet Evol 36 (2), 417-428 (2005)
+   PUBMED   15955519
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Takehana,Y. and Sakaizumi,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-AUG-2004) Contact:Yusuke Takehana Niigata University,
+            Graduate School of Science and Technology; Ikarashi 8050, Niigata,
+            Niigata 950-2181, Japan
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oryzias mekongensis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /strain="Laboratory stock"
+                     /db_xref="taxon:126375"
+                     /geo_loc_name="Thailand:Yang Talat"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       AB188709                   1 bp    DNA     linear   VRT 10-JUL-2025
+DEFINITION  Oryzias mekongensis mitochondrial gene for 12S rRNA, partial
+            sequence, country: Thailand:Nakhon Phanom.
+ACCESSION   AB188709 REGION: 1
+VERSION     AB188709.1
+KEYWORDS    .
+SOURCE      mitochondrion Oryzias mekongensis
+  ORGANISM  Oryzias mekongensis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Ovalentaria; Atherinomorphae; Beloniformes;
+            Adrianichthyidae; Oryziinae; Oryzias.
+REFERENCE   1
+  AUTHORS   Takehana,Y., Naruse,K. and Sakaizumi,M.
+  TITLE     Molecular phylogeny of the medaka fishes genus Oryzias
+            (Beloniformes: Adrianichthyidae) based on nuclear and mitochondrial
+            DNA sequences
+  JOURNAL   Mol Phylogenet Evol 36 (2), 417-428 (2005)
+   PUBMED   15955519
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Takehana,Y. and Sakaizumi,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-AUG-2004) Contact:Yusuke Takehana Niigata University,
+            Graduate School of Science and Technology; Ikarashi 8050, Niigata,
+            Niigata 950-2181, Japan
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oryzias mekongensis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /strain="Laboratory stock"
+                     /db_xref="taxon:126375"
+                     /geo_loc_name="Thailand:Nakhon Phanom"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       AB188710                   1 bp    DNA     linear   VRT 10-JUL-2025
+DEFINITION  Oryzias minutillus mitochondrial gene for 12S rRNA, partial
+            sequence, country: Thailand:Bangkok.
+ACCESSION   AB188710 REGION: 1
+VERSION     AB188710.1
+KEYWORDS    .
+SOURCE      mitochondrion Oryzias minutillus (dwarf medaka)
+  ORGANISM  Oryzias minutillus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Ovalentaria; Atherinomorphae; Beloniformes;
+            Adrianichthyidae; Oryziinae; Oryzias.
+REFERENCE   1
+  AUTHORS   Takehana,Y., Naruse,K. and Sakaizumi,M.
+  TITLE     Molecular phylogeny of the medaka fishes genus Oryzias
+            (Beloniformes: Adrianichthyidae) based on nuclear and mitochondrial
+            DNA sequences
+  JOURNAL   Mol Phylogenet Evol 36 (2), 417-428 (2005)
+   PUBMED   15955519
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Takehana,Y. and Sakaizumi,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-AUG-2004) Contact:Yusuke Takehana Niigata University,
+            Graduate School of Science and Technology; Ikarashi 8050, Niigata,
+            Niigata 950-2181, Japan
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oryzias minutillus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /strain="Laboratory stock"
+                     /db_xref="taxon:123685"
+                     /geo_loc_name="Thailand:Bangkok"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       AB188711                   1 bp    DNA     linear   VRT 10-JUL-2025
+DEFINITION  Oryzias minutillus mitochondrial gene for 12S rRNA, partial
+            sequence, country: Thailand:Chiang Mai.
+ACCESSION   AB188711 REGION: 1
+VERSION     AB188711.1
+KEYWORDS    .
+SOURCE      mitochondrion Oryzias minutillus (dwarf medaka)
+  ORGANISM  Oryzias minutillus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Ovalentaria; Atherinomorphae; Beloniformes;
+            Adrianichthyidae; Oryziinae; Oryzias.
+REFERENCE   1
+  AUTHORS   Takehana,Y., Naruse,K. and Sakaizumi,M.
+  TITLE     Molecular phylogeny of the medaka fishes genus Oryzias
+            (Beloniformes: Adrianichthyidae) based on nuclear and mitochondrial
+            DNA sequences
+  JOURNAL   Mol Phylogenet Evol 36 (2), 417-428 (2005)
+   PUBMED   15955519
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Takehana,Y. and Sakaizumi,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-AUG-2004) Contact:Yusuke Takehana Niigata University,
+            Graduate School of Science and Technology; Ikarashi 8050, Niigata,
+            Niigata 950-2181, Japan
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oryzias minutillus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /strain="Laboratory stock"
+                     /db_xref="taxon:123685"
+                     /geo_loc_name="Thailand:Chiang Mai"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       AB188712                   1 bp    DNA     linear   VRT 10-JUL-2025
+DEFINITION  Oryzias nigrimas mitochondrial gene for 12S rRNA, partial sequence,
+            country: Indonesia:Sulawesi, Tentena, Lake Poso.
+ACCESSION   AB188712 REGION: 1
+VERSION     AB188712.1
+KEYWORDS    .
+SOURCE      mitochondrion Oryzias nigrimas (black buntingi)
+  ORGANISM  Oryzias nigrimas
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Ovalentaria; Atherinomorphae; Beloniformes;
+            Adrianichthyidae; Oryziinae; Oryzias.
+REFERENCE   1
+  AUTHORS   Takehana,Y., Naruse,K. and Sakaizumi,M.
+  TITLE     Molecular phylogeny of the medaka fishes genus Oryzias
+            (Beloniformes: Adrianichthyidae) based on nuclear and mitochondrial
+            DNA sequences
+  JOURNAL   Mol Phylogenet Evol 36 (2), 417-428 (2005)
+   PUBMED   15955519
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Takehana,Y. and Sakaizumi,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-AUG-2004) Contact:Yusuke Takehana Niigata University,
+            Graduate School of Science and Technology; Ikarashi 8050, Niigata,
+            Niigata 950-2181, Japan
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oryzias nigrimas"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /strain="Laboratory stock"
+                     /db_xref="taxon:123684"
+                     /geo_loc_name="Indonesia:Sulawesi, Tentena, Lake Poso"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       AB188715                   1 bp    DNA     linear   VRT 10-JUL-2025
+DEFINITION  Oryzias sarasinorum mitochondrial gene for 12S rRNA, partial
+            sequence, country: Indonesia:Sulawesi, Lake Lindu.
+ACCESSION   AB188715 REGION: 1
+VERSION     AB188715.1
+KEYWORDS    .
+SOURCE      mitochondrion Oryzias sarasinorum
+  ORGANISM  Oryzias sarasinorum
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Ovalentaria; Atherinomorphae; Beloniformes;
+            Adrianichthyidae; Oryziinae; Oryzias.
+REFERENCE   1
+  AUTHORS   Takehana,Y., Naruse,K. and Sakaizumi,M.
+  TITLE     Molecular phylogeny of the medaka fishes genus Oryzias
+            (Beloniformes: Adrianichthyidae) based on nuclear and mitochondrial
+            DNA sequences
+  JOURNAL   Mol Phylogenet Evol 36 (2), 417-428 (2005)
+   PUBMED   15955519
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Takehana,Y. and Sakaizumi,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-AUG-2004) Contact:Yusuke Takehana Niigata University,
+            Graduate School of Science and Technology; Ikarashi 8050, Niigata,
+            Niigata 950-2181, Japan
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oryzias sarasinorum"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /strain="Laboratory stock"
+                     /db_xref="taxon:1231042"
+                     /geo_loc_name="Indonesia:Sulawesi, Lake Lindu"
+                     /note="synonym: Xenopoecilus sarasinorum"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       AB370891                   1 bp    DNA     linear   VRT 12-NOV-2012
+DEFINITION  Oryzias sarasinorum mitochondrial DNA, complete genome.
+ACCESSION   AB370891 REGION: 1
+VERSION     AB370891.1
+KEYWORDS    .
+SOURCE      mitochondrion Oryzias sarasinorum
+  ORGANISM  Oryzias sarasinorum
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Ovalentaria; Atherinomorphae; Beloniformes;
+            Adrianichthyidae; Oryziinae; Oryzias.
+REFERENCE   1
+  AUTHORS   Setiamarga,D.H., Miya,M., Yamanoue,Y., Mabuchi,K., Satoh,T.P.,
+            Inoue,J.G. and Nishida,M.
+  TITLE     Interrelationships of Atherinomorpha (medakas, flyingfishes,
+            killifishes, silversides, and their relatives): The first evidence
+            based on whole mitogenome sequences
+  JOURNAL   Mol. Phylogenet. Evol. 49 (2), 598-605 (2008)
+   PUBMED   18771739
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Setiamarga,D.H., Miya,M., Yamanoue,Y., Satoh,T.P., Inoue,J.G.,
+            Mabuchi,K. and Nishida,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-DEC-2007) Contact:Davin H E Setiamarga Ocean Research
+            Institute of The University of Tokyo, Division of Marine Molecular
+            Biology; 1-15-1 Minami-dai, Nakano-ku, Tokyo, Tokyo 164-8639, Japan
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oryzias sarasinorum"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:1231042"
+                     /note="synonym: Xenopoecilus sarasinorum"
+     tRNA            >1
+                     /product="tRNA-OTHER"
+                     /note="codon recognized: UUC"
+                     /anticodon=(pos:31..33,aa:OTHER,seq:gaa)
+ORIGIN      
+        1 g
+//
+
+LOCUS       AB469437                   1 bp    DNA     linear   VRT 26-JUL-2016
+DEFINITION  Anguilla luzonensis mitochondrial DNA, complete genome.
+ACCESSION   AB469437 REGION: 1
+VERSION     AB469437.1
+KEYWORDS    .
+SOURCE      mitochondrion Anguilla luzonensis
+  ORGANISM  Anguilla luzonensis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Anguilliformes;
+            Anguillidae; Anguilla.
+REFERENCE   1
+  AUTHORS   Watanabe,S., Aoyama,J. and Tsukamoto,K.
+  TITLE     A new species of freshwater eel Anguilla luzonensis (Teleostei:
+            Anguillidae) from Luzon Island of the Philippines
+  JOURNAL   Fish Sci 75, 387-392 (2009)
+REFERENCE   2
+  AUTHORS   Minegishi,Y., Aoyama,J., Inoue,J.G. and Tsukamoto,K.
+  TITLE     Interspecific/subspecific genetic divergences of the freshwater
+            eels, genus Anguilla
+  JOURNAL   Unpublished
+REFERENCE   3  (bases 1 to 1)
+  AUTHORS   Minegishi,Y., Aoyama,J., Watanabe,S. and Tsukamoto,K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-NOV-2008) Contact:Jun Aoyama University of Tokyo,
+            Ocean Research Institute; 1-15-1 Minamidai, Nakano, Tokyo 164-0013,
+            Japan E-mail :jaoyama@ori.u-tokyo.ac.jp
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Anguilla luzonensis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:573744"
+                     /geo_loc_name="Philippines:Luzon, Kagayan River System"
+                     /lat_lon="17.61 N 121.76 E"
+                     /collection_date="08-Feb-2008"
+                     /collected_by="Jun Aoyama"
+                     /identified_by="Shun Watanabe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       AB498064                   1 bp    DNA     linear   VRT 13-SEP-2013
+DEFINITION  Oryzias luzonensis mitochondrial DNA, complete genome.
+ACCESSION   AB498064 REGION: 1
+VERSION     AB498064.1
+KEYWORDS    .
+SOURCE      mitochondrion Oryzias luzonensis
+  ORGANISM  Oryzias luzonensis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Ovalentaria; Atherinomorphae; Beloniformes;
+            Adrianichthyidae; Oryziinae; Oryzias.
+REFERENCE   1
+  AUTHORS   Setiamarga,D.H., Miya,M., Yamanoue,Y., Azuma,Y., Inoue,J.G.,
+            Ishiguro,N.B., Mabuchi,K. and Nishida,M.
+  TITLE     Divergence time of the two regional medaka populations in Japan as
+            a new time scale for comparative genomics of vertebrates
+  JOURNAL   Biol. Lett. 5 (6), 812-816 (2009)
+   PUBMED   19586967
+  REMARK    DOI:10.1098/rsbl.2009.0419
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Setiamarga,D.H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-APR-2009) Contact:Davin He Setiamarga Ocean Research
+            Institute, The University of Tokyo, Marine Molecular Biology;
+            1-15-1 Minamidai, Nakano-ku, Tokyo 164-8639, Japan
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oryzias luzonensis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:104659"
+     tRNA            >1
+                     /product="tRNA-Phe"
+                     /anticodon=(pos:31..33,aa:Phe,seq:gaa)
+ORIGIN      
+        1 g
+//
+
+LOCUS       AB498065                   1 bp    DNA     linear   VRT 13-SEP-2013
+DEFINITION  Oryzias latipes mitochondrial DNA, nearly complete genome, strain:
+            Hd-rR.
+ACCESSION   AB498065 REGION: 1
+VERSION     AB498065.1
+KEYWORDS    .
+SOURCE      mitochondrion Oryzias latipes (Japanese medaka)
+  ORGANISM  Oryzias latipes
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Ovalentaria; Atherinomorphae; Beloniformes;
+            Adrianichthyidae; Oryziinae; Oryzias.
+REFERENCE   1
+  AUTHORS   Setiamarga,D.H., Miya,M., Yamanoue,Y., Azuma,Y., Inoue,J.G.,
+            Ishiguro,N.B., Mabuchi,K. and Nishida,M.
+  TITLE     Divergence time of the two regional medaka populations in Japan as
+            a new time scale for comparative genomics of vertebrates
+  JOURNAL   Biol. Lett. 5 (6), 812-816 (2009)
+   PUBMED   19586967
+  REMARK    DOI:10.1098/rsbl.2009.0419
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Setiamarga,D.H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-APR-2009) Contact:Davin He Setiamarga Ocean Research
+            Institute, The University of Tokyo, Marine Molecular Biology;
+            1-15-1 Minamidai, Nakano-ku, Tokyo 164-8639, Japan
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oryzias latipes"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /strain="Hd-rR"
+                     /db_xref="taxon:8090"
+     tRNA            >1
+                     /product="tRNA-Phe"
+                     /anticodon=(pos:31..33,aa:Phe,seq:gaa)
+ORIGIN      
+        1 g
+//
+
+LOCUS       AB498066                   1 bp    DNA     linear   VRT 13-SEP-2013
+DEFINITION  Oryzias latipes mitochondrial DNA, nearly complete genome, strain:
+            HNI.
+ACCESSION   AB498066 REGION: 1
+VERSION     AB498066.1
+KEYWORDS    .
+SOURCE      mitochondrion Oryzias latipes (Japanese medaka)
+  ORGANISM  Oryzias latipes
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Ovalentaria; Atherinomorphae; Beloniformes;
+            Adrianichthyidae; Oryziinae; Oryzias.
+REFERENCE   1
+  AUTHORS   Setiamarga,D.H., Miya,M., Yamanoue,Y., Azuma,Y., Inoue,J.G.,
+            Ishiguro,N.B., Mabuchi,K. and Nishida,M.
+  TITLE     Divergence time of the two regional medaka populations in Japan as
+            a new time scale for comparative genomics of vertebrates
+  JOURNAL   Biol. Lett. 5 (6), 812-816 (2009)
+   PUBMED   19586967
+  REMARK    DOI:10.1098/rsbl.2009.0419
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Setiamarga,D.H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-APR-2009) Contact:Davin He Setiamarga Ocean Research
+            Institute, The University of Tokyo, Marine Molecular Biology;
+            1-15-1 Minamidai, Nakano-ku, Tokyo 164-8639, Japan
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oryzias latipes"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /strain="HNI"
+                     /db_xref="taxon:8090"
+     tRNA            >1
+                     /product="tRNA-Phe"
+                     /anticodon=(pos:31..33,aa:Phe,seq:gaa)
+ORIGIN      
+        1 g
+//
+
+LOCUS       AB498067                   1 bp    DNA     linear   VRT 13-SEP-2013
+DEFINITION  Oryzias javanicus mitochondrial DNA, complete genome.
+ACCESSION   AB498067 REGION: 1
+VERSION     AB498067.1
+KEYWORDS    .
+SOURCE      mitochondrion Oryzias javanicus (javanese ricefish)
+  ORGANISM  Oryzias javanicus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Ovalentaria; Atherinomorphae; Beloniformes;
+            Adrianichthyidae; Oryziinae; Oryzias.
+REFERENCE   1
+  AUTHORS   Setiamarga,D.H., Miya,M., Yamanoue,Y., Azuma,Y., Inoue,J.G.,
+            Ishiguro,N.B., Mabuchi,K. and Nishida,M.
+  TITLE     Divergence time of the two regional medaka populations in Japan as
+            a new time scale for comparative genomics of vertebrates
+  JOURNAL   Biol. Lett. 5 (6), 812-816 (2009)
+   PUBMED   19586967
+  REMARK    DOI:10.1098/rsbl.2009.0419
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Setiamarga,D.H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-APR-2009) Contact:Davin He Setiamarga Ocean Research
+            Institute, The University of Tokyo, Marine Molecular Biology;
+            1-15-1 Minamidai, Nakano-ku, Tokyo 164-8639, Japan
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oryzias javanicus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:123683"
+     tRNA            >1
+                     /product="tRNA-Phe"
+                     /anticodon=(pos:31..33,aa:Phe,seq:gaa)
+ORIGIN      
+        1 g
+//
+
+LOCUS       AB498068                   1 bp    DNA     linear   VRT 13-SEP-2013
+DEFINITION  Oryzias minutillus mitochondrial DNA, complete genome.
+ACCESSION   AB498068 REGION: 1
+VERSION     AB498068.1
+KEYWORDS    .
+SOURCE      mitochondrion Oryzias minutillus (dwarf medaka)
+  ORGANISM  Oryzias minutillus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Ovalentaria; Atherinomorphae; Beloniformes;
+            Adrianichthyidae; Oryziinae; Oryzias.
+REFERENCE   1
+  AUTHORS   Setiamarga,D.H., Miya,M., Yamanoue,Y., Azuma,Y., Inoue,J.G.,
+            Ishiguro,N.B., Mabuchi,K. and Nishida,M.
+  TITLE     Divergence time of the two regional medaka populations in Japan as
+            a new time scale for comparative genomics of vertebrates
+  JOURNAL   Biol. Lett. 5 (6), 812-816 (2009)
+   PUBMED   19586967
+  REMARK    DOI:10.1098/rsbl.2009.0419
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Setiamarga,D.H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-APR-2009) Contact:Davin He Setiamarga Ocean Research
+            Institute, The University of Tokyo, Marine Molecular Biology;
+            1-15-1 Minamidai, Nakano-ku, Tokyo 164-8639, Japan
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oryzias minutillus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:123685"
+     tRNA            >1
+                     /product="tRNA-Phe"
+                     /anticodon=(pos:31..33,aa:Phe,seq:gaa)
+ORIGIN      
+        1 g
+//
+

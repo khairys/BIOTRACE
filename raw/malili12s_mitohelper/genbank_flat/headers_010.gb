@@ -1,0 +1,2005 @@
+LOCUS       OM801588                   1 bp    DNA     linear   VRT 28-FEB-2022
+DEFINITION  Cyprinus carpio isolate carp1 small subunit ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   OM801588 REGION: 1
+VERSION     OM801588.1
+KEYWORDS    .
+SOURCE      mitochondrion Cyprinus carpio (common carp)
+  ORGANISM  Cyprinus carpio
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Cyprinidae; Cyprininae; Cyprinus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Toth,B., Ashrafzadeh,M.R., Khosravi,R., Bagi,Z., Feher,M.,
+            Barsony,P., Kovacs,G. and Kusza,S.
+  TITLE     Insights into mitochondrial DNA variation of common carp Cyprinus
+            carpio strains in the Centre of Carpathian Basin
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Toth,B., Ashrafzadeh,M.R., Khosravi,R., Bagi,Z., Feher,M.,
+            Barsony,P., Kovacs,G. and Kusza,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-FEB-2022) Centre for Agricultural Genomics and
+            Biotechnology, University of Debrecen, Egyetem ter 1., Debrecen
+            4032, Hungary
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Cyprinus carpio"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="carp1"
+                     /db_xref="taxon:7962"
+                     /geo_loc_name="Hungary"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       OM801589                   1 bp    DNA     linear   VRT 28-FEB-2022
+DEFINITION  Cyprinus carpio isolate carp2 small subunit ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   OM801589 REGION: 1
+VERSION     OM801589.1
+KEYWORDS    .
+SOURCE      mitochondrion Cyprinus carpio (common carp)
+  ORGANISM  Cyprinus carpio
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Cyprinidae; Cyprininae; Cyprinus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Toth,B., Ashrafzadeh,M.R., Khosravi,R., Bagi,Z., Feher,M.,
+            Barsony,P., Kovacs,G. and Kusza,S.
+  TITLE     Insights into mitochondrial DNA variation of common carp Cyprinus
+            carpio strains in the Centre of Carpathian Basin
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Toth,B., Ashrafzadeh,M.R., Khosravi,R., Bagi,Z., Feher,M.,
+            Barsony,P., Kovacs,G. and Kusza,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-FEB-2022) Centre for Agricultural Genomics and
+            Biotechnology, University of Debrecen, Egyetem ter 1., Debrecen
+            4032, Hungary
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Cyprinus carpio"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="carp2"
+                     /db_xref="taxon:7962"
+                     /geo_loc_name="Hungary"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       OM801590                   1 bp    DNA     linear   VRT 28-FEB-2022
+DEFINITION  Cyprinus carpio isolate carp3 small subunit ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   OM801590 REGION: 1
+VERSION     OM801590.1
+KEYWORDS    .
+SOURCE      mitochondrion Cyprinus carpio (common carp)
+  ORGANISM  Cyprinus carpio
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Cyprinidae; Cyprininae; Cyprinus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Toth,B., Ashrafzadeh,M.R., Khosravi,R., Bagi,Z., Feher,M.,
+            Barsony,P., Kovacs,G. and Kusza,S.
+  TITLE     Insights into mitochondrial DNA variation of common carp Cyprinus
+            carpio strains in the Centre of Carpathian Basin
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Toth,B., Ashrafzadeh,M.R., Khosravi,R., Bagi,Z., Feher,M.,
+            Barsony,P., Kovacs,G. and Kusza,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-FEB-2022) Centre for Agricultural Genomics and
+            Biotechnology, University of Debrecen, Egyetem ter 1., Debrecen
+            4032, Hungary
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Cyprinus carpio"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="carp3"
+                     /db_xref="taxon:7962"
+                     /geo_loc_name="Hungary"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       OM801591                   1 bp    DNA     linear   VRT 28-FEB-2022
+DEFINITION  Cyprinus carpio isolate carp4 small subunit ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   OM801591 REGION: 1
+VERSION     OM801591.1
+KEYWORDS    .
+SOURCE      mitochondrion Cyprinus carpio (common carp)
+  ORGANISM  Cyprinus carpio
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Cyprinidae; Cyprininae; Cyprinus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Toth,B., Ashrafzadeh,M.R., Khosravi,R., Bagi,Z., Feher,M.,
+            Barsony,P., Kovacs,G. and Kusza,S.
+  TITLE     Insights into mitochondrial DNA variation of common carp Cyprinus
+            carpio strains in the Centre of Carpathian Basin
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Toth,B., Ashrafzadeh,M.R., Khosravi,R., Bagi,Z., Feher,M.,
+            Barsony,P., Kovacs,G. and Kusza,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-FEB-2022) Centre for Agricultural Genomics and
+            Biotechnology, University of Debrecen, Egyetem ter 1., Debrecen
+            4032, Hungary
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Cyprinus carpio"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="carp4"
+                     /db_xref="taxon:7962"
+                     /geo_loc_name="Hungary"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       OM801592                   1 bp    DNA     linear   VRT 28-FEB-2022
+DEFINITION  Cyprinus carpio isolate carp5 small subunit ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   OM801592 REGION: 1
+VERSION     OM801592.1
+KEYWORDS    .
+SOURCE      mitochondrion Cyprinus carpio (common carp)
+  ORGANISM  Cyprinus carpio
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Cyprinidae; Cyprininae; Cyprinus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Toth,B., Ashrafzadeh,M.R., Khosravi,R., Bagi,Z., Feher,M.,
+            Barsony,P., Kovacs,G. and Kusza,S.
+  TITLE     Insights into mitochondrial DNA variation of common carp Cyprinus
+            carpio strains in the Centre of Carpathian Basin
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Toth,B., Ashrafzadeh,M.R., Khosravi,R., Bagi,Z., Feher,M.,
+            Barsony,P., Kovacs,G. and Kusza,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-FEB-2022) Centre for Agricultural Genomics and
+            Biotechnology, University of Debrecen, Egyetem ter 1., Debrecen
+            4032, Hungary
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Cyprinus carpio"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="carp5"
+                     /db_xref="taxon:7962"
+                     /geo_loc_name="Hungary"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       OM801593                   1 bp    DNA     linear   VRT 28-FEB-2022
+DEFINITION  Cyprinus carpio isolate carp6 small subunit ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   OM801593 REGION: 1
+VERSION     OM801593.1
+KEYWORDS    .
+SOURCE      mitochondrion Cyprinus carpio (common carp)
+  ORGANISM  Cyprinus carpio
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Cyprinidae; Cyprininae; Cyprinus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Toth,B., Ashrafzadeh,M.R., Khosravi,R., Bagi,Z., Feher,M.,
+            Barsony,P., Kovacs,G. and Kusza,S.
+  TITLE     Insights into mitochondrial DNA variation of common carp Cyprinus
+            carpio strains in the Centre of Carpathian Basin
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Toth,B., Ashrafzadeh,M.R., Khosravi,R., Bagi,Z., Feher,M.,
+            Barsony,P., Kovacs,G. and Kusza,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-FEB-2022) Centre for Agricultural Genomics and
+            Biotechnology, University of Debrecen, Egyetem ter 1., Debrecen
+            4032, Hungary
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Cyprinus carpio"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="carp6"
+                     /db_xref="taxon:7962"
+                     /geo_loc_name="Hungary"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       OM801594                   1 bp    DNA     linear   VRT 28-FEB-2022
+DEFINITION  Cyprinus carpio isolate carp7 small subunit ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   OM801594 REGION: 1
+VERSION     OM801594.1
+KEYWORDS    .
+SOURCE      mitochondrion Cyprinus carpio (common carp)
+  ORGANISM  Cyprinus carpio
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Cyprinidae; Cyprininae; Cyprinus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Toth,B., Ashrafzadeh,M.R., Khosravi,R., Bagi,Z., Feher,M.,
+            Barsony,P., Kovacs,G. and Kusza,S.
+  TITLE     Insights into mitochondrial DNA variation of common carp Cyprinus
+            carpio strains in the Centre of Carpathian Basin
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Toth,B., Ashrafzadeh,M.R., Khosravi,R., Bagi,Z., Feher,M.,
+            Barsony,P., Kovacs,G. and Kusza,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-FEB-2022) Centre for Agricultural Genomics and
+            Biotechnology, University of Debrecen, Egyetem ter 1., Debrecen
+            4032, Hungary
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Cyprinus carpio"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="carp7"
+                     /db_xref="taxon:7962"
+                     /geo_loc_name="Hungary"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       OM801595                   1 bp    DNA     linear   VRT 28-FEB-2022
+DEFINITION  Cyprinus carpio isolate carp8 small subunit ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   OM801595 REGION: 1
+VERSION     OM801595.1
+KEYWORDS    .
+SOURCE      mitochondrion Cyprinus carpio (common carp)
+  ORGANISM  Cyprinus carpio
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Cyprinidae; Cyprininae; Cyprinus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Toth,B., Ashrafzadeh,M.R., Khosravi,R., Bagi,Z., Feher,M.,
+            Barsony,P., Kovacs,G. and Kusza,S.
+  TITLE     Insights into mitochondrial DNA variation of common carp Cyprinus
+            carpio strains in the Centre of Carpathian Basin
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Toth,B., Ashrafzadeh,M.R., Khosravi,R., Bagi,Z., Feher,M.,
+            Barsony,P., Kovacs,G. and Kusza,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-FEB-2022) Centre for Agricultural Genomics and
+            Biotechnology, University of Debrecen, Egyetem ter 1., Debrecen
+            4032, Hungary
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Cyprinus carpio"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="carp8"
+                     /db_xref="taxon:7962"
+                     /geo_loc_name="Hungary"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       OM801596                   1 bp    DNA     linear   VRT 28-FEB-2022
+DEFINITION  Cyprinus carpio isolate carp9 small subunit ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   OM801596 REGION: 1
+VERSION     OM801596.1
+KEYWORDS    .
+SOURCE      mitochondrion Cyprinus carpio (common carp)
+  ORGANISM  Cyprinus carpio
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Cyprinidae; Cyprininae; Cyprinus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Toth,B., Ashrafzadeh,M.R., Khosravi,R., Bagi,Z., Feher,M.,
+            Barsony,P., Kovacs,G. and Kusza,S.
+  TITLE     Insights into mitochondrial DNA variation of common carp Cyprinus
+            carpio strains in the Centre of Carpathian Basin
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Toth,B., Ashrafzadeh,M.R., Khosravi,R., Bagi,Z., Feher,M.,
+            Barsony,P., Kovacs,G. and Kusza,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-FEB-2022) Centre for Agricultural Genomics and
+            Biotechnology, University of Debrecen, Egyetem ter 1., Debrecen
+            4032, Hungary
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Cyprinus carpio"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="carp9"
+                     /db_xref="taxon:7962"
+                     /geo_loc_name="Hungary"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       OM801597                   1 bp    DNA     linear   VRT 28-FEB-2022
+DEFINITION  Cyprinus carpio isolate carp10 small subunit ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   OM801597 REGION: 1
+VERSION     OM801597.1
+KEYWORDS    .
+SOURCE      mitochondrion Cyprinus carpio (common carp)
+  ORGANISM  Cyprinus carpio
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Cyprinidae; Cyprininae; Cyprinus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Toth,B., Ashrafzadeh,M.R., Khosravi,R., Bagi,Z., Feher,M.,
+            Barsony,P., Kovacs,G. and Kusza,S.
+  TITLE     Insights into mitochondrial DNA variation of common carp Cyprinus
+            carpio strains in the Centre of Carpathian Basin
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Toth,B., Ashrafzadeh,M.R., Khosravi,R., Bagi,Z., Feher,M.,
+            Barsony,P., Kovacs,G. and Kusza,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-FEB-2022) Centre for Agricultural Genomics and
+            Biotechnology, University of Debrecen, Egyetem ter 1., Debrecen
+            4032, Hungary
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Cyprinus carpio"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="carp10"
+                     /db_xref="taxon:7962"
+                     /geo_loc_name="Hungary"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       OM801598                   1 bp    DNA     linear   VRT 28-FEB-2022
+DEFINITION  Cyprinus carpio isolate carp11 small subunit ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   OM801598 REGION: 1
+VERSION     OM801598.1
+KEYWORDS    .
+SOURCE      mitochondrion Cyprinus carpio (common carp)
+  ORGANISM  Cyprinus carpio
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Cyprinidae; Cyprininae; Cyprinus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Toth,B., Ashrafzadeh,M.R., Khosravi,R., Bagi,Z., Feher,M.,
+            Barsony,P., Kovacs,G. and Kusza,S.
+  TITLE     Insights into mitochondrial DNA variation of common carp Cyprinus
+            carpio strains in the Centre of Carpathian Basin
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Toth,B., Ashrafzadeh,M.R., Khosravi,R., Bagi,Z., Feher,M.,
+            Barsony,P., Kovacs,G. and Kusza,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-FEB-2022) Centre for Agricultural Genomics and
+            Biotechnology, University of Debrecen, Egyetem ter 1., Debrecen
+            4032, Hungary
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Cyprinus carpio"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="carp11"
+                     /db_xref="taxon:7962"
+                     /geo_loc_name="Hungary"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       OM801599                   1 bp    DNA     linear   VRT 28-FEB-2022
+DEFINITION  Cyprinus carpio isolate carp12 small subunit ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   OM801599 REGION: 1
+VERSION     OM801599.1
+KEYWORDS    .
+SOURCE      mitochondrion Cyprinus carpio (common carp)
+  ORGANISM  Cyprinus carpio
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Cyprinidae; Cyprininae; Cyprinus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Toth,B., Ashrafzadeh,M.R., Khosravi,R., Bagi,Z., Feher,M.,
+            Barsony,P., Kovacs,G. and Kusza,S.
+  TITLE     Insights into mitochondrial DNA variation of common carp Cyprinus
+            carpio strains in the Centre of Carpathian Basin
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Toth,B., Ashrafzadeh,M.R., Khosravi,R., Bagi,Z., Feher,M.,
+            Barsony,P., Kovacs,G. and Kusza,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-FEB-2022) Centre for Agricultural Genomics and
+            Biotechnology, University of Debrecen, Egyetem ter 1., Debrecen
+            4032, Hungary
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Cyprinus carpio"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="carp12"
+                     /db_xref="taxon:7962"
+                     /geo_loc_name="Hungary"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       OM801602                   1 bp    DNA     linear   VRT 28-FEB-2022
+DEFINITION  Cyprinus carpio isolate carp15 small subunit ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   OM801602 REGION: 1
+VERSION     OM801602.1
+KEYWORDS    .
+SOURCE      mitochondrion Cyprinus carpio (common carp)
+  ORGANISM  Cyprinus carpio
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Cyprinidae; Cyprininae; Cyprinus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Toth,B., Ashrafzadeh,M.R., Khosravi,R., Bagi,Z., Feher,M.,
+            Barsony,P., Kovacs,G. and Kusza,S.
+  TITLE     Insights into mitochondrial DNA variation of common carp Cyprinus
+            carpio strains in the Centre of Carpathian Basin
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Toth,B., Ashrafzadeh,M.R., Khosravi,R., Bagi,Z., Feher,M.,
+            Barsony,P., Kovacs,G. and Kusza,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-FEB-2022) Centre for Agricultural Genomics and
+            Biotechnology, University of Debrecen, Egyetem ter 1., Debrecen
+            4032, Hungary
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Cyprinus carpio"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="carp15"
+                     /db_xref="taxon:7962"
+                     /geo_loc_name="Hungary"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       OM801603                   1 bp    DNA     linear   VRT 28-FEB-2022
+DEFINITION  Cyprinus carpio isolate carp16 small subunit ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   OM801603 REGION: 1
+VERSION     OM801603.1
+KEYWORDS    .
+SOURCE      mitochondrion Cyprinus carpio (common carp)
+  ORGANISM  Cyprinus carpio
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Cyprinidae; Cyprininae; Cyprinus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Toth,B., Ashrafzadeh,M.R., Khosravi,R., Bagi,Z., Feher,M.,
+            Barsony,P., Kovacs,G. and Kusza,S.
+  TITLE     Insights into mitochondrial DNA variation of common carp Cyprinus
+            carpio strains in the Centre of Carpathian Basin
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Toth,B., Ashrafzadeh,M.R., Khosravi,R., Bagi,Z., Feher,M.,
+            Barsony,P., Kovacs,G. and Kusza,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-FEB-2022) Centre for Agricultural Genomics and
+            Biotechnology, University of Debrecen, Egyetem ter 1., Debrecen
+            4032, Hungary
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Cyprinus carpio"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="carp16"
+                     /db_xref="taxon:7962"
+                     /geo_loc_name="Hungary"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       OM801604                   1 bp    DNA     linear   VRT 28-FEB-2022
+DEFINITION  Cyprinus carpio isolate carp17 small subunit ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   OM801604 REGION: 1
+VERSION     OM801604.1
+KEYWORDS    .
+SOURCE      mitochondrion Cyprinus carpio (common carp)
+  ORGANISM  Cyprinus carpio
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Cyprinidae; Cyprininae; Cyprinus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Toth,B., Ashrafzadeh,M.R., Khosravi,R., Bagi,Z., Feher,M.,
+            Barsony,P., Kovacs,G. and Kusza,S.
+  TITLE     Insights into mitochondrial DNA variation of common carp Cyprinus
+            carpio strains in the Centre of Carpathian Basin
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Toth,B., Ashrafzadeh,M.R., Khosravi,R., Bagi,Z., Feher,M.,
+            Barsony,P., Kovacs,G. and Kusza,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-FEB-2022) Centre for Agricultural Genomics and
+            Biotechnology, University of Debrecen, Egyetem ter 1., Debrecen
+            4032, Hungary
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Cyprinus carpio"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="carp17"
+                     /db_xref="taxon:7962"
+                     /geo_loc_name="Hungary"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       OM976621                   1 bp    DNA     linear   VRT 16-MAR-2022
+DEFINITION  Clarias gariepinus isolate Muscle tissue small subunit ribosomal
+            RNA gene, partial sequence; mitochondrial.
+ACCESSION   OM976621 REGION: 1
+VERSION     OM976621.1
+KEYWORDS    .
+SOURCE      mitochondrion Clarias gariepinus (North African catfish)
+  ORGANISM  Clarias gariepinus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi; Siluriformes;
+            Clariidae; Clarias.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Mahrous,N.S. and Allam,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-MAR-2022) Zoology Department, Faculty of Science,
+            South Valley University, Qena, Egypt, Qena, Qena 83523, Egypt
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Clarias gariepinus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="Muscle tissue"
+                     /db_xref="taxon:13013"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 a
+//
+
+LOCUS       ON364121                   1 bp    DNA     linear   VRT 02-MAY-2022
+DEFINITION  Oreochromis niloticus voucher CNPE-IBUNAM 23848 (JA221) small
+            subunit ribosomal RNA gene, partial sequence; mitochondrial.
+ACCESSION   ON364121 REGION: 1
+VERSION     ON364121.1
+KEYWORDS    .
+SOURCE      mitochondrion Oreochromis niloticus (Nile tilapia)
+  ORGANISM  Oreochromis niloticus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Ovalentaria; Cichlomorphae; Cichliformes;
+            Cichlidae; African cichlids; Pseudocrenilabrinae; Oreochromini;
+            Oreochromis.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Arroyave,J. and Alter,E.S.
+  TITLE     eDNA metabarcoding as a promising method for assaying fish
+            diversity in cenotes of the Yucatan Peninsula, Mexico
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Arroyave,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (26-APR-2022) Departamento de Zoologia, Instituto de
+            Biologia, Universidad Nacional Autonoma de Mexico, Circuito Zona
+            Deportiva 53, Ciudad Universitaria, Coyoacan, Mexico City, CDMX
+            04510, Mexico
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oreochromis niloticus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="CNPE-IBUNAM 23848 (JA221)"
+                     /db_xref="taxon:8128"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 a
+//
+
+LOCUS       ON364123                   1 bp    DNA     linear   VRT 02-MAY-2022
+DEFINITION  Poecilia mexicana voucher CNPE-IBUNAM 23319 (JA334) small subunit
+            ribosomal RNA gene, partial sequence; mitochondrial.
+ACCESSION   ON364123 REGION: 1
+VERSION     ON364123.1
+KEYWORDS    .
+SOURCE      mitochondrion Poecilia mexicana
+  ORGANISM  Poecilia mexicana
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Ovalentaria; Atherinomorphae; Cyprinodontiformes;
+            Poeciliidae; Poeciliinae; Poecilia.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Arroyave,J. and Alter,E.S.
+  TITLE     eDNA metabarcoding as a promising method for assaying fish
+            diversity in cenotes of the Yucatan Peninsula, Mexico
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Arroyave,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (26-APR-2022) Departamento de Zoologia, Instituto de
+            Biologia, Universidad Nacional Autonoma de Mexico, Circuito Zona
+            Deportiva 53, Ciudad Universitaria, Coyoacan, Mexico City, CDMX
+            04510, Mexico
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Poecilia mexicana"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="CNPE-IBUNAM 23319 (JA334)"
+                     /db_xref="taxon:48701"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       ON364124                   1 bp    DNA     linear   VRT 02-MAY-2022
+DEFINITION  Poecilia orri voucher CNPE-IBUNAM 23303 (JA301) small subunit
+            ribosomal RNA gene, partial sequence; mitochondrial.
+ACCESSION   ON364124 REGION: 1
+VERSION     ON364124.1
+KEYWORDS    .
+SOURCE      mitochondrion Poecilia orri (mangrove molly)
+  ORGANISM  Poecilia orri
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Ovalentaria; Atherinomorphae; Cyprinodontiformes;
+            Poeciliidae; Poeciliinae; Poecilia.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Arroyave,J. and Alter,E.S.
+  TITLE     eDNA metabarcoding as a promising method for assaying fish
+            diversity in cenotes of the Yucatan Peninsula, Mexico
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Arroyave,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (26-APR-2022) Departamento de Zoologia, Instituto de
+            Biologia, Universidad Nacional Autonoma de Mexico, Circuito Zona
+            Deportiva 53, Ciudad Universitaria, Coyoacan, Mexico City, CDMX
+            04510, Mexico
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Poecilia orri"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="CNPE-IBUNAM 23303 (JA301)"
+                     /db_xref="taxon:69230"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       ON364125                   1 bp    DNA     linear   VRT 02-MAY-2022
+DEFINITION  Poecilia reticulata voucher CNPE-IBUNAM 23851 (JA597) small subunit
+            ribosomal RNA gene, partial sequence; mitochondrial.
+ACCESSION   ON364125 REGION: 1
+VERSION     ON364125.1
+KEYWORDS    .
+SOURCE      mitochondrion Poecilia reticulata (guppy)
+  ORGANISM  Poecilia reticulata
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Ovalentaria; Atherinomorphae; Cyprinodontiformes;
+            Poeciliidae; Poeciliinae; Poecilia.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Arroyave,J. and Alter,E.S.
+  TITLE     eDNA metabarcoding as a promising method for assaying fish
+            diversity in cenotes of the Yucatan Peninsula, Mexico
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Arroyave,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (26-APR-2022) Departamento de Zoologia, Instituto de
+            Biologia, Universidad Nacional Autonoma de Mexico, Circuito Zona
+            Deportiva 53, Ciudad Universitaria, Coyoacan, Mexico City, CDMX
+            04510, Mexico
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Poecilia reticulata"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="CNPE-IBUNAM 23851 (JA597)"
+                     /db_xref="taxon:8081"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       ON364126                   1 bp    DNA     linear   VRT 02-MAY-2022
+DEFINITION  Poecilia velifera voucher CNPE-IBUNAM 23276 (JA139) small subunit
+            ribosomal RNA gene, partial sequence; mitochondrial.
+ACCESSION   ON364126 REGION: 1
+VERSION     ON364126.1
+KEYWORDS    .
+SOURCE      mitochondrion Poecilia velifera (sail-fin molly)
+  ORGANISM  Poecilia velifera
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Ovalentaria; Atherinomorphae; Cyprinodontiformes;
+            Poeciliidae; Poeciliinae; Poecilia.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Arroyave,J. and Alter,E.S.
+  TITLE     eDNA metabarcoding as a promising method for assaying fish
+            diversity in cenotes of the Yucatan Peninsula, Mexico
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Arroyave,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (26-APR-2022) Departamento de Zoologia, Instituto de
+            Biologia, Universidad Nacional Autonoma de Mexico, Circuito Zona
+            Deportiva 53, Ciudad Universitaria, Coyoacan, Mexico City, CDMX
+            04510, Mexico
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Poecilia velifera"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="CNPE-IBUNAM 23276 (JA139)"
+                     /db_xref="taxon:48702"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       ON364132                   1 bp    DNA     linear   VRT 02-MAY-2022
+DEFINITION  Vieja melanura voucher CNPE-IBUNAM 23850 (JA327) small subunit
+            ribosomal RNA gene, partial sequence; mitochondrial.
+ACCESSION   ON364132 REGION: 1
+VERSION     ON364132.1
+KEYWORDS    .
+SOURCE      mitochondrion Vieja melanura (redhead cichlid)
+  ORGANISM  Vieja melanura
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Ovalentaria; Cichlomorphae; Cichliformes;
+            Cichlidae; New World cichlids; Cichlasomatinae; Heroini; Vieja.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Arroyave,J. and Alter,E.S.
+  TITLE     eDNA metabarcoding as a promising method for assaying fish
+            diversity in cenotes of the Yucatan Peninsula, Mexico
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Arroyave,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (26-APR-2022) Departamento de Zoologia, Instituto de
+            Biologia, Universidad Nacional Autonoma de Mexico, Circuito Zona
+            Deportiva 53, Ciudad Universitaria, Coyoacan, Mexico City, CDMX
+            04510, Mexico
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Vieja melanura"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="CNPE-IBUNAM 23850 (JA327)"
+                     /db_xref="taxon:318738"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 c
+//
+
+LOCUS       OP404805                   1 bp    DNA     linear   VRT 14-SEP-2022
+DEFINITION  Poecilia latipinna isolate 62330 small subunit ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   OP404805 REGION: 1
+VERSION     OP404805.1
+KEYWORDS    .
+SOURCE      mitochondrion Poecilia latipinna (sailfin molly)
+  ORGANISM  Poecilia latipinna
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Ovalentaria; Atherinomorphae; Cyprinodontiformes;
+            Poeciliidae; Poeciliinae; Poecilia.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Williford,D., Hajovsky,P. and Anderson,J.
+  TITLE     12S barcoding of Texas fishes
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Williford,D., Hajovsky,P. and Anderson,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-SEP-2022) Texas Parks and Wildlife Department, Perry
+            R. Bass Marine Fisheries Research Station and Hatchery, 3864 FM RD
+            3280, Palacios, TX 77465, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Poecilia latipinna"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="62330"
+                     /db_xref="taxon:48699"
+                     /geo_loc_name="USA: Seadrift, Texas"
+                     /collection_date="2022"
+                     /collected_by="Polly Hajovsky"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 t
+//
+
+LOCUS       OP537865                   1 bp    DNA     linear   VRT 02-OCT-2022
+DEFINITION  Anguilla rostrata isolate 62319 small subunit ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   OP537865 REGION: 1
+VERSION     OP537865.1
+KEYWORDS    .
+SOURCE      mitochondrion Anguilla rostrata (American eel)
+  ORGANISM  Anguilla rostrata
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Anguilliformes;
+            Anguillidae; Anguilla.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Williford,D., Hajovsky,P. and Anderson,J.
+  TITLE     12S barcoding of Texas fishes
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Williford,D., Hajovsky,P. and Anderson,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-SEP-2022) Texas Parks and Wildlife Department, Perry
+            R. Bass Marine Fisheries Research Station and Hatchery, 3864 FM RD
+            3280, Palacios, TX 77465, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Anguilla rostrata"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="62319"
+                     /db_xref="taxon:7938"
+                     /geo_loc_name="USA: Rockport, Texas"
+                     /collection_date="2020"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       OP931023                   1 bp    DNA     linear   VRT 16-JAN-2024
+DEFINITION  Anguilla anguilla isolate Fishec 125477 small subunit ribosomal RNA
+            gene, partial sequence; mitochondrial.
+ACCESSION   OP931023 REGION: 1
+VERSION     OP931023.1
+KEYWORDS    .
+SOURCE      mitochondrion Anguilla anguilla (European eel)
+  ORGANISM  Anguilla anguilla
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Anguilliformes;
+            Anguillidae; Anguilla.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Blackman,R.C., Walser,J.C., Rueber,L., Brantschen,J., Villalba,S.,
+            Brodersen,J., Seehausen,O. and Altermatt,F.
+  TITLE     General principles for assignments of communities from eDNA: Open
+            versus closed taxonomic databases
+  JOURNAL   Environ DNA 5 (2), 326-342 (2023)
+  REMARK    DOI: 10.1002/edn3.382
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Ruber,L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-NOV-2022) Vertebrates, Naturhistorisches Museum Bern,
+            Bernastrasse 15, Bern, Bern 3005, Switzerland
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Anguilla anguilla"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="Fishec 125477"
+                     /db_xref="taxon:7936"
+                     /geo_loc_name="Switzerland: AG, Niederlenz, Aabach"
+                     /lat_lon="47.408362 N 8.169472 E"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 c
+//
+
+LOCUS       OP931024                   1 bp    DNA     linear   VRT 16-JAN-2024
+DEFINITION  Anguilla anguilla isolate Fishec 125535 small subunit ribosomal RNA
+            gene, partial sequence; mitochondrial.
+ACCESSION   OP931024 REGION: 1
+VERSION     OP931024.1
+KEYWORDS    .
+SOURCE      mitochondrion Anguilla anguilla (European eel)
+  ORGANISM  Anguilla anguilla
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Anguilliformes;
+            Anguillidae; Anguilla.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Blackman,R.C., Walser,J.C., Rueber,L., Brantschen,J., Villalba,S.,
+            Brodersen,J., Seehausen,O. and Altermatt,F.
+  TITLE     General principles for assignments of communities from eDNA: Open
+            versus closed taxonomic databases
+  JOURNAL   Environ DNA 5 (2), 326-342 (2023)
+  REMARK    DOI: 10.1002/edn3.382
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Ruber,L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-NOV-2022) Vertebrates, Naturhistorisches Museum Bern,
+            Bernastrasse 15, Bern, Bern 3005, Switzerland
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Anguilla anguilla"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="Fishec 125535"
+                     /db_xref="taxon:7936"
+                     /geo_loc_name="Switzerland: AG, Niederlenz, Aabach"
+                     /lat_lon="47.408362 N 8.169472 E"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 c
+//
+
+LOCUS       OP931026                   1 bp    DNA     linear   VRT 16-JAN-2024
+DEFINITION  Anguilla anguilla isolate NMBE 1086522 small subunit ribosomal RNA
+            gene, partial sequence; mitochondrial.
+ACCESSION   OP931026 REGION: 1
+VERSION     OP931026.1
+KEYWORDS    .
+SOURCE      mitochondrion Anguilla anguilla (European eel)
+  ORGANISM  Anguilla anguilla
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Anguilliformes;
+            Anguillidae; Anguilla.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Blackman,R.C., Walser,J.C., Rueber,L., Brantschen,J., Villalba,S.,
+            Brodersen,J., Seehausen,O. and Altermatt,F.
+  TITLE     General principles for assignments of communities from eDNA: Open
+            versus closed taxonomic databases
+  JOURNAL   Environ DNA 5 (2), 326-342 (2023)
+  REMARK    DOI: 10.1002/edn3.382
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Ruber,L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-NOV-2022) Vertebrates, Naturhistorisches Museum Bern,
+            Bernastrasse 15, Bern, Bern 3005, Switzerland
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Anguilla anguilla"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="NMBE 1086522"
+                     /db_xref="taxon:7936"
+                     /geo_loc_name="Switzerland: AG, Ruppoldingen, Aare"
+                     /lat_lon="47.310476 N 7.871658 E"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 c
+//
+
+LOCUS       OP931030                   1 bp    DNA     linear   VRT 16-JAN-2024
+DEFINITION  Anguilla anguilla isolate Fishec 125252 small subunit ribosomal RNA
+            gene, partial sequence; mitochondrial.
+ACCESSION   OP931030 REGION: 1
+VERSION     OP931030.1
+KEYWORDS    .
+SOURCE      mitochondrion Anguilla anguilla (European eel)
+  ORGANISM  Anguilla anguilla
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Anguilliformes;
+            Anguillidae; Anguilla.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Blackman,R.C., Walser,J.C., Rueber,L., Brantschen,J., Villalba,S.,
+            Brodersen,J., Seehausen,O. and Altermatt,F.
+  TITLE     General principles for assignments of communities from eDNA: Open
+            versus closed taxonomic databases
+  JOURNAL   Environ DNA 5 (2), 326-342 (2023)
+  REMARK    DOI: 10.1002/edn3.382
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Ruber,L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-NOV-2022) Vertebrates, Naturhistorisches Museum Bern,
+            Bernastrasse 15, Bern, Bern 3005, Switzerland
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Anguilla anguilla"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="Fishec 125252"
+                     /db_xref="taxon:7936"
+                     /geo_loc_name="Switzerland: AG, Moriken, Bunz"
+                     /lat_lon="47.409892 N 8.186148 E"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 c
+//
+
+LOCUS       OP931294                   1 bp    DNA     linear   VRT 16-JAN-2024
+DEFINITION  Cyprinus carpio isolate NMBE 1070877 small subunit ribosomal RNA
+            gene, partial sequence; mitochondrial.
+ACCESSION   OP931294 REGION: 1
+VERSION     OP931294.1
+KEYWORDS    .
+SOURCE      mitochondrion Cyprinus carpio (common carp)
+  ORGANISM  Cyprinus carpio
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Cyprinidae; Cyprininae; Cyprinus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Blackman,R.C., Walser,J.C., Rueber,L., Brantschen,J., Villalba,S.,
+            Brodersen,J., Seehausen,O. and Altermatt,F.
+  TITLE     General principles for assignments of communities from eDNA: Open
+            versus closed taxonomic databases
+  JOURNAL   Environ DNA 5 (2), 326-342 (2023)
+  REMARK    DOI: 10.1002/edn3.382
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Ruber,L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-NOV-2022) Vertebrates, Naturhistorisches Museum Bern,
+            Bernastrasse 15, Bern, Bern 3005, Switzerland
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Cyprinus carpio"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="NMBE 1070877"
+                     /db_xref="taxon:7962"
+                     /geo_loc_name="Germany: Bodensee"
+                     /lat_lon="47.645218 N 9.500414 E"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 c
+//
+
+LOCUS       OQ658734                   1 bp    DNA     linear   VRT 11-APR-2023
+DEFINITION  Cyprinus acutidorsalis isolate Wanquan river mitochondrion,
+            complete genome.
+ACCESSION   OQ658734 REGION: 1
+VERSION     OQ658734.1
+KEYWORDS    .
+SOURCE      mitochondrion Cyprinus acutidorsalis
+  ORGANISM  Cyprinus acutidorsalis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Cyprinidae; Cyprininae; Cyprinus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Zhang,Q., Shen,Z., Dong,Y., Cai,X., Li,F. and Wang,J.
+  TITLE     The complete mitochondrial genome of Cyprinus acutidorsalis
+            (wang,1979) in Hainan population and its phylogentic analysis
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Zhang,Q., Shen,Z., Dong,Y., Cai,X., Li,F. and Wang,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-MAR-2023) research institute of freshwater fisheries,
+            Hainan Academy of marine and fisheries science, Beiju avenue,
+            haikou, Hainan 570100, China
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: NOVAPLASTY v. latest
+            Sequencing Technology :: Illumina
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Cyprinus acutidorsalis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="Wanquan river"
+                     /db_xref="taxon:1548121"
+                     /geo_loc_name="China: Hainan province"
+     gene            >1
+                     /gene="trnF(gaa)"
+     tRNA            >1
+                     /gene="trnF(gaa)"
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       OQ681454                   1 bp    DNA     linear   VRT 28-MAR-2023
+DEFINITION  Glossogobius olivaceus voucher LINGU:FISH 00002 small subunit
+            ribosomal RNA gene, partial sequence; mitochondrial.
+ACCESSION   OQ681454 REGION: 1
+VERSION     OQ681454.1
+KEYWORDS    .
+SOURCE      mitochondrion Glossogobius olivaceus (urohaze-goby)
+  ORGANISM  Glossogobius olivaceus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Gobiaria; Gobiiformes; Gobioidei; Gobiidae;
+            Gobiinae; Glossogobius.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Chan,J.C., Tsang,A.H., Yau,S.-m., Hui,T.C., Lau,A., Tan,H.H.,
+            Low,B.W., Dudgeon,D. and Liew,J.H.
+  TITLE     The non-native freshwater fishes of Hong Kong: diversity,
+            distributions, and origins
+  JOURNAL   Raffles Bull Zool 71 (1), 128-168 (2023)
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Yau,S.-m.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-MAR-2023) Science Unit, Lingnan University, 8 Castle
+            Peak Road, Hong Kong 00000, Hong Kong
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Glossogobius olivaceus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="LINGU:FISH 00002"
+                     /db_xref="taxon:764832"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 a
+//
+
+LOCUS       OQ681458                   1 bp    DNA     linear   VRT 28-MAR-2023
+DEFINITION  Amphilophus citrinellus voucher LINGU:FISH 00006(1) small subunit
+            ribosomal RNA gene, partial sequence; mitochondrial.
+ACCESSION   OQ681458 REGION: 1
+VERSION     OQ681458.1
+KEYWORDS    .
+SOURCE      mitochondrion Amphilophus citrinellus (Midas cichlid)
+  ORGANISM  Amphilophus citrinellus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Ovalentaria; Cichlomorphae; Cichliformes;
+            Cichlidae; New World cichlids; Cichlasomatinae; Heroini;
+            Amphilophus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Chan,J.C., Tsang,A.H., Yau,S.-m., Hui,T.C., Lau,A., Tan,H.H.,
+            Low,B.W., Dudgeon,D. and Liew,J.H.
+  TITLE     The non-native freshwater fishes of Hong Kong: diversity,
+            distributions, and origins
+  JOURNAL   Raffles Bull Zool 71 (1), 128-168 (2023)
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Yau,S.-m.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-MAR-2023) Science Unit, Lingnan University, 8 Castle
+            Peak Road, Hong Kong 00000, Hong Kong
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Amphilophus citrinellus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="LINGU:FISH 00006(1)"
+                     /db_xref="taxon:61819"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 a
+//
+
+LOCUS       OQ681459                   1 bp    DNA     linear   VRT 28-MAR-2023
+DEFINITION  Amphilophus citrinellus voucher LINGU:FISH 00006(2) small subunit
+            ribosomal RNA gene, partial sequence; mitochondrial.
+ACCESSION   OQ681459 REGION: 1
+VERSION     OQ681459.1
+KEYWORDS    .
+SOURCE      mitochondrion Amphilophus citrinellus (Midas cichlid)
+  ORGANISM  Amphilophus citrinellus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Ovalentaria; Cichlomorphae; Cichliformes;
+            Cichlidae; New World cichlids; Cichlasomatinae; Heroini;
+            Amphilophus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Chan,J.C., Tsang,A.H., Yau,S.-m., Hui,T.C., Lau,A., Tan,H.H.,
+            Low,B.W., Dudgeon,D. and Liew,J.H.
+  TITLE     The non-native freshwater fishes of Hong Kong: diversity,
+            distributions, and origins
+  JOURNAL   Raffles Bull Zool 71 (1), 128-168 (2023)
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Yau,S.-m.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-MAR-2023) Science Unit, Lingnan University, 8 Castle
+            Peak Road, Hong Kong 00000, Hong Kong
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Amphilophus citrinellus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="LINGU:FISH 00006(2)"
+                     /db_xref="taxon:61819"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       OQ681466                   1 bp    DNA     linear   VRT 28-MAR-2023
+DEFINITION  Channa limbata voucher LINGU:FISH 00009 small subunit ribosomal RNA
+            gene, partial sequence; mitochondrial.
+ACCESSION   OQ681466 REGION: 1
+VERSION     OQ681466.1
+KEYWORDS    .
+SOURCE      mitochondrion Channa limbata (red-tailed snakehead)
+  ORGANISM  Channa limbata
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Anabantaria; Anabantiformes; Channoidei;
+            Channidae; Channa.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Chan,J.C., Tsang,A.H., Yau,S.-m., Hui,T.C., Lau,A., Tan,H.H.,
+            Low,B.W., Dudgeon,D. and Liew,J.H.
+  TITLE     The non-native freshwater fishes of Hong Kong: diversity,
+            distributions, and origins
+  JOURNAL   Raffles Bull Zool 71 (1), 128-168 (2023)
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Yau,S.-m.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-MAR-2023) Science Unit, Lingnan University, 8 Castle
+            Peak Road, Hong Kong 00000, Hong Kong
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Channa limbata"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="LINGU:FISH 00009"
+                     /db_xref="taxon:452074"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 a
+//
+
+LOCUS       OQ681467                   1 bp    DNA     linear   VRT 28-MAR-2023
+DEFINITION  Channa argus voucher LINGU:FISH 00015 small subunit ribosomal RNA
+            gene, partial sequence; mitochondrial.
+ACCESSION   OQ681467 REGION: 1
+VERSION     OQ681467.1
+KEYWORDS    .
+SOURCE      mitochondrion Channa argus (northern snakehead)
+  ORGANISM  Channa argus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Anabantaria; Anabantiformes; Channoidei;
+            Channidae; Channa.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Chan,J.C., Tsang,A.H., Yau,S.-m., Hui,T.C., Lau,A., Tan,H.H.,
+            Low,B.W., Dudgeon,D. and Liew,J.H.
+  TITLE     The non-native freshwater fishes of Hong Kong: diversity,
+            distributions, and origins
+  JOURNAL   Raffles Bull Zool 71 (1), 128-168 (2023)
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Yau,S.-m.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-MAR-2023) Science Unit, Lingnan University, 8 Castle
+            Peak Road, Hong Kong 00000, Hong Kong
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Channa argus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="LINGU:FISH 00015"
+                     /db_xref="taxon:215402"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 a
+//
+
+LOCUS       OQ681472                   1 bp    DNA     linear   VRT 28-MAR-2023
+DEFINITION  Oreochromis niloticus voucher LINGU:FISH 00021 small subunit
+            ribosomal RNA gene, partial sequence; mitochondrial.
+ACCESSION   OQ681472 REGION: 1
+VERSION     OQ681472.1
+KEYWORDS    .
+SOURCE      mitochondrion Oreochromis niloticus (Nile tilapia)
+  ORGANISM  Oreochromis niloticus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Ovalentaria; Cichlomorphae; Cichliformes;
+            Cichlidae; African cichlids; Pseudocrenilabrinae; Oreochromini;
+            Oreochromis.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Chan,J.C., Tsang,A.H., Yau,S.-m., Hui,T.C., Lau,A., Tan,H.H.,
+            Low,B.W., Dudgeon,D. and Liew,J.H.
+  TITLE     The non-native freshwater fishes of Hong Kong: diversity,
+            distributions, and origins
+  JOURNAL   Raffles Bull Zool 71 (1), 128-168 (2023)
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Yau,S.-m.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-MAR-2023) Science Unit, Lingnan University, 8 Castle
+            Peak Road, Hong Kong 00000, Hong Kong
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oreochromis niloticus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="LINGU:FISH 00021"
+                     /db_xref="taxon:8128"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 a
+//
+
+LOCUS       OQ681474                   1 bp    DNA     linear   VRT 28-MAR-2023
+DEFINITION  Cyprinus carpio voucher LINGU:FISH 00022 small subunit ribosomal
+            RNA gene, partial sequence; mitochondrial.
+ACCESSION   OQ681474 REGION: 1
+VERSION     OQ681474.1
+KEYWORDS    .
+SOURCE      mitochondrion Cyprinus carpio (common carp)
+  ORGANISM  Cyprinus carpio
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Cyprinidae; Cyprininae; Cyprinus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Chan,J.C., Tsang,A.H., Yau,S.-m., Hui,T.C., Lau,A., Tan,H.H.,
+            Low,B.W., Dudgeon,D. and Liew,J.H.
+  TITLE     The non-native freshwater fishes of Hong Kong: diversity,
+            distributions, and origins
+  JOURNAL   Raffles Bull Zool 71 (1), 128-168 (2023)
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Yau,S.-m.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-MAR-2023) Science Unit, Lingnan University, 8 Castle
+            Peak Road, Hong Kong 00000, Hong Kong
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Cyprinus carpio"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="LINGU:FISH 00022"
+                     /db_xref="taxon:7962"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 a
+//
+
+LOCUS       OQ681481                   1 bp    DNA     linear   VRT 28-MAR-2023
+DEFINITION  Glossogobius olivaceus voucher LINGU:FISH 00028 small subunit
+            ribosomal RNA gene, partial sequence; mitochondrial.
+ACCESSION   OQ681481 REGION: 1
+VERSION     OQ681481.1
+KEYWORDS    .
+SOURCE      mitochondrion Glossogobius olivaceus (urohaze-goby)
+  ORGANISM  Glossogobius olivaceus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Gobiaria; Gobiiformes; Gobioidei; Gobiidae;
+            Gobiinae; Glossogobius.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Chan,J.C., Tsang,A.H., Yau,S.-m., Hui,T.C., Lau,A., Tan,H.H.,
+            Low,B.W., Dudgeon,D. and Liew,J.H.
+  TITLE     The non-native freshwater fishes of Hong Kong: diversity,
+            distributions, and origins
+  JOURNAL   Raffles Bull Zool 71 (1), 128-168 (2023)
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Yau,S.-m.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-MAR-2023) Science Unit, Lingnan University, 8 Castle
+            Peak Road, Hong Kong 00000, Hong Kong
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Glossogobius olivaceus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="LINGU:FISH 00028"
+                     /db_xref="taxon:764832"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 a
+//
+
+LOCUS       OQ681485                   1 bp    DNA     linear   VRT 28-MAR-2023
+DEFINITION  Anabas testudineus voucher LINGU:FISH 00061 small subunit ribosomal
+            RNA gene, partial sequence; mitochondrial.
+ACCESSION   OQ681485 REGION: 1
+VERSION     OQ681485.1
+KEYWORDS    .
+SOURCE      mitochondrion Anabas testudineus (climbing perch)
+  ORGANISM  Anabas testudineus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Anabantaria; Anabantiformes; Anabantoidei;
+            Anabantidae; Anabas.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Chan,J.C., Tsang,A.H., Yau,S.-m., Hui,T.C., Lau,A., Tan,H.H.,
+            Low,B.W., Dudgeon,D. and Liew,J.H.
+  TITLE     The non-native freshwater fishes of Hong Kong: diversity,
+            distributions, and origins
+  JOURNAL   Raffles Bull Zool 71 (1), 128-168 (2023)
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Yau,S.-m.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-MAR-2023) Science Unit, Lingnan University, 8 Castle
+            Peak Road, Hong Kong 00000, Hong Kong
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Anabas testudineus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="LINGU:FISH 00061"
+                     /db_xref="taxon:64144"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 a
+//
+
+LOCUS       OQ681486                   1 bp    DNA     linear   VRT 28-MAR-2023
+DEFINITION  Poecilia reticulata voucher LINGU:FISH 00054 small subunit
+            ribosomal RNA gene, partial sequence; mitochondrial.
+ACCESSION   OQ681486 REGION: 1
+VERSION     OQ681486.1
+KEYWORDS    .
+SOURCE      mitochondrion Poecilia reticulata (guppy)
+  ORGANISM  Poecilia reticulata
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Ovalentaria; Atherinomorphae; Cyprinodontiformes;
+            Poeciliidae; Poeciliinae; Poecilia.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Chan,J.C., Tsang,A.H., Yau,S.-m., Hui,T.C., Lau,A., Tan,H.H.,
+            Low,B.W., Dudgeon,D. and Liew,J.H.
+  TITLE     The non-native freshwater fishes of Hong Kong: diversity,
+            distributions, and origins
+  JOURNAL   Raffles Bull Zool 71 (1), 128-168 (2023)
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Yau,S.-m.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-MAR-2023) Science Unit, Lingnan University, 8 Castle
+            Peak Road, Hong Kong 00000, Hong Kong
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Poecilia reticulata"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="LINGU:FISH 00054"
+                     /db_xref="taxon:8081"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 t
+//
+
+LOCUS       OQ681487                   1 bp    DNA     linear   VRT 28-MAR-2023
+DEFINITION  Oreochromis niloticus voucher LINGU:FISH 00066(1) small subunit
+            ribosomal RNA gene, partial sequence; mitochondrial.
+ACCESSION   OQ681487 REGION: 1
+VERSION     OQ681487.1
+KEYWORDS    .
+SOURCE      mitochondrion Oreochromis niloticus (Nile tilapia)
+  ORGANISM  Oreochromis niloticus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Ovalentaria; Cichlomorphae; Cichliformes;
+            Cichlidae; African cichlids; Pseudocrenilabrinae; Oreochromini;
+            Oreochromis.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Chan,J.C., Tsang,A.H., Yau,S.-m., Hui,T.C., Lau,A., Tan,H.H.,
+            Low,B.W., Dudgeon,D. and Liew,J.H.
+  TITLE     The non-native freshwater fishes of Hong Kong: diversity,
+            distributions, and origins
+  JOURNAL   Raffles Bull Zool 71 (1), 128-168 (2023)
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Yau,S.-m.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-MAR-2023) Science Unit, Lingnan University, 8 Castle
+            Peak Road, Hong Kong 00000, Hong Kong
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oreochromis niloticus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="LINGU:FISH 00066(1)"
+                     /db_xref="taxon:8128"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 a
+//
+
+LOCUS       OQ681488                   1 bp    DNA     linear   VRT 28-MAR-2023
+DEFINITION  Oreochromis niloticus x Oreochromis aureus voucher LINGU:FISH
+            00066(2) small subunit ribosomal RNA gene, partial sequence;
+            mitochondrial.
+ACCESSION   OQ681488 REGION: 1
+VERSION     OQ681488.1
+KEYWORDS    .
+SOURCE      mitochondrion Oreochromis niloticus x Oreochromis aureus
+  ORGANISM  Oreochromis niloticus x Oreochromis aureus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Ovalentaria; Cichlomorphae; Cichliformes;
+            Cichlidae; African cichlids; Pseudocrenilabrinae; Oreochromini;
+            Oreochromis.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Chan,J.C., Tsang,A.H., Yau,S.-m., Hui,T.C., Lau,A., Tan,H.H.,
+            Low,B.W., Dudgeon,D. and Liew,J.H.
+  TITLE     The non-native freshwater fishes of Hong Kong: diversity,
+            distributions, and origins
+  JOURNAL   Raffles Bull Zool 71 (1), 128-168 (2023)
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Yau,S.-m.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-MAR-2023) Science Unit, Lingnan University, 8 Castle
+            Peak Road, Hong Kong 00000, Hong Kong
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oreochromis niloticus x Oreochromis aureus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="LINGU:FISH 00066(2)"
+                     /db_xref="taxon:1569704"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 a
+//
+
+LOCUS       OQ681489                   1 bp    DNA     linear   VRT 28-MAR-2023
+DEFINITION  Channa striata voucher LINGU:FISH 00065 small subunit ribosomal RNA
+            gene, partial sequence; mitochondrial.
+ACCESSION   OQ681489 REGION: 1
+VERSION     OQ681489.1
+KEYWORDS    .
+SOURCE      mitochondrion Channa striata (snakehead murrel)
+  ORGANISM  Channa striata
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Anabantaria; Anabantiformes; Channoidei;
+            Channidae; Channa.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Chan,J.C., Tsang,A.H., Yau,S.-m., Hui,T.C., Lau,A., Tan,H.H.,
+            Low,B.W., Dudgeon,D. and Liew,J.H.
+  TITLE     The non-native freshwater fishes of Hong Kong: diversity,
+            distributions, and origins
+  JOURNAL   Raffles Bull Zool 71 (1), 128-168 (2023)
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Yau,S.-m.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-MAR-2023) Science Unit, Lingnan University, 8 Castle
+            Peak Road, Hong Kong 00000, Hong Kong
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Channa striata"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="LINGU:FISH 00065"
+                     /db_xref="taxon:64152"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 a
+//
+
+LOCUS       OQ681491                   1 bp    DNA     linear   VRT 28-MAR-2023
+DEFINITION  Oreochromis aureus voucher LINGU:FISH 00068(1) small subunit
+            ribosomal RNA gene, partial sequence; mitochondrial.
+ACCESSION   OQ681491 REGION: 1
+VERSION     OQ681491.1
+KEYWORDS    .
+SOURCE      mitochondrion Oreochromis aureus
+  ORGANISM  Oreochromis aureus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Ovalentaria; Cichlomorphae; Cichliformes;
+            Cichlidae; African cichlids; Pseudocrenilabrinae; Oreochromini;
+            Oreochromis.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Chan,J.C., Tsang,A.H., Yau,S.-m., Hui,T.C., Lau,A., Tan,H.H.,
+            Low,B.W., Dudgeon,D. and Liew,J.H.
+  TITLE     The non-native freshwater fishes of Hong Kong: diversity,
+            distributions, and origins
+  JOURNAL   Raffles Bull Zool 71 (1), 128-168 (2023)
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Yau,S.-m.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-MAR-2023) Science Unit, Lingnan University, 8 Castle
+            Peak Road, Hong Kong 00000, Hong Kong
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oreochromis aureus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="LINGU:FISH 00068(1)"
+                     /db_xref="taxon:47969"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 a
+//
+
+LOCUS       OQ681495                   1 bp    DNA     linear   VRT 28-MAR-2023
+DEFINITION  Mugilogobius myxodermus voucher LINGU:FISH 00056(1) small subunit
+            ribosomal RNA gene, partial sequence; mitochondrial.
+ACCESSION   OQ681495 REGION: 1
+VERSION     OQ681495.1
+KEYWORDS    .
+SOURCE      mitochondrion Mugilogobius myxodermus
+  ORGANISM  Mugilogobius myxodermus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Gobiaria; Gobiiformes; Gobioidei; Gobiidae;
+            Gobionellinae; Mugilogobius.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Chan,J.C., Tsang,A.H., Yau,S.-m., Hui,T.C., Lau,A., Tan,H.H.,
+            Low,B.W., Dudgeon,D. and Liew,J.H.
+  TITLE     The non-native freshwater fishes of Hong Kong: diversity,
+            distributions, and origins
+  JOURNAL   Raffles Bull Zool 71 (1), 128-168 (2023)
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Yau,S.-m.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-MAR-2023) Science Unit, Lingnan University, 8 Castle
+            Peak Road, Hong Kong 00000, Hong Kong
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Mugilogobius myxodermus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="LINGU:FISH 00056(1)"
+                     /db_xref="taxon:1243175"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       OQ681496                   1 bp    DNA     linear   VRT 28-MAR-2023
+DEFINITION  Mugilogobius myxodermus voucher LINGU:FISH 00056(2) small subunit
+            ribosomal RNA gene, partial sequence; mitochondrial.
+ACCESSION   OQ681496 REGION: 1
+VERSION     OQ681496.1
+KEYWORDS    .
+SOURCE      mitochondrion Mugilogobius myxodermus
+  ORGANISM  Mugilogobius myxodermus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Gobiaria; Gobiiformes; Gobioidei; Gobiidae;
+            Gobionellinae; Mugilogobius.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Chan,J.C., Tsang,A.H., Yau,S.-m., Hui,T.C., Lau,A., Tan,H.H.,
+            Low,B.W., Dudgeon,D. and Liew,J.H.
+  TITLE     The non-native freshwater fishes of Hong Kong: diversity,
+            distributions, and origins
+  JOURNAL   Raffles Bull Zool 71 (1), 128-168 (2023)
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Yau,S.-m.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-MAR-2023) Science Unit, Lingnan University, 8 Castle
+            Peak Road, Hong Kong 00000, Hong Kong
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Mugilogobius myxodermus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="LINGU:FISH 00056(2)"
+                     /db_xref="taxon:1243175"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 a
+//
+
+LOCUS       OR020028                   1 bp    DNA     linear   VRT 30-JUN-2023
+DEFINITION  Oreochromis niloticus isolate OREO11 small subunit ribosomal RNA
+            gene, partial sequence; mitochondrial.
+ACCESSION   OR020028 REGION: 1
+VERSION     OR020028.1
+KEYWORDS    .
+SOURCE      mitochondrion Oreochromis niloticus (Nile tilapia)
+  ORGANISM  Oreochromis niloticus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Ovalentaria; Cichlomorphae; Cichliformes;
+            Cichlidae; African cichlids; Pseudocrenilabrinae; Oreochromini;
+            Oreochromis.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Chauhan,A., Dolma,P., Patial,N. and Kadwalia,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-MAY-2023) zoology, Panjab University Chandigarh,
+            sector 14, Chandigarh, Chandigarh 160014, India
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oreochromis niloticus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="OREO11"
+                     /db_xref="taxon:8128"
+                     /geo_loc_name="India"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 c
+//
+
+LOCUS       OR475302                   1 bp    DNA     linear   VRT 25-SEP-2023
+DEFINITION  Anguilla marmorata mitochondrion, complete genome.
+ACCESSION   OR475302 REGION: 1
+VERSION     OR475302.1
+KEYWORDS    .
+SOURCE      mitochondrion Anguilla marmorata (giant mottled eel)
+  ORGANISM  Anguilla marmorata
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Anguilliformes;
+            Anguillidae; Anguilla.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Meng,Y., Song,Q.Y. and Li,X.T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (22-AUG-2023) University Of Hainan, University Of Hainan,
+            Hainan University, 58 Renmin Avenue, Renmin Street, Meilan
+            District, Haikou City, Hainan Province, Haikou, Hainan 570100,
+            China
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Anguilla marmorata"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:7939"
+                     /geo_loc_name="China: Hainan province,Lingshui"
+                     /collected_by="2022"
+     gene            >1
+                     /gene="trnF-ttc"
+     tRNA            >1
+                     /gene="trnF-ttc"
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       OR737854                   1 bp    DNA     linear   VRT 30-JUN-2024
+DEFINITION  Oreochromis niloticus isolate Ma_d_02_AT small subunit ribosomal
+            RNA gene, partial sequence; mitochondrial.
+ACCESSION   OR737854 REGION: 1
+VERSION     OR737854.1
+KEYWORDS    .
+SOURCE      mitochondrion Oreochromis niloticus (Nile tilapia)
+  ORGANISM  Oreochromis niloticus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Ovalentaria; Cichlomorphae; Cichliformes;
+            Cichlidae; African cichlids; Pseudocrenilabrinae; Oreochromini;
+            Oreochromis.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Carvalho,C.O., Pazirgiannidi,M., Ravelomanana,T.,
+            Andriambelomanana,F., Schroder-Nielsen,A., Ready,J.S., de Boer,H.,
+            Fusari,C.-E. and Mauvisseau,Q.
+  TITLE     Multi-method eDNA survey rediscovers critically endangered species
+            and strengthens Madagascar's freshwater fish conservation
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Carvalho,C.O., Pazirgiannidi,M., Ravelomanana,T.,
+            Andriambelomanana,F., Schroder-Nielsen,A., Ready,J.S., de Boer,H.,
+            Fusari,C.-E. and Mauvisseau,Q.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-OCT-2023) Natural History Museum, University of Oslo,
+            Sars' gate 1, Oslo, Oslo 0562, Norway
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oreochromis niloticus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="Ma_d_02_AT"
+                     /db_xref="taxon:8128"
+                     /geo_loc_name="Madagascar: Ambodibonara"
+                     /collection_date="13-Nov-2021"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       OR737855                   1 bp    DNA     linear   VRT 30-JUN-2024
+DEFINITION  Oreochromis niloticus isolate Ma_d_03_AT small subunit ribosomal
+            RNA gene, partial sequence; mitochondrial.
+ACCESSION   OR737855 REGION: 1
+VERSION     OR737855.1
+KEYWORDS    .
+SOURCE      mitochondrion Oreochromis niloticus (Nile tilapia)
+  ORGANISM  Oreochromis niloticus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Ovalentaria; Cichlomorphae; Cichliformes;
+            Cichlidae; African cichlids; Pseudocrenilabrinae; Oreochromini;
+            Oreochromis.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Carvalho,C.O., Pazirgiannidi,M., Ravelomanana,T.,
+            Andriambelomanana,F., Schroder-Nielsen,A., Ready,J.S., de Boer,H.,
+            Fusari,C.-E. and Mauvisseau,Q.
+  TITLE     Multi-method eDNA survey rediscovers critically endangered species
+            and strengthens Madagascar's freshwater fish conservation
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Carvalho,C.O., Pazirgiannidi,M., Ravelomanana,T.,
+            Andriambelomanana,F., Schroder-Nielsen,A., Ready,J.S., de Boer,H.,
+            Fusari,C.-E. and Mauvisseau,Q.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-OCT-2023) Natural History Museum, University of Oslo,
+            Sars' gate 1, Oslo, Oslo 0562, Norway
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oreochromis niloticus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="Ma_d_03_AT"
+                     /db_xref="taxon:8128"
+                     /geo_loc_name="Madagascar: Ampitamanatera"
+                     /collection_date="14-Nov-2021"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 c
+//
+

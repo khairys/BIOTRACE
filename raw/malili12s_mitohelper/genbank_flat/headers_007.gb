@@ -1,0 +1,1947 @@
+LOCUS       LC499126                   1 bp    DNA     linear   VRT 25-OCT-2019
+DEFINITION  Clarias batrachus KAUM:I:101952 mitochondrial gene for 12S rRNA,
+            partial sequence.
+ACCESSION   LC499126 REGION: 1
+VERSION     LC499126.1
+KEYWORDS    .
+SOURCE      mitochondrion Clarias batrachus (walking catfish)
+  ORGANISM  Clarias batrachus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi; Siluriformes;
+            Clariidae; Clarias.
+REFERENCE   1
+  AUTHORS   Miya,M., Sado,T. and Fukuchi,T.
+  TITLE     Reference data for MiFish metabarcoding analysis
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Miya,M., Sado,T. and Fukuchi,T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-SEP-2019) Contact:Masaki Miya Natural History Museum
+            & Institute, Chiba, Department of Ecology and Environmental
+            Sciences; 955-2 Aoba-cho, Chuo-ku, Chiba, Chiba 260-8682, Japan
+COMMENT     Reference data for MiFish metabarcoding analysis.
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Clarias batrachus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="KAUM:I:101952"
+                     /db_xref="taxon:59899"
+                     /PCR_primers="fwd_seq: gtcggtaaaactcgtgccagc, rev_seq:
+                     catagtggggtatctaatcccagtttg"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 c
+//
+
+LOCUS       LC499166                   1 bp    DNA     linear   VRT 25-OCT-2019
+DEFINITION  Dermogenys siamensis KAUM:I:101937 mitochondrial gene for 12S rRNA,
+            partial sequence.
+ACCESSION   LC499166 REGION: 1
+VERSION     LC499166.1
+KEYWORDS    .
+SOURCE      mitochondrion Dermogenys siamensis
+  ORGANISM  Dermogenys siamensis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Ovalentaria; Atherinomorphae; Beloniformes;
+            Zenarchopteridae; Dermogenys.
+REFERENCE   1
+  AUTHORS   Miya,M., Sado,T. and Fukuchi,T.
+  TITLE     Reference data for MiFish metabarcoding analysis
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Miya,M., Sado,T. and Fukuchi,T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-SEP-2019) Contact:Masaki Miya Natural History Museum
+            & Institute, Chiba, Department of Ecology and Environmental
+            Sciences; 955-2 Aoba-cho, Chuo-ku, Chiba, Chiba 260-8682, Japan
+COMMENT     Reference data for MiFish metabarcoding analysis.
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Dermogenys siamensis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="KAUM:I:101937"
+                     /db_xref="taxon:2067530"
+                     /PCR_primers="fwd_seq: gtcggtaaaactcgtgccagc, rev_seq:
+                     catagtggggtatctaatcccagtttg"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 c
+//
+
+LOCUS       LC499167                   1 bp    DNA     linear   VRT 25-OCT-2019
+DEFINITION  Dermogenys collettei KAUM:I:105026 mitochondrial gene for 12S rRNA,
+            partial sequence.
+ACCESSION   LC499167 REGION: 1
+VERSION     LC499167.1
+KEYWORDS    .
+SOURCE      mitochondrion Dermogenys collettei
+  ORGANISM  Dermogenys collettei
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Ovalentaria; Atherinomorphae; Beloniformes;
+            Zenarchopteridae; Dermogenys.
+REFERENCE   1
+  AUTHORS   Miya,M., Sado,T. and Fukuchi,T.
+  TITLE     Reference data for MiFish metabarcoding analysis
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Miya,M., Sado,T. and Fukuchi,T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-SEP-2019) Contact:Masaki Miya Natural History Museum
+            & Institute, Chiba, Department of Ecology and Environmental
+            Sciences; 955-2 Aoba-cho, Chuo-ku, Chiba, Chiba 260-8682, Japan
+COMMENT     Reference data for MiFish metabarcoding analysis.
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Dermogenys collettei"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="KAUM:I:105026"
+                     /db_xref="taxon:390321"
+                     /PCR_primers="fwd_seq: gtcggtaaaactcgtgccagc, rev_seq:
+                     catagtggggtatctaatcccagtttg"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 c
+//
+
+LOCUS       LC499492                   1 bp    DNA     linear   VRT 25-OCT-2019
+DEFINITION  Glossogobius aureus KAUM:I:98448 mitochondrial gene for 12S rRNA,
+            partial sequence.
+ACCESSION   LC499492 REGION: 1
+VERSION     LC499492.1
+KEYWORDS    .
+SOURCE      mitochondrion Glossogobius aureus (golden tank goby)
+  ORGANISM  Glossogobius aureus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Gobiaria; Gobiiformes; Gobioidei; Gobiidae;
+            Gobiinae; Glossogobius.
+REFERENCE   1
+  AUTHORS   Miya,M., Sado,T. and Fukuchi,T.
+  TITLE     Reference data for MiFish metabarcoding analysis
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Miya,M., Sado,T. and Fukuchi,T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-SEP-2019) Contact:Masaki Miya Natural History Museum
+            & Institute, Chiba, Department of Ecology and Environmental
+            Sciences; 955-2 Aoba-cho, Chuo-ku, Chiba, Chiba 260-8682, Japan
+COMMENT     Reference data for MiFish metabarcoding analysis.
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Glossogobius aureus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="KAUM:I:98448"
+                     /db_xref="taxon:443695"
+                     /PCR_primers="fwd_seq: gtcggtaaaactcgtgccagc, rev_seq:
+                     catagtggggtatctaatcccagtttg"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 c
+//
+
+LOCUS       LC499502                   1 bp    DNA     linear   VRT 25-OCT-2019
+DEFINITION  Glossogobius circumspectus KAUM:I:105023 mitochondrial gene for 12S
+            rRNA, partial sequence.
+ACCESSION   LC499502 REGION: 1
+VERSION     LC499502.1
+KEYWORDS    .
+SOURCE      mitochondrion Glossogobius circumspectus (circumspect goby)
+  ORGANISM  Glossogobius circumspectus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Gobiaria; Gobiiformes; Gobioidei; Gobiidae;
+            Gobiinae; Glossogobius.
+REFERENCE   1
+  AUTHORS   Miya,M., Sado,T. and Fukuchi,T.
+  TITLE     Reference data for MiFish metabarcoding analysis
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Miya,M., Sado,T. and Fukuchi,T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-SEP-2019) Contact:Masaki Miya Natural History Museum
+            & Institute, Chiba, Department of Ecology and Environmental
+            Sciences; 955-2 Aoba-cho, Chuo-ku, Chiba, Chiba 260-8682, Japan
+COMMENT     Reference data for MiFish metabarcoding analysis.
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Glossogobius circumspectus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="KAUM:I:105023"
+                     /db_xref="taxon:1238289"
+                     /PCR_primers="fwd_seq: gtcggtaaaactcgtgccagc, rev_seq:
+                     catagtggggtatctaatcccagtttg"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 c
+//
+
+LOCUS       LC499509                   1 bp    DNA     linear   VRT 11-SEP-2019
+DEFINITION  Glossogobius sp. KAUM:I:117597 mitochondrial gene for 12S rRNA,
+            partial sequence.
+ACCESSION   LC499509 REGION: 1
+VERSION     LC499509.1
+KEYWORDS    .
+SOURCE      mitochondrion Glossogobius sp. KAUM:I:117597
+  ORGANISM  Glossogobius sp. KAUM:I:117597
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Gobiaria; Gobiiformes; Gobioidei; Gobiidae;
+            Gobiinae; Glossogobius.
+REFERENCE   1
+  AUTHORS   Miya,M., Sado,T. and Fukuchi,T.
+  TITLE     Reference data for MiFish metabarcoding analysis
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Miya,M., Sado,T. and Fukuchi,T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-SEP-2019) Contact:Masaki Miya Natural History Museum
+            & Institute, Chiba, Department of Ecology and Environmental
+            Sciences; 955-2 Aoba-cho, Chuo-ku, Chiba, Chiba 260-8682, Japan
+COMMENT     Reference data for MiFish metabarcoding analysis.
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Glossogobius sp. KAUM:I:117597"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="KAUM:I:117597"
+                     /db_xref="taxon:2608493"
+                     /PCR_primers="fwd_seq: gtcggtaaaactcgtgccagc, rev_seq:
+                     catagtggggtatctaatcccagtttg"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 c
+//
+
+LOCUS       LC742177                   1 bp    DNA     linear   VRT 14-DEC-2022
+DEFINITION  Oryzias latipes IDEA_Fish410 mitochondrial gene for 12S rRNA,
+            partial sequence.
+ACCESSION   LC742177 REGION: 1
+VERSION     LC742177.1
+KEYWORDS    .
+SOURCE      mitochondrion Oryzias latipes (Japanese medaka)
+  ORGANISM  Oryzias latipes
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Ovalentaria; Atherinomorphae; Beloniformes;
+            Adrianichthyidae; Oryziinae; Oryzias.
+REFERENCE   1
+  AUTHORS   Nakamura,M., Souma,R. and Shirako,T.
+  TITLE     Reference data for MiFish metabarcoding analysis (PWRI eDNA
+            Project)
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Nakamura,M. and Souma,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-DEC-2022) Contact:Masatoshi Nakamura IDEA
+            Consultants, Inc.; 1334-5 Riemon, Yaizu, Shizuoka 4210212, Japan
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oryzias latipes"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="IDEA_Fish410"
+                     /db_xref="taxon:8090"
+                     /geo_loc_name="Japan: Saga, Saga city"
+                     /collection_date="2022-04-23"
+                     /collected_by="Yuhei Haramoto"
+                     /identified_by="Yuhei Haramoto"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       LC742194                   1 bp    DNA     linear   VRT 14-DEC-2022
+DEFINITION  Oryzias latipes IDEA_Fish434 mitochondrial gene for 12S rRNA,
+            partial sequence.
+ACCESSION   LC742194 REGION: 1
+VERSION     LC742194.1
+KEYWORDS    .
+SOURCE      mitochondrion Oryzias latipes (Japanese medaka)
+  ORGANISM  Oryzias latipes
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Ovalentaria; Atherinomorphae; Beloniformes;
+            Adrianichthyidae; Oryziinae; Oryzias.
+REFERENCE   1
+  AUTHORS   Nakamura,M., Souma,R. and Shirako,T.
+  TITLE     Reference data for MiFish metabarcoding analysis (PWRI eDNA
+            Project)
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Nakamura,M. and Souma,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-DEC-2022) Contact:Masatoshi Nakamura IDEA
+            Consultants, Inc.; 1334-5 Riemon, Yaizu, Shizuoka 4210212, Japan
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oryzias latipes"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="IDEA_Fish434"
+                     /db_xref="taxon:8090"
+                     /geo_loc_name="Japan: Saga"
+                     /collection_date="2022-06-05"
+                     /collected_by="Yuhei Haramoto"
+                     /identified_by="Yuhei Haramoto"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 c
+//
+
+LOCUS       LC743810                   1 bp    DNA     linear   VRT 20-DEC-2022
+DEFINITION  Oryzias latipes mitochondrial gene for 12S rRNA, partial sequence.
+ACCESSION   LC743810 REGION: 1
+VERSION     LC743810.1
+KEYWORDS    .
+SOURCE      mitochondrion Oryzias latipes (Japanese medaka)
+  ORGANISM  Oryzias latipes
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Ovalentaria; Atherinomorphae; Beloniformes;
+            Adrianichthyidae; Oryziinae; Oryzias.
+REFERENCE   1
+  AUTHORS   Sado,T., Fukuchi,T. and Miya,M.
+  TITLE     Reference data for MiFish metabarcoding analysis
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Sado,T., Fukuchi,T. and Miya,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (15-DEC-2022) Contact:Tetsuya Sado Natural History Museum
+            & Institute, Chiba; 955-2 Aoba-cho, Chuo-ku, Chiba, Chiba 260-8682,
+            Japan URL :http://www2.chiba-muse.or.jp/NATURAL/
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oryzias latipes"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8090"
+                     /geo_loc_name="Japan:Chiba, Isumi-gawa River"
+                     /collection_date="2017-04-28"
+                     /PCR_primers="fwd_name: MiFish-U-F, fwd_seq:
+                     gtcggtaaaactcgtgccagc, rev_name: MiFish-U-R, rev_seq:
+                     catagtggggtatctaatcccagtttg"
+                     /note="Japanese common name:minami-medaka"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 c
+//
+
+LOCUS       LC780122                   1 bp    DNA     linear   VRT 27-SEP-2023
+DEFINITION  Oryzias latipes 20230804-#01 mitochondrial gene for 12S rRNA,
+            partial sequence.
+ACCESSION   LC780122 REGION: 1
+VERSION     LC780122.1
+KEYWORDS    .
+SOURCE      mitochondrion Oryzias latipes (Japanese medaka)
+  ORGANISM  Oryzias latipes
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Ovalentaria; Atherinomorphae; Beloniformes;
+            Adrianichthyidae; Oryziinae; Oryzias.
+REFERENCE   1
+  AUTHORS   Sado,T., Fukuchi,T. and Miya,M.
+  TITLE     Reference data for MiFish metabarcoding analysis
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Sado,T., Fukuchi,T. and Miya,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-SEP-2023) Contact:Tetsuya Sado Natural History Museum
+            & Institute, Chiba; 955-2 Aoba-cho, Chuo-ku, Chiba, Chiba 260-8682,
+            Japan URL :http://www2.chiba-muse.or.jp/NATURAL/
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oryzias latipes"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="20230804-#01"
+                     /db_xref="taxon:8090"
+                     /geo_loc_name="Japan:Nagasaki, Nagasaki, Funakoshi"
+                     /collection_date="2023-08-24"
+                     /PCR_primers="fwd_name: MiFish-U-F, fwd_seq:
+                     gtcggtaaaactcgtgccagc, rev_name: MiFish-U-R, rev_seq:
+                     catagtggggtatctaatcccagtttg"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 c
+//
+
+LOCUS       CICMTRRNA                  1 bp    DNA     linear   VRT 03-AUG-1993
+DEFINITION  Cichlosoma citrinellum mitochondrion ribosomal RNA small subunit
+            gene, 3' end.
+ACCESSION   M87533 REGION: 1
+VERSION     M87533.1
+KEYWORDS    ribosomal RNA; ribosomal RNA small subunit.
+SOURCE      mitochondrion Amphilophus citrinellus (Midas cichlid)
+  ORGANISM  Amphilophus citrinellus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Ovalentaria; Cichlomorphae; Cichliformes;
+            Cichlidae; New World cichlids; Cichlasomatinae; Heroini;
+            Amphilophus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Meyer,A. and Dolven,S.I.
+  TITLE     Molecules, fossils, and the origin of tetrapods
+  JOURNAL   J. Mol. Evol. 35 (2), 102-113 (1992)
+   PUBMED   1501250
+COMMENT     Original source text: Mitochondrion Cichlosoma citrinellum
+            (organelle Mitochondrion Cichlosoma citrinellum) DNA.
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Amphilophus citrinellus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:61819"
+     rRNA            <1..>1
+ORIGIN      
+        1 g
+//
+
+LOCUS       MF537252                   1 bp    DNA     linear   VRT 04-OCT-2017
+DEFINITION  Mugilogobius myxodermus mitochondrion, complete genome.
+ACCESSION   MF537252 REGION: 1
+VERSION     MF537252.1
+KEYWORDS    .
+SOURCE      mitochondrion Mugilogobius myxodermus
+  ORGANISM  Mugilogobius myxodermus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Gobiaria; Gobiiformes; Gobioidei; Gobiidae;
+            Gobionellinae; Mugilogobius.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Cai,L., Huang,R. and Li,J.
+  TITLE     Complete mitochondrial genome and the phylogenetic position of the
+            Mugilogobius myxodermus, an endemic freshwater gobiid fish to China
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Cai,L., Huang,R. and Li,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (25-JUL-2017) Biotoxicity Evaluation Dept, Guangdong
+            Laboratory Animals Monitoring Institute, No. 11 Fengxin Road,
+            Hangpu District, Guangzhou, Guangdong 510663, China
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Mugilogobius myxodermus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:1243175"
+     tRNA            >1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       MF804538                   1 bp    DNA     linear   VRT 23-JAN-2018
+DEFINITION  Channa lucius mitochondrion, complete genome.
+ACCESSION   MF804538 REGION: 1
+VERSION     MF804538.1
+KEYWORDS    .
+SOURCE      mitochondrion Channa lucius
+  ORGANISM  Channa lucius
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Anabantaria; Anabantiformes; Channoidei;
+            Channidae; Channa.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Wen,Z.-Y.
+  TITLE     The complete mitochondrial genome of Channa siamensis
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Wen,Z.-Y.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (02-SEP-2017) College of Life Science, Neijiang Normal
+            University, No. 705, Dongtong Road, Neijiang, Sichuan 641100, China
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: mitoMaker v. 2.0
+            Sequencing Technology :: Illumina
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Channa lucius"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:64146"
+                     /note="organism submitted as Channa siamensis"
+     tRNA            >1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       MF924390                   1 bp    DNA     linear   VRT 30-JAN-2018
+DEFINITION  Channa gachua mitochondrion, complete genome.
+ACCESSION   MF924390 REGION: 1
+VERSION     MF924390.1
+KEYWORDS    .
+SOURCE      mitochondrion Channa gachua (dwarf snakehead)
+  ORGANISM  Channa gachua
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Anabantaria; Anabantiformes; Channoidei;
+            Channidae; Channa.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Wen,Z.-Y.
+  TITLE     The complete mitochondrial genome of Channa gachua
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Wen,Z.-Y.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-SEP-2017) College of Life Science, Neijiang Normal
+            University, No. 705, Dongtong Road, Neijiang, Sichuan 641100, China
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: mitoMaker v. 2.0
+            Sequencing Technology :: Illumina
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Channa gachua"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:33790"
+     tRNA            >1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       MG076892                   1 bp    DNA     linear   VRT 15-OCT-2017
+DEFINITION  Clarias macrocephalus isolate VN small subunit ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   MG076892 REGION: 1
+VERSION     MG076892.1
+KEYWORDS    .
+SOURCE      mitochondrion Clarias macrocephalus (bighead catfish)
+  ORGANISM  Clarias macrocephalus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi; Siluriformes;
+            Clariidae; Clarias.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Vu,Q.D., Truong,O.T., Thai,P.T., Tran,T.L. and Dang,B.T.
+  TITLE     MOLECULAR PHYLOGENY OF CATFISHES IN LOWER MEKONG RIVER BASIN USING
+            THE MITOCHONDRIAL GENES 16S rRNA AND COI
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Vu,Q.D., Truong,O.T., Thai,P.T., Tran,T.L. and Dang,B.T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-OCT-2017) Institute for Biotechnology and
+            Environment, Nha Trang University, 02 Nguyen Dinh Chieu, Nha Trang,
+            Khanh Hoa 0084, Viet Nam
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Clarias macrocephalus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="VN"
+                     /db_xref="taxon:35657"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 a
+//
+
+LOCUS       MG076893                   1 bp    DNA     linear   VRT 15-OCT-2017
+DEFINITION  Clarias batrachus isolate CA small subunit ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   MG076893 REGION: 1
+VERSION     MG076893.1
+KEYWORDS    .
+SOURCE      mitochondrion Clarias batrachus (walking catfish)
+  ORGANISM  Clarias batrachus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi; Siluriformes;
+            Clariidae; Clarias.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Vu,Q.D., Truong,O.T., Thai,P.T., Tran,T.L. and Dang,B.T.
+  TITLE     MOLECULAR PHYLOGENY OF CATFISHES IN LOWER MEKONG RIVER BASIN USING
+            THE MITOCHONDRIAL GENES 16S rRNA AND COI
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Vu,Q.D., Truong,O.T., Thai,P.T., Tran,T.L. and Dang,B.T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-OCT-2017) Institute for Biotechnology and
+            Environment, Nha Trang University, 02 Nguyen Dinh Chieu, Nha Trang,
+            Khanh Hoa 0084, Viet Nam
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Clarias batrachus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="CA"
+                     /db_xref="taxon:59899"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 a
+//
+
+LOCUS       MG076894                   1 bp    DNA     linear   VRT 15-OCT-2017
+DEFINITION  Clarias fuscus isolate VN small subunit ribosomal RNA gene, partial
+            sequence; mitochondrial.
+ACCESSION   MG076894 REGION: 1
+VERSION     MG076894.1
+KEYWORDS    .
+SOURCE      mitochondrion Clarias fuscus (whitespotted clarias)
+  ORGANISM  Clarias fuscus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi; Siluriformes;
+            Clariidae; Clarias.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Vu,Q.D., Truong,O.T., Thai,P.T., Tran,T.L. and Dang,B.T.
+  TITLE     MOLECULAR PHYLOGENY OF CATFISHES IN LOWER MEKONG RIVER BASIN USING
+            THE MITOCHONDRIAL GENES 16S rRNA AND COI
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Vu,Q.D., Truong,O.T., Thai,P.T., Tran,T.L. and Dang,B.T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-OCT-2017) Institute for Biotechnology and
+            Environment, Nha Trang University, 02 Nguyen Dinh Chieu, Nha Trang,
+            Khanh Hoa 0084, Viet Nam
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Clarias fuscus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="VN"
+                     /db_xref="taxon:33541"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 a
+//
+
+LOCUS       MG076903                   1 bp    DNA     linear   VRT 15-OCT-2017
+DEFINITION  Pterygoplichthys pardalis isolate VN small subunit ribosomal RNA
+            gene, partial sequence; mitochondrial.
+ACCESSION   MG076903 REGION: 1
+VERSION     MG076903.1
+KEYWORDS    .
+SOURCE      mitochondrion Pterygoplichthys pardalis (Amazon sailfin catfish)
+  ORGANISM  Pterygoplichthys pardalis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi; Siluriformes;
+            Loricariidae; Hypostominae; Pterygoplichthys.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Vu,Q.D., Truong,O.T., Thai,P.T., Tran,T.L. and Dang,B.T.
+  TITLE     MOLECULAR PHYLOGENY OF CATFISHES IN LOWER MEKONG RIVER BASIN USING
+            THE MITOCHONDRIAL GENES 16S rRNA AND COI
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Vu,Q.D., Truong,O.T., Thai,P.T., Tran,T.L. and Dang,B.T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-OCT-2017) Institute for Biotechnology and
+            Environment, Nha Trang University, 02 Nguyen Dinh Chieu, Nha Trang,
+            Khanh Hoa 0084, Viet Nam
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Pterygoplichthys pardalis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="VN"
+                     /db_xref="taxon:103477"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 a
+//
+
+LOCUS       MG603674                   1 bp    DNA     linear   VRT 08-MAY-2019
+DEFINITION  Oreochromis andersonii mitochondrion, complete genome.
+ACCESSION   MG603674 REGION: 1
+VERSION     MG603674.1
+KEYWORDS    .
+SOURCE      mitochondrion Oreochromis andersonii (three spotted tilapia)
+  ORGANISM  Oreochromis andersonii
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Ovalentaria; Cichlomorphae; Cichliformes;
+            Cichlidae; African cichlids; Pseudocrenilabrinae; Oreochromini;
+            Oreochromis.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Bbole,I., Zhao,J.L., Tang,S.J. and Katongo,C.
+  TITLE     Mitochondrial genome annotation and phylogenetic placement of
+            Oreochromis andersonii and O. macrochir among the cichlids of
+            southern Africa
+  JOURNAL   PLoS ONE 13 (11), e0203095 (2018)
+   PUBMED   30481181
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Bbole,I., Zhao,J.-L., Tang,S.-J. and Katongo,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-DEC-2017) Laboratory of Freshwater Fisheries
+            Germplasm Resource, Shanghai Ocean University, 999 Hucheng Ring
+            Road, Shanghai, Shanghai 201306, China
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: BioEdit v. 7.2.6
+            Sequencing Technology :: ABI 3730 x l capillary sequencer
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oreochromis andersonii"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolation_source="River"
+                     /db_xref="taxon:158894"
+                     /geo_loc_name="Zambia"
+                     /lat_lon="16.10 S 23.295 E"
+                     /collection_date="2017-03-28"
+     tRNA            >1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       MG603675                   1 bp    DNA     linear   VRT 08-MAY-2019
+DEFINITION  Oreochromis macrochir mitochondrion, complete genome.
+ACCESSION   MG603675 REGION: 1
+VERSION     MG603675.1
+KEYWORDS    .
+SOURCE      mitochondrion Oreochromis macrochir (longfin tilapia)
+  ORGANISM  Oreochromis macrochir
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Ovalentaria; Cichlomorphae; Cichliformes;
+            Cichlidae; African cichlids; Pseudocrenilabrinae; Oreochromini;
+            Oreochromis.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Bbole,I., Zhao,J.L., Tang,S.J. and Katongo,C.
+  TITLE     Mitochondrial genome annotation and phylogenetic placement of
+            Oreochromis andersonii and O. macrochir among the cichlids of
+            southern Africa
+  JOURNAL   PLoS ONE 13 (11), e0203095 (2018)
+   PUBMED   30481181
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Bbole,I., Zhao,J.-L., Tang,S.-J. and Katongo,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-DEC-2017) Laboratory of Freshwater Fisheries
+            Germplasm Resource, Shanghai Ocean University, 999 Hucheng Ring
+            Road, Shanghai, Shanghai 201306, China
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: BioEdit v. 7.2.6
+            Sequencing Technology :: ABI 3730 x l capillary sequencer
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oreochromis macrochir"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolation_source="lake"
+                     /db_xref="taxon:158766"
+                     /geo_loc_name="Zambia"
+                     /lat_lon="11.35 S 29.58 E"
+                     /collection_date="2017-03-03"
+     tRNA            >1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       MG644387                   1 bp    DNA     linear   VRT 20-FEB-2018
+DEFINITION  Clarias dussumieri mitochondrion, complete genome.
+ACCESSION   MG644387 REGION: 1
+VERSION     MG644387.1
+KEYWORDS    .
+SOURCE      mitochondrion Clarias dussumieri
+  ORGANISM  Clarias dussumieri
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi; Siluriformes;
+            Clariidae; Clarias.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Chandhini,S., Arjunan,V.M., Shin-Ichi,Y., Anvar-Ali,P.H. and
+            Rejish-Kumar,V.J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (28-NOV-2017) Department of Aquaculture, Kerala
+            University of Fisheries and Ocean Studies, Madavana, Panangad,
+            Kochi, Kerala 682506, India
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: I.V.A v. v.1.0.8
+            Sequencing Technology :: Illumina
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Clarias dussumieri"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:685904"
+     tRNA            >1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       MG755616                   1 bp    DNA     linear   VRT 14-JUL-2019
+DEFINITION  Pterygoplichthys etentaculatus isolate LGC0861 small subunit
+            ribosomal RNA gene, partial sequence; mitochondrial.
+ACCESSION   MG755616 REGION: 1
+VERSION     MG755616.1
+KEYWORDS    .
+SOURCE      mitochondrion Pterygoplichthys etentaculatus
+  ORGANISM  Pterygoplichthys etentaculatus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi; Siluriformes;
+            Loricariidae; Hypostominae; Pterygoplichthys.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Damasceno,J.S., Milan,D.T., Teixeira,D.F. and Carvalho,D.C.
+  TITLE     Environmental DNA 12S and COI markers for the Sao Francisco River
+            Basin (Brazil)
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Damasceno,J.S., Milan,D.T., Teixeira,D.F. and Carvalho,D.C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (04-JAN-2018) Laboratorio de Genetica da Conservacao -
+            Programa de Pos-Graduacao em Biologia de Vertebrados, Pontificia
+            Universidade Catolica de Minas Gerais - PUC Minas, Av. Dom Jose
+            Gaspar 500 - Predio 41 - Coracao Eucaristico, Belo Horizonte, Minas
+            Gerais 30535-610, Brazil
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Geneious v. 4.8.5
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Pterygoplichthys etentaculatus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="LGC0861"
+                     /db_xref="taxon:1053594"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 t
+//
+
+LOCUS       MG786481                   1 bp    DNA     linear   VRT 22-AUG-2018
+DEFINITION  Cyprinus carpio haematopterus isolate ZHL12 tRNA-Pro gene, partial
+            sequence; D-loop and tRNA-Phe gene, complete sequence; and 12S
+            ribosomal RNA gene, partial sequence; mitochondrial.
+ACCESSION   MG786481 REGION: 1
+VERSION     MG786481.1
+KEYWORDS    .
+SOURCE      mitochondrion Cyprinus carpio haematopterus (Amur carp)
+  ORGANISM  Cyprinus carpio haematopterus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Cyprinidae; Cyprininae; Cyprinus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Bai,Y., Dong,S., Wang,Y. and Kong,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-JAN-2018) College of Life Science, Tianjin Normal
+            University, No 393, Binshuixi Road, Xiqing, Tianjin, Tianjin
+            300387, China
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Cyprinus carpio haematopterus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="ZHL12"
+                     /db_xref="taxon:1045269"
+     tRNA            <1..>1
+                     /product="tRNA-Pro"
+ORIGIN      
+        1 t
+//
+
+LOCUS       MG786482                   1 bp    DNA     linear   VRT 22-AUG-2018
+DEFINITION  Cyprinus carpio specularis isolate HKL23 tRNA-Pro gene, partial
+            sequence; D-loop and tRNA-Phe gene, complete sequence; and 12S
+            ribosomal RNA gene, partial sequence; mitochondrial.
+ACCESSION   MG786482 REGION: 1
+VERSION     MG786482.1
+KEYWORDS    .
+SOURCE      mitochondrion Cyprinus carpio specularis
+  ORGANISM  Cyprinus carpio specularis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Cyprinidae; Cyprininae; Cyprinus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Bai,Y., Dong,S., Wang,Y. and Kong,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-JAN-2018) College of Life Science, Tianjin Normal
+            University, No 393, Binshuixi Road, Xiqing, Tianjin, Tianjin
+            300387, China
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Cyprinus carpio specularis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="HKL23"
+                     /db_xref="taxon:1628816"
+     tRNA            <1..>1
+                     /product="tRNA-Pro"
+ORIGIN      
+        1 t
+//
+
+LOCUS       MG786483                   1 bp    DNA     linear   VRT 22-AUG-2018
+DEFINITION  Cyprinus carpio isolate 2WK10 tRNA-Pro gene, partial sequence;
+            D-loop and tRNA-Phe gene, complete sequence; and 12S ribosomal RNA
+            gene, partial sequence; mitochondrial.
+ACCESSION   MG786483 REGION: 1
+VERSION     MG786483.1
+KEYWORDS    .
+SOURCE      mitochondrion Cyprinus carpio (common carp)
+  ORGANISM  Cyprinus carpio
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Cyprinidae; Cyprininae; Cyprinus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Bai,Y., Dong,S., Wang,Y. and Kong,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-JAN-2018) College of Life Science, Tianjin Normal
+            University, No 393, Binshuixi Road, Xiqing, Tianjin, Tianjin
+            300387, China
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Cyprinus carpio"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="2WK10"
+                     /db_xref="taxon:7962"
+     tRNA            <1..>1
+                     /product="tRNA-Pro"
+ORIGIN      
+        1 t
+//
+
+LOCUS       MG786484                   1 bp    DNA     linear   VRT 22-AUG-2018
+DEFINITION  Cyprinus carpio haematopterus isolate ZHL20 tRNA-Pro gene, partial
+            sequence; D-loop and tRNA-Phe gene, complete sequence; and 12S
+            ribosomal RNA gene, partial sequence; mitochondrial.
+ACCESSION   MG786484 REGION: 1
+VERSION     MG786484.1
+KEYWORDS    .
+SOURCE      mitochondrion Cyprinus carpio haematopterus (Amur carp)
+  ORGANISM  Cyprinus carpio haematopterus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Cyprinidae; Cyprininae; Cyprinus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Bai,Y., Dong,S., Wang,Y. and Kong,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-JAN-2018) College of Life Science, Tianjin Normal
+            University, No 393, Binshuixi Road, Xiqing, Tianjin, Tianjin
+            300387, China
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Cyprinus carpio haematopterus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="ZHL20"
+                     /db_xref="taxon:1045269"
+     tRNA            <1..>1
+                     /product="tRNA-Pro"
+ORIGIN      
+        1 t
+//
+
+LOCUS       MG786487                   1 bp    DNA     linear   VRT 22-AUG-2018
+DEFINITION  Cyprinus carpio haematopterus isolate ZHL11 tRNA-Pro gene, partial
+            sequence; D-loop and tRNA-Phe gene, complete sequence; and 12S
+            ribosomal RNA gene, partial sequence; mitochondrial.
+ACCESSION   MG786487 REGION: 1
+VERSION     MG786487.1
+KEYWORDS    .
+SOURCE      mitochondrion Cyprinus carpio haematopterus (Amur carp)
+  ORGANISM  Cyprinus carpio haematopterus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Cyprinidae; Cyprininae; Cyprinus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Bai,Y., Dong,S., Wang,Y. and Kong,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-JAN-2018) College of Life Science, Tianjin Normal
+            University, No 393, Binshuixi Road, Xiqing, Tianjin, Tianjin
+            300387, China
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Cyprinus carpio haematopterus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="ZHL11"
+                     /db_xref="taxon:1045269"
+     tRNA            <1..>1
+                     /product="tRNA-Pro"
+ORIGIN      
+        1 t
+//
+
+LOCUS       MG986721                   1 bp    DNA     linear   VRT 23-DEC-2018
+DEFINITION  Channa diplogramma mitochondrion, complete genome.
+ACCESSION   MG986721 REGION: 1
+VERSION     MG986721.1
+KEYWORDS    .
+SOURCE      mitochondrion Channa diplogramma (Malabar snakehead)
+  ORGANISM  Channa diplogramma
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Anabantaria; Anabantiformes; Channoidei;
+            Channidae; Channa.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Chandhini,S., Shin Ichi,Y. and Rejish Kumar,V.
+  TITLE     Complete mitogenome of Channa diplogramme
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Chandhini,S., Shin Ichi,Y. and Rejish Kumar,V.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (22-FEB-2018) Aquaculture, Kerala University of Fisheries
+            and Ocean Studies, Madavana, Kochi, Kerala 682506, India
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: IVA v. 1.0.8
+            Sequencing Technology :: Illumina
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Channa diplogramma"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:452081"
+     tRNA            >1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       MH050933                   1 bp    DNA     linear   VRT 26-DEC-2018
+DEFINITION  Anguilla japonica mitochondrion, complete genome.
+ACCESSION   MH050933 REGION: 1
+VERSION     MH050933.1
+KEYWORDS    .
+SOURCE      mitochondrion Anguilla japonica (Japanese eel)
+  ORGANISM  Anguilla japonica
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Anguilliformes;
+            Anguillidae; Anguilla.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Zhu,K., Gong,L., Jiang,L., Liu,L., Lue,Z. and Liu,B.-J.
+  TITLE     Phylogenetic analysis of the complete mitochondrial genome of
+            Anguilla japonica (Anguilliformes, Anguillidae)
+  JOURNAL   Mitochondrial DNA B Resour 3 (2), 536-537 (2018)
+  REMARK    DOI: 10.1080/23802359.2018.1467225
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Kehua,Z., Bingjian,L. and Zhenming,L.
+  CONSRTM   Zhejiang Ocean University
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-MAR-2018) Marine Science and Technology College,
+            Zhejiang Ocean University, No. 1 Haidanan Road, Zhoushan, Zhejiang
+            316022, China
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Anguilla japonica"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:7937"
+     tRNA            >1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       MH599071                   1 bp    DNA     linear   VRT 27-APR-2019
+DEFINITION  Cyprinus carpio x Megalobrama amblycephala mitochondrion, complete
+            genome.
+ACCESSION   MH599071 REGION: 1
+VERSION     MH599071.1
+KEYWORDS    .
+SOURCE      mitochondrion Cyprinus carpio x Megalobrama amblycephala
+  ORGANISM  Cyprinus carpio x Megalobrama amblycephala
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; unclassified Cyprinoidei.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Wang,S., Jiao,N., Zhou,P. and Liu,S.
+  TITLE     Unique mitochondrial genome inheritance in crucian carp-like
+            homodiploid fish
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Wang,S., Jiao,N., Zhou,P. and Liu,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-JUL-2018) State Key Laboratory of Developmental
+            Biology of Freshwater Fish, Hunan Normal University, Changsha,
+            Hunan 410081, China
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Cyprinus carpio x Megalobrama amblycephala"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:2570877"
+     D-loop          >1
+ORIGIN      
+        1 g
+//
+
+LOCUS       MH918124                   1 bp    DNA     linear   VRT 22-SEP-2018
+DEFINITION  Cyprinus carpio isolate CC_EVO1 small subunit ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   MH918124 REGION: 1
+VERSION     MH918124.1
+KEYWORDS    .
+SOURCE      mitochondrion Cyprinus carpio (common carp)
+  ORGANISM  Cyprinus carpio
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Cyprinidae; Cyprininae; Cyprinus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Hanfling,B., Lawson Handley,L., Read,D.S., Hahn,C., Li,J.,
+            Nichols,P., Blackman,R.C., Oliver,A. and Winfield,I.J.
+  TITLE     Environmental DNA metabarcoding of lake fish communities reflects
+            long-term data from established survey methods
+  JOURNAL   Mol. Ecol. 25 (13), 3101-3119 (2016)
+   PUBMED   27095076
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Li,J., Lawson Handley,L.J. and Haenfling,B.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (17-SEP-2018) Department of Biology, University of Hull,
+            Cottingham Road, Hull, East Yorkshire HU6 7RX, United Kingdom
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Cyprinus carpio"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="CC_EVO1"
+                     /isolation_source="Fin clip"
+                     /db_xref="taxon:7962"
+                     /geo_loc_name="United Kingdom"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       MK007075                   1 bp    DNA     linear   VRT 08-APR-2019
+DEFINITION  Channa punctata mitochondrion, complete genome.
+ACCESSION   MK007075 REGION: 1
+VERSION     MK007075.1
+KEYWORDS    .
+SOURCE      mitochondrion Channa punctata (spotted snakehead)
+  ORGANISM  Channa punctata
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Anabantaria; Anabantiformes; Channoidei;
+            Channidae; Channa.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Alam,M.J., Andriyono,S., Sektiana,S.P., Rahman,M.M. and Kim,H.-W.
+  TITLE     The molecular characterization of complete mitochondrial genome of
+            spotted snakehead fish, Channa punctata (Bloch 1793)
+  JOURNAL   Mitochondrial DNA B Resour 4 (1), 547-548 (2019)
+  REMARK    DOI: 10.1080/23802359.2018.1553520
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Alam,M.J., Andriyono,S. and Kim,H.-W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (01-OCT-2018) Department of Interdisciplinary Program of
+            Biomedical, Mechanical and Electrical Engineering, Pukyong National
+            University, Namgu, Yongso-ro 45, Busan 48513, Republic of Korea
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Geneious v. 11.0.2
+            Sequencing Technology :: Illumina
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Channa punctata"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:304456"
+     tRNA            >1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       MK034755                   1 bp    DNA     linear   VRT 29-JUN-2019
+DEFINITION  Dermogenys pusilla mitochondrion, complete genome.
+ACCESSION   MK034755 REGION: 1
+VERSION     MK034755.1
+KEYWORDS    .
+SOURCE      mitochondrion Dermogenys pusilla (wrestling halfbeak)
+  ORGANISM  Dermogenys pusilla
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Ovalentaria; Atherinomorphae; Beloniformes;
+            Zenarchopteridae; Dermogenys.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Liu,Y., Meng,F., Yin,X., Huang,Y., Zhu,K., Zhang,J., Jing,F.,
+            Xia,L. and Liu,B.
+  TITLE     The complete mitochondrial genome of Dermogenys pusilla
+            (Beloniformes: Hemiramphidae) and phylogenetic studies of
+            Beloniformes
+  JOURNAL   Mitochondrial DNA B Resour 4 (1), 1888-1889 (2019)
+  REMARK    DOI: 10.1080/23802359.2019.1612715
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Huang,Y. and Liu,Y.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-OCT-2018) Marine Science and Technology College,
+            Zhejiang Ocean University, No. 1 Haidanan Road, Zhoushan, Zhejiang
+            316022, China
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Dermogenys pusilla"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:207619"
+     tRNA            >1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       MK085972                   1 bp    DNA     linear   VRT 03-JUL-2019
+DEFINITION  Cyprinus carpio x Megalobrama amblycephala isolate F2
+            mitochondrion, complete genome.
+ACCESSION   MK085972 REGION: 1
+VERSION     MK085972.1
+KEYWORDS    .
+SOURCE      mitochondrion Cyprinus carpio x Megalobrama amblycephala
+  ORGANISM  Cyprinus carpio x Megalobrama amblycephala
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; unclassified Cyprinoidei.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Wang,S., Jiao,N., Zhao,L., Zhang,M., Zhou,P., Huang,X., Hu,F.,
+            Yang,C., Shu,Y., Li,W., Zhang,C., Tao,M., Chen,B., Ma,M. and Liu,S.
+  TITLE     Evidence for the paternal mitochondrial DNA in the crucian
+            carp-like fish lineage with hybrid origin
+  JOURNAL   Sci China Life Sci (2019) In press
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Wang,S., Jiao,N. and Liu,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-OCT-2018) State Key Laboratory of Developmental
+            Biology of Freshwater Fish, Hunan Normal University, Lushan Road
+            36, Changsha, Hunan 410081, China
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: BioEdit v. 5.0.6
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Cyprinus carpio x Megalobrama amblycephala"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="F2"
+                     /db_xref="taxon:2570877"
+     D-loop          >1
+ORIGIN      
+        1 g
+//
+
+LOCUS       MK134852                   1 bp    DNA     linear   VRT 15-OCT-2019
+DEFINITION  Cyprinus carpio (triploid) mitochondrion, complete genome.
+ACCESSION   MK134852 REGION: 1
+VERSION     MK134852.1
+KEYWORDS    .
+SOURCE      mitochondrion Cyprinus carpio (triploid)
+  ORGANISM  Cyprinus carpio (triploid)
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Cyprinidae; Cyprininae; Cyprinus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Xue,S.Q., Li,C.T., Han,Y. and Shi,L.Y.
+  TITLE     Complete mitochondrial genome of Cyprinus carpio triploid
+  JOURNAL   Mitochondrial DNA B Resour 4 (1), 1072-1073 (2019)
+  REMARK    DOI: 10.1080/23802359.2019.1586460
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Xue,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-NOV-2018) Heilongjiang River Fishery Research
+            Institute, Chinese Academy of Fishery Science, Harbin, Heilongjiang
+            150070, China
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Cexpress v. 9.0
+            Sequencing Technology :: 454
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Cyprinus carpio (triploid)"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:2653404"
+     tRNA            >1
+                     /product="tRNA-Phe"
+                     /note="codon recognized: UUC"
+ORIGIN      
+        1 g
+//
+
+LOCUS       MK291479                   1 bp    DNA     linear   VRT 24-FEB-2020
+DEFINITION  Cyprinus carpio 'Guilin' isolate Guilin mitochondrion, complete
+            genome.
+ACCESSION   MK291479 REGION: 1
+VERSION     MK291479.1
+KEYWORDS    .
+SOURCE      mitochondrion Cyprinus carpio 'Guilin'
+  ORGANISM  Cyprinus carpio 'Guilin'
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Cyprinidae; Cyprininae; Cyprinus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Ma,D.-M., Fan,J.-J., Zhu,H.-P. and Huang,Z.-H.
+  TITLE     The complete mitochondrial genome of Cyprinus Carpio Var. Guilin
+            rice flower carp and its phylogeny in Cyprinidae
+  JOURNAL   Mitochondrial DNA B Resour 4 (1), 1253-1254 (2019)
+  REMARK    DOI: 10.1080/23802359.2019.1591177
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Ma,D., Fan,J., Zhu,H. and Huang,Z.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-DEC-2018) Division of Aquaculture and Nutrition
+            Department, Pearl River Fisheries Research Institute, No. 1, Xingyu
+            Road, Guangzhou, Guangdong 510380, China
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: SOAPaligner/soap v. 2
+            Sequencing Technology :: Illumina
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Cyprinus carpio 'Guilin'"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="Guilin"
+                     /db_xref="taxon:2709802"
+     tRNA            >1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       MK371068                   1 bp    DNA     linear   VRT 24-FEB-2020
+DEFINITION  Channa gachua mitochondrion, complete genome.
+ACCESSION   MK371068 REGION: 1
+VERSION     MK371068.1
+KEYWORDS    .
+SOURCE      mitochondrion Channa gachua (dwarf snakehead)
+  ORGANISM  Channa gachua
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Anabantaria; Anabantiformes; Channoidei;
+            Channidae; Channa.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Zhou,J., Deng,Y. and Zhou,G.
+  TITLE     The mitochondrial genome of dwarf snakehead Channa gachua
+            (Perciformes: Channidae) and phylogenetic analysis
+  JOURNAL   Mitochondrial DNA B Resour 4 (1), 1146-1147 (2019)
+  REMARK    DOI: 10.1080/23802359.2019.1591191
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Zhou,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (04-JAN-2019) Crab Research Center, Freshwater Fisheries
+            Research of Jiangsu Province, No. 79 East Chating Street, Nanjing,
+            Jiangsu Province 210017, China
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Channa gachua"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:33790"
+     tRNA            >1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       MK455071                   1 bp    DNA     linear   VRT 31-OCT-2021
+DEFINITION  Cyprinus carpio haematopterus mitochondrion, complete genome.
+ACCESSION   MK455071 REGION: 1
+VERSION     MK455071.1
+KEYWORDS    .
+SOURCE      mitochondrion Cyprinus carpio haematopterus (Amur carp)
+  ORGANISM  Cyprinus carpio haematopterus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Cyprinidae; Cyprininae; Cyprinus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Wang,Y. and Liu,S.
+  CONSRTM   State Key Laboratory for Developmental Biology of Freshwater Fishes
+  TITLE     Mitochondrial genome changes provide evidence for goldfish-like
+            fish formation
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Wang,Y. and Liu,S.
+  CONSRTM   State Key Laboratory for Developmental Biology of Freshwater Fishes
+  TITLE     Direct Submission
+  JOURNAL   Submitted (28-JAN-2019) State Key Laboratory for Developmental
+            Biology of Freshwater Fishes, College of life Sciences, Hunan
+            Normal University, Lushan Road, Changsha, Hunan 410081, China
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: NTI Advance v. 10.0.1
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Cyprinus carpio haematopterus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:1045269"
+     tRNA            >1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       MK658748                   1 bp    DNA     linear   VRT 20-JUN-2020
+DEFINITION  UNVERIFIED: Cyprinus carpio haematopterus x Megalobrama
+            amblycephala mitochondrion sequence.
+ACCESSION   MK658748 REGION: 1
+VERSION     MK658748.1
+KEYWORDS    UNVERIFIED.
+SOURCE      mitochondrion Cyprinus carpio haematopterus x Megalobrama
+            amblycephala
+  ORGANISM  Cyprinus carpio haematopterus x Megalobrama amblycephala
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; unclassified Cyprinoidei.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Wang,Y., Tan,H., Zhang,M., Zhao,R., Wang,S., Qin,Q., Wang,J.,
+            Zhang,C., Tao,M., Ma,M., Chen,B. and Liu,S.
+  TITLE     The Hybrid Genome of a New Goldfish-Like Fish Lineage Provides
+            Insights Into the Origin of the Goldfish
+  JOURNAL   Front Genet 11, 122 (2020)
+   PUBMED   32194618
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Wang,Y. and Liu,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-MAR-2019) College of Life Sciences, State Key
+            Laboratory for Developmental Biology of Freshwater Fishes, Lushan
+            Road 36, Changsha, Hunan 410081, China
+COMMENT     GenBank staff is unable to verify sequence and/or annotation
+            provided by the submitter.
+            
+            ##Assembly-Data-START##
+            Assembly Method       :: NTI Advance v. 10.0.1
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Cyprinus carpio haematopterus x Megalobrama
+                     amblycephala"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:2488307"
+     tRNA            >1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       MK726305                   1 bp    DNA     linear   VRT 20-JUN-2020
+DEFINITION  Cyprinus carpio haematopterus x Megalobrama amblycephala isolate
+            20190127 mitochondrion, complete genome.
+ACCESSION   MK726305 REGION: 1
+VERSION     MK726305.1
+KEYWORDS    .
+SOURCE      mitochondrion Cyprinus carpio haematopterus x Megalobrama
+            amblycephala
+  ORGANISM  Cyprinus carpio haematopterus x Megalobrama amblycephala
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; unclassified Cyprinoidei.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Wang,Y., Tan,H., Zhang,M., Zhao,R., Wang,S., Qin,Q., Wang,J.,
+            Zhang,C., Tao,M., Ma,M., Chen,B. and Liu,S.
+  TITLE     The Hybrid Genome of a New Goldfish-Like Fish Lineage Provides
+            Insights Into the Origin of the Goldfish
+  JOURNAL   Front Genet 11, 122 (2020)
+   PUBMED   32194618
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Wang,Y. and Liu,S.
+  CONSRTM   State Key Laboratory of Developmental Biology of Freshwater Fish
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-MAR-2019) State Key Laboratory of Developmental
+            Biology of Freshwater Fish, College of Life Sciences, Hunan Normal
+            University, Lushan Road 36, Changsha, Hunan 410081, China
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: NTI Advance v. 10.0.1
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Cyprinus carpio haematopterus x Megalobrama
+                     amblycephala"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="20190127"
+                     /db_xref="taxon:2488307"
+     tRNA            >1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       MK726306                   1 bp    DNA     linear   VRT 20-JUN-2020
+DEFINITION  UNVERIFIED: Cyprinus carpio haematopterus x Megalobrama
+            amblycephala mitochondrion sequence.
+ACCESSION   MK726306 REGION: 1
+VERSION     MK726306.1
+KEYWORDS    UNVERIFIED.
+SOURCE      mitochondrion Cyprinus carpio haematopterus x Megalobrama
+            amblycephala
+  ORGANISM  Cyprinus carpio haematopterus x Megalobrama amblycephala
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; unclassified Cyprinoidei.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Wang,Y. and Liu,S.
+  CONSRTM   State Key Laboratory for Developmental Biology of Freshwater Fishes
+  TITLE     Direct Submission
+  JOURNAL   Submitted (28-MAR-2019) State Key Laboratory for Developmental
+            Biology of Freshwater Fishes, College of Life Sciences, Hunan
+            Normal University, Lushan, Changsha, Hunan 410081, China
+COMMENT     GenBank staff is unable to verify sequence and/or annotation
+            provided by the submitter.
+            
+            ##Assembly-Data-START##
+            Assembly Method       :: NTI Advance v. 10.0.1
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Cyprinus carpio haematopterus x Megalobrama
+                     amblycephala"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="GF-L"
+                     /db_xref="taxon:2488307"
+     tRNA            >1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       MK726307                   1 bp    DNA     linear   VRT 20-JUN-2020
+DEFINITION  UNVERIFIED: Cyprinus carpio haematopterus x Megalobrama
+            amblycephala mitochondrion sequence.
+ACCESSION   MK726307 REGION: 1
+VERSION     MK726307.1
+KEYWORDS    UNVERIFIED.
+SOURCE      mitochondrion Cyprinus carpio haematopterus x Megalobrama
+            amblycephala
+  ORGANISM  Cyprinus carpio haematopterus x Megalobrama amblycephala
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; unclassified Cyprinoidei.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Wang,Y. and Liu,S.
+  TITLE     Mitochondrial genome changes provide evidence for the hybrid origin
+            of the goldfish
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Wang,Y. and Liu,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (01-APR-2019) State Key Laboratory for Developmental
+            Biology of Freshwater Fishes, College of Life, Lushan Road,
+            Changsha, Hunan 0731-88873074, China
+COMMENT     GenBank staff is unable to verify sequence and/or annotation
+            provided by the submitter.
+            
+            ##Assembly-Data-START##
+            Assembly Method       :: NTI v. Advance v.10.0.1
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Cyprinus carpio haematopterus x Megalobrama
+                     amblycephala"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="GF-L-F2"
+                     /db_xref="taxon:2488307"
+     tRNA            >1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       MK951678                   1 bp    DNA     linear   VRT 12-JAN-2020
+DEFINITION  Oreochromis tanganicae mitochondrion, complete genome.
+ACCESSION   MK951678 REGION: 1
+VERSION     MK951678.1
+KEYWORDS    .
+SOURCE      mitochondrion Oreochromis tanganicae
+  ORGANISM  Oreochromis tanganicae
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Ovalentaria; Cichlomorphae; Cichliformes;
+            Cichlidae; African cichlids; Pseudocrenilabrinae; Oreochromini;
+            Oreochromis.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Bbole,I., Zhao,J., Tang,S. and Katongo,C.
+  TITLE     Fish invasion in Southern African inland waters: Conservation
+            concerns for Oreochromis tanganicae, an endemic species of Lake
+            Tanganyika
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Bbole,I., Zhao,J., Tang,S. and Katongo,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-MAY-2019) Laboratory of Freshwater Fisheries
+            Germplasm Resource, Shanghai Ocean University, 999 Hucheng Ring
+            Road, Shanghai, Shanghai 201306, China
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: BioEdit v. 7.2.6
+            Sequencing Technology :: ABI 3730 x l capillary sequencer
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oreochromis tanganicae"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8142"
+                     /geo_loc_name="Zambia"
+     tRNA            >1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       MN057422                   1 bp    DNA     linear   VRT 19-NOV-2019
+DEFINITION  Channa asiatica isolate LR2285 contains 12S small subunit ribosomal
+            RNA, tRNA-Val, and 16S large subunit ribosomal RNA gene, partial
+            sequence; mitochondrial.
+ACCESSION   MN057422 REGION: 1
+VERSION     MN057422.1
+KEYWORDS    .
+SOURCE      mitochondrion Channa asiatica (small snakehead)
+  ORGANISM  Channa asiatica
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Anabantaria; Anabantiformes; Channoidei;
+            Channidae; Channa.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Ruber,L., Tan,H.H. and Britz,R.
+  TITLE     Snakehead (Teleostei: Channidae) diversity and the Eastern Himalaya
+            biodiversity hotspot
+  JOURNAL   J. Zoolog. Syst. Evol. Res. (2019) In press
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Ruber,L., Tan,H.H. and Britz,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-JUN-2019) Naturhistorisches Museum Bern, Bernastrasse
+            15, Bern 3005, Switzerland
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Geneious v. 9
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Channa asiatica"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="LR2285"
+                     /specimen_voucher="NMBE 1077554"
+                     /db_xref="taxon:188929"
+     misc_RNA        <1..>1
+                     /note="contains 12S small subunit ribosomal RNA, tRNA-Val,
+                     and 16S large subunit ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       MN057423                   1 bp    DNA     linear   VRT 19-NOV-2019
+DEFINITION  Channa asiatica isolate LR2305 contains 12S small subunit ribosomal
+            RNA, tRNA-Val, and 16S large subunit ribosomal RNA gene, partial
+            sequence; mitochondrial.
+ACCESSION   MN057423 REGION: 1
+VERSION     MN057423.1
+KEYWORDS    .
+SOURCE      mitochondrion Channa asiatica (small snakehead)
+  ORGANISM  Channa asiatica
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Anabantaria; Anabantiformes; Channoidei;
+            Channidae; Channa.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Ruber,L., Tan,H.H. and Britz,R.
+  TITLE     Snakehead (Teleostei: Channidae) diversity and the Eastern Himalaya
+            biodiversity hotspot
+  JOURNAL   J. Zoolog. Syst. Evol. Res. (2019) In press
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Ruber,L., Tan,H.H. and Britz,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-JUN-2019) Naturhistorisches Museum Bern, Bernastrasse
+            15, Bern 3005, Switzerland
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Geneious v. 9
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Channa asiatica"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="LR2305"
+                     /specimen_voucher="NMBE 1077555"
+                     /db_xref="taxon:188929"
+     misc_RNA        <1..>1
+                     /note="contains 12S small subunit ribosomal RNA, tRNA-Val,
+                     and 16S large subunit ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       MN057426                   1 bp    DNA     linear   VRT 19-NOV-2019
+DEFINITION  Channa auroflammea isolate LR2311 contains 12S small subunit
+            ribosomal RNA, tRNA-Val, and 16S large subunit ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   MN057426 REGION: 1
+VERSION     MN057426.1
+KEYWORDS    .
+SOURCE      mitochondrion Channa auroflammea
+  ORGANISM  Channa auroflammea
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Anabantaria; Anabantiformes; Channoidei;
+            Channidae; Channa.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Ruber,L., Tan,H.H. and Britz,R.
+  TITLE     Snakehead (Teleostei: Channidae) diversity and the Eastern Himalaya
+            biodiversity hotspot
+  JOURNAL   J. Zoolog. Syst. Evol. Res. (2019) In press
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Ruber,L., Tan,H.H. and Britz,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-JUN-2019) Naturhistorisches Museum Bern, Bernastrasse
+            15, Bern 3005, Switzerland
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Geneious v. 9
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Channa auroflammea"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="LR2311"
+                     /specimen_voucher="NMBE 1077558"
+                     /db_xref="taxon:2562306"
+     misc_RNA        <1..>1
+                     /note="contains 12S small subunit ribosomal RNA, tRNA-Val,
+                     and 16S large subunit ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       MN057442                   1 bp    DNA     linear   VRT 19-NOV-2019
+DEFINITION  Channa bipuli isolate LR0890 contains 12S small subunit ribosomal
+            RNA, tRNA-Val, and 16S large subunit ribosomal RNA gene, partial
+            sequence; mitochondrial.
+ACCESSION   MN057442 REGION: 1
+VERSION     MN057442.1
+KEYWORDS    .
+SOURCE      mitochondrion Channa bipuli
+  ORGANISM  Channa bipuli
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Anabantaria; Anabantiformes; Channoidei;
+            Channidae; Channa.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Ruber,L., Tan,H.H. and Britz,R.
+  TITLE     Snakehead (Teleostei: Channidae) diversity and the Eastern Himalaya
+            biodiversity hotspot
+  JOURNAL   J. Zoolog. Syst. Evol. Res. (2019) In press
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Ruber,L., Tan,H.H. and Britz,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-JUN-2019) Naturhistorisches Museum Bern, Bernastrasse
+            15, Bern 3005, Switzerland
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Geneious v. 9
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Channa bipuli"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="LR0890"
+                     /specimen_voucher="NMBE 1077517"
+                     /db_xref="taxon:2489525"
+     misc_RNA        <1..>1
+                     /note="contains 12S small subunit ribosomal RNA, tRNA-Val,
+                     and 16S large subunit ribosomal RNA"
+ORIGIN      
+        1 t
+//
+
+LOCUS       MN057444                   1 bp    DNA     linear   VRT 19-NOV-2019
+DEFINITION  Channa bipuli isolate LR1345 contains 12S small subunit ribosomal
+            RNA, tRNA-Val, and 16S large subunit ribosomal RNA gene, partial
+            sequence; mitochondrial.
+ACCESSION   MN057444 REGION: 1
+VERSION     MN057444.1
+KEYWORDS    .
+SOURCE      mitochondrion Channa bipuli
+  ORGANISM  Channa bipuli
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Anabantaria; Anabantiformes; Channoidei;
+            Channidae; Channa.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Ruber,L., Tan,H.H. and Britz,R.
+  TITLE     Snakehead (Teleostei: Channidae) diversity and the Eastern Himalaya
+            biodiversity hotspot
+  JOURNAL   J. Zoolog. Syst. Evol. Res. (2019) In press
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Ruber,L., Tan,H.H. and Britz,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-JUN-2019) Naturhistorisches Museum Bern, Bernastrasse
+            15, Bern 3005, Switzerland
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Geneious v. 9
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Channa bipuli"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="LR1345"
+                     /specimen_voucher="NMBE 1077519"
+                     /db_xref="taxon:2489525"
+     misc_RNA        <1..>1
+                     /note="contains 12S small subunit ribosomal RNA, tRNA-Val,
+                     and 16S large subunit ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       MN057445                   1 bp    DNA     linear   VRT 19-NOV-2019
+DEFINITION  Channa bleheri isolate LR2280 contains 12S small subunit ribosomal
+            RNA, tRNA-Val, and 16S large subunit ribosomal RNA gene, partial
+            sequence; mitochondrial.
+ACCESSION   MN057445 REGION: 1
+VERSION     MN057445.1
+KEYWORDS    .
+SOURCE      mitochondrion Channa bleheri (rainbow snakehead)
+  ORGANISM  Channa bleheri
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Anabantaria; Anabantiformes; Channoidei;
+            Channidae; Channa.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Ruber,L., Tan,H.H. and Britz,R.
+  TITLE     Snakehead (Teleostei: Channidae) diversity and the Eastern Himalaya
+            biodiversity hotspot
+  JOURNAL   J. Zoolog. Syst. Evol. Res. (2019) In press
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Ruber,L., Tan,H.H. and Britz,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-JUN-2019) Naturhistorisches Museum Bern, Bernastrasse
+            15, Bern 3005, Switzerland
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Geneious v. 9
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Channa bleheri"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="LR2280"
+                     /specimen_voucher="NMBE 1077521"
+                     /db_xref="taxon:304452"
+     misc_RNA        <1..>1
+                     /note="contains 12S small subunit ribosomal RNA, tRNA-Val,
+                     and 16S large subunit ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       MN057446                   1 bp    DNA     linear   VRT 19-NOV-2019
+DEFINITION  Channa bleheri isolate LR2508 contains 12S small subunit ribosomal
+            RNA, tRNA-Val, and 16S large subunit ribosomal RNA gene, partial
+            sequence; mitochondrial.
+ACCESSION   MN057446 REGION: 1
+VERSION     MN057446.1
+KEYWORDS    .
+SOURCE      mitochondrion Channa bleheri (rainbow snakehead)
+  ORGANISM  Channa bleheri
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Anabantaria; Anabantiformes; Channoidei;
+            Channidae; Channa.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Ruber,L., Tan,H.H. and Britz,R.
+  TITLE     Snakehead (Teleostei: Channidae) diversity and the Eastern Himalaya
+            biodiversity hotspot
+  JOURNAL   J. Zoolog. Syst. Evol. Res. (2019) In press
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Ruber,L., Tan,H.H. and Britz,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-JUN-2019) Naturhistorisches Museum Bern, Bernastrasse
+            15, Bern 3005, Switzerland
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Geneious v. 9
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Channa bleheri"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="LR2508"
+                     /specimen_voucher="NMBE 1077522"
+                     /db_xref="taxon:304452"
+     misc_RNA        <1..>1
+                     /note="contains 12S small subunit ribosomal RNA, tRNA-Val,
+                     and 16S large subunit ribosomal RNA"
+ORIGIN      
+        1 c
+//
+

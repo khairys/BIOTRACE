@@ -1,0 +1,25 @@
+species_valid,waterbody_id,pathway,first_record_year,source_id
+Anabas testudineus,MAHALONA,tidak_diketahui,,SRC_HERDER2012
+Channa striata,MASAPI,tebar_benih,,SRC_HERDER2012
+Anabas testudineus,MATANO,tidak_diketahui,,SRC_HERDER2012;SRC_TANTU2007
+Aplocheilus panchax,MATANO,tidak_diketahui,,SRC_HERDER2012;SRC_TANTU2007
+Carassius auratus,MATANO,tidak_diketahui,,SRC_TANTU2007
+Channa striata,MATANO,tebar_benih,,SRC_HERDER2012;SRC_TANTU2007
+Clarias batrachus,MATANO,tebar_benih,,SRC_HERDER2012;SRC_TANTU2007
+Clarias gariepinus,MATANO,tidak_diketahui,,SRC_TANTU2007
+Colossoma macropomum,MATANO,tidak_diketahui,,SRC_HERDER2012
+Cyprinus carpio,MATANO,tidak_diketahui,,SRC_HERDER2012;SRC_TANTU2007
+Lyposarcus pardalis,MATANO,tidak_diketahui,,SRC_TANTU2007
+Ophisternon cf. bengalense,MATANO,tidak_diketahui,,SRC_HERDER2012
+Oreochromis mossambicus,MATANO,budidaya,,SRC_HERDER2012;SRC_TANTU2007
+Oreochromis niloticus,MATANO,tidak_diketahui,,SRC_TANTU2007
+Poecilia reticulata,MATANO,tidak_diketahui,,SRC_HERDER2012;SRC_TANTU2007
+Pseudotropheus cyaneorhabdos,MATANO,tidak_diketahui,,SRC_HERDER2012
+Pterygoplichthys cf. pardalis,MATANO,tidak_diketahui,2012,SRC_HERDER2012
+Trichogaster leerii,MATANO,tidak_diketahui,,SRC_TANTU2007
+Trichopodus pectoralis,MATANO,tidak_diketahui,,SRC_HERDER2012;SRC_TANTU2007
+Trichopodus trichopterus,MATANO,tidak_diketahui,,SRC_HERDER2012
+alias:louhan_hybrid,MATANO,ikan_hias,,SRC_HERDER2012;SRC_TANTU2007
+Anabas testudineus,TOWUTI,tidak_diketahui,,SRC_HERDER2012
+Ophisternon cf. bengalense,TOWUTI,tidak_diketahui,,SRC_HERDER2012
+Trichopodus trichopterus,TOWUTI,tidak_diketahui,,SRC_HERDER2012

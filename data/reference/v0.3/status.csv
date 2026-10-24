@@ -1,0 +1,31 @@
+species_valid,iucn_category,iucn_assessed_year,iucn_source_id,invasive_flag,invasive_source_id,version_date
+Amphilophus citrinellus,LC,,SRC_GBIF_IUCN,True,SRC_HEDIANTO2019,2026-10-24
+Amphilophus labiatus,NE,,SRC_GBIF_IUCN,True,SRC_HEDIANTO2019,2026-10-24
+Anguilla celebesensis,DD,,SRC_GBIF_IUCN,False,,2026-10-24
+Anguilla marmorata,LC,,SRC_GBIF_IUCN,False,,2026-10-24
+Channa striata,LC,,SRC_GBIF_IUCN,True,SRC_HEDIANTO2019,2026-10-24
+Clarias gariepinus,LC,,SRC_GBIF_IUCN,True,SRC_MONGABAY2018,2026-10-24
+Colossoma macropomum,NT,,SRC_GBIF_IUCN,True,SRC_MONGABAY2018,2026-10-24
+Cyprinus carpio,LC,,SRC_GBIF_IUCN,True,SRC_HEDIANTO2019,2026-10-24
+Glossogobius matanensis,NT,,SRC_GBIF_IUCN,False,,2026-10-24
+Mugilogobius adeia,EN,,SRC_GBIF_IUCN,False,,2026-10-24
+Nomorhamphus weberi,NT,,SRC_GBIF_IUCN,False,,2026-10-24
+Oreochromis niloticus,LC,,SRC_GBIF_IUCN,True,SRC_HEDIANTO2019;SRC_MONGABAY2018,2026-10-24
+Oryzias matanensis,NT,,SRC_GBIF_IUCN,False,,2026-10-24
+Paratherina cyanea,NT,,SRC_GBIF_IUCN,False,,2026-10-24
+Paratherina labiosa,CR,,SRC_GBIF_IUCN,False,,2026-10-24
+Paratherina striata,NT,,SRC_GBIF_IUCN,False,,2026-10-24
+Paratherina wolterecki,NT,,SRC_GBIF_IUCN,False,,2026-10-24
+Pterygoplichthys pardalis,LC,,SRC_GBIF_IUCN,True,SRC_BISNIS2025;SRC_MONGABAY2018,2026-10-24
+Telmatherina abendanoni,NT,,SRC_GBIF_IUCN,False,,2026-10-24
+Telmatherina antoniae,NT,,SRC_GBIF_IUCN,False,,2026-10-24
+Telmatherina bonti,EN,,SRC_GBIF_IUCN,False,,2026-10-24
+Telmatherina celebensis,NT,,SRC_GBIF_IUCN,False,,2026-10-24
+Telmatherina obscura,NT,,SRC_GBIF_IUCN,False,,2026-10-24
+Telmatherina opudi,NT,,SRC_GBIF_IUCN,False,,2026-10-24
+Telmatherina prognatha,NT,,SRC_GBIF_IUCN,False,,2026-10-24
+Telmatherina sarasinorum,NT,,SRC_GBIF_IUCN,False,,2026-10-24
+Telmatherina wahjui,EN,,SRC_GBIF_IUCN,False,,2026-10-24
+Tominanga aurea,NT,,SRC_GBIF_IUCN,False,,2026-10-24
+Tominanga sanguicauda,NT,,SRC_GBIF_IUCN,False,,2026-10-24
+alias:louhan_hybrid,,,,True,SRC_HEDIANTO2019;SRC_MONGABAY2018,2026-10-24

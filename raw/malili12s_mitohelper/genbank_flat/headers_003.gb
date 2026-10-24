@@ -1,0 +1,1851 @@
+LOCUS       FJ620133                   1 bp    DNA     linear   VRT 18-DEC-2009
+DEFINITION  Anguilla rostrata isolate 12S-F 12S ribosomal RNA gene, partial
+            sequence; mitochondrial.
+ACCESSION   FJ620133 REGION: 1
+VERSION     FJ620133.1
+KEYWORDS    .
+SOURCE      mitochondrion Anguilla rostrata (American eel)
+  ORGANISM  Anguilla rostrata
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Anguilliformes;
+            Anguillidae; Anguilla.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Jordan,L.G., Steele,C.A. and Thorgaard,G.H.
+  TITLE     Universal mtDNA primers for species identification of degraded bony
+            fish samples
+  JOURNAL   Mol Ecol Resour 10 (1), 225-228 (2010)
+   PUBMED   21565016
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Jordan,L.G., Steele,C.A. and Thorgaard,G.H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-DEC-2008) School of Biological Sciences, Washington
+            State University, PO Box 644236, Pullman, WA 99164-4236, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Anguilla rostrata"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="12S-F"
+                     /db_xref="taxon:7938"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 t
+//
+
+LOCUS       FJ620145                   1 bp    DNA     linear   VRT 18-DEC-2009
+DEFINITION  Oreochromis sp. CAS-2009 isolate 12S-KK 12S ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   FJ620145 REGION: 1
+VERSION     FJ620145.1
+KEYWORDS    .
+SOURCE      mitochondrion Oreochromis sp. CAS-2009
+  ORGANISM  Oreochromis sp. CAS-2009
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Ovalentaria; Cichlomorphae; Cichliformes;
+            Cichlidae; African cichlids; Pseudocrenilabrinae; Oreochromini;
+            Oreochromis.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Jordan,L.G., Steele,C.A. and Thorgaard,G.H.
+  TITLE     Universal mtDNA primers for species identification of degraded bony
+            fish samples
+  JOURNAL   Mol Ecol Resour 10 (1), 225-228 (2010)
+   PUBMED   21565016
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Jordan,L.G., Steele,C.A. and Thorgaard,G.H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-DEC-2008) School of Biological Sciences, Washington
+            State University, PO Box 644236, Pullman, WA 99164-4236, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oreochromis sp. CAS-2009"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="12S-KK"
+                     /db_xref="taxon:654607"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 t
+//
+
+LOCUS       FJ620148                   1 bp    DNA     linear   VRT 18-DEC-2009
+DEFINITION  Trichogaster leerii isolate 12S-Y 12S ribosomal RNA gene, partial
+            sequence; mitochondrial.
+ACCESSION   FJ620148 REGION: 1
+VERSION     FJ620148.1
+KEYWORDS    .
+SOURCE      mitochondrion Trichopodus leerii (pearl gourami)
+  ORGANISM  Trichopodus leerii
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Anabantaria; Anabantiformes; Anabantoidei;
+            Osphronemidae; Luciocephalinae; Trichopodus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Jordan,L.G., Steele,C.A. and Thorgaard,G.H.
+  TITLE     Universal mtDNA primers for species identification of degraded bony
+            fish samples
+  JOURNAL   Mol Ecol Resour 10 (1), 225-228 (2010)
+   PUBMED   21565016
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Jordan,L.G., Steele,C.A. and Thorgaard,G.H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-DEC-2008) School of Biological Sciences, Washington
+            State University, PO Box 644236, Pullman, WA 99164-4236, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Trichopodus leerii"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="12S-Y"
+                     /db_xref="taxon:1679032"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 t
+//
+
+LOCUS       FJ710911                   1 bp    DNA     linear   VRT 14-FEB-2017
+DEFINITION  Anguilla australis 12S ribosomal RNA gene, partial sequence;
+            mitochondrial.
+ACCESSION   FJ710911 REGION: 1
+VERSION     FJ710911.1
+KEYWORDS    .
+SOURCE      mitochondrion Anguilla australis (Australian shortfin eel)
+  ORGANISM  Anguilla australis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Anguilliformes;
+            Anguillidae; Anguilla.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Hardy,C.M., Adams,M., Jerry,D.R., Court,L.N., Morgan,M.J. and
+            Hartley,D.M.
+  TITLE     DNA barcoding to support conservation: species identification,
+            genetic structure and biogeography of fishes in the Murray-Darling
+            River Basin, Australia
+  JOURNAL   Mar. Freshw. Res. 62 (8), 887-901 (2011)
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Hartley,D.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-FEB-2009) Entomology, CSIRO, Clunies Ross St. Acton,
+            Canberra, ACT 2601, Australia
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Anguilla australis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolation_source="seafood trade"
+                     /db_xref="taxon:7940"
+                     /geo_loc_name="Australia"
+                     /collection_date="07-Nov-2007"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       FJ710913                   1 bp    DNA     linear   VRT 14-FEB-2017
+DEFINITION  Anguilla reinhardtii 12S ribosomal RNA gene, partial sequence;
+            mitochondrial.
+ACCESSION   FJ710913 REGION: 1
+VERSION     FJ710913.1
+KEYWORDS    .
+SOURCE      mitochondrion Anguilla reinhardtii (speckled longfin eel)
+  ORGANISM  Anguilla reinhardtii
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Anguilliformes;
+            Anguillidae; Anguilla.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Hardy,C.M., Adams,M., Jerry,D.R., Court,L.N., Morgan,M.J. and
+            Hartley,D.M.
+  TITLE     DNA barcoding to support conservation: species identification,
+            genetic structure and biogeography of fishes in the Murray-Darling
+            River Basin, Australia
+  JOURNAL   Mar. Freshw. Res. 62 (8), 887-901 (2011)
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Hartley,D.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-FEB-2009) Entomology, CSIRO, Clunies Ross St. Acton,
+            Canberra, ACT 2601, Australia
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Anguilla reinhardtii"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolation_source="seafood trade"
+                     /db_xref="taxon:48165"
+                     /geo_loc_name="Australia"
+                     /collection_date="21-Nov-2007"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       FJ998285                   1 bp    DNA     linear   VRT 04-NOV-2010
+DEFINITION  Pterygoplichthys joselimaianus voucher N74 12S ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   FJ998285 REGION: 1
+VERSION     FJ998285.1
+KEYWORDS    .
+SOURCE      mitochondrion Pterygoplichthys joselimaianus
+  ORGANISM  Pterygoplichthys joselimaianus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi; Siluriformes;
+            Loricariidae; Hypostominae; Pterygoplichthys.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Ardura,A., Linde,A.R., Pola,I.G. and Garcia-Vazquez,E.
+  TITLE     Barcoding, a genetic tool for authentification of Amazonian
+            commercial fish
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Ardura,A., Linde,A.R., Pola,I.G. and Garcia-Vazquez,E.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (04-MAY-2009) Biologia Funcional, Area de Genetica,
+            Universidad de Oviedo, C/ Julian Claveria, s/n, Oviedo, Asturias
+            33006, Spain
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Pterygoplichthys joselimaianus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="N74"
+                     /db_xref="taxon:686980"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 a
+//
+
+LOCUS       FJ998290                   1 bp    DNA     linear   VRT 21-MAY-2010
+DEFINITION  Piaractus brachypomus voucher N192 12S ribosomal RNA gene, partial
+            sequence; mitochondrial.
+ACCESSION   FJ998290 REGION: 1
+VERSION     FJ998290.1
+KEYWORDS    .
+SOURCE      mitochondrion Piaractus brachypomus (pirapitinga)
+  ORGANISM  Piaractus brachypomus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Characiformes; Characoidei; Piaractus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Ardura,A., Linde,A.R., Moreira,J.C. and Garcia-Vazquez,E.
+  TITLE     DNA barcoding for conservation and management of Amazonian
+            commercial fish
+  JOURNAL   Biol. Conserv. 143, 1438-1443 (2010)
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Ardura,A., Linde,A.R., Pola,I.G. and Garcia-Vazquez,E.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (04-MAY-2009) Biologia Funcional, Area de Genetica,
+            Universidad de Oviedo, C/ Julian Claveria, s/n, Oviedo, Asturias
+            33006, Spain
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Piaractus brachypomus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="N192"
+                     /db_xref="taxon:42529"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 a
+//
+
+LOCUS       GQ167843                   1 bp    DNA     linear   VRT 16-OCT-2009
+DEFINITION  Oreochromis niloticus isolate J07 12S ribosomal RNA gene, partial
+            sequence; mitochondrial.
+ACCESSION   GQ167843 REGION: 1
+VERSION     GQ167843.1
+KEYWORDS    .
+SOURCE      mitochondrion Oreochromis niloticus (Nile tilapia)
+  ORGANISM  Oreochromis niloticus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Ovalentaria; Cichlomorphae; Cichliformes;
+            Cichlidae; African cichlids; Pseudocrenilabrinae; Oreochromini;
+            Oreochromis.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Schwarzer,J., Misof,B., Tautz,D. and Schliewen,U.K.
+  TITLE     The root of the East African cichlid radiations
+  JOURNAL   BMC Evol. Biol. 9, 186 (2009)
+   PUBMED   19656365
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Schwarzer,J., Misof,B., Tautz,D. and Schliewen,U.K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-MAY-2009) Molecular Lab, Zoologisches
+            Forschungsmuseum A. Koenig, Adenauerallee 162, Bonn 53113, Germany
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oreochromis niloticus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="J07"
+                     /db_xref="taxon:8128"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 t
+//
+
+LOCUS       GQ167844                   1 bp    DNA     linear   VRT 16-OCT-2009
+DEFINITION  Alcolapia alcalica isolate J08 12S ribosomal RNA gene, partial
+            sequence; mitochondrial.
+ACCESSION   GQ167844 REGION: 1
+VERSION     GQ167844.1
+KEYWORDS    .
+SOURCE      mitochondrion Oreochromis alcalicus (Natron tilapia)
+  ORGANISM  Oreochromis alcalicus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Ovalentaria; Cichlomorphae; Cichliformes;
+            Cichlidae; African cichlids; Pseudocrenilabrinae; Oreochromini;
+            Oreochromis; Alcolapia.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Schwarzer,J., Misof,B., Tautz,D. and Schliewen,U.K.
+  TITLE     The root of the East African cichlid radiations
+  JOURNAL   BMC Evol. Biol. 9, 186 (2009)
+   PUBMED   19656365
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Schwarzer,J., Misof,B., Tautz,D. and Schliewen,U.K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-MAY-2009) Molecular Lab, Zoologisches
+            Forschungsmuseum A. Koenig, Adenauerallee 162, Bonn 53113, Germany
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oreochromis alcalicus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="J08"
+                     /db_xref="taxon:40169"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 t
+//
+
+LOCUS       GQ167845                   1 bp    DNA     linear   VRT 16-OCT-2009
+DEFINITION  Oreochromis tanganicae isolate J10 12S ribosomal RNA gene, partial
+            sequence; mitochondrial.
+ACCESSION   GQ167845 REGION: 1
+VERSION     GQ167845.1
+KEYWORDS    .
+SOURCE      mitochondrion Oreochromis tanganicae
+  ORGANISM  Oreochromis tanganicae
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Ovalentaria; Cichlomorphae; Cichliformes;
+            Cichlidae; African cichlids; Pseudocrenilabrinae; Oreochromini;
+            Oreochromis.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Schwarzer,J., Misof,B., Tautz,D. and Schliewen,U.K.
+  TITLE     The root of the East African cichlid radiations
+  JOURNAL   BMC Evol. Biol. 9, 186 (2009)
+   PUBMED   19656365
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Schwarzer,J., Misof,B., Tautz,D. and Schliewen,U.K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-MAY-2009) Molecular Lab, Zoologisches
+            Forschungsmuseum A. Koenig, Adenauerallee 162, Bonn 53113, Germany
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oreochromis tanganicae"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="J10"
+                     /db_xref="taxon:8142"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 t
+//
+
+LOCUS       GQ167868                   1 bp    DNA     linear   VRT 16-OCT-2009
+DEFINITION  Oreochromis andersonii isolate J38 12S ribosomal RNA gene, partial
+            sequence; mitochondrial.
+ACCESSION   GQ167868 REGION: 1
+VERSION     GQ167868.1
+KEYWORDS    .
+SOURCE      mitochondrion Oreochromis andersonii (three spotted tilapia)
+  ORGANISM  Oreochromis andersonii
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Ovalentaria; Cichlomorphae; Cichliformes;
+            Cichlidae; African cichlids; Pseudocrenilabrinae; Oreochromini;
+            Oreochromis.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Schwarzer,J., Misof,B., Tautz,D. and Schliewen,U.K.
+  TITLE     The root of the East African cichlid radiations
+  JOURNAL   BMC Evol. Biol. 9, 186 (2009)
+   PUBMED   19656365
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Schwarzer,J., Misof,B., Tautz,D. and Schliewen,U.K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-MAY-2009) Molecular Lab, Zoologisches
+            Forschungsmuseum A. Koenig, Adenauerallee 162, Bonn 53113, Germany
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oreochromis andersonii"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="J38"
+                     /db_xref="taxon:158894"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 t
+//
+
+LOCUS       GQ167906                   1 bp    DNA     linear   VRT 16-OCT-2009
+DEFINITION  Oreochromis niloticus isolate J07 12S ribosomal RNA gene, partial
+            sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA
+            gene, partial sequence; mitochondrial.
+ACCESSION   GQ167906 REGION: 1
+VERSION     GQ167906.1
+KEYWORDS    .
+SOURCE      mitochondrion Oreochromis niloticus (Nile tilapia)
+  ORGANISM  Oreochromis niloticus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Ovalentaria; Cichlomorphae; Cichliformes;
+            Cichlidae; African cichlids; Pseudocrenilabrinae; Oreochromini;
+            Oreochromis.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Schwarzer,J., Misof,B., Tautz,D. and Schliewen,U.K.
+  TITLE     The root of the East African cichlid radiations
+  JOURNAL   BMC Evol. Biol. 9, 186 (2009)
+   PUBMED   19656365
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Schwarzer,J., Misof,B., Tautz,D. and Schliewen,U.K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-MAY-2009) Molecular Lab, Zoologisches
+            Forschungsmuseum A. Koenig, Adenauerallee 162, Bonn 53113, Germany
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oreochromis niloticus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="J07"
+                     /db_xref="taxon:8128"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 c
+//
+
+LOCUS       GQ167907                   1 bp    DNA     linear   VRT 16-OCT-2009
+DEFINITION  Alcolapia alcalica isolate J08 12S ribosomal RNA gene, partial
+            sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA
+            gene, partial sequence; mitochondrial.
+ACCESSION   GQ167907 REGION: 1
+VERSION     GQ167907.1
+KEYWORDS    .
+SOURCE      mitochondrion Oreochromis alcalicus (Natron tilapia)
+  ORGANISM  Oreochromis alcalicus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Ovalentaria; Cichlomorphae; Cichliformes;
+            Cichlidae; African cichlids; Pseudocrenilabrinae; Oreochromini;
+            Oreochromis; Alcolapia.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Schwarzer,J., Misof,B., Tautz,D. and Schliewen,U.K.
+  TITLE     The root of the East African cichlid radiations
+  JOURNAL   BMC Evol. Biol. 9, 186 (2009)
+   PUBMED   19656365
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Schwarzer,J., Misof,B., Tautz,D. and Schliewen,U.K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-MAY-2009) Molecular Lab, Zoologisches
+            Forschungsmuseum A. Koenig, Adenauerallee 162, Bonn 53113, Germany
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oreochromis alcalicus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="J08"
+                     /db_xref="taxon:40169"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 c
+//
+
+LOCUS       GQ167908                   1 bp    DNA     linear   VRT 16-OCT-2009
+DEFINITION  Oreochromis tanganicae isolate J10 12S ribosomal RNA gene, partial
+            sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA
+            gene, partial sequence; mitochondrial.
+ACCESSION   GQ167908 REGION: 1
+VERSION     GQ167908.1
+KEYWORDS    .
+SOURCE      mitochondrion Oreochromis tanganicae
+  ORGANISM  Oreochromis tanganicae
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Ovalentaria; Cichlomorphae; Cichliformes;
+            Cichlidae; African cichlids; Pseudocrenilabrinae; Oreochromini;
+            Oreochromis.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Schwarzer,J., Misof,B., Tautz,D. and Schliewen,U.K.
+  TITLE     The root of the East African cichlid radiations
+  JOURNAL   BMC Evol. Biol. 9, 186 (2009)
+   PUBMED   19656365
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Schwarzer,J., Misof,B., Tautz,D. and Schliewen,U.K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-MAY-2009) Molecular Lab, Zoologisches
+            Forschungsmuseum A. Koenig, Adenauerallee 162, Bonn 53113, Germany
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oreochromis tanganicae"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="J10"
+                     /db_xref="taxon:8142"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 c
+//
+
+LOCUS       GQ167931                   1 bp    DNA     linear   VRT 16-OCT-2009
+DEFINITION  Oreochromis andersonii isolate J38 12S ribosomal RNA gene, partial
+            sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA
+            gene, partial sequence; mitochondrial.
+ACCESSION   GQ167931 REGION: 1
+VERSION     GQ167931.1
+KEYWORDS    .
+SOURCE      mitochondrion Oreochromis andersonii (three spotted tilapia)
+  ORGANISM  Oreochromis andersonii
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Ovalentaria; Cichlomorphae; Cichliformes;
+            Cichlidae; African cichlids; Pseudocrenilabrinae; Oreochromini;
+            Oreochromis.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Schwarzer,J., Misof,B., Tautz,D. and Schliewen,U.K.
+  TITLE     The root of the East African cichlid radiations
+  JOURNAL   BMC Evol. Biol. 9, 186 (2009)
+   PUBMED   19656365
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Schwarzer,J., Misof,B., Tautz,D. and Schliewen,U.K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-MAY-2009) Molecular Lab, Zoologisches
+            Forschungsmuseum A. Koenig, Adenauerallee 162, Bonn 53113, Germany
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oreochromis andersonii"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="J38"
+                     /db_xref="taxon:158894"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 c
+//
+
+LOCUS       GU013788                   1 bp    DNA     linear   VRT 24-JUL-2016
+DEFINITION  Oryzias sinensis isolate Taean mitochondrion, complete genome.
+ACCESSION   GU013788 REGION: 1
+VERSION     GU013788.1
+KEYWORDS    .
+SOURCE      mitochondrion Oryzias sinensis (Chinese medaka)
+  ORGANISM  Oryzias sinensis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Ovalentaria; Atherinomorphae; Beloniformes;
+            Adrianichthyidae; Oryziinae; Oryzias.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Yoon,M., Kim,K.Y., Bang,I.C., Nam,Y.K. and Kim,D.S.
+  TITLE     Complete mitogenome sequence of the Chinese medaka Oryzias sinensis
+            (Teleostei: Beloniformes) and its phylogenetic analysis
+  JOURNAL   Genes Genomics 33 (3), 307-312 (2011)
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Yoon,M., Kim,K., Bang,I., Nam,Y. and Kim,D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (28-SEP-2009) College of Fisheries Sciences, Department
+            of Aquaculture, Pukyong National University, Daeyeon3-Dong, Pusan
+            608-737, Korea
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oryzias sinensis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="Taean"
+                     /db_xref="taxon:183150"
+     tRNA            >1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       GU013789                   1 bp    DNA     linear   VRT 24-JUL-2016
+DEFINITION  Oryzias dancena isolate Indonesia mitochondrion, complete genome.
+ACCESSION   GU013789 REGION: 1
+VERSION     GU013789.1
+KEYWORDS    .
+SOURCE      mitochondrion Oryzias dancena
+  ORGANISM  Oryzias dancena
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Ovalentaria; Atherinomorphae; Beloniformes;
+            Adrianichthyidae; Oryziinae; Oryzias.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Yoon,M., Kim,K., Bang,I., Nam,Y. and Kim,D.
+  TITLE     Complete mitogenome sequences of the three Oryzias species and
+            phylogenetic analysis
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Yoon,M., Kim,K., Bang,I., Nam,Y. and Kim,D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (28-SEP-2009) College of Fisheries Sciences, Department
+            of Aquaculture, Pukyong National University, Daeyeon3-Dong, Pusan
+            608-737, Korea
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oryzias dancena"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="Indonesia"
+                     /db_xref="taxon:291360"
+     tRNA            >1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       GU238433                   1 bp    DNA     linear   VRT 24-JUL-2016
+DEFINITION  Oreochromis niloticus mitochondrion, complete genome.
+ACCESSION   GU238433 REGION: 1
+VERSION     GU238433.1
+KEYWORDS    .
+SOURCE      mitochondrion Oreochromis niloticus (Nile tilapia)
+  ORGANISM  Oreochromis niloticus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Ovalentaria; Cichlomorphae; Cichliformes;
+            Cichlidae; African cichlids; Pseudocrenilabrinae; Oreochromini;
+            Oreochromis.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Yang,L., Lu,M., Ye,X., Zhu,H., Gao,F., Mo,Y. and Huang,Z.
+  TITLE     Complete mitochondrial genome DNA of the Nile tilapia Oreochromis
+            niloticus and phylogenetic analysis
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Yang,L., Lu,M., Ye,X., Zhu,H., Gao,F., Mo,Y. and Huang,Z.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (26-NOV-2009) Pearl River Fisheries Research Institute of
+            CAFS, 1,Xingyu Road, Liwan District, Guangzhou, Guangdong 510380,
+            China
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oreochromis niloticus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8128"
+                     /PCR_primers="fwd_name: 1F, fwd_seq:
+                     tgtagtaagagcccaccatca, rev_name: 1R, rev_seq:
+                     gggtatctaatcccagtttgt"
+                     /PCR_primers="fwd_name: 11F, fwd_seq: ccatagaaggtcctacac,
+                     rev_name: 11R, rev_seq: tgggaggaatgttggtagtgtt"
+                     /PCR_primers="fwd_name: 12F, fwd_seq: atcagcagacacccaagc,
+                     rev_name: 12R, rev_seq: aagcgagttagggtggcatt"
+                     /PCR_primers="fwd_name: 13F, fwd_seq: ccgtagacaatgccacc,
+                     rev_name: 13R, rev_seq: caccctggaaagaacg"
+                     /PCR_primers="fwd_name: 2F, fwd_seq: aaagccgaataccctcag,
+                     rev_name: 2R, rev_seq: tgtttgccgagttcct"
+                     /PCR_primers="fwd_name: 3F, fwd_seq:
+                     acaaagagggaactagacaaa, rev_name: 3R, rev_seq:
+                     gccgaggatagaatagactgc"
+                     /PCR_primers="fwd_name: 4F, fwd_seq:
+                     ccttccctttccaatagcaga, rev_name: 4R, rev_seq:
+                     caggatgtggcaagagtgtta"
+                     /PCR_primers="fwd_name: 5F, fwd_seq:
+                     acatcctcaacattcctcgta, rev_name: 5R, rev_seq:
+                     ttaagtcaacagaaggtccag"
+                     /PCR_primers="fwd_name: 6F, fwd_seq:
+                     atggactgtttatcccccgctc, rev_name: 6R, rev_seq:
+                     agggtgctgattaggaagacg"
+                     /PCR_primers="fwd_name: 7F, fwd_seq:
+                     agccagccacataaccactct, rev_name: 7R, rev_seq:
+                     gtcaggattgccactgtaggt"
+                     /PCR_primers="fwd_name: 8F, fwd_seq:
+                     actaaccgcaaatcttacagc, rev_name: 8R, rev_seq:
+                     aggtgggttcggtgaaatgct"
+                     /PCR_primers="fwd_name: 9F, fwd_seq: accgtctaatgactcccaca,
+                     rev_name: 9R, rev_seq: agttccagcccccgtaagtg"
+     tRNA            >1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       GU370125                   1 bp    DNA     linear   VRT 08-MAR-2012
+DEFINITION  Oreochromis aureus mitochondrion, complete genome.
+ACCESSION   GU370125 REGION: 1
+VERSION     GU370125.1
+KEYWORDS    .
+SOURCE      mitochondrion Oreochromis aureus
+  ORGANISM  Oreochromis aureus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Ovalentaria; Cichlomorphae; Cichliformes;
+            Cichlidae; African cichlids; Pseudocrenilabrinae; Oreochromini;
+            Oreochromis.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   He,A., Luo,Y., Yang,H., Liu,L., Li,S. and Wang,C.
+  TITLE     Complete mitochondrial DNA sequences of the Nile tilapia
+            (Oreochromis niloticus) and Blue tilapia (Oreochromis aureus):
+            genome characterization and phylogeny applications
+  JOURNAL   Mol. Biol. Rep. 38 (3), 2015-2021 (2011)
+   PUBMED   20857213
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   He,A. and Wang,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (30-DEC-2009) College of Fisheries and Life Science,
+            ShangHai Ocean University, LingGang RD, ShangHai 201306, China
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oreochromis aureus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:47969"
+     tRNA            >1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       GU370126                   1 bp    DNA     linear   VRT 08-MAR-2012
+DEFINITION  Oreochromis niloticus mitochondrion, complete genome.
+ACCESSION   GU370126 REGION: 1
+VERSION     GU370126.1
+KEYWORDS    .
+SOURCE      mitochondrion Oreochromis niloticus (Nile tilapia)
+  ORGANISM  Oreochromis niloticus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Ovalentaria; Cichlomorphae; Cichliformes;
+            Cichlidae; African cichlids; Pseudocrenilabrinae; Oreochromini;
+            Oreochromis.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   He,A., Luo,Y., Yang,H., Liu,L., Li,S. and Wang,C.
+  TITLE     Complete mitochondrial DNA sequences of the Nile tilapia
+            (Oreochromis niloticus) and Blue tilapia (Oreochromis aureus):
+            genome characterization and phylogeny applications
+  JOURNAL   Mol. Biol. Rep. 38 (3), 2015-2021 (2011)
+   PUBMED   20857213
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   He,A. and Wang,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (30-DEC-2009) College of Fisheries and Life Science,
+            ShangHai Ocean University, LingGang RD, ShangHai 201306, China
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oreochromis niloticus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8128"
+     tRNA            >1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       GU477624                   1 bp    DNA     linear   VRT 25-JUL-2016
+DEFINITION  Oreochromis niloticus strain GIFT mitochondrion, complete genome.
+ACCESSION   GU477624 REGION: 1
+VERSION     GU477624.1
+KEYWORDS    .
+SOURCE      mitochondrion Oreochromis niloticus (Nile tilapia)
+  ORGANISM  Oreochromis niloticus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Ovalentaria; Cichlomorphae; Cichliformes;
+            Cichlidae; African cichlids; Pseudocrenilabrinae; Oreochromini;
+            Oreochromis.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Jiang,Z., Gan,X., Zhang,M., Lin,Y., Zhu,J. and Li,M.
+  TITLE     The complete mitochondrial genome and phylogenetic analysis of
+            tilapia
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Jiang,Z., Gan,X., Zhang,M., Lin,Y., Zhu,J. and Li,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (17-JAN-2010) Guangxi Institute of Fisheries, No.8 of
+            Qingshan Road, Nanning, Guangxi 530021, China
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oreochromis niloticus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /strain="GIFT"
+                     /db_xref="taxon:8128"
+     tRNA            >1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       GU477625                   1 bp    DNA     linear   VRT 25-JUL-2016
+DEFINITION  Oreochromis niloticus strain Egypt mitochondrion, complete genome.
+ACCESSION   GU477625 REGION: 1
+VERSION     GU477625.1
+KEYWORDS    .
+SOURCE      mitochondrion Oreochromis niloticus (Nile tilapia)
+  ORGANISM  Oreochromis niloticus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Ovalentaria; Cichlomorphae; Cichliformes;
+            Cichlidae; African cichlids; Pseudocrenilabrinae; Oreochromini;
+            Oreochromis.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Jiang,Z., Gan,X., Zhang,M., Lin,Y., Zhu,J. and Li,M.
+  TITLE     The complete mitochondrial genome and phylogenetic analysis of
+            tilapia
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Jiang,Z., Gan,X., Zhang,M., Lin,Y., Zhu,J. and Li,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (17-JAN-2010) Guangxi Institute of Fisheries, No.8 of
+            Qingshan Road, Nanning, Guangxi 530021, China
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oreochromis niloticus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /strain="Egypt"
+                     /db_xref="taxon:8128"
+     tRNA            >1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       GU477626                   1 bp    DNA     linear   VRT 25-JUL-2016
+DEFINITION  Oreochromis niloticus strain Philippines mitochondrion, complete
+            genome.
+ACCESSION   GU477626 REGION: 1
+VERSION     GU477626.1
+KEYWORDS    .
+SOURCE      mitochondrion Oreochromis niloticus (Nile tilapia)
+  ORGANISM  Oreochromis niloticus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Ovalentaria; Cichlomorphae; Cichliformes;
+            Cichlidae; African cichlids; Pseudocrenilabrinae; Oreochromini;
+            Oreochromis.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Jiang,Z., Gan,X., Zhang,M., Lin,Y., Zhu,J. and Li,M.
+  TITLE     The complete mitochondrial genome and phylogenetic analysis of
+            tilapia
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Jiang,Z., Gan,X., Zhang,M., Lin,Y., Zhu,J. and Li,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (17-JAN-2010) Guangxi Institute of Fisheries, No.8 of
+            Qingshan Road, Nanning, Guangxi 530021, China
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oreochromis niloticus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /strain="Philippines"
+                     /db_xref="taxon:8128"
+     tRNA            >1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       GU477627                   1 bp    DNA     linear   VRT 25-JUL-2016
+DEFINITION  Oreochromis niloticus strain Guangdong mitochondrion, complete
+            genome.
+ACCESSION   GU477627 REGION: 1
+VERSION     GU477627.1
+KEYWORDS    .
+SOURCE      mitochondrion Oreochromis niloticus (Nile tilapia)
+  ORGANISM  Oreochromis niloticus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Ovalentaria; Cichlomorphae; Cichliformes;
+            Cichlidae; African cichlids; Pseudocrenilabrinae; Oreochromini;
+            Oreochromis.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Jiang,Z., Gan,X., Zhang,M., Lin,Y., Zhu,J. and Li,M.
+  TITLE     The complete mitochondrial genome and phylogenetic analysis of
+            tilapia
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Jiang,Z., Gan,X., Zhang,M., Lin,Y., Zhu,J. and Li,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (17-JAN-2010) Guangxi Institute of Fisheries, No.8 of
+            Qingshan Road, Nanning, Guangxi 530021, China
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oreochromis niloticus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /strain="Guangdong"
+                     /db_xref="taxon:8128"
+     tRNA            >1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       GU477629                   1 bp    DNA     linear   VRT 25-JUL-2016
+DEFINITION  Oreochromis aureus strain Guangdong mitochondrion, complete genome.
+ACCESSION   GU477629 REGION: 1
+VERSION     GU477629.1
+KEYWORDS    .
+SOURCE      mitochondrion Oreochromis aureus
+  ORGANISM  Oreochromis aureus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Ovalentaria; Cichlomorphae; Cichliformes;
+            Cichlidae; African cichlids; Pseudocrenilabrinae; Oreochromini;
+            Oreochromis.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Jiang,Z., Gan,X., Zhang,M., Lin,Y., Zhu,J. and Li,M.
+  TITLE     The complete mitochondrial genome and phylogenetic analysis of
+            tilapia
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Jiang,Z., Gan,X., Zhang,M., Lin,Y., Zhu,J. and Li,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (17-JAN-2010) Guangxi Institute of Fisheries, No.8 of
+            Qingshan Road, Nanning, Guangxi 530021, China
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oreochromis aureus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /strain="Guangdong"
+                     /db_xref="taxon:47969"
+ORIGIN      
+        1 g
+//
+
+LOCUS       GU477631                   1 bp    DNA     linear   VRT 25-JUL-2016
+DEFINITION  Oreochromis sp. 'red tilapia' mitochondrion, complete genome.
+ACCESSION   GU477631 REGION: 1
+VERSION     GU477631.1
+KEYWORDS    .
+SOURCE      mitochondrion Oreochromis sp. 'red tilapia'
+  ORGANISM  Oreochromis sp. 'red tilapia'
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Ovalentaria; Cichlomorphae; Cichliformes;
+            Cichlidae; African cichlids; Pseudocrenilabrinae; Oreochromini;
+            Oreochromis.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Jiang,Z., Gan,X., Zhang,M., Lin,Y., Zhu,J. and Li,M.
+  TITLE     The complete mitochondrial genome and phylogenetic analysis of
+            tilapia
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Jiang,Z., Gan,X., Zhang,M., Lin,Y., Zhu,J. and Li,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (17-JAN-2010) Guangxi Institute of Fisheries, No.8 of
+            Qingshan Road, Nanning, Guangxi 530021, China
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oreochromis sp. 'red tilapia'"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /strain="Florida"
+                     /db_xref="taxon:743960"
+     tRNA            >1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       GU937112                   1 bp    DNA     linear   VRT 01-DEC-2011
+DEFINITION  Channa argus mitochondrion, complete genome.
+ACCESSION   GU937112 REGION: 1
+VERSION     GU937112.1
+KEYWORDS    .
+SOURCE      mitochondrion Channa argus (northern snakehead)
+  ORGANISM  Channa argus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Anabantaria; Anabantiformes; Channoidei;
+            Channidae; Channa.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Wang,J. and Yang,G.
+  TITLE     The complete mitogenome of the snakehead Channa argus (Perciformes:
+            Channoidei): Genome characterization and phylogenetic implications
+  JOURNAL   Mitochondrial DNA 22 (4), 120-129 (2011)
+   PUBMED   22040081
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Wang,J.L. and Yang,G.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (25-FEB-2010) College of Life Sciences, Nanjing Normal
+            University, Jiangsu Key Laboratory for Biodiversity and
+            Biotechnology, 1# Wenyuan Road, Nanjing, Jiangsu 210046, China
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Channa argus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:215402"
+     tRNA            >1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       HM067614                   1 bp    DNA     linear   VRT 25-JUL-2016
+DEFINITION  Oreochromis sp. 'red tilapia' mitochondrion, complete genome.
+ACCESSION   HM067614 REGION: 1
+VERSION     HM067614.1
+KEYWORDS    .
+SOURCE      mitochondrion Oreochromis sp. 'red tilapia'
+  ORGANISM  Oreochromis sp. 'red tilapia'
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Ovalentaria; Cichlomorphae; Cichliformes;
+            Cichlidae; African cichlids; Pseudocrenilabrinae; Oreochromini;
+            Oreochromis.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Jiang,Z., Gan,X., Zhang,M., Lin,Y., Zhu,J. and Li,M.
+  TITLE     The complete mitochondrial genome and phylogenetic analysis of
+            tilapia
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Jiang,Z., Gan,X., Zhang,M., Lin,Y., Zhu,J. and Li,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-APR-2010) Guangxi Institute of Fisheries, No.8 of
+            Qingshan Road, Nanning, Guangxi Province, China, Nanning, Guangxi
+            530021, China
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oreochromis sp. 'red tilapia'"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /strain="Guam"
+                     /db_xref="taxon:743960"
+     tRNA            >1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       HQ185628                   1 bp    DNA     linear   VRT 08-NOV-2011
+DEFINITION  Anguilla japonica isolate PKU_2535 12S ribosomal RNA gene, partial
+            sequence; mitochondrial.
+ACCESSION   HQ185628 REGION: 1
+VERSION     HQ185628.1
+KEYWORDS    .
+SOURCE      mitochondrion Anguilla japonica (Japanese eel)
+  ORGANISM  Anguilla japonica
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Anguilliformes;
+            Anguillidae; Anguilla.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Ji,H.S. and Kim,J.K.
+  TITLE     A new species of snake-eel, Pisodonophis sangjuensis
+            (Anguilliformes: Ophichthidae) from Korea
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Ji,H.S. and Kim,J.K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-AUG-2010) Marine Biology, Pukyong National
+            University, 599-1, Daeyeon 3-dong, Nam-gu, Busan 608-737, Korea
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Anguilla japonica"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="PKU_2535"
+                     /db_xref="taxon:7937"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 c
+//
+
+LOCUS       JN105352                   1 bp    DNA     linear   VRT 25-JUL-2016
+DEFINITION  Cyprinus carpio carpio mitochondrion, complete genome.
+ACCESSION   JN105352 REGION: 1
+VERSION     JN105352.1
+KEYWORDS    .
+SOURCE      mitochondrion Cyprinus carpio carpio (Russian scattered scale
+            mirror carp)
+  ORGANISM  Cyprinus carpio carpio
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Cyprinidae; Cyprininae; Cyprinus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Hu,G.F.
+  TITLE     The complete mitochondrial genome of Russian scattered scaled
+            mirror carp Cyprinus carpio L.
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Hu,G.F., Liang,H.W., Li,Z., Zhang,Z.W. and Zou,G.W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (17-MAY-2011) Yangtze River Fisheries Research Institute,
+            The Chinese Academy of Fisheries Sciences, 41# Jianghan North Road,
+            Jingzhou, Hubei 434000, China
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Cyprinus carpio carpio"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:630221"
+                     /note="common: Russian scattered scale mirror carp"
+     tRNA            >1
+                     /product="tRNA-Phe"
+                     /note="codon recognized: UUC"
+ORIGIN      
+        1 g
+//
+
+LOCUS       JN105353                   1 bp    DNA     linear   VRT 25-JUL-2016
+DEFINITION  Cyprinus carpio xingguonensis mitochondrion, complete genome.
+ACCESSION   JN105353 REGION: 1
+VERSION     JN105353.1
+KEYWORDS    .
+SOURCE      mitochondrion Cyprinus carpio 'xingguonensis' (Xingguo red carp)
+  ORGANISM  Cyprinus carpio 'xingguonensis'
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Cyprinidae; Cyprininae; Cyprinus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Hu,G.F., Zou,G.W., Li,Z., Liang,H.W., Li,L., Zhang,Z.W., Zhu,Y.Y.
+            and Luo,X.Z.
+  TITLE     The complete mitochondrial genome of Xingguo red carp (Cyprinus
+            carpio var. xingguonensis)
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Hu,G.F., Zou,G.W., Li,Z., Liang,H.W., Li,L., Zhang,Z.W., Zhu,Y.Y.
+            and Luo,X.Z.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (17-MAY-2011) Yangtze River Fisheries Research Institute,
+            The Chinese Academy of Fisheries Sciences, 41# Jianghan North Road,
+            Jingzhou, Hubei 434000, China
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Cyprinus carpio 'xingguonensis'"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:1045198"
+                     /note="common: Xingguo red carp"
+     tRNA            >1
+                     /product="tRNA-Phe"
+                     /note="codon recognized: UUC"
+ORIGIN      
+        1 g
+//
+
+LOCUS       JN105354                   1 bp    DNA     linear   VRT 25-JUL-2016
+DEFINITION  Cyprinus carpio haematopterus mitochondrion, complete genome.
+ACCESSION   JN105354 REGION: 1
+VERSION     JN105354.1
+KEYWORDS    .
+SOURCE      mitochondrion Cyprinus carpio haematopterus (Yangtze River wild
+            common carp)
+  ORGANISM  Cyprinus carpio haematopterus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Cyprinidae; Cyprininae; Cyprinus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Hu,G.F., Zou,G.W., Li,Z. and Liang,H.W.
+  TITLE     The complete mitochondrial genome of Yangtze River wild common carp
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Hu,G.F., Zou,G.W., Li,Z. and Liang,H.W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (17-MAY-2011) Yangtze River Fisheries Research Institute,
+            The Chinese Academy of Fisheries Sciences, 41# Jianghan North Road,
+            Jingzhou, Hubei 434000, China
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Cyprinus carpio haematopterus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:1045269"
+                     /note="common: Yangtze River wild common carp"
+     tRNA            >1
+                     /product="tRNA-Phe"
+                     /note="codon recognized: UUC"
+ORIGIN      
+        1 g
+//
+
+LOCUS       JN105356                   1 bp    DNA     linear   VRT 19-MAR-2014
+DEFINITION  Cyprinus carpio wuyuanensis x Carrassius auratus mitochondrion,
+            complete genome.
+ACCESSION   JN105356 REGION: 1
+VERSION     JN105356.1
+KEYWORDS    .
+SOURCE      mitochondrion Cyprinus carpio wuyuanensis x Carassius auratus
+  ORGANISM  Cyprinus carpio wuyuanensis x Carassius auratus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; unclassified Cyprinoidei.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Hu,G., Zou,G., Liu,X., Liang,H., Li,Z. and Hu,S.
+  TITLE     The carp-goldfish nucleocytoplasmic hybrid has mitochondria from
+            the carp as the nuclear donor species
+  JOURNAL   Gene 536 (2), 265-271 (2014)
+   PUBMED   24365595
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Hu,G.F., Liu,X.J., Liang,H.W., Li,Z., Zou,G.W. and Pan,G.B.
+  TITLE     The complete mitochondrial genome of Nuclearcytoplasmic hybrid fish
+            (Cyprinus carpio var.wuyuanensis Carassius auratus auratus)
+  JOURNAL   Unpublished
+REFERENCE   3  (bases 1 to 1)
+  AUTHORS   Hu,G.F., Liu,X.J., Liang,H.W., Li,Z., Zou,G.W. and Pan,G.B.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (17-MAY-2011) Yangtze River Fisheries Research Institute,
+            The Chinese Academy of Fisheries Sciences, 41# Jianghan North Road,
+            Jingzhou, Hubei 434000, China
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Cyprinus carpio wuyuanensis x Carassius
+                     auratus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:1045278"
+                     /note="nuclearcytoplasmic hybrid fish; nucleus from
+                     Cyprinus carpio wuyuanensis, cytoplasm from Carrassius
+                     auratus'"
+     tRNA            >1
+                     /product="tRNA-Phe"
+                     /note="codon recognized: UUC"
+ORIGIN      
+        1 g
+//
+
+LOCUS       JN105357                   1 bp    DNA     linear   VRT 25-JUL-2016
+DEFINITION  Cyprinus carpio wuyuanensis mitochondrion, complete genome.
+ACCESSION   JN105357 REGION: 1
+VERSION     JN105357.1
+KEYWORDS    .
+SOURCE      mitochondrion Cyprinus carpio 'wuyuanensis' (Wuyuan red carp)
+  ORGANISM  Cyprinus carpio 'wuyuanensis'
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Cyprinidae; Cyprininae; Cyprinus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Hu,G., Liang,H., Li,Z. and Zou,G.
+  TITLE     The complete mitochondrial genome of purse red carp Cyprinus carpio
+            var. wuyuanensis
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Hu,G.F., Liang,H.W., Li,Z., Zou,G.W., Li,L. and Zhang,Z.W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (17-MAY-2011) Yangtze River Fisheries Research Institute,
+            The Chinese Academy of Fisheries Sciences, 41# Jianghan North Road,
+            Jingzhou, Hubei 434000, China
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Cyprinus carpio 'wuyuanensis'"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:749191"
+     tRNA            >1
+                     /product="tRNA-Phe"
+                     /note="codon recognized: UUC"
+ORIGIN      
+        1 g
+//
+
+LOCUS       JQ001860                   1 bp    DNA     linear   VRT 25-JUL-2016
+DEFINITION  Glossogobius olivaceus mitochondrion, complete genome.
+ACCESSION   JQ001860 REGION: 1
+VERSION     JQ001860.1
+KEYWORDS    .
+SOURCE      mitochondrion Glossogobius olivaceus (urohaze-goby)
+  ORGANISM  Glossogobius olivaceus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Gobiaria; Gobiiformes; Gobioidei; Gobiidae;
+            Gobiinae; Glossogobius.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Xu,T.J., Jin,X.X. and Wang,R.X.
+  TITLE     The complete mitochondrial genome of the Glossogobius olivaceus
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Xu,T.J., Jin,X.X. and Wang,R.X.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-NOV-2011) College of Marine Science, Zhejiang Ocean
+            University, 105 Wenhua Road, Zhoushan, Zhejiang 316000, P.R. China
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Glossogobius olivaceus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:764832"
+     tRNA            >1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       JQ713914                   1 bp    DNA     linear   VRT 19-AUG-2012
+DEFINITION  Oryzias melastigma mitochondrion, complete genome.
+ACCESSION   JQ713914 REGION: 1
+VERSION     JQ713914.1
+KEYWORDS    .
+SOURCE      mitochondrion Oryzias melastigma (Indian medaka)
+  ORGANISM  Oryzias melastigma
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Ovalentaria; Atherinomorphae; Beloniformes;
+            Adrianichthyidae; Oryziinae; Oryzias.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Hwang,D.S., Kim,B.M., Au,D.W. and Lee,J.S.
+  TITLE     Complete mitochondrial genome of the marine medaka Oryzias
+            melastigma (Beloniformes, Adrianichthyidae)
+  JOURNAL   Mitochondrial DNA 23 (4), 308-309 (2012)
+   PUBMED   22708854
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Lee,J.-S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (26-FEB-2012) Department of Chemistry College of Natural
+            Sciences, Hanyang University, 17 Haengdang-dong, Seongdong-gu,
+            Seoul 133791, South Korea
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oryzias melastigma"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:30732"
+     tRNA            >1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       JX188253                   1 bp    DNA     linear   VRT 18-JAN-2013
+DEFINITION  Cyprinus carpio color mitochondrion, complete genome.
+ACCESSION   JX188253 REGION: 1
+VERSION     JX188253.1
+KEYWORDS    .
+SOURCE      mitochondrion Cyprinus carpio 'color' (Oujiang color common carp)
+  ORGANISM  Cyprinus carpio 'color'
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Cyprinidae; Cyprininae; Cyprinus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Wang,B., Ji,P., Wang,J., Sun,J., Wang,C., Xu,P. and Sun,X.
+  TITLE     The complete mitochondrial genome of the Oujiang color carp,
+            Cyprinus carpio var. color (Cypriniformes, Cyprinidae)
+  JOURNAL   Mitochondrial DNA 24 (1), 19-21 (2013)
+   PUBMED   22920435
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Wang,B.S., Ji,P.F., Wang,J., Xu,P. and Sun,X.W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (17-JUN-2012) Center for Applied Aquatic Genomics,
+            Chinese Academy of Fishery Sciences, 150 YongDing Road South,
+            Beiing, Beiing 100141, China
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: newbler v. 2.6
+            Sequencing Technology :: Illumina
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Cyprinus carpio 'color'"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:749190"
+     tRNA            >1
+                     /product="tRNA-Phe"
+                     /note="codon recognized: UUC"
+ORIGIN      
+        1 g
+//
+
+LOCUS       JX188254                   1 bp    DNA     linear   VRT 29-NOV-2012
+DEFINITION  Cyprinus carpio haematopterus mitochondrion, complete genome.
+ACCESSION   JX188254 REGION: 1
+VERSION     JX188254.1
+KEYWORDS    .
+SOURCE      mitochondrion Cyprinus carpio haematopterus (Huanghe carp)
+  ORGANISM  Cyprinus carpio haematopterus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Cyprinidae; Cyprininae; Cyprinus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Wang,B.S., Ji,P.F., Wang,J., Xu,P. and Sun,X.W.
+  TITLE     The complete mitochondrial genome of Huanghe carp Cyprinus carpio L
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Wang,B.S., Ji,P.F., Wang,J., Xu,P. and Sun,X.W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-JUN-2012) Center for Applied Aquatic Genomics,
+            Chinese Academy of Fishery Sciences, 150 YongDing Road South,
+            Beijing, 100141, P. R. China, Beiing, Beiing 100141, China
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: newbler v. 2.6
+            Sequencing Technology :: Illumina
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Cyprinus carpio haematopterus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:1045269"
+                     /note="common: Huanghe carp"
+     tRNA            >1
+                     /product="tRNA-Phe"
+                     /note="codon recognized: UUC"
+ORIGIN      
+        1 g
+//
+
+LOCUS       JX536695                   1 bp    DNA     linear   VRT 09-OCT-2012
+DEFINITION  Glossogobius circumspectus mitochondrion, complete genome.
+ACCESSION   JX536695 REGION: 1
+VERSION     JX536695.1
+KEYWORDS    .
+SOURCE      mitochondrion Glossogobius circumspectus (circumspect goby)
+  ORGANISM  Glossogobius circumspectus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Gobiaria; Gobiiformes; Gobioidei; Gobiidae;
+            Gobiinae; Glossogobius.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Xu,T.J., Jin,X.X. and Wang,R.X.
+  TITLE     The complete mitochondrial genome of the Glossogobius circumspectus
+            (Circumspect goby)
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Xu,T.J., Jin,X.X. and Wang,R.X.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-AUG-2012) College of Marine Science, Zhejiang Ocean
+            University, 105 Wenhua Road, Zhoushan, Zhejiang 316000, P.R. China
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Glossogobius circumspectus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:1238289"
+                     /geo_loc_name="China: Zhoushan Sea"
+     tRNA            >1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       JX978724                   1 bp    DNA     linear   VRT 24-MAY-2013
+DEFINITION  Channa maculata mitochondrion, complete genome.
+ACCESSION   JX978724 REGION: 1
+VERSION     JX978724.1
+KEYWORDS    .
+SOURCE      mitochondrion Channa maculata (blotched snakehead)
+  ORGANISM  Channa maculata
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Anabantaria; Anabantiformes; Channoidei;
+            Channidae; Channa.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Zhu,S.R., Ma,K.Y., Xing,Z.J., Xie,N., Wang,Y.X., Wang,Q. and
+            Li,J.L.
+  TITLE     The complete mitochondrial genome of Channa argus, Channa maculata
+            and hybrid snakehead fish [Channa maculata (female symbol) x Channa
+            argus (male symbol)]
+  JOURNAL   Mitochondrial DNA 24 (3), 217-218 (2013)
+   PUBMED   23316807
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Zhu,S., Li,J. and Wang,Q.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (17-OCT-2012) College of fisheries and life science,
+            Shanghai Ocean University, Hu Cheng Huan Road 999, Shanghai,
+            Shanghai 201306, China
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Channa maculata"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:188791"
+     tRNA            >1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       JX978725                   1 bp    DNA     linear   VRT 24-MAY-2013
+DEFINITION  Channa argus x Channa maculata mitochondrion, complete genome.
+ACCESSION   JX978725 REGION: 1
+VERSION     JX978725.1
+KEYWORDS    .
+SOURCE      mitochondrion Channa argus x Channa maculata
+  ORGANISM  Channa argus x Channa maculata
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Anabantaria; Anabantiformes; Channoidei;
+            Channidae; Channa.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Zhu,S., Li,J. and Wang,Q.
+  TITLE     Complete mitochondrial of hybrid snakehead fish from Channa
+            maculata (a) and Channa argus (a)
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Zhu,S., Li,J. and Wang,Q.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (17-OCT-2012) College of fisheries and life science,
+            Shanghai Ocean University, Hu Cheng Huan Road 999, Shanghai,
+            Shanghai 201306, China
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Channa argus x Channa maculata"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:413233"
+     tRNA            >1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       KC292935                   1 bp    DNA     linear   VRT 13-JUN-2013
+DEFINITION  Cyprinus carpio isolate WKL42 tRNA-Pro gene, D-loop, and tRNA-Phe
+            gene, complete sequence; and 12S ribosomal RNA gene, partial
+            sequence; mitochondrial.
+ACCESSION   KC292935 REGION: 1
+VERSION     KC292935.1
+KEYWORDS    .
+SOURCE      mitochondrion Cyprinus carpio (common carp)
+  ORGANISM  Cyprinus carpio
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Cyprinidae; Cyprininae; Cyprinus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Hao,J., Yang,Q., Bao,D., Liang,A.-J., Zhang,X.-H. and Dong,S.
+  TITLE     The sequence comparison of mtDNA D-loop and adjacent regions in six
+            fish species
+  JOURNAL   Dalian Hai Yang Da Xue Xue Bao 28 (2), 160-165 (2013)
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Hao,J., Dong,S., Yang,Q., Bao,D., Liang,A. and Zhang,X.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-DEC-2012) College of Life Science, Tianjin Normal
+            University, No 393, Binshuixi Road, Xiqing, Tianjin, Tianjin
+            300387, China
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Cyprinus carpio"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="WKL42"
+                     /db_xref="taxon:7962"
+     tRNA            >1
+                     /product="tRNA-Pro"
+ORIGIN      
+        1 c
+//
+
+LOCUS       KC292936                   1 bp    DNA     linear   VRT 13-JUN-2013
+DEFINITION  Cyprinus carpio isolate WKL45 tRNA-Pro gene, D-loop, and tRNA-Phe
+            gene, complete sequence; and 12S ribosomal RNA gene, partial
+            sequence; mitochondrial.
+ACCESSION   KC292936 REGION: 1
+VERSION     KC292936.1
+KEYWORDS    .
+SOURCE      mitochondrion Cyprinus carpio (common carp)
+  ORGANISM  Cyprinus carpio
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Cyprinidae; Cyprininae; Cyprinus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Hao,J., Yang,Q., Bao,D., Liang,A.-J., Zhang,X.-H. and Dong,S.
+  TITLE     The sequence comparison of mtDNA D-loop and adjacent regions in six
+            fish species
+  JOURNAL   Dalian Hai Yang Da Xue Xue Bao 28 (2), 160-165 (2013)
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Hao,J., Dong,S., Yang,Q., Bao,D., Liang,A. and Zhang,X.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-DEC-2012) College of Life Science, Tianjin Normal
+            University, No 393, Binshuixi Road, Xiqing, Tianjin, Tianjin
+            300387, China
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Cyprinus carpio"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="WKL45"
+                     /db_xref="taxon:7962"
+     tRNA            >1
+                     /product="tRNA-Pro"
+ORIGIN      
+        1 c
+//
+
+LOCUS       KC517074                   1 bp    DNA     linear   VRT 02-APR-2013
+DEFINITION  Oryzias woworae 12S ribosomal RNA gene, partial sequence; tRNA-Val
+            gene, complete sequence; and 16S ribosomal RNA gene, partial
+            sequence; mitochondrial.
+ACCESSION   KC517074 REGION: 1
+VERSION     KC517074.1
+KEYWORDS    .
+SOURCE      mitochondrion Oryzias woworae
+  ORGANISM  Oryzias woworae
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Ovalentaria; Atherinomorphae; Beloniformes;
+            Adrianichthyidae; Oryziinae; Oryzias.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Ngamniyom,A., Panyarachun,B., Sriyapai,T. and Silprasi,K.
+  TITLE     Molecular barcodes for identification and phylogenetic analysis of
+            four Oryzias species, O. dancena, O. javanicus, O. minutillus and
+            O. woworae
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Ngamniyom,A., Panyarachun,B., Sriyapai,T. and Silprasi,K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-JAN-2013) Faculty of Environmental Culture and
+            Ecotorism, Srinakharinwirot University, 114 Sukhumvit 23, Bangkok,
+            Bangkok 10110, Thailand
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: sequence service v. 2009
+            Sequencing Technology :: GS-FLX Titanium
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oryzias woworae"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:1221322"
+                     /PCR_primers="fwd_name: oj1, fwd_seq:
+                     agagagtcctgctgaaactggcccta, rev_name: oj2, rev_seq:
+                     agaaactgacctggattactccggtc"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 a
+//
+
+LOCUS       KC572134                   1 bp    DNA     linear   VRT 31-MAR-2014
+DEFINITION  Clarias batrachus mitochondrion, complete genome.
+ACCESSION   KC572134 REGION: 1
+VERSION     KC572134.1
+KEYWORDS    .
+SOURCE      mitochondrion Clarias batrachus (walking catfish)
+  ORGANISM  Clarias batrachus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi; Siluriformes;
+            Clariidae; Clarias.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Mohindra,V., Singh,R.K., Kumar,R. and Lal,K.K.
+  TITLE     Complete mitochondrial genome sequence of Indian catfish, Clarias
+            batrachus
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Mohindra,V., Singh,R.K., Kumar,R. and Lal,K.K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (01-FEB-2013) Fish Conservation Division, National Bureau
+            of Fish Genetic Resources, Canal Ring Road, PO Dilkusha, Lucknow,
+            UP 226002, India
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Clarias batrachus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:59899"
+     tRNA            >1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       KC894467                   1 bp    DNA     linear   VRT 20-MAY-2013
+DEFINITION  Channa maculata x Channa argus clone BY14 12S ribosomal RNA gene,
+            partial sequence; tRNA-Val gene, complete sequence; and 16S
+            ribosomal RNA gene, partial sequence; mitochondrial.
+ACCESSION   KC894467 REGION: 1
+VERSION     KC894467.1
+KEYWORDS    .
+SOURCE      mitochondrion Channa argus x Channa maculata
+  ORGANISM  Channa argus x Channa maculata
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Anabantaria; Anabantiformes; Channoidei;
+            Channidae; Channa.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Zhang,X.C., Zhu,X.P., Chen,K.C. and Zhao,J.
+  TITLE     A molecular marker based on mitochondrial DNA for identification of
+            Channa argus, Channa maculata and their hybrids
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Zhang,X.C., Zhu,X.P. and Chen,K.C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-APR-2013) Key Laboratory of Tropical & Subtropical
+            Fishery Resource Application & Cultivation, Ministry of
+            Agriculture, Pearl River Fisheries Research Institute of Chinese
+            Fishery Sciences, Liwan District Xingyu Road 1, Guangzhou,
+            Guangdong 510380, China
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Channa argus x Channa maculata"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:413233"
+                     /clone="BY14"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+                     /note="s-rRNA"
+ORIGIN      
+        1 c
+//
+
+LOCUS       KC992991                   1 bp    DNA     linear   VRT 09-MAY-2014
+DEFINITION  Poecilia mexicana isolate Tac mitochondrion, partial genome.
+ACCESSION   KC992991 REGION: 1
+VERSION     KC992991.1
+KEYWORDS    .
+SOURCE      mitochondrion Poecilia mexicana
+  ORGANISM  Poecilia mexicana
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Ovalentaria; Atherinomorphae; Cyprinodontiformes;
+            Poeciliidae; Poeciliinae; Poecilia.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Pfenninger,M., Lerp,H., Tobler,M., Passow,C., Kelley,J.L.,
+            Funke,E., Greshake,B., Erkoc,U.K., Berberich,T. and Plath,M.
+  TITLE     Parallel evolution of cox-genes in H2S-tolerant fish - a key
+            adaptation for repeated niche shifts
+  JOURNAL   Nat Commun (2014) In press
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Funke,E. and Lerp,H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (15-APR-2013) Molecular Ecology Group, Biodiversity and
+            Climate Research Centre, Siesmayerstr. 70 A, Frankfurt/Main, Hessen
+            60323, Germany
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Poecilia mexicana"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="Tac"
+                     /db_xref="taxon:48701"
+                     /geo_loc_name="Mexico"
+     D-loop          <1..>1
+                     /note="control region"
+ORIGIN      
+        1 g
+//
+
+LOCUS       KC992992                   1 bp    DNA     linear   VRT 09-MAY-2014
+DEFINITION  Poecilia mexicana isolate Pich mitochondrion, partial genome.
+ACCESSION   KC992992 REGION: 1
+VERSION     KC992992.1
+KEYWORDS    .
+SOURCE      mitochondrion Poecilia mexicana
+  ORGANISM  Poecilia mexicana
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Ovalentaria; Atherinomorphae; Cyprinodontiformes;
+            Poeciliidae; Poeciliinae; Poecilia.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Pfenninger,M., Lerp,H., Tobler,M., Passow,C., Kelley,J.L.,
+            Funke,E., Greshake,B., Erkoc,U.K., Berberich,T. and Plath,M.
+  TITLE     Parallel evolution of cox-genes in H2S-tolerant fish - a key
+            adaptation for repeated niche shifts
+  JOURNAL   Nat Commun (2014) In press
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Funke,E. and Lerp,H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (15-APR-2013) Molecular Ecology Group, Biodiversity and
+            Climate Research Centre, Siesmayerstr. 70 A, Frankfurt/Main, Hessen
+            60323, Germany
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Poecilia mexicana"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="Pich"
+                     /db_xref="taxon:48701"
+                     /geo_loc_name="Mexico"
+     D-loop          <1..>1
+                     /note="control region"
+ORIGIN      
+        1 t
+//
+
+LOCUS       KC992993                   1 bp    DNA     linear   VRT 09-MAY-2014
+DEFINITION  Poecilia mexicana isolate Tac-S mitochondrion, partial genome.
+ACCESSION   KC992993 REGION: 1
+VERSION     KC992993.1
+KEYWORDS    .
+SOURCE      mitochondrion Poecilia mexicana
+  ORGANISM  Poecilia mexicana
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Ovalentaria; Atherinomorphae; Cyprinodontiformes;
+            Poeciliidae; Poeciliinae; Poecilia.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Pfenninger,M., Lerp,H., Tobler,M., Passow,C., Kelley,J.L.,
+            Funke,E., Greshake,B., Erkoc,U.K., Berberich,T. and Plath,M.
+  TITLE     Parallel evolution of cox-genes in H2S-tolerant fish - a key
+            adaptation for repeated niche shifts
+  JOURNAL   Nat Commun (2014) In press
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Funke,E. and Lerp,H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (15-APR-2013) Molecular Ecology Group, Biodiversity and
+            Climate Research Centre, Siesmayerstr. 70 A, Frankfurt/Main, Hessen
+            60323, Germany
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Poecilia mexicana"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="Tac-S"
+                     /db_xref="taxon:48701"
+                     /geo_loc_name="Mexico"
+     D-loop          <1..>1
+                     /note="control region"
+ORIGIN      
+        1 g
+//
+
+LOCUS       KC992996                   1 bp    DNA     linear   VRT 09-MAY-2014
+DEFINITION  Poecilia sulphuraria isolate Pich-S1 mitochondrion, partial genome.
+ACCESSION   KC992996 REGION: 1
+VERSION     KC992996.1
+KEYWORDS    .
+SOURCE      mitochondrion Poecilia sulphuraria (sulphur molly)
+  ORGANISM  Poecilia sulphuraria
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Ovalentaria; Atherinomorphae; Cyprinodontiformes;
+            Poeciliidae; Poeciliinae; Poecilia.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Pfenninger,M., Lerp,H., Tobler,M., Passow,C., Kelley,J.L.,
+            Funke,E., Greshake,B., Erkoc,U.K., Berberich,T. and Plath,M.
+  TITLE     Parallel evolution of cox-genes in H2S-tolerant fish - a key
+            adaptation for repeated niche shifts
+  JOURNAL   Nat Commun (2014) In press
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Funke,E. and Lerp,H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (15-APR-2013) Molecular Ecology Group, Biodiversity and
+            Climate Research Centre, Siesmayerstr. 70 A, Frankfurt/Main, Hessen
+            60323, Germany
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Poecilia sulphuraria"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="Pich-S1"
+                     /db_xref="taxon:80270"
+                     /geo_loc_name="Mexico"
+     D-loop          <1..>1
+                     /note="control region"
+ORIGIN      
+        1 a
+//
+

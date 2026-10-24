@@ -7,6 +7,7 @@ from biotrace_core.config import DEFAULT_RULES, load_reasons, load_rules
 from biotrace_core.decision import cap_secondary, weak_evidence
 from biotrace_core.models import ReferenceSequence, SpeciesHit, Taxon
 from biotrace_core.preprocess import Signal
+from biotrace_core.reference.curate import curate_records
 from biotrace_core.reference.store import ReferenceIndex
 from scripts.make_demo_data import demo_tables
 
@@ -81,3 +82,31 @@ def test_D033_pure_helpers():
         "R-DEC-03",
         "x",
     )
+
+
+@pytest.mark.parametrize("country", ["JP", ""])
+def test_R_CUR_04_foreign_specimen_accepted_with_flag_r04_rejected_r03(country):
+    """D-033: curation follows the same foreign-specimen policy as R-NAME-01 selection."""
+    ref = normal_ref(country)
+    row = ref.sequences[0].model_dump()
+    old, _, old_report = curate_records([row], ref.fasta, ref, load_rules(R03), "12S_MiFish_U")
+    assert old == [] and old_report[0]["reason"] == "origin_not_verified_ID"
+    new, _, _ = curate_records([row], ref.fasta, ref, load_rules(R04), "12S_MiFish_U")
+    assert [r.curation_status for r in new] == ["accepted"]
+    assert "specimen_outside_indonesia" in new[0].flags.split(";")
+
+
+def test_R_CUR_04_species_not_in_indonesia_still_rejected_r04():
+    ref = normal_ref("JP")
+    row = ref.sequences[0].model_dump()
+    name = row["species_valid"]
+    ref.taxa[name] = ref.taxa[name].model_copy(update={"in_indonesia": False})
+    records, _, report = curate_records([row], ref.fasta, ref, load_rules(R04), "12S_MiFish_U")
+    assert records == [] and report[0]["reason"] == "origin_not_verified_ID"
+
+
+def test_R_CUR_04_indonesian_specimen_not_flagged():
+    ref = normal_ref("ID")
+    row = ref.sequences[0].model_dump()
+    records, _, _ = curate_records([row], ref.fasta, ref, load_rules(R04), "12S_MiFish_U")
+    assert records and "specimen_outside_indonesia" not in records[0].flags

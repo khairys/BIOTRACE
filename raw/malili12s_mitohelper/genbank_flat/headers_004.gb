@@ -1,0 +1,1881 @@
+LOCUS       KC992997                   1 bp    DNA     linear   VRT 09-MAY-2014
+DEFINITION  Poecilia sulphuraria isolate Pich-S2 mitochondrion, partial genome.
+ACCESSION   KC992997 REGION: 1
+VERSION     KC992997.1
+KEYWORDS    .
+SOURCE      mitochondrion Poecilia sulphuraria (sulphur molly)
+  ORGANISM  Poecilia sulphuraria
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Ovalentaria; Atherinomorphae; Cyprinodontiformes;
+            Poeciliidae; Poeciliinae; Poecilia.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Pfenninger,M., Lerp,H., Tobler,M., Passow,C., Kelley,J.L.,
+            Funke,E., Greshake,B., Erkoc,U.K., Berberich,T. and Plath,M.
+  TITLE     Parallel evolution of cox-genes in H2S-tolerant fish - a key
+            adaptation for repeated niche shifts
+  JOURNAL   Nat Commun (2014) In press
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Funke,E. and Lerp,H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (15-APR-2013) Molecular Ecology Group, Biodiversity and
+            Climate Research Centre, Siesmayerstr. 70 A, Frankfurt/Main, Hessen
+            60323, Germany
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Poecilia sulphuraria"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="Pich-S2"
+                     /db_xref="taxon:80270"
+                     /geo_loc_name="Mexico"
+     D-loop          <1..>1
+                     /note="control region"
+ORIGIN      
+        1 a
+//
+
+LOCUS       KC992998                   1 bp    DNA     linear   VRT 09-MAY-2014
+DEFINITION  Poecilia mexicana limantouri mitochondrion, partial genome.
+ACCESSION   KC992998 REGION: 1
+VERSION     KC992998.1
+KEYWORDS    .
+SOURCE      mitochondrion Poecilia mexicana limantouri
+  ORGANISM  Poecilia mexicana limantouri
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Ovalentaria; Atherinomorphae; Cyprinodontiformes;
+            Poeciliidae; Poeciliinae; Poecilia.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Pfenninger,M., Lerp,H., Tobler,M., Passow,C., Kelley,J.L.,
+            Funke,E., Greshake,B., Erkoc,U.K., Berberich,T. and Plath,M.
+  TITLE     Parallel evolution of cox-genes in H2S-tolerant fish - a key
+            adaptation for repeated niche shifts
+  JOURNAL   Nat Commun (2014) In press
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Funke,E. and Lerp,H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (15-APR-2013) Molecular Ecology Group, Biodiversity and
+            Climate Research Centre, Siesmayerstr. 70 A, Frankfurt/Main, Hessen
+            60323, Germany
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Poecilia mexicana limantouri"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:80273"
+                     /geo_loc_name="Mexico"
+     D-loop          <1..>1
+                     /note="control region"
+ORIGIN      
+        1 a
+//
+
+LOCUS       KF128984                   1 bp    DNA     linear   VRT 16-JAN-2014
+DEFINITION  Mugilogobius abei mitochondrion, complete genome.
+ACCESSION   KF128984 REGION: 1
+VERSION     KF128984.1
+KEYWORDS    .
+SOURCE      mitochondrion Mugilogobius abei (Abe's mangrove goby)
+  ORGANISM  Mugilogobius abei
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Gobiaria; Gobiiformes; Gobioidei; Gobiidae;
+            Gobionellinae; Mugilogobius.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Huang,S.P., Shen,C.N. and Chen,I.S.
+  TITLE     The complete mitochondrial genome of the Abe's mangrove goby
+            Mugilogobius abei (Teleostei, Gobiidae)
+  JOURNAL   Mitochondrial DNA (2013) In press
+   PUBMED   23901918
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Huang,S.-P. and Chen,I.-S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-MAY-2013) Institute of Marine Biology, National
+            Taiwan Ocean University, 2 Pei-Ning Road, Keelung City 20224,
+            Taiwan
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Mugilogobius abei"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:88200"
+     tRNA            >1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       KF188424                   1 bp    DNA     linear   VRT 31-MAR-2014
+DEFINITION  Clarias fuscus mitochondrion, complete genome.
+ACCESSION   KF188424 REGION: 1
+VERSION     KF188424.1
+KEYWORDS    .
+SOURCE      mitochondrion Clarias fuscus (whitespotted clarias)
+  ORGANISM  Clarias fuscus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi; Siluriformes;
+            Clariidae; Clarias.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Zhou,C. and He,S.
+  TITLE     The Complete Mitochondrial Genome of Clarias fuscus (Teleostei,
+            Siluriformes:Clariidae)
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Zhou,C. and He,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (02-JUN-2013) Key Laboratory of Aquatic Biodiversity and
+            Conservation of Chinese Academy of Sciences, Institute of
+            Hydrobiology, Chinese Academy of Sciences, 7# Donghu South Road,
+            Wuhan, Hubei 430072, China
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Lesergene v. 7.1
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Clarias fuscus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:33541"
+     tRNA            >1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       KF415368                   1 bp    DNA     linear   VRT 15-NOV-2013
+DEFINITION  Glossogobius aureus voucher NMBE 1066514 12S ribosomal RNA gene,
+            partial sequence; tRNA-Val gene, complete sequence; and 16S
+            ribosomal RNA gene, partial sequence; mitochondrial.
+ACCESSION   KF415368 REGION: 1
+VERSION     KF415368.1
+KEYWORDS    .
+SOURCE      mitochondrion Glossogobius aureus (golden tank goby)
+  ORGANISM  Glossogobius aureus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Gobiaria; Gobiiformes; Gobioidei; Gobiidae;
+            Gobiinae; Glossogobius.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Agorreta,A., San Mauro,D., Schliewen,U., Van Tassell,J.L.,
+            Kovacic,M., Zardoya,R. and Ruber,L.
+  TITLE     Molecular phylogenetics of Gobioidei and phylogenetic placement of
+            European gobies
+  JOURNAL   Mol. Phylogenet. Evol. 69 (3), 619-633 (2013)
+   PUBMED   23911892
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Agorreta,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-JUL-2013) Department of Life Sciences, The Natural
+            History Museum, Cromwell Road, London SW7 5BD, United Kingdom
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Sequencher v. 4.8
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Glossogobius aureus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="NMBE 1066514"
+                     /db_xref="taxon:443695"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 t
+//
+
+LOCUS       KF415369                   1 bp    DNA     linear   VRT 15-NOV-2013
+DEFINITION  Glossogobius giuris voucher SAIAB RUSI73863 12S ribosomal RNA gene,
+            partial sequence; tRNA-Val gene, complete sequence; and 16S
+            ribosomal RNA gene, partial sequence; mitochondrial.
+ACCESSION   KF415369 REGION: 1
+VERSION     KF415369.1
+KEYWORDS    .
+SOURCE      mitochondrion Glossogobius giuris
+  ORGANISM  Glossogobius giuris
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Gobiaria; Gobiiformes; Gobioidei; Gobiidae;
+            Gobiinae; Glossogobius.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Agorreta,A., San Mauro,D., Schliewen,U., Van Tassell,J.L.,
+            Kovacic,M., Zardoya,R. and Ruber,L.
+  TITLE     Molecular phylogenetics of Gobioidei and phylogenetic placement of
+            European gobies
+  JOURNAL   Mol. Phylogenet. Evol. 69 (3), 619-633 (2013)
+   PUBMED   23911892
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Agorreta,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-JUL-2013) Department of Life Sciences, The Natural
+            History Museum, Cromwell Road, London SW7 5BD, United Kingdom
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Sequencher v. 4.8
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Glossogobius giuris"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="SAIAB RUSI73863"
+                     /db_xref="taxon:3412538"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 c
+//
+
+LOCUS       KF415370                   1 bp    DNA     linear   VRT 15-NOV-2013
+DEFINITION  Glossogobius sp. NMBE 1066515 12S ribosomal RNA gene, partial
+            sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA
+            gene, partial sequence; mitochondrial.
+ACCESSION   KF415370 REGION: 1
+VERSION     KF415370.1
+KEYWORDS    .
+SOURCE      mitochondrion Glossogobius sp. NMBE 1066515
+  ORGANISM  Glossogobius sp. NMBE 1066515
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Gobiaria; Gobiiformes; Gobioidei; Gobiidae;
+            Gobiinae; Glossogobius.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Agorreta,A., San Mauro,D., Schliewen,U., Van Tassell,J.L.,
+            Kovacic,M., Zardoya,R. and Ruber,L.
+  TITLE     Molecular phylogenetics of Gobioidei and phylogenetic placement of
+            European gobies
+  JOURNAL   Mol. Phylogenet. Evol. 69 (3), 619-633 (2013)
+   PUBMED   23911892
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Agorreta,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-JUL-2013) Department of Life Sciences, The Natural
+            History Museum, Cromwell Road, London SW7 5BD, United Kingdom
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Sequencher v. 4.8
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Glossogobius sp. NMBE 1066515"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="NMBE 1066515"
+                     /db_xref="taxon:1365550"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 c
+//
+
+LOCUS       KF415418                   1 bp    DNA     linear   VRT 15-NOV-2013
+DEFINITION  Mugilogobius mertoni voucher NMBE 1066443 12S ribosomal RNA gene,
+            partial sequence; tRNA-Val gene, complete sequence; and 16S
+            ribosomal RNA gene, partial sequence; mitochondrial.
+ACCESSION   KF415418 REGION: 1
+VERSION     KF415418.1
+KEYWORDS    .
+SOURCE      mitochondrion Mugilogobius mertoni (chequered mangrove goby)
+  ORGANISM  Mugilogobius mertoni
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Gobiaria; Gobiiformes; Gobioidei; Gobiidae;
+            Gobionellinae; Mugilogobius.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Agorreta,A., San Mauro,D., Schliewen,U., Van Tassell,J.L.,
+            Kovacic,M., Zardoya,R. and Ruber,L.
+  TITLE     Molecular phylogenetics of Gobioidei and phylogenetic placement of
+            European gobies
+  JOURNAL   Mol. Phylogenet. Evol. 69 (3), 619-633 (2013)
+   PUBMED   23911892
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Agorreta,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-JUL-2013) Department of Life Sciences, The Natural
+            History Museum, Cromwell Road, London SW7 5BD, United Kingdom
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Sequencher v. 4.8
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Mugilogobius mertoni"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="NMBE 1066443"
+                     /db_xref="taxon:1302783"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 c
+//
+
+LOCUS       KF415419                   1 bp    DNA     linear   VRT 15-NOV-2013
+DEFINITION  Mugilogobius wilsoni voucher NMBE 1066444 12S ribosomal RNA gene,
+            partial sequence; tRNA-Val gene, complete sequence; and 16S
+            ribosomal RNA gene, partial sequence; mitochondrial.
+ACCESSION   KF415419 REGION: 1
+VERSION     KF415419.1
+KEYWORDS    .
+SOURCE      mitochondrion Mugilogobius wilsoni (Wilson's mangrove goby)
+  ORGANISM  Mugilogobius wilsoni
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Gobiaria; Gobiiformes; Gobioidei; Gobiidae;
+            Gobionellinae; Mugilogobius.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Agorreta,A., San Mauro,D., Schliewen,U., Van Tassell,J.L.,
+            Kovacic,M., Zardoya,R. and Ruber,L.
+  TITLE     Molecular phylogenetics of Gobioidei and phylogenetic placement of
+            European gobies
+  JOURNAL   Mol. Phylogenet. Evol. 69 (3), 619-633 (2013)
+   PUBMED   23911892
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Agorreta,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-JUL-2013) Department of Life Sciences, The Natural
+            History Museum, Cromwell Road, London SW7 5BD, United Kingdom
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Sequencher v. 4.8
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Mugilogobius wilsoni"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="NMBE 1066444"
+                     /db_xref="taxon:1365567"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 c
+//
+
+LOCUS       KF420268                   1 bp    DNA     linear   VRT 06-DEC-2013
+DEFINITION  Channa marulius mitochondrion, complete genome.
+ACCESSION   KF420268 REGION: 1
+VERSION     KF420268.1
+KEYWORDS    .
+SOURCE      mitochondrion Channa marulius (great snakehead)
+  ORGANISM  Channa marulius
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Anabantaria; Anabantiformes; Channoidei;
+            Channidae; Channa.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Singh,R.K., Mohindra,V., Pathak,A., Lal,K.K. and Jena,J.K.
+  TITLE     Complete sequence and characterization of mitochondrial genome in
+            great snakehead, Channa marulius (Hamilton, 1822)
+  JOURNAL   Mitochondrial DNA (2013) In press
+   PUBMED   24047162
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Singh,R.K., Mohindra,V., Pathak,A., Lal,K.K. and Jena,J.K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-JUL-2013) fish conservation Division, National Bureau
+            of Fish Genetic Resources, Canal Ring Road, Lucknow, UP 226002,
+            India
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: BioEdit v. 7.1.3.0
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Channa marulius"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:205123"
+     tRNA            >1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       KF856964                   1 bp    DNA     linear   VRT 01-FEB-2014
+DEFINITION  Cyprinus carpio 'wananensis' mitochondrion, complete genome.
+ACCESSION   KF856964 REGION: 1
+VERSION     KF856964.1
+KEYWORDS    .
+SOURCE      mitochondrion Cyprinus carpio 'wananensis' (glass red common carp)
+  ORGANISM  Cyprinus carpio 'wananensis'
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Cyprinidae; Cyprininae; Cyprinus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Lin,M., Zou,J. and Wang,C.
+  TITLE     Complete mitochondrial genomes of domesticated and wild common carp
+            (Cyprinus carpio L.)
+  JOURNAL   Mitochondrial DNA (2014) In press
+   PUBMED   24438270
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Lin,M. and Wang,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-NOV-2013) College of Fisheries and Life Science,
+            Shanghai Ocean University, No. 999, Hucheng Ring Road,
+            Linguangxincheng, Pudong New District, Shanghai 201306, China
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Cyprinus carpio 'wananensis'"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:1414750"
+     tRNA            >1
+                     /product="tRNA-Phe"
+                     /note="codon recognized: UUC"
+ORIGIN      
+        1 g
+//
+
+LOCUS       KF856965                   1 bp    DNA     linear   VRT 21-FEB-2014
+DEFINITION  Cyprinus carpio mitochondrion, complete genome.
+ACCESSION   KF856965 REGION: 1
+VERSION     KF856965.1
+KEYWORDS    .
+SOURCE      mitochondrion Cyprinus carpio (common carp)
+  ORGANISM  Cyprinus carpio
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Cyprinidae; Cyprininae; Cyprinus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Lin,M., Zou,J. and Wang,C.
+  TITLE     Complete mitochondrial genomes of domesticated and wild common carp
+            (Cyprinus carpio L.)
+  JOURNAL   Mitochondrial DNA (2014) In press
+   PUBMED   24438270
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Lin,M. and Wang,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-NOV-2013) College of Fisheries and Life Science,
+            Shanghai Ocean University, No. 999, Hucheng Ring Road,
+            Linguangxincheng, Pudong New District, Shanghai 201306, China
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Cyprinus carpio"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:7962"
+     tRNA            >1
+                     /product="tRNA-Phe"
+                     /note="codon recognized: UUC"
+ORIGIN      
+        1 g
+//
+
+LOCUS       KF879808                   1 bp    DNA     linear   VRT 20-FEB-2014
+DEFINITION  Paraneetroplus synspilus mitochondrion, complete genome.
+ACCESSION   KF879808 REGION: 1
+VERSION     KF879808.1
+KEYWORDS    .
+SOURCE      mitochondrion Vieja melanura (redhead cichlid)
+  ORGANISM  Vieja melanura
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Ovalentaria; Cichlomorphae; Cichliformes;
+            Cichlidae; New World cichlids; Cichlasomatinae; Heroini; Vieja.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Gao,J.Z., Xu,B., Wang,C.H. and Wang,X.L.
+  TITLE     Mitochondrial DNA sequence of Vieja synspila, a cichlid fish
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Xu,B. and Chen,Z.Z.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-NOV-2013) College of Fisheries and Life Science,
+            Shanghai Ocean University, No. 999, Hucheng Ring Road
+            Linguangxincheng, Pudong New District, ShangHai 201306, China
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Vieja melanura"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:318738"
+                     /tissue_type="caudal-fin"
+     tRNA            >1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       KF932266                   1 bp    DNA     linear   VRT 16-FEB-2014
+DEFINITION  Cyprinus carpio 'longfin' mitochondrion, complete genome.
+ACCESSION   KF932266 REGION: 1
+VERSION     KF932266.1
+KEYWORDS    .
+SOURCE      mitochondrion Cyprinus carpio 'longfin'
+  ORGANISM  Cyprinus carpio 'longfin'
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Cyprinidae; Cyprininae; Cyprinus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Lin,M.X. and Wang,C.H.
+  TITLE     The complete mitochondrial genome of the Long-fin common carp,
+            Cyprinus carpio var. longfin (Cypriniformes, Cyprinidae)
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Lin,M.X. and Wang,C.H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (04-DEC-2013) College of Fisheries and Life Science,
+            Shanghai Ocean University, No. 999, Hucheng ring road
+            Linguangxincheng, Pudong new District Shanghai City P.R. China,
+            Shanghai, Shanghai 201306, China
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Cyprinus carpio 'longfin'"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:1459801"
+     tRNA            >1
+                     /product="tRNA-Phe"
+                     /note="codon recognized: UUC"
+ORIGIN      
+        1 g
+//
+
+LOCUS       KJ081546                   1 bp    DNA     linear   VRT 15-MAR-2014
+DEFINITION  Amphilophus citrinellus mitochondrion, complete genome.
+ACCESSION   KJ081546 REGION: 1
+VERSION     KJ081546.1
+KEYWORDS    .
+SOURCE      mitochondrion Amphilophus citrinellus (Midas cichlid)
+  ORGANISM  Amphilophus citrinellus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Ovalentaria; Cichlomorphae; Cichliformes;
+            Cichlidae; New World cichlids; Cichlasomatinae; Heroini;
+            Amphilophus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Song,H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-JAN-2014) pearl river fisheries research institute,
+            No. 1, xingyu road, guangzhou, guangdong 510380, China
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: vector nti v. 8
+            Sequencing Technology :: PolymeraseChainReaction
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Amphilophus citrinellus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:61819"
+     tRNA            >1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       KJ460033                   1 bp    DNA     linear   VRT 07-MAY-2014
+DEFINITION  Poecilia reticulata mitochondrion, complete genome.
+ACCESSION   KJ460033 REGION: 1
+VERSION     KJ460033.1
+DBLINK      BioProject: PRJNA238429
+            BioSample: SAMN02404645
+KEYWORDS    .
+SOURCE      mitochondrion Poecilia reticulata (guppy)
+  ORGANISM  Poecilia reticulata
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Ovalentaria; Atherinomorphae; Cyprinodontiformes;
+            Poeciliidae; Poeciliinae; Poecilia.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Kunstner,A.
+  TITLE     Complete mitochondrial genome of a female high predation Guanapo
+            guppy (Poecilia reticulata)
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Kunstner,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-FEB-2014) Department of Molecular Biology (VI), Max
+            Planck Institute for Developmental Biology, Spemannstrasse 37-39,
+            Tubingen 72076, Germany
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Trinity v. r2012-03-17
+            Sequencing Technology :: Illumina
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Poecilia reticulata"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8081"
+     tRNA            >1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       KJ511882                   1 bp    DNA     linear   VRT 19-MAY-2014
+DEFINITION  Cyprinus carpio 'koi' mitochondrion, complete genome.
+ACCESSION   KJ511882 REGION: 1
+VERSION     KJ511882.1
+KEYWORDS    .
+SOURCE      mitochondrion Cyprinus carpio 'koi'
+  ORGANISM  Cyprinus carpio 'koi'
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Cyprinidae; Cyprininae; Cyprinus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Lin,M.X. and Wang,C.H.
+  TITLE     The complete mitochondrial genome of the Japanese koi carp
+            (Cyprinus carpio)
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Lin,M.X. and Wang,C.H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (28-FEB-2014) College of Fisheries and Life Science,
+            Shanghai Ocean University, No. 999, Hucheng Ring Road
+            Linguangxincheng, Pudong New District, Shanghai, Shanghai 201306,
+            China
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Cyprinus carpio 'koi'"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:1499333"
+     tRNA            >1
+                     /product="tRNA-Phe"
+                     /note="codon recognized: UUC"
+ORIGIN      
+        1 g
+//
+
+LOCUS       KJ564170                   1 bp    DNA     linear   VRT 26-MAR-2014
+DEFINITION  Anguilla rostrata isolate SJR_Y_31 mitochondrion, complete genome.
+ACCESSION   KJ564170 REGION: 1
+VERSION     KJ564170.1
+KEYWORDS    .
+SOURCE      mitochondrion Anguilla rostrata (American eel)
+  ORGANISM  Anguilla rostrata
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Anguilliformes;
+            Anguillidae; Anguilla.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Jacobsen,M.W., Pujolar,J.M., Gilbert,M.T., Moreno-Mayar,J.V.,
+            Bernatchez,L., Als,T.D., Lobon-Cervia,J. and Hansen,M.M.
+  TITLE     Speciation and demographic history of Atlantic eels (Anguilla
+            anguilla and A. rostrata) revealed by mitogenome sequencing
+  JOURNAL   Heredity (Edinb) 113 (5), 432-442 (2014)
+   PUBMED   24865601
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Jacobsen,M.W., Pujolar,J.M., Gilbert,M.T.P., Moreno-Mayar,J.V.,
+            Bernatchez,L., Als,T.D., Lobon-Cervia,J. and Hansen,M.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-MAR-2014) Department of Bioscience, Aarhus
+            University, Ny Munkegade 114, Aarhus C 8000, Denmark
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Anguilla rostrata"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="SJR_Y_31"
+                     /db_xref="taxon:7938"
+     tRNA            >1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       KJ564172                   1 bp    DNA     linear   VRT 26-MAR-2014
+DEFINITION  Anguilla rostrata isolate BH_G_1 mitochondrion, complete genome.
+ACCESSION   KJ564172 REGION: 1
+VERSION     KJ564172.1
+KEYWORDS    .
+SOURCE      mitochondrion Anguilla rostrata (American eel)
+  ORGANISM  Anguilla rostrata
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Anguilliformes;
+            Anguillidae; Anguilla.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Jacobsen,M.W., Pujolar,J.M., Gilbert,M.T., Moreno-Mayar,J.V.,
+            Bernatchez,L., Als,T.D., Lobon-Cervia,J. and Hansen,M.M.
+  TITLE     Speciation and demographic history of Atlantic eels (Anguilla
+            anguilla and A. rostrata) revealed by mitogenome sequencing
+  JOURNAL   Heredity (Edinb) 113 (5), 432-442 (2014)
+   PUBMED   24865601
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Jacobsen,M.W., Pujolar,J.M., Gilbert,M.T.P., Moreno-Mayar,J.V.,
+            Bernatchez,L., Als,T.D., Lobon-Cervia,J. and Hansen,M.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-MAR-2014) Department of Bioscience, Aarhus
+            University, Ny Munkegade 114, Aarhus C 8000, Denmark
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Anguilla rostrata"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="BH_G_1"
+                     /db_xref="taxon:7938"
+     tRNA            >1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       KJ564174                   1 bp    DNA     linear   VRT 26-MAR-2014
+DEFINITION  Anguilla rostrata isolate WR_Y_1 mitochondrion, complete genome.
+ACCESSION   KJ564174 REGION: 1
+VERSION     KJ564174.1
+KEYWORDS    .
+SOURCE      mitochondrion Anguilla rostrata (American eel)
+  ORGANISM  Anguilla rostrata
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Anguilliformes;
+            Anguillidae; Anguilla.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Jacobsen,M.W., Pujolar,J.M., Gilbert,M.T., Moreno-Mayar,J.V.,
+            Bernatchez,L., Als,T.D., Lobon-Cervia,J. and Hansen,M.M.
+  TITLE     Speciation and demographic history of Atlantic eels (Anguilla
+            anguilla and A. rostrata) revealed by mitogenome sequencing
+  JOURNAL   Heredity (Edinb) 113 (5), 432-442 (2014)
+   PUBMED   24865601
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Jacobsen,M.W., Pujolar,J.M., Gilbert,M.T.P., Moreno-Mayar,J.V.,
+            Bernatchez,L., Als,T.D., Lobon-Cervia,J. and Hansen,M.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-MAR-2014) Department of Bioscience, Aarhus
+            University, Ny Munkegade 114, Aarhus C 8000, Denmark
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Anguilla rostrata"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="WR_Y_1"
+                     /db_xref="taxon:7938"
+     tRNA            >1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       KJ564176                   1 bp    DNA     linear   VRT 26-MAR-2014
+DEFINITION  Anguilla rostrata isolate WR_Y_3 mitochondrion, complete genome.
+ACCESSION   KJ564176 REGION: 1
+VERSION     KJ564176.1
+KEYWORDS    .
+SOURCE      mitochondrion Anguilla rostrata (American eel)
+  ORGANISM  Anguilla rostrata
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Anguilliformes;
+            Anguillidae; Anguilla.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Jacobsen,M.W., Pujolar,J.M., Gilbert,M.T., Moreno-Mayar,J.V.,
+            Bernatchez,L., Als,T.D., Lobon-Cervia,J. and Hansen,M.M.
+  TITLE     Speciation and demographic history of Atlantic eels (Anguilla
+            anguilla and A. rostrata) revealed by mitogenome sequencing
+  JOURNAL   Heredity (Edinb) 113 (5), 432-442 (2014)
+   PUBMED   24865601
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Jacobsen,M.W., Pujolar,J.M., Gilbert,M.T.P., Moreno-Mayar,J.V.,
+            Bernatchez,L., Als,T.D., Lobon-Cervia,J. and Hansen,M.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-MAR-2014) Department of Bioscience, Aarhus
+            University, Ny Munkegade 114, Aarhus C 8000, Denmark
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Anguilla rostrata"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="WR_Y_3"
+                     /db_xref="taxon:7938"
+     tRNA            >1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       KJ564181                   1 bp    DNA     linear   VRT 26-MAR-2014
+DEFINITION  Anguilla rostrata isolate MR_Y_24 mitochondrion, complete genome.
+ACCESSION   KJ564181 REGION: 1
+VERSION     KJ564181.1
+KEYWORDS    .
+SOURCE      mitochondrion Anguilla rostrata (American eel)
+  ORGANISM  Anguilla rostrata
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Anguilliformes;
+            Anguillidae; Anguilla.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Jacobsen,M.W., Pujolar,J.M., Gilbert,M.T., Moreno-Mayar,J.V.,
+            Bernatchez,L., Als,T.D., Lobon-Cervia,J. and Hansen,M.M.
+  TITLE     Speciation and demographic history of Atlantic eels (Anguilla
+            anguilla and A. rostrata) revealed by mitogenome sequencing
+  JOURNAL   Heredity (Edinb) 113 (5), 432-442 (2014)
+   PUBMED   24865601
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Jacobsen,M.W., Pujolar,J.M., Gilbert,M.T.P., Moreno-Mayar,J.V.,
+            Bernatchez,L., Als,T.D., Lobon-Cervia,J. and Hansen,M.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-MAR-2014) Department of Bioscience, Aarhus
+            University, Ny Munkegade 114, Aarhus C 8000, Denmark
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Anguilla rostrata"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="MR_Y_24"
+                     /db_xref="taxon:7938"
+     tRNA            >1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       KJ564182                   1 bp    DNA     linear   VRT 26-MAR-2014
+DEFINITION  Anguilla rostrata isolate NE_G_19 mitochondrion, complete genome.
+ACCESSION   KJ564182 REGION: 1
+VERSION     KJ564182.1
+KEYWORDS    .
+SOURCE      mitochondrion Anguilla rostrata (American eel)
+  ORGANISM  Anguilla rostrata
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Anguilliformes;
+            Anguillidae; Anguilla.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Jacobsen,M.W., Pujolar,J.M., Gilbert,M.T., Moreno-Mayar,J.V.,
+            Bernatchez,L., Als,T.D., Lobon-Cervia,J. and Hansen,M.M.
+  TITLE     Speciation and demographic history of Atlantic eels (Anguilla
+            anguilla and A. rostrata) revealed by mitogenome sequencing
+  JOURNAL   Heredity (Edinb) 113 (5), 432-442 (2014)
+   PUBMED   24865601
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Jacobsen,M.W., Pujolar,J.M., Gilbert,M.T.P., Moreno-Mayar,J.V.,
+            Bernatchez,L., Als,T.D., Lobon-Cervia,J. and Hansen,M.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-MAR-2014) Department of Bioscience, Aarhus
+            University, Ny Munkegade 114, Aarhus C 8000, Denmark
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Anguilla rostrata"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="NE_G_19"
+                     /db_xref="taxon:7938"
+     tRNA            >1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       KJ564191                   1 bp    DNA     linear   VRT 26-MAR-2014
+DEFINITION  Anguilla rostrata isolate RB_Y_13 mitochondrion, complete genome.
+ACCESSION   KJ564191 REGION: 1
+VERSION     KJ564191.1
+KEYWORDS    .
+SOURCE      mitochondrion Anguilla rostrata (American eel)
+  ORGANISM  Anguilla rostrata
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Anguilliformes;
+            Anguillidae; Anguilla.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Jacobsen,M.W., Pujolar,J.M., Gilbert,M.T., Moreno-Mayar,J.V.,
+            Bernatchez,L., Als,T.D., Lobon-Cervia,J. and Hansen,M.M.
+  TITLE     Speciation and demographic history of Atlantic eels (Anguilla
+            anguilla and A. rostrata) revealed by mitogenome sequencing
+  JOURNAL   Heredity (Edinb) 113 (5), 432-442 (2014)
+   PUBMED   24865601
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Jacobsen,M.W., Pujolar,J.M., Gilbert,M.T.P., Moreno-Mayar,J.V.,
+            Bernatchez,L., Als,T.D., Lobon-Cervia,J. and Hansen,M.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-MAR-2014) Department of Bioscience, Aarhus
+            University, Ny Munkegade 114, Aarhus C 8000, Denmark
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Anguilla rostrata"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="RB_Y_13"
+                     /db_xref="taxon:7938"
+     tRNA            >1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       KJ564193                   1 bp    DNA     linear   VRT 26-MAR-2014
+DEFINITION  Anguilla rostrata isolate RB_Y_15 mitochondrion, complete genome.
+ACCESSION   KJ564193 REGION: 1
+VERSION     KJ564193.1
+KEYWORDS    .
+SOURCE      mitochondrion Anguilla rostrata (American eel)
+  ORGANISM  Anguilla rostrata
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Anguilliformes;
+            Anguillidae; Anguilla.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Jacobsen,M.W., Pujolar,J.M., Gilbert,M.T., Moreno-Mayar,J.V.,
+            Bernatchez,L., Als,T.D., Lobon-Cervia,J. and Hansen,M.M.
+  TITLE     Speciation and demographic history of Atlantic eels (Anguilla
+            anguilla and A. rostrata) revealed by mitogenome sequencing
+  JOURNAL   Heredity (Edinb) 113 (5), 432-442 (2014)
+   PUBMED   24865601
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Jacobsen,M.W., Pujolar,J.M., Gilbert,M.T.P., Moreno-Mayar,J.V.,
+            Bernatchez,L., Als,T.D., Lobon-Cervia,J. and Hansen,M.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-MAR-2014) Department of Bioscience, Aarhus
+            University, Ny Munkegade 114, Aarhus C 8000, Denmark
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Anguilla rostrata"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="RB_Y_15"
+                     /db_xref="taxon:7938"
+     tRNA            >1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       KJ564196                   1 bp    DNA     linear   VRT 26-MAR-2014
+DEFINITION  Anguilla rostrata isolate RB_Y_18 mitochondrion, complete genome.
+ACCESSION   KJ564196 REGION: 1
+VERSION     KJ564196.1
+KEYWORDS    .
+SOURCE      mitochondrion Anguilla rostrata (American eel)
+  ORGANISM  Anguilla rostrata
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Anguilliformes;
+            Anguillidae; Anguilla.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Jacobsen,M.W., Pujolar,J.M., Gilbert,M.T., Moreno-Mayar,J.V.,
+            Bernatchez,L., Als,T.D., Lobon-Cervia,J. and Hansen,M.M.
+  TITLE     Speciation and demographic history of Atlantic eels (Anguilla
+            anguilla and A. rostrata) revealed by mitogenome sequencing
+  JOURNAL   Heredity (Edinb) 113 (5), 432-442 (2014)
+   PUBMED   24865601
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Jacobsen,M.W., Pujolar,J.M., Gilbert,M.T.P., Moreno-Mayar,J.V.,
+            Bernatchez,L., Als,T.D., Lobon-Cervia,J. and Hansen,M.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-MAR-2014) Department of Bioscience, Aarhus
+            University, Ny Munkegade 114, Aarhus C 8000, Denmark
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Anguilla rostrata"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="RB_Y_18"
+                     /db_xref="taxon:7938"
+     tRNA            >1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       KJ564205                   1 bp    DNA     linear   VRT 26-MAR-2014
+DEFINITION  Anguilla rostrata isolate RB_G_28 mitochondrion, complete genome.
+ACCESSION   KJ564205 REGION: 1
+VERSION     KJ564205.1
+KEYWORDS    .
+SOURCE      mitochondrion Anguilla rostrata (American eel)
+  ORGANISM  Anguilla rostrata
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Anguilliformes;
+            Anguillidae; Anguilla.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Jacobsen,M.W., Pujolar,J.M., Gilbert,M.T., Moreno-Mayar,J.V.,
+            Bernatchez,L., Als,T.D., Lobon-Cervia,J. and Hansen,M.M.
+  TITLE     Speciation and demographic history of Atlantic eels (Anguilla
+            anguilla and A. rostrata) revealed by mitogenome sequencing
+  JOURNAL   Heredity (Edinb) 113 (5), 432-442 (2014)
+   PUBMED   24865601
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Jacobsen,M.W., Pujolar,J.M., Gilbert,M.T.P., Moreno-Mayar,J.V.,
+            Bernatchez,L., Als,T.D., Lobon-Cervia,J. and Hansen,M.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-MAR-2014) Department of Bioscience, Aarhus
+            University, Ny Munkegade 114, Aarhus C 8000, Denmark
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Anguilla rostrata"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="RB_G_28"
+                     /db_xref="taxon:7938"
+     tRNA            >1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       KJ564207                   1 bp    DNA     linear   VRT 26-MAR-2014
+DEFINITION  Anguilla rostrata isolate RB_Y_2 mitochondrion, complete genome.
+ACCESSION   KJ564207 REGION: 1
+VERSION     KJ564207.1
+KEYWORDS    .
+SOURCE      mitochondrion Anguilla rostrata (American eel)
+  ORGANISM  Anguilla rostrata
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Anguilliformes;
+            Anguillidae; Anguilla.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Jacobsen,M.W., Pujolar,J.M., Gilbert,M.T., Moreno-Mayar,J.V.,
+            Bernatchez,L., Als,T.D., Lobon-Cervia,J. and Hansen,M.M.
+  TITLE     Speciation and demographic history of Atlantic eels (Anguilla
+            anguilla and A. rostrata) revealed by mitogenome sequencing
+  JOURNAL   Heredity (Edinb) 113 (5), 432-442 (2014)
+   PUBMED   24865601
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Jacobsen,M.W., Pujolar,J.M., Gilbert,M.T.P., Moreno-Mayar,J.V.,
+            Bernatchez,L., Als,T.D., Lobon-Cervia,J. and Hansen,M.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-MAR-2014) Department of Bioscience, Aarhus
+            University, Ny Munkegade 114, Aarhus C 8000, Denmark
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Anguilla rostrata"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="RB_Y_2"
+                     /db_xref="taxon:7938"
+     tRNA            >1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       KJ564227                   1 bp    DNA     linear   VRT 26-MAR-2014
+DEFINITION  Anguilla anguilla isolate RH_G_3 mitochondrion, complete genome.
+ACCESSION   KJ564227 REGION: 1
+VERSION     KJ564227.1
+KEYWORDS    .
+SOURCE      mitochondrion Anguilla anguilla (European eel)
+  ORGANISM  Anguilla anguilla
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Anguilliformes;
+            Anguillidae; Anguilla.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Jacobsen,M.W., Pujolar,J.M., Gilbert,M.T., Moreno-Mayar,J.V.,
+            Bernatchez,L., Als,T.D., Lobon-Cervia,J. and Hansen,M.M.
+  TITLE     Speciation and demographic history of Atlantic eels (Anguilla
+            anguilla and A. rostrata) revealed by mitogenome sequencing
+  JOURNAL   Heredity (Edinb) 113 (5), 432-442 (2014)
+   PUBMED   24865601
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Jacobsen,M.W., Pujolar,J.M., Gilbert,M.T.P., Moreno-Mayar,J.V.,
+            Bernatchez,L., Als,T.D., Lobon-Cervia,J. and Hansen,M.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-MAR-2014) Department of Bioscience, Aarhus
+            University, Ny Munkegade 114, Aarhus C 8000, Denmark
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Anguilla anguilla"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="RH_G_3"
+                     /db_xref="taxon:7936"
+     tRNA            >1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       KJ564228                   1 bp    DNA     linear   VRT 26-MAR-2014
+DEFINITION  Anguilla anguilla isolate RH_G_4 mitochondrion, complete genome.
+ACCESSION   KJ564228 REGION: 1
+VERSION     KJ564228.1
+KEYWORDS    .
+SOURCE      mitochondrion Anguilla anguilla (European eel)
+  ORGANISM  Anguilla anguilla
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Anguilliformes;
+            Anguillidae; Anguilla.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Jacobsen,M.W., Pujolar,J.M., Gilbert,M.T., Moreno-Mayar,J.V.,
+            Bernatchez,L., Als,T.D., Lobon-Cervia,J. and Hansen,M.M.
+  TITLE     Speciation and demographic history of Atlantic eels (Anguilla
+            anguilla and A. rostrata) revealed by mitogenome sequencing
+  JOURNAL   Heredity (Edinb) 113 (5), 432-442 (2014)
+   PUBMED   24865601
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Jacobsen,M.W., Pujolar,J.M., Gilbert,M.T.P., Moreno-Mayar,J.V.,
+            Bernatchez,L., Als,T.D., Lobon-Cervia,J. and Hansen,M.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-MAR-2014) Department of Bioscience, Aarhus
+            University, Ny Munkegade 114, Aarhus C 8000, Denmark
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Anguilla anguilla"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="RH_G_4"
+                     /db_xref="taxon:7936"
+     tRNA            >1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       KJ564230                   1 bp    DNA     linear   VRT 26-MAR-2014
+DEFINITION  Anguilla anguilla isolate RH_G_6 mitochondrion, complete genome.
+ACCESSION   KJ564230 REGION: 1
+VERSION     KJ564230.1
+KEYWORDS    .
+SOURCE      mitochondrion Anguilla anguilla (European eel)
+  ORGANISM  Anguilla anguilla
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Anguilliformes;
+            Anguillidae; Anguilla.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Jacobsen,M.W., Pujolar,J.M., Gilbert,M.T., Moreno-Mayar,J.V.,
+            Bernatchez,L., Als,T.D., Lobon-Cervia,J. and Hansen,M.M.
+  TITLE     Speciation and demographic history of Atlantic eels (Anguilla
+            anguilla and A. rostrata) revealed by mitogenome sequencing
+  JOURNAL   Heredity (Edinb) 113 (5), 432-442 (2014)
+   PUBMED   24865601
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Jacobsen,M.W., Pujolar,J.M., Gilbert,M.T.P., Moreno-Mayar,J.V.,
+            Bernatchez,L., Als,T.D., Lobon-Cervia,J. and Hansen,M.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-MAR-2014) Department of Bioscience, Aarhus
+            University, Ny Munkegade 114, Aarhus C 8000, Denmark
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Anguilla anguilla"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="RH_G_6"
+                     /db_xref="taxon:7936"
+     tRNA            >1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       KJ564240                   1 bp    DNA     linear   VRT 26-MAR-2014
+DEFINITION  Anguilla anguilla isolate VA_Y_4 mitochondrion, complete genome.
+ACCESSION   KJ564240 REGION: 1
+VERSION     KJ564240.1
+KEYWORDS    .
+SOURCE      mitochondrion Anguilla anguilla (European eel)
+  ORGANISM  Anguilla anguilla
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Anguilliformes;
+            Anguillidae; Anguilla.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Jacobsen,M.W., Pujolar,J.M., Gilbert,M.T., Moreno-Mayar,J.V.,
+            Bernatchez,L., Als,T.D., Lobon-Cervia,J. and Hansen,M.M.
+  TITLE     Speciation and demographic history of Atlantic eels (Anguilla
+            anguilla and A. rostrata) revealed by mitogenome sequencing
+  JOURNAL   Heredity (Edinb) 113 (5), 432-442 (2014)
+   PUBMED   24865601
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Jacobsen,M.W., Pujolar,J.M., Gilbert,M.T.P., Moreno-Mayar,J.V.,
+            Bernatchez,L., Als,T.D., Lobon-Cervia,J. and Hansen,M.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-MAR-2014) Department of Bioscience, Aarhus
+            University, Ny Munkegade 114, Aarhus C 8000, Denmark
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Anguilla anguilla"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="VA_Y_4"
+                     /db_xref="taxon:7936"
+     tRNA            >1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       KJ564245                   1 bp    DNA     linear   VRT 26-MAR-2014
+DEFINITION  Anguilla anguilla isolate BU_Y_13 mitochondrion, complete genome.
+ACCESSION   KJ564245 REGION: 1
+VERSION     KJ564245.1
+KEYWORDS    .
+SOURCE      mitochondrion Anguilla anguilla (European eel)
+  ORGANISM  Anguilla anguilla
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Anguilliformes;
+            Anguillidae; Anguilla.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Jacobsen,M.W., Pujolar,J.M., Gilbert,M.T., Moreno-Mayar,J.V.,
+            Bernatchez,L., Als,T.D., Lobon-Cervia,J. and Hansen,M.M.
+  TITLE     Speciation and demographic history of Atlantic eels (Anguilla
+            anguilla and A. rostrata) revealed by mitogenome sequencing
+  JOURNAL   Heredity (Edinb) 113 (5), 432-442 (2014)
+   PUBMED   24865601
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Jacobsen,M.W., Pujolar,J.M., Gilbert,M.T.P., Moreno-Mayar,J.V.,
+            Bernatchez,L., Als,T.D., Lobon-Cervia,J. and Hansen,M.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-MAR-2014) Department of Bioscience, Aarhus
+            University, Ny Munkegade 114, Aarhus C 8000, Denmark
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Anguilla anguilla"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="BU_Y_13"
+                     /db_xref="taxon:7936"
+     tRNA            >1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       KJ564247                   1 bp    DNA     linear   VRT 26-MAR-2014
+DEFINITION  Anguilla anguilla isolate RM_G_1 mitochondrion, complete genome.
+ACCESSION   KJ564247 REGION: 1
+VERSION     KJ564247.1
+KEYWORDS    .
+SOURCE      mitochondrion Anguilla anguilla (European eel)
+  ORGANISM  Anguilla anguilla
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Anguilliformes;
+            Anguillidae; Anguilla.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Jacobsen,M.W., Pujolar,J.M., Gilbert,M.T., Moreno-Mayar,J.V.,
+            Bernatchez,L., Als,T.D., Lobon-Cervia,J. and Hansen,M.M.
+  TITLE     Speciation and demographic history of Atlantic eels (Anguilla
+            anguilla and A. rostrata) revealed by mitogenome sequencing
+  JOURNAL   Heredity (Edinb) 113 (5), 432-442 (2014)
+   PUBMED   24865601
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Jacobsen,M.W., Pujolar,J.M., Gilbert,M.T.P., Moreno-Mayar,J.V.,
+            Bernatchez,L., Als,T.D., Lobon-Cervia,J. and Hansen,M.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-MAR-2014) Department of Bioscience, Aarhus
+            University, Ny Munkegade 114, Aarhus C 8000, Denmark
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Anguilla anguilla"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="RM_G_1"
+                     /db_xref="taxon:7936"
+     tRNA            >1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       KJ564250                   1 bp    DNA     linear   VRT 26-MAR-2014
+DEFINITION  Anguilla anguilla isolate LGL_G_1 mitochondrion, complete genome.
+ACCESSION   KJ564250 REGION: 1
+VERSION     KJ564250.1
+KEYWORDS    .
+SOURCE      mitochondrion Anguilla anguilla (European eel)
+  ORGANISM  Anguilla anguilla
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Anguilliformes;
+            Anguillidae; Anguilla.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Jacobsen,M.W., Pujolar,J.M., Gilbert,M.T., Moreno-Mayar,J.V.,
+            Bernatchez,L., Als,T.D., Lobon-Cervia,J. and Hansen,M.M.
+  TITLE     Speciation and demographic history of Atlantic eels (Anguilla
+            anguilla and A. rostrata) revealed by mitogenome sequencing
+  JOURNAL   Heredity (Edinb) 113 (5), 432-442 (2014)
+   PUBMED   24865601
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Jacobsen,M.W., Pujolar,J.M., Gilbert,M.T.P., Moreno-Mayar,J.V.,
+            Bernatchez,L., Als,T.D., Lobon-Cervia,J. and Hansen,M.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-MAR-2014) Department of Bioscience, Aarhus
+            University, Ny Munkegade 114, Aarhus C 8000, Denmark
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Anguilla anguilla"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="LGL_G_1"
+                     /db_xref="taxon:7936"
+     tRNA            >1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       KJ564253                   1 bp    DNA     linear   VRT 26-MAR-2014
+DEFINITION  Anguilla anguilla isolate LGL_G_3 mitochondrion, complete genome.
+ACCESSION   KJ564253 REGION: 1
+VERSION     KJ564253.1
+KEYWORDS    .
+SOURCE      mitochondrion Anguilla anguilla (European eel)
+  ORGANISM  Anguilla anguilla
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Anguilliformes;
+            Anguillidae; Anguilla.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Jacobsen,M.W., Pujolar,J.M., Gilbert,M.T., Moreno-Mayar,J.V.,
+            Bernatchez,L., Als,T.D., Lobon-Cervia,J. and Hansen,M.M.
+  TITLE     Speciation and demographic history of Atlantic eels (Anguilla
+            anguilla and A. rostrata) revealed by mitogenome sequencing
+  JOURNAL   Heredity (Edinb) 113 (5), 432-442 (2014)
+   PUBMED   24865601
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Jacobsen,M.W., Pujolar,J.M., Gilbert,M.T.P., Moreno-Mayar,J.V.,
+            Bernatchez,L., Als,T.D., Lobon-Cervia,J. and Hansen,M.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-MAR-2014) Department of Bioscience, Aarhus
+            University, Ny Munkegade 114, Aarhus C 8000, Denmark
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Anguilla anguilla"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="LGL_G_3"
+                     /db_xref="taxon:7936"
+     tRNA            >1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       KJ564254                   1 bp    DNA     linear   VRT 26-MAR-2014
+DEFINITION  Anguilla anguilla isolate LE_G_10 mitochondrion, complete genome.
+ACCESSION   KJ564254 REGION: 1
+VERSION     KJ564254.1
+KEYWORDS    .
+SOURCE      mitochondrion Anguilla anguilla (European eel)
+  ORGANISM  Anguilla anguilla
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Anguilliformes;
+            Anguillidae; Anguilla.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Jacobsen,M.W., Pujolar,J.M., Gilbert,M.T., Moreno-Mayar,J.V.,
+            Bernatchez,L., Als,T.D., Lobon-Cervia,J. and Hansen,M.M.
+  TITLE     Speciation and demographic history of Atlantic eels (Anguilla
+            anguilla and A. rostrata) revealed by mitogenome sequencing
+  JOURNAL   Heredity (Edinb) 113 (5), 432-442 (2014)
+   PUBMED   24865601
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Jacobsen,M.W., Pujolar,J.M., Gilbert,M.T.P., Moreno-Mayar,J.V.,
+            Bernatchez,L., Als,T.D., Lobon-Cervia,J. and Hansen,M.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-MAR-2014) Department of Bioscience, Aarhus
+            University, Ny Munkegade 114, Aarhus C 8000, Denmark
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Anguilla anguilla"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="LE_G_10"
+                     /db_xref="taxon:7936"
+     tRNA            >1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       KJ564255                   1 bp    DNA     linear   VRT 26-MAR-2014
+DEFINITION  Anguilla anguilla isolate LE_G_11 mitochondrion, complete genome.
+ACCESSION   KJ564255 REGION: 1
+VERSION     KJ564255.1
+KEYWORDS    .
+SOURCE      mitochondrion Anguilla anguilla (European eel)
+  ORGANISM  Anguilla anguilla
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Anguilliformes;
+            Anguillidae; Anguilla.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Jacobsen,M.W., Pujolar,J.M., Gilbert,M.T., Moreno-Mayar,J.V.,
+            Bernatchez,L., Als,T.D., Lobon-Cervia,J. and Hansen,M.M.
+  TITLE     Speciation and demographic history of Atlantic eels (Anguilla
+            anguilla and A. rostrata) revealed by mitogenome sequencing
+  JOURNAL   Heredity (Edinb) 113 (5), 432-442 (2014)
+   PUBMED   24865601
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Jacobsen,M.W., Pujolar,J.M., Gilbert,M.T.P., Moreno-Mayar,J.V.,
+            Bernatchez,L., Als,T.D., Lobon-Cervia,J. and Hansen,M.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-MAR-2014) Department of Bioscience, Aarhus
+            University, Ny Munkegade 114, Aarhus C 8000, Denmark
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Anguilla anguilla"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="LE_G_11"
+                     /db_xref="taxon:7936"
+     tRNA            >1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       KJ564257                   1 bp    DNA     linear   VRT 26-MAR-2014
+DEFINITION  Anguilla anguilla isolate LE_G_13 mitochondrion, complete genome.
+ACCESSION   KJ564257 REGION: 1
+VERSION     KJ564257.1
+KEYWORDS    .
+SOURCE      mitochondrion Anguilla anguilla (European eel)
+  ORGANISM  Anguilla anguilla
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Anguilliformes;
+            Anguillidae; Anguilla.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Jacobsen,M.W., Pujolar,J.M., Gilbert,M.T., Moreno-Mayar,J.V.,
+            Bernatchez,L., Als,T.D., Lobon-Cervia,J. and Hansen,M.M.
+  TITLE     Speciation and demographic history of Atlantic eels (Anguilla
+            anguilla and A. rostrata) revealed by mitogenome sequencing
+  JOURNAL   Heredity (Edinb) 113 (5), 432-442 (2014)
+   PUBMED   24865601
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Jacobsen,M.W., Pujolar,J.M., Gilbert,M.T.P., Moreno-Mayar,J.V.,
+            Bernatchez,L., Als,T.D., Lobon-Cervia,J. and Hansen,M.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-MAR-2014) Department of Bioscience, Aarhus
+            University, Ny Munkegade 114, Aarhus C 8000, Denmark
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Anguilla anguilla"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="LE_G_13"
+                     /db_xref="taxon:7936"
+     tRNA            >1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       KJ564268                   1 bp    DNA     linear   VRT 26-MAR-2014
+DEFINITION  Anguilla anguilla isolate MO_G_21 mitochondrion, complete genome.
+ACCESSION   KJ564268 REGION: 1
+VERSION     KJ564268.1
+KEYWORDS    .
+SOURCE      mitochondrion Anguilla anguilla (European eel)
+  ORGANISM  Anguilla anguilla
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Anguilliformes;
+            Anguillidae; Anguilla.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Jacobsen,M.W., Pujolar,J.M., Gilbert,M.T., Moreno-Mayar,J.V.,
+            Bernatchez,L., Als,T.D., Lobon-Cervia,J. and Hansen,M.M.
+  TITLE     Speciation and demographic history of Atlantic eels (Anguilla
+            anguilla and A. rostrata) revealed by mitogenome sequencing
+  JOURNAL   Heredity (Edinb) 113 (5), 432-442 (2014)
+   PUBMED   24865601
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Jacobsen,M.W., Pujolar,J.M., Gilbert,M.T.P., Moreno-Mayar,J.V.,
+            Bernatchez,L., Als,T.D., Lobon-Cervia,J. and Hansen,M.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-MAR-2014) Department of Bioscience, Aarhus
+            University, Ny Munkegade 114, Aarhus C 8000, Denmark
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Anguilla anguilla"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="MO_G_21"
+                     /db_xref="taxon:7936"
+     tRNA            >1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       KJ564271                   1 bp    DNA     linear   VRT 26-MAR-2014
+DEFINITION  Anguilla rostrata isolate RB_G_10 mitochondrion, complete genome.
+ACCESSION   KJ564271 REGION: 1
+VERSION     KJ564271.1
+KEYWORDS    .
+SOURCE      mitochondrion Anguilla rostrata (American eel)
+  ORGANISM  Anguilla rostrata
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Anguilliformes;
+            Anguillidae; Anguilla.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Jacobsen,M.W., Pujolar,J.M., Gilbert,M.T., Moreno-Mayar,J.V.,
+            Bernatchez,L., Als,T.D., Lobon-Cervia,J. and Hansen,M.M.
+  TITLE     Speciation and demographic history of Atlantic eels (Anguilla
+            anguilla and A. rostrata) revealed by mitogenome sequencing
+  JOURNAL   Heredity (Edinb) 113 (5), 432-442 (2014)
+   PUBMED   24865601
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Jacobsen,M.W., Pujolar,J.M., Gilbert,M.T.P., Moreno-Mayar,J.V.,
+            Bernatchez,L., Als,T.D., Lobon-Cervia,J. and Hansen,M.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-MAR-2014) Department of Bioscience, Aarhus
+            University, Ny Munkegade 114, Aarhus C 8000, Denmark
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Anguilla rostrata"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="RB_G_10"
+                     /db_xref="taxon:7938"
+     tRNA            >1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       KJ755565                   1 bp    DNA     linear   VRT 06-AUG-2014
+DEFINITION  Paraneetroplus synspilus x Amphilophus citrinellus mitochondrion,
+            complete genome.
+ACCESSION   KJ755565 REGION: 1
+VERSION     KJ755565.1
+KEYWORDS    .
+SOURCE      mitochondrion Paraneetroplus synspilus x Amphilophus citrinellus
+  ORGANISM  Paraneetroplus synspilus x Amphilophus citrinellus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Ovalentaria; Cichlomorphae; Cichliformes;
+            Cichlidae; New World cichlids; Cichlasomatinae; Heroini.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Xu,B., Gao,J. and Chen,Z.
+  TITLE     The complete mitochondrial DNA sequence of Vieja synspila female
+            symbol X Amphilophus citrinellus male symbol
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Xu,B., Gao,J. and Chen,Z.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (26-APR-2014) College of Fisheries and Life Science,
+            Shanghai Ocean University, No. 999, Hucheng Ring Road
+            Linguangxincheng, Pudong New District, Shanghai, Shanghai 201306,
+            China
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Paraneetroplus synspilus x Amphilophus
+                     citrinellus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:1527459"
+                     /note="Vieja synspila (female) X Amphilophus citrinellus
+                     (male)"
+     tRNA            >1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       KJ774856                   1 bp    DNA     linear   VRT 01-JUL-2015
+DEFINITION  Mugilogobius platynotus isolate CES-342 12S ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   KJ774856 REGION: 1
+VERSION     KJ774856.1
+KEYWORDS    .
+SOURCE      mitochondrion Mugilogobius platynotus (flat-backed goby)
+  ORGANISM  Mugilogobius platynotus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Gobiaria; Gobiiformes; Gobioidei; Gobiidae;
+            Gobionellinae; Mugilogobius.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Hardy,C.M.
+  TITLE     DNA barcoding the freshwater fishes of southern Australia
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Hardy,C.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (01-MAY-2014) CSIRO, Clunies Ross Street, Canberra, ACT
+            2601, Australia
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Mugilogobius platynotus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="CES-342"
+                     /db_xref="taxon:1527649"
+                     /geo_loc_name="Australia: Georges River, NSW"
+                     /collection_date="2010"
+                     /PCR_primers="fwd_name: mt1091L, fwd_seq:
+                     caaactgggattagataccccactat, rev_name: mt1478H, rev_seq:
+                     tgactgcagagggtgacgggcggtgtgt"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       KJ774892                   1 bp    DNA     linear   VRT 01-JUL-2015
+DEFINITION  Poecilia reticulata isolate CES-107 12S ribosomal RNA gene, partial
+            sequence; mitochondrial.
+ACCESSION   KJ774892 REGION: 1
+VERSION     KJ774892.1
+KEYWORDS    .
+SOURCE      mitochondrion Poecilia reticulata (guppy)
+  ORGANISM  Poecilia reticulata
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Ovalentaria; Atherinomorphae; Cyprinodontiformes;
+            Poeciliidae; Poeciliinae; Poecilia.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Hardy,C.M.
+  TITLE     DNA barcoding the freshwater fishes of southern Australia
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Hardy,C.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (01-MAY-2014) CSIRO, Clunies Ross Street, Canberra, ACT
+            2601, Australia
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Poecilia reticulata"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="CES-107"
+                     /db_xref="taxon:8081"
+                     /geo_loc_name="Australia: Aquarium Trade"
+                     /collection_date="2008"
+                     /PCR_primers="fwd_name: mt1091L, fwd_seq:
+                     caaactgggattagataccccactat, rev_name: mt1478H, rev_seq:
+                     tgactgcagagggtgacgggcggtgtgt"
+                     /note="introduced species"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       KJ774893                   1 bp    DNA     linear   VRT 01-JUL-2015
+DEFINITION  Poecilia sphenops isolate CES-106 12S ribosomal RNA gene, partial
+            sequence; mitochondrial.
+ACCESSION   KJ774893 REGION: 1
+VERSION     KJ774893.1
+KEYWORDS    .
+SOURCE      mitochondrion Poecilia sphenops (Mexican molly)
+  ORGANISM  Poecilia sphenops
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Ovalentaria; Atherinomorphae; Cyprinodontiformes;
+            Poeciliidae; Poeciliinae; Poecilia.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Hardy,C.M.
+  TITLE     DNA barcoding the freshwater fishes of southern Australia
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Hardy,C.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (01-MAY-2014) CSIRO, Clunies Ross Street, Canberra, ACT
+            2601, Australia
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Poecilia sphenops"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /strain="Silver Molly"
+                     /isolate="CES-106"
+                     /db_xref="taxon:69235"
+                     /geo_loc_name="Australia: Aquarium Trade"
+                     /collection_date="2008"
+                     /PCR_primers="fwd_name: mt1091L, fwd_seq:
+                     caaactgggattagataccccactat, rev_name: mt1478H, rev_seq:
+                     tgactgcagagggtgacgggcggtgtgt"
+                     /note="introduced species"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       KJ774935                   1 bp    DNA     linear   VRT 01-JUL-2015
+DEFINITION  Trichogaster trichopterus isolate CES-670 12S ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   KJ774935 REGION: 1
+VERSION     KJ774935.1
+KEYWORDS    .
+SOURCE      mitochondrion Trichopodus trichopterus (three spot gourami)
+  ORGANISM  Trichopodus trichopterus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Anabantaria; Anabantiformes; Anabantoidei;
+            Osphronemidae; Luciocephalinae; Trichopodus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Hardy,C.M.
+  TITLE     DNA barcoding the freshwater fishes of southern Australia
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Hardy,C.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (01-MAY-2014) CSIRO, Clunies Ross Street, Canberra, ACT
+            2601, Australia
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Trichopodus trichopterus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="CES-670"
+                     /db_xref="taxon:96903"
+                     /geo_loc_name="Australia: Aquarium Trade"
+                     /collection_date="2013"
+                     /PCR_primers="fwd_name: mt1091L, fwd_seq:
+                     caaactgggattagataccccactat, rev_name: mt1478H, rev_seq:
+                     tgactgcagagggtgacgggcggtgtgt"
+                     /note="introduced species"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       KJ808811                   1 bp    DNA     linear   VRT 23-AUG-2014
+DEFINITION  Anabas testudineus mitochondrion, complete genome.
+ACCESSION   KJ808811 REGION: 1
+VERSION     KJ808811.1
+KEYWORDS    .
+SOURCE      mitochondrion Anabas testudineus (climbing perch)
+  ORGANISM  Anabas testudineus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Anabantaria; Anabantiformes; Anabantoidei;
+            Anabantidae; Anabas.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Zhao,H., Yang,H., Sun,J., Chen,Y., Liu,L., Li,G. and Liu,L.
+  TITLE     The complete mitochondrial genome of the Anabas testudineus
+            (Perciformes, Anabantidae)
+  JOURNAL   mitochondrial DNA, 1-3 (2014) In press
+   PUBMED   24960569
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Zhao,H., Yang,H., Sun,J., Chen,Y., Liu,L., Li,G. and Liu,L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-MAY-2014) Animal Science College, South China
+            Agricultural University, No. 483, Wushan Road, Tianhe, Guangzhou,
+            Guangdong 510642, P.R. China
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Anabas testudineus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:64144"
+     tRNA            >1
+                     /product="tRNA-Phe"
+                     /note="codon recognized: UUC"
+ORIGIN      
+        1 g
+//
+
+LOCUS       KJ819540                   1 bp    DNA     linear   VRT 01-SEP-2014
+DEFINITION  Clarias fuscus mitochondrion, complete genome.
+ACCESSION   KJ819540 REGION: 1
+VERSION     KJ819540.1
+KEYWORDS    .
+SOURCE      mitochondrion Clarias fuscus (whitespotted clarias)
+  ORGANISM  Clarias fuscus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi; Siluriformes;
+            Clariidae; Clarias.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Shan,X. and Min,P.
+  TITLE     The complete mitochondrial genome of Clarias fuscus
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Shan,X. and Min,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (13-MAY-2014) Fishery Technology Extension Station of
+            Guangxi, Qingshan Road 8, Nanning, Guangxi 530000, China
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Clarias fuscus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:33541"
+     tRNA            >1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       KJ930190                   1 bp    DNA     linear   VRT 27-SEP-2014
+DEFINITION  Channa asiatica mitochondrion, complete genome.
+ACCESSION   KJ930190 REGION: 1
+VERSION     KJ930190.1
+KEYWORDS    .
+SOURCE      mitochondrion Channa asiatica (small snakehead)
+  ORGANISM  Channa asiatica
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Anabantaria; Anabantiformes; Channoidei;
+            Channidae; Channa.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Meng,Y. and Zhang,Y.
+  TITLE     Complete sequence and characterization of mitochondrial DNA genome
+            of Channa asiatica (Perciformes: Channidae)
+  JOURNAL   Mitochondrial DNA, 1-2 (2014) In press
+   PUBMED   25103438
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Meng,Y. and Liang,H.W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (02-JUN-2014) The Chinese Academy of Fisheries Sciences,
+            Yangtze River Fisheries Research Institute, No. 8, 1st Wudayuan
+            Road, East Lake Hi-Tech Development Zone, Wuhan, Hubei 430223,
+            China
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Channa asiatica"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:188929"
+     tRNA            >1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       KJ948424                   1 bp    DNA     linear   VRT 28-SEP-2014
+DEFINITION  Anguilla japonica mitochondrion, complete genome.
+ACCESSION   KJ948424 REGION: 1
+VERSION     KJ948424.1
+KEYWORDS    .
+SOURCE      mitochondrion Anguilla japonica (Japanese eel)
+  ORGANISM  Anguilla japonica
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Anguilliformes;
+            Anguillidae; Anguilla.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Zhang,S., Huang,L., Luo,L. and Wang,Q.
+  TITLE     Complete mitochondrial genome of Anguilla japonica (Anguilliformes,
+            Anguillidae)
+  JOURNAL   Mitochondrial DNA, 1-2 (2014) In press
+   PUBMED   25010074
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Zhang,S., Huang,L. and Wang,Q.L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-JUN-2014) The Chinese Medicine Hospital of LiuYang,
+            Changsha, Hunan 410000, China
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Anguilla japonica"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:7937"
+     tRNA            >1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
