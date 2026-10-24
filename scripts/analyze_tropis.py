@@ -148,8 +148,16 @@ def load_genbank() -> dict[str, dict]:
         folder = latest(dataset)
         if not folder:
             continue
-        for summary in sorted(folder.glob("*.esummary.json")):
+        summaries = sorted(folder.glob("*.esummary.json"))
+        # Kueri lama tanpa batas panjang ikut menangkap kromosom utuh; bila versi <= 20 kb
+        # (label *_s20k) ada, hanya itu yang dibaca (docs/16 §6).
+        if any("_s20k" in s.name for s in summaries):
+            summaries = [s for s in summaries if "_s20k" in s.name]
+        for summary in summaries:
             result = json.loads(summary.read_text("utf-8"))["result"]
+            if any(int(result[u].get("slen") or 0) > 20000 for u in result["uids"]):
+                print(f"  lewati {summary.name}: memuat rekaman > 20 kb")
+                continue
             fasta = summary.with_name(summary.name.replace(".esummary.json", ".fasta"))
             seqs = _read_fasta(fasta) if fasta.is_file() else {}
             for uid in result["uids"]:

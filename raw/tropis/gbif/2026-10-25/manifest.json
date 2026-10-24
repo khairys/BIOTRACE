@@ -11,8 +11,52 @@
    "bytes": 171999,
    "sha256": "153306f67081868fa7d85be7c6c7068fd0f7821f6326fe86ebe640aeb3dff6f2",
    "records": 6083
+  },
+  "MY_species_counts.json": {
+   "url": "https://api.gbif.org/v1/occurrence/search",
+   "bytes": 86535,
+   "sha256": "a7244b15796be7d0334fe3ae647115740cdb79de414e249283e1b8db329fe00e",
+   "records": 3233
+  },
+  "SG_species_counts.json": {
+   "url": "https://api.gbif.org/v1/occurrence/search",
+   "bytes": 38110,
+   "sha256": "67b81748b822624ffdc431947375a96d7a2e54831fca485d42c4a042b18e4f70",
+   "records": 1391
+  },
+  "BN_species_counts.json": {
+   "url": "https://api.gbif.org/v1/occurrence/search",
+   "bytes": 12146,
+   "sha256": "a177a54d27d81d336468bfa64297b04ef2404992527366474c8a1366dd9386f7",
+   "records": 406
+  },
+  "TL_species_counts.json": {
+   "url": "https://api.gbif.org/v1/occurrence/search",
+   "bytes": 20388,
+   "sha256": "8824368d203d1bc6f4c73e51a0799c6299543c72da9be280350cf0aa8352fa7c",
+   "records": 948
+  },
+  "PG_species_counts.json": {
+   "url": "https://api.gbif.org/v1/occurrence/search",
+   "bytes": 88924,
+   "sha256": "f747e0cbb55a730b1ceda586cdb32350e24ae68c7fa970bd446cdf95ff6429c8",
+   "records": 3129
+  },
+  "PH_species_counts.json": {
+   "url": "https://api.gbif.org/v1/occurrence/search",
+   "bytes": 141131,
+   "sha256": "f0b4bff75a7459b66ed520c0c25d98ce556429538459e6cdce5833bfbfcb50bb",
+   "records": 4981
+  },
+  "species_names.json": {
+   "url": "https://api.gbif.org/v1/species/{key}",
+   "bytes": 1499821,
+   "sha256": "8df0c1442e6426c83223be22483b0126550cdf0d8434bae8ee23c62c986723ec",
+   "records": 8350
   }
  },
  "notes": [],
- "updated": "2026-10-25T02:41:48"
+ "updated": "2026-10-25T05:32:20",
+ "finished": "2026-10-25T05:32:20",
+ "summary": "jumlah per spesies untuk 7 negara; 8350 nama spesies"
 }
