@@ -258,6 +258,12 @@ DATASETS = {
     "lsp_small": (lsp_small, "Lake St. Pierre CSV + README (prioritas 4)"),
     "lsp_raw": (lsp_raw, "Lake St. Pierre FASTQ 2,94 GB (opsional, P1)"),
 }
+try:  # dijalankan sebagai skrip (scripts/ di sys.path) atau diimpor sebagai scripts.fetch_data
+    import harvest_tropis
+except ImportError:  # pragma: no cover
+    from scripts import harvest_tropis
+
+DATASETS.update(harvest_tropis.DATASETS)  # panen tropis/Indonesia (docs/16)
 DEFAULT_ALL = ["stelbrink2014", "guyana12s", "lsp_small"]
 
 

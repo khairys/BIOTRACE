@@ -23,3 +23,9 @@ proposals/
 
 # PDF sumber disimpan lokal saja (hak cipta pihak ketiga); hash dicatat di raw/DOWNLOAD_LOG.md
 raw/checklists/*.pdf
+
+# Panen tropis: berkas besar diunduh ulang lewat fetch_data.py; hanya manifest yang dikomit
+raw/tropis/**
+!raw/tropis/**/
+!raw/tropis/**/manifest.json
+*.partial

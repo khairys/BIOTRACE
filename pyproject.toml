@@ -14,6 +14,7 @@ dependencies = [
 ]
 
 [dependency-groups]
+harvest = ["pyarrow>=15"]
 dev = ["pytest>=8,<10", "pytest-cov>=6,<8", "ruff>=0.11,<1", "httpx>=0.28,<1", "pypdf>=5,<7", "pymupdf>=1.25,<2", "playwright>=1.51,<2"]
 
 [project.scripts]
