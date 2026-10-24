@@ -43,7 +43,7 @@ Tingkat asal spesimen dipakai untuk menilai kekuatan referensi (selaras D-033 / 
 ```bash
 uv run --no-project --with pyarrow python scripts/fetch_data.py --list
 uv run --no-project --with pyarrow python scripts/fetch_data.py tropis_fishbase tropis_genbank_country tropis_genbank_freshwater tropis_genbank_marine
-uv run --no-project python scripts/fetch_data.py tropis_bold tropis_gbif tropis_oai tropis_sra tropis_regulasi tropis_europepmc tropis_brin tropis_repositori tropis_zenodo_mifish tropis_literatur
+uv run --no-project python scripts/fetch_data.py tropis_bold tropis_gbif tropis_oai tropis_sra tropis_regulasi tropis_europepmc tropis_brin tropis_brin_files tropis_repositori tropis_obis tropis_zenodo_mifish tropis_literatur
 uv run --no-project python scripts/fetch_data.py tropis_genbank_cited
 uv run --no-project --with pyarrow --with pydantic --with pyyaml --with pymupdf --with numpy python scripts/analyze_tropis.py
 ```
@@ -64,11 +64,14 @@ uv run --no-project --with pyarrow --with pydantic --with pyyaml --with pymupdf 
 | `tropis_genbank_marine` | Sama, spesies laut Indonesia versi FishBase | Kebijakan NCBI | lihat manifest |
 | `tropis_genbank_cited` | GenBank untuk aksesi yang disebut di artikel ikan Indonesia (dari `tropis_europepmc`), disaring Actinopterygii | Kebijakan NCBI | lihat manifest |
 | `tropis_bold` | BOLD v5 portal: satu unduhan global `tax:class:Teleostei` (TSV), negara disaring lokal | Per rekaman BOLD | 423.278 rekaman global |
-| `tropis_gbif` | GBIF occurrence facet per spesies (semua record + PRESERVED_SPECIMEN) untuk 7 negara + nama dari species API | Per dataset penerbit | lihat manifest |
+| `tropis_gbif` | GBIF occurrence facet per spesies (semua record + PRESERVED_SPECIMEN) untuk 7 negara + nama dari species API | Per dataset penerbit | 7 negara (ID, MY, SG, BN, TL, PG, PH); 8.350 nama spesies |
 | `tropis_oai` | OAI-PMH `ListRecords` oai_dc: Jurnal Iktiologi Indonesia, Biodiversitas, Treubia, BIOTROPIA, Limnotek, Zoo Indonesia, Berita Biologi, Marine Research in Indonesia, OLDI, JITKT IPB | Metadata terbuka; PDF per lisensi jurnal | 10/11 jurnal (Ilmu Kelautan Undip gagal `ListRecords`) |
 | `tropis_europepmc` | Europe PMC search (artikel OA ikan Indonesia + GenBank/BOLD) + Annotations API (`Accession Numbers`) | Metadata terbuka | 3.206 artikel OA, 3.183 PMCID, 53.240 aksesi nukleotida unik disebut |
 | `tropis_sra` | BioProject eDNA ikan Indonesia + ENA filereport (URL FASTQ, MD5) | Data INSDC publik | 7 BioProject, 135 run, 147 FASTQ (9,7 GB) |
 | `tropis_brin` | BRIN Repositori Ilmiah Nasional (Dataverse search + datasets API) | Per dataset | 64 dataset DNA ikan (metadata + daftar file terbuka/terkunci) |
+| `tropis_brin_files` | File **terbuka** (PDF/tabel/sekuens/dokumen, ≤ 50 MB) dari dataset BRIN lewat Dataverse access API | Per dataset | 50 file (282 file terbuka total, sisanya gambar/terlalu besar) |
+| `tropis_obis` | OBIS API v3 checklist Actinopteri area Indonesia (115) dan Indonesian Sea LME (40038) | Per dataset penerbit | 4.411 takson unik area Indonesia (OBIS melaporkan total 4.522) |
+| `tropis_iucn` | IUCN Red List API v4 `/countries/ID` (butuh env `BIOTRACE_IUCN_TOKEN`) | Ketentuan IUCN (non-komersial) | siap dijalankan setelah token ada (M10) |
 | `tropis_repositori` | Zenodo (AND, type=dataset), Dryad v2 search, Figshare search (9 kueri wilayah) | Per dataset | Zenodo 14, Dryad 31 unik, Figshare per kueri |
 | `tropis_regulasi` | Kepmen KP 1/2021 (dilindungi), Permen KP 19/2020 (Berita Negara 829, membahayakan/invasif), Kepmen KP 83/2024 (belida jawa) | Peraturan, bukan ciptaan dilindungi (UU 28/2014 Ps. 42) | 3 PDF |
 | `tropis_zenodo_mifish` | Zenodo 17664847: pustaka 12S MiFish rCRUX nt + MitoFish (Nov 2025) | CC BY 4.0 | 5 file |
@@ -113,7 +116,7 @@ Diisi dari `data/curation/tropis_gap_v1/summary.json` setelah panen selesai (lih
 8. **Verifikasi setiap tautan.** Setiap URL diuji (kode HTTP, tipe isi, tanda tangan `%PDF`); situs berproteksi anti-bot tidak diakali dan dipindah ke daftar manual.
 9. **Bug yang ditemukan dan diperbaiki:** BOLD v5 mengabaikan filter geo pada `extent=full` (unduhan per negara identik) → satu unduhan global + saring lokal; NCBI efetch 5xx sementara → percobaan ulang diperpanjang; Zenodo membatasi `size` → 25 per halaman; satu jurnal OAI gagal tidak lagi menghentikan yang lain.
 
-Alat yang dipakai: NCBI E-utilities, BOLD v5 portal API, GBIF API, HuggingFace API, Zenodo/Dryad/Figshare API, Europe PMC REST + Annotations API, ENA portal API, BRIN Dataverse API, OAI-PMH, pencarian web, pymupdf, pyarrow, numpy.
+Alat yang dipakai: NCBI E-utilities, OBIS API, IUCN API v4 (dicek tanpa token), BOLD v5 portal API, GBIF API, HuggingFace API, Zenodo/Dryad/Figshare API, Europe PMC REST + Annotations API, ENA portal API, BRIN Dataverse API, OAI-PMH, pencarian web, pymupdf, pyarrow, numpy.
 
 ## 7. Batas dan risiko
 

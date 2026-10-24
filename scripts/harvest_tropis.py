@@ -878,6 +878,44 @@ def obis() -> None:
     run.finish("checklist OBIS " + ", ".join(OBIS_AREAS.values()))
 
 
+def iucn() -> None:
+    """IUCN Red List API v4: asesmen per negara Indonesia (butuh token, docs/16 M10).
+
+    Token dari https://api.iucnredlist.org/ diset di env BIOTRACE_IUCN_TOKEN (tidak pernah
+    ditulis ke repo/manifest). Endpoint diverifikasi ada (403 tanpa token, 25 Okt 2026);
+    format respons belum diuji dengan token, jadi halaman disimpan mentah apa adanya.
+    """
+    import os
+
+    token = os.environ.get("BIOTRACE_IUCN_TOKEN")
+    if not token:
+        raise RuntimeError(
+            "Set env BIOTRACE_IUCN_TOKEN dulu (daftar di https://api.iucnredlist.org/)"
+        )
+    run = Run(
+        "iucn",
+        "IUCN Red List API v4 /countries/ID",
+        "Ketentuan IUCN Red List (non-komersial; lihat https://www.iucnredlist.org/terms)",
+        "GET api/v4/countries/ID?page=<n> dengan header Authorization: Bearer <token>",
+    )
+    page = 1
+    while True:
+        name = f"countries_ID_{page:04d}.json"
+        if not run.has(name):
+            url = f"https://api.iucnredlist.org/api/v4/countries/ID?page={page}"
+            req = urllib.request.Request(url, headers={**UA, "Authorization": f"Bearer {token}"})
+            with urllib.request.urlopen(req, timeout=120) as r:
+                _write(run.folder / name, r.read())
+            data = json.loads((run.folder / name).read_text("utf-8"))
+            run.add(name, url, len(data.get("assessments", [])))
+            time.sleep(0.5)
+        data = json.loads((run.folder / name).read_text("utf-8"))
+        if not data.get("assessments"):
+            break
+        page += 1
+    run.finish(f"{page - 1} halaman asesmen IUCN Indonesia")
+
+
 # ---------------------------------------------------------------- Repositori data internasional
 
 ZENODO_QUERY = (
@@ -1097,6 +1135,7 @@ DATASETS: dict[str, tuple[Callable[[], None], str]] = {
         "File terbuka (PDF/tabel/sekuens) dari dataset BRIN (butuh tropis_brin)",
     ),
     "tropis_obis": (obis, "OBIS checklist ikan laut area Indonesia"),
+    "tropis_iucn": (iucn, "IUCN Red List v4 asesmen Indonesia (butuh env BIOTRACE_IUCN_TOKEN)"),
     "tropis_sra": (sra, "BioProject eDNA ikan Indonesia + daftar URL FASTQ ENA (tanpa FASTQ)"),
     "tropis_zenodo_mifish": (zenodo_mifish, "Pustaka 12S MiFish rCRUX+MitoFish (Zenodo, ±27,5 MB)"),
     "tropis_zenodo_mitohelper": (
