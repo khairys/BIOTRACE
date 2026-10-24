@@ -1,0 +1,26 @@
+{
+  "changelog": "CHANGELOG.md",
+  "contains_simulated": true,
+  "counts": {
+    "sequences_accepted": 10,
+    "species_with_reference": 10,
+    "waterbodies": 1
+  },
+  "created": "2026-10-24",
+  "files": {
+    "CHANGELOG.md": "c3c5b2f00e92d04e394ad3713b4bd5a544ca9a46224dd507a8b39b9769f82730",
+    "aliases.csv": "eb647e305662a823bb9825e078bcd1e85696b70444024ab1289401979a2ae45e",
+    "checklist.csv": "d3c5c50544ed595f30ec9b93dc32c5c7d6f5a83c0168bfdc8f7e8bc13002fee3",
+    "complexes.csv": "9d8ca3f03c0496fe9ba91481d72516112078369c136d967152ed9da7492798fa",
+    "introductions.csv": "475a7bc53ed12a43de1addcb1c53780f48fcbf321f0548cb0b7e1ac7dbb4c736",
+    "sequences.csv": "74b9b88812a26e5f7103d6f15ce34847b86c8d18baf3abe6515117fa3434d2ea",
+    "sequences.fasta": "928179f87a92ec91c7d6c779d46308134855b446ef6ebb914c853509524a978b",
+    "sources.csv": "5d35038ad86f5fcf1128c2c530e0c114b260365f786090be041d20d5dedc0c96",
+    "status.csv": "1c79ff905a30057b3e4fca8d37e9d4d78624cd38c35a0faca91a47a5723d31ca",
+    "taxa.csv": "b8a09fbf6a5f4968c2253f2c6237108b621942acafac7458ba2d6110d5579fc3",
+    "waterbodies.csv": "9e4a556be3e83642a7b61d4b4740c3f8362f58384d0f8a943a93edc0f01accf5"
+  },
+  "marker": "12S_MiFish_U",
+  "module": "SIMULASI-ID",
+  "reference_version": "SIMULASI-v1"
+}

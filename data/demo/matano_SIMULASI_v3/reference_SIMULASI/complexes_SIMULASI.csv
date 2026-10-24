@@ -1,0 +1,4 @@
+complex_id,label_id,label_en,member_species,waterbody_scope,reason,source_id,reviewed_by_expert,is_simulated
+KX_PISCIS_SIMULASI,kompleks Piscis Matano (SIMULASI),Piscis SIMULATION complex,Piscis alpha,MATANO,resolusi_marker_SIMULASI,SRC_SIMULASI,False,True
+KX_PISCIS_SIMULASI,kompleks Piscis Matano (SIMULASI),Piscis SIMULATION complex,Piscis beta,MATANO,resolusi_marker_SIMULASI,SRC_SIMULASI,False,True
+KX_PISCIS_SIMULASI,kompleks Piscis Matano (SIMULASI),Piscis SIMULATION complex,Piscis gamma,MATANO,resolusi_marker_SIMULASI,SRC_SIMULASI,False,True

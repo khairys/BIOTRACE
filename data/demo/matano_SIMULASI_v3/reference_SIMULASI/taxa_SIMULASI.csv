@@ -1,0 +1,15 @@
+species_valid,genus,family,order,in_indonesia,source_id,is_simulated
+Gobio delta,Gobio,Gobioidae_SIMULASI,Ordo_SIMULASI,True,SRC_SIMULASI,True
+Gobio epsilon,Gobio,Gobioidae_SIMULASI,Ordo_SIMULASI,True,SRC_SIMULASI,True
+Gobio lambda,Gobio,Gobioidae_SIMULASI,Ordo_SIMULASI,True,SRC_SIMULASI,True
+Hybridus alpha,Hybridus,Hybridusidae_SIMULASI,Ordo_SIMULASI,True,SRC_SIMULASI,True
+Hybridus beta,Hybridus,Hybridusidae_SIMULASI,Ordo_SIMULASI,True,SRC_SIMULASI,True
+Piscis alpha,Piscis,Piscisidae_SIMULASI,Ordo_SIMULASI,True,SRC_SIMULASI,True
+Piscis beta,Piscis,Piscisidae_SIMULASI,Ordo_SIMULASI,True,SRC_SIMULASI,True
+Piscis externus,Piscis,Piscisidae_SIMULASI,Ordo_SIMULASI,False,SRC_SIMULASI,True
+Piscis gamma,Piscis,Piscisidae_SIMULASI,Ordo_SIMULASI,True,SRC_SIMULASI,True
+Rasbo eta,Rasbo,Rasboidae_SIMULASI,Ordo_SIMULASI,True,SRC_SIMULASI,True
+Rasbo iota,Rasbo,Rasboidae_SIMULASI,Ordo_SIMULASI,True,SRC_SIMULASI,True
+Rasbo theta,Rasbo,Rasboidae_SIMULASI,Ordo_SIMULASI,True,SRC_SIMULASI,True
+Rasbo zeta,Rasbo,Rasboidae_SIMULASI,Ordo_SIMULASI,True,SRC_SIMULASI,True
+Tilapa omega,Tilapa,Tilapaidae_SIMULASI,Ordo_SIMULASI,True,SRC_SIMULASI,True

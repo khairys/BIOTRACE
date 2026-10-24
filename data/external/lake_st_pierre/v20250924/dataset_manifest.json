@@ -1,0 +1,1698 @@
+{
+  "dataset": "lake_st_pierre",
+  "module": "CA-QC",
+  "version": "v20250924",
+  "source": "https://doi.org/10.5061/dryad.3bk3j9kzf",
+  "license": "CC0",
+  "imported_at": "2026-10-24T22:38:19.209278+07:00",
+  "archive_path": "raw/lake_st_pierre/downloads/doi_10_5061_dryad_3bk3j9kzf__v20250924.zip",
+  "archive_sha256": "a741c2252a532c55cb3260bbba6134336a835ab36375117f0771b33917e31dd8",
+  "raw_files_sha256": {
+    "edna_env.csv": "05dffe56d37190e4c55663d6cb89f7c34413274efa06e212156d296a7eee9aaa",
+    "elec_env.csv": "8fdc20daa36330398f5df0059291494aada7070103f4732699351e1331aa56b3",
+    "edna_lg_clean.csv": "7240a384ea566859216455a40adcb28ed1f2aea0abeddbd2f4b2d886e520af91",
+    "elec_long.csv": "1bccfef945fc3a890a0c8d4aa159e1dab777e0ca3ed138fce1e97f8f47a62c96",
+    "fish_codes.csv": "78ba86ceeea76f1b5a038d633b92237da81a15c8d9c1f0130060ff984db73c4b",
+    "raw_seq.zip": "045dda292931b8fdc28a75b13f4990184b73fc6f76d75810fa090a631b3b5527",
+    "README.md": "e0a69b28f373645d88e18556aac25689914488a7caae89332ff37eaa11765d1d"
+  },
+  "tables": {
+    "edna_env.csv": {
+      "rows": 47,
+      "columns": [
+        "station",
+        "year",
+        "landuse",
+        "manag",
+        "region",
+        "Date",
+        "UTM_X",
+        "UTM_Y",
+        "Turbidity",
+        "Water_Level",
+        "Mean_NDVI"
+      ],
+      "delimiter": ","
+    },
+    "edna_lg_clean.csv": {
+      "rows": 1692,
+      "columns": [
+        "site",
+        "round",
+        "region",
+        "landuse",
+        "year",
+        "CODE_BDRSI",
+        "count",
+        "rel_ab"
+      ],
+      "delimiter": ","
+    },
+    "elec_env.csv": {
+      "rows": 19,
+      "columns": [
+        "station",
+        "year",
+        "landuse",
+        "region",
+        "Date",
+        "UTM_X",
+        "UTM_Y",
+        "Turbidity",
+        "Water_Level",
+        "Mean_NDVI"
+      ],
+      "delimiter": ","
+    },
+    "elec_long.csv": {
+      "rows": 646,
+      "columns": [
+        "station",
+        "year",
+        "CODE_BDRSI",
+        "count",
+        "rel_ab"
+      ],
+      "delimiter": ","
+    },
+    "fish_codes.csv": {
+      "rows": 144,
+      "columns": [
+        "Family",
+        "Genus",
+        "Species",
+        "CODE_BDRSI"
+      ],
+      "delimiter": ","
+    }
+  },
+  "sequence_files": [
+    {
+      "name": "raw_seq/raw_seq_2019/GFD-BAIE04-2019-12S_S238_L001_R1_001.fastq.gz",
+      "bytes": 12470692,
+      "crc32": "dc2041fc"
+    },
+    {
+      "name": "raw_seq/raw_seq_2019/GFD-BAIE04-2019-12S_S238_L001_R2_001.fastq.gz",
+      "bytes": 13906733,
+      "crc32": "291933de"
+    },
+    {
+      "name": "raw_seq/raw_seq_2019/GFD-BAIE09-2019-12S_S239_L001_R1_001.fastq.gz",
+      "bytes": 13717662,
+      "crc32": "a9eacf36"
+    },
+    {
+      "name": "raw_seq/raw_seq_2019/GFD-BAIE09-2019-12S_S239_L001_R2_001.fastq.gz",
+      "bytes": 15459999,
+      "crc32": "cd5c850d"
+    },
+    {
+      "name": "raw_seq/raw_seq_2019/GFD-BAIENA01-2019-12S_S240_L001_R1_001.fastq.gz",
+      "bytes": 12142262,
+      "crc32": "3f7b0084"
+    },
+    {
+      "name": "raw_seq/raw_seq_2019/GFD-BAIENA01-2019-12S_S240_L001_R2_001.fastq.gz",
+      "bytes": 13496127,
+      "crc32": "f4aa53de"
+    },
+    {
+      "name": "raw_seq/raw_seq_2019/GFD-BAIENA03-2019-12S_S241_L001_R1_001.fastq.gz",
+      "bytes": 14166418,
+      "crc32": "f6b90302"
+    },
+    {
+      "name": "raw_seq/raw_seq_2019/GFD-BAIENA03-2019-12S_S241_L001_R2_001.fastq.gz",
+      "bytes": 16360181,
+      "crc32": "f5fe00f9"
+    },
+    {
+      "name": "raw_seq/raw_seq_2019/GFD-BART06-2019-12S_S242_L001_R1_001.fastq.gz",
+      "bytes": 16158466,
+      "crc32": "fbe7fe35"
+    },
+    {
+      "name": "raw_seq/raw_seq_2019/GFD-BART06-2019-12S_S242_L001_R2_001.fastq.gz",
+      "bytes": 17888948,
+      "crc32": "375d3e7e"
+    },
+    {
+      "name": "raw_seq/raw_seq_2019/GFD-BART08-2019-12S_S243_L001_R1_001.fastq.gz",
+      "bytes": 16289949,
+      "crc32": "48d46bb0"
+    },
+    {
+      "name": "raw_seq/raw_seq_2019/GFD-BART08-2019-12S_S243_L001_R2_001.fastq.gz",
+      "bytes": 18679689,
+      "crc32": "d1466c98"
+    },
+    {
+      "name": "raw_seq/raw_seq_2019/GFD-BART09-2019-12S_S244_L001_R1_001.fastq.gz",
+      "bytes": 12078190,
+      "crc32": "17323cee"
+    },
+    {
+      "name": "raw_seq/raw_seq_2019/GFD-BART09-2019-12S_S244_L001_R2_001.fastq.gz",
+      "bytes": 13384909,
+      "crc32": "de85426d"
+    },
+    {
+      "name": "raw_seq/raw_seq_2019/GFD-BART10-2019-12S_S245_L001_R1_001.fastq.gz",
+      "bytes": 12135522,
+      "crc32": "7728d8bb"
+    },
+    {
+      "name": "raw_seq/raw_seq_2019/GFD-BART10-2019-12S_S245_L001_R2_001.fastq.gz",
+      "bytes": 13011573,
+      "crc32": "4521f57f"
+    },
+    {
+      "name": "raw_seq/raw_seq_2019/GFD-BARTNA01-2019-12S_S246_L001_R1_001.fastq.gz",
+      "bytes": 12736465,
+      "crc32": "d44141fb"
+    },
+    {
+      "name": "raw_seq/raw_seq_2019/GFD-BARTNA01-2019-12S_S246_L001_R2_001.fastq.gz",
+      "bytes": 14147367,
+      "crc32": "fcc673d0"
+    },
+    {
+      "name": "raw_seq/raw_seq_2019/GFD-BARTNA02-2019-12S_S247_L001_R1_001.fastq.gz",
+      "bytes": 8836129,
+      "crc32": "1371b8d9"
+    },
+    {
+      "name": "raw_seq/raw_seq_2019/GFD-BARTNA02-2019-12S_S247_L001_R2_001.fastq.gz",
+      "bytes": 9668602,
+      "crc32": "39c76eab"
+    },
+    {
+      "name": "raw_seq/raw_seq_2019/GFD-BARTNA04-2019-12S_S248_L001_R1_001.fastq.gz",
+      "bytes": 15875932,
+      "crc32": "98628a5c"
+    },
+    {
+      "name": "raw_seq/raw_seq_2019/GFD-BARTNA04-2019-12S_S248_L001_R2_001.fastq.gz",
+      "bytes": 17311056,
+      "crc32": "a6c1d258"
+    },
+    {
+      "name": "raw_seq/raw_seq_2019/GFD-C2-12S_S260_L001_R1_001.fastq.gz",
+      "bytes": 59503261,
+      "crc32": "436a09e1"
+    },
+    {
+      "name": "raw_seq/raw_seq_2019/GFD-C2-12S_S260_L001_R2_001.fastq.gz",
+      "bytes": 61303323,
+      "crc32": "1d8e4c03"
+    },
+    {
+      "name": "raw_seq/raw_seq_2019/GFD-DUPA01-2019-12S_S249_L001_R1_001.fastq.gz",
+      "bytes": 10741606,
+      "crc32": "a28d2e25"
+    },
+    {
+      "name": "raw_seq/raw_seq_2019/GFD-DUPA01-2019-12S_S249_L001_R2_001.fastq.gz",
+      "bytes": 11572814,
+      "crc32": "4977d9e3"
+    },
+    {
+      "name": "raw_seq/raw_seq_2019/GFD-DUPA02-2019-12S_S250_L001_R1_001.fastq.gz",
+      "bytes": 10439379,
+      "crc32": "47b81c0b"
+    },
+    {
+      "name": "raw_seq/raw_seq_2019/GFD-DUPA02-2019-12S_S250_L001_R2_001.fastq.gz",
+      "bytes": 11832908,
+      "crc32": "2e383ced"
+    },
+    {
+      "name": "raw_seq/raw_seq_2019/GFD-DUPA06-2019-12S_S251_L001_R1_001.fastq.gz",
+      "bytes": 29701994,
+      "crc32": "85f8b65d"
+    },
+    {
+      "name": "raw_seq/raw_seq_2019/GFD-DUPA06-2019-12S_S251_L001_R2_001.fastq.gz",
+      "bytes": 30935751,
+      "crc32": "892ef3de"
+    },
+    {
+      "name": "raw_seq/raw_seq_2019/GFD-DUPANA01-2019-12S_S252_L001_R1_001.fastq.gz",
+      "bytes": 16474520,
+      "crc32": "60938362"
+    },
+    {
+      "name": "raw_seq/raw_seq_2019/GFD-DUPANA01-2019-12S_S252_L001_R2_001.fastq.gz",
+      "bytes": 17670326,
+      "crc32": "420029e9"
+    },
+    {
+      "name": "raw_seq/raw_seq_2019/GFD-DUPANA03-2019-12S_S253_L001_R1_001.fastq.gz",
+      "bytes": 22584818,
+      "crc32": "9a926903"
+    },
+    {
+      "name": "raw_seq/raw_seq_2019/GFD-DUPANA03-2019-12S_S253_L001_R2_001.fastq.gz",
+      "bytes": 24064901,
+      "crc32": "24914ba5"
+    },
+    {
+      "name": "raw_seq/raw_seq_2019/GFD-PIER02-2019-12S_S254_L001_R1_001.fastq.gz",
+      "bytes": 17704262,
+      "crc32": "43a39155"
+    },
+    {
+      "name": "raw_seq/raw_seq_2019/GFD-PIER02-2019-12S_S254_L001_R2_001.fastq.gz",
+      "bytes": 18023793,
+      "crc32": "e5788f41"
+    },
+    {
+      "name": "raw_seq/raw_seq_2019/GFD-PIER03-2019-12S_S255_L001_R1_001.fastq.gz",
+      "bytes": 8209267,
+      "crc32": "55bcbee9"
+    },
+    {
+      "name": "raw_seq/raw_seq_2019/GFD-PIER03-2019-12S_S255_L001_R2_001.fastq.gz",
+      "bytes": 9019361,
+      "crc32": "5b88013c"
+    },
+    {
+      "name": "raw_seq/raw_seq_2019/GFD-PIER04-2019-12S_S256_L001_R1_001.fastq.gz",
+      "bytes": 9317732,
+      "crc32": "8ccf9820"
+    },
+    {
+      "name": "raw_seq/raw_seq_2019/GFD-PIER04-2019-12S_S256_L001_R2_001.fastq.gz",
+      "bytes": 9972810,
+      "crc32": "4b25f520"
+    },
+    {
+      "name": "raw_seq/raw_seq_2019/GFD-PIER05-2019-12S_S257_L001_R1_001.fastq.gz",
+      "bytes": 10116071,
+      "crc32": "eb20eec9"
+    },
+    {
+      "name": "raw_seq/raw_seq_2019/GFD-PIER05-2019-12S_S257_L001_R2_001.fastq.gz",
+      "bytes": 11333963,
+      "crc32": "a49288d0"
+    },
+    {
+      "name": "raw_seq/raw_seq_2019/GFD-PIERNA03-2019-12S_S258_L001_R1_001.fastq.gz",
+      "bytes": 13043070,
+      "crc32": "27196ab2"
+    },
+    {
+      "name": "raw_seq/raw_seq_2019/GFD-PIERNA03-2019-12S_S258_L001_R2_001.fastq.gz",
+      "bytes": 16228909,
+      "crc32": "80d8206a"
+    },
+    {
+      "name": "raw_seq/raw_seq_2019/GFD-PIERNA04-2019-12S_S259_L001_R1_001.fastq.gz",
+      "bytes": 13291275,
+      "crc32": "98942468"
+    },
+    {
+      "name": "raw_seq/raw_seq_2019/GFD-PIERNA04-2019-12S_S259_L001_R2_001.fastq.gz",
+      "bytes": 15620459,
+      "crc32": "d42353cf"
+    },
+    {
+      "name": "raw_seq/raw_seq_2019/PCR-C-UQTR-12S_S214_L001_R1_001.fastq.gz",
+      "bytes": 10833099,
+      "crc32": "d86d6914"
+    },
+    {
+      "name": "raw_seq/raw_seq_2019/PCR-C-UQTR-12S_S214_L001_R2_001.fastq.gz",
+      "bytes": 11052713,
+      "crc32": "339f2995"
+    },
+    {
+      "name": "raw_seq/raw_seq_2019/STERIVEX-BAIE04-2019-12S_S215_L001_R1_001.fastq.gz",
+      "bytes": 9499301,
+      "crc32": "27421545"
+    },
+    {
+      "name": "raw_seq/raw_seq_2019/STERIVEX-BAIE04-2019-12S_S215_L001_R2_001.fastq.gz",
+      "bytes": 10575413,
+      "crc32": "b8505a29"
+    },
+    {
+      "name": "raw_seq/raw_seq_2019/STERIVEX-BAIE09-2019-12S_S216_L001_R1_001.fastq.gz",
+      "bytes": 9866188,
+      "crc32": "c6cff438"
+    },
+    {
+      "name": "raw_seq/raw_seq_2019/STERIVEX-BAIE09-2019-12S_S216_L001_R2_001.fastq.gz",
+      "bytes": 11088060,
+      "crc32": "c7286fe5"
+    },
+    {
+      "name": "raw_seq/raw_seq_2019/STERIVEX-BAIENA01-2019-12S_S217_L001_R1_001.fastq.gz",
+      "bytes": 14518721,
+      "crc32": "4c6e5d2b"
+    },
+    {
+      "name": "raw_seq/raw_seq_2019/STERIVEX-BAIENA01-2019-12S_S217_L001_R2_001.fastq.gz",
+      "bytes": 16580095,
+      "crc32": "258a9f6b"
+    },
+    {
+      "name": "raw_seq/raw_seq_2019/STERIVEX-BAIENA03-2019-12S_S218_L001_R1_001.fastq.gz",
+      "bytes": 9168883,
+      "crc32": "45f5b6d8"
+    },
+    {
+      "name": "raw_seq/raw_seq_2019/STERIVEX-BAIENA03-2019-12S_S218_L001_R2_001.fastq.gz",
+      "bytes": 10919032,
+      "crc32": "39f1700f"
+    },
+    {
+      "name": "raw_seq/raw_seq_2019/STERIVEX-BART06-2019-12S_S219_L001_R1_001.fastq.gz",
+      "bytes": 8975391,
+      "crc32": "b1e865a3"
+    },
+    {
+      "name": "raw_seq/raw_seq_2019/STERIVEX-BART06-2019-12S_S219_L001_R2_001.fastq.gz",
+      "bytes": 10076076,
+      "crc32": "e0d2e9b4"
+    },
+    {
+      "name": "raw_seq/raw_seq_2019/STERIVEX-BART08-2019-12S_S220_L001_R1_001.fastq.gz",
+      "bytes": 11488370,
+      "crc32": "e24ce692"
+    },
+    {
+      "name": "raw_seq/raw_seq_2019/STERIVEX-BART08-2019-12S_S220_L001_R2_001.fastq.gz",
+      "bytes": 12612772,
+      "crc32": "b52708e5"
+    },
+    {
+      "name": "raw_seq/raw_seq_2019/STERIVEX-BART09-2019-12S_S221_L001_R1_001.fastq.gz",
+      "bytes": 6126096,
+      "crc32": "27ff3af2"
+    },
+    {
+      "name": "raw_seq/raw_seq_2019/STERIVEX-BART09-2019-12S_S221_L001_R2_001.fastq.gz",
+      "bytes": 6640470,
+      "crc32": "7bb9c5d0"
+    },
+    {
+      "name": "raw_seq/raw_seq_2019/STERIVEX-BART10-2019-12S_S222_L001_R1_001.fastq.gz",
+      "bytes": 4767797,
+      "crc32": "53f6a426"
+    },
+    {
+      "name": "raw_seq/raw_seq_2019/STERIVEX-BART10-2019-12S_S222_L001_R2_001.fastq.gz",
+      "bytes": 5273954,
+      "crc32": "cb69612a"
+    },
+    {
+      "name": "raw_seq/raw_seq_2019/STERIVEX-BARTNA01-2019-12S_S223_L001_R1_001.fastq.gz",
+      "bytes": 8539668,
+      "crc32": "3908d2e7"
+    },
+    {
+      "name": "raw_seq/raw_seq_2019/STERIVEX-BARTNA01-2019-12S_S223_L001_R2_001.fastq.gz",
+      "bytes": 9662988,
+      "crc32": "843b0dc4"
+    },
+    {
+      "name": "raw_seq/raw_seq_2019/STERIVEX-BARTNA02-2019-12S_S224_L001_R1_001.fastq.gz",
+      "bytes": 5740499,
+      "crc32": "368cb9e1"
+    },
+    {
+      "name": "raw_seq/raw_seq_2019/STERIVEX-BARTNA02-2019-12S_S224_L001_R2_001.fastq.gz",
+      "bytes": 6381523,
+      "crc32": "2f645650"
+    },
+    {
+      "name": "raw_seq/raw_seq_2019/STERIVEX-BARTNA04-2019-12S_S225_L001_R1_001.fastq.gz",
+      "bytes": 5098898,
+      "crc32": "ea093fe8"
+    },
+    {
+      "name": "raw_seq/raw_seq_2019/STERIVEX-BARTNA04-2019-12S_S225_L001_R2_001.fastq.gz",
+      "bytes": 5775271,
+      "crc32": "2fe6591d"
+    },
+    {
+      "name": "raw_seq/raw_seq_2019/STERIVEX-C1-12S_S237_L001_R1_001.fastq.gz",
+      "bytes": 20531157,
+      "crc32": "c12ddb74"
+    },
+    {
+      "name": "raw_seq/raw_seq_2019/STERIVEX-C1-12S_S237_L001_R2_001.fastq.gz",
+      "bytes": 21375254,
+      "crc32": "0ca54989"
+    },
+    {
+      "name": "raw_seq/raw_seq_2019/STERIVEX-DUPA01-2019-12S_S226_L001_R1_001.fastq.gz",
+      "bytes": 7087808,
+      "crc32": "1738924c"
+    },
+    {
+      "name": "raw_seq/raw_seq_2019/STERIVEX-DUPA01-2019-12S_S226_L001_R2_001.fastq.gz",
+      "bytes": 7952311,
+      "crc32": "69e11826"
+    },
+    {
+      "name": "raw_seq/raw_seq_2019/STERIVEX-DUPA02-2019-12S_S227_L001_R1_001.fastq.gz",
+      "bytes": 8594381,
+      "crc32": "ea24f494"
+    },
+    {
+      "name": "raw_seq/raw_seq_2019/STERIVEX-DUPA02-2019-12S_S227_L001_R2_001.fastq.gz",
+      "bytes": 9821522,
+      "crc32": "c8ec97e4"
+    },
+    {
+      "name": "raw_seq/raw_seq_2019/STERIVEX-DUPA06-2019-12S_S228_L001_R1_001.fastq.gz",
+      "bytes": 8566856,
+      "crc32": "87530138"
+    },
+    {
+      "name": "raw_seq/raw_seq_2019/STERIVEX-DUPA06-2019-12S_S228_L001_R2_001.fastq.gz",
+      "bytes": 9500186,
+      "crc32": "1fb897a9"
+    },
+    {
+      "name": "raw_seq/raw_seq_2019/STERIVEX-DUPANA01-2019-12S_S229_L001_R1_001.fastq.gz",
+      "bytes": 7096354,
+      "crc32": "7756517c"
+    },
+    {
+      "name": "raw_seq/raw_seq_2019/STERIVEX-DUPANA01-2019-12S_S229_L001_R2_001.fastq.gz",
+      "bytes": 7972953,
+      "crc32": "81eff67b"
+    },
+    {
+      "name": "raw_seq/raw_seq_2019/STERIVEX-DUPANA03-2019-12S_S230_L001_R1_001.fastq.gz",
+      "bytes": 5598623,
+      "crc32": "4680840f"
+    },
+    {
+      "name": "raw_seq/raw_seq_2019/STERIVEX-DUPANA03-2019-12S_S230_L001_R2_001.fastq.gz",
+      "bytes": 6229783,
+      "crc32": "b56807f5"
+    },
+    {
+      "name": "raw_seq/raw_seq_2019/STERIVEX-PIER02-2019-12S_S231_L001_R1_001.fastq.gz",
+      "bytes": 8576009,
+      "crc32": "9b19eb45"
+    },
+    {
+      "name": "raw_seq/raw_seq_2019/STERIVEX-PIER02-2019-12S_S231_L001_R2_001.fastq.gz",
+      "bytes": 9718350,
+      "crc32": "32b7cf0e"
+    },
+    {
+      "name": "raw_seq/raw_seq_2019/STERIVEX-PIER03-2019-12S_S232_L001_R1_001.fastq.gz",
+      "bytes": 9956808,
+      "crc32": "0c08ac2f"
+    },
+    {
+      "name": "raw_seq/raw_seq_2019/STERIVEX-PIER03-2019-12S_S232_L001_R2_001.fastq.gz",
+      "bytes": 10953203,
+      "crc32": "ad00f8be"
+    },
+    {
+      "name": "raw_seq/raw_seq_2019/STERIVEX-PIER04-2019-12S_S233_L001_R1_001.fastq.gz",
+      "bytes": 4795819,
+      "crc32": "5925e803"
+    },
+    {
+      "name": "raw_seq/raw_seq_2019/STERIVEX-PIER04-2019-12S_S233_L001_R2_001.fastq.gz",
+      "bytes": 5440218,
+      "crc32": "7be8e004"
+    },
+    {
+      "name": "raw_seq/raw_seq_2019/STERIVEX-PIER05-2019-12S_S234_L001_R1_001.fastq.gz",
+      "bytes": 17213825,
+      "crc32": "63d22f19"
+    },
+    {
+      "name": "raw_seq/raw_seq_2019/STERIVEX-PIER05-2019-12S_S234_L001_R2_001.fastq.gz",
+      "bytes": 18210524,
+      "crc32": "4446e54e"
+    },
+    {
+      "name": "raw_seq/raw_seq_2019/STERIVEX-PIERNA03-2019-12S_S235_L001_R1_001.fastq.gz",
+      "bytes": 13492820,
+      "crc32": "981b47a7"
+    },
+    {
+      "name": "raw_seq/raw_seq_2019/STERIVEX-PIERNA03-2019-12S_S235_L001_R2_001.fastq.gz",
+      "bytes": 15163792,
+      "crc32": "da9cf3c6"
+    },
+    {
+      "name": "raw_seq/raw_seq_2019/STERIVEX-PIERNA04-2019-12S_S236_L001_R1_001.fastq.gz",
+      "bytes": 13660814,
+      "crc32": "8300b6d1"
+    },
+    {
+      "name": "raw_seq/raw_seq_2019/STERIVEX-PIERNA04-2019-12S_S236_L001_R2_001.fastq.gz",
+      "bytes": 15517048,
+      "crc32": "754b222e"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-BAIE03-ROUND1GFD_S205_L001_R1_001.fastq.gz",
+      "bytes": 3315791,
+      "crc32": "01fa520c"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-BAIE03-ROUND1GFD_S205_L001_R2_001.fastq.gz",
+      "bytes": 4096075,
+      "crc32": "865985d7"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-BAIE03-ROUND1strx_S115_L001_R1_001.fastq.gz",
+      "bytes": 2700053,
+      "crc32": "ed0b436e"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-BAIE03-ROUND1strx_S115_L001_R2_001.fastq.gz",
+      "bytes": 3351838,
+      "crc32": "5c44d0f3"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-BAIE03-ROUND2GFD_S137_L001_R1_001.fastq.gz",
+      "bytes": 8593940,
+      "crc32": "86268ade"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-BAIE03-ROUND2GFD_S137_L001_R2_001.fastq.gz",
+      "bytes": 10901448,
+      "crc32": "84e73cda"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-BAIE03-ROUND2strx_S142_L001_R1_001.fastq.gz",
+      "bytes": 2646674,
+      "crc32": "769c3aff"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-BAIE03-ROUND2strx_S142_L001_R2_001.fastq.gz",
+      "bytes": 3457890,
+      "crc32": "d6ace8c3"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-BAIE04-ROUND1GFD_S122_L001_R1_001.fastq.gz",
+      "bytes": 5864585,
+      "crc32": "69883f4f"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-BAIE04-ROUND1GFD_S122_L001_R2_001.fastq.gz",
+      "bytes": 7180384,
+      "crc32": "aa5bb133"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-BAIE04-ROUND1strx_S127_L001_R1_001.fastq.gz",
+      "bytes": 2174242,
+      "crc32": "a0ddcfdc"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-BAIE04-ROUND1strx_S127_L001_R2_001.fastq.gz",
+      "bytes": 2691400,
+      "crc32": "373becc4"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-BAIE04-ROUND2GFD_S149_L001_R1_001.fastq.gz",
+      "bytes": 5628880,
+      "crc32": "bdea963e"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-BAIE04-ROUND2GFD_S149_L001_R2_001.fastq.gz",
+      "bytes": 7042275,
+      "crc32": "998cdb66"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-BAIE04-ROUND2strx_S154_L001_R1_001.fastq.gz",
+      "bytes": 3648160,
+      "crc32": "24b77956"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-BAIE04-ROUND2strx_S154_L001_R2_001.fastq.gz",
+      "bytes": 4607501,
+      "crc32": "9a38157a"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-BAIE07-ROUND1GFD_S134_L001_R1_001.fastq.gz",
+      "bytes": 7457825,
+      "crc32": "2a0425da"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-BAIE07-ROUND1GFD_S134_L001_R2_001.fastq.gz",
+      "bytes": 9111806,
+      "crc32": "27bcfcb8"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-BAIE07-ROUND1strx_S139_L001_R1_001.fastq.gz",
+      "bytes": 1804875,
+      "crc32": "f9026a4f"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-BAIE07-ROUND1strx_S139_L001_R2_001.fastq.gz",
+      "bytes": 2297443,
+      "crc32": "dc58c7e6"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-BAIE07-ROUND2GFD_S161_L001_R1_001.fastq.gz",
+      "bytes": 7207446,
+      "crc32": "4eb1b83d"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-BAIE07-ROUND2GFD_S161_L001_R2_001.fastq.gz",
+      "bytes": 8809972,
+      "crc32": "8c84a0ba"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-BAIE07-ROUND2strx_S166_L001_R1_001.fastq.gz",
+      "bytes": 4727424,
+      "crc32": "053772a9"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-BAIE07-ROUND2strx_S166_L001_R2_001.fastq.gz",
+      "bytes": 5731459,
+      "crc32": "3828c978"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-BAIE09-ROUND1GFD_S146_L001_R1_001.fastq.gz",
+      "bytes": 6736197,
+      "crc32": "da407835"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-BAIE09-ROUND1GFD_S146_L001_R2_001.fastq.gz",
+      "bytes": 8495618,
+      "crc32": "8fe92ae0"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-BAIE09-ROUND1strx_S151_L001_R1_001.fastq.gz",
+      "bytes": 884441,
+      "crc32": "9c1fb779"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-BAIE09-ROUND1strx_S151_L001_R2_001.fastq.gz",
+      "bytes": 1102228,
+      "crc32": "2a1d2cc1"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-BAIE09-ROUND2GFD_S217_L001_R1_001.fastq.gz",
+      "bytes": 15313381,
+      "crc32": "82c20dc9"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-BAIE09-ROUND2GFD_S217_L001_R2_001.fastq.gz",
+      "bytes": 18475589,
+      "crc32": "0cac6c33"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-BAIE09-ROUND2strx_S120_L001_R1_001.fastq.gz",
+      "bytes": 8169777,
+      "crc32": "d0396ee0"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-BAIE09-ROUND2strx_S120_L001_R2_001.fastq.gz",
+      "bytes": 10201461,
+      "crc32": "46fd8d19"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-BAIENA01-ROUND1GFD_S181_L001_R1_001.fastq.gz",
+      "bytes": 2407456,
+      "crc32": "6f28632a"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-BAIENA01-ROUND1GFD_S181_L001_R2_001.fastq.gz",
+      "bytes": 3056994,
+      "crc32": "6020abd1"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-BAIENA01-ROUND1strx_S186_L001_R1_001.fastq.gz",
+      "bytes": 4912068,
+      "crc32": "3685ebfe"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-BAIENA01-ROUND1strx_S186_L001_R2_001.fastq.gz",
+      "bytes": 6235434,
+      "crc32": "b757fe04"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-BAIENA01-ROUND2GFD_S125_L001_R1_001.fastq.gz",
+      "bytes": 7391000,
+      "crc32": "3c424853"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-BAIENA01-ROUND2GFD_S125_L001_R2_001.fastq.gz",
+      "bytes": 9235519,
+      "crc32": "e8856a3e"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-BAIENA01-ROUND2strx_S130_L001_R1_001.fastq.gz",
+      "bytes": 4249952,
+      "crc32": "360d4b5d"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-BAIENA01-ROUND2strx_S130_L001_R2_001.fastq.gz",
+      "bytes": 5339369,
+      "crc32": "936d55fd"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-BAIENA03-ROUND1GFD_S193_L001_R1_001.fastq.gz",
+      "bytes": 3983141,
+      "crc32": "c2523db5"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-BAIENA03-ROUND1GFD_S193_L001_R2_001.fastq.gz",
+      "bytes": 5160954,
+      "crc32": "2ef379fb"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-BAIENA03-ROUND1strx_S198_L001_R1_001.fastq.gz",
+      "bytes": 1989902,
+      "crc32": "19da48f5"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-BAIENA03-ROUND1strx_S198_L001_R2_001.fastq.gz",
+      "bytes": 2459123,
+      "crc32": "b06f3cbf"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-BAIENA03-ROUND2GFD_S216_L001_R1_001.fastq.gz",
+      "bytes": 17525420,
+      "crc32": "4c097629"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-BAIENA03-ROUND2GFD_S216_L001_R2_001.fastq.gz",
+      "bytes": 21691964,
+      "crc32": "f73efcce"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-BAIENA03-ROUND2strx_S203_L001_R1_001.fastq.gz",
+      "bytes": 6155682,
+      "crc32": "14213dbb"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-BAIENA03-ROUND2strx_S203_L001_R2_001.fastq.gz",
+      "bytes": 7830091,
+      "crc32": "28fd109f"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-BART05-ROUND1GFD_S170_L001_R1_001.fastq.gz",
+      "bytes": 8208363,
+      "crc32": "518fa31b"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-BART05-ROUND1GFD_S170_L001_R2_001.fastq.gz",
+      "bytes": 10469250,
+      "crc32": "7579f739"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-BART05-ROUND1strx_S175_L001_R1_001.fastq.gz",
+      "bytes": 851480,
+      "crc32": "83f1df70"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-BART05-ROUND1strx_S175_L001_R2_001.fastq.gz",
+      "bytes": 1121309,
+      "crc32": "8869e833"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-BART05-ROUND2GFD_S185_L001_R1_001.fastq.gz",
+      "bytes": 5726807,
+      "crc32": "3d4b4b28"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-BART05-ROUND2GFD_S185_L001_R2_001.fastq.gz",
+      "bytes": 7348891,
+      "crc32": "f927ea89"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-BART05-ROUND2strx_S190_L001_R1_001.fastq.gz",
+      "bytes": 3375435,
+      "crc32": "fbc384cb"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-BART05-ROUND2strx_S190_L001_R2_001.fastq.gz",
+      "bytes": 4030656,
+      "crc32": "79707b80"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-BART06-ROUND1GFD_S182_L001_R1_001.fastq.gz",
+      "bytes": 9483947,
+      "crc32": "ac4a87a9"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-BART06-ROUND1GFD_S182_L001_R2_001.fastq.gz",
+      "bytes": 11763298,
+      "crc32": "908ffaeb"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-BART06-ROUND1strx_S187_L001_R1_001.fastq.gz",
+      "bytes": 3361758,
+      "crc32": "591701ac"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-BART06-ROUND1strx_S187_L001_R2_001.fastq.gz",
+      "bytes": 4333912,
+      "crc32": "312dcb82"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-BART06-ROUND2GFD_S197_L001_R1_001.fastq.gz",
+      "bytes": 7608459,
+      "crc32": "4560b970"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-BART06-ROUND2GFD_S197_L001_R2_001.fastq.gz",
+      "bytes": 9591818,
+      "crc32": "cd783cc5"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-BART06-ROUND2strx_S202_L001_R1_001.fastq.gz",
+      "bytes": 4171551,
+      "crc32": "f36c6c4d"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-BART06-ROUND2strx_S202_L001_R2_001.fastq.gz",
+      "bytes": 5300507,
+      "crc32": "ff8f7732"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-BART07-ROUND1GFD_S194_L001_R1_001.fastq.gz",
+      "bytes": 8097715,
+      "crc32": "0581c13e"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-BART07-ROUND1GFD_S194_L001_R2_001.fastq.gz",
+      "bytes": 10073115,
+      "crc32": "12feb741"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-BART07-ROUND1strx_S199_L001_R1_001.fastq.gz",
+      "bytes": 1551407,
+      "crc32": "8a0da984"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-BART07-ROUND1strx_S199_L001_R2_001.fastq.gz",
+      "bytes": 1953591,
+      "crc32": "611a3e19"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-BART07-ROUND2GFD_S209_L001_R1_001.fastq.gz",
+      "bytes": 8186182,
+      "crc32": "cbd32a0b"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-BART07-ROUND2GFD_S209_L001_R2_001.fastq.gz",
+      "bytes": 10199915,
+      "crc32": "51389d69"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-BART07-ROUND2strx_S119_L001_R1_001.fastq.gz",
+      "bytes": 5871858,
+      "crc32": "9de21575"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-BART07-ROUND2strx_S119_L001_R2_001.fastq.gz",
+      "bytes": 7706820,
+      "crc32": "c6a853e9"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-BART08-ROUND1GFD_S206_L001_R1_001.fastq.gz",
+      "bytes": 6447283,
+      "crc32": "44e2ab56"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-BART08-ROUND1GFD_S206_L001_R2_001.fastq.gz",
+      "bytes": 7893717,
+      "crc32": "f5e380db"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-BART08-ROUND1strx_S116_L001_R1_001.fastq.gz",
+      "bytes": 7743873,
+      "crc32": "82c6bb67"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-BART08-ROUND1strx_S116_L001_R2_001.fastq.gz",
+      "bytes": 10001005,
+      "crc32": "b3946302"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-BART08-ROUND2GFD_S210_L001_R1_001.fastq.gz",
+      "bytes": 2966738,
+      "crc32": "08e9a472"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-BART08-ROUND2GFD_S210_L001_R2_001.fastq.gz",
+      "bytes": 3696274,
+      "crc32": "eba0753e"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-BART08-ROUND2strx_S131_L001_R1_001.fastq.gz",
+      "bytes": 5228082,
+      "crc32": "39b59d42"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-BART08-ROUND2strx_S131_L001_R2_001.fastq.gz",
+      "bytes": 6413179,
+      "crc32": "9f3af179"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-BART09-ROUND1GFD_S159_L001_R1_001.fastq.gz",
+      "bytes": 8066436,
+      "crc32": "50f938c5"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-BART09-ROUND1GFD_S159_L001_R2_001.fastq.gz",
+      "bytes": 10192465,
+      "crc32": "e315781f"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-BART09-ROUND1strx_S164_L001_R1_001.fastq.gz",
+      "bytes": 8548797,
+      "crc32": "08902c7b"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-BART09-ROUND1strx_S164_L001_R2_001.fastq.gz",
+      "bytes": 11178021,
+      "crc32": "99c71e5c"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-BART09-ROUND2GFD_S214_L001_R1_001.fastq.gz",
+      "bytes": 43508584,
+      "crc32": "6923dddd"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-BART09-ROUND2GFD_S214_L001_R2_001.fastq.gz",
+      "bytes": 59577210,
+      "crc32": "137dbdff"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-BART09-ROUND2strx_S179_L001_R1_001.fastq.gz",
+      "bytes": 8204658,
+      "crc32": "6a15e3c8"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-BART09-ROUND2strx_S179_L001_R2_001.fastq.gz",
+      "bytes": 11015028,
+      "crc32": "e136ce75"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-BART10-ROUND1GFD_S171_L001_R1_001.fastq.gz",
+      "bytes": 10906953,
+      "crc32": "5b6d0efd"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-BART10-ROUND1GFD_S171_L001_R2_001.fastq.gz",
+      "bytes": 14050406,
+      "crc32": "5195feb4"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-BART10-ROUND1strx_S176_L001_R1_001.fastq.gz",
+      "bytes": 6036384,
+      "crc32": "996e07ed"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-BART10-ROUND1strx_S176_L001_R2_001.fastq.gz",
+      "bytes": 7768513,
+      "crc32": "93b9b9c9"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-BART10-ROUND2GFD_S215_L001_R1_001.fastq.gz",
+      "bytes": 28593467,
+      "crc32": "46ecdc1b"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-BART10-ROUND2GFD_S215_L001_R2_001.fastq.gz",
+      "bytes": 37107036,
+      "crc32": "3d35ab34"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-BART10-ROUND2strx_S191_L001_R1_001.fastq.gz",
+      "bytes": 7450444,
+      "crc32": "f1c21272"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-BART10-ROUND2strx_S191_L001_R2_001.fastq.gz",
+      "bytes": 9846916,
+      "crc32": "fef371aa"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-BARTNA01-ROUND1GFD_S158_L001_R1_001.fastq.gz",
+      "bytes": 7821503,
+      "crc32": "a80d1f9e"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-BARTNA01-ROUND1GFD_S158_L001_R2_001.fastq.gz",
+      "bytes": 9863563,
+      "crc32": "01e8ddb8"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-BARTNA01-ROUND1strx_S163_L001_R1_001.fastq.gz",
+      "bytes": 2851763,
+      "crc32": "e172f2fe"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-BARTNA01-ROUND1strx_S163_L001_R2_001.fastq.gz",
+      "bytes": 3688691,
+      "crc32": "dcd1362c"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-BARTNA01-ROUND2GFD_S173_L001_R1_001.fastq.gz",
+      "bytes": 10097413,
+      "crc32": "0fb41a0b"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-BARTNA01-ROUND2GFD_S173_L001_R2_001.fastq.gz",
+      "bytes": 13150894,
+      "crc32": "f4108293"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-BARTNA01-ROUND2strx_S178_L001_R1_001.fastq.gz",
+      "bytes": 5044742,
+      "crc32": "94caa8e2"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-BARTNA01-ROUND2strx_S178_L001_R2_001.fastq.gz",
+      "bytes": 6440000,
+      "crc32": "1e520143"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-BARTNA02-ROUND1GFD_S123_L001_R1_001.fastq.gz",
+      "bytes": 5689263,
+      "crc32": "693d0a2f"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-BARTNA02-ROUND1GFD_S123_L001_R2_001.fastq.gz",
+      "bytes": 7193347,
+      "crc32": "672457a3"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-BARTNA02-ROUND1strx_S128_L001_R1_001.fastq.gz",
+      "bytes": 5017059,
+      "crc32": "8e164b30"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-BARTNA02-ROUND1strx_S128_L001_R2_001.fastq.gz",
+      "bytes": 6418825,
+      "crc32": "e48f54d8"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-BARTNA02-ROUND2GFD_S211_L001_R1_001.fastq.gz",
+      "bytes": 30206522,
+      "crc32": "b21b0ffd"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-BARTNA02-ROUND2GFD_S211_L001_R2_001.fastq.gz",
+      "bytes": 41071627,
+      "crc32": "301dafca"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-BARTNA02-ROUND2strx_S143_L001_R1_001.fastq.gz",
+      "bytes": 7213487,
+      "crc32": "6e2f7f38"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-BARTNA02-ROUND2strx_S143_L001_R2_001.fastq.gz",
+      "bytes": 10105534,
+      "crc32": "7288540d"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-BARTNA04-ROUND1GFD_S135_L001_R1_001.fastq.gz",
+      "bytes": 5341521,
+      "crc32": "74f2074b"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-BARTNA04-ROUND1GFD_S135_L001_R2_001.fastq.gz",
+      "bytes": 6473327,
+      "crc32": "3e896269"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-BARTNA04-ROUND1strx_S140_L001_R1_001.fastq.gz",
+      "bytes": 3552080,
+      "crc32": "8b80a158"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-BARTNA04-ROUND1strx_S140_L001_R2_001.fastq.gz",
+      "bytes": 4631816,
+      "crc32": "395b8ff2"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-BARTNA04-ROUND2GFD_S212_L001_R1_001.fastq.gz",
+      "bytes": 816445,
+      "crc32": "a69ea933"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-BARTNA04-ROUND2GFD_S212_L001_R2_001.fastq.gz",
+      "bytes": 1044733,
+      "crc32": "054478c6"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-BARTNA04-ROUND2strx_S155_L001_R1_001.fastq.gz",
+      "bytes": 6092026,
+      "crc32": "6394debf"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-BARTNA04-ROUND2strx_S155_L001_R2_001.fastq.gz",
+      "bytes": 8115538,
+      "crc32": "bc810d25"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-BARTNA05-ROUND1GFD_S147_L001_R1_001.fastq.gz",
+      "bytes": 5981598,
+      "crc32": "d62c7ec1"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-BARTNA05-ROUND1GFD_S147_L001_R2_001.fastq.gz",
+      "bytes": 7595142,
+      "crc32": "058456da"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-BARTNA05-ROUND1strx_S152_L001_R1_001.fastq.gz",
+      "bytes": 6267905,
+      "crc32": "8277834b"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-BARTNA05-ROUND1strx_S152_L001_R2_001.fastq.gz",
+      "bytes": 7524913,
+      "crc32": "9bd26e9b"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-BARTNA05-ROUND2GFD_S213_L001_R1_001.fastq.gz",
+      "bytes": 6188459,
+      "crc32": "6ca27542"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-BARTNA05-ROUND2GFD_S213_L001_R2_001.fastq.gz",
+      "bytes": 8344381,
+      "crc32": "11853b76"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-BARTNA05-ROUND2strx_S167_L001_R1_001.fastq.gz",
+      "bytes": 8962158,
+      "crc32": "a8374eb7"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-BARTNA05-ROUND2strx_S167_L001_R2_001.fastq.gz",
+      "bytes": 12308716,
+      "crc32": "bfcf85c7"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-ctrl-ext1filtre_S224_L001_R1_001.fastq.gz",
+      "bytes": 53439,
+      "crc32": "3285d1d8"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-ctrl-ext1filtre_S224_L001_R2_001.fastq.gz",
+      "bytes": 55098,
+      "crc32": "4cf57ac5"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-ctrl-ext2filtre_S225_L001_R1_001.fastq.gz",
+      "bytes": 53826,
+      "crc32": "7aa33591"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-ctrl-ext2filtre_S225_L001_R2_001.fastq.gz",
+      "bytes": 56898,
+      "crc32": "f22df4bf"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-ctrl-neg-PCRfiltre_S226_L001_R1_001.fastq.gz",
+      "bytes": 34331,
+      "crc32": "64a6f513"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-ctrl-neg-PCRfiltre_S226_L001_R2_001.fastq.gz",
+      "bytes": 35965,
+      "crc32": "290f5d54"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-DUPA01-ROUND1GFD_S195_L001_R1_001.fastq.gz",
+      "bytes": 7634325,
+      "crc32": "f4cbc9c7"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-DUPA01-ROUND1GFD_S195_L001_R2_001.fastq.gz",
+      "bytes": 9408828,
+      "crc32": "65870e46"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-DUPA01-ROUND1strx_S200_L001_R1_001.fastq.gz",
+      "bytes": 5321245,
+      "crc32": "68d26e1c"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-DUPA01-ROUND1strx_S200_L001_R2_001.fastq.gz",
+      "bytes": 6908309,
+      "crc32": "2d649fd2"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-DUPA01-ROUND2GFD_S219_L001_R1_001.fastq.gz",
+      "bytes": 2140212,
+      "crc32": "8f3365ae"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-DUPA01-ROUND2GFD_S219_L001_R2_001.fastq.gz",
+      "bytes": 2607398,
+      "crc32": "c74ed626"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-DUPA01-ROUND2strx_S144_L001_R1_001.fastq.gz",
+      "bytes": 6446232,
+      "crc32": "c1742266"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-DUPA01-ROUND2strx_S144_L001_R2_001.fastq.gz",
+      "bytes": 8074251,
+      "crc32": "e7cdc41e"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-DUPA02-ROUND1GFD_S207_L001_R1_001.fastq.gz",
+      "bytes": 7187042,
+      "crc32": "b927b046"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-DUPA02-ROUND1GFD_S207_L001_R2_001.fastq.gz",
+      "bytes": 9188426,
+      "crc32": "ed3c599a"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-DUPA02-ROUND1strx_S117_L001_R1_001.fastq.gz",
+      "bytes": 5453149,
+      "crc32": "a9001f9f"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-DUPA02-ROUND1strx_S117_L001_R2_001.fastq.gz",
+      "bytes": 6805589,
+      "crc32": "84c7de78"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-DUPA02-ROUND2GFD_S220_L001_R1_001.fastq.gz",
+      "bytes": 1117343,
+      "crc32": "4378edd4"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-DUPA02-ROUND2GFD_S220_L001_R2_001.fastq.gz",
+      "bytes": 1419302,
+      "crc32": "1077c336"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-DUPA02-ROUND2strx_S156_L001_R1_001.fastq.gz",
+      "bytes": 7171939,
+      "crc32": "7c5b5dea"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-DUPA02-ROUND2strx_S156_L001_R2_001.fastq.gz",
+      "bytes": 8963809,
+      "crc32": "1b2ce5bb"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-DUPA04-ROUND1GFD_S124_L001_R1_001.fastq.gz",
+      "bytes": 8028276,
+      "crc32": "319282a7"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-DUPA04-ROUND1GFD_S124_L001_R2_001.fastq.gz",
+      "bytes": 9873091,
+      "crc32": "09d3aa16"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-DUPA04-ROUND1strx_S129_L001_R1_001.fastq.gz",
+      "bytes": 6258989,
+      "crc32": "883b205f"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-DUPA04-ROUND1strx_S129_L001_R2_001.fastq.gz",
+      "bytes": 7558943,
+      "crc32": "e8ffa059"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-DUPA04-ROUND2GFD_S221_L001_R1_001.fastq.gz",
+      "bytes": 1460237,
+      "crc32": "ecc24837"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-DUPA04-ROUND2GFD_S221_L001_R2_001.fastq.gz",
+      "bytes": 1792883,
+      "crc32": "47eac396"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-DUPA04-ROUND2strx_S168_L001_R1_001.fastq.gz",
+      "bytes": 10494116,
+      "crc32": "bf9b709f"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-DUPA04-ROUND2strx_S168_L001_R2_001.fastq.gz",
+      "bytes": 13088318,
+      "crc32": "67b3b5f5"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-DUPA05-ROUND1GFD_S136_L001_R1_001.fastq.gz",
+      "bytes": 6583055,
+      "crc32": "af43d40d"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-DUPA05-ROUND1GFD_S136_L001_R2_001.fastq.gz",
+      "bytes": 7987883,
+      "crc32": "0c03ab8c"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-DUPA05-ROUND1strx_S141_L001_R1_001.fastq.gz",
+      "bytes": 4383229,
+      "crc32": "6884be8c"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-DUPA05-ROUND1strx_S141_L001_R2_001.fastq.gz",
+      "bytes": 5189643,
+      "crc32": "921a6db4"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-DUPA05-ROUND2GFD_S222_L001_R1_001.fastq.gz",
+      "bytes": 3658878,
+      "crc32": "7b3fdb02"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-DUPA05-ROUND2GFD_S222_L001_R2_001.fastq.gz",
+      "bytes": 4544440,
+      "crc32": "1d48de9d"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-DUPA05-ROUND2strx_S180_L001_R1_001.fastq.gz",
+      "bytes": 7892062,
+      "crc32": "0fde9a9a"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-DUPA05-ROUND2strx_S180_L001_R2_001.fastq.gz",
+      "bytes": 9561249,
+      "crc32": "df7e0107"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-DUPA06-ROUND1GFD_S148_L001_R1_001.fastq.gz",
+      "bytes": 4137447,
+      "crc32": "efcfb443"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-DUPA06-ROUND1GFD_S148_L001_R2_001.fastq.gz",
+      "bytes": 5187681,
+      "crc32": "0d4fba35"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-DUPA06-ROUND1strx_S153_L001_R1_001.fastq.gz",
+      "bytes": 4279047,
+      "crc32": "12bc5c58"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-DUPA06-ROUND1strx_S153_L001_R2_001.fastq.gz",
+      "bytes": 5196138,
+      "crc32": "4709ffab"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-DUPA06-ROUND2GFD_S223_L001_R1_001.fastq.gz",
+      "bytes": 3276408,
+      "crc32": "06a44181"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-DUPA06-ROUND2GFD_S223_L001_R2_001.fastq.gz",
+      "bytes": 3915673,
+      "crc32": "57f6d3f5"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-DUPA06-ROUND2strx_S192_L001_R1_001.fastq.gz",
+      "bytes": 8164380,
+      "crc32": "d064b082"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-DUPA06-ROUND2strx_S192_L001_R2_001.fastq.gz",
+      "bytes": 9877359,
+      "crc32": "31fd3c4c"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-DUPANA01-ROUND1GFD_S183_L001_R1_001.fastq.gz",
+      "bytes": 7699511,
+      "crc32": "969151be"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-DUPANA01-ROUND1GFD_S183_L001_R2_001.fastq.gz",
+      "bytes": 9639725,
+      "crc32": "9fe84d75"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-DUPANA01-ROUND1strx_S188_L001_R1_001.fastq.gz",
+      "bytes": 5561267,
+      "crc32": "e1c04d4e"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-DUPANA01-ROUND1strx_S188_L001_R2_001.fastq.gz",
+      "bytes": 7344263,
+      "crc32": "5ce0072f"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-DUPANA01-ROUND2GFD_S218_L001_R1_001.fastq.gz",
+      "bytes": 733577,
+      "crc32": "9e2ec9ac"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-DUPANA01-ROUND2GFD_S218_L001_R2_001.fastq.gz",
+      "bytes": 903709,
+      "crc32": "1735bf1b"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-DUPANA01-ROUND2strx_S132_L001_R1_001.fastq.gz",
+      "bytes": 7955878,
+      "crc32": "b7fc4396"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-DUPANA01-ROUND2strx_S132_L001_R2_001.fastq.gz",
+      "bytes": 9596221,
+      "crc32": "ff34afef"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-PIER02-ROUND1GFD_S133_L001_R1_001.fastq.gz",
+      "bytes": 3366594,
+      "crc32": "c444c16e"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-PIER02-ROUND1GFD_S133_L001_R2_001.fastq.gz",
+      "bytes": 4149102,
+      "crc32": "99496a31"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-PIER02-ROUND1strx_S138_L001_R1_001.fastq.gz",
+      "bytes": 6813986,
+      "crc32": "5d572758"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-PIER02-ROUND1strx_S138_L001_R2_001.fastq.gz",
+      "bytes": 8496926,
+      "crc32": "9255569c"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-PIER02-ROUND2GFD_S184_L001_R1_001.fastq.gz",
+      "bytes": 7597913,
+      "crc32": "17f3198b"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-PIER02-ROUND2GFD_S184_L001_R2_001.fastq.gz",
+      "bytes": 9677652,
+      "crc32": "cc872dff"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-PIER02-ROUND2strx_S189_L001_R1_001.fastq.gz",
+      "bytes": 7240202,
+      "crc32": "7eddd144"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-PIER02-ROUND2strx_S189_L001_R2_001.fastq.gz",
+      "bytes": 8966658,
+      "crc32": "2763f8b3"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-PIER03-ROUND1GFD_S145_L001_R1_001.fastq.gz",
+      "bytes": 3525484,
+      "crc32": "e100b914"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-PIER03-ROUND1GFD_S145_L001_R2_001.fastq.gz",
+      "bytes": 4376636,
+      "crc32": "d7458ec3"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-PIER03-ROUND1strx_S150_L001_R1_001.fastq.gz",
+      "bytes": 5929465,
+      "crc32": "0e5f5411"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-PIER03-ROUND1strx_S150_L001_R2_001.fastq.gz",
+      "bytes": 7534462,
+      "crc32": "5a9cf24f"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-PIER04-ROUND1GFD_S157_L001_R1_001.fastq.gz",
+      "bytes": 4283106,
+      "crc32": "56bd3167"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-PIER04-ROUND1GFD_S157_L001_R2_001.fastq.gz",
+      "bytes": 5528469,
+      "crc32": "bb2af0b4"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-PIER04-ROUND1strx_S162_L001_R1_001.fastq.gz",
+      "bytes": 8564876,
+      "crc32": "4115cdfd"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-PIER04-ROUND1strx_S162_L001_R2_001.fastq.gz",
+      "bytes": 10926290,
+      "crc32": "5f2a91a7"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-PIER04-ROUND2GFD_S208_L001_R1_001.fastq.gz",
+      "bytes": 6330808,
+      "crc32": "1cce08f3"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-PIER04-ROUND2GFD_S208_L001_R2_001.fastq.gz",
+      "bytes": 8115033,
+      "crc32": "67de5761"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-PIER04-ROUND2strx_S118_L001_R1_001.fastq.gz",
+      "bytes": 3958829,
+      "crc32": "82b74cfd"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-PIER04-ROUND2strx_S118_L001_R2_001.fastq.gz",
+      "bytes": 5269502,
+      "crc32": "5e80c38d"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-PIER05-ROUND1GFD_S169_L001_R1_001.fastq.gz",
+      "bytes": 4546357,
+      "crc32": "737e4f7b"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-PIER05-ROUND1GFD_S169_L001_R2_001.fastq.gz",
+      "bytes": 5722219,
+      "crc32": "5f3d2f75"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-PIER05-ROUND1strx_S174_L001_R1_001.fastq.gz",
+      "bytes": 6747526,
+      "crc32": "6a098b4e"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-PIER05-ROUND1strx_S174_L001_R2_001.fastq.gz",
+      "bytes": 8246610,
+      "crc32": "0b6bb7b2"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-PIER3-ROUND2GFD_S196_L001_R1_001.fastq.gz",
+      "bytes": 7071223,
+      "crc32": "7666d808"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-PIER3-ROUND2GFD_S196_L001_R2_001.fastq.gz",
+      "bytes": 8575593,
+      "crc32": "d53f7cd0"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-PIER3-ROUND2strx_S201_L001_R1_001.fastq.gz",
+      "bytes": 6404150,
+      "crc32": "89a319c9"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-PIER3-ROUND2strx_S201_L001_R2_001.fastq.gz",
+      "bytes": 8149953,
+      "crc32": "e7cbab70"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-PIERNA03-ROUND1-stx_S114_L001_R1_001.fastq.gz",
+      "bytes": 11033901,
+      "crc32": "5b750207"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-PIERNA03-ROUND1-stx_S114_L001_R2_001.fastq.gz",
+      "bytes": 14379871,
+      "crc32": "1a9e6a53"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-PIERNA03-ROUND1GFD_S204_L001_R1_001.fastq.gz",
+      "bytes": 9863979,
+      "crc32": "9657ab45"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-PIERNA03-ROUND1GFD_S204_L001_R2_001.fastq.gz",
+      "bytes": 12216289,
+      "crc32": "b9a3a566"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-PIERNA03-ROUND2GFD_S160_L001_R1_001.fastq.gz",
+      "bytes": 9051697,
+      "crc32": "cf6b5e83"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-PIERNA03-ROUND2GFD_S160_L001_R2_001.fastq.gz",
+      "bytes": 11255781,
+      "crc32": "a6c5eedc"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-PIERNA03-ROUND2strx_S165_L001_R1_001.fastq.gz",
+      "bytes": 9452594,
+      "crc32": "f54dbd00"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-PIERNA03-ROUND2strx_S165_L001_R2_001.fastq.gz",
+      "bytes": 12108117,
+      "crc32": "6a8a732e"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-PIERNA04-ROUND1GFD_S121_L001_R1_001.fastq.gz",
+      "bytes": 3827492,
+      "crc32": "4501c011"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-PIERNA04-ROUND1GFD_S121_L001_R2_001.fastq.gz",
+      "bytes": 4715904,
+      "crc32": "3445ce80"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-PIERNA04-ROUND1strx_S126_L001_R1_001.fastq.gz",
+      "bytes": 3427276,
+      "crc32": "4669dfb0"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-PIERNA04-ROUND1strx_S126_L001_R2_001.fastq.gz",
+      "bytes": 4170797,
+      "crc32": "1990ce87"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-PIERNA04-ROUND2GFD_S172_L001_R1_001.fastq.gz",
+      "bytes": 10349992,
+      "crc32": "2a10c809"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-PIERNA04-ROUND2GFD_S172_L001_R2_001.fastq.gz",
+      "bytes": 13300331,
+      "crc32": "9dd11e85"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-PIERNA04-ROUND2strx_S177_L001_R1_001.fastq.gz",
+      "bytes": 4408951,
+      "crc32": "94178af1"
+    },
+    {
+      "name": "raw_seq/raw_seq_2022/12S/12S-PIERNA04-ROUND2strx_S177_L001_R2_001.fastq.gz",
+      "bytes": 5563209,
+      "crc32": "45591996"
+    }
+  ],
+  "usage": "validation_only",
+  "asv_pipeline_ready": false,
+  "notes": [
+    "CSV olahan per kode ikan, bukan tabel ASV.",
+    "Jangan mengarang identity, kontrol, atau batch yang tidak tersedia.",
+    "FASTQ dipertahankan dalam raw_seq.zip; pemrosesan FASTQ di luar MVP."
+  ]
+}

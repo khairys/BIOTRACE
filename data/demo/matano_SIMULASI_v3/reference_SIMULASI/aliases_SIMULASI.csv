@@ -1,0 +1,3 @@
+alias_key,alias_label_id,alias_label_en,member_name,category,source_id,reviewed_by_expert,is_simulated
+louhan_hybrid_SIMULASI,kemungkinan louhan hibrida (SIMULASI),likely hybrid (SIMULATION),Hybridus alpha,hybrid_invasive,SRC_SIMULASI,False,True
+louhan_hybrid_SIMULASI,kemungkinan louhan hibrida (SIMULASI),likely hybrid (SIMULATION),Hybridus beta,hybrid_invasive,SRC_SIMULASI,False,True

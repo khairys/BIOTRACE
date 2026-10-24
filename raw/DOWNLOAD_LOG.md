@@ -20,3 +20,15 @@ Baris otomatis di atas dipertahankan. Hash lengkap hasil pemeriksaan:
 Metadata Figshare diambil oleh skrip dari https://api.figshare.com/v2/articles/29168144. Dataset CSV dari https://ndownloader.figshare.com/files/58389280; CC0 terkonfirmasi pada halaman dan metadata penyedia. Kebijakan NCBI: https://www.ncbi.nlm.nih.gov/home/about/policies/.
 
 Unduhan Lake St. Pierre gagal pada https://datadryad.org/api/v2/files/4370610/download dengan HTTP 401; tidak ada file data yang tersimpan. Pemeriksaan HEAD ulang juga 401. FASTQ besar tidak diminta. Rincian pemeriksaan di AUDIT_2026-10-24.json. Tidak ada sumber yang diimpor ke kamus.
+
+## Impor ZIP manual Lake St. Pierre
+
+Sumber disediakan pengguna; DOI https://doi.org/10.5061/dryad.3bk3j9kzf; CC0 menurut kebijakan Dryad. Arsip dipindahkan ke `raw/lake_st_pierre/downloads/doi_10_5061_dryad_3bk3j9kzf__v20250924.zip`; SHA-256 `a741c2252a532c55cb3260bbba6134336a835ab36375117f0771b33917e31dd8`. Waktu impor 2026-10-24T22:38:19.209278+07:00.
+
+- `raw/lake_st_pierre/v20250924/README.md`: `e0a69b28f373645d88e18556aac25689914488a7caae89332ff37eaa11765d1d`; CRC ZIP lulus saat ekstraksi.
+- `raw/lake_st_pierre/v20250924/edna_env.csv`: `05dffe56d37190e4c55663d6cb89f7c34413274efa06e212156d296a7eee9aaa`; CRC ZIP lulus saat ekstraksi.
+- `raw/lake_st_pierre/v20250924/edna_lg_clean.csv`: `7240a384ea566859216455a40adcb28ed1f2aea0abeddbd2f4b2d886e520af91`; CRC ZIP lulus saat ekstraksi.
+- `raw/lake_st_pierre/v20250924/elec_env.csv`: `8fdc20daa36330398f5df0059291494aada7070103f4732699351e1331aa56b3`; CRC ZIP lulus saat ekstraksi.
+- `raw/lake_st_pierre/v20250924/elec_long.csv`: `1bccfef945fc3a890a0c8d4aa159e1dab777e0ca3ed138fce1e97f8f47a62c96`; CRC ZIP lulus saat ekstraksi.
+- `raw/lake_st_pierre/v20250924/fish_codes.csv`: `78ba86ceeea76f1b5a038d633b92237da81a15c8d9c1f0130060ff984db73c4b`; CRC ZIP lulus saat ekstraksi.
+- `raw/lake_st_pierre/v20250924/raw_seq.zip`: `045dda292931b8fdc28a75b13f4990184b73fc6f76d75810fa090a631b3b5527`; CRC ZIP lulus saat ekstraksi.

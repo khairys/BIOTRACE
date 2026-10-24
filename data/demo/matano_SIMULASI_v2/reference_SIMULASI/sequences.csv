@@ -1,0 +1,11 @@
+seq_id,accession,source_db,source_id,species_original,species_valid,marker,region_trimmed,length,n_ambiguous,voucher_level,voucher_catalog,voucher_institution,specimen_country,specimen_locality,curation_status,flags,license,date_added,curator,is_simulated
+SIM_REF_001,,simulated,SRC_SIMULASI,Gobio delta,Gobio delta,12S_MiFish_U,True,170,0,V2,SIMULASI-1,SIMULASI,ID,SIMULASI,accepted,SIMULASI,SIMULASI internal tim,2026-10-24,agent:Codex,True
+SIM_REF_002,,simulated,SRC_SIMULASI,Gobio epsilon,Gobio epsilon,12S_MiFish_U,True,170,0,V2,SIMULASI-2,SIMULASI,ID,SIMULASI,accepted,SIMULASI,SIMULASI internal tim,2026-10-24,agent:Codex,True
+SIM_REF_003,,simulated,SRC_SIMULASI,Gobio lambda,Gobio lambda,12S_MiFish_U,True,170,0,V2,SIMULASI-3,SIMULASI,ID,SIMULASI,accepted,SIMULASI,SIMULASI internal tim,2026-10-24,agent:Codex,True
+SIM_REF_004,,simulated,SRC_SIMULASI,Hybridus alpha,Hybridus alpha,12S_MiFish_U,True,170,0,V2,SIMULASI-4,SIMULASI,ID,SIMULASI,accepted,SIMULASI,SIMULASI internal tim,2026-10-24,agent:Codex,True
+SIM_REF_005,,simulated,SRC_SIMULASI,Hybridus beta,Hybridus beta,12S_MiFish_U,True,170,0,V2,SIMULASI-5,SIMULASI,ID,SIMULASI,accepted,SIMULASI,SIMULASI internal tim,2026-10-24,agent:Codex,True
+SIM_REF_006,,simulated,SRC_SIMULASI,Piscis alpha,Piscis alpha,12S_MiFish_U,True,170,0,V2,SIMULASI-6,SIMULASI,ID,SIMULASI,accepted,SIMULASI,SIMULASI internal tim,2026-10-24,agent:Codex,True
+SIM_REF_007,,simulated,SRC_SIMULASI,Piscis beta,Piscis beta,12S_MiFish_U,True,170,0,V2,SIMULASI-7,SIMULASI,ID,SIMULASI,accepted,SIMULASI,SIMULASI internal tim,2026-10-24,agent:Codex,True
+SIM_REF_008,,simulated,SRC_SIMULASI,Rasbo iota,Rasbo iota,12S_MiFish_U,True,170,0,V2,SIMULASI-8,SIMULASI,ID,SIMULASI,accepted,SIMULASI,SIMULASI internal tim,2026-10-24,agent:Codex,True
+SIM_REF_009,,simulated,SRC_SIMULASI,Rasbo zeta,Rasbo zeta,12S_MiFish_U,True,170,0,V2,SIMULASI-9,SIMULASI,ID,SIMULASI,accepted,SIMULASI,SIMULASI internal tim,2026-10-24,agent:Codex,True
+SIM_REF_010,,simulated,SRC_SIMULASI,Tilapa omega,Tilapa omega,12S_MiFish_U,True,170,0,V2,SIMULASI-10,SIMULASI,ID,SIMULASI,accepted,SIMULASI,SIMULASI internal tim,2026-10-24,agent:Codex,True

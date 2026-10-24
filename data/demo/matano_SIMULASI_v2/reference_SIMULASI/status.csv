@@ -1,0 +1,15 @@
+species_valid,iucn_category,invasive_flag,invasive_source_id,version_date,is_simulated
+Gobio delta,NE,False,SRC_SIMULASI,2026-10-24,True
+Gobio epsilon,NE,False,SRC_SIMULASI,2026-10-24,True
+Gobio lambda,NE,False,SRC_SIMULASI,2026-10-24,True
+Hybridus alpha,NE,False,SRC_SIMULASI,2026-10-24,True
+Hybridus beta,NE,False,SRC_SIMULASI,2026-10-24,True
+Piscis alpha,NE,False,SRC_SIMULASI,2026-10-24,True
+Piscis beta,NE,False,SRC_SIMULASI,2026-10-24,True
+Piscis externus,NE,False,SRC_SIMULASI,2026-10-24,True
+Piscis gamma,NE,False,SRC_SIMULASI,2026-10-24,True
+Rasbo eta,NE,False,SRC_SIMULASI,2026-10-24,True
+Rasbo iota,NE,False,SRC_SIMULASI,2026-10-24,True
+Rasbo theta,NE,False,SRC_SIMULASI,2026-10-24,True
+Rasbo zeta,NE,False,SRC_SIMULASI,2026-10-24,True
+Tilapa omega,NE,True,SRC_SIMULASI,2026-10-24,True

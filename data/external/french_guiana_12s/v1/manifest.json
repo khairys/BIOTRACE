@@ -1,0 +1,27 @@
+{
+  "changelog": "CHANGELOG.md",
+  "contains_simulated": false,
+  "counts": {
+    "sequences_accepted": 1552,
+    "species_with_reference": 369,
+    "waterbodies": 1
+  },
+  "created": "2026-10-24",
+  "files": {
+    "CHANGELOG.md": "37456799a7fd423792f3b3baae033fc316e675eddcb9f1b48a6dd7eaca4ac979",
+    "aliases.csv": "f6db5247aff1b01ec5aa88f24c7204a524a23efcdf81fb1bd13ca234533c090f",
+    "checklist.csv": "0a6b2190cd1f3aff8085f376f97a2858ddd990a967296a6bcf36e59dc52e0ee9",
+    "complexes.csv": "f6db5247aff1b01ec5aa88f24c7204a524a23efcdf81fb1bd13ca234533c090f",
+    "curation_report.csv": "7053c73240e46a98d63a90e25d31ee5b9252fd3cb18492ba85e983bf4500e2dd",
+    "introductions.csv": "f6db5247aff1b01ec5aa88f24c7204a524a23efcdf81fb1bd13ca234533c090f",
+    "sequences.csv": "0b139eeee80f49e0d5dfac78fdb825f6bc8ae1ceb48b7b84b746c262d9f178cc",
+    "sequences.fasta": "5bcd0ade04c72729b4c40b96c1aeacef7f6907ae7e7cd5e9654b10b0238e660b",
+    "sources.csv": "89a5cdcedfee48409939cc95bb01b6832bb8b29e2fd50a4d134eb1219ef69757",
+    "status.csv": "f6db5247aff1b01ec5aa88f24c7204a524a23efcdf81fb1bd13ca234533c090f",
+    "taxa.csv": "f20a3a3e437fcef29e812f2b53f3fe52dce35c66c3a3cbf8bd3dade0dd03aa94",
+    "waterbodies.csv": "4925ca8560c8aa658bf6ffae9b117a5e96fdd0fed4a28344ef9597733071a00f"
+  },
+  "marker": "12S_Teleo1_V5",
+  "module": "GF",
+  "reference_version": "external:GF-v1"
+}

@@ -1,0 +1,17 @@
+asv_id,expected_decision,is_simulated
+SIM_ASV_001,safe,True
+SIM_ASV_002,safe,True
+SIM_ASV_003,safe,True
+SIM_ASV_004,safe,True
+SIM_ASV_005,safe,True
+SIM_ASV_006,must_verify,True
+SIM_ASV_007,must_verify,True
+SIM_ASV_008,must_verify,True
+SIM_ASV_009,must_verify,True
+SIM_ASV_010,do_not_use,True
+SIM_ASV_011,do_not_use,True
+SIM_ASV_012,with_note,True
+SIM_ASV_013,with_note,True
+SIM_ASV_014,with_note,True
+SIM_ASV_015,with_note,True
+SIM_ASV_016,safe,True

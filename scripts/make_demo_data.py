@@ -7,7 +7,7 @@ from biotrace_core.config import ROOT
 from biotrace_core.io.loaders import write_fasta, write_table
 from biotrace_core.reference.curate import write_reference
 
-DEMO = ROOT / "data/demo/matano_SIMULASI_v2"
+DEMO = ROOT / "data/demo/matano_SIMULASI_v3"
 SOURCE = "SRC_SIMULASI"
 
 
@@ -196,7 +196,7 @@ def create_demo(destination: Path = DEMO) -> Path:
     tables, fasta, species = demo_tables()
     write_reference(
         destination / "reference_SIMULASI",
-        "SIMULASI-v2",
+        "SIMULASI-v3",
         "SIMULASI-ID",
         "12S_MiFish_U",
         tables,

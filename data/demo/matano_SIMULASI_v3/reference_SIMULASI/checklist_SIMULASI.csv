@@ -1,0 +1,12 @@
+waterbody_id,species_valid,origin_status,endemic_scope,source_id,year_recorded,notes,is_simulated
+MATANO,Gobio delta,endemik,danau,SRC_SIMULASI,,SIMULASI: bukan catatan keberadaan nyata,True
+MATANO,Gobio epsilon,asli,,SRC_SIMULASI,,SIMULASI: bukan catatan keberadaan nyata,True
+MATANO,Piscis alpha,endemik,danau,SRC_SIMULASI,,SIMULASI: bukan catatan keberadaan nyata,True
+MATANO,Piscis beta,endemik,danau,SRC_SIMULASI,,SIMULASI: bukan catatan keberadaan nyata,True
+MATANO,Piscis gamma,endemik,danau,SRC_SIMULASI,,SIMULASI: bukan catatan keberadaan nyata,True
+MATANO,Rasbo eta,asli,,SRC_SIMULASI,,SIMULASI: bukan catatan keberadaan nyata,True
+MATANO,Rasbo iota,asli,,SRC_SIMULASI,,SIMULASI: bukan catatan keberadaan nyata,True
+MATANO,Rasbo theta,asli,,SRC_SIMULASI,,SIMULASI: bukan catatan keberadaan nyata,True
+MATANO,Rasbo zeta,asli,,SRC_SIMULASI,,SIMULASI: bukan catatan keberadaan nyata,True
+MATANO,Tilapa omega,introduksi,,SRC_SIMULASI,,SIMULASI: bukan catatan keberadaan nyata,True
+MATANO,alias:louhan_hybrid_SIMULASI,introduksi,,SRC_SIMULASI,,SIMULASI,True
