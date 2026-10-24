@@ -1,0 +1,41 @@
+{
+  "baseline_blast97": {
+    "M1": 0.30927835051546393,
+    "M3": 0.30927835051546393
+  },
+  "blast_version": "blastn: 2.17.0+",
+  "counts": {
+    "baseline_wrong": 480,
+    "complete_n": 1426,
+    "correct_abstention": 1471,
+    "correct_species": 1378,
+    "n": 1552,
+    "unnecessary_lower": 48,
+    "wrong_any": 81,
+    "wrong_safe": 11
+  },
+  "dataset": "GF",
+  "duration_seconds": 1389.157,
+  "is_simulated": false,
+  "marker": "12S_Teleo1_V5",
+  "metrics": {
+    "M1": 0.007087628865979381,
+    "M2": 0.9478092783505154,
+    "M3": 0.05219072164948454,
+    "M4": 0.9663394109396914,
+    "M5": 0.033660589060308554
+  },
+  "n_queries": 1552,
+  "n_species": 369,
+  "notes": [
+    "L4 diset maksimum untuk mengisolasi logika penamaan; bukan hasil sampel lapangan.",
+    "Parameter belum dikalibrasi untuk marker ini; hasil tidak membuktikan akurasi MiFish Indonesia.",
+    "M4/M5 hanya query spesies dengan lebih dari satu sekuens; bukan komplemen matematis.",
+    "LOSO menghapus semua referensi X sebelum BLAST; checklist tetap memuat X."
+  ],
+  "partial": false,
+  "reference_manifest_hash": "8292bff3575b44556896aa02f5ce8e11896d6a0e4fc22d7ba4a08940e36b63a8",
+  "reference_version": "external:GF-v1",
+  "rules_hash": "4e4c136ee06710880fb868023d7a9433f18647b750459a072a10ea1635679e39",
+  "rules_version": "r0.2"
+}

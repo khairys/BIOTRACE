@@ -1,0 +1,6 @@
+is_simulated,name_or_asv,nearest_hint,reasons,score,sites,total_reads,type,waterbody_id
+true,Piscis gamma,,endemic;observed_reference_gap,5,,0,species,MATANO
+true,Rasbo eta,,observed_reference_gap,2,,0,species,MATANO
+true,Rasbo theta,,observed_reference_gap,2,,0,species,MATANO
+true,SIM_ASV_012,Rasbo iota,unknown,0,MAT-S1;MAT-S4,1800,asv,MATANO
+true,SIM_ASV_013,Rasbo iota,unknown,0,MAT-S2;MAT-S5,1800,asv,MATANO
