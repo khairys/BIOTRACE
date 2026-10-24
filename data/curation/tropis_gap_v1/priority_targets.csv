@@ -1,0 +1,153 @@
+spec_code,species,family,order,status_id,freshwater,brackish,marine,islands,status_dilindungi_kkp,permen_19_2020,genbank_12s_mito,genbank_mifish,mifish_best_tier,mifish_tiers,mifish_with_voucher,bold_coi_total,bold_coi_ID,bold_coi_ID_museum,bold_coi_tetangga,bold_ID_institutions,gbif_ID,gbif_ID_specimen,obis_ID_records,priority_score
+22862,Homalopterula gymnogaster,Balitoridae,Cypriniformes,endemic,1,0,0,,penuh,,0,0,7_tidak_ada,,0,3,3,3,0,"Indonesian Institute of Sciences, Research Centre for Biology",26,25,0,7
+25199,Barbodes microps,Cyprinidae,Cypriniformes,endemic,1,0,0,,penuh,,0,0,7_tidak_ada,,0,0,0,0,0,,17,17,0,7
+12592,Urolophus kaianus,Urolophidae,Myliobatiformes,endemic,0,0,1,,penuh,,0,0,7_tidak_ada,,0,0,0,0,0,,0,0,0,7
+22502,Rasbora baliensis,Danionidae,Cypriniformes,endemic,1,0,0,,,,0,0,7_tidak_ada,,0,54,54,54,0,"Indonesian Institute of Sciences, Research Centre for Biology",70,58,0,5
+25624,Melanotaenia fredericki,Melanotaeniidae,Atheriniformes,endemic,1,0,0,Papua,,,0,0,7_tidak_ada,,0,39,39,39,0,"Institut de Recherche pour le Developpement, Occitanie;Indonesian Institute of Sciences, Research Center for Biology, Museum Zoologicum Bogoriense;Cibinong Science Centre, Museum Zoologicum Bogoriense",28,25,0,5
+10489,Melanotaenia boesemani,Melanotaeniidae,Atheriniformes,endemic,1,0,0,Papua,,,2,1,2_Sundaland,2_Sundaland:1,0,36,21,21,0,"Indonesian Institute of Sciences, Research Center for Biology, Museum Zoologicum Bogoriense;Cibinong Science Centre, Museum Zoologicum Bogoriense;Museum national d'Histoire naturelle",49,27,0,5
+10487,Melanotaenia arfakensis,Melanotaeniidae,Atheriniformes,endemic,1,0,0,Papua,,,0,0,7_tidak_ada,,0,20,20,20,0,"Institut de Recherche pour le Developpement, Occitanie;Cibinong Science Centre, Museum Zoologicum Bogoriense;Museum national d'Histoire naturelle",44,24,0,5
+68869,Stiphodon annieae,Gobiidae,Gobiiformes,endemic,1,0,0,,,,0,0,7_tidak_ada,,0,16,16,16,0,"Indonesian Institute of Sciences, Research Centre for Biology",22,22,0,5
+10486,Melanotaenia angfa,Melanotaeniidae,Atheriniformes,endemic,1,0,0,Papua,,,0,0,7_tidak_ada,,0,15,15,15,0,"Institut de Recherche pour le Developpement, Occitanie;Cibinong Science Centre, Museum Zoologicum Bogoriense;Museum national d'Histoire naturelle",29,29,0,5
+25628,Melanotaenia irianjaya,Melanotaeniidae,Atheriniformes,endemic,1,0,0,Papua,,,0,0,7_tidak_ada,,0,12,12,12,0,"Institut de Recherche pour le Developpement, Occitanie;Cibinong Science Centre, Museum Zoologicum Bogoriense;Museum national d'Histoire naturelle",33,19,0,5
+17439,Osteochilus kappenii,Cyprinidae,Cypriniformes,endemic,1,0,0,,,,0,0,7_tidak_ada,,0,10,10,10,0,"Indonesian Institute of Sciences, Research Centre for Biology",11,10,0,5
+22639,Rasbora tawarensis,Danionidae,Cypriniformes,endemic,1,0,0,,,,0,0,7_tidak_ada,,0,8,8,8,0,"Mined from GenBank, NCBI",33,23,0,5
+10485,Melanotaenia ajamaruensis,Melanotaeniidae,Atheriniformes,endemic,1,0,0,,,,0,0,7_tidak_ada,,0,7,7,7,0,"Cibinong Science Centre, Museum Zoologicum Bogoriense;Museum national d'Histoire naturelle;Indonesian Institute of Sciences, Research Center for Biology, Museum Zoologicum Bogoriense",22,15,0,5
+15896,Betta edithae,Osphronemidae,Anabantiformes,endemic,1,0,0,,,,16,0,7_tidak_ada,,0,6,6,6,0,"Indonesian Institute of Sciences, Research Centre for Biology;Mined from GenBank, NCBI",74,37,0,5
+10897,Chromobotia macracanthus,Botiidae,Cypriniformes,endemic,1,0,0,,,,0,0,7_tidak_ada,,0,24,6,6,0,"Indonesian Institute of Sciences, Research Centre for Biology",62,55,0,5
+10490,Melanotaenia catherinae,Melanotaeniidae,Atheriniformes,endemic,1,0,0,Papua,,,0,0,7_tidak_ada,,0,6,6,6,0,"Institut de Recherche pour le Developpement, Occitanie",11,11,0,5
+10499,Melanotaenia misoolensis,Melanotaeniidae,Atheriniformes,endemic,1,0,0,Papua,,,0,0,7_tidak_ada,,0,6,6,6,0,"Cibinong Science Centre, Museum Zoologicum Bogoriense;Museum national d'Histoire naturelle;Naturalis Biodiversity Center",11,11,0,5
+10514,Melanotaenia parva,Melanotaeniidae,Atheriniformes,endemic,1,0,0,Papua,,,0,0,7_tidak_ada,,0,6,6,6,0,"Cibinong Science Centre, Museum Zoologicum Bogoriense;Museum national d'Histoire naturelle;Naturalis Biodiversity Center",10,10,0,5
+66362,Melanotaenia salawati,Melanotaeniidae,Atheriniformes,endemic,1,0,0,Papua,,,0,0,7_tidak_ada,,0,6,6,6,0,"Cibinong Science Centre, Museum Zoologicum Bogoriense;Museum national d'Histoire naturelle;Naturalis Biodiversity Center",8,8,0,5
+23410,Hemirhamphodon kapuasensis,Zenarchopteridae,Beloniformes,endemic,1,1,0,,,,0,0,7_tidak_ada,,0,7,7,5,0,"Indonesian Institute of Sciences, Research Centre for Biology;Royal Ontario Museum",8,4,0,5
+67380,Melanotaenia veoliae,Melanotaeniidae,Atheriniformes,endemic,1,0,0,Papua,,,0,0,7_tidak_ada,,0,5,5,5,0,"Indonesian Institute of Sciences, Research Center for Biology, Museum Zoologicum Bogoriense",2,2,0,5
+6300,Marosatherina ladigesi,Telmatherinidae,Atheriniformes,endemic,1,0,0,,,,0,0,7_tidak_ada,,0,5,4,4,0,"Mined from GenBank, NCBI;Indonesian Institute of Sciences, Research Centre for Biology",26,19,0,5
+6351,Mugilogobius sarasinorum,Gobiidae,Gobiiformes,endemic,1,0,0,,,,0,0,7_tidak_ada,,0,4,4,4,0,"Mined from GenBank, NCBI",40,28,0,5
+5849,Nemipterus gracilis,Nemipteridae,Eupercaria/misc,endemic,0,0,1,,,,0,0,7_tidak_ada,,0,5,5,4,0,"CSIRO, Australian National Fish Collection",10,4,2,5
+5846,Nemipterus balinensis,Nemipteridae,Eupercaria/misc,endemic,0,0,1,,,,0,0,7_tidak_ada,,0,9,3,3,3,"CSIRO, Australian National Fish Collection",22,16,21,5
+10477,Glossolepis incisa,Melanotaeniidae,Atheriniformes,endemic,1,0,0,,,,0,0,7_tidak_ada,,0,15,2,2,0,"Institut de Recherche pour le Developpement, Occitanie",18,17,0,5
+17418,Lobocheilos kajanensis,Cyprinidae,Cypriniformes,endemic,1,0,0,,,,0,0,7_tidak_ada,,0,2,2,2,0,"Indonesian Institute of Sciences, Research Centre for Biology",7,6,0,5
+59898,Mugilogobius rexi,Gobiidae,Gobiiformes,endemic,1,0,0,,,,0,0,7_tidak_ada,,0,2,2,2,0,"Mined from GenBank, NCBI",12,6,0,5
+25601,Chilatherina bleheri,Melanotaeniidae,Atheriniformes,endemic,1,0,0,,,,0,0,7_tidak_ada,,0,1,1,1,0,"Institut de Recherche pour le Developpement, Occitanie",5,5,0,5
+10479,Glossolepis pseudoincisa,Melanotaeniidae,Atheriniformes,endemic,1,0,0,,,,0,0,7_tidak_ada,,0,1,1,1,0,"Institut de Recherche pour le Developpement, Occitanie",6,6,0,5
+64724,Glyptothorax schmidti,Sisoridae,Siluriformes,endemic,1,0,0,,,,0,0,7_tidak_ada,,0,13,1,1,1,Florida Museum of Natural History,7,4,0,5
+10516,Melanotaenia praecox,Melanotaeniidae,Atheriniformes,endemic,1,0,0,,,,0,0,7_tidak_ada,,0,6,1,1,0,"Institut de Recherche pour le Developpement, Occitanie",6,3,0,5
+10520,Melanotaenia vanheurni,Melanotaeniidae,Atheriniformes,endemic,1,0,0,,,,0,0,7_tidak_ada,,0,1,1,1,0,"Institut de Recherche pour le Developpement, Occitanie",3,3,0,5
+6344,Mugilogobius latifrons,Gobiidae,Gobiiformes,endemic,1,0,0,,,,0,0,7_tidak_ada,,0,1,1,1,0,"Mined from GenBank, NCBI",21,20,0,5
+62167,Oryzias nebulosus,Adrianichthyidae,Beloniformes,endemic,1,0,0,,,,0,0,7_tidak_ada,,0,2,1,1,0,"Mined from GenBank, NCBI",13,4,0,5
+12506,Pomacentrus xanthosternus,Pomacentridae,Ovalentaria/misc,endemic,0,0,1,,,,3,0,7_tidak_ada,,0,1,1,1,0,"CSIRO, Australian National Fish Collection",13,2,2,5
+66859,Pseudanthias mica,Anthiadidae,Perciformes/Serranoidei,endemic,0,0,1,,,,0,0,7_tidak_ada,,0,1,1,1,0,"Mined from GenBank, NCBI",3,1,0,5
+6261,Adrianichthys kruyti,Adrianichthyidae,Beloniformes,endemic,1,0,0,,,,0,0,7_tidak_ada,,0,0,0,0,0,,5,5,0,5
+6262,Adrianichthys oophorus,Adrianichthyidae,Beloniformes,endemic,1,0,0,,,,2,0,7_tidak_ada,,0,0,0,0,0,,27,15,0,5
+6263,Adrianichthys poptae,Adrianichthyidae,Beloniformes,endemic,1,0,0,,,,0,0,7_tidak_ada,,0,0,0,0,0,,28,20,0,5
+62166,Adrianichthys roseni,Adrianichthyidae,Beloniformes,endemic,1,0,0,,,,0,0,7_tidak_ada,,0,0,0,0,0,,3,3,0,5
+782,Apristurus sibogae,Pentanchidae,Carcharhiniformes,endemic,0,0,1,,,,0,0,7_tidak_ada,,0,0,0,0,0,,0,0,0,5
+15897,Betta foerschi,Osphronemidae,Anabantiformes,endemic,1,0,0,,,,4,0,7_tidak_ada,,0,0,0,0,0,,8,8,0,5
+26323,Bostrychus aruensis,Butidae,Gobiiformes,endemic,1,0,0,,,,0,0,7_tidak_ada,,0,0,0,0,0,,25,25,0,5
+59289,Callionymus amboina,Callionymidae,Callionymiformes,endemic,0,0,1,,,,0,0,7_tidak_ada,,0,0,0,0,0,,2,2,1,5
+60551,Callionymus bleekeri,Callionymidae,Callionymiformes,endemic,0,0,1,,,,0,0,7_tidak_ada,,0,0,0,0,0,,0,0,0,5
+61657,Chaetodontoplus dimidiatus,Pomacanthidae,Acanthuriformes,endemic,0,0,1,,,,0,0,7_tidak_ada,,0,0,0,0,0,,12,0,11,5
+25613,Chilatherina sentaniensis,Melanotaeniidae,Atheriniformes,endemic,1,0,0,,,,0,0,7_tidak_ada,,0,0,0,0,0,,9,9,0,5
+64762,Chromis athena,Pomacentridae,Ovalentaria/misc,endemic,0,0,1,,,,0,0,7_tidak_ada,,0,0,0,0,0,,1,1,2,5
+65214,Chromis unipa,Pomacentridae,Ovalentaria/misc,endemic,0,0,1,,,,0,0,7_tidak_ada,,0,0,0,0,0,,1,1,0,5
+61072,Chrysiptera pricei,Pomacentridae,Ovalentaria/misc,endemic,0,0,1,,,,0,0,7_tidak_ada,,0,0,0,0,0,,2,2,3,5
+56636,Cirrhilabrus adornatus,Labridae,Eupercaria/misc,endemic,0,0,1,,,,0,0,7_tidak_ada,,0,0,0,0,0,,12,11,9,5
+62007,Clarias pseudonieuhofii,Clariidae,Siluriformes,endemic,1,0,0,,,,0,0,7_tidak_ada,,0,0,0,0,0,,0,0,0,5
+11779,Doryichthys heterosoma,Syngnathidae,Syngnathiformes,endemic,1,0,0,,,,0,0,7_tidak_ada,,0,0,0,0,0,,2,2,0,5
+61238,Ecsenius ops,Blenniidae,Blenniiformes,endemic,0,0,1,,,,0,0,7_tidak_ada,,0,0,0,0,0,,23,9,16,5
+70431,Fowleria amblyuroptera,Apogonidae,Kurtiformes,endemic,0,0,1,,,,0,0,7_tidak_ada,,0,0,0,0,0,,3,1,2,5
+25767,Glossamia beauforti,Apogonidae,Kurtiformes,endemic,1,0,0,,,,0,0,7_tidak_ada,,0,0,0,0,0,,23,15,0,5
+65604,Glossamia timika,Apogonidae,Kurtiformes,endemic,1,0,0,,,,0,0,7_tidak_ada,,0,0,0,0,0,,3,0,0,5
+6349,Glossogobius flavipinnis,Gobiidae,Gobiiformes,endemic,1,0,0,,,,1,0,7_tidak_ada,,0,0,0,0,0,,29,19,0,5
+10780,Glossogobius hoesei,Gobiidae,Gobiiformes,endemic,1,0,0,,,,0,0,7_tidak_ada,,0,0,0,0,0,,8,8,0,5
+10781,Glossogobius intermedius,Gobiidae,Gobiiformes,endemic,1,0,0,,,,0,0,7_tidak_ada,,0,0,0,0,0,,5,4,0,5
+67965,Glossogobius mahalonensis,Gobiidae,Gobiiformes,endemic,1,0,0,,,,0,0,7_tidak_ada,,0,0,0,0,0,,19,12,0,5
+6340,Glossogobius matanensis,Gobiidae,Gobiiformes,endemic,1,0,0,,,,0,0,7_tidak_ada,,0,0,0,0,0,,16,14,0,5
+12299,Gyrinocheilus pustulosus,Gyrinocheilidae,Cypriniformes,endemic,1,0,0,,,,0,0,7_tidak_ada,,0,0,0,0,0,,5,3,0,5
+51566,Helcogramma kranos,Tripterygiidae,Blenniiformes,endemic,0,0,1,,,,0,0,7_tidak_ada,,0,0,0,0,0,,6,6,3,5
+51567,Helcogramma solorensis,Tripterygiidae,Blenniiformes,endemic,0,0,1,,,,0,0,7_tidak_ada,,0,0,0,0,0,,4,4,0,5
+12758,Helcogramma vulcana,Tripterygiidae,Blenniiformes,endemic,0,0,1,,,,0,0,7_tidak_ada,,0,0,0,0,0,,11,11,11,5
+68227,Hemitrygon longicauda,Dasyatidae,Myliobatiformes,endemic,0,0,1,Papua,,,0,0,7_tidak_ada,,0,0,0,0,0,,0,0,0,5
+25727,Hephaestus lineatus,Terapontidae,Centrarchiformes,endemic,1,0,0,,,,0,0,7_tidak_ada,,0,0,0,0,0,,2,2,0,5
+25733,Hephaestus roemeri,Terapontidae,Centrarchiformes,endemic,1,0,0,,,,0,0,7_tidak_ada,,0,0,0,0,0,,1,1,0,5
+15246,Johnius hypostoma,Sciaenidae,Eupercaria/misc,endemic,0,0,1,,,,0,0,7_tidak_ada,,0,0,0,0,0,,0,0,0,5
+15311,Kalyptatherina helodes,Telmatherinidae,Atheriniformes,endemic,0,1,1,,,,0,0,7_tidak_ada,,0,0,0,0,0,,9,6,7,5
+12762,Kanekonia pelta,Aploactinidae,Perciformes/Scorpaenoidei,endemic,0,0,1,,,,0,0,7_tidak_ada,,0,0,0,0,0,,3,3,2,5
+69944,Leiocassis rudicula,Bagridae,Siluriformes,endemic,1,0,0,Kalimantan,,,0,0,7_tidak_ada,,0,0,0,0,0,,11,0,0,5
+17419,Lobocheilos lehat,Cyprinidae,Cypriniformes,endemic,1,0,0,,,,0,0,7_tidak_ada,,0,0,0,0,0,,3,3,0,5
+22807,Lobocheilos schwanenfeldii,Cyprinidae,Cypriniformes,endemic,1,0,0,,,,0,0,7_tidak_ada,,0,0,0,0,0,,11,11,0,5
+10491,Melanotaenia corona,Melanotaeniidae,Atheriniformes,endemic,1,0,0,,,,0,0,7_tidak_ada,,0,0,0,0,0,,0,0,0,5
+68894,Melanotaenia ericrobertsi,Melanotaeniidae,Atheriniformes,endemic,1,0,0,Papua,,,0,0,7_tidak_ada,,0,0,0,0,0,,0,0,0,5
+68884,Melanotaenia flavipinnis,Melanotaeniidae,Atheriniformes,endemic,1,0,0,Papua,,,0,0,7_tidak_ada,,0,0,0,0,0,,0,0,0,5
+25630,Melanotaenia japenensis,Melanotaeniidae,Atheriniformes,endemic,1,0,0,,,,0,0,7_tidak_ada,,0,0,0,0,0,,5,5,0,5
+68895,Melanotaenia laticlavia,Melanotaeniidae,Atheriniformes,endemic,1,0,0,Papua,,,0,0,7_tidak_ada,,0,0,0,0,0,,0,0,0,5
+10498,Melanotaenia maylandi,Melanotaeniidae,Atheriniformes,endemic,1,0,0,,,,0,0,7_tidak_ada,,0,0,0,0,0,,5,5,0,5
+10509,Melanotaenia ogilbyi,Melanotaeniidae,Atheriniformes,endemic,1,0,0,,,,0,0,7_tidak_ada,,0,0,0,0,0,,1,1,0,5
+67384,Melanotaenia wanoma,Melanotaeniidae,Atheriniformes,endemic,1,0,0,Papua,,,0,0,7_tidak_ada,,0,0,0,0,0,,2,2,0,5
+12009,Microphis caudocarinatus,Syngnathidae,Syngnathiformes,endemic,1,0,0,,,,0,0,7_tidak_ada,,0,0,0,0,0,,0,0,0,5
+6352,Mugilogobius amadi,Gobiidae,Gobiiformes,endemic,1,0,0,,,,0,0,7_tidak_ada,,0,0,0,0,0,,4,4,0,5
+6272,Nomorhamphus celebensis,Zenarchopteridae,Beloniformes,endemic,1,0,0,,,,0,0,7_tidak_ada,,0,0,0,0,0,,43,34,0,5
+6270,Nomorhamphus megarrhamphus,Zenarchopteridae,Beloniformes,endemic,1,1,0,,,,0,0,7_tidak_ada,,0,0,0,0,0,,36,32,0,5
+6271,Nomorhamphus weberi,Zenarchopteridae,Beloniformes,endemic,1,0,0,,,,0,0,7_tidak_ada,,0,0,0,0,0,,55,54,0,5
+64835,Oryzias bonneorum,Adrianichthyidae,Beloniformes,endemic,1,0,0,,,,0,0,7_tidak_ada,,0,0,0,0,0,,3,2,0,5
+66685,Oryzias eversi,Adrianichthyidae,Beloniformes,endemic,1,0,0,,,,0,0,7_tidak_ada,,0,0,0,0,0,,19,3,0,5
+69786,Oryzias kalimpaaensis,Adrianichthyidae,Beloniformes,endemic,1,0,0,Sulawesi,,,0,0,7_tidak_ada,,0,0,0,0,0,,0,0,0,5
+6265,Oryzias marmoratus,Adrianichthyidae,Beloniformes,endemic,1,0,0,,,,1,0,7_tidak_ada,,0,2,0,0,0,,140,26,0,5
+6266,Oryzias matanensis,Adrianichthyidae,Beloniformes,endemic,1,0,0,,,,1,0,7_tidak_ada,,0,1,0,0,0,,55,21,0,5
+6267,Oryzias nigrimas,Adrianichthyidae,Beloniformes,endemic,1,0,0,,,,1,0,7_tidak_ada,,0,0,0,0,0,,19,11,0,5
+6268,Oryzias orthognathus,Adrianichthyidae,Beloniformes,endemic,1,0,0,,,,0,0,7_tidak_ada,,0,0,0,0,0,,16,5,0,5
+6269,Oryzias profundicola,Adrianichthyidae,Beloniformes,endemic,1,0,0,,,,1,0,7_tidak_ada,,0,0,0,0,0,,53,11,0,5
+6264,Oryzias sarasinorum,Adrianichthyidae,Beloniformes,endemic,1,0,0,,,,1,0,7_tidak_ada,,0,13,0,0,0,,31,12,0,5
+60352,Ostorhinchus microspilos,Apogonidae,Kurtiformes,endemic,0,0,1,Bali_Nusa_Tenggara,,,0,0,7_tidak_ada,,0,0,0,0,0,,3,0,2,5
+65607,Oxyeleotris stagnicola,Butidae,Gobiiformes,endemic,1,0,0,,,,0,0,7_tidak_ada,,0,0,0,0,0,,0,0,0,5
+10723,Oxyeleotris wisselensis,Butidae,Gobiiformes,endemic,1,0,0,,,,0,0,7_tidak_ada,,0,0,0,0,0,,10,10,0,5
+10402,Pachyula conorhynchus,Ariidae,Siluriformes,endemic,1,1,0,,,,0,0,7_tidak_ada,,0,0,0,0,0,,2,1,0,5
+60293,Pangasius mahakamensis,Pangasiidae,Siluriformes,endemic,1,0,0,,,,0,0,7_tidak_ada,,0,0,0,0,0,,7,5,0,5
+10552,Parambassis altipinnis,Ambassidae,Ovalentaria/misc,endemic,1,0,0,,,,0,0,7_tidak_ada,,0,0,0,0,0,,3,3,0,5
+5861,Parascolopsis qantasi,Nemipteridae,Eupercaria/misc,endemic,0,0,1,,,,0,0,7_tidak_ada,,0,0,0,0,0,,2,2,2,5
+6293,Paratherina cyanea,Telmatherinidae,Atheriniformes,endemic,1,0,0,,,,0,0,7_tidak_ada,,0,0,0,0,0,,5,5,0,5
+6294,Paratherina labiosa,Telmatherinidae,Atheriniformes,endemic,1,0,0,,,,0,0,7_tidak_ada,,0,0,0,0,0,,3,3,0,5
+6295,Paratherina striata,Telmatherinidae,Atheriniformes,endemic,1,0,0,,,,0,0,7_tidak_ada,,0,2,2,0,0,"Mined from GenBank, NCBI",12,10,0,5
+6296,Paratherina wolterecki,Telmatherinidae,Atheriniformes,endemic,1,0,0,,,,0,0,7_tidak_ada,,0,0,0,0,0,,13,13,0,5
+12078,Parosphromenus deissneri,Osphronemidae,Anabantiformes,endemic,1,0,0,,,,0,0,7_tidak_ada,,0,5,4,0,0,Royal Ontario Museum,9,4,0,5
+69274,Parupeneus inayatae,Mullidae,Mulliformes,endemic,0,0,1,,,,0,0,7_tidak_ada,,0,0,0,0,0,,0,0,0,5
+12761,Platygobiopsis akihito,Gobiidae,Gobiiformes,endemic,0,0,1,,,,0,0,7_tidak_ada,,0,0,0,0,0,,10,7,5,5
+65645,Pomacentrus fakfakensis,Pomacentridae,Ovalentaria/misc,endemic,0,0,1,,,,0,0,7_tidak_ada,,0,0,0,0,0,,1,1,1,5
+12491,Pomacentrus javanicus,Pomacentridae,Ovalentaria/misc,endemic,0,0,1,,,,0,0,7_tidak_ada,,0,0,0,0,0,,1,0,2,5
+17459,Poropuntius tawarensis,Cyprinidae,Cypriniformes,endemic,1,0,0,,,,0,0,7_tidak_ada,,0,2,2,0,0,"Mined from GenBank, NCBI",31,27,0,5
+62046,Pseudobagarius meridionalis,Akysidae,Siluriformes,endemic,1,0,0,,,,0,0,7_tidak_ada,,0,0,0,0,0,,5,3,0,5
+66427,Pseudochromis ammeri,Pseudochromidae,Ovalentaria/misc,endemic,0,0,1,,,,0,0,7_tidak_ada,,0,0,0,0,0,,46,2,43,5
+10782,Pseudogobiopsis tigrellus,Gobiidae,Gobiiformes,endemic,1,0,0,,,,0,0,7_tidak_ada,,0,0,0,0,0,,1,1,0,5
+25663,Pseudomugil reticulatus,Pseudomugilidae,Atheriniformes,endemic,1,0,0,,,,0,0,7_tidak_ada,,0,0,0,0,0,,3,3,0,5
+23064,Pseudomystus moeschii,Bagridae,Siluriformes,endemic,1,0,0,,,,0,0,7_tidak_ada,,0,0,0,0,0,,5,3,0,5
+15426,Pterapogon kauderni,Apogonidae,Kurtiformes,endemic,0,0,1,,,,1,0,7_tidak_ada,,0,22,5,0,0,Royal Ontario Museum,437,59,290,5
+50231,Sargocentron shimizui,Holocentridae,Holocentriformes,endemic,0,0,1,,,,0,0,7_tidak_ada,,0,0,0,0,0,,3,3,1,5
+26583,Sicyopterus hageni,Gobiidae,Gobiiformes,endemic,1,0,0,,,,0,0,7_tidak_ada,,0,0,0,0,0,,22,22,0,5
+46279,Silurichthys citatus,Siluridae,Siluriformes,endemic,1,0,0,,,,0,0,7_tidak_ada,,0,0,0,0,0,,2,2,0,5
+26586,Stenogobius lachneri,Gobiidae,Gobiiformes,endemic,1,0,0,,,,0,0,7_tidak_ada,,0,0,0,0,0,,1,1,0,5
+68072,Sueviota bryozophila,Gobiidae,Gobiiformes,endemic,0,0,1,,,,0,0,7_tidak_ada,,0,0,0,0,0,,6,1,5,5
+6297,Telmatherina abendanoni,Telmatherinidae,Atheriniformes,endemic,1,0,0,,,,0,0,7_tidak_ada,,0,0,0,0,0,,6,6,0,5
+24771,Telmatherina antoniae,Telmatherinidae,Atheriniformes,endemic,1,0,0,,,,0,0,7_tidak_ada,,0,0,0,0,0,,66,59,0,5
+6298,Telmatherina bonti,Telmatherinidae,Atheriniformes,endemic,1,0,0,,,,0,0,7_tidak_ada,,0,6,6,0,0,"Mined from GenBank, NCBI",926,917,0,5
+6299,Telmatherina celebensis,Telmatherinidae,Atheriniformes,endemic,1,0,0,,,,0,0,7_tidak_ada,,0,2,2,0,0,"Mined from GenBank, NCBI",453,452,0,5
+24774,Telmatherina obscura,Telmatherinidae,Atheriniformes,endemic,1,0,0,,,,0,0,7_tidak_ada,,0,0,0,0,0,,0,0,0,5
+24775,Telmatherina opudi,Telmatherinidae,Atheriniformes,endemic,1,0,0,,,,0,0,7_tidak_ada,,0,1,1,0,0,"Mined from GenBank, NCBI",92,92,0,5
+24776,Telmatherina prognatha,Telmatherinidae,Atheriniformes,endemic,1,0,0,,,,0,0,7_tidak_ada,,0,0,0,0,0,,20,20,0,5
+24777,Telmatherina sarasinorum,Telmatherinidae,Atheriniformes,endemic,1,0,0,,,,0,0,7_tidak_ada,,0,2,2,0,0,"Mined from GenBank, NCBI",18,10,0,5
+24779,Telmatherina wahjui,Telmatherinidae,Atheriniformes,endemic,1,0,0,,,,0,0,7_tidak_ada,,0,0,0,0,0,,15,15,0,5
+12591,Urolophus javanicus,Urolophidae,Myliobatiformes,endemic,0,0,1,,,,0,0,7_tidak_ada,,0,0,0,0,0,,0,0,0,5
+10627,Variichthys jamoerensis,Terapontidae,Centrarchiformes,endemic,1,0,0,,,,0,0,7_tidak_ada,,0,0,0,0,0,,3,3,0,5
+25571,Zenarchopterus alleni,Zenarchopteridae,Beloniformes,endemic,1,0,0,,,,0,0,7_tidak_ada,,0,0,0,0,0,,0,0,0,5
+17127,Zenarchopterus ornithocephala,Zenarchopteridae,Beloniformes,endemic,1,0,0,,,,0,0,7_tidak_ada,,0,0,0,0,0,,3,3,0,5
+7990,Notopterus notopterus,Notopteridae,Osteoglossiformes,native,1,0,0,,terbatas,,0,0,7_tidak_ada,,0,332,22,21,6,"Indonesian Institute of Sciences, Research Centre for Biology;Mined from GenBank, NCBI",176,95,0,4
+6089,Balantiocheilos melanopterus,Cyprinidae,Cypriniformes,native,1,0,0,,penuh,,0,0,7_tidak_ada,,0,21,7,7,4,"Indonesian Institute of Sciences, Research Centre for Biology;Mined from GenBank, NCBI",36,26,0,4
+62904,Chitala hypselonotus,Notopteridae,Osteoglossiformes,native,1,0,0,,penuh,,0,0,7_tidak_ada,,0,1,1,1,0,"Indonesian Institute of Sciences, Research Centre for Biology",7,2,0,4
+6357,Scleropages formosus,Osteoglossidae,Osteoglossiformes,native,1,0,0,,penuh,,22,22,2_Sundaland,2_Sundaland:18;4_Asia_Tenggara_daratan:2;6_asal_tidak_diketahui:2,0,193,1,1,1,"Indonesian Institute of Sciences, Research Centre for Biology",14,12,0,4
+8211,Anoxypristis cuspidata,Pristidae,Rhinopristiformes,native,0,1,1,,penuh,,0,0,7_tidak_ada,,0,0,0,0,0,,0,0,0,4
+15392,Fluvitrygon oxyrhynchus,Dasyatidae,Myliobatiformes,native,1,0,0,,penuh,,0,0,7_tidak_ada,,0,0,0,0,0,,0,0,0,4
+53783,Latimeria menadoensis,Latimeriidae,Coelacanthiformes,native,0,0,1,,penuh,,0,0,7_tidak_ada,,0,0,0,0,0,,0,0,0,4
+17432,Neolissochilus thienemanni,Cyprinidae,Cypriniformes,native,1,0,0,,penuh,,0,0,7_tidak_ada,,0,0,0,0,0,,6,6,0,4
+2546,Pristis microdon,Pristidae,Rhinopristiformes,native,1,1,1,,penuh,,0,0,7_tidak_ada,,0,0,0,0,0,,0,0,0,4
+2057,Pristis pectinata,Pristidae,Rhinopristiformes,native,1,1,1,,penuh,,0,0,7_tidak_ada,,0,0,0,0,0,,0,0,0,4
+7956,Pristis zijsron,Pristidae,Rhinopristiformes,native,1,1,1,,penuh,,0,0,7_tidak_ada,,0,0,0,0,0,,0,0,0,4
+7536,Scleropages jardinii,Osteoglossidae,Osteoglossiformes,native,1,0,0,,terbatas,,0,0,7_tidak_ada,,0,16,0,0,0,,0,0,0,4
+11693,Urogymnus polylepis,Dasyatidae,Myliobatiformes,native,1,0,0,,penuh,,0,0,7_tidak_ada,,0,0,0,0,0,,0,0,0,4

@@ -1,0 +1,184 @@
+{
+ "generated_from": {
+  "fishbase": "raw\\tropis\\fishbase\\2026-10-25",
+  "genbank_country": "raw\\tropis\\genbank_country\\2026-10-25",
+  "genbank_species_freshwater": "raw\\tropis\\genbank_species_freshwater\\2026-10-25",
+  "genbank_species_marine": "raw\\tropis\\genbank_species_marine\\2026-10-25",
+  "bold": "raw\\tropis\\bold\\2026-10-25",
+  "gbif": "raw\\tropis\\gbif\\2026-10-25",
+  "oai_jurnal": "raw\\tropis\\oai_jurnal\\2026-10-25",
+  "sra_edna": "raw\\tropis\\sra_edna\\2026-10-25",
+  "regulasi": "raw\\tropis\\regulasi\\2026-10-25",
+  "genbank_cited": null,
+  "europepmc": "raw\\tropis\\europepmc\\2026-10-25",
+  "brin_rin": "raw\\tropis\\brin_rin\\2026-10-25",
+  "brin_rin_files": "raw\\tropis\\brin_rin_files\\2026-10-25",
+  "repositori": "raw\\tropis\\repositori\\2026-10-25",
+  "obis": "raw\\tropis\\obis\\2026-10-25"
+ },
+ "fishbase_species_ID": 4969,
+ "genbank_records": 6654,
+ "genbank_records_with_mifish": 1716,
+ "genbank_records_unmatched_to_fishbase_ID": 1027,
+ "coverage_by_group": {
+  "semua": {
+   "n": 4969,
+   "1_ID": 81,
+   "2_Sundaland": 25,
+   "3_Wallacea_Sahul": 68,
+   "4_Asia_Tenggara_daratan": 179,
+   "5_lain": 161,
+   "6_asal_tidak_diketahui": 56,
+   "7_tidak_ada": 4399
+  },
+  "air_tawar_payau": {
+   "n": 1605,
+   "1_ID": 72,
+   "2_Sundaland": 18,
+   "3_Wallacea_Sahul": 9,
+   "4_Asia_Tenggara_daratan": 38,
+   "5_lain": 29,
+   "6_asal_tidak_diketahui": 24,
+   "7_tidak_ada": 1415
+  },
+  "air_tawar_endemik": {
+   "n": 109,
+   "1_ID": 3,
+   "2_Sundaland": 1,
+   "3_Wallacea_Sahul": 0,
+   "4_Asia_Tenggara_daratan": 0,
+   "5_lain": 0,
+   "6_asal_tidak_diketahui": 0,
+   "7_tidak_ada": 105
+  },
+  "laut_saja": {
+   "n": 3364,
+   "1_ID": 9,
+   "2_Sundaland": 7,
+   "3_Wallacea_Sahul": 59,
+   "4_Asia_Tenggara_daratan": 141,
+   "5_lain": 132,
+   "6_asal_tidak_diketahui": 32,
+   "7_tidak_ada": 2984
+  },
+  "introduksi": {
+   "n": 20,
+   "1_ID": 0,
+   "2_Sundaland": 1,
+   "3_Wallacea_Sahul": 0,
+   "4_Asia_Tenggara_daratan": 0,
+   "5_lain": 6,
+   "6_asal_tidak_diketahui": 1,
+   "7_tidak_ada": 12
+  },
+  "dilindungi_kkp": {
+   "n": 18,
+   "1_ID": 2,
+   "2_Sundaland": 1,
+   "3_Wallacea_Sahul": 0,
+   "4_Asia_Tenggara_daratan": 0,
+   "5_lain": 0,
+   "6_asal_tidak_diketahui": 0,
+   "7_tidak_ada": 15
+  },
+  "permen_19_2020_tercatat_di_ID": {
+   "n": 8,
+   "1_ID": 0,
+   "2_Sundaland": 0,
+   "3_Wallacea_Sahul": 0,
+   "4_Asia_Tenggara_daratan": 0,
+   "5_lain": 0,
+   "6_asal_tidak_diketahui": 0,
+   "7_tidak_ada": 8
+  }
+ },
+ "freshwater_by_island_fishbase_countrysub": {
+  "Sumatra": {
+   "1_ID": 0,
+   "2_Sundaland": 0,
+   "3_Wallacea_Sahul": 0,
+   "4_Asia_Tenggara_daratan": 0,
+   "5_lain": 0,
+   "6_asal_tidak_diketahui": 0,
+   "7_tidak_ada": 9
+  },
+  "Jawa": {
+   "1_ID": 0,
+   "2_Sundaland": 0,
+   "3_Wallacea_Sahul": 0,
+   "4_Asia_Tenggara_daratan": 0,
+   "5_lain": 0,
+   "6_asal_tidak_diketahui": 0,
+   "7_tidak_ada": 4
+  },
+  "Bali_Nusa_Tenggara": {
+   "1_ID": 0,
+   "2_Sundaland": 0,
+   "3_Wallacea_Sahul": 0,
+   "4_Asia_Tenggara_daratan": 1,
+   "5_lain": 0,
+   "6_asal_tidak_diketahui": 0,
+   "7_tidak_ada": 3
+  },
+  "Kalimantan": {
+   "1_ID": 0,
+   "2_Sundaland": 0,
+   "3_Wallacea_Sahul": 0,
+   "4_Asia_Tenggara_daratan": 0,
+   "5_lain": 0,
+   "6_asal_tidak_diketahui": 0,
+   "7_tidak_ada": 4
+  },
+  "Sulawesi": {
+   "1_ID": 0,
+   "2_Sundaland": 0,
+   "3_Wallacea_Sahul": 0,
+   "4_Asia_Tenggara_daratan": 0,
+   "5_lain": 0,
+   "6_asal_tidak_diketahui": 0,
+   "7_tidak_ada": 8
+  },
+  "Maluku": {
+   "1_ID": 0,
+   "2_Sundaland": 0,
+   "3_Wallacea_Sahul": 0,
+   "4_Asia_Tenggara_daratan": 0,
+   "5_lain": 0,
+   "6_asal_tidak_diketahui": 0,
+   "7_tidak_ada": 3
+  },
+  "Papua": {
+   "1_ID": 1,
+   "2_Sundaland": 1,
+   "3_Wallacea_Sahul": 0,
+   "4_Asia_Tenggara_daratan": 0,
+   "5_lain": 0,
+   "6_asal_tidak_diketahui": 0,
+   "7_tidak_ada": 33
+  }
+ },
+ "bold_species_with_coi_from_ID": 1553,
+ "obis_species_matched_ID": 2940,
+ "gbif_species_matched_ID": 4271,
+ "priority_targets": 152,
+ "journal_articles_fish_dna": 212,
+ "articles_by_journal": {
+  "berita_biologi": 1,
+  "biodiversitas": 159,
+  "biotropia": 10,
+  "jitkt_ipb": 9,
+  "jurnal_iktiologi_indonesia": 30,
+  "limnotek": 1,
+  "marine_research_indonesia": 1,
+  "treubia": 1
+ },
+ "regulation_candidates": 44,
+ "cited_accessions_europepmc": 68279,
+ "indonesian_specimen_candidates_from_papers": 39,
+ "notes": [
+  "Eksplorasi otomatis; nama FishBase (CC BY-NC) tanpa tinjauan ahli. Bukan kamus berversi.",
+  "MiFish = trim_mifish_fast, setara trim_mifish (R-CUR-05; primer dan mismatch dari rules YAML), diverifikasi identik pada sampel setiap run.",
+  "Tingkat asal dari kualifier GenBank country/geo_loc_name; kosong = asal tidak diketahui (sering spesimen Indonesia tanpa label, mis. Telmatherina).",
+  "Prioritas memakai bobot priorities rules YAML: endemic; threatened untuk status dilindungi KKP (Kepmen 1/2021, 83/2024); observed_reference_gap untuk tanpa referensi MiFish Indonesia; invasive untuk jenis di lampiran Permen KP 19/2020. Status regulasi dari transkripsi yang belum dicek manusia."
+ ]
+}

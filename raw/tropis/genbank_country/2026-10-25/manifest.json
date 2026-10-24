@@ -4,10 +4,510 @@
  "license_reported_by_source": "Kebijakan NCBI: tanpa batasan pemakaian, tanpa jaminan hak pihak ketiga",
  "method": "esearch per negara: Actinopterygii[Organism] AND \"<negara>\"[country] AND ((12S[All Fields] OR \"12S ribosomal RNA\"[All Fields] OR \"small subunit ribosomal RNA\"[All Fields]) OR (mitochondrion[filter] AND 14000:20000[SLEN])); esummary JSON + FASTA per 250 record.",
  "started": "2026-10-25T02:39:21",
- "queries": {},
- "files": {},
+ "queries": {
+  "ID_s20k": {
+   "term": "Actinopterygii[Organism] AND \"Indonesia\"[country] AND (((12S[All Fields] OR \"12S ribosomal RNA\"[All Fields] OR \"small subunit ribosomal RNA\"[All Fields]) OR (mitochondrion[filter] AND 14000:20000[SLEN]))) AND 50:20000[SLEN]",
+   "count": 2647
+  },
+  "MY_s20k": {
+   "term": "Actinopterygii[Organism] AND \"Malaysia\"[country] AND (((12S[All Fields] OR \"12S ribosomal RNA\"[All Fields] OR \"small subunit ribosomal RNA\"[All Fields]) OR (mitochondrion[filter] AND 14000:20000[SLEN]))) AND 50:20000[SLEN]",
+   "count": 558
+  },
+  "SG_s20k": {
+   "term": "Actinopterygii[Organism] AND \"Singapore\"[country] AND (((12S[All Fields] OR \"12S ribosomal RNA\"[All Fields] OR \"small subunit ribosomal RNA\"[All Fields]) OR (mitochondrion[filter] AND 14000:20000[SLEN]))) AND 50:20000[SLEN]",
+   "count": 497
+  },
+  "BN_s20k": {
+   "term": "Actinopterygii[Organism] AND \"Brunei\"[country] AND (((12S[All Fields] OR \"12S ribosomal RNA\"[All Fields] OR \"small subunit ribosomal RNA\"[All Fields]) OR (mitochondrion[filter] AND 14000:20000[SLEN]))) AND 50:20000[SLEN]",
+   "count": 5
+  },
+  "TL_s20k": {
+   "term": "Actinopterygii[Organism] AND \"Timor-Leste\"[country] AND (((12S[All Fields] OR \"12S ribosomal RNA\"[All Fields] OR \"small subunit ribosomal RNA\"[All Fields]) OR (mitochondrion[filter] AND 14000:20000[SLEN]))) AND 50:20000[SLEN]",
+   "count": 0
+  },
+  "PG_s20k": {
+   "term": "Actinopterygii[Organism] AND \"Papua New Guinea\"[country] AND (((12S[All Fields] OR \"12S ribosomal RNA\"[All Fields] OR \"small subunit ribosomal RNA\"[All Fields]) OR (mitochondrion[filter] AND 14000:20000[SLEN]))) AND 50:20000[SLEN]",
+   "count": 35
+  },
+  "PH_s20k": {
+   "term": "Actinopterygii[Organism] AND \"Philippines\"[country] AND (((12S[All Fields] OR \"12S ribosomal RNA\"[All Fields] OR \"small subunit ribosomal RNA\"[All Fields]) OR (mitochondrion[filter] AND 14000:20000[SLEN]))) AND 50:20000[SLEN]",
+   "count": 1313
+  },
+  "TH_s20k": {
+   "term": "Actinopterygii[Organism] AND \"Thailand\"[country] AND (((12S[All Fields] OR \"12S ribosomal RNA\"[All Fields] OR \"small subunit ribosomal RNA\"[All Fields]) OR (mitochondrion[filter] AND 14000:20000[SLEN]))) AND 50:20000[SLEN]",
+   "count": 329
+  },
+  "VN_s20k": {
+   "term": "Actinopterygii[Organism] AND \"Viet Nam\"[country] AND (((12S[All Fields] OR \"12S ribosomal RNA\"[All Fields] OR \"small subunit ribosomal RNA\"[All Fields]) OR (mitochondrion[filter] AND 14000:20000[SLEN]))) AND 50:20000[SLEN]",
+   "count": 602
+  },
+  "KH_s20k": {
+   "term": "Actinopterygii[Organism] AND \"Cambodia\"[country] AND (((12S[All Fields] OR \"12S ribosomal RNA\"[All Fields] OR \"small subunit ribosomal RNA\"[All Fields]) OR (mitochondrion[filter] AND 14000:20000[SLEN]))) AND 50:20000[SLEN]",
+   "count": 24
+  },
+  "LA_s20k": {
+   "term": "Actinopterygii[Organism] AND \"Laos\"[country] AND (((12S[All Fields] OR \"12S ribosomal RNA\"[All Fields] OR \"small subunit ribosomal RNA\"[All Fields]) OR (mitochondrion[filter] AND 14000:20000[SLEN]))) AND 50:20000[SLEN]",
+   "count": 72
+  },
+  "MM_s20k": {
+   "term": "Actinopterygii[Organism] AND \"Myanmar\"[country] AND (((12S[All Fields] OR \"12S ribosomal RNA\"[All Fields] OR \"small subunit ribosomal RNA\"[All Fields]) OR (mitochondrion[filter] AND 14000:20000[SLEN]))) AND 50:20000[SLEN]",
+   "count": 70
+  }
+ },
+ "files": {
+  "ID_s20k_0000.esummary.json": {
+   "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi",
+   "bytes": 184596,
+   "sha256": "7765615b02e65ecbdec0718ce6447d8c6b449871489fec1a96ae93371c0cdefa",
+   "records": 250,
+   "query": "ID_s20k"
+  },
+  "ID_s20k_0000.fasta": {
+   "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi",
+   "bytes": 2990353,
+   "sha256": "277bf1a170d5ce0bfead2c24b1fa3b6dccba504e4943b8062670acacbad65237",
+   "records": 250,
+   "query": "ID_s20k"
+  },
+  "ID_s20k_0001.esummary.json": {
+   "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi",
+   "bytes": 181591,
+   "sha256": "57782be8b5d2f86b445963e38186633f776bb088cde3e4cb3d341085337aabed",
+   "records": 250,
+   "query": "ID_s20k"
+  },
+  "ID_s20k_0001.fasta": {
+   "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi",
+   "bytes": 151001,
+   "sha256": "955977306d19296534fbfa7be406b72bd7554291f87f8e7c69cdfeb6e436f0e8",
+   "records": 250,
+   "query": "ID_s20k"
+  },
+  "ID_s20k_0002.esummary.json": {
+   "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi",
+   "bytes": 181619,
+   "sha256": "224c52126516b7cd183e39fb3f05648c2259c177ace7dd3e33f68c3932d1a4b3",
+   "records": 250,
+   "query": "ID_s20k"
+  },
+  "ID_s20k_0002.fasta": {
+   "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi",
+   "bytes": 151030,
+   "sha256": "d1baffc1ce6cf5c47bbdfceb4a37496e16a55f4821b94658d8cc1b997b779ed9",
+   "records": 250,
+   "query": "ID_s20k"
+  },
+  "ID_s20k_0003.esummary.json": {
+   "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi",
+   "bytes": 181351,
+   "sha256": "6fb3fafc5c29ff1626169084e0d50b921b01164e71a5a43ea723442bbe879778",
+   "records": 250,
+   "query": "ID_s20k"
+  },
+  "ID_s20k_0003.fasta": {
+   "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi",
+   "bytes": 151163,
+   "sha256": "bfe3689e822aafee535432cfdc939f170bb6506c63e5822bb1f219e8f78c120b",
+   "records": 250,
+   "query": "ID_s20k"
+  },
+  "ID_s20k_0004.esummary.json": {
+   "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi",
+   "bytes": 181459,
+   "sha256": "b3977d322a71d2672e101fba1d9da59d235f74c7051741b394ef796f25dd7cae",
+   "records": 250,
+   "query": "ID_s20k"
+  },
+  "ID_s20k_0004.fasta": {
+   "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi",
+   "bytes": 150862,
+   "sha256": "334086febc833ac0b9fe4a59501722c93e29a488d37dbd7915826f251bcefef3",
+   "records": 250,
+   "query": "ID_s20k"
+  },
+  "ID_s20k_0005.esummary.json": {
+   "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi",
+   "bytes": 181736,
+   "sha256": "3d5ba945366afbca836c8a57d27fc2267527237403cb12ce9187a6217c26b41f",
+   "records": 250,
+   "query": "ID_s20k"
+  },
+  "ID_s20k_0005.fasta": {
+   "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi",
+   "bytes": 151098,
+   "sha256": "2373361e478722af211933db6c44106d2644b95003f2deb145c44dbb132438c6",
+   "records": 250,
+   "query": "ID_s20k"
+  },
+  "ID_s20k_0006.esummary.json": {
+   "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi",
+   "bytes": 176126,
+   "sha256": "dd14034d67ccced1e62af5cdef89e3b60508ca67c5067dd295c293a3c093cfc9",
+   "records": 250,
+   "query": "ID_s20k"
+  },
+  "ID_s20k_0006.fasta": {
+   "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi",
+   "bytes": 1062577,
+   "sha256": "6a10ba55f7f31cef455928aca0b7d3fa44977f9838bc8a725dd74d86e07d1971",
+   "records": 250,
+   "query": "ID_s20k"
+  },
+  "ID_s20k_0007.esummary.json": {
+   "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi",
+   "bytes": 165152,
+   "sha256": "d9889094781a73d512ee0ec8841bde76fcacf026e0a1944fc03a8b812a74b69f",
+   "records": 250,
+   "query": "ID_s20k"
+  },
+  "ID_s20k_0007.fasta": {
+   "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi",
+   "bytes": 71637,
+   "sha256": "37b4b36f875726d99a959e80fb1750b91e0ea2a5257303f9e1f112c6c723ecbf",
+   "records": 250,
+   "query": "ID_s20k"
+  },
+  "ID_s20k_0008.esummary.json": {
+   "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi",
+   "bytes": 179018,
+   "sha256": "6ce17fac0255dc648e28e947cac9b07fd0be0676c841992692ce860a4ac220a1",
+   "records": 250,
+   "query": "ID_s20k"
+  },
+  "ID_s20k_0008.fasta": {
+   "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi",
+   "bytes": 712585,
+   "sha256": "b02f43258495569eb04a9f850c19887c5a7127a03b59546ced8095138bafe420",
+   "records": 250,
+   "query": "ID_s20k"
+  },
+  "ID_s20k_0009.esummary.json": {
+   "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi",
+   "bytes": 178299,
+   "sha256": "147f5c08a7ca2787b5248adb4941b3d2e08103cf73a942ade48f85789719a3a8",
+   "records": 250,
+   "query": "ID_s20k"
+  },
+  "ID_s20k_0009.fasta": {
+   "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi",
+   "bytes": 214583,
+   "sha256": "702b709c79aabd70776890fb78954f3e34773202ef9b690ae9a007a34b1b7512",
+   "records": 250,
+   "query": "ID_s20k"
+  },
+  "ID_s20k_0010.esummary.json": {
+   "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi",
+   "bytes": 105003,
+   "sha256": "c7fd680f328e116faef3a1e88234033961bd1331e40731cd0c429b393ed235bd",
+   "records": 147,
+   "query": "ID_s20k"
+  },
+  "ID_s20k_0010.fasta": {
+   "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi",
+   "bytes": 247741,
+   "sha256": "ef5b9857720632a240d55c46e78d97d88389b414984a0f1b3c6babc9cedb0e48",
+   "records": 147,
+   "query": "ID_s20k"
+  },
+  "MY_s20k_0000.esummary.json": {
+   "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi",
+   "bytes": 181482,
+   "sha256": "23aec69ed30d3957eeadd3486b6569abdea8f10053dea4752668bd22e5cad820",
+   "records": 250,
+   "query": "MY_s20k"
+  },
+  "MY_s20k_0000.fasta": {
+   "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi",
+   "bytes": 2231796,
+   "sha256": "a5544382520a538b65838df67d03720f36b835a180e860ecdd875cf98d101d99",
+   "records": 250,
+   "query": "MY_s20k"
+  },
+  "MY_s20k_0001.esummary.json": {
+   "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi",
+   "bytes": 174969,
+   "sha256": "58418078452d8d2411b6af282c178da58078c2e42d2ce043eed145bd1c23c5de",
+   "records": 250,
+   "query": "MY_s20k"
+  },
+  "MY_s20k_0001.fasta": {
+   "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi",
+   "bytes": 398742,
+   "sha256": "ba63e4418ad652f97e73f80707ff988172b65fd2b40e88a6823d71ba17227b3e",
+   "records": 250,
+   "query": "MY_s20k"
+  },
+  "MY_s20k_0002.esummary.json": {
+   "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi",
+   "bytes": 36508,
+   "sha256": "85fbf1bfab28f26f7db1ca1427d86cabc735e4379979583d7a7ae7170c7ba44a",
+   "records": 58,
+   "query": "MY_s20k"
+  },
+  "MY_s20k_0002.fasta": {
+   "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi",
+   "bytes": 153730,
+   "sha256": "460edb68b7930de4797402ade44b8477d2b5e96b907faf5b2170953417d0127f",
+   "records": 58,
+   "query": "MY_s20k"
+  },
+  "SG_s20k_0000.esummary.json": {
+   "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi",
+   "bytes": 185042,
+   "sha256": "23ac559babde8bd95237c0558fd25adbc90ea6c26f216099e62b3804af4323e7",
+   "records": 250,
+   "query": "SG_s20k"
+  },
+  "SG_s20k_0000.fasta": {
+   "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi",
+   "bytes": 89489,
+   "sha256": "8c9d6ddcbb5bb60bed0beb2ef63e75f2247ed3d2527627c366b27838a0854c04",
+   "records": 250,
+   "query": "SG_s20k"
+  },
+  "SG_s20k_0001.esummary.json": {
+   "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi",
+   "bytes": 166537,
+   "sha256": "ef1ce72970a7e66e7af1e246373db78ac93f2d7b5cb11e4b55f23518617d660a",
+   "records": 247,
+   "query": "SG_s20k"
+  },
+  "SG_s20k_0001.fasta": {
+   "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi",
+   "bytes": 414932,
+   "sha256": "6f4ddd0b839bbab69cc739f9f28203b0aeacbf20235e22a10d18812ff239b14e",
+   "records": 247,
+   "query": "SG_s20k"
+  },
+  "BN_s20k_0000.esummary.json": {
+   "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi",
+   "bytes": 3578,
+   "sha256": "27b741b73089d91559f92fa66a916a584bbb3340be1472f98a31d3dcafbb9cc8",
+   "records": 5,
+   "query": "BN_s20k"
+  },
+  "BN_s20k_0000.fasta": {
+   "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi",
+   "bytes": 6865,
+   "sha256": "976ab054415dfa9b2175fba617779b654c860c3be88a5eb87e10b1a8fd923d0c",
+   "records": 5,
+   "query": "BN_s20k"
+  },
+  "PG_s20k_0000.esummary.json": {
+   "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi",
+   "bytes": 26837,
+   "sha256": "7f4a44e3d2c9eac8f27100c0e7f1a54d9497db1b9143bfa5df483d5e2963f940",
+   "records": 35,
+   "query": "PG_s20k"
+  },
+  "PG_s20k_0000.fasta": {
+   "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi",
+   "bytes": 35934,
+   "sha256": "4e8d76a32ae2197a21ff9c8b46742bdeb8de095a8740602fd6ca84ec647f5234",
+   "records": 35,
+   "query": "PG_s20k"
+  },
+  "PH_s20k_0000.esummary.json": {
+   "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi",
+   "bytes": 225481,
+   "sha256": "4d0c37c34c2f61780e38c8db2f5f6085a83157b994611fa9c6a996b23531ca12",
+   "records": 250,
+   "query": "PH_s20k"
+  },
+  "PH_s20k_0000.fasta": {
+   "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi",
+   "bytes": 3526049,
+   "sha256": "27f98702a622aa0b02ce28a8585e7e4807afef0bb288ba0774dbfc6cd76c53c4",
+   "records": 250,
+   "query": "PH_s20k"
+  },
+  "PH_s20k_0001.esummary.json": {
+   "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi",
+   "bytes": 186660,
+   "sha256": "7896b97a498ee3612740f75de0eea3823477669e2953d7a6c487de9825a5dff0",
+   "records": 250,
+   "query": "PH_s20k"
+  },
+  "PH_s20k_0001.fasta": {
+   "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi",
+   "bytes": 87981,
+   "sha256": "d336192346cfb84841649606126df0ac96bd8bf23b01ef4f3ab354a8065399c9",
+   "records": 250,
+   "query": "PH_s20k"
+  },
+  "PH_s20k_0002.esummary.json": {
+   "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi",
+   "bytes": 187297,
+   "sha256": "11f578b4b5268cf3a4232681a6f47a552fbb9845046fb5b52d48f4109681d00d",
+   "records": 250,
+   "query": "PH_s20k"
+  },
+  "PH_s20k_0002.fasta": {
+   "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi",
+   "bytes": 550960,
+   "sha256": "b6c1a56e1a74af9ec729f01bae4a6de5c4744065c6b2b2443b1fdd933a00231c",
+   "records": 250,
+   "query": "PH_s20k"
+  },
+  "PH_s20k_0003.esummary.json": {
+   "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi",
+   "bytes": 185731,
+   "sha256": "40b4b7a0f3696a99a38db0387c896d7e86588a29ac6dd772bd98c5f351e0165c",
+   "records": 250,
+   "query": "PH_s20k"
+  },
+  "PH_s20k_0003.fasta": {
+   "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi",
+   "bytes": 398743,
+   "sha256": "99fec30adf9041a575ecafbbf7f409faa55cb0cbc3de272a60c8a135bfdfebf7",
+   "records": 250,
+   "query": "PH_s20k"
+  },
+  "PH_s20k_0004.esummary.json": {
+   "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi",
+   "bytes": 186236,
+   "sha256": "cc496233431636b19695b802194a9f9a58987e20c82c92c124ac49da047f3441",
+   "records": 250,
+   "query": "PH_s20k"
+  },
+  "PH_s20k_0004.fasta": {
+   "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi",
+   "bytes": 1988331,
+   "sha256": "3692aeb8e644f18bcc5354b463e7438bca6755ac2a2cab1853d75a04277e12b0",
+   "records": 250,
+   "query": "PH_s20k"
+  },
+  "PH_s20k_0005.esummary.json": {
+   "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi",
+   "bytes": 45986,
+   "sha256": "90c579728ebc7667462b68e40953cc2ec4f68fb00502f8633f61efa99909ce9c",
+   "records": 63,
+   "query": "PH_s20k"
+  },
+  "PH_s20k_0005.fasta": {
+   "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi",
+   "bytes": 234533,
+   "sha256": "cae81fd05983f60966ea2f7101777897bd104d40c9ca03ba2a0eebdb7db8e4a7",
+   "records": 63,
+   "query": "PH_s20k"
+  },
+  "TH_s20k_0000.esummary.json": {
+   "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi",
+   "bytes": 195089,
+   "sha256": "2cc92391febdba8bae089e01bd89ba574015a895f4cd0e1baa8e833bdca8d02b",
+   "records": 250,
+   "query": "TH_s20k"
+  },
+  "TH_s20k_0000.fasta": {
+   "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi",
+   "bytes": 1413160,
+   "sha256": "6eddefc4763e84b18eae73a6504252c62cce1027a0b205a3128747bf2722e2ab",
+   "records": 250,
+   "query": "TH_s20k"
+  },
+  "TH_s20k_0001.esummary.json": {
+   "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi",
+   "bytes": 56713,
+   "sha256": "9f0164a99337390699fd0b3bdd188665876cda84385cd280b3a2124e7d82d524",
+   "records": 79,
+   "query": "TH_s20k"
+  },
+  "TH_s20k_0001.fasta": {
+   "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi",
+   "bytes": 197910,
+   "sha256": "cc4adffb6bfddbdfee074a46029c9d1b2383d24983123ac5d87cf83f072f48c2",
+   "records": 79,
+   "query": "TH_s20k"
+  },
+  "VN_s20k_0000.esummary.json": {
+   "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi",
+   "bytes": 223110,
+   "sha256": "ca3fc08c378eb615344d2bbfcc05f21b0ee7dcf81d6259382e2c3a9d0cae5bcd",
+   "records": 250,
+   "query": "VN_s20k"
+  },
+  "VN_s20k_0000.fasta": {
+   "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi",
+   "bytes": 3957463,
+   "sha256": "2e3671a5d82ae60ca964bb1722bbfca946cdfd620232aa7109039715c95d645b",
+   "records": 250,
+   "query": "VN_s20k"
+  },
+  "VN_s20k_0001.esummary.json": {
+   "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi",
+   "bytes": 208016,
+   "sha256": "f64a0894d20ec12c0d0cf06906bcdda607f6f8d9f3ef33ba86dcca9a893375e4",
+   "records": 250,
+   "query": "VN_s20k"
+  },
+  "VN_s20k_0001.fasta": {
+   "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi",
+   "bytes": 3585359,
+   "sha256": "5d9fb8d581b0156ca1a340b1f3837579a1991e7d12e3e6123652d7d9e087a88d",
+   "records": 250,
+   "query": "VN_s20k"
+  },
+  "VN_s20k_0002.esummary.json": {
+   "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi",
+   "bytes": 70347,
+   "sha256": "e30a37f9b444a15eadc4c7b9c79a7ae3019ff5467f4d51ee238743576e2cf331",
+   "records": 102,
+   "query": "VN_s20k"
+  },
+  "VN_s20k_0002.fasta": {
+   "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi",
+   "bytes": 308599,
+   "sha256": "92fbdf41fe30b1548070ee720c05a30a87f4015420f8b0fc4a7cfd05fa774496",
+   "records": 102,
+   "query": "VN_s20k"
+  },
+  "KH_s20k_0000.esummary.json": {
+   "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi",
+   "bytes": 17504,
+   "sha256": "852af257468fda2d7254cff7dd8528dd35b26d58b81dd84e5158f2aabdb374b0",
+   "records": 24,
+   "query": "KH_s20k"
+  },
+  "KH_s20k_0000.fasta": {
+   "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi",
+   "bytes": 147974,
+   "sha256": "b2924db93d5b077b81ad39f36c0e92458f28b581baaf9e1fb828521d4e556235",
+   "records": 24,
+   "query": "KH_s20k"
+  },
+  "LA_s20k_0000.esummary.json": {
+   "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi",
+   "bytes": 54510,
+   "sha256": "b92a22f2fa7af17d7e6fb0c436c19a998be730664b17be33b69140fd48b7b4e0",
+   "records": 72,
+   "query": "LA_s20k"
+  },
+  "LA_s20k_0000.fasta": {
+   "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi",
+   "bytes": 123069,
+   "sha256": "87a5b48175e385b7a4aaddc0967b0d4c5cf035bc2c513d753c4dcae9be87e3ab",
+   "records": 72,
+   "query": "LA_s20k"
+  },
+  "MM_s20k_0000.esummary.json": {
+   "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi",
+   "bytes": 53370,
+   "sha256": "72d676e227f25f676912105d60e73f6b08e521f03adc0744567a1738b212973f",
+   "records": 70,
+   "query": "MM_s20k"
+  },
+  "MM_s20k_0000.fasta": {
+   "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi",
+   "bytes": 266801,
+   "sha256": "da6d5646e2a08e9f83e69e44fdd98c298c60a9cc4a82bd588064cd9c425a577e",
+   "records": 70,
+   "query": "MM_s20k"
+  }
+ },
  "notes": [
   "25 Okt 03:25: halaman tanpa batas panjang dihapus (memuat kromosom utuh hingga 85 Mb; SG_0000/0001.fasta 1,3-1,7 GB); diganti kueri label *_s20k (<= 20 kb)."
  ],
- "updated": "2026-10-25T03:17:50"
+ "updated": "2026-10-25T06:29:07",
+ "finished": "2026-10-25T06:29:07",
+ "summary": "6152 rekaman 12S/mitogenom dari 12 negara"
 }
