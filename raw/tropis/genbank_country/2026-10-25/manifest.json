@@ -1,0 +1,13 @@
+{
+ "dataset": "genbank_country",
+ "source": "NCBI GenBank nuccore (E-utilities)",
+ "license_reported_by_source": "Kebijakan NCBI: tanpa batasan pemakaian, tanpa jaminan hak pihak ketiga",
+ "method": "esearch per negara: Actinopterygii[Organism] AND \"<negara>\"[country] AND ((12S[All Fields] OR \"12S ribosomal RNA\"[All Fields] OR \"small subunit ribosomal RNA\"[All Fields]) OR (mitochondrion[filter] AND 14000:20000[SLEN])); esummary JSON + FASTA per 250 record.",
+ "started": "2026-10-25T02:39:21",
+ "queries": {},
+ "files": {},
+ "notes": [
+  "25 Okt 03:25: halaman tanpa batas panjang dihapus (memuat kromosom utuh hingga 85 Mb; SG_0000/0001.fasta 1,3-1,7 GB); diganti kueri label *_s20k (<= 20 kb)."
+ ],
+ "updated": "2026-10-25T03:17:50"
+}

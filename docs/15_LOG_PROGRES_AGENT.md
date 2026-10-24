@@ -53,15 +53,17 @@ Batasan yang tetap berlaku dari percakapan: tanpa Docker; hemat token tetapi sta
 | 25 Okt 03:40 | BRIN RIN + repositori | 64 dataset BRIN; Zenodo 14, Dryad 31 (mis. mitogenom Rasborinae Sundaland, barcode Jawa-Bali, hibridisasi danau Sulawesi) |
 | 25 Okt 03:45 | docs/16 ditulis | Gambaran besar, cara menjalankan, tabel sumber otomatis, 17 sumber manual + tautan, jejak cara menemukan sumber |
 | 25 Okt 03:50 | Perbaikan NCBI | Kueri per spesies dibatasi <= 20 kb (rakitan genom bikin efetch timeout); manifest tahan PermissionError; antrean NCBI (country → freshwater → marine → cited) dijalankan ulang (c8ffc4b) |
+| 25 Okt 04:05 | Transkripsi regulasi KKP | Permen KP 19/2020 lampiran (80 baris, dari gambar) + status dilindungi Kepmen 1/2021 & 83/2024 di `data/curation/regulasi_kkp/` (3af1b53) |
+| 25 Okt 04:25 | GenBank per negara diulang | Kueri lama menangkap kromosom utuh (3,2 GB); file lama dihapus, kueri kini dibatasi <= 20 kb (label *_s20k). **Panen NCBI BELUM selesai — limit sesi habis di sini** |
 
 ## Langkah berikutnya
 
 - [x] Sisa langkah Bagus: D-034 (Diusulkan), README, LOSO v0.3
 - [x] Build web di branch gabungan
 - [x] Harvester otomatis lewat `scripts/fetch_data.py` (14 dataset `tropis_*`)
-- [ ] Tunggu antrean NCBI selesai (cek `raw/tropis/genbank_*/2026-10-25/manifest.json` kolom `summary`; bila gagal, jalankan ulang perintah docs/16 §2 — lanjut otomatis dari batch terakhir)
+- [ ] **MULAI DI SINI:** jalankan `uv run --no-project -q --with pyarrow python scripts/fetch_data.py tropis_genbank_country tropis_genbank_freshwater tropis_genbank_marine tropis_genbank_cited` lalu `tropis_gbif` (proses lama terhenti). Antrean NCBI (cek `raw/tropis/genbank_*/2026-10-25/manifest.json` kolom `summary`; bila gagal, jalankan ulang perintah docs/16 §2 — lanjut otomatis dari batch terakhir)
 - [ ] Tunggu `tropis_gbif` selesai (resolusi nama spesies)
 - [ ] Jalankan `scripts/analyze_tropis.py` (perintah di docs/16 §2) setelah semua panen selesai — JANGAN edit skrip saat berjalan (Windows spawn mengimpor ulang)
 - [ ] Isi docs/16 §5 dari `data/curation/tropis_gap_v1/summary.json`; komit `data/curation/tropis_gap_v1/*.csv` (kecuali cache)
-- [ ] (opsional) Transkripsi lampiran Permen KP 19/2020 (PDF pindaian) dan cek kandidat Kepmen 1/2021
+- [x] Transkripsi lampiran Permen KP 19/2020 dan status Kepmen (cek manusia masih perlu)
 - [ ] Catatan akhir untuk pengguna di bagian "Ringkasan akhir" dokumen ini; push; buka PR `integrasi/main-bagus` → `main` (jangan merge)

@@ -332,8 +332,8 @@ def genbank_country() -> None:
     for country in COUNTRIES:
         total += _genbank_query(
             run,
-            ISO2[country],
-            f'Actinopterygii[Organism] AND "{country}"[country] AND {MARKER_TERM}',
+            ISO2[country] + "_s20k",
+            f'Actinopterygii[Organism] AND "{country}"[country] AND {MARKER_TERM_CAPPED}',
         )
     run.finish(f"{total} rekaman 12S/mitogenom dari {len(COUNTRIES)} negara")
 

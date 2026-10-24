@@ -1,0 +1,18 @@
+{
+ "dataset": "gbif",
+ "source": "GBIF occurrence search API (facet) + species API",
+ "license_reported_by_source": "Per dataset penerbit (CC0/CC BY/CC BY-NC); data agregat jumlah per spesies",
+ "method": "occurrence/search facet=speciesKey untuk ordo ikan, semua record dan basisOfRecord=PRESERVED_SPECIMEN; nama dari species/{key}",
+ "started": "2026-10-25T02:38:58",
+ "queries": {},
+ "files": {
+  "ID_species_counts.json": {
+   "url": "https://api.gbif.org/v1/occurrence/search",
+   "bytes": 171999,
+   "sha256": "153306f67081868fa7d85be7c6c7068fd0f7821f6326fe86ebe640aeb3dff6f2",
+   "records": 6083
+  }
+ },
+ "notes": [],
+ "updated": "2026-10-25T02:41:48"
+}
