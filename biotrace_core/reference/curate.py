@@ -91,6 +91,7 @@ def curate_records(
             continue
         sequence = fasta.get(record.seq_id, "")
         reason, step, status = "", "R-CUR-01", "accepted"
+        extra_flags: list[str] = []
         if record.voucher_level == "V4":
             reason, step, status = "environmental_sequence", "R-CUR-02", "rejected"
         elif record.species_original not in names:
@@ -104,8 +105,12 @@ def curate_records(
             reason, step, status = "missing_sequence_source_or_license", "R-CUR-10", "rejected"
         else:
             record = record.model_copy(update={"species_valid": names[record.species_original]})
+            # D-033 (r0.4): same policy as R-NAME-01 selection; the species must still be
+            # recorded in Indonesia, only the specimen may be foreign or of unknown origin.
+            foreign_ok = cfg.evidence.get("foreign_specimen_policy") == "flag"
+            outside = record.specimen_country != "ID"
             if ref.manifest["module"] == "ID" and (
-                not ref.taxa[record.species_valid].in_indonesia or record.specimen_country != "ID"
+                not ref.taxa[record.species_valid].in_indonesia or (outside and not foreign_ok)
             ):
                 reason, step, status = "origin_not_verified_ID", "R-CUR-04", "rejected"
             elif record.marker != marker and record.marker not in {"mitogenome", "12S_other"}:
@@ -117,10 +122,12 @@ def curate_records(
                 else:
                     sequence = trimmed
                     record = record.model_copy(update={"marker": marker, "region_trimmed": True})
+            if status == "accepted" and ref.manifest["module"] == "ID" and outside:
+                extra_flags.append("specimen_outside_indonesia")
         record = record.model_copy(
             update={
                 "curation_status": status,
-                "flags": reason,
+                "flags": ";".join(f for f in [reason, *extra_flags] if f),
                 "length": len(sequence) or record.length,
                 "n_ambiguous": sum(c not in "ACGT" for c in sequence),
             }
@@ -188,7 +195,7 @@ def curate_records(
         if conflict:
             record = record.model_copy(
                 update={
-                    "flags": "conflict",
+                    "flags": ";".join(sorted(set(record.flags.split(";")) - {""} | {"conflict"})),
                     "curation_status": "accepted"
                     if cfg.curation.get("conflict_policy") == "accepted_with_flag"
                     else "flagged",
