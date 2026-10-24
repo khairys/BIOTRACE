@@ -1,0 +1,41 @@
+{
+  "baseline_blast97": {
+    "M1": 0.4188034188034188,
+    "M3": 0.4188034188034188
+  },
+  "blast_version": "blastn: 2.17.0+",
+  "counts": {
+    "baseline_wrong": 98,
+    "complete_n": 200,
+    "correct_abstention": 188,
+    "correct_species": 145,
+    "n": 234,
+    "unnecessary_lower": 48,
+    "wrong_any": 46,
+    "wrong_safe": 0
+  },
+  "dataset": "CA-QC",
+  "duration_seconds": 131.22,
+  "is_simulated": false,
+  "marker": "12S_MiFish_U",
+  "metrics": {
+    "M1": 0.0,
+    "M2": 0.8034188034188035,
+    "M3": 0.19658119658119658,
+    "M4": 0.725,
+    "M5": 0.24
+  },
+  "n_queries": 234,
+  "n_species": 94,
+  "notes": [
+    "L4 diset maksimum untuk mengisolasi logika penamaan; bukan hasil sampel lapangan.",
+    "Parameter belum dikalibrasi untuk marker ini; hasil tidak membuktikan akurasi MiFish Indonesia.",
+    "M4/M5 hanya query spesies dengan lebih dari satu sekuens; bukan komplemen matematis.",
+    "LOSO menghapus semua referensi X sebelum BLAST; checklist tetap memuat X."
+  ],
+  "partial": false,
+  "reference_manifest_hash": "077bf856f3a019650d08f48e99af47c7f6eac76ec4c9792b9de1602dafac0169",
+  "reference_version": "external:CA-QC-v1",
+  "rules_hash": "e528682547b9b02d0b375f8896a48a974f5279ffa50bcfc2b5252ee867f6be92",
+  "rules_version": "r0.4"
+}
