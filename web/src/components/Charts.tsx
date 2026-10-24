@@ -1,0 +1,12 @@
+import { Bar, BarChart, CartesianGrid, ResponsiveContainer, Tooltip, XAxis, YAxis } from 'recharts';
+import type { Claim, CoverageRow } from '../api/generated';
+import { decisionColors, decisionLabels, decisions } from '../i18n/id';
+
+export default function Charts({claims,coverage}:{claims?:Claim[];coverage?:CoverageRow[]}){
+  if(claims){
+    const rows=[...new Set(claims.map(c=>c.site_id))].sort().map(site=>({site,...Object.fromEntries(decisions.map(d=>[d,claims.filter(c=>c.site_id===site&&c.decision===d).length]))}));
+    return <div className="chart" role="img" aria-label="Jumlah keputusan per lokasi"><ResponsiveContainer width="100%" height={220}><BarChart layout="vertical" data={rows} margin={{top:8,right:12,bottom:0,left:0}}><CartesianGrid horizontal={false} stroke="#eef1f3"/><XAxis type="number" allowDecimals={false} tick={{fontSize:11,fill:'#5B6B78'}} axisLine={false} tickLine={false}/><YAxis dataKey="site" type="category" tick={{fontSize:11,fill:'#5B6B78'}} width={65} axisLine={false} tickLine={false}/><Tooltip cursor={{fill:'#f1f6f6'}}/>{decisions.map(d=><Bar dataKey={d} name={decisionLabels[d]} key={d} stackId="a" fill={decisionColors[d]} barSize={21} isAnimationActive={false}/>)}</BarChart></ResponsiveContainer><div className="chart-legend">{decisions.map(d=><span key={d}><b style={{background:decisionColors[d]}}/>{decisionLabels[d]}</span>)}</div></div>;
+  }
+  const rows=[...(coverage??[])].sort((a,b)=>b.p_missing-a.p_missing||a.genus.localeCompare(b.genus)).map(r=>({...r,name:r.genus,missing:r.n-r.r}));
+  return <div className="chart" role="img" aria-label="Cakupan referensi per genus"><ResponsiveContainer width="100%" height={Math.max(180,rows.length*40)}><BarChart layout="vertical" data={rows} margin={{top:10,right:20,bottom:0,left:0}}><XAxis type="number" allowDecimals={false} axisLine={false} tickLine={false} tick={{fontSize:11}}/><YAxis dataKey="name" type="category" width={85} axisLine={false} tickLine={false} tick={{fontSize:12,fill:'#5B6B78',fontStyle:'italic'}}/><Tooltip cursor={{fill:'#f1f6f6'}}/><Bar dataKey="r" name="Punya referensi" stackId="a" fill="#0F766E" barSize={19} isAnimationActive={false}/><Bar dataKey="missing" name="Belum punya referensi" stackId="a" fill="#E3E8EC" barSize={19} isAnimationActive={false}/></BarChart></ResponsiveContainer><div className="chart-legend"><span><b style={{background:'#0F766E'}}/>Punya referensi</span><span><b style={{background:'#E3E8EC'}}/>Belum punya referensi</span></div></div>;
+}

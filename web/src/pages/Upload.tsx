@@ -1,0 +1,71 @@
+import { useCallback, useState } from 'react';
+import { useDropzone } from 'react-dropzone';
+import { ArrowRight, Check, CircleCheck, FileText, FlaskConical, FolderUp, LoaderCircle, ShieldCheck, Trash2, UploadCloud } from 'lucide-react';
+import { useNavigate } from 'react-router-dom';
+import { ApiError, request, useResource } from '../api/client';
+import type { HealthResponse, RunCreated, ValidationReport } from '../api/generated';
+import { ErrorNotice, LimitNotice, SimulationBanner } from '../components/Common';
+
+type Role='reads'|'metadata'|'fasta'|'taxonomy'|'site_context'|'unknown';
+type Entry={id:string;file:File;role:Role;hint:string};
+const roles:Record<Role,string>={reads:'Tabel bacaan',metadata:'Metadata sampel',fasta:'Urutan ASV (FASTA)',taxonomy:'Taksonomi lab',site_context:'Konteks lokasi',unknown:'Pilih peran file'};
+async function inspect(file:File):Promise<Entry>{
+  const content=await file.slice(0,8192).text();
+  const first=content.replace(/^\uFEFF/,'').trimStart();
+  const headers=first.split(/\r?\n/)[0].split(/[\t,]/).map(s=>s.replaceAll('"','').trim());
+  const role:Role=first.startsWith('>')?'fasta':headers.includes('sample_type')&&headers.includes('waterbody_id')?'metadata':headers.includes('pct_identity')?'taxonomy':headers.includes('context_type')?'site_context':headers.includes('asv_id')?'reads':'unknown';
+  return {id:crypto.randomUUID(),file,role,hint:`${new Intl.NumberFormat('id-ID',{maximumFractionDigits:1}).format(file.size/1024)} KB`};
+}
+export default function Upload(){
+  const [entries,setEntries]=useState<Entry[]>([]);
+  const [busy,setBusy]=useState(false);
+  const [error,setError]=useState('');
+  const [validation,setValidation]=useState<ValidationReport|null>(null);
+  const navigate=useNavigate();
+  const health=useResource<HealthResponse>('/api/health');
+  const onDrop=useCallback(async(files:File[])=>{
+    const valid=files.filter(f=>f.size<=200*1024*1024&&/\.(csv|tsv|fasta|fa|fna)$/i.test(f.name));
+    if(valid.length!==files.length) setError('File harus CSV/TSV/FASTA dan maksimal 200 MB.');else setError('');
+    const inspected=await Promise.all(valid.map(inspect));
+    setEntries(previous=>[...previous,...inspected]);setValidation(null);
+  },[]);
+  const {getRootProps,getInputProps,isDragActive,open}=useDropzone({onDrop,noClick:true,noKeyboard:true,disabled:busy});
+  const counts=entries.reduce<Record<string,number>>((acc,e)=>{acc[e.role]=(acc[e.role]??0)+1;return acc;},{});
+  const duplicate=Object.entries(counts).some(([role,count])=>role!=='unknown'&&count>1);
+  const ready=!!counts.reads&&!!counts.metadata&&(!!counts.fasta||!!counts.taxonomy)&&!duplicate&&!counts.unknown;
+  const simulated=entries.length>0&&entries.every(e=>e.file.name.includes('SIMULASI'));
+  async function start(demo=false){
+    setBusy(true);setError('');setValidation(null);
+    try{
+      let result:RunCreated;
+      if(demo) result=await request<RunCreated>('/api/runs/demo/matano_sim_v3',{method:'POST'});
+      else{
+        const body=new FormData();entries.forEach(e=>body.append(e.role,e.file));body.append('mode',simulated?'simulation':'normal');
+        result=await request<RunCreated>('/api/runs',{method:'POST',body});
+      }
+      navigate(`/runs/${result.run_id}${result.precomputed?'?precomputed=1':''}`);
+    }catch(cause){setError(cause instanceof Error?cause.message:'Analisis gagal.');if(cause instanceof ApiError)setValidation(cause.validation);}
+    finally{setBusy(false);}
+  }
+  return <div className="upload-page">
+    <div className="eyebrow"><span className="small-dot"/>ANALISIS BARU</div>
+    <h1>Periksa data eDNA Anda.</h1><p className="page-intro">Telusuri bukti di balik setiap nama ikan, lalu tentukan tindak lanjutnya.</p>
+    {simulated?<SimulationBanner/>:null}
+    <section className="card upload-card" aria-label="Unggah berkas analisis">
+      <div className="card-heading"><div><h2>Unggah berkas analisis</h2><p>Tarik semua file sekaligus. Jenis file dikenali dari isinya.</p></div><span className="step-indicator">01 <span>/ 02</span></span></div>
+      <div {...getRootProps()} className={`dropzone ${isDragActive?'drag-active':''}`}>
+        <input {...getInputProps({'aria-label':'Pilih berkas analisis'})}/><div className="upload-icon"><UploadCloud size={30} strokeWidth={1.5}/></div>
+        <h3>{isDragActive?'Lepaskan file di sini':'Tarik & lepas file di sini'}</h3><p>atau <button className="text-button" type="button" disabled={busy} onClick={open}>pilih file dari perangkat</button></p><small>.csv, .tsv, .fasta, .fa, .fna · maks. 200 MB per file</small>
+      </div>
+      {entries.length?<div className="file-list"><div className="section-label">FILE TERDETEKSI <span>{entries.length} file</span></div>{entries.map(e=><div className="file-row" key={e.id}><span className="file-icon"><FileText size={20}/></span><div className="file-description"><strong>{e.file.name}</strong><small>{e.hint}</small></div><select aria-label={`Peran ${e.file.name}`} value={e.role} disabled={busy} onChange={event=>setEntries(old=>old.map(x=>x.id===e.id?{...x,role:event.target.value as Role}:x))}>{Object.entries(roles).map(([key,label])=><option value={key} key={key}>{label}</option>)}</select><button className="icon-button" aria-label={`Hapus ${e.file.name}`} disabled={busy} onClick={()=>setEntries(old=>old.filter(x=>x.id!==e.id))}><Trash2 size={16}/></button></div>)}</div>:<div className="required-files"><span><CircleCheck size={15}/>Tabel bacaan</span><span><CircleCheck size={15}/>Metadata sampel</span><span><CircleCheck size={15}/>FASTA atau taksonomi lab</span></div>}
+      {duplicate?<ErrorNotice message="Setiap peran hanya boleh memiliki satu file. Hapus atau ubah peran file yang duplikat."/>:null}
+      {error?<ErrorNotice message={error}/>:null}
+      {validation?<ul className="validation-list">{validation.issues.map((i,index)=><li key={index}><strong>{i.code}</strong> {i.message}</li>)}</ul>:null}
+      {busy?<div className="processing" role="status"><LoaderCircle size={18} className="spinner"/><div><strong>Analisis sedang berjalan…</strong><p>Validasi → Penamaan → Penilaian → Laporan</p></div></div>:null}
+      <div className="upload-actions"><button className="button primary" disabled={!ready||busy} onClick={()=>void start()}>{busy?<LoaderCircle size={16} className="spinner"/>:<FolderUp size={17}/>}Jalankan analisis<ArrowRight size={16}/></button><span>atau</span><button className="button secondary" disabled={busy} onClick={()=>void start(true)}><FlaskConical size={17}/>Muat data demo (SIMULASI)</button></div>
+    </section>
+    <div className="upload-assurances"><div><ShieldCheck size={20}/><span><strong>Diproses secara lokal</strong><small>Berkas tidak dikirim ke layanan luar.</small></span></div><div><Check size={20}/><span><strong>Keputusan dapat ditelusuri</strong><small>Sumber, versi aturan, dan sidik jari file.</small></span></div></div>
+    <div className="readiness-note"><span className={health.data?.reference_ready?'small-dot':'small-dot amber'}/><span>{health.loading?'Memeriksa lingkungan lokal…':health.data?.reference_ready?'Kamus referensi lokal tersedia.':'Kamus Indonesia nyata belum siap. Anda dapat menjalankan demo SIMULASI.'}</span></div>
+    <LimitNotice/>
+  </div>;
+}

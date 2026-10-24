@@ -1,0 +1,799 @@
+{
+  "$defs": {
+    "BarcodePriorityRow": {
+      "additionalProperties": false,
+      "properties": {
+        "is_simulated": {
+          "default": false,
+          "title": "Is Simulated",
+          "type": "boolean"
+        },
+        "name_or_asv": {
+          "title": "Name Or Asv",
+          "type": "string"
+        },
+        "nearest_hint": {
+          "default": "",
+          "title": "Nearest Hint",
+          "type": "string"
+        },
+        "reasons": {
+          "items": {
+            "type": "string"
+          },
+          "title": "Reasons",
+          "type": "array"
+        },
+        "score": {
+          "default": 0,
+          "title": "Score",
+          "type": "integer"
+        },
+        "sites": {
+          "items": {
+            "type": "string"
+          },
+          "title": "Sites",
+          "type": "array"
+        },
+        "total_reads": {
+          "default": 0,
+          "title": "Total Reads",
+          "type": "integer"
+        },
+        "type": {
+          "enum": [
+            "species",
+            "asv"
+          ],
+          "title": "Type",
+          "type": "string"
+        },
+        "waterbody_id": {
+          "title": "Waterbody Id",
+          "type": "string"
+        }
+      },
+      "required": [
+        "type",
+        "name_or_asv",
+        "waterbody_id"
+      ],
+      "title": "BarcodePriorityRow",
+      "type": "object"
+    },
+    "Claim": {
+      "additionalProperties": false,
+      "properties": {
+        "assessed_with_lab_database": {
+          "title": "Assessed With Lab Database",
+          "type": "boolean"
+        },
+        "asv_id": {
+          "title": "Asv Id",
+          "type": "string"
+        },
+        "best_match": {
+          "default": "",
+          "title": "Best Match",
+          "type": "string"
+        },
+        "best_pct": {
+          "anyOf": [
+            {
+              "type": "number"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Best Pct"
+        },
+        "candidates": {
+          "items": {
+            "$ref": "#/$defs/SpeciesHit"
+          },
+          "title": "Candidates",
+          "type": "array"
+        },
+        "cap_reason": {
+          "default": "",
+          "title": "Cap Reason",
+          "type": "string"
+        },
+        "causes": {
+          "items": {
+            "type": "string"
+          },
+          "title": "Causes",
+          "type": "array"
+        },
+        "claim_id": {
+          "title": "Claim Id",
+          "type": "string"
+        },
+        "complex_id": {
+          "default": "",
+          "title": "Complex Id",
+          "type": "string"
+        },
+        "decision": {
+          "enum": [
+            "safe",
+            "with_note",
+            "must_verify",
+            "do_not_use"
+          ],
+          "title": "Decision",
+          "type": "string"
+        },
+        "decision_rule": {
+          "title": "Decision Rule",
+          "type": "string"
+        },
+        "follow_up": {
+          "title": "Follow Up",
+          "type": "string"
+        },
+        "gap_pct": {
+          "anyOf": [
+            {
+              "type": "number"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Gap Pct"
+        },
+        "grade": {
+          "enum": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "title": "Grade",
+          "type": "string"
+        },
+        "in_negative_control": {
+          "title": "In Negative Control",
+          "type": "boolean"
+        },
+        "interpretation_limit": {
+          "default": "Deteksi DNA bukan bukti pasti ikan hidup di lokasi.",
+          "title": "Interpretation Limit",
+          "type": "string"
+        },
+        "is_simulated": {
+          "title": "Is Simulated",
+          "type": "boolean"
+        },
+        "l1": {
+          "title": "L1",
+          "type": "integer"
+        },
+        "l2": {
+          "title": "L2",
+          "type": "integer"
+        },
+        "l4": {
+          "title": "L4",
+          "type": "integer"
+        },
+        "labels": {
+          "items": {
+            "type": "string"
+          },
+          "title": "Labels",
+          "type": "array"
+        },
+        "n_pos": {
+          "title": "N Pos",
+          "type": "integer"
+        },
+        "n_rep": {
+          "title": "N Rep",
+          "type": "integer"
+        },
+        "origin_other_sources": {
+          "default": "",
+          "title": "Origin Other Sources",
+          "type": "string"
+        },
+        "origin_pathway": {
+          "default": "",
+          "title": "Origin Pathway",
+          "type": "string"
+        },
+        "origin_status": {
+          "default": "",
+          "title": "Origin Status",
+          "type": "string"
+        },
+        "p_missing": {
+          "anyOf": [
+            {
+              "type": "number"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "P Missing"
+        },
+        "reasons_en": {
+          "items": {
+            "type": "string"
+          },
+          "title": "Reasons En",
+          "type": "array"
+        },
+        "reasons_id": {
+          "items": {
+            "type": "string"
+          },
+          "title": "Reasons Id",
+          "type": "array"
+        },
+        "reported_name": {
+          "title": "Reported Name",
+          "type": "string"
+        },
+        "reported_rank": {
+          "enum": [
+            "species",
+            "complex",
+            "genus",
+            "family",
+            "order",
+            "unknown",
+            "hybrid_alias"
+          ],
+          "title": "Reported Rank",
+          "type": "string"
+        },
+        "rule_ids": {
+          "items": {
+            "type": "string"
+          },
+          "title": "Rule Ids",
+          "type": "array"
+        },
+        "run_id": {
+          "default": "",
+          "title": "Run Id",
+          "type": "string"
+        },
+        "site_id": {
+          "title": "Site Id",
+          "type": "string"
+        },
+        "supporting_accessions": {
+          "items": {
+            "type": "string"
+          },
+          "title": "Supporting Accessions",
+          "type": "array"
+        },
+        "supporting_seq_ids": {
+          "items": {
+            "type": "string"
+          },
+          "title": "Supporting Seq Ids",
+          "type": "array"
+        },
+        "taxon_lab": {
+          "default": "",
+          "title": "Taxon Lab",
+          "type": "string"
+        },
+        "total": {
+          "title": "Total",
+          "type": "integer"
+        },
+        "total_reads": {
+          "title": "Total Reads",
+          "type": "integer"
+        },
+        "voucher_support": {
+          "anyOf": [
+            {
+              "enum": [
+                "V1",
+                "V2",
+                "V3",
+                "V4"
+              ],
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Voucher Support"
+        },
+        "warnings": {
+          "items": {
+            "type": "string"
+          },
+          "title": "Warnings",
+          "type": "array"
+        },
+        "waterbody_id": {
+          "title": "Waterbody Id",
+          "type": "string"
+        }
+      },
+      "required": [
+        "claim_id",
+        "site_id",
+        "waterbody_id",
+        "asv_id",
+        "reported_name",
+        "reported_rank",
+        "l1",
+        "l2",
+        "l4",
+        "total",
+        "grade",
+        "decision",
+        "decision_rule",
+        "follow_up",
+        "reasons_id",
+        "reasons_en",
+        "n_rep",
+        "n_pos",
+        "total_reads",
+        "in_negative_control",
+        "assessed_with_lab_database",
+        "is_simulated"
+      ],
+      "title": "Claim",
+      "type": "object"
+    },
+    "CoverageRow": {
+      "additionalProperties": false,
+      "properties": {
+        "genus": {
+          "title": "Genus",
+          "type": "string"
+        },
+        "is_simulated": {
+          "default": false,
+          "title": "Is Simulated",
+          "type": "boolean"
+        },
+        "missing_species": {
+          "items": {
+            "type": "string"
+          },
+          "title": "Missing Species",
+          "type": "array"
+        },
+        "n": {
+          "title": "N",
+          "type": "integer"
+        },
+        "p_missing": {
+          "title": "P Missing",
+          "type": "number"
+        },
+        "r": {
+          "title": "R",
+          "type": "integer"
+        },
+        "waterbody_id": {
+          "title": "Waterbody Id",
+          "type": "string"
+        }
+      },
+      "required": [
+        "waterbody_id",
+        "genus",
+        "n",
+        "r",
+        "p_missing"
+      ],
+      "title": "CoverageRow",
+      "type": "object"
+    },
+    "DecisionCount": {
+      "additionalProperties": false,
+      "properties": {
+        "claims": {
+          "title": "Claims",
+          "type": "integer"
+        },
+        "decision": {
+          "enum": [
+            "safe",
+            "with_note",
+            "must_verify",
+            "do_not_use"
+          ],
+          "title": "Decision",
+          "type": "string"
+        },
+        "follow_up": {
+          "title": "Follow Up",
+          "type": "string"
+        },
+        "label": {
+          "title": "Label",
+          "type": "string"
+        },
+        "taxa": {
+          "title": "Taxa",
+          "type": "integer"
+        }
+      },
+      "required": [
+        "decision",
+        "label",
+        "claims",
+        "taxa",
+        "follow_up"
+      ],
+      "title": "DecisionCount",
+      "type": "object"
+    },
+    "RunManifest": {
+      "additionalProperties": false,
+      "properties": {
+        "blast_version": {
+          "title": "Blast Version",
+          "type": "string"
+        },
+        "engine_version": {
+          "title": "Engine Version",
+          "type": "string"
+        },
+        "execution": {
+          "additionalProperties": true,
+          "title": "Execution",
+          "type": "object"
+        },
+        "finished_at": {
+          "title": "Finished At",
+          "type": "string"
+        },
+        "input_hashes": {
+          "additionalProperties": {
+            "type": "string"
+          },
+          "title": "Input Hashes",
+          "type": "object"
+        },
+        "is_simulated": {
+          "title": "Is Simulated",
+          "type": "boolean"
+        },
+        "mode": {
+          "enum": [
+            "normal",
+            "validation",
+            "simulation"
+          ],
+          "title": "Mode",
+          "type": "string"
+        },
+        "output_hashes": {
+          "additionalProperties": {
+            "type": "string"
+          },
+          "title": "Output Hashes",
+          "type": "object"
+        },
+        "parameters": {
+          "additionalProperties": true,
+          "title": "Parameters",
+          "type": "object"
+        },
+        "reasons_hash": {
+          "title": "Reasons Hash",
+          "type": "string"
+        },
+        "reference_manifest_hash": {
+          "title": "Reference Manifest Hash",
+          "type": "string"
+        },
+        "reference_version": {
+          "title": "Reference Version",
+          "type": "string"
+        },
+        "report_fingerprint": {
+          "title": "Report Fingerprint",
+          "type": "string"
+        },
+        "result_payload_hash": {
+          "default": "",
+          "title": "Result Payload Hash",
+          "type": "string"
+        },
+        "rules_hash": {
+          "title": "Rules Hash",
+          "type": "string"
+        },
+        "rules_version": {
+          "title": "Rules Version",
+          "type": "string"
+        },
+        "run_fingerprint": {
+          "title": "Run Fingerprint",
+          "type": "string"
+        },
+        "started_at": {
+          "title": "Started At",
+          "type": "string"
+        }
+      },
+      "required": [
+        "run_fingerprint",
+        "report_fingerprint",
+        "input_hashes",
+        "reference_version",
+        "reference_manifest_hash",
+        "rules_version",
+        "rules_hash",
+        "reasons_hash",
+        "engine_version",
+        "blast_version",
+        "parameters",
+        "execution",
+        "mode",
+        "is_simulated",
+        "started_at",
+        "finished_at"
+      ],
+      "title": "RunManifest",
+      "type": "object"
+    },
+    "RunSummary": {
+      "additionalProperties": false,
+      "properties": {
+        "decisions": {
+          "items": {
+            "$ref": "#/$defs/DecisionCount"
+          },
+          "title": "Decisions",
+          "type": "array"
+        },
+        "duration_seconds": {
+          "default": 0,
+          "title": "Duration Seconds",
+          "type": "number"
+        },
+        "is_simulated": {
+          "title": "Is Simulated",
+          "type": "boolean"
+        },
+        "must_verify_count": {
+          "title": "Must Verify Count",
+          "type": "integer"
+        },
+        "precomputed": {
+          "default": false,
+          "title": "Precomputed",
+          "type": "boolean"
+        },
+        "reference_by_voucher": {
+          "additionalProperties": {
+            "type": "integer"
+          },
+          "title": "Reference By Voucher",
+          "type": "object"
+        },
+        "reference_coverage": {
+          "anyOf": [
+            {
+              "type": "number"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "title": "Reference Coverage"
+        },
+        "reference_sequences": {
+          "default": 0,
+          "title": "Reference Sequences",
+          "type": "integer"
+        },
+        "reference_species": {
+          "default": 0,
+          "title": "Reference Species",
+          "type": "integer"
+        },
+        "safe_percent": {
+          "title": "Safe Percent",
+          "type": "number"
+        },
+        "sites": {
+          "items": {
+            "type": "string"
+          },
+          "title": "Sites",
+          "type": "array"
+        },
+        "tag_jump_removed": {
+          "title": "Tag Jump Removed",
+          "type": "integer"
+        },
+        "total_claims": {
+          "title": "Total Claims",
+          "type": "integer"
+        },
+        "total_taxa": {
+          "title": "Total Taxa",
+          "type": "integer"
+        },
+        "warnings": {
+          "items": {
+            "type": "string"
+          },
+          "title": "Warnings",
+          "type": "array"
+        },
+        "waterbodies": {
+          "items": {
+            "type": "string"
+          },
+          "title": "Waterbodies",
+          "type": "array"
+        }
+      },
+      "required": [
+        "total_claims",
+        "total_taxa",
+        "safe_percent",
+        "must_verify_count",
+        "reference_coverage",
+        "decisions",
+        "sites",
+        "waterbodies",
+        "is_simulated",
+        "tag_jump_removed"
+      ],
+      "title": "RunSummary",
+      "type": "object"
+    },
+    "SpeciesHit": {
+      "additionalProperties": false,
+      "properties": {
+        "bitscore": {
+          "default": 0,
+          "title": "Bitscore",
+          "type": "number"
+        },
+        "pct": {
+          "maximum": 100,
+          "minimum": 0,
+          "title": "Pct",
+          "type": "number"
+        },
+        "query_coverage": {
+          "default": 1,
+          "maximum": 1,
+          "minimum": 0,
+          "title": "Query Coverage",
+          "type": "number"
+        },
+        "seq_id": {
+          "default": "",
+          "title": "Seq Id",
+          "type": "string"
+        },
+        "species": {
+          "title": "Species",
+          "type": "string"
+        }
+      },
+      "required": [
+        "species",
+        "pct"
+      ],
+      "title": "SpeciesHit",
+      "type": "object"
+    },
+    "ValidationIssue": {
+      "additionalProperties": false,
+      "properties": {
+        "code": {
+          "title": "Code",
+          "type": "string"
+        },
+        "field": {
+          "default": "",
+          "title": "Field",
+          "type": "string"
+        },
+        "level": {
+          "enum": [
+            "error",
+            "warning"
+          ],
+          "title": "Level",
+          "type": "string"
+        },
+        "message": {
+          "title": "Message",
+          "type": "string"
+        }
+      },
+      "required": [
+        "code",
+        "level",
+        "message"
+      ],
+      "title": "ValidationIssue",
+      "type": "object"
+    },
+    "ValidationReport": {
+      "additionalProperties": false,
+      "properties": {
+        "issues": {
+          "items": {
+            "$ref": "#/$defs/ValidationIssue"
+          },
+          "title": "Issues",
+          "type": "array"
+        }
+      },
+      "title": "ValidationReport",
+      "type": "object"
+    }
+  },
+  "additionalProperties": false,
+  "properties": {
+    "barcode_priority": {
+      "items": {
+        "$ref": "#/$defs/BarcodePriorityRow"
+      },
+      "title": "Barcode Priority",
+      "type": "array"
+    },
+    "claims": {
+      "items": {
+        "$ref": "#/$defs/Claim"
+      },
+      "title": "Claims",
+      "type": "array"
+    },
+    "coverage": {
+      "items": {
+        "$ref": "#/$defs/CoverageRow"
+      },
+      "title": "Coverage",
+      "type": "array"
+    },
+    "manifest": {
+      "$ref": "#/$defs/RunManifest"
+    },
+    "run_id": {
+      "title": "Run Id",
+      "type": "string"
+    },
+    "summary": {
+      "$ref": "#/$defs/RunSummary"
+    },
+    "validation": {
+      "$ref": "#/$defs/ValidationReport"
+    }
+  },
+  "required": [
+    "run_id",
+    "claims",
+    "summary",
+    "coverage",
+    "barcode_priority",
+    "manifest",
+    "validation"
+  ],
+  "title": "RunResult",
+  "type": "object"
+}
