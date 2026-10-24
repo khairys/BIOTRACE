@@ -1,0 +1,1805 @@
+LOCUS       OR737856                   1 bp    DNA     linear   VRT 30-JUN-2024
+DEFINITION  Oreochromis niloticus isolate Ma_d_10_AT small subunit ribosomal
+            RNA gene, partial sequence; mitochondrial.
+ACCESSION   OR737856 REGION: 1
+VERSION     OR737856.1
+KEYWORDS    .
+SOURCE      mitochondrion Oreochromis niloticus (Nile tilapia)
+  ORGANISM  Oreochromis niloticus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Ovalentaria; Cichlomorphae; Cichliformes;
+            Cichlidae; African cichlids; Pseudocrenilabrinae; Oreochromini;
+            Oreochromis.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Carvalho,C.O., Pazirgiannidi,M., Ravelomanana,T.,
+            Andriambelomanana,F., Schroder-Nielsen,A., Ready,J.S., de Boer,H.,
+            Fusari,C.-E. and Mauvisseau,Q.
+  TITLE     Multi-method eDNA survey rediscovers critically endangered species
+            and strengthens Madagascar's freshwater fish conservation
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Carvalho,C.O., Pazirgiannidi,M., Ravelomanana,T.,
+            Andriambelomanana,F., Schroder-Nielsen,A., Ready,J.S., de Boer,H.,
+            Fusari,C.-E. and Mauvisseau,Q.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-OCT-2023) Natural History Museum, University of Oslo,
+            Sars' gate 1, Oslo, Oslo 0562, Norway
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oreochromis niloticus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="Ma_d_10_AT"
+                     /db_xref="taxon:8128"
+                     /geo_loc_name="Madagascar: Antanilatsaka"
+                     /collection_date="22-Nov-2021"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 a
+//
+
+LOCUS       OR737857                   1 bp    DNA     linear   VRT 30-JUN-2024
+DEFINITION  Oreochromis niloticus isolate Ma_d_12_AT small subunit ribosomal
+            RNA gene, partial sequence; mitochondrial.
+ACCESSION   OR737857 REGION: 1
+VERSION     OR737857.1
+KEYWORDS    .
+SOURCE      mitochondrion Oreochromis niloticus (Nile tilapia)
+  ORGANISM  Oreochromis niloticus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Ovalentaria; Cichlomorphae; Cichliformes;
+            Cichlidae; African cichlids; Pseudocrenilabrinae; Oreochromini;
+            Oreochromis.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Carvalho,C.O., Pazirgiannidi,M., Ravelomanana,T.,
+            Andriambelomanana,F., Schroder-Nielsen,A., Ready,J.S., de Boer,H.,
+            Fusari,C.-E. and Mauvisseau,Q.
+  TITLE     Multi-method eDNA survey rediscovers critically endangered species
+            and strengthens Madagascar's freshwater fish conservation
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Carvalho,C.O., Pazirgiannidi,M., Ravelomanana,T.,
+            Andriambelomanana,F., Schroder-Nielsen,A., Ready,J.S., de Boer,H.,
+            Fusari,C.-E. and Mauvisseau,Q.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-OCT-2023) Natural History Museum, University of Oslo,
+            Sars' gate 1, Oslo, Oslo 0562, Norway
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oreochromis niloticus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="Ma_d_12_AT"
+                     /db_xref="taxon:8128"
+                     /geo_loc_name="Madagascar: Ambalabe Amboaboa"
+                     /collection_date="24-Nov-2021"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 a
+//
+
+LOCUS       OR737858                   1 bp    DNA     linear   VRT 30-JUN-2024
+DEFINITION  Oreochromis niloticus isolate Ma_d_14_AT small subunit ribosomal
+            RNA gene, partial sequence; mitochondrial.
+ACCESSION   OR737858 REGION: 1
+VERSION     OR737858.1
+KEYWORDS    .
+SOURCE      mitochondrion Oreochromis niloticus (Nile tilapia)
+  ORGANISM  Oreochromis niloticus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Ovalentaria; Cichlomorphae; Cichliformes;
+            Cichlidae; African cichlids; Pseudocrenilabrinae; Oreochromini;
+            Oreochromis.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Carvalho,C.O., Pazirgiannidi,M., Ravelomanana,T.,
+            Andriambelomanana,F., Schroder-Nielsen,A., Ready,J.S., de Boer,H.,
+            Fusari,C.-E. and Mauvisseau,Q.
+  TITLE     Multi-method eDNA survey rediscovers critically endangered species
+            and strengthens Madagascar's freshwater fish conservation
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Carvalho,C.O., Pazirgiannidi,M., Ravelomanana,T.,
+            Andriambelomanana,F., Schroder-Nielsen,A., Ready,J.S., de Boer,H.,
+            Fusari,C.-E. and Mauvisseau,Q.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-OCT-2023) Natural History Museum, University of Oslo,
+            Sars' gate 1, Oslo, Oslo 0562, Norway
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oreochromis niloticus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="Ma_d_14_AT"
+                     /db_xref="taxon:8128"
+                     /geo_loc_name="Madagascar: Ambalabe Amboaboa"
+                     /collection_date="26-Nov-2021"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       OR737859                   1 bp    DNA     linear   VRT 30-JUN-2024
+DEFINITION  Oreochromis niloticus isolate Ma_d_15_AT small subunit ribosomal
+            RNA gene, partial sequence; mitochondrial.
+ACCESSION   OR737859 REGION: 1
+VERSION     OR737859.1
+KEYWORDS    .
+SOURCE      mitochondrion Oreochromis niloticus (Nile tilapia)
+  ORGANISM  Oreochromis niloticus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Ovalentaria; Cichlomorphae; Cichliformes;
+            Cichlidae; African cichlids; Pseudocrenilabrinae; Oreochromini;
+            Oreochromis.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Carvalho,C.O., Pazirgiannidi,M., Ravelomanana,T.,
+            Andriambelomanana,F., Schroder-Nielsen,A., Ready,J.S., de Boer,H.,
+            Fusari,C.-E. and Mauvisseau,Q.
+  TITLE     Multi-method eDNA survey rediscovers critically endangered species
+            and strengthens Madagascar's freshwater fish conservation
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Carvalho,C.O., Pazirgiannidi,M., Ravelomanana,T.,
+            Andriambelomanana,F., Schroder-Nielsen,A., Ready,J.S., de Boer,H.,
+            Fusari,C.-E. and Mauvisseau,Q.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-OCT-2023) Natural History Museum, University of Oslo,
+            Sars' gate 1, Oslo, Oslo 0562, Norway
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oreochromis niloticus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="Ma_d_15_AT"
+                     /db_xref="taxon:8128"
+                     /geo_loc_name="Madagascar: Ankarahara"
+                     /collection_date="27-Nov-2021"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 t
+//
+
+LOCUS       PP059104                   1 bp    DNA     linear   VRT 14-JAN-2024
+DEFINITION  Cyprinus carpio isolate F-C-c3 mitochondrion, complete genome.
+ACCESSION   PP059104 REGION: 1
+VERSION     PP059104.1
+KEYWORDS    .
+SOURCE      mitochondrion Cyprinus carpio (common carp)
+  ORGANISM  Cyprinus carpio
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Cyprinidae; Cyprininae; Cyprinus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Ellis,M.R., Wellington,C.M., McDonald,J.I., Gan,H.M. and
+            Sherman,C.D.H.
+  TITLE     Development of a national marine pest molecular reference
+            collection
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Ellis,M.R., Wellington,C.M., McDonald,J.I., Gan,H.M. and
+            Sherman,C.D.H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (26-DEC-2023) Patriot Biotech, Patriot Biotech, Jalan
+            Lagoon Selatan, Subang Jaya, Selangor 47500, Malaysia
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Cyprinus carpio"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="F-C-c3"
+                     /db_xref="taxon:7962"
+                     /tissue_type="Flesh"
+                     /geo_loc_name="Australia"
+                     /collection_date="15-Dec-2020"
+                     /collected_by="DPIRD - APB"
+                     /identified_by="Chris Bird (DPIRD)"
+     gene            >1
+                     /gene="trnF(gaa)"
+     tRNA            >1
+                     /gene="trnF(gaa)"
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       PP073961                   1 bp    DNA     linear   VRT 31-AUG-2024
+DEFINITION  Anabas cobojius mitochondrion, complete genome.
+ACCESSION   PP073961 REGION: 1
+VERSION     PP073961.1
+KEYWORDS    .
+SOURCE      mitochondrion Anabas cobojius (Gangetic koi)
+  ORGANISM  Anabas cobojius
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Anabantaria; Anabantiformes; Anabantoidei;
+            Anabantidae; Anabas.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Nandanpawar,P., Aujaswini,A., Panda,S., Sahoo,L., Kumar,R.,
+            Debbarma,J., Priyadarshini,N., Das,S. and Das,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-JAN-2024) Fish Genetics and Biotechnology,
+            ICAR-Central Institute of Freshwater Aquaculture, kausalyaganga,
+            Bhubaneswar, Odisha 751002, India
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Anabas cobojius"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:1326873"
+                     /geo_loc_name="India"
+                     /collection_date="23-Mar-2023"
+     tRNA            >1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       PQ268658                   1 bp    DNA     linear   VRT 04-SEP-2024
+DEFINITION  Anguilla bengalensis isolate F-071-S10-08-13 small subunit
+            ribosomal RNA gene, partial sequence; mitochondrial.
+ACCESSION   PQ268658 REGION: 1
+VERSION     PQ268658.1
+KEYWORDS    .
+SOURCE      mitochondrion Anguilla bengalensis (Indian mottled eel)
+  ORGANISM  Anguilla bengalensis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Anguilliformes;
+            Anguillidae; Anguilla.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Shechonge,A.H., Collins,R.A., Ward,S., Saxon,A.D., Smith,A.M.,
+            Matiku,P., Turner,G.F., Kishe,M.A., Ngatunga,B.P. and Genner,M.J.
+  TITLE     Environmental DNA metabarcoding details the spatial structure of a
+            diverse tropical fish assemblage in a major East African river
+            system
+  JOURNAL   Environ DNA (2024) In press
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Shechonge,A.H., Collins,R.A., Ward,S., Saxon,A.D., Smith,A.M.,
+            Matiku,P., Turner,G.F., Kishe,M.A., Ngatunga,B.P. and Genner,M.J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (30-AUG-2024) School of Biological Sciences, University
+            of Bristol, Tyndall Avenue, Bristol BS81TQ, United Kingdom
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Anguilla bengalensis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="F-071-S10-08-13"
+                     /db_xref="taxon:103813"
+                     /geo_loc_name="Tanzania: Roadside pool, near Nanganga"
+                     /collection_date="2013-08-15"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       PQ268683                   1 bp    DNA     linear   VRT 04-SEP-2024
+DEFINITION  Clarias gariepinus isolate 069-KIL01-05-19 small subunit ribosomal
+            RNA gene, partial sequence; mitochondrial.
+ACCESSION   PQ268683 REGION: 1
+VERSION     PQ268683.1
+KEYWORDS    .
+SOURCE      mitochondrion Clarias gariepinus (North African catfish)
+  ORGANISM  Clarias gariepinus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi; Siluriformes;
+            Clariidae; Clarias.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Shechonge,A.H., Collins,R.A., Ward,S., Saxon,A.D., Smith,A.M.,
+            Matiku,P., Turner,G.F., Kishe,M.A., Ngatunga,B.P. and Genner,M.J.
+  TITLE     Environmental DNA metabarcoding details the spatial structure of a
+            diverse tropical fish assemblage in a major East African river
+            system
+  JOURNAL   Environ DNA (2024) In press
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Shechonge,A.H., Collins,R.A., Ward,S., Saxon,A.D., Smith,A.M.,
+            Matiku,P., Turner,G.F., Kishe,M.A., Ngatunga,B.P. and Genner,M.J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (30-AUG-2024) School of Biological Sciences, University
+            of Bristol, Tyndall Avenue, Bristol BS81TQ, United Kingdom
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Clarias gariepinus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="069-KIL01-05-19"
+                     /db_xref="taxon:13013"
+                     /geo_loc_name="Tanzania: Ifakara, town fish market"
+                     /collection_date="2019-05-21"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 c
+//
+
+LOCUS       PQ268685                   1 bp    DNA     linear   VRT 04-SEP-2024
+DEFINITION  Clarias gariepinus isolate F-159-S20-08-13 small subunit ribosomal
+            RNA gene, partial sequence; mitochondrial.
+ACCESSION   PQ268685 REGION: 1
+VERSION     PQ268685.1
+KEYWORDS    .
+SOURCE      mitochondrion Clarias gariepinus (North African catfish)
+  ORGANISM  Clarias gariepinus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi; Siluriformes;
+            Clariidae; Clarias.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Shechonge,A.H., Collins,R.A., Ward,S., Saxon,A.D., Smith,A.M.,
+            Matiku,P., Turner,G.F., Kishe,M.A., Ngatunga,B.P. and Genner,M.J.
+  TITLE     Environmental DNA metabarcoding details the spatial structure of a
+            diverse tropical fish assemblage in a major East African river
+            system
+  JOURNAL   Environ DNA (2024) In press
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Shechonge,A.H., Collins,R.A., Ward,S., Saxon,A.D., Smith,A.M.,
+            Matiku,P., Turner,G.F., Kishe,M.A., Ngatunga,B.P. and Genner,M.J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (30-AUG-2024) School of Biological Sciences, University
+            of Bristol, Tyndall Avenue, Bristol BS81TQ, United Kingdom
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Clarias gariepinus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="F-159-S20-08-13"
+                     /db_xref="taxon:13013"
+                     /geo_loc_name="Tanzania: Lake Chidya"
+                     /collection_date="2013-08-18"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 a
+//
+
+LOCUS       PQ268686                   1 bp    DNA     linear   VRT 04-SEP-2024
+DEFINITION  Clarias gariepinus isolate F-168-S20-08-13 small subunit ribosomal
+            RNA gene, partial sequence; mitochondrial.
+ACCESSION   PQ268686 REGION: 1
+VERSION     PQ268686.1
+KEYWORDS    .
+SOURCE      mitochondrion Clarias gariepinus (North African catfish)
+  ORGANISM  Clarias gariepinus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi; Siluriformes;
+            Clariidae; Clarias.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Shechonge,A.H., Collins,R.A., Ward,S., Saxon,A.D., Smith,A.M.,
+            Matiku,P., Turner,G.F., Kishe,M.A., Ngatunga,B.P. and Genner,M.J.
+  TITLE     Environmental DNA metabarcoding details the spatial structure of a
+            diverse tropical fish assemblage in a major East African river
+            system
+  JOURNAL   Environ DNA (2024) In press
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Shechonge,A.H., Collins,R.A., Ward,S., Saxon,A.D., Smith,A.M.,
+            Matiku,P., Turner,G.F., Kishe,M.A., Ngatunga,B.P. and Genner,M.J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (30-AUG-2024) School of Biological Sciences, University
+            of Bristol, Tyndall Avenue, Bristol BS81TQ, United Kingdom
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Clarias gariepinus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="F-168-S20-08-13"
+                     /db_xref="taxon:13013"
+                     /geo_loc_name="Tanzania: Lake Chidya"
+                     /collection_date="2013-08-18"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 a
+//
+
+LOCUS       PQ268687                   1 bp    DNA     linear   VRT 04-SEP-2024
+DEFINITION  Clarias gariepinus isolate M-081-S10-09-19 small subunit ribosomal
+            RNA gene, partial sequence; mitochondrial.
+ACCESSION   PQ268687 REGION: 1
+VERSION     PQ268687.1
+KEYWORDS    .
+SOURCE      mitochondrion Clarias gariepinus (North African catfish)
+  ORGANISM  Clarias gariepinus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi; Siluriformes;
+            Clariidae; Clarias.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Shechonge,A.H., Collins,R.A., Ward,S., Saxon,A.D., Smith,A.M.,
+            Matiku,P., Turner,G.F., Kishe,M.A., Ngatunga,B.P. and Genner,M.J.
+  TITLE     Environmental DNA metabarcoding details the spatial structure of a
+            diverse tropical fish assemblage in a major East African river
+            system
+  JOURNAL   Environ DNA (2024) In press
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Shechonge,A.H., Collins,R.A., Ward,S., Saxon,A.D., Smith,A.M.,
+            Matiku,P., Turner,G.F., Kishe,M.A., Ngatunga,B.P. and Genner,M.J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (30-AUG-2024) School of Biological Sciences, University
+            of Bristol, Tyndall Avenue, Bristol BS81TQ, United Kingdom
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Clarias gariepinus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="M-081-S10-09-19"
+                     /db_xref="taxon:13013"
+                     /geo_loc_name="Tanzania: Lower Mguwesi River, near Ipinda"
+                     /collection_date="2019-09-04"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 a
+//
+
+LOCUS       PQ268688                   1 bp    DNA     linear   VRT 04-SEP-2024
+DEFINITION  Clarias gariepinus isolate M-082-S10-09-19 small subunit ribosomal
+            RNA gene, partial sequence; mitochondrial.
+ACCESSION   PQ268688 REGION: 1
+VERSION     PQ268688.1
+KEYWORDS    .
+SOURCE      mitochondrion Clarias gariepinus (North African catfish)
+  ORGANISM  Clarias gariepinus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi; Siluriformes;
+            Clariidae; Clarias.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Shechonge,A.H., Collins,R.A., Ward,S., Saxon,A.D., Smith,A.M.,
+            Matiku,P., Turner,G.F., Kishe,M.A., Ngatunga,B.P. and Genner,M.J.
+  TITLE     Environmental DNA metabarcoding details the spatial structure of a
+            diverse tropical fish assemblage in a major East African river
+            system
+  JOURNAL   Environ DNA (2024) In press
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Shechonge,A.H., Collins,R.A., Ward,S., Saxon,A.D., Smith,A.M.,
+            Matiku,P., Turner,G.F., Kishe,M.A., Ngatunga,B.P. and Genner,M.J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (30-AUG-2024) School of Biological Sciences, University
+            of Bristol, Tyndall Avenue, Bristol BS81TQ, United Kingdom
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Clarias gariepinus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="M-082-S10-09-19"
+                     /db_xref="taxon:13013"
+                     /geo_loc_name="Tanzania: Lower Mguwesi River, near Ipinda"
+                     /collection_date="2019-09-04"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 a
+//
+
+LOCUS       PQ268689                   1 bp    DNA     linear   VRT 04-SEP-2024
+DEFINITION  Clarias theodorae isolate 121-MG10-05-19 small subunit ribosomal
+            RNA gene, partial sequence; mitochondrial.
+ACCESSION   PQ268689 REGION: 1
+VERSION     PQ268689.1
+KEYWORDS    .
+SOURCE      mitochondrion Clarias theodorae
+  ORGANISM  Clarias theodorae
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi; Siluriformes;
+            Clariidae; Clarias.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Shechonge,A.H., Collins,R.A., Ward,S., Saxon,A.D., Smith,A.M.,
+            Matiku,P., Turner,G.F., Kishe,M.A., Ngatunga,B.P. and Genner,M.J.
+  TITLE     Environmental DNA metabarcoding details the spatial structure of a
+            diverse tropical fish assemblage in a major East African river
+            system
+  JOURNAL   Environ DNA (2024) In press
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Shechonge,A.H., Collins,R.A., Ward,S., Saxon,A.D., Smith,A.M.,
+            Matiku,P., Turner,G.F., Kishe,M.A., Ngatunga,B.P. and Genner,M.J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (30-AUG-2024) School of Biological Sciences, University
+            of Bristol, Tyndall Avenue, Bristol BS81TQ, United Kingdom
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Clarias theodorae"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="121-MG10-05-19"
+                     /db_xref="taxon:310927"
+                     /geo_loc_name="Tanzania: Kidatu, Mangula B, School, Mr
+                     Ahmed fish pond"
+                     /collection_date="2019-05-20"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 t
+//
+
+LOCUS       PQ268749                   1 bp    DNA     linear   VRT 04-SEP-2024
+DEFINITION  Glossogobius giuris isolate 143-S22-08-13 small subunit ribosomal
+            RNA gene, partial sequence; mitochondrial.
+ACCESSION   PQ268749 REGION: 1
+VERSION     PQ268749.1
+KEYWORDS    .
+SOURCE      mitochondrion Glossogobius giuris
+  ORGANISM  Glossogobius giuris
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Gobiaria; Gobiiformes; Gobioidei; Gobiidae;
+            Gobiinae; Glossogobius.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Shechonge,A.H., Collins,R.A., Ward,S., Saxon,A.D., Smith,A.M.,
+            Matiku,P., Turner,G.F., Kishe,M.A., Ngatunga,B.P. and Genner,M.J.
+  TITLE     Environmental DNA metabarcoding details the spatial structure of a
+            diverse tropical fish assemblage in a major East African river
+            system
+  JOURNAL   Environ DNA (2024) In press
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Shechonge,A.H., Collins,R.A., Ward,S., Saxon,A.D., Smith,A.M.,
+            Matiku,P., Turner,G.F., Kishe,M.A., Ngatunga,B.P. and Genner,M.J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (30-AUG-2024) School of Biological Sciences, University
+            of Bristol, Tyndall Avenue, Bristol BS81TQ, United Kingdom
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Glossogobius giuris"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="143-S22-08-13"
+                     /db_xref="taxon:3412538"
+                     /geo_loc_name="Tanzania: Rufiji River at Utete"
+                     /collection_date="2013-08-20"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 c
+//
+
+LOCUS       PQ268791                   1 bp    DNA     linear   VRT 04-SEP-2024
+DEFINITION  Oreochromis urolepis isolate 102-KIL02-05-19 small subunit
+            ribosomal RNA gene, partial sequence; mitochondrial.
+ACCESSION   PQ268791 REGION: 1
+VERSION     PQ268791.1
+KEYWORDS    .
+SOURCE      mitochondrion Oreochromis urolepis (Rufigi tilapia)
+  ORGANISM  Oreochromis urolepis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Ovalentaria; Cichlomorphae; Cichliformes;
+            Cichlidae; African cichlids; Pseudocrenilabrinae; Oreochromini;
+            Oreochromis.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Shechonge,A.H., Collins,R.A., Ward,S., Saxon,A.D., Smith,A.M.,
+            Matiku,P., Turner,G.F., Kishe,M.A., Ngatunga,B.P. and Genner,M.J.
+  TITLE     Environmental DNA metabarcoding details the spatial structure of a
+            diverse tropical fish assemblage in a major East African river
+            system
+  JOURNAL   Environ DNA (2024) In press
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Shechonge,A.H., Collins,R.A., Ward,S., Saxon,A.D., Smith,A.M.,
+            Matiku,P., Turner,G.F., Kishe,M.A., Ngatunga,B.P. and Genner,M.J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (30-AUG-2024) School of Biological Sciences, University
+            of Bristol, Tyndall Avenue, Bristol BS81TQ, United Kingdom
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oreochromis urolepis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="102-KIL02-05-19"
+                     /db_xref="taxon:40193"
+                     /geo_loc_name="Tanzania: Ifakara, Magufuli Bridge"
+                     /collection_date="2019-05-22"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 c
+//
+
+LOCUS       PQ268795                   1 bp    DNA     linear   VRT 04-SEP-2024
+DEFINITION  Oreochromis urolepis isolate 108-KIL07-05-19 small subunit
+            ribosomal RNA gene, partial sequence; mitochondrial.
+ACCESSION   PQ268795 REGION: 1
+VERSION     PQ268795.1
+KEYWORDS    .
+SOURCE      mitochondrion Oreochromis urolepis (Rufigi tilapia)
+  ORGANISM  Oreochromis urolepis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Ovalentaria; Cichlomorphae; Cichliformes;
+            Cichlidae; African cichlids; Pseudocrenilabrinae; Oreochromini;
+            Oreochromis.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Shechonge,A.H., Collins,R.A., Ward,S., Saxon,A.D., Smith,A.M.,
+            Matiku,P., Turner,G.F., Kishe,M.A., Ngatunga,B.P. and Genner,M.J.
+  TITLE     Environmental DNA metabarcoding details the spatial structure of a
+            diverse tropical fish assemblage in a major East African river
+            system
+  JOURNAL   Environ DNA (2024) In press
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Shechonge,A.H., Collins,R.A., Ward,S., Saxon,A.D., Smith,A.M.,
+            Matiku,P., Turner,G.F., Kishe,M.A., Ngatunga,B.P. and Genner,M.J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (30-AUG-2024) School of Biological Sciences, University
+            of Bristol, Tyndall Avenue, Bristol BS81TQ, United Kingdom
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oreochromis urolepis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="108-KIL07-05-19"
+                     /db_xref="taxon:40193"
+                     /geo_loc_name="Tanzania: Ifakara, Lumemo River"
+                     /collection_date="2019-05-22"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 c
+//
+
+LOCUS       PQ268802                   1 bp    DNA     linear   VRT 04-SEP-2024
+DEFINITION  Oreochromis urolepis isolate 115-KIL07-05-19 small subunit
+            ribosomal RNA gene, partial sequence; mitochondrial.
+ACCESSION   PQ268802 REGION: 1
+VERSION     PQ268802.1
+KEYWORDS    .
+SOURCE      mitochondrion Oreochromis urolepis (Rufigi tilapia)
+  ORGANISM  Oreochromis urolepis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Ovalentaria; Cichlomorphae; Cichliformes;
+            Cichlidae; African cichlids; Pseudocrenilabrinae; Oreochromini;
+            Oreochromis.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Shechonge,A.H., Collins,R.A., Ward,S., Saxon,A.D., Smith,A.M.,
+            Matiku,P., Turner,G.F., Kishe,M.A., Ngatunga,B.P. and Genner,M.J.
+  TITLE     Environmental DNA metabarcoding details the spatial structure of a
+            diverse tropical fish assemblage in a major East African river
+            system
+  JOURNAL   Environ DNA (2024) In press
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Shechonge,A.H., Collins,R.A., Ward,S., Saxon,A.D., Smith,A.M.,
+            Matiku,P., Turner,G.F., Kishe,M.A., Ngatunga,B.P. and Genner,M.J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (30-AUG-2024) School of Biological Sciences, University
+            of Bristol, Tyndall Avenue, Bristol BS81TQ, United Kingdom
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oreochromis urolepis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="115-KIL07-05-19"
+                     /db_xref="taxon:40193"
+                     /geo_loc_name="Tanzania: Ifakara, Lumemo River"
+                     /collection_date="2019-05-22"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 c
+//
+
+LOCUS       PQ364872                   1 bp    DNA     linear   VRT 03-NOV-2024
+DEFINITION  Oreochromis mossambicus isolate SR103 mitochondrion, complete
+            genome.
+ACCESSION   PQ364872 REGION: 1
+VERSION     PQ364872.1
+KEYWORDS    .
+SOURCE      mitochondrion Oreochromis mossambicus (Mozambique tilapia)
+  ORGANISM  Oreochromis mossambicus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Ovalentaria; Cichlomorphae; Cichliformes;
+            Cichlidae; African cichlids; Pseudocrenilabrinae; Oreochromini;
+            Oreochromis.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Durawo,C., Van Der Nest,M.A., Van Der Merwe,N.A., Bills,R.,
+            Hoareau,T.B., Kooverjee,B. and Hlongwane,N.
+  TITLE     The mitochondrial genome of a wild native Oreochromis mossambicus
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Durawo,C., Van Der Nest,M.A., Van Der Merwe,N.A., Bills,R.,
+            Hoareau,T.B., Kooverjee,B. and Hlongwane,N.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (24-SEP-2024) Department of Biochemistry, Genetics and
+            Microbiology, University of Pretoria, Lynnwood Road, Hatfield,
+            Pretoria, Gauteng 0002, South Africa
+COMMENT     [WARNING] On Jul 17, 2025 this sequence was replaced by PV820012.1.
+            
+            ##Assembly-Data-START##
+            Assembly Method       :: GetOrganelle v. v.1.7.5
+            Sequencing Technology :: Illumina
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oreochromis mossambicus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="SR103"
+                     /db_xref="taxon:8127"
+                     /geo_loc_name="South Africa"
+     tRNA            >1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       PQ584794                   1 bp    DNA     linear   VRT 23-NOV-2024
+DEFINITION  Cyprinus carpio mitochondrion, complete genome.
+ACCESSION   PQ584794 REGION: 1
+VERSION     PQ584794.1
+KEYWORDS    .
+SOURCE      mitochondrion Cyprinus carpio (common carp)
+  ORGANISM  Cyprinus carpio
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Cyprinidae; Cyprininae; Cyprinus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Lin,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-NOV-2024) Shantou University, Guangdong Provincial
+            Key Laboratory of Marine Biotechnology, 243 University Road,
+            Shantou, Guangdong 515063, China
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: GetOrganelle v. v1.7.7.1
+            Assembly Name         :: CC
+            Coverage              :: 90
+            Sequencing Technology :: Illumina
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Cyprinus carpio"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:7962"
+     gene            >1
+                     /gene="trnF(gaa)"
+     tRNA            >1
+                     /gene="trnF(gaa)"
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       PV414310                   1 bp    DNA     linear   VRT 19-APR-2025
+DEFINITION  Anguilla rostrata isolate 66S109 12S ribosomal RNA gene, partial
+            sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA
+            gene, partial sequence; mitochondrial.
+ACCESSION   PV414310 REGION: 1
+VERSION     PV414310.1
+KEYWORDS    .
+SOURCE      mitochondrion Anguilla rostrata (American eel)
+  ORGANISM  Anguilla rostrata
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Anguilliformes;
+            Anguillidae; Anguilla.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Munguia-Vega,A., Caamal,J., Martinez-Garza,B.A.,
+            Dominguez-Contreras,J.F. and Fulton,S.
+  TITLE     Marine eDNA Metabarcoding for Citizen Science Monitoring of Fish
+            Communities and Spawning Aggregations in the Mexican Caribbean
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Munguia-Vega,A., Caamal,J., Martinez-Garza,B.A.,
+            Dominguez-Contreras,J.F. and Fulton,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-MAR-2025) School of Natural Resources and the
+            Environment, The University of Arizona, 1064 E. LOWELL ST, Tucson,
+            AZ 85721, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Anguilla rostrata"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="66S109"
+                     /db_xref="taxon:7938"
+                     /geo_loc_name="Mexico"
+                     /collection_date="Oct-2024"
+                     /PCR_primers="fwd_name: Teleo12s_792-F, fwd_seq:
+                     caggtcgaggtgtagcgyatg, rev_name: Teleo12s_1322-R, rev_seq:
+                     ctttcagctttcccttgcgg"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 t
+//
+
+LOCUS       PV599428                   1 bp    DNA     linear   VRT 01-MAY-2026
+DEFINITION  Anguilla pacifica isolate S072_61126 small subunit ribosomal RNA
+            gene, partial sequence; mitochondrial.
+ACCESSION   PV599428 REGION: 1
+VERSION     PV599428.1
+KEYWORDS    .
+SOURCE      mitochondrion Anguilla pacifica (Indian short-finned eel)
+  ORGANISM  Anguilla pacifica
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Anguilliformes;
+            Anguillidae; Anguilla.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Balaba,M.P., Kajita,T., Leopardas,V.E., Aspe,N.M., Gonzales,R.C.
+            and Hinoguin,A.D.P.
+  TITLE     From Cryptobenthics to Conservation: eDNA Metabarcoding Reveals
+            Fine-Scale Spatial Patterns in Mangrove Fish Assemblages of Siargao
+            Island, Philippines
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Balaba,M.P., Kajita,T., Leopardas,V.E., Aspe,N.M., Gonzales,R.C.
+            and Hinoguin,A.D.P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-APR-2025) College of Marine and Allied Sciences,
+            Mindanao State University at Naawan (MSU at Naawan), Purok 6,
+            Bonifacio Street, Poblacion, Naawan, Misamis Orienta 9023,
+            Philippines
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: DADA2 via QIIME2 v. v1.22
+            Sequencing Technology :: Illumina
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Anguilla pacifica"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="S072_61126"
+                     /db_xref="taxon:3352002"
+                     /geo_loc_name="Philippines: Siargao Island, San Isidro"
+                     /collection_date="2023-08-08"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       PV599461                   1 bp    DNA     linear   VRT 01-MAY-2026
+DEFINITION  Channa striata isolate S556_59899 small subunit ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   PV599461 REGION: 1
+VERSION     PV599461.1
+KEYWORDS    .
+SOURCE      mitochondrion Channa striata (snakehead murrel)
+  ORGANISM  Channa striata
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Anabantaria; Anabantiformes; Channoidei;
+            Channidae; Channa.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Balaba,M.P., Kajita,T., Leopardas,V.E., Aspe,N.M., Gonzales,R.C.
+            and Hinoguin,A.D.P.
+  TITLE     From Cryptobenthics to Conservation: eDNA Metabarcoding Reveals
+            Fine-Scale Spatial Patterns in Mangrove Fish Assemblages of Siargao
+            Island, Philippines
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Balaba,M.P., Kajita,T., Leopardas,V.E., Aspe,N.M., Gonzales,R.C.
+            and Hinoguin,A.D.P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-APR-2025) College of Marine and Allied Sciences,
+            Mindanao State University at Naawan (MSU at Naawan), Purok 6,
+            Bonifacio Street, Poblacion, Naawan, Misamis Orienta 9023,
+            Philippines
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: DADA2 via QIIME2 v. v1.22
+            Sequencing Technology :: Illumina
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Channa striata"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="S556_59899"
+                     /db_xref="taxon:64152"
+                     /geo_loc_name="Philippines: Siargao Island, Pilar, San
+                     Isidro"
+                     /collection_date="2023-08-08"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       PV599508                   1 bp    DNA     linear   VRT 01-MAY-2026
+DEFINITION  Glossogobius aureus isolate S579_435238 small subunit ribosomal RNA
+            gene, partial sequence; mitochondrial.
+ACCESSION   PV599508 REGION: 1
+VERSION     PV599508.1
+KEYWORDS    .
+SOURCE      mitochondrion Glossogobius aureus (golden tank goby)
+  ORGANISM  Glossogobius aureus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Gobiaria; Gobiiformes; Gobioidei; Gobiidae;
+            Gobiinae; Glossogobius.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Balaba,M.P., Kajita,T., Leopardas,V.E., Aspe,N.M., Gonzales,R.C.
+            and Hinoguin,A.D.P.
+  TITLE     From Cryptobenthics to Conservation: eDNA Metabarcoding Reveals
+            Fine-Scale Spatial Patterns in Mangrove Fish Assemblages of Siargao
+            Island, Philippines
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Balaba,M.P., Kajita,T., Leopardas,V.E., Aspe,N.M., Gonzales,R.C.
+            and Hinoguin,A.D.P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-APR-2025) College of Marine and Allied Sciences,
+            Mindanao State University at Naawan (MSU at Naawan), Purok 6,
+            Bonifacio Street, Poblacion, Naawan, Misamis Orienta 9023,
+            Philippines
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: DADA2 via QIIME2 v. v1.22
+            Sequencing Technology :: Illumina
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Glossogobius aureus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="S579_435238"
+                     /db_xref="taxon:443695"
+                     /geo_loc_name="Philippines: Siargao Island, San Isidro"
+                     /collection_date="2023-08-08"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       PV599509                   1 bp    DNA     linear   VRT 01-MAY-2026
+DEFINITION  Glossogobius circumspectus isolate S339_1231921 small subunit
+            ribosomal RNA gene, partial sequence; mitochondrial.
+ACCESSION   PV599509 REGION: 1
+VERSION     PV599509.1
+KEYWORDS    .
+SOURCE      mitochondrion Glossogobius circumspectus (circumspect goby)
+  ORGANISM  Glossogobius circumspectus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Gobiaria; Gobiiformes; Gobioidei; Gobiidae;
+            Gobiinae; Glossogobius.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Balaba,M.P., Kajita,T., Leopardas,V.E., Aspe,N.M., Gonzales,R.C.
+            and Hinoguin,A.D.P.
+  TITLE     From Cryptobenthics to Conservation: eDNA Metabarcoding Reveals
+            Fine-Scale Spatial Patterns in Mangrove Fish Assemblages of Siargao
+            Island, Philippines
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Balaba,M.P., Kajita,T., Leopardas,V.E., Aspe,N.M., Gonzales,R.C.
+            and Hinoguin,A.D.P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-APR-2025) College of Marine and Allied Sciences,
+            Mindanao State University at Naawan (MSU at Naawan), Purok 6,
+            Bonifacio Street, Poblacion, Naawan, Misamis Orienta 9023,
+            Philippines
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: DADA2 via QIIME2 v. v1.22
+            Sequencing Technology :: Illumina
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Glossogobius circumspectus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="S339_1231921"
+                     /db_xref="taxon:1238289"
+                     /geo_loc_name="Philippines: Siargao Island, Del Carmen,
+                     San Benito"
+                     /collection_date="2023-08-08"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       PV599550                   1 bp    DNA     linear   VRT 01-MAY-2026
+DEFINITION  Mugilogobius chulae isolate S276_86234 small subunit ribosomal RNA
+            gene, partial sequence; mitochondrial.
+ACCESSION   PV599550 REGION: 1
+VERSION     PV599550.1
+KEYWORDS    .
+SOURCE      mitochondrion Mugilogobius chulae (yellowstripe goby)
+  ORGANISM  Mugilogobius chulae
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Gobiaria; Gobiiformes; Gobioidei; Gobiidae;
+            Gobionellinae; Mugilogobius.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Balaba,M.P., Kajita,T., Leopardas,V.E., Aspe,N.M., Gonzales,R.C.
+            and Hinoguin,A.D.P.
+  TITLE     From Cryptobenthics to Conservation: eDNA Metabarcoding Reveals
+            Fine-Scale Spatial Patterns in Mangrove Fish Assemblages of Siargao
+            Island, Philippines
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Balaba,M.P., Kajita,T., Leopardas,V.E., Aspe,N.M., Gonzales,R.C.
+            and Hinoguin,A.D.P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-APR-2025) College of Marine and Allied Sciences,
+            Mindanao State University at Naawan (MSU at Naawan), Purok 6,
+            Bonifacio Street, Poblacion, Naawan, Misamis Orienta 9023,
+            Philippines
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: DADA2 via QIIME2 v. v1.22
+            Sequencing Technology :: Illumina
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Mugilogobius chulae"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="S276_86234"
+                     /db_xref="taxon:88201"
+                     /geo_loc_name="Philippines: Siargao Island, Del Carmen,
+                     Santa Monica"
+                     /collection_date="2023-08-08"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       PV599551                   1 bp    DNA     linear   VRT 01-MAY-2026
+DEFINITION  Mugilogobius sp. 'tanuki-haze' isolate S361_2745941 small subunit
+            ribosomal RNA gene, partial sequence; mitochondrial.
+ACCESSION   PV599551 REGION: 1
+VERSION     PV599551.1
+KEYWORDS    .
+SOURCE      mitochondrion Mugilogobius sp. 'tanuki-haze'
+  ORGANISM  Mugilogobius sp. 'tanuki-haze'
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Gobiaria; Gobiiformes; Gobioidei; Gobiidae;
+            Gobionellinae; Mugilogobius.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Balaba,M.P., Kajita,T., Leopardas,V.E., Aspe,N.M., Gonzales,R.C.
+            and Hinoguin,A.D.P.
+  TITLE     From Cryptobenthics to Conservation: eDNA Metabarcoding Reveals
+            Fine-Scale Spatial Patterns in Mangrove Fish Assemblages of Siargao
+            Island, Philippines
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Balaba,M.P., Kajita,T., Leopardas,V.E., Aspe,N.M., Gonzales,R.C.
+            and Hinoguin,A.D.P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-APR-2025) College of Marine and Allied Sciences,
+            Mindanao State University at Naawan (MSU at Naawan), Purok 6,
+            Bonifacio Street, Poblacion, Naawan, Misamis Orienta 9023,
+            Philippines
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: DADA2 via QIIME2 v. v1.22
+            Sequencing Technology :: Illumina
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Mugilogobius sp. 'tanuki-haze'"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="S361_2745941"
+                     /db_xref="taxon:2745941"
+                     /geo_loc_name="Philippines: Siargao Island, Pilar, San
+                     Benito"
+                     /collection_date="2023-08-08"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       PV599552                   1 bp    DNA     linear   VRT 01-MAY-2026
+DEFINITION  Mugilogobius sp. 'tanuki-haze' isolate S360_2745941 small subunit
+            ribosomal RNA gene, partial sequence; mitochondrial.
+ACCESSION   PV599552 REGION: 1
+VERSION     PV599552.1
+KEYWORDS    .
+SOURCE      mitochondrion Mugilogobius sp. 'tanuki-haze'
+  ORGANISM  Mugilogobius sp. 'tanuki-haze'
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Gobiaria; Gobiiformes; Gobioidei; Gobiidae;
+            Gobionellinae; Mugilogobius.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Balaba,M.P., Kajita,T., Leopardas,V.E., Aspe,N.M., Gonzales,R.C.
+            and Hinoguin,A.D.P.
+  TITLE     From Cryptobenthics to Conservation: eDNA Metabarcoding Reveals
+            Fine-Scale Spatial Patterns in Mangrove Fish Assemblages of Siargao
+            Island, Philippines
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Balaba,M.P., Kajita,T., Leopardas,V.E., Aspe,N.M., Gonzales,R.C.
+            and Hinoguin,A.D.P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-APR-2025) College of Marine and Allied Sciences,
+            Mindanao State University at Naawan (MSU at Naawan), Purok 6,
+            Bonifacio Street, Poblacion, Naawan, Misamis Orienta 9023,
+            Philippines
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: DADA2 via QIIME2 v. v1.22
+            Sequencing Technology :: Illumina
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Mugilogobius sp. 'tanuki-haze'"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="S360_2745941"
+                     /db_xref="taxon:2745941"
+                     /geo_loc_name="Philippines: Siargao Island, Dapa, Del
+                     Carmen, San Benito, Santa Monica"
+                     /collection_date="2023-08-08"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       PV599691                   1 bp    DNA     linear   VRT 01-MAY-2026
+DEFINITION  Mugilogobius sp. isolate S329_2745941 small subunit ribosomal RNA
+            gene, partial sequence; mitochondrial.
+ACCESSION   PV599691 REGION: 1
+VERSION     PV599691.1
+KEYWORDS    .
+SOURCE      mitochondrion Mugilogobius sp.
+  ORGANISM  Mugilogobius sp.
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Gobiaria; Gobiiformes; Gobioidei; Gobiidae;
+            Gobionellinae; Mugilogobius.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Balaba,M.P., Kajita,T., Leopardas,V.E., Aspe,N.M., Gonzales,R.C.
+            and Hinoguin,A.D.P.
+  TITLE     From Cryptobenthics to Conservation: eDNA Metabarcoding Reveals
+            Fine-Scale Spatial Patterns in Mangrove Fish Assemblages of Siargao
+            Island, Philippines
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Balaba,M.P., Kajita,T., Leopardas,V.E., Aspe,N.M., Gonzales,R.C.
+            and Hinoguin,A.D.P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-APR-2025) College of Marine and Allied Sciences,
+            Mindanao State University at Naawan (MSU at Naawan), Purok 6,
+            Bonifacio Street, Poblacion, Naawan, Misamis Orienta 9023,
+            Philippines
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: DADA2 via QIIME2 v. v1.22
+            Sequencing Technology :: Illumina
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Mugilogobius sp."
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="S329_2745941"
+                     /db_xref="taxon:3112279"
+                     /geo_loc_name="Philippines: Siargao Island, Del Carmen"
+                     /collection_date="2023-08-08"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       PX416783                   1 bp    DNA     linear   VRT 07-JAN-2026
+DEFINITION  Poecilia parae voucher GFSU14-470 small subunit ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   PX416783 REGION: 1
+VERSION     PX416783.1
+DBLINK      BioProject: PRJNA1399107
+KEYWORDS    .
+SOURCE      mitochondrion Poecilia parae
+  ORGANISM  Poecilia parae
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Ovalentaria; Atherinomorphae; Cyprinodontiformes;
+            Poeciliidae; Poeciliinae; Poecilia.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Brosse,S., Cuenot,Y., Condachou,C., Coutant,O., Covain,R.,
+            Quartarollo,G., Le Reun,S., Vigouroux,R. and Murienne,J.
+  TITLE     Near complete 12S DNA reference library for the freshwater fish of
+            French Guiana, northern Amazonian region
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Brosse,S., Cuenot,Y., Condachou,C., Coutant,O., Covain,R.,
+            Quartarollo,G., Le Reun,S., Vigouroux,R. and Murienne,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-SEP-2025) CRBE, Toulouse III University, 118 route de
+            Narbonne, Toulouse 31500, France
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Poecilia parae"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="GFSU14-470"
+                     /db_xref="taxon:69231"
+                     /lab_host="MNHG"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       PX416784                   1 bp    DNA     linear   VRT 07-JAN-2026
+DEFINITION  Poecilia vivipara voucher GFSU14-476 small subunit ribosomal RNA
+            gene, partial sequence; mitochondrial.
+ACCESSION   PX416784 REGION: 1
+VERSION     PX416784.1
+DBLINK      BioProject: PRJNA1399107
+KEYWORDS    .
+SOURCE      mitochondrion Poecilia vivipara
+  ORGANISM  Poecilia vivipara
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Ovalentaria; Atherinomorphae; Cyprinodontiformes;
+            Poeciliidae; Poeciliinae; Poecilia.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Brosse,S., Cuenot,Y., Condachou,C., Coutant,O., Covain,R.,
+            Quartarollo,G., Le Reun,S., Vigouroux,R. and Murienne,J.
+  TITLE     Near complete 12S DNA reference library for the freshwater fish of
+            French Guiana, northern Amazonian region
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Brosse,S., Cuenot,Y., Condachou,C., Coutant,O., Covain,R.,
+            Quartarollo,G., Le Reun,S., Vigouroux,R. and Murienne,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-SEP-2025) CRBE, Toulouse III University, 118 route de
+            Narbonne, Toulouse 31500, France
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Poecilia vivipara"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="GFSU14-476"
+                     /db_xref="taxon:69236"
+                     /lab_host="MNHG"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       PX797258                   1 bp    DNA     linear   VRT 10-JAN-2026
+DEFINITION  Cyprinus carpio isolate H1_Keban small subunit ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   PX797258 REGION: 1
+VERSION     PX797258.1
+KEYWORDS    .
+SOURCE      mitochondrion Cyprinus carpio (common carp)
+  ORGANISM  Cyprinus carpio
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Cyprinidae; Cyprininae; Cyprinus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Firidin,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-JAN-2026) Bereeding and Genetic, Central Fisheries
+            Research Institute, Vali Adil Yazar Cad., Trabzon 5055843248,
+            Turkey
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Cyprinus carpio"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="H1_Keban"
+                     /db_xref="taxon:7962"
+                     /geo_loc_name="Turkey: Karasu"
+                     /collection_date="30-Aug-2021"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       PX797259                   1 bp    DNA     linear   VRT 10-JAN-2026
+DEFINITION  Cyprinus carpio isolate H2_Keban small subunit ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   PX797259 REGION: 1
+VERSION     PX797259.1
+KEYWORDS    .
+SOURCE      mitochondrion Cyprinus carpio (common carp)
+  ORGANISM  Cyprinus carpio
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Cyprinidae; Cyprininae; Cyprinus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Firidin,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-JAN-2026) Bereeding and Genetic, Central Fisheries
+            Research Institute, Vali Adil Yazar Cad., Trabzon 5055843248,
+            Turkey
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Cyprinus carpio"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="H2_Keban"
+                     /db_xref="taxon:7962"
+                     /geo_loc_name="Turkey: Karasu"
+                     /collection_date="30-Aug-2021"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       PX982952                   1 bp    DNA     linear   VRT 16-FEB-2026
+DEFINITION  Cyprinus carpio isolate WuLi mitochondrion, complete genome.
+ACCESSION   PX982952 REGION: 1
+VERSION     PX982952.1
+KEYWORDS    .
+SOURCE      mitochondrion Cyprinus carpio (common carp)
+  ORGANISM  Cyprinus carpio
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Cyprinidae; Cyprininae; Cyprinus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Xu,X.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-FEB-2026) Hunan Normal University, Hunan Normal
+            University, College of Life Sciences, Hunan Normal University,
+            Changsha, Select 410000, China
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Cyprinus carpio"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="WuLi"
+                     /db_xref="taxon:7962"
+                     /note="Cyprinus carpio var. Quanzhounensis"
+     tRNA            >1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       PX992786                   1 bp    DNA     linear   VRT 17-FEB-2026
+DEFINITION  Cyprinus carpio isolate WuLi original parent_01 mitochondrion,
+            complete genome.
+ACCESSION   PX992786 REGION: 1
+VERSION     PX992786.1
+KEYWORDS    .
+SOURCE      mitochondrion Cyprinus carpio (common carp)
+  ORGANISM  Cyprinus carpio
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Cyprinidae; Cyprininae; Cyprinus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Xu,X.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-FEB-2026) Hunan Normal University, Hunan Normal
+            University, College of Life Sciences, Hunan Normal University,
+            Changsha, Select 410000, China
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Cyprinus carpio"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="WuLi original parent_01"
+                     /db_xref="taxon:7962"
+                     /note="Cyprinus carpio var. Quanzhounensis"
+     tRNA            >1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       CMU33581                   1 bp    DNA     linear   VRT 25-MAY-2007
+DEFINITION  Colossoma macropomum isolate 216 small subunit ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   U33581 REGION: 1
+VERSION     U33581.1
+KEYWORDS    .
+SOURCE      mitochondrion Colossoma macropomum (tambaqui)
+  ORGANISM  Colossoma macropomum
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Characiformes; Characoidei; Colossoma.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Orti,G.
+  TITLE     The evolutionary radiation of characiform fishes: A molecular
+            phylogenetic perspective
+  JOURNAL   Thesis (1995) State University of New York at Stony Brook
+            (SUNY-Stony Brook), Stony Brook, NY, USA
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Orti,G., Petry,P., Porto,J.I., Jegu,M. and Meyer,A.
+  TITLE     Patterns of nucleotide change in mitochondrial ribosomal RNA genes
+            and the phylogeny of piranhas
+  JOURNAL   J. Mol. Evol. 42 (2), 169-182 (1996)
+   PUBMED   8919869
+REFERENCE   3  (bases 1 to 1)
+  AUTHORS   Orti,G., Sivasundar,A., Dietz,K. and Jegu,M.
+  TITLE     Phylogeny of the Serrasalmidae (Characiformes) based on
+            mitochondrial DNA sequences
+  JOURNAL   Genet. Mol. Biol. (2007) In press
+REFERENCE   4  (bases 1 to 1)
+  AUTHORS   Orti,G.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-AUG-1995) Department of Ecology and Evolution, State
+            University of New York at Stony Brook, South Loop Rd., Stony Brook,
+            NY 11794-5245, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Colossoma macropomum"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="216"
+                     /isolation_source="Solimoes River"
+                     /specimen_voucher="INPA10149"
+                     /db_xref="taxon:42526"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 t
+//
+
+LOCUS       CMU33582                   1 bp    DNA     linear   VRT 25-MAY-2007
+DEFINITION  Colossoma macropomum isolate 201 small subunit ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   U33582 REGION: 1
+VERSION     U33582.1
+KEYWORDS    .
+SOURCE      mitochondrion Colossoma macropomum (tambaqui)
+  ORGANISM  Colossoma macropomum
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Characiformes; Characoidei; Colossoma.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Orti,G.
+  TITLE     The evolutionary radiation of characiform fishes: A molecular
+            phylogenetic perspective
+  JOURNAL   Thesis (1995) State University of New York at Stony Brook
+            (SUNY-Stony Brook), Stony Brook, NY, USA
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Orti,G., Petry,P., Porto,J.I., Jegu,M. and Meyer,A.
+  TITLE     Patterns of nucleotide change in mitochondrial ribosomal RNA genes
+            and the phylogeny of piranhas
+  JOURNAL   J. Mol. Evol. 42 (2), 169-182 (1996)
+   PUBMED   8919869
+REFERENCE   3  (bases 1 to 1)
+  AUTHORS   Orti,G., Sivasundar,A., Dietz,K. and Jegu,M.
+  TITLE     Phylogeny of the Serrasalmidae (Characiformes) based on
+            mitochondrial DNA sequences
+  JOURNAL   Genet. Mol. Biol. (2007) In press
+REFERENCE   4  (bases 1 to 1)
+  AUTHORS   Orti,G.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-AUG-1995) Department of Ecology and Evolution, State
+            University of New York at Stony Brook, South Loop Rd., Stony Brook,
+            NY 11794-5245, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Colossoma macropomum"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="201"
+                     /isolation_source="Solimoes River"
+                     /specimen_voucher="INPA10150"
+                     /db_xref="taxon:42526"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       PMU33583                   1 bp    DNA     linear   VRT 25-MAY-2007
+DEFINITION  Piaractus mesopotamicus isolate 205 small subunit ribosomal RNA
+            gene, partial sequence; mitochondrial.
+ACCESSION   U33583 REGION: 1
+VERSION     U33583.1
+KEYWORDS    .
+SOURCE      mitochondrion Piaractus mesopotamicus (pacu)
+  ORGANISM  Piaractus mesopotamicus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Characiformes; Characoidei; Piaractus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Orti,G.
+  TITLE     The evolutionary radiation of characiform fishes: A molecular
+            phylogenetic perspective
+  JOURNAL   Thesis (1995) State University of New York at Stony Brook
+            (SUNY-Stony Brook), Stony Brook, NY, USA
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Orti,G., Petry,P., Porto,J.I., Jegu,M. and Meyer,A.
+  TITLE     Patterns of nucleotide change in mitochondrial ribosomal RNA genes
+            and the phylogeny of piranhas
+  JOURNAL   J. Mol. Evol. 42 (2), 169-182 (1996)
+   PUBMED   8919869
+REFERENCE   3  (bases 1 to 1)
+  AUTHORS   Orti,G., Sivasundar,A., Dietz,K. and Jegu,M.
+  TITLE     Phylogeny of the Serrasalmidae (Characiformes) based on
+            mitochondrial DNA sequences
+  JOURNAL   Genet. Mol. Biol. (2007) In press
+REFERENCE   4  (bases 1 to 1)
+  AUTHORS   Orti,G.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-AUG-1995) Department of Ecology and Evolution, State
+            University of New York at Stony Brook, South Loop Rd., Stony Brook,
+            NY 11794-5245, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Piaractus mesopotamicus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="205"
+                     /isolation_source="Miranda River"
+                     /specimen_voucher="INPA10151"
+                     /db_xref="taxon:42528"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 t
+//
+
+LOCUS       PBU33584                   1 bp    DNA     linear   VRT 25-MAY-2007
+DEFINITION  Piaractus brachypomus isolate 200 small subunit ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   U33584 REGION: 1
+VERSION     U33584.1
+KEYWORDS    .
+SOURCE      mitochondrion Piaractus brachypomus (pirapitinga)
+  ORGANISM  Piaractus brachypomus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Characiformes; Characoidei; Piaractus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Orti,G.
+  TITLE     The evolutionary radiation of characiform fishes: A molecular
+            phylogenetic perspective
+  JOURNAL   Thesis (1995) State University of New York at Stony Brook
+            (SUNY-Stony Brook), Stony Brook, NY, USA
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Orti,G., Petry,P., Porto,J.I., Jegu,M. and Meyer,A.
+  TITLE     Patterns of nucleotide change in mitochondrial ribosomal RNA genes
+            and the phylogeny of piranhas
+  JOURNAL   J. Mol. Evol. 42 (2), 169-182 (1996)
+   PUBMED   8919869
+REFERENCE   3  (bases 1 to 1)
+  AUTHORS   Orti,G., Sivasundar,A., Dietz,K. and Jegu,M.
+  TITLE     Phylogeny of the Serrasalmidae (Characiformes) based on
+            mitochondrial DNA sequences
+  JOURNAL   Genet. Mol. Biol. (2007) In press
+REFERENCE   4  (bases 1 to 1)
+  AUTHORS   Orti,G.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-AUG-1995) Department of Ecology and Evolution, State
+            University of New York at Stony Brook, South Loop Rd., Stony Brook,
+            NY 11794-5245, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Piaractus brachypomus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="200"
+                     /isolation_source="Solimoes River"
+                     /specimen_voucher="INPA10148"
+                     /db_xref="taxon:42529"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 c
+//
+
+LOCUS       PMU33585                   1 bp    DNA     linear   VRT 16-MAY-2007
+DEFINITION  Piaractus mesopotamicus isolate 143 small subunit ribosomal RNA
+            gene, partial sequence; mitochondrial.
+ACCESSION   U33585 REGION: 1
+VERSION     U33585.1
+KEYWORDS    .
+SOURCE      mitochondrion Piaractus mesopotamicus (pacu)
+  ORGANISM  Piaractus mesopotamicus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Characiformes; Characoidei; Piaractus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Orti,G.
+  TITLE     The evolutionary radiation of characiform fishes: A molecular
+            phylogenetic perspective
+  JOURNAL   Thesis (1995) State University of New York at Stony Brook
+            (SUNY-Stony Brook), Stony Brook, NY, USA
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Orti,G., Petry,P., Porto,J.I., Jegu,M. and Meyer,A.
+  TITLE     Patterns of nucleotide change in mitochondrial ribosomal RNA genes
+            and the phylogeny of piranhas
+  JOURNAL   J. Mol. Evol. 42 (2), 169-182 (1996)
+   PUBMED   8919869
+REFERENCE   3  (bases 1 to 1)
+  AUTHORS   Orti,G., Sivasundar,A., Dietz,K. and Jegu,M.
+  TITLE     Phylogeny of the Serrasalmidae (Characiformes) based on
+            mitochondrial DNA sequences
+  JOURNAL   Genet. Mol. Biol. (2007) In press
+REFERENCE   4  (bases 1 to 1)
+  AUTHORS   Orti,G.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-AUG-1995) Department of Ecology and Evolution, State
+            University of New York at Stony Brook, South Loop Rd., Stony Brook,
+            NY 11794-5245, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Piaractus mesopotamicus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="143"
+                     /db_xref="taxon:42528"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 c
+//
+
+LOCUS       PBU33586                   1 bp    DNA     linear   VRT 16-MAY-2007
+DEFINITION  Piaractus brachypomus isolate 45 small subunit ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   U33586 REGION: 1
+VERSION     U33586.1
+KEYWORDS    .
+SOURCE      mitochondrion Piaractus brachypomus (pirapitinga)
+  ORGANISM  Piaractus brachypomus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Characiformes; Characoidei; Piaractus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Orti,G.
+  TITLE     The evolutionary radiation of characiform fishes: A molecular
+            phylogenetic perspective
+  JOURNAL   Thesis (1995) State University of New York at Stony Brook
+            (SUNY-Stony Brook), Stony Brook, NY, USA
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Orti,G., Petry,P., Porto,J.I., Jegu,M. and Meyer,A.
+  TITLE     Patterns of nucleotide change in mitochondrial ribosomal RNA genes
+            and the phylogeny of piranhas
+  JOURNAL   J. Mol. Evol. 42 (2), 169-182 (1996)
+   PUBMED   8919869
+REFERENCE   3  (bases 1 to 1)
+  AUTHORS   Orti,G., Sivasundar,A., Dietz,K. and Jegu,M.
+  TITLE     Phylogeny of the Serrasalmidae (Characiformes) based on
+            mitochondrial DNA sequences
+  JOURNAL   Genet. Mol. Biol. (2007) In press
+REFERENCE   4  (bases 1 to 1)
+  AUTHORS   Orti,G.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-AUG-1995) Department of Ecology and Evolution, State
+            University of New York at Stony Brook, South Loop Rd., Stony Brook,
+            NY 11794-5245, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Piaractus brachypomus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="45"
+                     /db_xref="taxon:42529"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 a
+//
+
+LOCUS       X99184                     1 bp    DNA     linear   VRT 06-DEC-1996
+DEFINITION  A.rostrata mitochondrial 12S rRNA gene.
+ACCESSION   X99184 REGION: 1
+VERSION     X99184.1
+KEYWORDS    12S ribosomal RNA; 12S rRNA gene.
+SOURCE      mitochondrion Anguilla rostrata (American eel)
+  ORGANISM  Anguilla rostrata
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Anguilliformes;
+            Anguillidae; Anguilla.
+REFERENCE   1
+  AUTHORS   Forey,P., Littlewood,D.T.J., Ritchie,P. and Meyer,A.
+  TITLE     Interrelationships of elopomorph fishes
+  JOURNAL   (in) Stiassny,M.L.J., Parenti,L.R. and Johnson,D.G. (Eds.);
+            INTERRELATIONSHIPS OF FISHES: 175-191;
+            Academic Press, San Diego (1996)
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Littlewood,D.T.J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (04-JUL-1996) D.T.J. Littlewood, The Natural History
+            Museum, Dept. Zoology, Cromwell Road, London SW7 5BD, UK
+COMMENT     For author's systematic classification see original article.
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Anguilla rostrata"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:7938"
+                     /dev_stage="adult"
+     gene            >1
+                     /gene="12S rRNA"
+     rRNA            >1
+                     /gene="12S rRNA"
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 a
+//
+
+LOCUS       Y08286                     1 bp    DNA     linear   VRT 27-JUN-2018
+DEFINITION  G.joselimaianus mitochondrial 12S rRNA.
+ACCESSION   Y08286 REGION: 1
+VERSION     Y08286.1
+KEYWORDS    12S ribosomal RNA; 12S rRNA gene.
+SOURCE      mitochondrion Pterygoplichthys joselimaianus
+  ORGANISM  Pterygoplichthys joselimaianus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi; Siluriformes;
+            Loricariidae; Hypostominae; Pterygoplichthys.
+REFERENCE   1
+  AUTHORS   Montoya-Burgos,J.I.I.
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Montoya-Burgos,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-SEP-1996) J. Montoya-Burgos, Museum of Natural
+            History, 1 route de Malagnou, CP 6434, CH- 1211 Geneva 6,
+            SWITZERLAND
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Pterygoplichthys joselimaianus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:686980"
+     gene            <1..>1
+                     /gene="12S rRNA"
+     rRNA            <1..>1
+                     /gene="12S rRNA"
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 t
+//
+

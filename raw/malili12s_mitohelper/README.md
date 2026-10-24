@@ -15,6 +15,12 @@ berkas yang diunduh ulang.
 | `gbif/gbif_species_indonesia.json` | GBIF species API: `species/match`, `occurrence/search?country=ID`, `species/{key}/iucnRedListCategory` untuk 180 nama | diambil 2026-10-24 |
 | `gbif/gbif_telmatherinidae.json` | GBIF species API: spesies Telmatherinidae yang diterima | diambil 2026-10-24 |
 
+Satu-satunya unduhan baru (2026-10-25, `scripts/fetch_data.py malili12s_genbank_headers`):
+`genbank_flat/headers_000.gb` … `headers_011.gb` untuk 592 aksesi yang esummary-nya tidak memuat
+`/specimen_voucher` atau `/country` (daftar di `genbank_flat/accessions.txt`). Diambil sebagai flat
+file GenBank dengan `seq_start=1`, `seq_stop=1`: header lengkap (DEFINITION, REFERENCE, kualifier
+`source`) tanpa sekuens, karena sekuens sudah ada di arsip mitohelper. 592 dari 592 record diterima.
+
 `.qza` dan `.zip` adalah arsip ZIP. Ekstrak ke folder kerja saat membangun kamus; jangan menimpa
 isi folder ini (A12). Berkas turunan repo lama (`ref12S.fasta`, `ref12S_taksonomi.csv`,
 `kelengkapan*.csv`, `voucher.csv`, `gbif_indonesia.csv`) sengaja **tidak** disalin.

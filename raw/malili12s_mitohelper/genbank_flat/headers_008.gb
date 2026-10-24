@@ -1,0 +1,2064 @@
+LOCUS       MN057449                   1 bp    DNA     linear   VRT 19-NOV-2019
+DEFINITION  Channa nox isolate LR1804 contains 12S small subunit ribosomal RNA,
+            tRNA-Val, and 16S large subunit ribosomal RNA gene, partial
+            sequence; mitochondrial.
+ACCESSION   MN057449 REGION: 1
+VERSION     MN057449.1
+KEYWORDS    .
+SOURCE      mitochondrion Channa nox
+  ORGANISM  Channa nox
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Anabantaria; Anabantiformes; Channoidei;
+            Channidae; Channa.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Ruber,L., Tan,H.H. and Britz,R.
+  TITLE     Snakehead (Teleostei: Channidae) diversity and the Eastern Himalaya
+            biodiversity hotspot
+  JOURNAL   J. Zoolog. Syst. Evol. Res. (2019) In press
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Ruber,L., Tan,H.H. and Britz,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-JUN-2019) Naturhistorisches Museum Bern, Bernastrasse
+            15, Bern 3005, Switzerland
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Geneious v. 9
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Channa nox"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="LR1804"
+                     /specimen_voucher="NMBE 1077461"
+                     /db_xref="taxon:304453"
+     misc_RNA        <1..>1
+                     /note="contains 12S small subunit ribosomal RNA, tRNA-Val,
+                     and 16S large subunit ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       MN057450                   1 bp    DNA     linear   VRT 19-NOV-2019
+DEFINITION  Channa diplogramma isolate LR1683 contains 12S small subunit
+            ribosomal RNA, tRNA-Val, and 16S large subunit ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   MN057450 REGION: 1
+VERSION     MN057450.1
+KEYWORDS    .
+SOURCE      mitochondrion Channa diplogramma (Malabar snakehead)
+  ORGANISM  Channa diplogramma
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Anabantaria; Anabantiformes; Channoidei;
+            Channidae; Channa.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Ruber,L., Tan,H.H. and Britz,R.
+  TITLE     Snakehead (Teleostei: Channidae) diversity and the Eastern Himalaya
+            biodiversity hotspot
+  JOURNAL   J. Zoolog. Syst. Evol. Res. (2019) In press
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Ruber,L., Tan,H.H. and Britz,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-JUN-2019) Naturhistorisches Museum Bern, Bernastrasse
+            15, Bern 3005, Switzerland
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Geneious v. 9
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Channa diplogramma"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="LR1683"
+                     /specimen_voucher="NMBE 1077525"
+                     /db_xref="taxon:452081"
+     misc_RNA        <1..>1
+                     /note="contains 12S small subunit ribosomal RNA, tRNA-Val,
+                     and 16S large subunit ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       MN057479                   1 bp    DNA     linear   VRT 19-NOV-2019
+DEFINITION  Channa kelaartii isolate LR2310 contains 12S small subunit
+            ribosomal RNA, tRNA-Val, and 16S large subunit ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   MN057479 REGION: 1
+VERSION     MN057479.1
+KEYWORDS    .
+SOURCE      mitochondrion Channa kelaartii
+  ORGANISM  Channa kelaartii
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Anabantaria; Anabantiformes; Channoidei;
+            Channidae; Channa.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Ruber,L., Tan,H.H. and Britz,R.
+  TITLE     Snakehead (Teleostei: Channidae) diversity and the Eastern Himalaya
+            biodiversity hotspot
+  JOURNAL   J. Zoolog. Syst. Evol. Res. (2019) In press
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Ruber,L., Tan,H.H. and Britz,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-JUN-2019) Naturhistorisches Museum Bern, Bernastrasse
+            15, Bern 3005, Switzerland
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Geneious v. 9
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Channa kelaartii"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="LR2310"
+                     /specimen_voucher="NMBE 1077499"
+                     /db_xref="taxon:2666309"
+     misc_RNA        <1..>1
+                     /note="contains 12S small subunit ribosomal RNA, tRNA-Val,
+                     and 16S large subunit ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       MN057489                   1 bp    DNA     linear   VRT 19-NOV-2019
+DEFINITION  Channa limbata isolate LR1436 contains 12S small subunit ribosomal
+            RNA, tRNA-Val, and 16S large subunit ribosomal RNA gene, partial
+            sequence; mitochondrial.
+ACCESSION   MN057489 REGION: 1
+VERSION     MN057489.1
+KEYWORDS    .
+SOURCE      mitochondrion Channa limbata (red-tailed snakehead)
+  ORGANISM  Channa limbata
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Anabantaria; Anabantiformes; Channoidei;
+            Channidae; Channa.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Ruber,L., Tan,H.H. and Britz,R.
+  TITLE     Snakehead (Teleostei: Channidae) diversity and the Eastern Himalaya
+            biodiversity hotspot
+  JOURNAL   J. Zoolog. Syst. Evol. Res. (2019) In press
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Ruber,L., Tan,H.H. and Britz,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-JUN-2019) Naturhistorisches Museum Bern, Bernastrasse
+            15, Bern 3005, Switzerland
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Geneious v. 9
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Channa limbata"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="LR1436"
+                     /specimen_voucher="NMBE 1077509"
+                     /db_xref="taxon:452074"
+     misc_RNA        <1..>1
+                     /note="contains 12S small subunit ribosomal RNA, tRNA-Val,
+                     and 16S large subunit ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       MN057503                   1 bp    DNA     linear   VRT 19-NOV-2019
+DEFINITION  Channa limbata isolate LR2489 contains 12S small subunit ribosomal
+            RNA, tRNA-Val, and 16S large subunit ribosomal RNA gene, partial
+            sequence; mitochondrial.
+ACCESSION   MN057503 REGION: 1
+VERSION     MN057503.1
+KEYWORDS    .
+SOURCE      mitochondrion Channa limbata (red-tailed snakehead)
+  ORGANISM  Channa limbata
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Anabantaria; Anabantiformes; Channoidei;
+            Channidae; Channa.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Ruber,L., Tan,H.H. and Britz,R.
+  TITLE     Snakehead (Teleostei: Channidae) diversity and the Eastern Himalaya
+            biodiversity hotspot
+  JOURNAL   J. Zoolog. Syst. Evol. Res. (2019) In press
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Ruber,L., Tan,H.H. and Britz,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-JUN-2019) Naturhistorisches Museum Bern, Bernastrasse
+            15, Bern 3005, Switzerland
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Geneious v. 9
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Channa limbata"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="LR2489"
+                     /specimen_voucher="NMBE 1077468"
+                     /db_xref="taxon:452074"
+     misc_RNA        <1..>1
+                     /note="contains 12S small subunit ribosomal RNA, tRNA-Val,
+                     and 16S large subunit ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       MN057524                   1 bp    DNA     linear   VRT 19-NOV-2019
+DEFINITION  Channa maculata isolate LR2298 contains 12S small subunit ribosomal
+            RNA, tRNA-Val, and 16S large subunit ribosomal RNA gene, partial
+            sequence; mitochondrial.
+ACCESSION   MN057524 REGION: 1
+VERSION     MN057524.1
+KEYWORDS    .
+SOURCE      mitochondrion Channa maculata (blotched snakehead)
+  ORGANISM  Channa maculata
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Anabantaria; Anabantiformes; Channoidei;
+            Channidae; Channa.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Ruber,L., Tan,H.H. and Britz,R.
+  TITLE     Snakehead (Teleostei: Channidae) diversity and the Eastern Himalaya
+            biodiversity hotspot
+  JOURNAL   J. Zoolog. Syst. Evol. Res. (2019) In press
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Ruber,L., Tan,H.H. and Britz,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-JUN-2019) Naturhistorisches Museum Bern, Bernastrasse
+            15, Bern 3005, Switzerland
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Geneious v. 9
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Channa maculata"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="LR2298"
+                     /specimen_voucher="NMBE 1077489"
+                     /db_xref="taxon:188791"
+     misc_RNA        <1..>1
+                     /note="contains 12S small subunit ribosomal RNA, tRNA-Val,
+                     and 16S large subunit ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       MN057526                   1 bp    DNA     linear   VRT 19-NOV-2019
+DEFINITION  Channa marulioides isolate LR1684 contains 12S small subunit
+            ribosomal RNA, tRNA-Val, and 16S large subunit ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   MN057526 REGION: 1
+VERSION     MN057526.1
+KEYWORDS    .
+SOURCE      mitochondrion Channa marulioides (emperor snakehead)
+  ORGANISM  Channa marulioides
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Anabantaria; Anabantiformes; Channoidei;
+            Channidae; Channa.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Ruber,L., Tan,H.H. and Britz,R.
+  TITLE     Snakehead (Teleostei: Channidae) diversity and the Eastern Himalaya
+            biodiversity hotspot
+  JOURNAL   J. Zoolog. Syst. Evol. Res. (2019) In press
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Ruber,L., Tan,H.H. and Britz,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-JUN-2019) Naturhistorisches Museum Bern, Bernastrasse
+            15, Bern 3005, Switzerland
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Geneious v. 9
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Channa marulioides"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="LR1684"
+                     /specimen_voucher="NMBE 1077435"
+                     /db_xref="taxon:64147"
+     misc_RNA        <1..>1
+                     /note="contains 12S small subunit ribosomal RNA, tRNA-Val,
+                     and 16S large subunit ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       MN057528                   1 bp    DNA     linear   VRT 19-NOV-2019
+DEFINITION  Channa marulioides isolate LR2295 contains 12S small subunit
+            ribosomal RNA, tRNA-Val, and 16S large subunit ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   MN057528 REGION: 1
+VERSION     MN057528.1
+KEYWORDS    .
+SOURCE      mitochondrion Channa marulioides (emperor snakehead)
+  ORGANISM  Channa marulioides
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Anabantaria; Anabantiformes; Channoidei;
+            Channidae; Channa.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Ruber,L., Tan,H.H. and Britz,R.
+  TITLE     Snakehead (Teleostei: Channidae) diversity and the Eastern Himalaya
+            biodiversity hotspot
+  JOURNAL   J. Zoolog. Syst. Evol. Res. (2019) In press
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Ruber,L., Tan,H.H. and Britz,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-JUN-2019) Naturhistorisches Museum Bern, Bernastrasse
+            15, Bern 3005, Switzerland
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Geneious v. 9
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Channa marulioides"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="LR2295"
+                     /specimen_voucher="NMBE 1077437"
+                     /db_xref="taxon:64147"
+     misc_RNA        <1..>1
+                     /note="contains 12S small subunit ribosomal RNA, tRNA-Val,
+                     and 16S large subunit ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       MN057529                   1 bp    DNA     linear   VRT 19-NOV-2019
+DEFINITION  Channa marulioides isolate LR2488 contains 12S small subunit
+            ribosomal RNA, tRNA-Val, and 16S large subunit ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   MN057529 REGION: 1
+VERSION     MN057529.1
+KEYWORDS    .
+SOURCE      mitochondrion Channa marulioides (emperor snakehead)
+  ORGANISM  Channa marulioides
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Anabantaria; Anabantiformes; Channoidei;
+            Channidae; Channa.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Ruber,L., Tan,H.H. and Britz,R.
+  TITLE     Snakehead (Teleostei: Channidae) diversity and the Eastern Himalaya
+            biodiversity hotspot
+  JOURNAL   J. Zoolog. Syst. Evol. Res. (2019) In press
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Ruber,L., Tan,H.H. and Britz,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-JUN-2019) Naturhistorisches Museum Bern, Bernastrasse
+            15, Bern 3005, Switzerland
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Geneious v. 9
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Channa marulioides"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="LR2488"
+                     /specimen_voucher="NMBE 1077438"
+                     /db_xref="taxon:64147"
+     misc_RNA        <1..>1
+                     /note="contains 12S small subunit ribosomal RNA, tRNA-Val,
+                     and 16S large subunit ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       MN057534                   1 bp    DNA     linear   VRT 19-NOV-2019
+DEFINITION  Channa marulius isolate LR2263 contains 12S small subunit ribosomal
+            RNA, tRNA-Val, and 16S large subunit ribosomal RNA gene, partial
+            sequence; mitochondrial.
+ACCESSION   MN057534 REGION: 1
+VERSION     MN057534.1
+KEYWORDS    .
+SOURCE      mitochondrion Channa marulius (great snakehead)
+  ORGANISM  Channa marulius
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Anabantaria; Anabantiformes; Channoidei;
+            Channidae; Channa.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Ruber,L., Tan,H.H. and Britz,R.
+  TITLE     Snakehead (Teleostei: Channidae) diversity and the Eastern Himalaya
+            biodiversity hotspot
+  JOURNAL   J. Zoolog. Syst. Evol. Res. (2019) In press
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Ruber,L., Tan,H.H. and Britz,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-JUN-2019) Naturhistorisches Museum Bern, Bernastrasse
+            15, Bern 3005, Switzerland
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Geneious v. 9
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Channa marulius"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="LR2263"
+                     /specimen_voucher="NMBE 1077444"
+                     /db_xref="taxon:205123"
+     misc_RNA        <1..>1
+                     /note="contains 12S small subunit ribosomal RNA, tRNA-Val,
+                     and 16S large subunit ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       MN057536                   1 bp    DNA     linear   VRT 19-NOV-2019
+DEFINITION  Channa melasoma isolate LR0001 contains 12S small subunit ribosomal
+            RNA, tRNA-Val, and 16S large subunit ribosomal RNA gene, partial
+            sequence; mitochondrial.
+ACCESSION   MN057536 REGION: 1
+VERSION     MN057536.1
+KEYWORDS    .
+SOURCE      mitochondrion Channa melasoma (black snakehead)
+  ORGANISM  Channa melasoma
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Anabantaria; Anabantiformes; Channoidei;
+            Channidae; Channa.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Ruber,L., Tan,H.H. and Britz,R.
+  TITLE     Snakehead (Teleostei: Channidae) diversity and the Eastern Himalaya
+            biodiversity hotspot
+  JOURNAL   J. Zoolog. Syst. Evol. Res. (2019) In press
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Ruber,L., Tan,H.H. and Britz,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-JUN-2019) Naturhistorisches Museum Bern, Bernastrasse
+            15, Bern 3005, Switzerland
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Geneious v. 9
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Channa melasoma"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="LR0001"
+                     /specimen_voucher="NMBE 1077446"
+                     /db_xref="taxon:64148"
+     misc_RNA        <1..>1
+                     /note="contains 12S small subunit ribosomal RNA, tRNA-Val,
+                     and 16S large subunit ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       MN057544                   1 bp    DNA     linear   VRT 19-NOV-2019
+DEFINITION  Channa micropeltes isolate LR0167 contains 12S small subunit
+            ribosomal RNA, tRNA-Val, and 16S large subunit ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   MN057544 REGION: 1
+VERSION     MN057544.1
+KEYWORDS    .
+SOURCE      mitochondrion Channa micropeltes (giant snakehead)
+  ORGANISM  Channa micropeltes
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Anabantaria; Anabantiformes; Channoidei;
+            Channidae; Channa.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Ruber,L., Tan,H.H. and Britz,R.
+  TITLE     Snakehead (Teleostei: Channidae) diversity and the Eastern Himalaya
+            biodiversity hotspot
+  JOURNAL   J. Zoolog. Syst. Evol. Res. (2019) In press
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Ruber,L., Tan,H.H. and Britz,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-JUN-2019) Naturhistorisches Museum Bern, Bernastrasse
+            15, Bern 3005, Switzerland
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Geneious v. 9
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Channa micropeltes"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="LR0167"
+                     /specimen_voucher="NMBE 1077454"
+                     /db_xref="taxon:64149"
+     misc_RNA        <1..>1
+                     /note="contains 12S small subunit ribosomal RNA, tRNA-Val,
+                     and 16S large subunit ribosomal RNA"
+ORIGIN      
+        1 t
+//
+
+LOCUS       MN057547                   1 bp    DNA     linear   VRT 19-NOV-2019
+DEFINITION  Channa micropeltes isolate LR2422 contains 12S small subunit
+            ribosomal RNA, tRNA-Val, and 16S large subunit ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   MN057547 REGION: 1
+VERSION     MN057547.1
+KEYWORDS    .
+SOURCE      mitochondrion Channa micropeltes (giant snakehead)
+  ORGANISM  Channa micropeltes
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Anabantaria; Anabantiformes; Channoidei;
+            Channidae; Channa.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Ruber,L., Tan,H.H. and Britz,R.
+  TITLE     Snakehead (Teleostei: Channidae) diversity and the Eastern Himalaya
+            biodiversity hotspot
+  JOURNAL   J. Zoolog. Syst. Evol. Res. (2019) In press
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Ruber,L., Tan,H.H. and Britz,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-JUN-2019) Naturhistorisches Museum Bern, Bernastrasse
+            15, Bern 3005, Switzerland
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Geneious v. 9
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Channa micropeltes"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="LR2422"
+                     /specimen_voucher="NMBE 1077457"
+                     /db_xref="taxon:64149"
+     misc_RNA        <1..>1
+                     /note="contains 12S small subunit ribosomal RNA, tRNA-Val,
+                     and 16S large subunit ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       MN057556                   1 bp    DNA     linear   VRT 19-NOV-2019
+DEFINITION  Channa panaw isolate LR2283 contains 12S small subunit ribosomal
+            RNA, tRNA-Val, and 16S large subunit ribosomal RNA gene, partial
+            sequence; mitochondrial.
+ACCESSION   MN057556 REGION: 1
+VERSION     MN057556.1
+KEYWORDS    .
+SOURCE      mitochondrion Channa panaw
+  ORGANISM  Channa panaw
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Anabantaria; Anabantiformes; Channoidei;
+            Channidae; Channa.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Ruber,L., Tan,H.H. and Britz,R.
+  TITLE     Snakehead (Teleostei: Channidae) diversity and the Eastern Himalaya
+            biodiversity hotspot
+  JOURNAL   J. Zoolog. Syst. Evol. Res. (2019) In press
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Ruber,L., Tan,H.H. and Britz,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-JUN-2019) Naturhistorisches Museum Bern, Bernastrasse
+            15, Bern 3005, Switzerland
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Geneious v. 9
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Channa panaw"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="LR2283"
+                     /specimen_voucher="NMBE 1077411"
+                     /db_xref="taxon:304450"
+     misc_RNA        <1..>1
+                     /note="contains 12S small subunit ribosomal RNA, tRNA-Val,
+                     and 16S large subunit ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       MN057560                   1 bp    DNA     linear   VRT 19-NOV-2019
+DEFINITION  Channa pleurophthalma isolate LR0013 contains 12S small subunit
+            ribosomal RNA, tRNA-Val, and 16S large subunit ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   MN057560 REGION: 1
+VERSION     MN057560.1
+KEYWORDS    .
+SOURCE      mitochondrion Channa pleurophthalma
+  ORGANISM  Channa pleurophthalma
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Anabantaria; Anabantiformes; Channoidei;
+            Channidae; Channa.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Ruber,L., Tan,H.H. and Britz,R.
+  TITLE     Snakehead (Teleostei: Channidae) diversity and the Eastern Himalaya
+            biodiversity hotspot
+  JOURNAL   J. Zoolog. Syst. Evol. Res. (2019) In press
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Ruber,L., Tan,H.H. and Britz,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-JUN-2019) Naturhistorisches Museum Bern, Bernastrasse
+            15, Bern 3005, Switzerland
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Geneious v. 9
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Channa pleurophthalma"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="LR0013"
+                     /specimen_voucher="NMBE 1077415"
+                     /db_xref="taxon:64151"
+     misc_RNA        <1..>1
+                     /note="contains 12S small subunit ribosomal RNA, tRNA-Val,
+                     and 16S large subunit ribosomal RNA"
+ORIGIN      
+        1 t
+//
+
+LOCUS       MN057561                   1 bp    DNA     linear   VRT 19-NOV-2019
+DEFINITION  Channa pleurophthalma isolate LR2313 contains 12S small subunit
+            ribosomal RNA, tRNA-Val, and 16S large subunit ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   MN057561 REGION: 1
+VERSION     MN057561.1
+KEYWORDS    .
+SOURCE      mitochondrion Channa pleurophthalma
+  ORGANISM  Channa pleurophthalma
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Anabantaria; Anabantiformes; Channoidei;
+            Channidae; Channa.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Ruber,L., Tan,H.H. and Britz,R.
+  TITLE     Snakehead (Teleostei: Channidae) diversity and the Eastern Himalaya
+            biodiversity hotspot
+  JOURNAL   J. Zoolog. Syst. Evol. Res. (2019) In press
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Ruber,L., Tan,H.H. and Britz,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-JUN-2019) Naturhistorisches Museum Bern, Bernastrasse
+            15, Bern 3005, Switzerland
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Geneious v. 9
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Channa pleurophthalma"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="LR2313"
+                     /specimen_voucher="NMBE 1077416"
+                     /db_xref="taxon:64151"
+     misc_RNA        <1..>1
+                     /note="contains 12S small subunit ribosomal RNA, tRNA-Val,
+                     and 16S large subunit ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       MN057564                   1 bp    DNA     linear   VRT 19-NOV-2019
+DEFINITION  Channa pseudomarulius isolate LR2312 contains 12S small subunit
+            ribosomal RNA, tRNA-Val, and 16S large subunit ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   MN057564 REGION: 1
+VERSION     MN057564.1
+KEYWORDS    .
+SOURCE      mitochondrion Channa pseudomarulius
+  ORGANISM  Channa pseudomarulius
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Anabantaria; Anabantiformes; Channoidei;
+            Channidae; Channa.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Ruber,L., Tan,H.H. and Britz,R.
+  TITLE     Snakehead (Teleostei: Channidae) diversity and the Eastern Himalaya
+            biodiversity hotspot
+  JOURNAL   J. Zoolog. Syst. Evol. Res. (2019) In press
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Ruber,L., Tan,H.H. and Britz,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-JUN-2019) Naturhistorisches Museum Bern, Bernastrasse
+            15, Bern 3005, Switzerland
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Geneious v. 9
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Channa pseudomarulius"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="LR2312"
+                     /specimen_voucher="NMBE 1077419"
+                     /db_xref="taxon:2012494"
+     misc_RNA        <1..>1
+                     /note="contains 12S small subunit ribosomal RNA, tRNA-Val,
+                     and 16S large subunit ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       MN057577                   1 bp    DNA     linear   VRT 19-NOV-2019
+DEFINITION  Channa punctata isolate LR2277 contains 12S small subunit ribosomal
+            RNA, tRNA-Val, and 16S large subunit ribosomal RNA gene, partial
+            sequence; mitochondrial.
+ACCESSION   MN057577 REGION: 1
+VERSION     MN057577.1
+KEYWORDS    .
+SOURCE      mitochondrion Channa punctata (spotted snakehead)
+  ORGANISM  Channa punctata
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Anabantaria; Anabantiformes; Channoidei;
+            Channidae; Channa.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Ruber,L., Tan,H.H. and Britz,R.
+  TITLE     Snakehead (Teleostei: Channidae) diversity and the Eastern Himalaya
+            biodiversity hotspot
+  JOURNAL   J. Zoolog. Syst. Evol. Res. (2019) In press
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Ruber,L., Tan,H.H. and Britz,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-JUN-2019) Naturhistorisches Museum Bern, Bernastrasse
+            15, Bern 3005, Switzerland
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Geneious v. 9
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Channa punctata"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="LR2277"
+                     /specimen_voucher="NMBE 1077432"
+                     /db_xref="taxon:304456"
+     misc_RNA        <1..>1
+                     /note="contains 12S small subunit ribosomal RNA, tRNA-Val,
+                     and 16S large subunit ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       MN057578                   1 bp    DNA     linear   VRT 19-NOV-2019
+DEFINITION  Channa punctata isolate LR2509 contains 12S small subunit ribosomal
+            RNA, tRNA-Val, and 16S large subunit ribosomal RNA gene, partial
+            sequence; mitochondrial.
+ACCESSION   MN057578 REGION: 1
+VERSION     MN057578.1
+KEYWORDS    .
+SOURCE      mitochondrion Channa punctata (spotted snakehead)
+  ORGANISM  Channa punctata
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Anabantaria; Anabantiformes; Channoidei;
+            Channidae; Channa.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Ruber,L., Tan,H.H. and Britz,R.
+  TITLE     Snakehead (Teleostei: Channidae) diversity and the Eastern Himalaya
+            biodiversity hotspot
+  JOURNAL   J. Zoolog. Syst. Evol. Res. (2019) In press
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Ruber,L., Tan,H.H. and Britz,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-JUN-2019) Naturhistorisches Museum Bern, Bernastrasse
+            15, Bern 3005, Switzerland
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Geneious v. 9
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Channa punctata"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="LR2509"
+                     /specimen_voucher="NMBE 1077433"
+                     /db_xref="taxon:304456"
+     misc_RNA        <1..>1
+                     /note="contains 12S small subunit ribosomal RNA, tRNA-Val,
+                     and 16S large subunit ribosomal RNA"
+ORIGIN      
+        1 c
+//
+
+LOCUS       MN057585                   1 bp    DNA     linear   VRT 19-NOV-2019
+DEFINITION  Channa punctata isolate LR2719 contains 12S small subunit ribosomal
+            RNA, tRNA-Val, and 16S large subunit ribosomal RNA gene, partial
+            sequence; mitochondrial.
+ACCESSION   MN057585 REGION: 1
+VERSION     MN057585.1
+KEYWORDS    .
+SOURCE      mitochondrion Channa punctata (spotted snakehead)
+  ORGANISM  Channa punctata
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Anabantaria; Anabantiformes; Channoidei;
+            Channidae; Channa.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Ruber,L., Tan,H.H. and Britz,R.
+  TITLE     Snakehead (Teleostei: Channidae) diversity and the Eastern Himalaya
+            biodiversity hotspot
+  JOURNAL   J. Zoolog. Syst. Evol. Res. (2019) In press
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Ruber,L., Tan,H.H. and Britz,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-JUN-2019) Naturhistorisches Museum Bern, Bernastrasse
+            15, Bern 3005, Switzerland
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Geneious v. 9
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Channa punctata"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="LR2719"
+                     /specimen_voucher="NMBE 1077384"
+                     /db_xref="taxon:304456"
+     misc_RNA        <1..>1
+                     /note="contains 12S small subunit ribosomal RNA, tRNA-Val,
+                     and 16S large subunit ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       MN057594                   1 bp    DNA     linear   VRT 19-NOV-2019
+DEFINITION  Channa stewartii isolate LR2491 contains 12S small subunit
+            ribosomal RNA, tRNA-Val, and 16S large subunit ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   MN057594 REGION: 1
+VERSION     MN057594.1
+KEYWORDS    .
+SOURCE      mitochondrion Channa stewartii (golden snakehead)
+  ORGANISM  Channa stewartii
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Anabantaria; Anabantiformes; Channoidei;
+            Channidae; Channa.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Ruber,L., Tan,H.H. and Britz,R.
+  TITLE     Snakehead (Teleostei: Channidae) diversity and the Eastern Himalaya
+            biodiversity hotspot
+  JOURNAL   J. Zoolog. Syst. Evol. Res. (2019) In press
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Ruber,L., Tan,H.H. and Britz,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-JUN-2019) Naturhistorisches Museum Bern, Bernastrasse
+            15, Bern 3005, Switzerland
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Geneious v. 9
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Channa stewartii"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="LR2491"
+                     /specimen_voucher="NMBE 1077393"
+                     /db_xref="taxon:452076"
+     misc_RNA        <1..>1
+                     /note="contains 12S small subunit ribosomal RNA, tRNA-Val,
+                     and 16S large subunit ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       MN057612                   1 bp    DNA     linear   VRT 19-NOV-2019
+DEFINITION  Channa striata isolate LR2270 contains 12S small subunit ribosomal
+            RNA, tRNA-Val, and 16S large subunit ribosomal RNA gene, partial
+            sequence; mitochondrial.
+ACCESSION   MN057612 REGION: 1
+VERSION     MN057612.1
+KEYWORDS    .
+SOURCE      mitochondrion Channa striata (snakehead murrel)
+  ORGANISM  Channa striata
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Anabantaria; Anabantiformes; Channoidei;
+            Channidae; Channa.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Ruber,L., Tan,H.H. and Britz,R.
+  TITLE     Snakehead (Teleostei: Channidae) diversity and the Eastern Himalaya
+            biodiversity hotspot
+  JOURNAL   J. Zoolog. Syst. Evol. Res. (2019) In press
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Ruber,L., Tan,H.H. and Britz,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-JUN-2019) Naturhistorisches Museum Bern, Bernastrasse
+            15, Bern 3005, Switzerland
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Geneious v. 9
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Channa striata"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="LR2270"
+                     /specimen_voucher="NMBE 1077356"
+                     /db_xref="taxon:64152"
+     misc_RNA        <1..>1
+                     /note="contains 12S small subunit ribosomal RNA, tRNA-Val,
+                     and 16S large subunit ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       MN064715                   1 bp    DNA     linear   VRT 13-JUN-2020
+DEFINITION  Oryzias celebensis mitochondrion, complete genome.
+ACCESSION   MN064715 REGION: 1
+VERSION     MN064715.1
+KEYWORDS    .
+SOURCE      mitochondrion Oryzias celebensis (Celebes medaka)
+  ORGANISM  Oryzias celebensis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Ovalentaria; Atherinomorphae; Beloniformes;
+            Adrianichthyidae; Oryziinae; Oryzias.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Ma,J., Long,S. and Wang,Z.
+  TITLE     Complete mitogenome and phylogenetic analysis of Oryzias celebensis
+            (Teleostei: Beloniformes)
+  JOURNAL   Mitochondrial DNA B Resour 5 (1), 27-28 (2020)
+  REMARK    DOI: 10.1080/23802359.2019.1695550
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Ma,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (13-JUN-2019) Fisheries College, Guangdong Ocean
+            University, No. 1 Haida Road, ZhanJiang, GuangDong 524088, China
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Geneious v. Geneious10; Mega v. Mega7
+            Assembly Name         :: Compelete mitogenome of Oryzias celebensis
+            Sequencing Technology :: Illumina
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oryzias celebensis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:126373"
+                     /dev_stage="larvae"
+     tRNA            >1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       MN205549                   1 bp    DNA     linear   VRT 16-JUN-2020
+DEFINITION  Channa striata voucher GDNL01 mitochondrion, complete genome.
+ACCESSION   MN205549 REGION: 1
+VERSION     MN205549.1
+KEYWORDS    .
+SOURCE      mitochondrion Channa striata (snakehead murrel)
+  ORGANISM  Channa striata
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Anabantaria; Anabantiformes; Channoidei;
+            Channidae; Channa.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Zhou,J., Deng,Y. and Zhou,G.
+  TITLE     The mitochondrial genome of striped snakehead Channa striata
+            (Perciformes: Channidae) and phylogenetic analysis
+  JOURNAL   Mitochondrial DNA B Resour 4 (2), 3110-3111 (2019)
+  REMARK    DOI: 10.1080/23802359.2019.1667892
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Zhou,J., Deng,Y. and Zhou,G.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-JUL-2019) Crab Research Center, Freshwater Fisheries
+            Research of Jiangsu Province, No. 79 East Chating Street, Nanjing,
+            Jiangsu Province 210017, China
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Geneious v. V9
+            Sequencing Technology :: Illumina; Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Channa striata"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="GDNL01"
+                     /db_xref="taxon:64152"
+     tRNA            >1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       MN255574                   1 bp    DNA     linear   VRT 26-NOV-2019
+DEFINITION  Clarias sp. CD-2019 12S ribosomal RNA gene, partial sequence;
+            mitochondrial.
+ACCESSION   MN255574 REGION: 1
+VERSION     MN255574.1
+KEYWORDS    .
+SOURCE      mitochondrion Clarias sp. CD-2019
+  ORGANISM  Clarias sp. CD-2019
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi; Siluriformes;
+            Clariidae; Clarias.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Doble,C.J., Hipperson,H., Salzburger,W., Horsburgh,G.J., Mwita,C.,
+            Murrell,D.J. and Day,J.J.
+  TITLE     Testing the performance of environmental DNA metabarcoding for
+            surveying highly diverse tropical fish communities: A case study
+            from Lake Tanganyika
+  JOURNAL   Mutat. Res. (2019) In press
+  REMARK    Publication Status: Available-Online prior to print
+            DOI: 10.1002/edn3.43
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Doble,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (04-AUG-2019) Genetics, Evolution and Environment,
+            University College London, Gower Street, London WC1E 6BT, UK
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Clarias sp. CD-2019"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:2676019"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 c
+//
+
+LOCUS       MN255575                   1 bp    DNA     linear   VRT 26-NOV-2019
+DEFINITION  Clarias theodorae 12S ribosomal RNA gene, partial sequence;
+            mitochondrial.
+ACCESSION   MN255575 REGION: 1
+VERSION     MN255575.1
+KEYWORDS    .
+SOURCE      mitochondrion Clarias theodorae
+  ORGANISM  Clarias theodorae
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi; Siluriformes;
+            Clariidae; Clarias.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Doble,C.J., Hipperson,H., Salzburger,W., Horsburgh,G.J., Mwita,C.,
+            Murrell,D.J. and Day,J.J.
+  TITLE     Testing the performance of environmental DNA metabarcoding for
+            surveying highly diverse tropical fish communities: A case study
+            from Lake Tanganyika
+  JOURNAL   Mutat. Res. (2019) In press
+  REMARK    Publication Status: Available-Online prior to print
+            DOI: 10.1002/edn3.43
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Doble,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (04-AUG-2019) Genetics, Evolution and Environment,
+            University College London, Gower Street, London WC1E 6BT, UK
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Clarias theodorae"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:310927"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       MN255617                   1 bp    DNA     linear   VRT 26-NOV-2019
+DEFINITION  Oreochromis malagarasi 12S ribosomal RNA gene, partial sequence;
+            mitochondrial.
+ACCESSION   MN255617 REGION: 1
+VERSION     MN255617.1
+KEYWORDS    .
+SOURCE      mitochondrion Oreochromis malagarasi
+  ORGANISM  Oreochromis malagarasi
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Ovalentaria; Cichlomorphae; Cichliformes;
+            Cichlidae; African cichlids; Pseudocrenilabrinae; Oreochromini;
+            Oreochromis.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Doble,C.J., Hipperson,H., Salzburger,W., Horsburgh,G.J., Mwita,C.,
+            Murrell,D.J. and Day,J.J.
+  TITLE     Testing the performance of environmental DNA metabarcoding for
+            surveying highly diverse tropical fish communities: A case study
+            from Lake Tanganyika
+  JOURNAL   Mutat. Res. (2019) In press
+  REMARK    Publication Status: Available-Online prior to print
+            DOI: 10.1002/edn3.43
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Doble,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (04-AUG-2019) Genetics, Evolution and Environment,
+            University College London, Gower Street, London WC1E 6BT, UK
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oreochromis malagarasi"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:64543"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 c
+//
+
+LOCUS       MN255618                   1 bp    DNA     linear   VRT 26-NOV-2019
+DEFINITION  Oreochromis niloticus 12S ribosomal RNA gene, partial sequence;
+            mitochondrial.
+ACCESSION   MN255618 REGION: 1
+VERSION     MN255618.1
+KEYWORDS    .
+SOURCE      mitochondrion Oreochromis niloticus (Nile tilapia)
+  ORGANISM  Oreochromis niloticus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Ovalentaria; Cichlomorphae; Cichliformes;
+            Cichlidae; African cichlids; Pseudocrenilabrinae; Oreochromini;
+            Oreochromis.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Doble,C.J., Hipperson,H., Salzburger,W., Horsburgh,G.J., Mwita,C.,
+            Murrell,D.J. and Day,J.J.
+  TITLE     Testing the performance of environmental DNA metabarcoding for
+            surveying highly diverse tropical fish communities: A case study
+            from Lake Tanganyika
+  JOURNAL   Mutat. Res. (2019) In press
+  REMARK    Publication Status: Available-Online prior to print
+            DOI: 10.1002/edn3.43
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Doble,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (04-AUG-2019) Genetics, Evolution and Environment,
+            University College London, Gower Street, London WC1E 6BT, UK
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oreochromis niloticus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8128"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 c
+//
+
+LOCUS       MN255619                   1 bp    DNA     linear   VRT 26-NOV-2019
+DEFINITION  Oreochromis tanganicae 12S ribosomal RNA gene, partial sequence;
+            mitochondrial.
+ACCESSION   MN255619 REGION: 1
+VERSION     MN255619.1
+KEYWORDS    .
+SOURCE      mitochondrion Oreochromis tanganicae
+  ORGANISM  Oreochromis tanganicae
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Ovalentaria; Cichlomorphae; Cichliformes;
+            Cichlidae; African cichlids; Pseudocrenilabrinae; Oreochromini;
+            Oreochromis.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Doble,C.J., Hipperson,H., Salzburger,W., Horsburgh,G.J., Mwita,C.,
+            Murrell,D.J. and Day,J.J.
+  TITLE     Testing the performance of environmental DNA metabarcoding for
+            surveying highly diverse tropical fish communities: A case study
+            from Lake Tanganyika
+  JOURNAL   Mutat. Res. (2019) In press
+  REMARK    Publication Status: Available-Online prior to print
+            DOI: 10.1002/edn3.43
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Doble,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (04-AUG-2019) Genetics, Evolution and Environment,
+            University College London, Gower Street, London WC1E 6BT, UK
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oreochromis tanganicae"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8142"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 c
+//
+
+LOCUS       MN365243                   1 bp    DNA     linear   VRT 24-MAR-2020
+DEFINITION  Glossogobius giuris isolate BF05 12S ribosomal RNA gene, partial
+            sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA
+            gene, partial sequence; mitochondrial.
+ACCESSION   MN365243 REGION: 1
+VERSION     MN365243.1
+KEYWORDS    .
+SOURCE      mitochondrion Glossogobius giuris
+  ORGANISM  Glossogobius giuris
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Gobiaria; Gobiiformes; Gobioidei; Gobiidae;
+            Gobiinae; Glossogobius.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Alam,M.J., Eunus,A., Andriyono,S. and Kim,H.-W.
+  TITLE     Molecular identification of fish species from the Southern part of
+            Bangladesh
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Alam,M.J., Eunus,A., Andriyono,S. and Kim,H.-W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (22-AUG-2019) Interdisciplinary Program of Biomedical,
+            Mechanical and Electrical Engineering, Pukyong National University,
+            Yongso-Ro, 45, Namgu 3 Dong, Busan 48513, Republic of Korea
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Geneious v. 11.0.2
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Glossogobius giuris"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="BF05"
+                     /db_xref="taxon:3412538"
+                     /geo_loc_name="Bangladesh"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 t
+//
+
+LOCUS       MN365258                   1 bp    DNA     linear   VRT 24-MAR-2020
+DEFINITION  Clarias batrachus isolate BF23 12S ribosomal RNA gene, partial
+            sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA
+            gene, partial sequence; mitochondrial.
+ACCESSION   MN365258 REGION: 1
+VERSION     MN365258.1
+KEYWORDS    .
+SOURCE      mitochondrion Clarias batrachus (walking catfish)
+  ORGANISM  Clarias batrachus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi; Siluriformes;
+            Clariidae; Clarias.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Alam,M.J., Eunus,A., Andriyono,S. and Kim,H.-W.
+  TITLE     Molecular identification of fish species from the Southern part of
+            Bangladesh
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Alam,M.J., Eunus,A., Andriyono,S. and Kim,H.-W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (22-AUG-2019) Interdisciplinary Program of Biomedical,
+            Mechanical and Electrical Engineering, Pukyong National University,
+            Yongso-Ro, 45, Namgu 3 Dong, Busan 48513, Republic of Korea
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Geneious v. 11.0.2
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Clarias batrachus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="BF23"
+                     /db_xref="taxon:59899"
+                     /geo_loc_name="Bangladesh"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 c
+//
+
+LOCUS       MN365269                   1 bp    DNA     linear   VRT 24-MAR-2020
+DEFINITION  Channa punctata isolate BF34 12S ribosomal RNA gene, partial
+            sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA
+            gene, partial sequence; mitochondrial.
+ACCESSION   MN365269 REGION: 1
+VERSION     MN365269.1
+KEYWORDS    .
+SOURCE      mitochondrion Channa punctata (spotted snakehead)
+  ORGANISM  Channa punctata
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Anabantaria; Anabantiformes; Channoidei;
+            Channidae; Channa.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Alam,M.J., Eunus,A., Andriyono,S. and Kim,H.-W.
+  TITLE     Molecular identification of fish species from the Southern part of
+            Bangladesh
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Alam,M.J., Eunus,A., Andriyono,S. and Kim,H.-W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (22-AUG-2019) Interdisciplinary Program of Biomedical,
+            Mechanical and Electrical Engineering, Pukyong National University,
+            Yongso-Ro, 45, Namgu 3 Dong, Busan 48513, Republic of Korea
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Geneious v. 11.0.2
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Channa punctata"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="BF34"
+                     /db_xref="taxon:304456"
+                     /geo_loc_name="Bangladesh"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 c
+//
+
+LOCUS       MN380040                   1 bp    DNA     linear   VRT 24-MAR-2020
+DEFINITION  Channa punctata isolate BD01 12S ribosomal RNA gene, partial
+            sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA
+            gene, partial sequence; mitochondrial.
+ACCESSION   MN380040 REGION: 1
+VERSION     MN380040.1
+KEYWORDS    .
+SOURCE      mitochondrion Channa punctata (spotted snakehead)
+  ORGANISM  Channa punctata
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Anabantaria; Anabantiformes; Channoidei;
+            Channidae; Channa.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Alam,M.J., Eunus,A., Andriyono,S. and Kim,H.-W.
+  TITLE     Molecular identification and phylogenic reconstruction of
+            freshwater fish species from the southern part of Bangladesh
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Alam,M.J., Eunus,A., Andriyono,S. and Kim,H.-W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (26-AUG-2019) Interdisciplinary Program of Biomedical,
+            Mechanical and Electrical Engineering, Pukyong National University,
+            Yongso-Ro, 45, Namgu 3 Dong, Busan 48513, Republic of Korea
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Geneious v. 11.0.2
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Channa punctata"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="BD01"
+                     /db_xref="taxon:304456"
+                     /geo_loc_name="Bangladesh"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 c
+//
+
+LOCUS       MN380041                   1 bp    DNA     linear   VRT 24-MAR-2020
+DEFINITION  Channa striata isolate BD02 12S ribosomal RNA gene, partial
+            sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA
+            gene, partial sequence; mitochondrial.
+ACCESSION   MN380041 REGION: 1
+VERSION     MN380041.1
+KEYWORDS    .
+SOURCE      mitochondrion Channa striata (snakehead murrel)
+  ORGANISM  Channa striata
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Anabantaria; Anabantiformes; Channoidei;
+            Channidae; Channa.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Alam,M.J., Eunus,A., Andriyono,S. and Kim,H.-W.
+  TITLE     Molecular identification and phylogenic reconstruction of
+            freshwater fish species from the southern part of Bangladesh
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Alam,M.J., Eunus,A., Andriyono,S. and Kim,H.-W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (26-AUG-2019) Interdisciplinary Program of Biomedical,
+            Mechanical and Electrical Engineering, Pukyong National University,
+            Yongso-Ro, 45, Namgu 3 Dong, Busan 48513, Republic of Korea
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Geneious v. 11.0.2
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Channa striata"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="BD02"
+                     /db_xref="taxon:64152"
+                     /geo_loc_name="Bangladesh"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 t
+//
+
+LOCUS       MN544290                   1 bp    DNA     linear   VRT 03-JUL-2021
+DEFINITION  Cyprinus carpio mitochondrion, complete genome.
+ACCESSION   MN544290 REGION: 1
+VERSION     MN544290.1
+KEYWORDS    .
+SOURCE      mitochondrion Cyprinus carpio (common carp)
+  ORGANISM  Cyprinus carpio
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Cyprinidae; Cyprininae; Cyprinus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Xiong,G., Wang,X.Q., Chen,Z.L. and Zhuo,X.W.
+  TITLE     Complete mitochondrial DNA sequence of the Xiangxi wild strain of
+            common carp (Cyprinus carpio)
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Xiong,G., Wang,X.Q., Chen,Z.L. and Zhuo,X.W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-OCT-2019) Hunan Agriculture University, Hunan
+            Biological and Electromechanical Polytechnic, Furong district
+            Renmin road, Changsha, Hunan 410127, China
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: SPAdes v3.11.1 v.
+                                     http://cab.spbu.ru/software/spades/
+            Sequencing Technology :: Illumina
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Cyprinus carpio"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:7962"
+     gene            >1
+                     /gene="ND4"
+     CDS             >1
+                     /gene="ND4"
+                     /note="TAA stop codon is completed by the addition of 3' A
+                     residues to the mRNA"
+                     /codon_start=2
+                     /transl_except=(pos:683,aa:TERM)
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 4"
+                     /protein_id="QWZ47770.1"
+                     /translation="MLKVLIPTIMLFPTIWLTSPKWLWTTTTAHSLLIASISLTWLKW
+                     TSETGWTSSNMYLATDPLSTPLLVLTCWLLPLMILASQNHINPEPISRQRLYITLLAS
+                     LQTFLIMAFGATEIIMFYIMFEATLIPTLIIITRWGNQTERLNAGTYFLFYTLAGSLP
+                     LLVALLLLQQSTGTLSMLVLQYSQPLQLNSWGHMFWWAGCLIAFLVKMPLYGVHLWLP
+                     KAHVEAPVAGSMVLAAVLLKLGGYGMMRMMVMLDPLSKELAYPFIILALWGIIMTGSI
+                     CLRQTDLKSLIAYSSVSHMGLVAGGILIQTPWGFSGAIILMIAHGLVSSALFCLANTA
+                     YERTHSRTMILARGLQVIFPLTAVWWFIANLANLALPPLPNLMGELMIITTLFNWSPW
+                     TILLTGLGTLITAGYSLYMFLMSQRGPTPNHIMGLQPFHTREHLLMTLHLIPVILLVT
+                     KPELMWGWCY"
+ORIGIN      
+        1 a
+//
+
+LOCUS       MN718675                   1 bp    DNA     linear   VRT 02-FEB-2022
+DEFINITION  Cyprinus pellegrini mitochondrion, complete genome.
+ACCESSION   MN718675 REGION: 1
+VERSION     MN718675.1
+KEYWORDS    .
+SOURCE      mitochondrion Cyprinus pellegrini
+  ORGANISM  Cyprinus pellegrini
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Cyprinidae; Cyprininae; Cyprinus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Cheng,L.
+  TITLE     The complete mitogenome of the barbless carp (Cyprinus pellegrini)
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Cheng,L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-NOV-2019) Key Laboratory of Freshwater Aquatic
+            Biotechnology and Breeding, Heilongjiang River Fisheries Research
+            Institute, Chinese Academy of Fishery Sciences, No. 43 Songfa Road,
+            Daoli District, Harbin, Heilongjiang 150070, China
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: ContigExpress v. June 20, 2000
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Cyprinus pellegrini"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:1221223"
+     tRNA            >1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       MN781664                   1 bp    DNA     linear   VRT 10-FEB-2021
+DEFINITION  Channa argus mitochondrion, complete genome.
+ACCESSION   MN781664 REGION: 1
+VERSION     MN781664.1
+KEYWORDS    .
+SOURCE      mitochondrion Channa argus (northern snakehead)
+  ORGANISM  Channa argus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Anabantaria; Anabantiformes; Channoidei;
+            Channidae; Channa.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Liu,M., Yin,J., Han,J., Ren,J. and Yang,S.
+  TITLE     Channa argus BMH from Baima Hu Lake: sequencing and phylogenetic
+            analysis of the mitochondrial genome
+  JOURNAL   Mitochondrial DNA B Resour 5 (3), 2413-2415 (2020)
+   PUBMED   33457809
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Yang,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (01-DEC-2019) College of Life Sciences, Shaoxing
+            Universiy, No. 900, Chengnan Road, Shaoxing, Zhejiang 312000, China
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Channa argus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:215402"
+     tRNA            >1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       MN832874                   1 bp    DNA     linear   VRT 08-MAY-2021
+DEFINITION  Oryzias uwai mitochondrion, complete genome.
+ACCESSION   MN832874 REGION: 1
+VERSION     MN832874.1
+KEYWORDS    .
+SOURCE      mitochondrion Oryzias uwai
+  ORGANISM  Oryzias uwai
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Ovalentaria; Atherinomorphae; Beloniformes;
+            Adrianichthyidae; Oryziinae; Oryzias.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Ngamniyom,A.
+  TITLE     Mitochondrial sequence data of Oryzias uwai (Beloniformes)
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Ngamniyom,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-DEC-2019) Faculty of Environmental Culture and
+            Ecotourism, Srinakharinwirot University, 114 Sukhumvit 23, Bangkok,
+            Bangkok 10110, Thailand
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oryzias uwai"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:1907133"
+     tRNA            >1
+                     /product="tRNA-Phe"
+                     /note="codon recognized: UUC"
+ORIGIN      
+        1 g
+//
+
+LOCUS       MN844123                   1 bp    DNA     linear   VRT 23-DEC-2019
+DEFINITION  Anguilla anguilla isolate ID60 small subunit ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   MN844123 REGION: 1
+VERSION     MN844123.1
+KEYWORDS    .
+SOURCE      mitochondrion Anguilla anguilla (European eel)
+  ORGANISM  Anguilla anguilla
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Anguilliformes;
+            Anguillidae; Anguilla.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   van Bleijswijk,J., Engelmann,J.C., Klunder,L., Witte,H., Witte,J.
+            and van der Veer,H.W.
+  TITLE     Analysis of a coastal North Sea fish community: comparison of
+            aquatic environmental DNA concentrations to fish catches
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   van Bleijswijk,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-DEC-2019) MMB, Royal NIOZ, Landsdiep 4, Den Hoorn,
+            Nederland 1797 SZ, Netherlands
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Anguilla anguilla"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="ID60"
+                     /isolation_source="fish specimen fyke net catch"
+                     /db_xref="taxon:7936"
+                     /geo_loc_name="Netherlands"
+                     /lat_lon="53.00 N 4.77 E"
+                     /PCR_primers="fwd_name: 12S-F1nioz, fwd_seq:
+                     aactgggattagataccc, rev_name: 12S-R1, rev_seq:
+                     tagaacaggctcctctag"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 a
+//
+
+LOCUS       MT080709                   1 bp    DNA     linear   VRT 24-FEB-2020
+DEFINITION  Pterygoplichthys pardalis isolate LEEM15 small subunit ribosomal
+            RNA gene, partial sequence; mitochondrial.
+ACCESSION   MT080709 REGION: 1
+VERSION     MT080709.1
+KEYWORDS    .
+SOURCE      mitochondrion Pterygoplichthys pardalis (Amazon sailfin catfish)
+  ORGANISM  Pterygoplichthys pardalis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi; Siluriformes;
+            Loricariidae; Hypostominae; Pterygoplichthys.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Batista,L.M.
+  TITLE     Reference DNA database (12S rRNA gene) amazon fish
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Batista,L.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (17-FEB-2020) 76696977, 73788065,
+            6586466578688269658265857479, Manaus, Amazonas 478, Brazil
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Pterygoplichthys pardalis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="LEEM15"
+                     /db_xref="taxon:103477"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 c
+//
+
+LOCUS       MT109097                   1 bp    DNA     linear   VRT 08-MAR-2020
+DEFINITION  Clarias macrocephalus isolate CM001 mitochondrion, complete genome.
+ACCESSION   MT109097 REGION: 1
+VERSION     MT109097.1
+KEYWORDS    .
+SOURCE      mitochondrion Clarias macrocephalus (bighead catfish)
+  ORGANISM  Clarias macrocephalus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi; Siluriformes;
+            Clariidae; Clarias.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Tan,M.H., Duong,Y.T., Lee,Y.P., Croft,L.J. and Austin,C.M.
+  TITLE     Complete mitochondrial genome of Clarias macrocephalus
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Tan,M.H., Duong,Y.T., Lee,Y.P., Croft,L.J. and Austin,C.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-FEB-2020) Life and Environmental Sciences, Deakin
+            University, 75 Pigdons Rd, Waurn Ponds, Victoria 3216, Australia
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: IDBA_UD v. 1.1.1
+            Sequencing Technology :: Illumina
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Clarias macrocephalus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="CM001"
+                     /db_xref="taxon:35657"
+                     /geo_loc_name="Viet Nam: Ca Mau province"
+                     /collection_date="Mar-2019"
+                     /collected_by="Duong Thuy Yen"
+     gene            >1
+                     /gene="trnF(gaa)"
+     tRNA            >1
+                     /gene="trnF(gaa)"
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       MT127789                   1 bp    DNA     linear   VRT 08-MAY-2021
+DEFINITION  Oryzias minutillus mitochondrion, complete genome.
+ACCESSION   MT127789 REGION: 1
+VERSION     MT127789.1
+KEYWORDS    .
+SOURCE      mitochondrion Oryzias minutillus (dwarf medaka)
+  ORGANISM  Oryzias minutillus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Ovalentaria; Atherinomorphae; Beloniformes;
+            Adrianichthyidae; Oryziinae; Oryzias.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Ngamniyom,A.
+  TITLE     Bioinformatics of Thai ricefish (Oryzias minutillus) from Mae Hong
+            Son Province of north-west Thailand
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Ngamniyom,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (01-MAR-2020) Faculty of Environmental Culture and
+            Ecotourism, Srinakharinwirot University, 114 Sukhumvit 23, Bangkok,
+            Bangkok 10110, Thailand
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oryzias minutillus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:123685"
+     tRNA            >1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       MT437356                   1 bp    DNA     linear   VRT 12-JAN-2022
+DEFINITION  Oreochromis niloticus mitochondrion, complete genome.
+ACCESSION   MT437356 REGION: 1
+VERSION     MT437356.1
+KEYWORDS    .
+SOURCE      mitochondrion Oreochromis niloticus (Nile tilapia)
+  ORGANISM  Oreochromis niloticus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Ovalentaria; Cichlomorphae; Cichliformes;
+            Cichlidae; African cichlids; Pseudocrenilabrinae; Oreochromini;
+            Oreochromis.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Zhou,Q.
+  TITLE     Complete mitochondrial genome of the hybrid of Oreochromis
+            niloticus (male) x Oreochromis aureus (female)
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Zhou,Q.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-MAY-2020) Guangxi Key Laboratory of Aquatic Genetic
+            Breeding and Healthy Breeding, Guangxi Fishery Research Institute,
+            No. 8, Qingshan Road, Qingxiu District, Nanning, Guangxi 530022,
+            China
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: ChomasPro v. 2.1.3
+            Assembly Name         :: Tilapia mitochondrial genome
+            Coverage              :: 1x
+            Sequencing Technology :: Illumina
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oreochromis niloticus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8128"
+                     /collection_date="2018-11-08"
+     gene            >1
+                     /gene="trnF(gaa)"
+     tRNA            >1
+                     /gene="trnF(gaa)"
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       MT656123                   1 bp    DNA     linear   VRT 28-JUN-2020
+DEFINITION  Amphilophus labiatus voucher PH_ref-50 small subunit ribosomal RNA
+            gene, partial sequence; mitochondrial.
+ACCESSION   MT656123 REGION: 1
+VERSION     MT656123.1
+KEYWORDS    .
+SOURCE      mitochondrion Amphilophus labiatus (red devil)
+  ORGANISM  Amphilophus labiatus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Ovalentaria; Cichlomorphae; Cichliformes;
+            Cichlidae; New World cichlids; Cichlasomatinae; Heroini;
+            Amphilophus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Renshaw,M., Gonzalez,A., Higashi,G., Hazama,N. and Tsang,Y.-P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (22-JUN-2020) Shrimp, Oceanic Institute of Hawaii Pacific
+            University, 41-202 Kalanianaole Hwy, Waimanalo, HI 96795, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Amphilophus labiatus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="PH_ref-50"
+                     /db_xref="taxon:61820"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 a
+//
+
+LOCUS       MT656153                   1 bp    DNA     linear   VRT 28-JUN-2020
+DEFINITION  Poecilia sp. MR-2020 voucher PH_ref-11 small subunit ribosomal RNA
+            gene, partial sequence; mitochondrial.
+ACCESSION   MT656153 REGION: 1
+VERSION     MT656153.1
+KEYWORDS    .
+SOURCE      mitochondrion Poecilia sp. MR-2020
+  ORGANISM  Poecilia sp. MR-2020
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Ovalentaria; Atherinomorphae; Cyprinodontiformes;
+            Poeciliidae; Poeciliinae; Poecilia.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Renshaw,M., Gonzalez,A., Higashi,G., Hazama,N. and Tsang,Y.-P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (22-JUN-2020) Shrimp, Oceanic Institute of Hawaii Pacific
+            University, 41-202 Kalanianaole Hwy, Waimanalo, HI 96795, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Poecilia sp. MR-2020"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="PH_ref-11"
+                     /db_xref="taxon:2747778"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 a
+//
+
+LOCUS       MT780875                   1 bp    DNA     linear   VRT 15-SEP-2020
+DEFINITION  Cyprinus carpio var. baisenensis mitochondrion, complete genome.
+ACCESSION   MT780875 REGION: 1
+VERSION     MT780875.1
+KEYWORDS    .
+SOURCE      mitochondrion Cyprinus carpio var. baisenensis
+  ORGANISM  Cyprinus carpio var. baisenensis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Cyprinidae; Cyprininae; Cyprinus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Wang,P., Su,S. and Liao,Y.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-JUL-2020) fish genetic, freshwater fishery research
+            center, shan shui east No. 9, wuxi, jiangsu 214081, China
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: GetOrganelle v. 1
+            Sequencing Technology :: Illumina
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Cyprinus carpio var. baisenensis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:2772295"
+     gene            >1
+                     /gene="trnF(gaa)"
+     tRNA            >1
+                     /gene="trnF(gaa)"
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       MW363846                   1 bp    DNA     linear   VRT 19-DEC-2020
+DEFINITION  Piaractus mesopotamicus strain RDB9438 small subunit ribosomal RNA
+            gene, partial sequence; mitochondrial.
+ACCESSION   MW363846 REGION: 1
+VERSION     MW363846.1
+KEYWORDS    .
+SOURCE      mitochondrion Piaractus mesopotamicus (pacu)
+  ORGANISM  Piaractus mesopotamicus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Characiformes; Characoidei; Piaractus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Santos,C.H.A., Sa-Leitao,C.S. and Val,A.L.
+  TITLE     New PCR primers and DNA database for Neotropical fish species of
+            the Rio Doce Basin
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Santos,C.H.A., Sa-Leitao,C.S. and Val,A.L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-DEC-2020) Laboratory of Ecophysiology and Molecular
+            Evolution, Brazilian National Institute for Research of the Amazon,
+            Andre Araujo Avenue, Manaus, Amazonas 69060-001, Brazil
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Piaractus mesopotamicus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /strain="RDB9438"
+                     /db_xref="taxon:42528"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       MW363857                   1 bp    DNA     linear   VRT 19-DEC-2020
+DEFINITION  Cichlasoma sanctifranciscense strain RDB12235 small subunit
+            ribosomal RNA gene, partial sequence; mitochondrial.
+ACCESSION   MW363857 REGION: 1
+VERSION     MW363857.1
+KEYWORDS    .
+SOURCE      mitochondrion Cichlasoma sanctifranciscense
+  ORGANISM  Cichlasoma sanctifranciscense
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Ovalentaria; Cichlomorphae; Cichliformes;
+            Cichlidae; New World cichlids; Cichlasomatinae; Cichlasomatini;
+            Cichlasoma.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Santos,C.H.A., Sa-Leitao,C.S. and Val,A.L.
+  TITLE     New PCR primers and DNA database for Neotropical fish species of
+            the Rio Doce Basin
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Santos,C.H.A., Sa-Leitao,C.S. and Val,A.L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-DEC-2020) Laboratory of Ecophysiology and Molecular
+            Evolution, Brazilian National Institute for Research of the Amazon,
+            Andre Araujo Avenue, Manaus, Amazonas 69060-001, Brazil
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Cichlasoma sanctifranciscense"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /strain="RDB12235"
+                     /db_xref="taxon:2032717"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       MW363860                   1 bp    DNA     linear   VRT 19-DEC-2020
+DEFINITION  Oreochromis niloticus strain RDB3208 small subunit ribosomal RNA
+            gene, partial sequence; mitochondrial.
+ACCESSION   MW363860 REGION: 1
+VERSION     MW363860.1
+KEYWORDS    .
+SOURCE      mitochondrion Oreochromis niloticus (Nile tilapia)
+  ORGANISM  Oreochromis niloticus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Ovalentaria; Cichlomorphae; Cichliformes;
+            Cichlidae; African cichlids; Pseudocrenilabrinae; Oreochromini;
+            Oreochromis.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Santos,C.H.A., Sa-Leitao,C.S. and Val,A.L.
+  TITLE     New PCR primers and DNA database for Neotropical fish species of
+            the Rio Doce Basin
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Santos,C.H.A., Sa-Leitao,C.S. and Val,A.L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-DEC-2020) Laboratory of Ecophysiology and Molecular
+            Evolution, Brazilian National Institute for Research of the Amazon,
+            Andre Araujo Avenue, Manaus, Amazonas 69060-001, Brazil
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oreochromis niloticus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /strain="RDB3208"
+                     /db_xref="taxon:8128"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       MW363867                   1 bp    DNA     linear   VRT 19-DEC-2020
+DEFINITION  Clarias gariepinus strain RDB9479 small subunit ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   MW363867 REGION: 1
+VERSION     MW363867.1
+KEYWORDS    .
+SOURCE      mitochondrion Clarias gariepinus (North African catfish)
+  ORGANISM  Clarias gariepinus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi; Siluriformes;
+            Clariidae; Clarias.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Santos,C.H.A., Sa-Leitao,C.S. and Val,A.L.
+  TITLE     New PCR primers and DNA database for Neotropical fish species of
+            the Rio Doce Basin
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Santos,C.H.A., Sa-Leitao,C.S. and Val,A.L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-DEC-2020) Laboratory of Ecophysiology and Molecular
+            Evolution, Brazilian National Institute for Research of the Amazon,
+            Andre Araujo Avenue, Manaus, Amazonas 69060-001, Brazil
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Clarias gariepinus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /strain="RDB9479"
+                     /db_xref="taxon:13013"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 c
+//
+
