@@ -449,10 +449,10 @@ def _qualifiers(text: str) -> dict[str, str]:
     }
 
 
-def _malili_metadata() -> dict[str, dict]:
+def _genbank_metadata(base: Path) -> dict[str, dict]:
     """esummary (semua aksesi) + header flat file (aksesi yang esummary-nya kurang)."""
     meta: dict[str, dict] = {}
-    for path in sorted((MALILI_RAW / "genbank").glob("esummary_*.json")):
+    for path in sorted((base / "genbank").glob("esummary_*.json")):
         result = json.loads(path.read_text(encoding="utf-8"))["result"]
         for uid in result["uids"]:
             doc = result[uid]
@@ -465,7 +465,7 @@ def _malili_metadata() -> dict[str, dict]:
                 "country": q.get("country") or q.get("geo_loc_name") or "",
                 "journals": [],
             }
-    for path in sorted((MALILI_RAW / "genbank_flat").glob("headers_*.gb")):
+    for path in sorted((base / "genbank_flat").glob("headers_*.gb")):
         for record in path.read_text(encoding="utf-8").split("\n//"):
             found = re.search(r"^ACCESSION\s+(\S+)", record, re.M)
             if not found:
@@ -492,6 +492,66 @@ def _source_ids(text: str) -> list[str]:
     return sorted({sid for pattern, sid in SOURCE_PATTERNS if pattern in text})
 
 
+def _mitohelper() -> tuple[dict[str, str], dict[str, dict[str, str]]]:
+    """Sekuens dan taksonomi (o/f/g/s) dari arsip mitohelper 12S Juli 2026 di raw/."""
+    qza = MALILI_RAW / "mitohelper/QIIME-compatible"
+    seqs = _parse_fasta(_zip_text(qza / "12S-seqs-derep-uniq.qza", "dna-sequences.fasta"))
+    tax = {}
+    for line in _zip_text(qza / "12S-tax-derep-uniq.qza", "taxonomy.tsv").splitlines()[1:]:
+        acc, lineage = line.split("\t")[:2]
+        tax[acc] = dict(p.split("__", 1) for p in lineage.split(";") if "__" in p)
+    return seqs, tax
+
+
+def _genbank_row(
+    acc: str, organism: str, sequence: str, info: dict, report: list[dict]
+) -> dict | None:
+    """Baris sequences dari metadata GenBank; V2 bila voucher, V3 bila terbit, selain itu ditolak.
+
+    Aksesi tanpa voucher dan tanpa REFERENCE terbit dicatat di report (no_voucher), karena enum
+    voucher_level tidak punya nilai yang benar untuk kasus itu.
+    """
+    if info.get("voucher"):
+        level = "V2"
+    elif _published(info.get("journals", [])):
+        level = "V3"
+    else:
+        report.append(
+            {
+                "seq_id": acc,
+                "accession": acc,
+                "step": "R-CUR-01",
+                "result": "rejected",
+                "reason": "no_voucher",
+            }
+        )
+        return None
+    head, _, tail = info.get("country", "").partition(":")
+    return {
+        "seq_id": acc,
+        "accession": acc,
+        "source_db": "genbank",
+        "source_id": "SRC_MITOHELPER2026",
+        "species_original": organism,
+        "species_valid": organism,
+        "marker": "mitogenome" if len(sequence) > 10000 else "12S_other",
+        "region_trimmed": False,
+        "length": len(sequence) or 1,
+        "n_ambiguous": sum(c not in "ACGT" for c in sequence),
+        "voucher_level": level,
+        "voucher_catalog": info.get("voucher", ""),
+        "voucher_institution": "",
+        "specimen_country": "ID" if head.strip() == "Indonesia" else head.strip(),
+        "specimen_locality": tail.strip(),
+        "curation_status": "accepted",
+        "flags": "",
+        "license": GENBANK_LICENSE,
+        "date_added": V03_DATE,
+        "curator": V03_CURATOR,
+        "is_simulated": False,
+    }
+
+
 def prepare_indonesia_v03() -> Path:
     """v0.2 + data repo Bagus (docs/13 langkah 4, D-034) [MVP].
 
@@ -516,14 +576,8 @@ def prepare_indonesia_v03() -> Path:
     candidate_rows = list(
         csv.DictReader(io.StringIO(_zip_text(candidates_zip, "_kandidat_taksonomi.csv")))
     )
-    qza = MALILI_RAW / "mitohelper/QIIME-compatible"
-    mito_seqs = _parse_fasta(_zip_text(qza / "12S-seqs-derep-uniq.qza", "dna-sequences.fasta"))
-    mito_tax = {}
-    for line in _zip_text(qza / "12S-tax-derep-uniq.qza", "taxonomy.tsv").splitlines()[1:]:
-        acc, lineage = line.split("\t")[:2]
-        ranks = dict(p.split("__", 1) for p in lineage.split(";") if "__" in p)
-        mito_tax[acc] = ranks
-    meta = _malili_metadata()
+    mito_seqs, mito_tax = _mitohelper()
+    meta = _genbank_metadata(MALILI_RAW)
 
     # taxa: hanya nama binomial; in_indonesia dari sumber yang tercatat
     team_names = {r["spesies"]: r for r in team_checklist if _binomial(r["spesies"])}
@@ -569,49 +623,10 @@ def prepare_indonesia_v03() -> Path:
         ranks = mito_tax.get(acc, {})
         same_genus = ranks.get("g") == organism.split()[0]
         add_taxon(organism, ranks.get("f", "") if same_genus else "", ranks.get("o", ""))
-        if info.get("voucher"):
-            level = "V2"
-        elif _published(info.get("journals", [])):
-            level = "V3"
-        else:
-            report.append(
-                {
-                    "seq_id": acc,
-                    "accession": acc,
-                    "step": "R-CUR-01",
-                    "result": "rejected",
-                    "reason": "no_voucher",
-                }
-            )
-            continue
-        country = info.get("country", "")
-        head, _, tail = country.partition(":")
-        rows.append(
-            {
-                "seq_id": acc,
-                "accession": acc,
-                "source_db": "genbank",
-                "source_id": "SRC_MITOHELPER2026",
-                "species_original": organism,
-                "species_valid": organism,
-                "marker": "mitogenome" if len(sequence) > 10000 else "12S_other",
-                "region_trimmed": False,
-                "length": len(sequence) or 1,
-                "n_ambiguous": sum(c not in "ACGT" for c in sequence),
-                "voucher_level": level,
-                "voucher_catalog": info.get("voucher", ""),
-                "voucher_institution": "",
-                "specimen_country": "ID" if head.strip() == "Indonesia" else head.strip(),
-                "specimen_locality": tail.strip(),
-                "curation_status": "accepted",
-                "flags": "",
-                "license": GENBANK_LICENSE,
-                "date_added": V03_DATE,
-                "curator": V03_CURATOR,
-                "is_simulated": False,
-            }
-        )
-        fasta[acc] = sequence
+        row = _genbank_row(acc, organism, sequence, info, report)
+        if row:
+            rows.append(row)
+            fasta[acc] = sequence
     for name in team_names:
         add_taxon(name)
 
@@ -724,6 +739,134 @@ def prepare_indonesia_v03() -> Path:
 
 
 TABLES_V02 = ["taxa", "waterbodies", "checklist", "introductions", "complexes", "sources"]
+LSP_RAW = ROOT / "raw/lsp12s_mitohelper"
+LSP_DATA = ROOT / "data/external/lake_st_pierre/v20250924"
+
+
+def prepare_lake_st_pierre_ref() -> Path:
+    """Kamus 12S Kanada sebagai modul validasi CA-QC (docs/13 §7) [MVP].
+
+    Hanya mode validasi (A4). Spesies dari fish_codes.csv Astorg dkk. 2025; sekuens dari arsip
+    mitohelper; voucher dan negara dari esummary/header GenBank (raw/lsp12s_mitohelper).
+    Aturan voucher dan kurasi sama dengan v0.3; R-CUR-04 tidak berlaku untuk modul luar.
+    """
+    path = ROOT / "data/external/lake_st_pierre/ref12s_v1"
+    if path.exists():
+        raise ValueError("Modul sudah ada; versi tidak ditimpa.")
+    cfg = load_rules()
+    marker = "12S_MiFish_U"
+    region = {
+        f"{r['Genus']} {r['Species']}": r
+        for r in read_table(LSP_DATA / "fish_codes.csv")
+        if _binomial(f"{r['Genus']} {r['Species']}")
+    }
+    mito_seqs, mito_tax = _mitohelper()
+    meta = _genbank_metadata(LSP_RAW)
+    orders = {}
+    for ranks in mito_tax.values():
+        orders.setdefault(ranks.get("s", ""), ranks.get("o", ""))
+    taxa = {
+        name: {
+            "species_valid": name,
+            "genus": r["Genus"],
+            "family": r["Family"],
+            "order": orders.get(name, ""),
+            "authority": "",
+            "synonyms": "",
+            "in_indonesia": False,
+            "cof_checked_date": "",
+            "source_id": "SRC_ASTORG2025",
+        }
+        for name, r in sorted(region.items())
+    }
+    rows, fasta, report = [], {}, []
+    for acc in (LSP_RAW / "accessions.txt").read_text(encoding="utf-8").split():
+        info = meta.get(acc, {})
+        organism = info.get("organism") or mito_tax.get(acc, {}).get("s", "")
+        row = _genbank_row(acc, organism, mito_seqs.get(acc, ""), info, report)
+        if row:
+            rows.append(row)
+            fasta[acc] = mito_seqs.get(acc, "")
+    waterbody = "CA_QC_LSP"
+    sources = read_table(LSP_DATA / "sources.csv") + [
+        s for s in SOURCES_V03 if s["source_id"] in {"SRC_MITOHELPER2026"}
+    ]
+    sources.append(
+        _source(
+            "SRC_GENBANK_LSP",
+            "NCBI GenBank nucleotide: esummary dan header flat file 2026-10-25 untuk aksesi "
+            "mitohelper spesies Lake St. Pierre (raw/lsp12s_mitohelper)",
+            "https://www.ncbi.nlm.nih.gov/nuccore",
+            "database",
+            GENBANK_LICENSE,
+        )
+    )
+    manifest = {"reference_version": "external:CA-QC-v1", "module": "CA-QC", "marker": marker}
+    staging = ReferenceIndex(
+        manifest,
+        {n: Taxon.model_validate(t) for n, t in taxa.items()},
+        [],
+        {},
+        {"sources": sources},
+    )
+    records, seqs, curated = curate_records(rows, fasta, staging, cfg, marker)
+    tables = {
+        "sequences": [r.model_dump() for r in records],
+        "taxa": list(taxa.values()),
+        "waterbodies": [
+            {
+                "waterbody_id": waterbody,
+                "name": "Lac Saint-Pierre (agregasi validasi)",
+                "type": "validation_scope",
+                "country": "CA",
+            }
+        ],
+        "checklist": [
+            {
+                "waterbody_id": waterbody,
+                "species_valid": name,
+                "origin_status": "tercatat_di_studi",
+                "endemic_scope": "",
+                "source_id": "SRC_ASTORG2025",
+                "year_recorded": "",
+                "notes": "fish_codes.csv Astorg dkk. 2025; daftar kode studi, bukan checklist lengkap",
+                "source_quality": "primer",
+            }
+            for name in sorted(region)
+        ],
+        "status": [],
+        "aliases": [],
+        "complexes": [],
+        "introductions": [],
+        "sources": sorted(sources, key=lambda r: r["source_id"]),
+    }
+    index = ReferenceIndex(manifest, staging.taxa, records, seqs, tables)
+    tables["coverage"] = [r.model_dump() for r in coverage(index.select(cfg, "validation", marker))]
+    tables["curation_report"] = sorted(report + curated, key=lambda r: (r["seq_id"], r["step"]))
+    accepted = [r for r in records if r.curation_status == "accepted"]
+    outcome = Counter(
+        (r["result"], r["reason"]) for r in tables["curation_report"] if r["step"] != "R-CUR-07"
+    )
+    notes = "\n".join(
+        [
+            "Modul validasi CA-QC (A4): hanya mode validasi, tidak pernah mendukung nama ikan "
+            "Indonesia. Spesies dari fish_codes.csv Astorg dkk. 2025 (tanpa kerabat luar "
+            "wilayah); sekuens dari arsip mitohelper 12S Juli 2026; voucher/negara dari GenBank. "
+            "Aturan voucher dan kurasi sama dengan v0.3 (D-034). Aturan r0.4 belum dikalibrasi.",
+            "",
+            f"- {len(rows) + sum(1 for r in report)} aksesi; diterima {len(accepted)} sekuens unik "
+            f"dari {len({r.species_valid for r in accepted})} dari {len(region)} spesies wilayah.",
+        ]
+        + [
+            f"- {result} {reason}: {n}"
+            for (result, reason), n in sorted(outcome.items())
+            if result != "accepted" or reason != "passed"
+        ]
+    )
+    write_reference(
+        path, "external:CA-QC-v1", "CA-QC", marker, tables, seqs, notes=notes, created=V03_DATE
+    )
+    return path
 
 
 def _changelog_v03(tables: dict[str, list[dict]]) -> str:
@@ -783,7 +926,8 @@ def _changelog_v03(tables: dict[str, list[dict]]) -> str:
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument(
-        "dataset", choices=["indonesia", "indonesia_v02", "indonesia_v03", "guyana"]
+        "dataset",
+        choices=["indonesia", "indonesia_v02", "indonesia_v03", "guyana", "lake_st_pierre_ref"],
     )
     args = parser.parse_args()
     print(
@@ -792,5 +936,6 @@ if __name__ == "__main__":
             "indonesia_v02": prepare_indonesia_v02,
             "indonesia_v03": prepare_indonesia_v03,
             "guyana": prepare_guyana,
+            "lake_st_pierre_ref": prepare_lake_st_pierre_ref,
         }[args.dataset]()
     )
