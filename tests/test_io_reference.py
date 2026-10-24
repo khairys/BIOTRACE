@@ -205,11 +205,11 @@ def test_R_CUR_10_no_license(ref, cfg):
 
 def test_R_CUR_11_immutable_and_hash_validation(inputs):
     ref_path = inputs / "reference_SIMULASI"
-    before = (ref_path / "manifest.json").read_bytes()
+    before = (ref_path / "manifest_SIMULASI.json").read_bytes()
     with pytest.raises(FileExistsError):
         write_reference(ref_path, "new", "ID", "12S_MiFish_U", {}, {})
-    assert (ref_path / "manifest.json").read_bytes() == before
-    (ref_path / "taxa.csv").write_text("tampered")
+    assert (ref_path / "manifest_SIMULASI.json").read_bytes() == before
+    (ref_path / "taxa_SIMULASI.csv").write_text("tampered")
     with pytest.raises(ValueError, match="Sidik jari"):
         load_reference(ref_path, "simulation")
 

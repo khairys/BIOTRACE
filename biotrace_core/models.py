@@ -221,6 +221,9 @@ class RunSummary(Model):
     duration_seconds: float = 0
     warnings: list[str] = Field(default_factory=list)
     precomputed: bool = False
+    reference_sequences: int = 0
+    reference_species: int = 0
+    reference_by_voucher: dict[str, int] = Field(default_factory=dict)
 
 
 class RunManifest(Model):
@@ -240,6 +243,7 @@ class RunManifest(Model):
     is_simulated: bool
     started_at: str
     finished_at: str
+    result_payload_hash: str = ""
     output_hashes: dict[str, str] = Field(default_factory=dict)
 
 

@@ -100,15 +100,21 @@ class ReferenceIndex:
         )
 
 
+def manifest_path(path: Path) -> Path:
+    simulated = path / "manifest_SIMULASI.json"
+    return simulated if simulated.is_file() else path / "manifest.json"
+
+
 def load_reference(path: Path, mode: Mode = "normal") -> ReferenceIndex:
     """Validate manifest and complete file hashes before consuming reference tables."""
     path = path.resolve()
     if mode == "normal" and "external" in path.parts:
         raise ValueError("Mode normal dilarang membaca data/external/.")
-    manifest = json.loads((path / "manifest.json").read_text(encoding="utf-8"))
+    manifest = json.loads(manifest_path(path).read_text(encoding="utf-8"))
     if mode == "normal" and manifest.get("module") != "ID":
         raise ValueError("Modul luar hanya boleh dimuat pada mode validasi.")
-    expected = {f"{name}.csv" for name in TABLES} | {"sequences.fasta"}
+    suffix = "_SIMULASI" if manifest.get("contains_simulated") and "table_files" in manifest else ""
+    expected = {f"{name}{suffix}.csv" for name in TABLES} | {f"sequences{suffix}.fasta"}
     if expected - manifest.get("files", {}).keys():
         raise ValueError("Manifest tidak mencakup seluruh file kamus wajib.")
     for name, digest in manifest["files"].items():
@@ -116,10 +122,10 @@ def load_reference(path: Path, mode: Mode = "normal") -> ReferenceIndex:
             raise ValueError("Path manifest tidak sah.")
         if hashlib.sha256((path / name).read_bytes()).hexdigest() != digest:
             raise ValueError(f"Sidik jari file kamus tidak cocok: {name}.")
-    tables = {name: read_table(path / f"{name}.csv") for name in TABLES}
+    tables = {name: read_table(path / f"{name}{suffix}.csv") for name in TABLES}
     taxa = {r["species_valid"]: Taxon.model_validate(r) for r in tables["taxa"]}
     seqs = [ReferenceSequence.model_validate(r) for r in tables["sequences"]]
-    fasta = read_fasta(path / "sequences.fasta", "ACGTNRYSWKMBDHV") if seqs else {}
+    fasta = read_fasta(path / f"sequences{suffix}.fasta", "ACGTNRYSWKMBDHV") if seqs else {}
     if len(taxa) != len(tables["taxa"]) or len({r.seq_id for r in seqs}) != len(seqs):
         raise ValueError("ID takson atau sekuens kamus duplikat.")
     for row in seqs:

@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "biotrace-indonesia"
-version = "0.1.0"
+version = "0.1.1"
 description = "Mesin verifikasi pendukung data eDNA berbasis aturan"
 requires-python = ">=3.11,<3.12"
 dependencies = [

@@ -26,11 +26,12 @@ def write_reference(
 ) -> None:
     """R-CUR-11: exclusive directory; never replaces an existing version."""
     path.mkdir(parents=True, exist_ok=False)
+    suffix = "_SIMULASI" if simulated else ""
     for name, rows in sorted(tables.items()):
         fields = list(rows[0]) if rows else ["seq_id"] if name == "sequences" else ["source_id"]
-        write_table(path / f"{name}.csv", rows, fields)
-    write_fasta(path / "sequences.fasta", sequences)
-    (path / "CHANGELOG.md").write_text(f"# {version}\n\n{notes}\n", encoding="utf-8")
+        write_table(path / f"{name}{suffix}.csv", rows, fields)
+    write_fasta(path / f"sequences{suffix}.fasta", sequences)
+    (path / f"CHANGELOG{suffix}.md").write_text(f"# {version}\n\n{notes}\n", encoding="utf-8")
     manifest = {
         "reference_version": version,
         "module": module,
@@ -55,9 +56,10 @@ def write_reference(
             ),
             "waterbodies": len(tables["waterbodies"]),
         },
-        "changelog": "CHANGELOG.md",
+        "changelog": f"CHANGELOG{suffix}.md",
+        "table_files": {name: f"{name}{suffix}.csv" for name in tables},
     }
-    (path / "manifest.json").write_text(
+    (path / f"manifest{suffix}.json").write_text(
         json.dumps(manifest, ensure_ascii=False, sort_keys=True, indent=2) + "\n", encoding="utf-8"
     )
 
@@ -229,6 +231,30 @@ def import_reference(
         raise ValueError("ID sekuens impor sudah ada pada versi sumber; gunakan ID baru.")
     combined.update({r.seq_id: r for r in records})
     merged_fasta = {**source.fasta, **seqs}
+    # Detect new conflicts against the PREVIOUS snapshot as well as incoming rows.
+    # Existing flagged/rejected records are never silently promoted.
+    sequence_species: dict[str, set[str]] = {}
+    for record in combined.values():
+        if record.curation_status == "accepted":
+            sequence_species.setdefault(merged_fasta[record.seq_id], set()).add(
+                record.species_valid
+            )
+    for key, record in list(combined.items()):
+        if (
+            record.curation_status == "accepted"
+            and len(sequence_species.get(merged_fasta[key], set())) > 1
+        ):
+            flags = ";".join(sorted(set(record.flags.split(";")) | {"conflict"} - {""}))
+            combined[key] = record.model_copy(update={"flags": flags})
+            report.append(
+                {
+                    "seq_id": key,
+                    "accession": record.accession,
+                    "step": "R-CUR-08",
+                    "result": "accepted",
+                    "reason": "conflict_with_snapshot",
+                }
+            )
     tables["sequences"] = [
         r.model_dump() for r in sorted(combined.values(), key=lambda r: r.seq_id)
     ]
