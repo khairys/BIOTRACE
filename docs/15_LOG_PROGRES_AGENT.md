@@ -49,13 +49,19 @@ Batasan yang tetap berlaku dari percakapan: tanpa Docker; hemat token tetapi sta
 | 25 Okt 03:15 | GenBank gagal sementara (efetch 5xx) | Retry diperpanjang (9x, ±7 menit); antrean NCBI dijalankan ulang (lanjut dari batch terakhir) |
 | 25 Okt 03:20 | Herder 2006 | PDF di ichthyologie.de hanya 2 halaman pratinjau; teks lengkap = manual |
 | 25 Okt 03:25 | Analisis celah `scripts/analyze_tropis.py` | Pemotongan MiFish tervektor (setara trim_mifish, diverifikasi pada sampel tiap run), cache bertahap |
+| 25 Okt 03:35 | Europe PMC | 3.206 artikel OA, 53.240 aksesi nukleotida unik disebut di teks |
+| 25 Okt 03:40 | BRIN RIN + repositori | 64 dataset BRIN; Zenodo 14, Dryad 31 (mis. mitogenom Rasborinae Sundaland, barcode Jawa-Bali, hibridisasi danau Sulawesi) |
+| 25 Okt 03:45 | docs/16 ditulis | Gambaran besar, cara menjalankan, tabel sumber otomatis, 17 sumber manual + tautan, jejak cara menemukan sumber |
+| 25 Okt 03:50 | Perbaikan NCBI | Kueri per spesies dibatasi <= 20 kb (rakitan genom bikin efetch timeout); manifest tahan PermissionError; antrean NCBI (country → freshwater → marine → cited) dijalankan ulang (c8ffc4b) |
 
 ## Langkah berikutnya
 
 - [x] Sisa langkah Bagus: D-034 (Diusulkan), README, LOSO v0.3
 - [x] Build web di branch gabungan
-- [x] Harvester otomatis lewat `scripts/fetch_data.py` (A13): FishBase country/countrysub/species/synonyms, GBIF daftar spesies per negara, GenBank 12S+mitogenom (negara tropis + spesies daftar Indonesia), BOLD v5 COI Indonesia, OAI-PMH 4 jurnal Indonesia
-- [ ] (berjalan: genbank_country/freshwater/marine, gbif, oai, zenodo) Jalankan panen, catat SHA-256 di `raw/DOWNLOAD_LOG.md`; berkas besar tidak dikomit (gitignore), cukup manifest + skrip
-- [ ] Analisis celah per tingkat asal (ID / Sundaland / lain / tidak ada) × status (endemik/asli/introduksi) × habitat
-- [ ] Daftar sumber manual siap unduh dengan tautan langsung
-- [ ] Dokumentasi metode lengkap + catatan akhir; push branch; buka PR bila memungkinkan
+- [x] Harvester otomatis lewat `scripts/fetch_data.py` (14 dataset `tropis_*`)
+- [ ] Tunggu antrean NCBI selesai (cek `raw/tropis/genbank_*/2026-10-25/manifest.json` kolom `summary`; bila gagal, jalankan ulang perintah docs/16 §2 — lanjut otomatis dari batch terakhir)
+- [ ] Tunggu `tropis_gbif` selesai (resolusi nama spesies)
+- [ ] Jalankan `scripts/analyze_tropis.py` (perintah di docs/16 §2) setelah semua panen selesai — JANGAN edit skrip saat berjalan (Windows spawn mengimpor ulang)
+- [ ] Isi docs/16 §5 dari `data/curation/tropis_gap_v1/summary.json`; komit `data/curation/tropis_gap_v1/*.csv` (kecuali cache)
+- [ ] (opsional) Transkripsi lampiran Permen KP 19/2020 (PDF pindaian) dan cek kandidat Kepmen 1/2021
+- [ ] Catatan akhir untuk pengguna di bagian "Ringkasan akhir" dokumen ini; push; buka PR `integrasi/main-bagus` → `main` (jangan merge)
