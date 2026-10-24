@@ -1,0 +1,31 @@
+{
+ "dataset": "obis",
+ "source": "OBIS API v3 checklist",
+ "license_reported_by_source": "Per dataset penerbit OBIS (umumnya CC0/CC BY); data agregat jumlah per takson",
+ "method": "checklist?areaid=<area>&taxonid=10194&size=10000; area: 115 Indonesia, 40038 Indonesian Sea (LME)",
+ "started": "2026-10-25T05:35:44",
+ "queries": {},
+ "files": {
+  "checklist_area115.json": {
+   "url": "https://api.obis.org/v3/checklist",
+   "bytes": 3729068,
+   "sha256": "d610c914820a629f9979bd245b8135ce745f0f431fd12df90880df639f980988",
+   "records": 4411,
+   "area": "Indonesia"
+  },
+  "checklist_area40038.json": {
+   "url": "https://api.obis.org/v3/checklist",
+   "bytes": 2935477,
+   "sha256": "c35c1b78cfd57e27c2514dbe586e93a331aece2f0b5efd4ac57c854a9b979bb5",
+   "records": 3466,
+   "area": "Indonesian Sea (LME)"
+  }
+ },
+ "notes": [
+  "area 115: OBIS total 4522, takson unik diterima 4411",
+  "area 40038: OBIS total 3611, takson unik diterima 3466"
+ ],
+ "updated": "2026-10-25T05:36:09",
+ "finished": "2026-10-25T05:36:09",
+ "summary": "checklist OBIS Indonesia, Indonesian Sea (LME)"
+}

@@ -1,0 +1,414 @@
+{
+ "dataset": "brin_rin_files",
+ "source": "BRIN Repositori Ilmiah Nasional (Dataverse access API); daftar dari tropis\\brin_rin\\2026-10-25",
+ "license_reported_by_source": "Per dataset (license/termsOfAccess di metadata); disimpan lokal, tidak didistribusikan",
+ "method": "api/access/datafile/<id> untuk file restricted=false dengan ekstensi .pdf, .csv, .tsv, .txt, .xlsx, .xls, .gb, .gbk, .fasta, .fas, .fa, .docx, .doc, <= 50000000 byte",
+ "started": "2026-10-25T05:34:03",
+ "queries": {},
+ "files": {
+  "509939_Permainan_Tradisional_Etnis_Sentani__Papua.pdf": {
+   "url": "https://data.brin.go.id/api/access/datafile/509939",
+   "bytes": 515379,
+   "sha256": "f7909ecacf8c7bdc73ce1b6cd023b8faa43c4bcc1a78f31fc9ffbeb1d9a32ec3",
+   "records": null,
+   "dataset": "RIN/1NCZQO",
+   "original_name": "Permainan Tradisional Etnis Sentani, Papua.pdf"
+  },
+  "6331_4598._Transplantasi_Sel_Testikular_Ikan_Neon_Tetra_Paracheirodon_innesi__pada_Larva_Ikan_Mas_Cyprinus_carpio.pdf": {
+   "url": "https://data.brin.go.id/api/access/datafile/6331",
+   "bytes": 4891215,
+   "sha256": "b88a458883d2d96585dd014b3de020ab5898e04351c820bc528a85047afc0525",
+   "records": null,
+   "dataset": "RIN/2I6Q5D",
+   "original_name": "4598. Transplantasi Sel Testikular Ikan Neon Tetra Paracheirodon innesi  pada Larva Ikan Mas Cyprinus carpio.pdf"
+  },
+  "4526_3606-9084-1-SM.pdf": {
+   "url": "https://data.brin.go.id/api/access/datafile/4526",
+   "bytes": 459105,
+   "sha256": "fbce77ebd3346e4a3edf91f2def28b1046232f1d3be4256967b1482aac9ee8e8",
+   "records": null,
+   "dataset": "RIN/4NTVQH",
+   "original_name": "3606-9084-1-SM.pdf"
+  },
+  "20812_Tabel4._Nilai_indeks_kematangan_gonad_ikan_bonti-bonti_jantan_dan_betina.xlsx": {
+   "url": "https://data.brin.go.id/api/access/datafile/20812",
+   "bytes": 10072,
+   "sha256": "ef0f147f107633c7d2b8ecdcfecf3243bcf9f837fbd312ef3086510fde4370a3",
+   "records": null,
+   "dataset": "RIN/4NTVQH",
+   "original_name": "Tabel4. Nilai indeks kematangan gonad ikan bonti-bonti jantan dan betina.xlsx"
+  },
+  "17713_Komposisi_dan_Kelimpahan_Meroplankton_di_perairan_Pesisir_Kabupaten_Pemalang__Provinsi_Jawa_Tengah.pdf": {
+   "url": "https://data.brin.go.id/api/access/datafile/17713",
+   "bytes": 503266,
+   "sha256": "9184bf0e0bd8939a5cb3c5823d02d1c73bd1b35448220f3d090a22e49f70459d",
+   "records": null,
+   "dataset": "RIN/6R5HXB",
+   "original_name": "Komposisi dan Kelimpahan Meroplankton di perairan Pesisir Kabupaten Pemalang, Provinsi Jawa Tengah.pdf"
+  },
+  "6642_Mokodonga_etal2017_MPE.pdf": {
+   "url": "https://data.brin.go.id/api/access/datafile/6642",
+   "bytes": 693583,
+   "sha256": "c7a05e049c1f209e0ea7150014f4e3cd0261b62f411e0fce70bb3b1e8ddd91de",
+   "records": null,
+   "dataset": "RIN/6VN9RM",
+   "original_name": "Mokodonga_etal2017_MPE.pdf"
+  },
+  "3853_2098._Inventarisasi_Spesies_Ikan_di_Perairan_Pantai_Timur_Kendari.pdf": {
+   "url": "https://data.brin.go.id/api/access/datafile/3853",
+   "bytes": 1524477,
+   "sha256": "7c5b5d9f6a32c1706765352e5a143e51fd1ee6bed631107ac4837394fab14c69",
+   "records": null,
+   "dataset": "RIN/9DSUNG",
+   "original_name": "2098. Inventarisasi Spesies Ikan di Perairan Pantai Timur Kendari.pdf"
+  },
+  "5986_21106-12320-1-PB.pdf": {
+   "url": "https://data.brin.go.id/api/access/datafile/5986",
+   "bytes": 1730083,
+   "sha256": "b1ea9cf765466a74cda7d5c5263bde05511c911b81eabf3d0d5b1119739364da",
+   "records": null,
+   "dataset": "RIN/B9CLXX",
+   "original_name": "21106-12320-1-PB.pdf"
+  },
+  "6818_2968-6203-1-SM.pdf": {
+   "url": "https://data.brin.go.id/api/access/datafile/6818",
+   "bytes": 1134371,
+   "sha256": "9115c1618045efa6708818124562d3283212b48ebd857764c49df3fa46a0d36e",
+   "records": null,
+   "dataset": "RIN/BVOY3V",
+   "original_name": "2968-6203-1-SM.pdf"
+  },
+  "6844_5188._List_of_Dung_Beetles__Coleoptera_Coprophagous_Group__of_Scarabaeoidea__Collected_in_Lowland_Near_Balikpapan__East_": {
+   "url": "https://data.brin.go.id/api/access/datafile/6844",
+   "bytes": 902769,
+   "sha256": "804dcc5cbdce27f09e68278e5e3aac0fd69f004eccdbacb06c6492db34766047",
+   "records": null,
+   "dataset": "RIN/CEENGU",
+   "original_name": "5188. List of Dung Beetles (Coleoptera Coprophagous Group  of Scarabaeoidea) Collected in Lowland Near Balikpapan, East Kalimantan, Indonesia.pdf"
+  },
+  "3849_2096._Population_Dynamics_of_Dominant_Demersal_Fishes_Caught_in_Tambelan_Islands_Waters__Riau_Archipelago_Province.pdf": {
+   "url": "https://data.brin.go.id/api/access/datafile/3849",
+   "bytes": 228416,
+   "sha256": "8768879f4ab47c782659daf18c38553d1e134dbe1f516a0c23a4e65338a31a1d",
+   "records": null,
+   "dataset": "RIN/CHZYDF",
+   "original_name": "2096. Population Dynamics of Dominant Demersal Fishes Caught in Tambelan Islands Waters, Riau Archipelago Province.pdf"
+  },
+  "6777_5171._Barcoding_Snakeheads__Teleostei__Channidae__Revisited_Discovering_Greater_Species_Diversity_and_Resolving_Perpetua": {
+   "url": "https://data.brin.go.id/api/access/datafile/6777",
+   "bytes": 4916604,
+   "sha256": "086c925463d4ef91e6482bf10427711d4c9471b28c52f8f263b886b6d0011ee2",
+   "records": null,
+   "dataset": "RIN/COFLU1",
+   "original_name": "5171. Barcoding Snakeheads (Teleostei, Channidae) Revisited Discovering Greater Species Diversity and Resolving Perpetuated Taxonomic Confusions.pdf"
+  },
+  "13525_Iktiofauna_di_Kawasan_Karst_Menoreh__Jawa_Tengah_dan_upaya_konservasinya.pdf": {
+   "url": "https://data.brin.go.id/api/access/datafile/13525",
+   "bytes": 1079662,
+   "sha256": "ea66306f1f507b42d5c04088e9dd2efca4f2513fe2edc6ace9eb0764c97fed78",
+   "records": null,
+   "dataset": "RIN/D81ECU",
+   "original_name": "Iktiofauna di Kawasan Karst Menoreh, Jawa Tengah dan upaya konservasinya.pdf"
+  },
+  "7369_Age_estimates_for_an_adaptive_.pdf": {
+   "url": "https://data.brin.go.id/api/access/datafile/7369",
+   "bytes": 1070196,
+   "sha256": "981207ca8f5c7fadf7ebce603f4bc3df3c84bc2e034327afe5c1aed21e49b985",
+   "records": null,
+   "dataset": "RIN/DWCZZP",
+   "original_name": "Age_estimates_for_an_adaptive_.pdf"
+  },
+  "14557_Table_1._Primers_used_in_the_present_study.xlsx": {
+   "url": "https://data.brin.go.id/api/access/datafile/14557",
+   "bytes": 9187,
+   "sha256": "761a5dd50a10aff01a0e08cea969087f77f8a1f82ee1fea4c695f1c128e7b702",
+   "records": null,
+   "dataset": "RIN/DWCZZP",
+   "original_name": "Table 1. Primers used in the present study.xlsx"
+  },
+  "3905_2333._Maritime_Law_Enforcement_and_Compliance_in_Indonesia_Problems_and_Recommendations.pdf": {
+   "url": "https://data.brin.go.id/api/access/datafile/3905",
+   "bytes": 408970,
+   "sha256": "7925c15420b17d546e691743f52fcffbf394a6f4e6eb3b0a1d0b593a33f03755",
+   "records": null,
+   "dataset": "RIN/EGM76L",
+   "original_name": "2333. Maritime Law Enforcement and Compliance in Indonesia Problems and Recommendations.pdf"
+  },
+  "16687_Table_2._Coastal_Protection_Arrangement___Selected_Countries.xlsx": {
+   "url": "https://data.brin.go.id/api/access/datafile/16687",
+   "bytes": 10787,
+   "sha256": "cc913a56669e3d3832a73b744965693e6192179d8e5b10466eeaec9f24648ac6",
+   "records": null,
+   "dataset": "RIN/EGM76L",
+   "original_name": "Table 2. Coastal Protection Arrangement – Selected Countries.xlsx"
+  },
+  "4001_2376._Isolasi_Bakteri_Heterotrofik_Pembentuk_Bioflok_dan_Pola_Pertumbuhannya_pada_Kolam_Sidat.pdf": {
+   "url": "https://data.brin.go.id/api/access/datafile/4001",
+   "bytes": 8064468,
+   "sha256": "6be00956fa4467d73ccd161f2f6103e1571771e8860cffb1e0ecbb346422998f",
+   "records": null,
+   "dataset": "RIN/ERXQVG",
+   "original_name": "2376. Isolasi Bakteri Heterotrofik Pembentuk Bioflok dan Pola Pertumbuhannya pada Kolam Sidat.pdf"
+  },
+  "8061_6477._Pelvic-Fin_Brooding_in_a_New_Species_of_Riverine_Ricefish__Atherinomorpha_Beloniformes_Adrianichthyidae__from_Tana": {
+   "url": "https://data.brin.go.id/api/access/datafile/8061",
+   "bytes": 204250,
+   "sha256": "cca7dff74b42d53331d74c58c845b4cb548148a51823ea88548de40a8f30116a",
+   "records": null,
+   "dataset": "RIN/FDLXYF",
+   "original_name": "6477. Pelvic-Fin Brooding in a New Species of Riverine Ricefish (Atherinomorpha Beloniformes Adrianichthyidae) from Tana Toraja, Central Sulawesi, Indonesia.pdf"
+  },
+  "13889_Table_1._Hierarchical.xlsx": {
+   "url": "https://data.brin.go.id/api/access/datafile/13889",
+   "bytes": 9348,
+   "sha256": "c0dda5c07f5dcf6a8047d231333420f2371845ef883dd5018c00d6258b5fa40a",
+   "records": null,
+   "dataset": "RIN/FQKQ2P",
+   "original_name": "Table 1. Hierarchical.xlsx"
+  },
+  "13888_table_2._Overall_FST.xlsx": {
+   "url": "https://data.brin.go.id/api/access/datafile/13888",
+   "bytes": 9525,
+   "sha256": "2296108d5beeac278ea29a33fd69851d393e13f7ece8cebde6387cc27c44ebb9",
+   "records": null,
+   "dataset": "RIN/FQKQ2P",
+   "original_name": "table 2. Overall FST.xlsx"
+  },
+  "7399_Ukuwelaetal_2014_H.curtusphylogeography.pdf": {
+   "url": "https://data.brin.go.id/api/access/datafile/7399",
+   "bytes": 946952,
+   "sha256": "f4eba7e04c62a8a18f1488247c840bde6d5e0cb7bc81b16328626bd25fd50f95",
+   "records": null,
+   "dataset": "RIN/FQKQ2P",
+   "original_name": "Ukuwelaetal_2014_H.curtusphylogeography.pdf"
+  },
+  "5857_1286435618.pdf": {
+   "url": "https://data.brin.go.id/api/access/datafile/5857",
+   "bytes": 5766155,
+   "sha256": "d346db24f71d6164bee332703b41b1fb9791840672a6ec454288c4a31aaf2645",
+   "records": null,
+   "dataset": "RIN/HUONEL",
+   "original_name": "1286435618.pdf"
+  },
+  "6805_5177._Phylogeography_of_the_Eight-Barbel_Loach_Lefua_Nikkonis.pdf": {
+   "url": "https://data.brin.go.id/api/access/datafile/6805",
+   "bytes": 2574510,
+   "sha256": "89eb0b9d505f0256b782d0e130e8b31d44015b2f91830b33345a58aceb77ca15",
+   "records": null,
+   "dataset": "RIN/IIZRN2",
+   "original_name": "5177. Phylogeography of the Eight-Barbel Loach Lefua Nikkonis.pdf"
+  },
+  "8511_6985._Kajian_Potensi_Ikan_di_Lahan_Gambut_Tasik_Betung__Riau.pdf": {
+   "url": "https://data.brin.go.id/api/access/datafile/8511",
+   "bytes": 225144,
+   "sha256": "16ff6217c1c0e77576300baf9dd30ec556abe1660db6a60165164732755ea91c",
+   "records": null,
+   "dataset": "RIN/IK4CZZ",
+   "original_name": "6985. Kajian Potensi Ikan di Lahan Gambut Tasik Betung, Riau.pdf"
+  },
+  "4130_2552._Uji_Efektivitas_Kantung_Penampung_Limbah_Karamba_Jaring_Apung__KJA__Berbahan_Nilon_terhadap_Limbah_Budidaya_Ikan_N": {
+   "url": "https://data.brin.go.id/api/access/datafile/4130",
+   "bytes": 921435,
+   "sha256": "4856ae6d717aaac178a17f95ca6da86290608e5fb3058513b7bb9aa4c07ef5af",
+   "records": null,
+   "dataset": "RIN/JKZLFB",
+   "original_name": "2552. Uji Efektivitas Kantung Penampung Limbah Karamba Jaring Apung (KJA) Berbahan Nilon terhadap Limbah Budidaya Ikan Nila (Oreochromis Niloticus) di Danau Maninjau.pdf"
+  },
+  "1059297_C._dayakorum_sp_nov.txt": {
+   "url": "https://data.brin.go.id/api/access/datafile/1059297",
+   "bytes": 748,
+   "sha256": "ba92a2838ab40fef4f1f1367578e9afb5211861752d347e58ca4c27a9d447071",
+   "records": null,
+   "dataset": "RIN/KCJSUA",
+   "original_name": "C. dayakorum sp nov.txt"
+  },
+  "4740_Dynamics_of_Biogeochemistry_of_Sulfur_in_Lake_Maninjau.pdf.pdf": {
+   "url": "https://data.brin.go.id/api/access/datafile/4740",
+   "bytes": 369051,
+   "sha256": "d5bd41786eb9507728682e9403d154b95ce17db32e00ccca7aabdc6d9bf73bf4",
+   "records": null,
+   "dataset": "RIN/KFWQPJ",
+   "original_name": "Dynamics of Biogeochemistry of Sulfur in Lake Maninjau.pdf.pdf"
+  },
+  "20710_Table_2._Turbidity__Conductivity__pH_and_Secchi_Depth_of_Lake_Water.xlsx": {
+   "url": "https://data.brin.go.id/api/access/datafile/20710",
+   "bytes": 8689,
+   "sha256": "3c82aabcc9c95c40eb9ecef2eb219ee9bb9f3c220d27eb73fa64af6dbd2e8f7e",
+   "records": null,
+   "dataset": "RIN/KFWQPJ",
+   "original_name": "Table 2. Turbidity, Conductivity, pH and Secchi Depth of Lake Water.xlsx"
+  },
+  "5794_1286603212.pdf": {
+   "url": "https://data.brin.go.id/api/access/datafile/5794",
+   "bytes": 2318406,
+   "sha256": "b634c4df472bed022f38438e1b8f0b8358230a7606ed0747a361a6055cf0409e",
+   "records": null,
+   "dataset": "RIN/KLG3SS",
+   "original_name": "1286603212.pdf"
+  },
+  "4256_2725._Kandungan_Gizi_dan_Nilai_Ekonomis_Pensi__Tutut_dan_Cherax_dari_Danau_Maninjau.pdf": {
+   "url": "https://data.brin.go.id/api/access/datafile/4256",
+   "bytes": 4092626,
+   "sha256": "164c141632f963c4d8cdadf7df8a692c531228585855cd197eebbd6abf4d6b0d",
+   "records": null,
+   "dataset": "RIN/LS3CYU",
+   "original_name": "2725. Kandungan Gizi dan Nilai Ekonomis Pensi, Tutut dan Cherax dari Danau Maninjau.pdf"
+  },
+  "5450_Keragaman_dan_keopadatan_ekinodermata_di_perairan_Teluk_Weda__Maluku_Utara.pdf": {
+   "url": "https://data.brin.go.id/api/access/datafile/5450",
+   "bytes": 1374014,
+   "sha256": "d9e40629c6d44eeadd57286a68630cf8a95d46ef03fa37d46d69c4bfd4ea5aee",
+   "records": null,
+   "dataset": "RIN/LY9DYI",
+   "original_name": "Keragaman dan keopadatan ekinodermata di perairan Teluk Weda, Maluku Utara.pdf"
+  },
+  "13484_Pemetaan_habitat_ruaya_benih_sidat__Anguilla_bicolor__dan_potensinya_di_Pantai_Selatan_Jawa.pdf": {
+   "url": "https://data.brin.go.id/api/access/datafile/13484",
+   "bytes": 813270,
+   "sha256": "8f59ec0fcff55fe496c08ac0d81184b5629dae15a1390ffaa9388b4a100a809a",
+   "records": null,
+   "dataset": "RIN/MZTYN2",
+   "original_name": "Pemetaan habitat ruaya benih sidat (Anguilla bicolor) dan potensinya di Pantai Selatan Jawa.pdf"
+  },
+  "4260_2726._Keanekaragaman_Bakteri_Aeromonas_dari_KJA_di_Waduk_Jatiluhur_dan_Kolam_Budidaya.pdf": {
+   "url": "https://data.brin.go.id/api/access/datafile/4260",
+   "bytes": 5876762,
+   "sha256": "0dfad7c4d36537daf16ef6c95e236b9c20befaf036384c0bbd49cca348bc3d53",
+   "records": null,
+   "dataset": "RIN/NEAL5F",
+   "original_name": "2726. Keanekaragaman Bakteri Aeromonas dari KJA di Waduk Jatiluhur dan Kolam Budidaya.pdf"
+  },
+  "4188_2588._Pertumbuhan_dan_Mortalitas_Ikan_Endemik_Butini__Glossogobius_matanensis_Weber__1913__di_Danau_Towuti__Sulawesi_Sel": {
+   "url": "https://data.brin.go.id/api/access/datafile/4188",
+   "bytes": 1544980,
+   "sha256": "f6da3243b3239d0993e6b543526acf5acfc98f85c132cbd0b6feed9638e24e81",
+   "records": null,
+   "dataset": "RIN/OFCAMO",
+   "original_name": "2588. Pertumbuhan dan Mortalitas Ikan Endemik Butini (Glossogobius matanensis Weber, 1913) di Danau Towuti, Sulawesi Selatan.pdf"
+  },
+  "6830_2016-Dahruddin-Revisiting-the-ichthyodiversity-of-Java-and-Bali-through-DNA-barcodes.pdf": {
+   "url": "https://data.brin.go.id/api/access/datafile/6830",
+   "bytes": 402043,
+   "sha256": "efebb352a8d8dc93043edfec405ebc8904c8c4f8295f6d536572cf7fba0fe3bd",
+   "records": null,
+   "dataset": "RIN/OG8ADS",
+   "original_name": "2016-Dahruddin-Revisiting-the-ichthyodiversity-of-Java-and-Bali-through-DNA-barcodes.pdf"
+  },
+  "6294_4591._Evaluation_of_Dietary_Fish_Silage_Combined_with_Poultry_by-Product_Meal_or_Soybean_Meal_to_Replace_Fish_Meal_for_O": {
+   "url": "https://data.brin.go.id/api/access/datafile/6294",
+   "bytes": 509232,
+   "sha256": "28ee28d1f4f392f057d0e1b20d170980e5a1b2c0f598937d2c7bd680b1cef6e1",
+   "records": null,
+   "dataset": "RIN/OJMFA5",
+   "original_name": "4591. Evaluation of Dietary Fish Silage Combined with Poultry by-Product Meal or Soybean Meal to Replace Fish Meal for Orange-Spotted Grouper Epinephelus coioides.pdf"
+  },
+  "6682_5144._Phylogenomics_Reveals_Habitat-Associated_Body_Shape_Divergence_in_Oryzias.pdf": {
+   "url": "https://data.brin.go.id/api/access/datafile/6682",
+   "bytes": 693583,
+   "sha256": "c32637aedf8f9a214a57643f0ad819694d504bfa63f21c4a8afd951c7479a523",
+   "records": null,
+   "dataset": "RIN/PNVYTU",
+   "original_name": "5144. Phylogenomics Reveals Habitat-Associated Body Shape Divergence in Oryzias.pdf"
+  },
+  "6646_10.1007-s10228-017-0597-0.pdf": {
+   "url": "https://data.brin.go.id/api/access/datafile/6646",
+   "bytes": 2618103,
+   "sha256": "0e2d073bf56b87bc54323c20f683ee5255ffbd89b716960eaf3291061bfacd93",
+   "records": null,
+   "dataset": "RIN/Q8QQCM",
+   "original_name": "10.1007-s10228-017-0597-0.pdf"
+  },
+  "7770_ekologigunungslamet_AA.pdf": {
+   "url": "https://data.brin.go.id/api/access/datafile/7770",
+   "bytes": 11127564,
+   "sha256": "003b8318b86dd6643bffe810a385ea9990f256e07b1e5e9ef08f96e7f5f4bc29",
+   "records": null,
+   "dataset": "RIN/QI9E34",
+   "original_name": "ekologigunungslamet_AA.pdf"
+  },
+  "11993_tabel_3.xlsx": {
+   "url": "https://data.brin.go.id/api/access/datafile/11993",
+   "bytes": 10357,
+   "sha256": "622235a9e1e57126df526c995ec205ea4344ffbfc18f2c1db259f586f95c439f",
+   "records": null,
+   "dataset": "RIN/QI9E34",
+   "original_name": "tabel 3.xlsx"
+  },
+  "6785_5172._Pemetaan_Habitat_Ruaya_Benih_Ikan_Sidat__Anguilla_bicolor__dan_Potensinya_di_Pantai_Selatan_Jawa.pdf": {
+   "url": "https://data.brin.go.id/api/access/datafile/6785",
+   "bytes": 813270,
+   "sha256": "8f59ec0fcff55fe496c08ac0d81184b5629dae15a1390ffaa9388b4a100a809a",
+   "records": null,
+   "dataset": "RIN/QLM1KX",
+   "original_name": "5172. Pemetaan Habitat Ruaya Benih Ikan Sidat (Anguilla bicolor) dan Potensinya di Pantai Selatan Jawa.pdf"
+  },
+  "14410_Karakteristik_morfologi_dan_habitat_ikan_brek__Barbonymus_balleroides_Val._1842__di_Sungai_Serayu_Jawa_Tengah.pdf": {
+   "url": "https://data.brin.go.id/api/access/datafile/14410",
+   "bytes": 2149016,
+   "sha256": "8f4bad53155422f0e9fc3f266dd3f6134e17f1c9c7b7e14bce5c87ba4b5413eb",
+   "records": null,
+   "dataset": "RIN/SJTNJN",
+   "original_name": "Karakteristik morfologi dan habitat ikan brek (Barbonymus balleroides Val. 1842) di Sungai Serayu Jawa Tengah.pdf"
+  },
+  "727846_Form_Kesediaan_Open_Data_versi_BRIN.docx": {
+   "url": "https://data.brin.go.id/api/access/datafile/727846",
+   "bytes": 47806,
+   "sha256": "44311f8903e9b5ba3dd509be55434e64b8925bb05299735e51fb83e80fe706e2",
+   "records": null,
+   "dataset": "RIN/ULQDHU",
+   "original_name": "Form_Kesediaan_Open_Data_versi_BRIN.docx"
+  },
+  "5961_4352.__First_Record_of_Odontanthias_unimaculatus__Tanaka_1917___Perciformes_Serranidae__from_Indonesia.pdf": {
+   "url": "https://data.brin.go.id/api/access/datafile/5961",
+   "bytes": 293438,
+   "sha256": "4bb51753688532943126524e5126d2d9f9c595e13f8a292b02d1a72cb87c3f41",
+   "records": null,
+   "dataset": "RIN/VEVGR9",
+   "original_name": "4352.  First Record of Odontanthias unimaculatus (Tanaka 1917) (Perciformes Serranidae) from Indonesia.pdf"
+  },
+  "4413_2782._Production_and_Quality_Improvement_of_Mud_Crab__Scylla_serrata__Using_Silvofishery_as_a_Method_to_Increase_Food_Se": {
+   "url": "https://data.brin.go.id/api/access/datafile/4413",
+   "bytes": 388769,
+   "sha256": "c119231aae70fb02a415b3d10e89462f18394226f94450eef2325111656da210",
+   "records": null,
+   "dataset": "RIN/VJ521Z",
+   "original_name": "2782. Production and Quality Improvement of Mud Crab (Scylla serrata) Using Silvofishery as a Method to Increase Food Security and to Conserve The Mangrove Resource in Berau, East Kalimantan.pdf"
+  },
+  "15637_Table_3._Water_quality_condition.xlsx": {
+   "url": "https://data.brin.go.id/api/access/datafile/15637",
+   "bytes": 10180,
+   "sha256": "77873a4fb997bb95c98196c6df7df2b41f4973ca5ef62c22ac5f9082056f0ee4",
+   "records": null,
+   "dataset": "RIN/VJ521Z",
+   "original_name": "Table 3. Water quality condition.xlsx"
+  },
+  "15635_Table_4._P_or_C_ratio.xlsx": {
+   "url": "https://data.brin.go.id/api/access/datafile/15635",
+   "bytes": 10036,
+   "sha256": "a9852ed2bb0635d0ce1d6975f222114d086ab3f2932f24ceb433bc35925ff514",
+   "records": null,
+   "dataset": "RIN/VJ521Z",
+   "original_name": "Table 4. P or C ratio.xlsx"
+  },
+  "6789_5173._Fauna_Ikan_Air_Tawar_di_Perairan_Kawasan_Gunung_Sawal__Jawa_Barat__Indonesia.pdf": {
+   "url": "https://data.brin.go.id/api/access/datafile/6789",
+   "bytes": 3233401,
+   "sha256": "fa790e768b4503be821d3236505b9202d758db97d628eb077fc38a1ee0fb6418",
+   "records": null,
+   "dataset": "RIN/VKXWRL",
+   "original_name": "5173. Fauna Ikan Air Tawar di Perairan Kawasan Gunung Sawal, Jawa Barat, Indonesia.pdf"
+  },
+  "3926_2339._Policy_Needs_to_Improve_Marine_Capture_Fisheries_Management_and_to_Define_a_Role_for_Marine_Protected_Areas_in_Ind": {
+   "url": "https://data.brin.go.id/api/access/datafile/3926",
+   "bytes": 155798,
+   "sha256": "1c605072ff1270079a96f543af17b9949bc156db725adc52c3bc3022234bf400",
+   "records": null,
+   "dataset": "RIN/Z2I0TC",
+   "original_name": "2339. Policy Needs to Improve Marine Capture Fisheries Management and to Define a Role for Marine Protected Areas in Indonesia.pdf"
+  }
+ },
+ "notes": [],
+ "updated": "2026-10-25T05:34:42",
+ "finished": "2026-10-25T05:34:42",
+ "summary": "50 file terbuka dari dataset BRIN"
+}

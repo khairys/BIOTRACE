@@ -787,6 +787,97 @@ def brin_rin() -> None:
     run.finish(f"{len(items)} dataset BRIN terkait DNA ikan")
 
 
+BRIN_FILE_TYPES = (
+    ".pdf",
+    ".csv",
+    ".tsv",
+    ".txt",
+    ".xlsx",
+    ".xls",
+    ".gb",
+    ".gbk",
+    ".fasta",
+    ".fas",
+    ".fa",
+    ".docx",
+    ".doc",
+)
+BRIN_MAX_BYTES = 50_000_000
+
+
+def brin_files() -> None:
+    """Unduh file TERBUKA (bukan terkunci) dari dataset BRIN hasil `tropis_brin`.
+
+    Hanya tipe berguna untuk ekstraksi (PDF, tabel, sekuens, dokumen), maksimal 50 MB per
+    file. Gambar dilewati. Isi tetap mengikuti lisensi dataset di metadata.
+    """
+    meta = sorted((ROOT / "brin_rin").glob("*/manifest.json"))[-1].parent
+    run = Run(
+        "brin_rin_files",
+        "BRIN Repositori Ilmiah Nasional (Dataverse access API); daftar dari "
+        + str(meta.relative_to(RAW)),
+        "Per dataset (license/termsOfAccess di metadata); disimpan lokal, tidak didistribusikan",
+        "api/access/datafile/<id> untuk file restricted=false dengan ekstensi "
+        + ", ".join(BRIN_FILE_TYPES)
+        + f", <= {BRIN_MAX_BYTES} byte",
+    )
+    count = 0
+    for path in sorted(meta.glob("dataset_*.json")):
+        data = json.loads(path.read_text("utf-8")).get("data", {})
+        for f in data.get("latestVersion", {}).get("files", []):
+            df = f.get("dataFile", {})
+            name = df.get("filename", "")
+            if f.get("restricted") or not name.lower().endswith(BRIN_FILE_TYPES):
+                continue
+            if int(df.get("filesize") or 0) > BRIN_MAX_BYTES:
+                continue
+            safe = (
+                f"{df['id']}_"
+                + "".join(c if c.isalnum() or c in "._-" else "_" for c in name)[:120]
+            )
+            if run.has(safe):
+                continue
+            url = f"{RIN}access/datafile/{df['id']}"
+            _download(url, run.folder / safe)
+            run.add(safe, url, dataset=data.get("identifier"), original_name=name)
+            count += 1
+            time.sleep(0.3)
+    run.finish(f"{len(run.manifest['files'])} file terbuka dari dataset BRIN")
+
+
+OBIS_AREAS = {"115": "Indonesia", "40038": "Indonesian Sea (LME)"}
+OBIS_TAXON = "10194"  # WoRMS AphiaID Actinopteri
+
+
+def obis() -> None:
+    """OBIS checklist ikan bersirip-jari per area Indonesia (laut/payau; pelengkap GBIF)."""
+    run = Run(
+        "obis",
+        "OBIS API v3 checklist",
+        "Per dataset penerbit OBIS (umumnya CC0/CC BY); data agregat jumlah per takson",
+        f"checklist?areaid=<area>&taxonid={OBIS_TAXON}&size=10000; area: "
+        + ", ".join(f"{k} {v}" for k, v in OBIS_AREAS.items()),
+    )
+    for area, label in OBIS_AREAS.items():
+        name = f"checklist_area{area}.json"
+        if run.has(name):
+            continue
+        # Satu permintaan: paginasi skip tidak menambah takson (diuji 25 Okt 2026); "total" OBIS
+        # (4.522) lebih besar dari takson unik yang dikembalikan (4.411), dicatat sebagai catatan.
+        page = _json(
+            "https://api.obis.org/v3/checklist?"
+            + urllib.parse.urlencode({"areaid": area, "taxonid": OBIS_TAXON, "size": 10000})
+        )
+        results = list({r["taxonID"]: r for r in page["results"]}.values())
+        if len(results) != page["total"]:
+            run.manifest["notes"].append(
+                f"area {area}: OBIS total {page['total']}, takson unik diterima {len(results)}"
+            )
+        _write(run.folder / name, json.dumps(results, ensure_ascii=False).encode())
+        run.add(name, "https://api.obis.org/v3/checklist", len(results), area=label)
+    run.finish("checklist OBIS " + ", ".join(OBIS_AREAS.values()))
+
+
 # ---------------------------------------------------------------- Repositori data internasional
 
 ZENODO_QUERY = (
@@ -1001,6 +1092,11 @@ DATASETS: dict[str, tuple[Callable[[], None], str]] = {
     ),
     "tropis_brin": (brin_rin, "Metadata dataset DNA ikan di Repositori Ilmiah Nasional BRIN"),
     "tropis_repositori": (repositori, "Penemuan dataset ikan Indonesia di Zenodo, Dryad, Figshare"),
+    "tropis_brin_files": (
+        brin_files,
+        "File terbuka (PDF/tabel/sekuens) dari dataset BRIN (butuh tropis_brin)",
+    ),
+    "tropis_obis": (obis, "OBIS checklist ikan laut area Indonesia"),
     "tropis_sra": (sra, "BioProject eDNA ikan Indonesia + daftar URL FASTQ ENA (tanpa FASTQ)"),
     "tropis_zenodo_mifish": (zenodo_mifish, "Pustaka 12S MiFish rCRUX+MitoFish (Zenodo, ±27,5 MB)"),
     "tropis_zenodo_mitohelper": (

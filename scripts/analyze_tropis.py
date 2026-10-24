@@ -279,6 +279,19 @@ def load_bold(names: dict[str, int]) -> dict[int, Counter]:
     return out
 
 
+def load_obis(names: dict[str, int]) -> dict[int, int]:
+    """Jumlah rekaman OBIS per spesies di area Indonesia (id 115)."""
+    folder = latest("obis")
+    out: dict[int, int] = {}
+    if not folder or not (folder / "checklist_area115.json").is_file():
+        return out
+    for row in json.loads((folder / "checklist_area115.json").read_text("utf-8")):
+        code = names.get(binomial(row.get("acceptedNameUsage") or row.get("scientificName") or ""))
+        if code is not None:
+            out[code] = out.get(code, 0) + int(row.get("records") or 0)
+    return out
+
+
 def load_gbif(names: dict[str, int]) -> dict[int, dict]:
     folder = latest("gbif")
     out: dict[int, dict] = {}
@@ -527,6 +540,7 @@ def main() -> None:
             p["best"] = min(p["best"], t)
     bold = load_bold(names)
     gbif = load_gbif(names)
+    obis_counts = load_obis(names)
     regs = regulation_species(names)
     # Status regulasi dari transkripsi lampiran resmi (data/curation/regulasi_kkp/, belum dicek
     # manusia); entri "spp." pada Permen KP 19/2020 berlaku untuk seluruh genus.
@@ -589,6 +603,7 @@ def main() -> None:
                 "bold_ID_institutions": ";".join(insts[:3]),
                 "gbif_ID": g.get("gbif_ID", 0),
                 "gbif_ID_specimen": g.get("gbif_ID_specimen", 0),
+                "obis_ID_records": obis_counts.get(code, 0),
                 "priority_score": score,
             }
         )
@@ -704,6 +719,12 @@ def main() -> None:
                 "oai_jurnal",
                 "sra_edna",
                 "regulasi",
+                "genbank_cited",
+                "europepmc",
+                "brin_rin",
+                "brin_rin_files",
+                "repositori",
+                "obis",
             )
         },
         "fishbase_species_ID": len(universe),
@@ -713,6 +734,8 @@ def main() -> None:
         "coverage_by_group": {k: {"n": len(v), **table(v)} for k, v in groups.items()},
         "freshwater_by_island_fishbase_countrysub": islands,
         "bold_species_with_coi_from_ID": sum(1 for r in rows if r["bold_coi_ID"]),
+        "obis_species_matched_ID": sum(1 for r in rows if r["obis_ID_records"]),
+        "gbif_species_matched_ID": sum(1 for r in rows if r["gbif_ID"]),
         "priority_targets": len(targets),
         "journal_articles_fish_dna": len(articles),
         "articles_by_journal": dict(Counter(a["journal"] for a in articles)),
