@@ -10,7 +10,12 @@ Dasar: instruksi pengguna setelah audit, 24 Oktober 2026: implementasikan keselu
 - K-011: P_missing null untuk LCA lintas genus; tidak mengarang genus. Label endemik/terancam/invasif pada agregat memerlukan dukungan semua kandidat yang diketahui. Label possible_unreferenced_endemic tetap terpisah. Jika tidak ada takson bersama sampai ordo, hasil unknown.
 - Konfirmasi manusia berikutnya: contoh E2/E3 boleh menampilkan endemic dan possible_unreferenced_endemic sekaligus, mengikuti R-SCORE-04. Tambahan label tersebut tidak mengubah keputusan.
 - K-009: alat dan halaman validasi diimplementasikan sebagai kebutuhan teknis MVP; validasi biologis/ahli tetap mengikuti tahap P1 pada 01. Angka hanya dari run nyata, dan hasil simulasi tidak dipresentasikan sebagai validasi ilmiah.
-- K-010: salinan dokumen project/ dipertahankan, tanpa menambah materi pitch.
+- K-010: `project/` dihapus dari repo pada 25 Okt 2026 (keputusan manusia); dokumen 07 lengkap dan 08 tersimpan di Project GENOHACK.
 - Dataset Indonesia yang belum layak tidak dipromosikan menjadi kamus aktif. Manifest kamus nyata kosong menjelaskan status kesiapan; dashboard dapat menjalankan demo SIMULASI dan menerima kamus lokal berversi yang telah dikurasi.
 
 Dokumen ini menjelaskan pilihan implementasi konservatif dalam lingkup instruksi manusia. Persetujuan taksonomi, status, keanggotaan kompleks, dan kalibrasi ambang tetap membutuhkan ahli sesuai AGENTS. Entri log keputusan lama dipertahankan.
+
+## Pembaruan 25 Oktober 2026
+
+- Seluruh usulan D-018–D-024, D-027, D-028, D-029 dan konflik K-002–K-011 diputuskan manusia (lihat 09). K-001 tetap ditunda.
+- **r0.3** (D-030) menjadi aturan aktif: menambah label `possible_endemic` untuk kandidat campuran; ambang numerik sama dengan r0.2. Run r0.2 lama, termasuk LOSO Guyana, tetap dapat direproduksi dengan `--rules rules_r0.2.yaml`.

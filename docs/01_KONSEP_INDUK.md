@@ -143,10 +143,10 @@ BioTrace punya tiga lapis yang saling memperkuat. Urutan pentingnya adalah aset 
 
 | Tahap | Waktu | Isi | Tag |
 |---|---|---|---|
-| **Prototipe hackathon** | s.d. 25 Okt 2026, 10:00 WIB | Mesin cek + dashboard + kamus awal Malili v0.1 + data demo SIMULASI + uji mesin dasar | `[MVP]` |
+| **Prototipe hackathon** | s.d. 25 Okt 2026, 10:00 WIB | Mesin cek + dashboard + kamus awal Malili v0.1 + data demo SIMULASI + uji mesin dasar + LOSO pustaka Guyana (K-009) | `[MVP]` |
 | Validasi masalah | Bulan 1–2 | Wawancara 5–8 perusahaan/konsultan lingkungan. Gerbang 1: ≥5 menyatakan masalah nyata | `[P1]` |
 | Paper 1 + kamus v0.2 | Bulan 1–4 | Analisis celah 12S ikan air tawar Indonesia per pulau/famili/genus | `[P1]` |
-| Validasi mesin | Bulan 3–4 | Uji di Lake St. Pierre dan pustaka Guyana | `[P1]` |
+| Validasi mesin | Bulan 3–4 | Uji presisi di Lake St. Pierre (LOSO Guyana sudah masuk MVP, K-009) | `[P1]` |
 | Tinjauan ahli | Bulan 7–9 | 50 klaim diperiksa ahli ikan. Gerbang 2: ≥80% disetujui | `[P1]` |
 | Pilot | Bulan 10–12 | Analisis ulang data proyek nyata bersama mitra; ≥1 pilot berbayar atau LOI | `[P1]` |
 | Kamus v1.0 | Tahun 2 | Sekuens baru dari spesimen bervoucher lewat mitra berizin | `[P2]` |
@@ -160,7 +160,7 @@ BioTrace punya tiga lapis yang saling memperkuat. Urutan pentingnya adalah aset 
 Angka di tabel §2.3 dan di `07_REGISTRI_BUKTI_RINGKAS.md` §2 dengan status **Terverifikasi**, selalu dengan sumbernya. Roussel 2026 wajib disebut sebagai preprint.
 
 ### 8.2 Ditunda (jangan dipakai sampai dicek)
-- "Sekitar 630 spesies endemik": belum ditemukan di teks sumber primer.
+- "Sekitar 630 spesies endemik": tidak dipakai (K-002). Pakai "1.172 spesies ikan air tawar asli" (Hubert 2015).
 - "4 → 34 spesies yang disepakati semua penyedia" (Roussel 2026): sumber berbeda pendapat; perlu dicek di teks penuh.
 - Angka pasar eDNA Indonesia: belum ada data. Jangan ditampilkan sebelum ada ≥5 wawancara harga.
 - Kewajiban eDNA dalam AMDAL/RKL-RPL/PROPER: belum terverifikasi.
