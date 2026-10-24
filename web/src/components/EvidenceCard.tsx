@@ -1,10 +1,11 @@
 import { useEffect, useRef, useState } from 'react';
-import { ArrowDown, Check, ClipboardList, Info, X } from 'lucide-react';
-import type { Claim } from '../api/generated';
+import { ArrowDown, BadgeCheck, Check, ClipboardList, Info, MessageSquarePlus, X } from 'lucide-react';
+import type { Claim, ReviewNote } from '../api/generated';
+import { ApiError, request, useResource } from '../api/client';
 import { causeNames, formatNumber, labelNames, percent, rankLabels, warningNames } from '../i18n/id';
 import { DecisionBadge, GradeBadge } from './Common';
 
-export default function EvidenceCard({claim,onClose}:{claim:Claim;onClose:()=>void}){
+export default function EvidenceCard({claim,runId,onClose}:{claim:Claim;runId:string;onClose:()=>void}){
   const dialog=useRef<HTMLDialogElement>(null);
   const [language,setLanguage]=useState<'id'|'en'>('id');
   useEffect(()=>{const element=dialog.current;element?.showModal();return()=>element?.close();},[]);
@@ -20,6 +21,24 @@ export default function EvidenceCard({claim,onClose}:{claim:Claim;onClose:()=>vo
     <section><h3>Asal-usul (kemungkinan)</h3><p>{claim.origin_status}</p><p>{claim.origin_pathway}</p><p>{claim.origin_other_sources}</p></section>
     <section className={`follow-up ${claim.decision}`}><h3>Tindak lanjut</h3><p>{claim.follow_up}</p></section>
     {claim.warnings.length?<ul className="small muted">{claim.warnings.map(w=><li key={w}>{warningNames[w]??w}</li>)}</ul>:null}
+    <ReviewNotes runId={runId} claimId={claim.claim_id}/>
     <p className="evidence-limit"><Info size={15}/>{claim.interpretation_limit}</p><p className="mono small muted">Aturan: {claim.rule_ids.join(', ')}</p>
   </div></article></dialog>;
+}
+
+function ReviewNotes({runId,claimId}:{runId:string;claimId:string}){
+  const loaded=useResource<ReviewNote[]>(`/api/runs/${runId}/notes`);
+  const [added,setAdded]=useState<ReviewNote[]>([]);
+  const [reviewer,setReviewer]=useState('');
+  const [note,setNote]=useState('');
+  const [verified,setVerified]=useState(false);
+  const [error,setError]=useState('');
+  const [busy,setBusy]=useState(false);
+  const notes=[...(loaded.data??[]),...added].filter(n=>n.claim_id===claimId);
+  const isVerified=notes.some(n=>n.verified);
+  const submit=async(event:React.FormEvent)=>{event.preventDefault();setBusy(true);setError('');try{const saved=await request<ReviewNote>(`/api/runs/${runId}/claims/${encodeURIComponent(claimId)}/notes`,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({reviewer,note,verified})});setAdded(old=>[...old,saved]);setNote('');setVerified(false);}catch(e){setError(e instanceof ApiError?e.message:'Catatan gagal disimpan.');}finally{setBusy(false);}};
+  return <section><h3>Catatan ahli {isVerified?<span className="verified-tag"><BadgeCheck size={12}/>Sudah diverifikasi</span>:null}</h3>
+    {notes.length?<ul className="note-list">{notes.map((n,i)=><li key={i}><div><strong>{n.reviewer}</strong><small>{n.created_at.slice(0,16).replace('T',' ')} UTC</small>{n.verified?<span className="verified-tag"><BadgeCheck size={11}/>Diverifikasi</span>:null}</div><p>{n.note}</p></li>)}</ul>:<p className="muted small">Belum ada catatan peninjau untuk klaim ini.</p>}
+    <form className="note-form" onSubmit={e=>void submit(e)}><input className="text-input" aria-label="Nama peninjau" placeholder="Nama peninjau" value={reviewer} onChange={e=>setReviewer(e.target.value)} maxLength={120}/><textarea className="text-input" aria-label="Catatan" placeholder="Catatan tinjauan…" value={note} onChange={e=>setNote(e.target.value)} maxLength={4000} rows={3}/><label className="check-row"><input type="checkbox" checked={verified} onChange={e=>setVerified(e.target.checked)}/>Tandai sudah diverifikasi</label>{error?<p className="small error-text">{error}</p>:null}<button className="button secondary" disabled={busy||!reviewer.trim()||!note.trim()}><MessageSquarePlus size={15}/>Simpan catatan</button></form>
+    <p className="small muted">Catatan disimpan terpisah dan tidak mengubah keputusan maupun sidik jari laporan.</p></section>;
 }

@@ -15,4 +15,6 @@ import './styles.css';
 const Results=lazy(()=>import('./pages/Results'));
 const Methods=lazy(()=>import('./pages/Methods'));
 const Validation=lazy(()=>import('./pages/Validation'));
-ReactDOM.createRoot(document.getElementById('root')!).render(<React.StrictMode><BrowserRouter><Suspense fallback={<Loading/>}><Routes><Route element={<Layout/>}><Route index element={<Upload/>}/><Route path="runs/:id" element={<Results/>}/><Route path="methods" element={<Methods/>}/><Route path="validation" element={<Validation/>}/><Route path="*" element={<Navigate to="/" replace/>}/></Route></Routes></Suspense></BrowserRouter></React.StrictMode>);
+const Verify=lazy(()=>import('./pages/Verify'));
+const Propose=lazy(()=>import('./pages/Propose'));
+ReactDOM.createRoot(document.getElementById('root')!).render(<React.StrictMode><BrowserRouter><Suspense fallback={<Loading/>}><Routes><Route element={<Layout/>}><Route index element={<Upload/>}/><Route path="runs/:id" element={<Results/>}/><Route path="methods" element={<Methods/>}/><Route path="validation" element={<Validation/>}/><Route path="verify" element={<Verify/>}/><Route path="reference/propose" element={<Propose/>}/><Route path="*" element={<Navigate to="/" replace/>}/></Route></Routes></Suspense></BrowserRouter></React.StrictMode>);

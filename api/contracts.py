@@ -104,3 +104,38 @@ class APIError(Model):
 
 class ErrorResponse(Model):
     error: APIError
+
+
+class VerifyRequest(Model):
+    report_fingerprint: str
+
+
+class VerifyResponse(Model):
+    found: bool
+    valid: bool
+    errors: list[str]
+    run_id: str | None
+    report_fingerprint: str | None = None
+    reference_version: str | None = None
+    rules_version: str | None = None
+    engine_version: str | None = None
+    started_at: str | None = None
+    is_simulated: bool | None = None
+
+
+class NoteRequest(Model):
+    reviewer: str
+    note: str
+    verified: bool = False
+
+
+class ProposalResponse(Model):
+    proposal_id: str
+    status: str
+    reference_version: str
+    rules_version: str
+    submitted: int
+    eligible_after_curation: int
+    counts: dict[str, int]
+    report: list[dict[str, str]]
+    contains_simulated: bool

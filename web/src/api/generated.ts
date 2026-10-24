@@ -79,6 +79,13 @@ export interface Claim {
   rule_ids: Array<string>;
   interpretation_limit: string;
 }
+export interface ClaimChange {
+  site_id: string;
+  asv_id: string;
+  change: string;
+  before: Record<string, string> | null;
+  after: Record<string, string> | null;
+}
 export interface CoverageRow {
   waterbody_id: string;
   genus: string;
@@ -127,6 +134,17 @@ export interface NamingConfig {
   species_min_pct: number;
   congener_gap_policy: "strict" | "threshold";
 }
+export interface ProposalResponse {
+  proposal_id: string;
+  status: string;
+  reference_version: string;
+  rules_version: string;
+  submitted: number;
+  eligible_after_curation: number;
+  counts: Record<string, number>;
+  report: Array<Record<string, string>>;
+  contains_simulated: boolean;
+}
 export interface ReferenceStats {
   reference_version: string;
   module: string;
@@ -139,6 +157,13 @@ export interface ReferenceStats {
   by_curation: Record<string, number>;
   coverage: Array<CoverageRow>;
   sources: Array<Record<string, string>>;
+}
+export interface ReviewNote {
+  claim_id: string;
+  reviewer: string;
+  note: string;
+  verified: boolean;
+  created_at: string;
 }
 export interface RulesConfig {
   rules_version: string;
@@ -155,6 +180,16 @@ export interface RulesConfig {
   blast: Record<string, string | number | number>;
   interpretation_limit: string;
   labels: Record<string, boolean>;
+}
+export interface RunComparison {
+  base_run_id: string;
+  other_run_id: string;
+  base_reference_version: string;
+  other_reference_version: string;
+  base_rules_version: string;
+  other_rules_version: string;
+  unchanged: number;
+  changes: Array<ClaimChange>;
 }
 export interface RunCreated {
   run_id: string;
@@ -227,6 +262,14 @@ export interface SequenceFile {
   bytes: number;
   crc32: string;
 }
+export interface SitePoint {
+  site_id: string;
+  waterbody_id: string;
+  latitude: number;
+  longitude: number;
+  masked: boolean;
+  decisions: Record<string, number>;
+}
 export interface SpeciesHit {
   species: string;
   pct: number;
@@ -264,4 +307,16 @@ export interface ValidationReport {
 export interface ValidationResults {
   available: boolean;
   results: Array<ValidationExperiment>;
+}
+export interface VerifyResponse {
+  found: boolean;
+  valid: boolean;
+  errors: Array<string>;
+  run_id: string | null;
+  report_fingerprint: string | null;
+  reference_version: string | null;
+  rules_version: string | null;
+  engine_version: string | null;
+  started_at: string | null;
+  is_simulated: boolean | null;
 }

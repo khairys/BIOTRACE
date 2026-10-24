@@ -1,4 +1,4 @@
-import { BookOpen, CircleDot, Dna, FileCheck2, FlaskConical, LockKeyhole, Plus, Waves } from 'lucide-react';
+import { BookOpen, CircleDot, Dna, FileCheck2, Fingerprint, FlaskConical, FlaskRound, LockKeyhole, Plus, Waves } from 'lucide-react';
 import { Link, NavLink, Outlet, useLocation } from 'react-router-dom';
 
 export default function Layout(){
@@ -12,6 +12,8 @@ export default function Layout(){
         {location.pathname.startsWith('/runs/')?<NavLink to={location.pathname}><FileCheck2 size={18}/>Hasil verifikasi</NavLink>:null}
         <NavLink to="/methods"><BookOpen size={18}/>Metode & aturan</NavLink>
         <NavLink to="/validation"><FlaskConical size={18}/>Validasi & dataset</NavLink>
+        <NavLink to="/verify"><Fingerprint size={18}/>Verifikasi laporan</NavLink>
+        <NavLink to="/reference/propose"><FlaskRound size={18}/>Usulan sekuens</NavLink>
       </nav>
       <div className="sidebar-bottom"><div className="local-state"><CircleDot size={12}/>Lingkungan lokal</div><p><LockKeyhole size={14}/>Data diproses di perangkat ini.</p><small>Prototipe MVP · v0.1.1</small></div>
     </aside>

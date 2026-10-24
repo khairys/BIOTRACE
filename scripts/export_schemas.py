@@ -8,11 +8,14 @@ from api.contracts import (
     ErrorResponse,
     HealthResponse,
     MethodsResponse,
+    ProposalResponse,
     ReferenceStats,
     ValidationResults,
+    VerifyResponse,
 )
 from biotrace_core.config import ROOT
 from biotrace_core.models import RunCreated, RunResult
+from biotrace_core.records import ReviewNote, RunComparison, SitePoint
 
 
 def ts_type(schema: dict) -> str:
@@ -54,6 +57,11 @@ def generate(destination: Path = ROOT / "web/src/api/generated.ts") -> str:
             ValidationResults,
             DatasetsResponse,
             ErrorResponse,
+            VerifyResponse,
+            ReviewNote,
+            SitePoint,
+            RunComparison,
+            ProposalResponse,
         )
     ]
     definitions = {}

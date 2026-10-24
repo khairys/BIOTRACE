@@ -22,8 +22,12 @@ from api.contracts import (
     DatasetsResponse,
     HealthResponse,
     MethodsResponse,
+    NoteRequest,
+    ProposalResponse,
     ReferenceStats,
     ValidationResults,
+    VerifyRequest,
+    VerifyResponse,
 )
 from biotrace_core import __version__
 from biotrace_core.audit import read_run, verify_run
@@ -38,6 +42,18 @@ from biotrace_core.models import (
 )
 from biotrace_core.naming.blast import executable
 from biotrace_core.pipeline import run_analysis
+from biotrace_core.records import (
+    ReviewNote,
+    RunComparison,
+    SitePoint,
+    add_note,
+    compare_runs,
+    find_by_fingerprint,
+    load_notes,
+    propose_sequences,
+    rematch,
+    site_points,
+)
 from biotrace_core.reference.store import load_reference, reference_stats
 from biotrace_core.report.csv_export import artifact_name
 
@@ -124,6 +140,20 @@ def run_folder(run_id: str) -> Path:
     return folder
 
 
+async def save_upload(upload: UploadFile, path: Path) -> None:
+    """Stream an upload to a canonical name; never trust the user's filename as a path."""
+    limit = min(
+        MAX_UPLOAD_BYTES, int(os.environ.get("BIOTRACE_MAX_UPLOAD_MB", "200")) * 1024 * 1024
+    )
+    size = 0
+    with path.open("xb") as stream:
+        while chunk := await upload.read(1024 * 1024):
+            size += len(chunk)
+            if size > limit:
+                raise HTTPException(413, "Ukuran file melebihi batas unggah.")
+            stream.write(chunk)
+
+
 def get_result(run_id: str) -> RunResult:
     try:
         return read_run(run_folder(run_id))
@@ -184,16 +214,7 @@ async def create_run(
             if simulated and "SIMULASI" not in (upload.filename or ""):
                 raise HTTPException(422, "Nama file simulasi wajib memuat SIMULASI.")
             path = Path(temp) / artifact_name(role, suffix.lstrip("."), simulated)
-            size = 0
-            with path.open("xb") as stream:
-                while chunk := await upload.read(1024 * 1024):
-                    size += len(chunk)
-                    if size > min(
-                        MAX_UPLOAD_BYTES,
-                        int(os.environ.get("BIOTRACE_MAX_UPLOAD_MB", "200")) * 1024 * 1024,
-                    ):
-                        raise HTTPException(413, "Ukuran file melebihi batas unggah.")
-                    stream.write(chunk)
+            await save_upload(upload, path)
             paths[role] = path
         ref = DEMO / "reference_SIMULASI" if mode == "simulation" else reference_root()
         result = await run_in_threadpool(
@@ -375,6 +396,71 @@ def datasets() -> dict:
         "lake_st_pierre": json.loads(path.read_text(encoding="utf-8")) if path.is_file() else None,
         "guyana_available": (ROOT / "data/external/french_guiana_12s/v1/manifest.json").is_file(),
     }
+
+
+@app.post("/api/verify", response_model=VerifyResponse)
+def verify_report(body: VerifyRequest) -> dict:
+    """F28 [P1]: report code (full or 12-character prefix) against runs on this machine."""
+    if not re.fullmatch(r"[0-9a-fA-F]{12}([0-9a-fA-F]{52})?", body.report_fingerprint.strip()):
+        raise HTTPException(422, "Kode verifikasi berisi 12 atau 64 karakter heksadesimal.")
+    return find_by_fingerprint(runs_root(), body.report_fingerprint)
+
+
+@app.get("/api/runs/{run_id}/notes", response_model=list[ReviewNote])
+def notes(run_id: str) -> list[ReviewNote]:
+    return load_notes(run_folder(run_id))
+
+
+@app.post("/api/runs/{run_id}/claims/{claim_id}/notes", response_model=ReviewNote)
+def create_note(run_id: str, claim_id: str, body: NoteRequest) -> ReviewNote:
+    """F29 [P1]: append-only expert note; it never changes the claim or the fingerprint."""
+    return add_note(run_folder(run_id), claim_id, body.reviewer, body.note, body.verified)
+
+
+@app.get("/api/runs/{run_id}/sites", response_model=list[SitePoint])
+def sites(run_id: str) -> list[SitePoint]:
+    decimals = int(os.environ.get("BIOTRACE_MASK_DECIMALS", "1"))
+    return site_points(run_folder(run_id), decimals)
+
+
+@app.get("/api/runs/{run_id}/compare/{other_id}", response_model=RunComparison)
+def compare(run_id: str, other_id: str) -> RunComparison:
+    return compare_runs(get_result(run_id), get_result(other_id))
+
+
+@app.post("/api/runs/{run_id}/rematch", response_model=RunComparison)
+async def rematch_run(run_id: str) -> RunComparison:
+    """F32 [P2]: rerun stored inputs against the ACTIVE reference and rules, then diff."""
+    base = get_result(run_id)
+    ref = DEMO / "reference_SIMULASI" if base.summary.is_simulated else reference_root()
+    _, comparison = await run_in_threadpool(
+        rematch, run_folder(run_id), ref, DEFAULT_RULES, runs_root()
+    )
+    return comparison
+
+
+@app.post("/api/reference/proposals", response_model=ProposalResponse)
+async def create_proposal(
+    fasta: Annotated[UploadFile, File()],
+    metadata: Annotated[UploadFile, File()],
+    simulation: Annotated[bool, Form()] = False,
+) -> dict:
+    """F31 [P1]: automatic curation report for proposed sequences; nothing enters the reference."""
+    if Path(fasta.filename or "").suffix.lower() not in {".fasta", ".fa", ".fna"}:
+        raise HTTPException(422, "Usulan sekuens memerlukan file .fasta/.fa/.fna.")
+    if Path(metadata.filename or "").suffix.lower() not in {".csv", ".tsv"}:
+        raise HTTPException(422, "Metadata sekuens memerlukan CSV/TSV.")
+    cfg = load_rules()
+    mode = "simulation" if simulation else "normal"
+    source = load_reference(DEMO / "reference_SIMULASI" if simulation else reference_root(), mode)
+    source = source.select(cfg, mode, source.manifest["marker"])
+    with tempfile.TemporaryDirectory(prefix="biotrace-proposal-") as temp:
+        fasta_path = Path(temp) / "sequences.fasta"
+        meta_path = Path(temp) / f"metadata{Path(metadata.filename or '').suffix.lower()}"
+        await save_upload(fasta, fasta_path)
+        await save_upload(metadata, meta_path)
+        root = Path(os.environ.get("BIOTRACE_PROPOSALS_DIR", str(ROOT / "proposals"))).resolve()
+        return await run_in_threadpool(propose_sequences, fasta_path, meta_path, source, cfg, root)
 
 
 dist = ROOT / "web/dist"
