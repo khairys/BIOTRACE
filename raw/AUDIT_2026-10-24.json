@@ -1,0 +1,77 @@
+{
+  "audit_date_local": "2026-10-24",
+  "timezone": "Asia/Jakarta",
+  "base_commit": "550e9b2",
+  "command": "python -X utf8 -B scripts/fetch_data.py stelbrink2014 guyana12s lsp_small",
+  "command_exit_code": 1,
+  "scope": "Audit struktur/integritas dan screening awal; bukan hasil kurasi core atau validasi ilmiah",
+  "stelbrink": {
+    "fasta_records": 95,
+    "genbank_records": 95,
+    "all_requested_accession_versions_present": true,
+    "fasta_matches_genbank_origin": true,
+    "sequence_length_range_bp": [
+      1045,
+      1284
+    ],
+    "records_with_12s_annotation": 93,
+    "annotated_12s_length_range_bp": [
+      96,
+      110
+    ],
+    "records_with_specimen_voucher": 95,
+    "records_with_country_or_geo_loc_name": 0,
+    "primer_screen": {
+      "source": "docs/04_SPESIFIKASI_DATA.md R-CUR-05",
+      "method": "Ungapped, both orientations, at most 3 mismatches per primer; ordered nonoverlapping forward and reverse-complement reverse sites",
+      "forward_matches_records": 0,
+      "reverse_matches_records": 0,
+      "paired_matches_records": 0,
+      "limitation": "Preliminary screen only; not validated BioTrace curation pipeline"
+    }
+  },
+  "guyana": {
+    "figshare_article": 29168144,
+    "version": 1,
+    "license": "CC0",
+    "csv_bytes": 1143446,
+    "delimiter": ";",
+    "rows": 1557,
+    "unique_genus_species_labels": 369,
+    "unique_accessions": 1557,
+    "empty_sequences": 0,
+    "sequence_length_range_bp": [
+      382,
+      679
+    ],
+    "rows_with_non_acgt": 48,
+    "rows_with_non_acgtn": 31,
+    "empty_or_NA_voucher_institutions": 0,
+    "provider_md5": "5b34a6eaeed4a8a1220be8f72321f208",
+    "provider_md5_matches": true
+  },
+  "lake_st_pierre": {
+    "listing_available": true,
+    "listed_files": 7,
+    "downloaded_files": 0,
+    "first_download_url": "https://datadryad.org/api/v2/files/4370610/download",
+    "download_status": 401,
+    "followup_head_status": 401,
+    "manual_download_tested": false
+  },
+  "sha256": {
+    "stelbrink2014/stelbrink2014_12s16s.fasta": "6895181a114e68a9a32b44851a03e311541dcc2cfe3d68aeb6ca2689fc8f4ebf",
+    "stelbrink2014/stelbrink2014_12s16s.gb": "d6f4a852be5c4df427cd27431f0cec1b506996bd3c6fe0d8393f78863a9410b7",
+    "french_guiana_12s/Data_12S Ref library_Fish Guiana.csv": "7924d2370891443a496a78f21fddae71c6a37c93bf04758077968927a0c6476f",
+    "french_guiana_12s/figshare_metadata.json": "8bb2b4bdc795886424eeafce88a0d74d60b55ef35424fbc02ef77e28a6727a0e"
+  },
+  "not_performed": [
+    "BLAST",
+    "BioTrace application tests",
+    "LOSO",
+    "expert taxonomy review",
+    "reference import",
+    "dependency installation",
+    "FASTQ download"
+  ]
+}

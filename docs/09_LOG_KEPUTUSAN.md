@@ -161,3 +161,69 @@ Templat:
 ### K-002 — "Sekitar 630 endemik"
 - Isi: Angka dari PRD v2 dan deck belum ditemukan di teks primer Hubert dkk. 2015.
 - Status: Ditunda. Pakai "1.172 spesies asli" saja.
+
+### K-003 — Usulan aktif sebagai default vs persetujuan manusia `[MVP]`
+- Tanggal: 2026-10-24 · Dicatat oleh: Codex, audit kesiapan.
+- Isi: Judul bagian usulan menyatakan "aktif sebagai default r0.1", sedangkan AGENTS.md §4 mewajibkan menunggu persetujuan untuk aturan, skema, dan keputusan. D-018–D-023 sudah dipakai dalam spesifikasi tetapi masih Diusulkan; D-027 juga belum disetujui.
+- Pertanyaan keputusan: Apakah usulan tersebut boleh diterapkan sebagai baseline prototipe berlabel "usulan tim, belum dikalibrasi ahli", atau menunggu keputusan masing-masing pemilik?
+- Status: Terbuka; tidak ada status D-* yang diubah oleh audit.
+- Pemilik: Ketua, Backend & data; Frontend untuk D-027.
+
+### K-004 — Referensi berkonflik dipakai atau dikeluarkan `[MVP]`
+- Tanggal: 2026-10-24 · Dicatat oleh: Codex.
+- Isi: 03 R-NAME-01 hanya menerima `curation_status = accepted`. 04 R-CUR-08 menyatakan sekuens identik dari spesies berbeda berstatus `flagged:conflict` dan tetap dipakai agar turun ke LCA. Keduanya tidak bisa diterapkan sekaligus dengan skema status sekarang.
+- Pertanyaan keputusan: Bagaimana memisahkan status kelayakan dan flag konflik, serta apakah entri konflik boleh mendukung kandidat/LCA?
+- Status: Terbuka; perlu usulan aturan/skema dan tes sebelum implementasi.
+- Pemilik: Backend & data bersama penasihat ahli.
+
+### K-005 — Kontrak mode, marker, dan asal referensi `[MVP]`
+- Tanggal: 2026-10-24 · Dicatat oleh: Codex.
+- Isi: 03 R-NAME-01 mensyaratkan direktori referensi Indonesia dan `in_indonesia = true`; belum ada ketentuan ekuivalen untuk validasi luar atau kamus sintetis terpisah. 04 §3 mewajibkan modul luar, tetapi enum marker input §1.2 tidak memuat Teleo1/12S-V5 dataset Guyana. 05 §5 hanya mendefinisikan mode normal/validation, sedangkan 04 §6 melarang kamus sintetis masuk `data/reference/`.
+- Tambahan geografis: A4 melarang referensi luar Indonesia mendukung laporan Indonesia; R-NAME-01 mengecek keberadaan spesies di Indonesia, belum secara eksplisit asal spesimen. `specimen_country` di 04 opsional. Seluruh 95 record GenBank yang diperiksa audit tidak memuat country/geo_loc_name; asal tidak boleh diasumsikan dari judul paper.
+- Pertanyaan keputusan: Tetapkan kelayakan per mode, marker validasi, propagasi SIMULASI, dan perlakuan asal spesimen yang belum diketahui tanpa melonggarkan A4/A5 diam-diam.
+- Status: Terbuka; tidak ada data yang dimasukkan ke kamus aktif.
+- Pemilik: Ketua, Backend & data; penasihat ahli untuk cakupan ilmiah.
+
+### K-006 — Sidik jari lintas jumlah thread `[MVP]`
+- Tanggal: 2026-10-24 · Dicatat oleh: Codex.
+- Isi: 03 R-AUD-02 memasukkan parameter efektif ke run fingerprint. 05 §6 mencatat `num_threads` sebagai parameter BLAST. 06 T-REPRO mengharuskan report fingerprint sama walau jumlah thread berbeda, sementara report fingerprint juga memasukkan run fingerprint.
+- Pertanyaan keputusan: Apakah parameter eksekusi seperti jumlah thread dicatat di manifest tetapi dikecualikan dari fingerprint analitis, atau target tes dibedakan antara kesamaan hasil dan kesamaan fingerprint?
+- Status: Terbuka; algoritme hash belum diimplementasikan.
+- Pemilik: Backend & data.
+
+### K-007 — Kontrak berkas SIMULASI dan fixture `[MVP]`
+- Tanggal: 2026-10-24 · Dicatat oleh: Codex.
+- Isi: A2 mewajibkan SIMULASI di nama file, tetapi contoh 04 §8 dan 10 §6 memakai `reads.csv`, `metadata.csv`, dan folder `matano_sim_v1`. Format reads lebar menyebut seluruh kolom setelah `asv_id` sebagai sample_id, sementara tabel simulasi wajib memiliki `is_simulated`. FASTA tidak memiliki kolom boolean. FX-1 disebut fiktif, tetapi alias E9 menggunakan nama asli yang belum tersedia dalam sumber raw yang diunduh audit ini (A14).
+- Pertanyaan keputusan: Tetapkan penamaan berkas, pengecualian kolom metadata pada reads lebar, propagasi flag untuk FASTA/run, dan sumber atau pengganti fiktif alias fixture.
+- Status: Terbuka; fixture/data demo belum dibuat.
+- Pemilik: Backend & data, Frontend & laporan.
+
+### K-008 — Parameter kurasi belum tercakup YAML `[MVP]`
+- Tanggal: 2026-10-24 · Dicatat oleh: Codex.
+- Isi: A3 mengharuskan semua ambang dibaca dari rules YAML. Contoh 04 §7 belum memuat batas mismatch primer, panjang relatif, dan ambiguitas R-CUR-05/06. Populasi untuk median panjang amplikon belum ditetapkan. Bobot prioritas R-GAP-01 juga belum tercantum dalam konfigurasi berversi.
+- Pertanyaan keputusan: Lengkapi usulan konfigurasi kurasi/prioritas dan definisi median sebelum membekukan aturan pertama; nilai ilmiah tidak diubah tanpa persetujuan.
+- Status: Terbuka.
+- Pemilik: Backend & data; penasihat ahli untuk parameter ilmiah.
+
+### K-009 — Validasi luar sebagai MVP atau P1 `[MVP]`
+- Tanggal: 2026-10-24 · Dicatat oleh: Codex.
+- Isi: 01 §7 menjadwalkan uji Lake St. Pierre dan pustaka Guyana pada P1. 02 F27 mewajibkan minimal satu dataset luar pada MVP; 04 §3 dan 06 juga menandai bagian validasi Guyana sebagai MVP.
+- Pertanyaan keputusan: Apakah LOSO dataset luar harus selesai sebelum demo, atau menjadi gerbang lanjutan setelah prototipe SIMULASI? Jika tetap MVP, 01 perlu diselaraskan melalui keputusan manusia.
+- Status: Terbuka; tidak ada hasil validasi yang diklaim lulus.
+- Pemilik: Ketua dan Backend & data.
+
+### K-010 — Lokasi dokumen lengkap dan materi bisnis `[MVP]`
+- Tanggal: 2026-10-24 · Dicatat oleh: Codex.
+- Isi: D-010 dan docs/README menyebut registri lengkap serta dokumen bisnis berada di Project GENOHACK, bukan repo produk. Keduanya saat audit dilacak Git di `project/07_REGISTRI_BUKTI.md` dan `project/08_BISNIS_DAN_MASUK_PASAR.md`.
+- Pertanyaan keputusan: Apakah salinan repo memang diinginkan dan perlu diakui sebagai lokasi resmi/salinan?
+- Status: Terbuka; file tidak dipindah/dihapus. Bukan penghambat mesin inti.
+- Pemilik: Ketua.
+
+### K-011 — Agregasi untuk nama famili/ordo belum lengkap `[MVP]`
+- Tanggal: 2026-10-24 · Dicatat oleh: Codex.
+- Isi: R-NAME-06 mengizinkan hasil famili/ordo dari kandidat lintas genus. R-SCORE-07 meminta "genus dari takson yang dilaporkan", yang tidak tunggal pada kasus tersebut; penalti L1 juga memakai fraksi referensi per genus. Belum ada fallback eksplisit jika kandidat tidak berbagi ordo. Label threatened/invasive pada takson agregat belum menetapkan penggunaan satu, semua, atau sebagian anggota kandidat.
+- Pertanyaan keputusan: Tentukan agregasi cakupan/label dan fallback taksonomi sebelum implementasi; jangan memilih genus/status dari ingatan model.
+- Status: Terbuka; perlu fixture tambahan setelah keputusan.
+- Pemilik: Backend & data bersama penasihat ahli.
+
+Rincian bukti dan gerbang implementasi: [11 — Audit Kesiapan](11_AUDIT_KESIAPAN_2026-10-24.md). Pencatatan konflik tidak menyetujui perubahan aturan/skema.
