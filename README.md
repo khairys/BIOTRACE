@@ -12,10 +12,10 @@ Dokumen acuan ada di [`docs/`](docs/README.md). Sumber kebenaran tertinggi: [01_
 |---|---|
 | Mesin inti, API, dashboard, PDF/CSV, jejak audit | Berjalan; tes `not slow` dan T-PERF lulus di perangkat tim |
 | Aturan | `r0.4` aktif (D-030, D-033); semua ambang **usulan tim, belum dikalibrasi ahli** |
-| Kamus Indonesia `data/reference/v0.2` (D-032) | Checklist **nyata** 18 ikan introduksi Malili dari Herder dkk. 2012 dan Tantu & Nilawati 2007 (24 baris, 4 danau). **0 sekuens MiFish**: klaim spesies pada data nyata masih diturunkan. Spesies endemik belum masuk (Herder 2006 belum tersedia) |
+| Kamus Indonesia `data/reference/v0.3` (D-034, Diusulkan) | **65 sekuens 12S MiFish dari 38 spesies** (V2 23, V3 42) + checklist 62 baris Malili (primer dan sekunder). 19 spesies endemik tercatat, **0 bersekuens**. v0.2 dan v0.1 tetap utuh |
 | Demo | Data dan kamus **SIMULASI** di `data/demo/matano_SIMULASI_v3/`; hasil cadangan di `precomputed/` |
 | Fitur P1/P2 (D-031) | Verifikasi kode laporan, catatan ahli, usulan sekuens, peta lokasi tersamar, tampilan ponsel, CI, cocok ulang, agregasi celah, templat lab (`templates/`) |
-| Validasi | LOSO pada pustaka 12S Guyana (mode validasi, marker Teleo1/12S-V5) di `validation/results/`. Bukan bukti akurasi MiFish Indonesia |
+| Validasi | LOSO Guyana (Teleo1, 1.552 query): M1 0,7% vs BLAST-97% 30,9%. LOSO kamus Indonesia v0.3 (MiFish, 65 query): M1 0% vs 46,2%. Hasil di `validation/results/`; menguji logika penamaan, bukan akurasi lapangan |
 
 ## Persiapan
 

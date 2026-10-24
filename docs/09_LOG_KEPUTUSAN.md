@@ -265,3 +265,11 @@ Rincian bukti dan gerbang implementasi: [11 — Audit Kesiapan](11_AUDIT_KESIAPA
 - Tetap berlaku tanpa pengecualian: A1 (tanpa fabrikasi; setiap baris punya kutipan sumber), A2, A5 (V4 tidak masuk kamus), R-CUR-05 (pemotongan daerah MiFish), spesies yang tidak tercatat di Indonesia tetap ditolak, A10/A11.
 - Implementasi: `rules_r0.4.yaml`, `reference/store.py` (seleksi), `decision.py` (`weak_evidence`, `cap_secondary`), `assessment.py`; tes `tests/test_rules_r04.py`. r0.3 tetap mereproduksi keluaran lama.
 - Status ilmiah: usulan tim, belum dikalibrasi ahli.
+
+### D-034 — Kamus Indonesia v0.3: sekuens 12S Malili dari data repo Bagus `[MVP]`
+- Tanggal: 2026-10-25 · Status: **Diusulkan** · Dikerjakan: Bagus Athallah (branch `data/merge-bagus`, docs/13 langkah 1–6); dicatat di branch gabungan `integrasi/main-bagus` oleh Claude Code atas instruksi Agathan.
+- Sumber: data mentah repo BagusAth/BIOTRACE commit 5a407e4 (mitohelper 12S Juli 2026, esummary GenBank, GBIF), disalin ke `raw/malili12s_mitohelper/` dengan cek SHA-256 (fetch_instructions §6); header GenBank 592 aksesi tanpa voucher/negara diunduh lewat `fetch_data.py malili12s_genbank_headers`.
+- Isi v0.3: 65 sekuens unik diterima dari 38 spesies (V2 23, V3 42); 39 aksesi digabung (R-CUR-07); 12 bertanda konflik (R-CUR-08); ditandai `no_mifish_region` 277, `unknown_name` 53; ditolak `no_voucher` 244, `origin_not_verified_ID` 218. Asal spesimen diterima: 37 kosong, sisanya luar Indonesia (bertanda `specimen_outside_indonesia`). Checklist 62 baris (v0.2 primer + tabel tim `sekunder`/`berita`); 19 endemik di checklist, **0 bersekuens**.
+- Keputusan voucher (usulan docs/13): V2 bila ada `/specimen_voucher`; V3 bila tanpa voucher tetapi REFERENCE terbit; selain itu ditolak `no_voucher`.
+- Uji LOSO v0.3 (r0.4, MiFish, 38 spesies, 65 query; `validation/results/2026-10-25_MALILI-v0.3_r0.4.json`): M1 0,0% vs baseline BLAST-97% 46,2%; M2 90,8%; M5 (turun tingkat tanpa perlu) 51,3%. Sebagian besar referensi adalah ikan introduksi dari spesimen luar negeri; angka ini menguji logika penamaan, bukan akurasi lapangan Malili.
+- Perlu tinjauan: sinonimi *Pterygoplichthys pardalis* / *P.* cf. *pardalis* / *Lyposarcus pardalis*; Permen KP 19/2020 belum dicek; checklist endemik tetap `sekunder` sampai PDF sumber ada di `raw/`.
