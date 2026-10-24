@@ -520,11 +520,27 @@ def main() -> None:
     bold = load_bold(names)
     gbif = load_gbif(names)
     regs = regulation_species(names)
-    protected = {
-        r["spec_code"]
-        for r in regs
-        if "dilindungi" in r["regulation"] or "belida" in r["regulation"]
-    }
+    # Status regulasi dari transkripsi lampiran resmi (data/curation/regulasi_kkp/, belum dicek
+    # manusia); entri "spp." pada Permen KP 19/2020 berlaku untuk seluruh genus.
+    reg_dir = ROOT / "data/curation/regulasi_kkp"
+    protected: dict[int, str] = {}
+    for row in csv.DictReader(open(reg_dir / "jenis_ikan_dilindungi.csv", encoding="utf-8")):
+        code = names.get(binomial(row["scientific_name_verbatim"]))
+        if code is not None:
+            protected[code] = row["status_perlindungan"]
+    harmful: dict[int, str] = {}
+    harmful_genera: dict[str, str] = {}
+    for row in csv.DictReader(open(reg_dir / "permen_kp_19_2020_lampiran.csv", encoding="utf-8")):
+        name = row["scientific_name_verbatim"]
+        label = row["list"].split("_", 1)[1]
+        if name.endswith(" spp."):
+            harmful_genera[name.split()[0]] = label
+        elif (code := names.get(binomial(name[0] + name[1:].lower()))) is not None:
+            harmful[code] = label
+    for code, sp in universe.items():
+        genus_label = harmful_genera.get(sp["species"].split()[0])
+        if genus_label and code not in harmful:
+            harmful[code] = genus_label + "_genus"
     rows = []
     for code, sp in sorted(universe.items(), key=lambda kv: kv[1]["species"]):
         p, b, g = per.get(code, {}), bold.get(code, Counter()), gbif.get(code, {})
@@ -535,6 +551,7 @@ def main() -> None:
             weights.get("endemic", 0) * endemic
             + weights.get("threatened", 0) * (code in protected)
             + weights.get("observed_reference_gap", 0) * no_id_ref
+            + weights.get("invasive", 0) * (code in harmful)
         )
         insts = sorted((k[5:] for k in b if k.startswith("inst:")), key=lambda k: -b["inst:" + k])
         rows.append(
@@ -548,7 +565,8 @@ def main() -> None:
                 "brackish": sp["brackish"],
                 "marine": sp["marine"],
                 "islands": ";".join(sorted(sp["islands"])),
-                "kepmen_dilindungi_kandidat": int(code in protected),
+                "status_dilindungi_kkp": protected.get(code, ""),
+                "permen_19_2020": harmful.get(code, ""),
                 "genbank_12s_mito": p.get("gb", 0),
                 "genbank_mifish": p.get("gb_mifish", 0),
                 "mifish_best_tier": best,
@@ -576,7 +594,7 @@ def main() -> None:
             r
             for r in rows
             if r["mifish_best_tier"] != "1_ID"
-            and (r["status_id"] == "endemic" or r["kepmen_dilindungi_kandidat"])
+            and (r["status_id"] == "endemic" or r["status_dilindungi_kkp"])
         ),
         key=lambda r: (-r["priority_score"], -r["bold_coi_ID_museum"], r["species"]),
     )
@@ -658,7 +676,8 @@ def main() -> None:
         "air_tawar_endemik": [r for r in rows if r["freshwater"] and r["status_id"] == "endemic"],
         "laut_saja": [r for r in rows if r["marine"] and not (r["freshwater"] or r["brackish"])],
         "introduksi": [r for r in rows if r["status_id"] == "introduced"],
-        "kepmen_dilindungi_kandidat": [r for r in rows if r["kepmen_dilindungi_kandidat"]],
+        "dilindungi_kkp": [r for r in rows if r["status_dilindungi_kkp"]],
+        "permen_19_2020_tercatat_di_ID": [r for r in rows if r["permen_19_2020"]],
     }
     islands = {
         island: table([r for r in rows if island in r["islands"].split(";") and r["freshwater"]])
@@ -696,7 +715,7 @@ def main() -> None:
             "Eksplorasi otomatis; nama FishBase (CC BY-NC) tanpa tinjauan ahli. Bukan kamus berversi.",
             "MiFish = trim_mifish_fast, setara trim_mifish (R-CUR-05; primer dan mismatch dari rules YAML), diverifikasi identik pada sampel setiap run.",
             "Tingkat asal dari kualifier GenBank country/geo_loc_name; kosong = asal tidak diketahui (sering spesimen Indonesia tanpa label, mis. Telmatherina).",
-            "Prioritas memakai bobot priorities rules YAML (endemic, threatened untuk kandidat Kepmen dilindungi, observed_reference_gap untuk tanpa referensi MiFish Indonesia).",
+            "Prioritas memakai bobot priorities rules YAML: endemic; threatened untuk status dilindungi KKP (Kepmen 1/2021, 83/2024); observed_reference_gap untuk tanpa referensi MiFish Indonesia; invasive untuk jenis di lampiran Permen KP 19/2020. Status regulasi dari transkripsi yang belum dicek manusia.",
         ],
     }
     (OUT / "summary.json").write_text(json.dumps(summary, ensure_ascii=False, indent=1), "utf-8")

@@ -1,0 +1,82 @@
+list,no,group,scientific_name_verbatim,authority_verbatim,common_names_verbatim,family_verbatim,page,notes,checked_by_human
+A_membahayakan,1,PISCES,Paracanthopoma parva,"Giltay, 1935",-,Trichomycteridae,7,,tidak
+A_membahayakan,2,PISCES,Plectrochilus spp.,,Canero,Trichomycteridae,7,tingkat genus,tidak
+A_membahayakan,3,PISCES,Vandellia spp.,,Candiru,Trichomycteridae,7,tingkat genus,tidak
+A_membahayakan,4,MOLLUSCA,Perna perna,"Linnaeus, 1758",Brown Mussel; Mexilhao Mussel,Mytilidae,7,bukan ikan bersirip,tidak
+A_membahayakan,5,AMPHIBIA,Rhinella marina,"Linnaeus, 1758",Bufo Toad; Bullfrog; Cane Toad; Giant American Toad; Giant Toad,Bufonidae,8,bukan ikan bersirip,tidak
+A_membahayakan,6,AMPHIBIA,Osteopilus septentrionalis,"Duméril and Bibron, 1841",Cuban Tree-frog; Rana Cubana; Giant Tree-frog; Marbled Tree-Toad,Hylidae,8,bukan ikan bersirip,tidak
+B_merugikan,1,PISCES,Hydrocynus vittatus,"Castelnau, 1861",African Tigerfish,Alestidae,8,,tidak
+B_merugikan,2,PISCES,Hydrocynus goliath,"Boulenger, 1898",Goliath Tigerfish,Alestidae,8,,tidak
+B_merugikan,3,PISCES,Hoplias Malabaricus,"Bloch,1974",Wolf Fish,Erythrinidae,8,ejaan dan tahun sesuai dokumen (huruf M kapital; tahun 1974),tidak
+B_merugikan,4,PISCES,Asterophysus batrachus,,Gulper Fish,Auchenipteridae,9,,tidak
+B_merugikan,5,PISCES,Parambassis alleni,"Datta & Chaudhuri, 1993",Asiatic Glassfishes,Ambassidae,9,,tidak
+B_merugikan,6,PISCES,Parambassis baculis,"Hamilton, 1822",Himalayan Glassy Perchlet,Ambassidae,9,,tidak
+B_merugikan,7,PISCES,Parambassis bistigmata,"Geetakumari, 2012",-,Ambassidae,9,,tidak
+B_merugikan,8,PISCES,Parambassis confinis,"Weber, 1913",Sepik Glass Perchlet,Ambassidae,9,,tidak
+B_merugikan,9,PISCES,Parambassis dayi,"Bleeker, 1874",Day's Glassy Perchlet,Ambassidae,9,,tidak
+B_merugikan,10,PISCES,Parambassis gulliveri,"Castelnau, 1878",-,Ambassidae,10,,tidak
+B_merugikan,11,PISCES,Parambassis lala,"Hamilton, 1822",High-Fin Glassy Perchlet,Ambassidae,10,,tidak
+B_merugikan,12,PISCES,Parambassis pulcinella,"Kottelat, 2003",Humphead Glassy Perchlet,Ambassidae,10,,tidak
+B_merugikan,13,PISCES,Parambassis ranga,"Hamilton, 1822",Indian Glassy Perchlet,Ambassidae,10,,tidak
+B_merugikan,14,PISCES,Parambassis serrata,"Dishma & Vishwanath, 2015",-,Ambassidae,10,,tidak
+B_merugikan,15,PISCES,Parambassis thomassi,"Day, 1870",Western Ghats Glassy Perchlet,Ambassidae,10,,tidak
+B_merugikan,16,PISCES,Parambassis vollmeri,"Roberts, 1995",-,Ambassidae,11,,tidak
+B_merugikan,17,PISCES,Parambassis waikhomi,"Geetakumari & Basudha, 2012",-,Ambassidae,11,,tidak
+B_merugikan,18,PISCES,Pseudambassis roberti,"Datta & Chaudhuri, 1993",-,Ambassidae,11,,tidak
+B_merugikan,19,PISCES,Arapaima gigas,"Schinz, 1822",Giant Arapaima; Pirarucu; Paiche,Arapaimidae,11,,tidak
+B_merugikan,20,PISCES,Arapaima leptosoma,"Stewart, 2013",Torpedo-Shaped Arapaima,Arapaimidae,11,,tidak
+B_merugikan,21,PISCES,Channa argus,"Cantor, 1842",Northern Snakehead; Ocellated Snakehead; Amur Snakehead,Channidae,11,,tidak
+B_merugikan,22,PISCES,Channa marulius,"Hamilton, 1822",Bullseye Snakehead; Giant Snakehead; Great Snakehead; Indian Snakehead,Channidae,12,,tidak
+B_merugikan,23,PISCES,Bramocharax bransfordii,"Gill, 1877",Long Jaw Tetra,Characidae,12,,tidak
+B_merugikan,24,PISCES,Amatitlania nigrofasciata,"Günther, 1867",Convict Cichlid; Zebra Cichlid,Cichlidae,12,,tidak
+B_merugikan,25,PISCES,Amphilophus citrinellus,"Günther, 1864",Midas Chiclid,Cichlidae,12,genus induk louhan menurut Herder dkk. 2012,tidak
+B_merugikan,26,PISCES,Amphilophus labiatus,"Günther, 1864",Red Devil,Cichlidae,12,genus induk louhan menurut Herder dkk. 2012,tidak
+B_merugikan,27,PISCES,Andinoacara rivulatus,"Günther, 1860",Green Terror; Gold Saum,Cichlidae,12,,tidak
+B_merugikan,28,PISCES,Cichla ocellaris,"Bloch & Schneider, 1801",Peacock Bass; Peacock Cichlid,Cichlidae,13,,tidak
+B_merugikan,29,PISCES,Cichla piquiti,"Kullander & Ferreira, 2006",Azul,Cichlidae,13,,tidak
+B_merugikan,30,PISCES,Cichla melaniae,"Kullander & Ferreira, 2006",-,Cichlidae,13,,tidak
+B_merugikan,31,PISCES,Cichlasoma trimaculatum,"Günther, 1867",-,Cichlidae,13,genus Cichlasoma disebut sebagai induk louhan menurut Herder dkk. 2012,tidak
+B_merugikan,32,PISCES,Mayaheros urophthalmus,"Günther, 1862",Mayan Cichlid; Mexican Mojarra,Cichlidae,13,,tidak
+B_merugikan,33,PISCES,Cribroheros alfari,"Meek, 1907",Pastel Chiclid,Cichlidae,13,,tidak
+B_merugikan,34,PISCES,Hemichromis elongatus,"Guichenot, 1861",Banded Jewel Cichlid,Cichlidae,14,,tidak
+B_merugikan,35,PISCES,Parachromis managuensis,"Günther, 1867",Jaguar Guapote,Cichlidae,14,,tidak
+B_merugikan,36,PISCES,Pelmatopia mariae,"Boulenger, 1899",Spotted Mangrove Cichlid; Black Mangrove Cichlid,Cichlidae,14,ejaan genus sesuai dokumen (Pelmatopia),tidak
+B_merugikan,37,PISCES,Tilapia sparrmanii,"Smith, 1840",Banded Tilapia,Cichlidae,14,,tidak
+B_merugikan,38,PISCES,Coptodon zillii,"Gervais, 1848",Cichlid; Redbelly Tilapia; Striped Tilapia,Cichlidae,14,,tidak
+B_merugikan,39,PISCES,Coptodon tholloni,"Sauvage, 1884",Slebra; Ekouni,Cichlidae,14,,tidak
+B_merugikan,40,PISCES,Sarotherodon occidentalis,"Daget, 1962",Perch Africaine; West African Tilapia,Cichlidae,15,,tidak
+B_merugikan,41,PISCES,Misgurnus anguillicaudatus,"Cantor, 1842",Weather Loach; Pond Loach,Cobitidae,15,,tidak
+B_merugikan,42,PISCES,Hydrolycus armatus,"Jardine, 1841",Tetra Vampir; Fish Puppy,Cynodontidae,15,,tidak
+B_merugikan,43,PISCES,Cyprinella lutrensis,"Baird & Girard, 1853",Red shiner,Cyprinidae,15,,tidak
+B_merugikan,44,PISCES,Leuciscus idus,"Linnaeus, 1758",Golden Orfe; Ide; Orfe; Silver orfe,Cyprinidae,15,,tidak
+B_merugikan,45,PISCES,Tinca tinca,"Linnaeus, 1758",Doctor fish; Green tench,Cyprinidae,15,,tidak
+B_merugikan,46,PISCES,Esox spp.,,Pike,Esocidae,16,tingkat genus; satu baris dengan Esox Americanus,tidak
+B_merugikan,46,PISCES,Esox Americanus,"Gmelin, 1789",Redfin Pickerel,Esocidae,16,ejaan sesuai dokumen (A kapital),tidak
+B_merugikan,47,PISCES,Acanthogobius flavimanus,"Temminck & Schlegel, 1845",Yellowfin Goby,Gobiidae,16,,tidak
+B_merugikan,48,PISCES,Neogobius melanostomus,"Pallas, 1814",Black Spotted Goby; Round Goby,Gobiidae,16,,tidak
+B_merugikan,49,PISCES,Ameiurus nebulosus,"Lesueur, 1819",Brown Bullhead; Bullhead Catfish; Common Bullhead; Common Catfish; Horned Pout; Hornpout; Marbled Bullhead; Minister; Mudcat; Northern Brown Bullhead,Ictaluridae,16,,tidak
+B_merugikan,50,PISCES,Pylodictis olivaris,"Rafinesque, 1818",Flathead Catfish,Ictaluridae,16,,tidak
+B_merugikan,51,PISCES,Lates niloticus,"Linnaeus, 1758",Nile Perch; Victoria Perch,Latidae,16,,tidak
+B_merugikan,52,PISCES,Micropterus salmoides,"Lacepède, 1802",Black Bass; Green Bass; Large-Mouth Bass; Largemouth Bass; Largemouth Black Bass; Northern Largemouth Bass,Latidae,17,famili tertulis Latidae di dokumen,tidak
+B_merugikan,53,PISCES,Atractosteus spp.,,Gar,Lepisosteidae,17,tingkat genus,tidak
+B_merugikan,54,PISCES,Lepisosteus spp.,,Gar,Lepisosteidae,17,tingkat genus,tidak
+B_merugikan,55,PISCES,Pterygoplichthys spp.,,Ikan Sapu-sapu,Loricariidae,17,tingkat genus; mencakup Pterygoplichthys yang tercatat di Danau Matano (Herder dkk. 2012),tidak
+B_merugikan,56,PISCES,Megalops atlanticus,"Valenciennes, 1847",Atlantic Tarpon,Megalopidae,17,,tidak
+B_merugikan,57,PISCES,Coreoperca kawamebari,"Temminck & Schlegel, 1843",Japanese Perch,Percichthyidae,17,,tidak
+B_merugikan,58,PISCES,Phalloceros caudimaculatus,"Hensel, 1868",Caudo; Speckled Mosquitofish; Spottail Mosquitofish; Spotted Livebearer; Dusky Millions Fish,Poeciliidae,18,,tidak
+B_merugikan,59,PISCES,Serrasalmus spp.,,Piranha,Serassalmidae,18,tingkat genus; ejaan famili sesuai dokumen,tidak
+B_merugikan,60,PISCES,Pygocentrus spp.,,Piranha,Characidae,18,tingkat genus,tidak
+B_merugikan,61,PISCES,Pristobrycon striolatus,"Steindachner, 1908",Pristo Striolatus; Striolatus; Caribito,Characidae,18,,tidak
+B_merugikan,62,PISCES,Metynnis argenteus,"Ahl, 1923",Silver Dollar,Characidae,18,,tidak
+B_merugikan,63,PISCES,Electrophorus electricus,"Linnaeus, 1766",Electric Eel,Electrophoridae,18,,tidak
+B_merugikan,64,PISCES,Colomesus psittacus,"Bloch & Schneider, 1801",Banded Puffer; Banded Pipefish; Parrot Pufferfish,Tetraodontidae,19,,tidak
+B_merugikan,65,PISCES,Tetraodon spp.,,Puffer,Tetraodontidae,19,tingkat genus,tidak
+B_merugikan,66,PISCES,Paracanthopoma parva,"Giltay, 1935",-,Trichomycteridae,19,juga tercantum di daftar A,tidak
+B_merugikan,67,PISCES,Plectrochilus spp.,,Canero,Trichomycteridae,19,tingkat genus; juga tercantum di daftar A,tidak
+B_merugikan,68,PISCES,Vandellia spp.,,Candiru,Trichomycteridae,19,tingkat genus; juga tercantum di daftar A,tidak
+B_merugikan,69,CRUSTACEA,Pacifastacus leniusculus,"Dana, 1852",Californian Crayfish; Pacific Crayfish; Signal Crayfish,Astacidae,19,bukan ikan bersirip,tidak
+B_merugikan,70,CRUSTACEA,Charybdis japonica,"Milne-Edwards, 1861",Asian Crab; Asian Padle Crab; Blue Crab; Swimming Crab,Portunidae,20,bukan ikan bersirip,tidak
+B_merugikan,71,CRUSTACEA,Orconectes spp.,,Crayfish,Cambaridae,20,bukan ikan bersirip; tingkat genus,tidak
+B_merugikan,72,CRUSTACEA,Procambarus spp.,,Louisiana Crayfish/Marbled Crayfish,Cambaridae,20,bukan ikan bersirip; tingkat genus,tidak
+B_merugikan,73,MOLLUSCA,Perna perna,"Linnaeus, 1758",Brown Mussel; Mexilhao Mussel,Mytilidae,20,bukan ikan bersirip; juga tercantum di daftar A,tidak
+B_merugikan,74,AMPHIBIA,Rhinella marina,"Linnaeus, 1758",Bufo Toad; Bullfrog; Cane Toad; Giant American Toad; Giant Toad,Bufonidae,20,bukan ikan bersirip; juga tercantum di daftar A,tidak
