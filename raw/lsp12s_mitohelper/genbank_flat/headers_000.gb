@@ -1,0 +1,1847 @@
+LOCUS       AB021901                   1 bp    DNA     linear   VRT 14-JUL-2007
+DEFINITION  Anguilla rostrata mitochondrial gene for 12S ribosomal RNA, partial
+            sequence.
+ACCESSION   AB021901 REGION: 1
+VERSION     AB021901.1
+KEYWORDS    .
+SOURCE      mitochondrion Anguilla rostrata (American eel)
+  ORGANISM  Anguilla rostrata
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Anguilliformes;
+            Anguillidae; Anguilla.
+REFERENCE   1
+  AUTHORS   Aoyama,J.
+  TITLE     Molecular phylogeny and evolution of the freshwater eels, genus
+            Anguilla
+  JOURNAL   Thesis (1998) Ocean Research Institute, University of Tokyo
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Aoyama,J., Nishida,M. and Tsukamoto,K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (25-DEC-1998) Jun Aoyama, Ocean Research Institute,
+            University of Tokyo, Division of Fisheries Ecology; 1-15-1,
+            Minamidai, Nakano, Tokyo 164-8639, Japan
+            (E-mail:jaoyama@ori.u-tokyo.ac.jp, Tel:81-3-5351-6516,
+            Fax:81-3-5351-6514)
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Anguilla rostrata"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:7938"
+                     /tissue_type="liver"
+                     /dev_stage="adult"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       AB042952                   1 bp    DNA     linear   VRT 15-JUL-2016
+DEFINITION  Amia calva mitochondrial DNA, complete genome.
+ACCESSION   AB042952 REGION: 1
+VERSION     AB042952.1
+KEYWORDS    .
+SOURCE      mitochondrion Amia calva (bowfin)
+  ORGANISM  Amia calva
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Holostei; Amiiformes; Amiidae; Amia.
+REFERENCE   1
+  AUTHORS   Inoue,J.G., Miya,M., Tsukamoto,K. and Nishida,M.
+  TITLE     Basal actinopterygian relationships: a mitogenomic perspective on
+            the phylogeny of the 'ancient fish'
+  JOURNAL   Mol. Phylogenet. Evol. 26 (1), 110-120 (2003)
+   PUBMED   12470943
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Inoue,J., Miya,M., Tsukamoto,K. and Nishida,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-MAY-2000) Contact:Jun Inoue Atmosphere and Ocean
+            Research Institute, The University of Tokyo; 5-1-5 Kashiwanoha,
+            Kashiwa, Chiba 277-8564, Japan
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Amia calva"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="CBM-ZF 10542 (Natural History Museum &
+                     Institute, Chiba, Japan)"
+                     /db_xref="taxon:7924"
+     tRNA            >1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       AB127393                   1 bp    DNA     linear   VRT 14-JUL-2016
+DEFINITION  Notemigonus crysoleucas mitochondrial DNA, complete genome.
+ACCESSION   AB127393 REGION: 1
+VERSION     AB127393.1
+KEYWORDS    .
+SOURCE      mitochondrion Notemigonus crysoleucas (golden shiner)
+  ORGANISM  Notemigonus crysoleucas
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Leuciscidae; Leuciscinae; Notemigonus.
+REFERENCE   1
+  AUTHORS   Saitoh,K., Sado,T., Mayden,R.L., Hanzawa,N., Nakamura,K.,
+            Nishida,M. and Miya,M.
+  TITLE     Mitogenomic evolution and interrelationships of the Cypriniformes
+            (Actinopterygii: Ostariophysi): the first evidence toward
+            resolution of higher-level relationships of the world's largest
+            freshwater fish clade based on 59 whole mitogenome sequences
+  JOURNAL   J. Mol. Evol. 63 (6), 826-841 (2006)
+   PUBMED   17086453
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Saitoh,K., Miya,M. and Nishida,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-NOV-2003) Contact:Kenji Saitoh National Research
+            Institute of Fisheries Science; Fukuura, Kanazawa, Yokohama,
+            Kanagawa 236-8648, Japan
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Notemigonus crysoleucas"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:28800"
+                     /geo_loc_name="Canada: Ontario"
+     tRNA            >1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       AB127394                   1 bp    DNA     linear   VRT 14-JUL-2016
+DEFINITION  Catostomus commersonii mitochondrial DNA, complete genome.
+ACCESSION   AB127394 REGION: 1
+VERSION     AB127394.1
+KEYWORDS    .
+SOURCE      mitochondrion Catostomus commersonii (white sucker)
+  ORGANISM  Catostomus commersonii
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Catostomoidei; Catostomidae; Catostomus.
+REFERENCE   1
+  AUTHORS   Saitoh,K., Sado,T., Mayden,R.L., Hanzawa,N., Nakamura,K.,
+            Nishida,M. and Miya,M.
+  TITLE     Mitogenomic evolution and interrelationships of the Cypriniformes
+            (Actinopterygii: Ostariophysi): the first evidence toward
+            resolution of higher-level relationships of the world's largest
+            freshwater fish clade based on 59 whole mitogenome sequences
+  JOURNAL   J. Mol. Evol. 63 (6), 826-841 (2006)
+   PUBMED   17086453
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Saitoh,K., Miya,M. and Nishida,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-NOV-2003) Contact:Kenji Saitoh National Research
+            Institute of Fisheries Science; Fukuura, Kanazawa, Yokohama,
+            Kanagawa 236-8648, Japan
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Catostomus commersonii"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:7971"
+                     /geo_loc_name="Canada: Ontario"
+                     /note="synonym: Catostomus commersoni"
+     tRNA            >1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       AB167815                   1 bp    DNA     linear   VRT 26-JUL-2016
+DEFINITION  Lepomis macrochirus mitochondrial genes for cytochrome b, tRNA-Thr,
+            tRNA-Pro, tRNA-Phe, 12S rRNA, partial cds and complete sequence,
+            control region.
+ACCESSION   AB167815 REGION: 1
+VERSION     AB167815.1
+KEYWORDS    .
+SOURCE      mitochondrion Lepomis macrochirus (bluegill)
+  ORGANISM  Lepomis macrochirus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Centrarchiformes; Centrarchoidei;
+            Centrarchidae; Lepomis.
+REFERENCE   1
+  AUTHORS   Kawamura,K., Yonekura,R., Katano,O., Taniguchi,Y. and Saitoh,K.
+  TITLE     Origin and dispersal of bluegill sunfish, Lepomis macrochirus, in
+            Japan and Korea
+  JOURNAL   Mol. Ecol. 15 (3), 613-621 (2006)
+   PUBMED   16499689
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Kawamura,K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (17-MAR-2004) Kouichi Kawamura, Faculty of Bioresources,
+            Mie University; Kurima-Machiya 1577, Tsu, Mie 514-8507, Japan
+            (E-mail:kawa-k@bio.mie-u.ac.jp, Tel:81-59-231-9549,
+            Fax:81-59-231-9549)
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Lepomis macrochirus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:13106"
+     gene            <1..>1
+                     /gene="cytb"
+     CDS             <1..>1
+                     /gene="cytb"
+                     /note="TAA stop codon is completed by the addition of 3' A
+                     residues to the mRNA"
+                     /codon_start=2
+                     /transl_except=(pos:320,aa:TERM)
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="BAE80008.1"
+                     /translation="LFAYAILRSIPNKLGGVLALLASILVLMVVPILHTSKQRSLTFR
+                     PLTQLLFWALVADVAILTWIGGMPVEHPFIMIGQVASFLYFFLFLVLTPLTGWLENKV
+                     LEWS"
+ORIGIN      
+        1 c
+//
+
+LOCUS       AB188190                   1 bp    DNA     linear   VRT 19-AUG-2005
+DEFINITION  Cottus cognatus mitochondrial gene for 12S rRNA, partial sequence,
+            country:Russia: Anadyr River.
+ACCESSION   AB188190 REGION: 1
+VERSION     AB188190.1
+KEYWORDS    .
+SOURCE      mitochondrion Cottus cognatus (slimy sculpin)
+  ORGANISM  Cottus cognatus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Perciformes; Cottioidei; Cottales;
+            Cottidae; Cottus.
+REFERENCE   1
+  AUTHORS   Yokoyama,R. and Goto,A.
+  TITLE     Evolutionary history of freshwater sculpins, genus Cottus
+            (Teleostei; Cottidae) and related taxa, as inferred from
+            mitochondrial DNA phylogeny
+  JOURNAL   Mol. Phylogenet. Evol. 36 (3), 654-668 (2005)
+   PUBMED   16039150
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Yokoyama,R. and Goto,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-AUG-2004) Ryota Yokoyama, Toyama University; Gofuku,
+            Toyama 930-8555, Japan (E-mail:yokoryo@sci.toyama-u.ac.jp,
+            Tel:81-76-445-6642)
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Cottus cognatus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:147210"
+                     /geo_loc_name="Russia: Anadyr River"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       AB218686                   1 bp    DNA     linear   VRT 14-JUL-2016
+DEFINITION  Tinca tinca mitochondrial DNA, complete genome.
+ACCESSION   AB218686 REGION: 1
+VERSION     AB218686.1
+KEYWORDS    .
+SOURCE      mitochondrion Tinca tinca (tench)
+  ORGANISM  Tinca tinca
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Tincidae; Tinca.
+REFERENCE   1
+  AUTHORS   Saitoh,K., Sado,T., Mayden,R.L., Hanzawa,N., Nakamura,K.,
+            Nishida,M. and Miya,M.
+  TITLE     Mitogenomic evolution and interrelationships of the Cypriniformes
+            (Actinopterygii: Ostariophysi): the first evidence toward
+            resolution of higher-level relationships of the world's largest
+            freshwater fish clade based on 59 whole mitogenome sequences
+  JOURNAL   J. Mol. Evol. 63 (6), 826-841 (2006)
+   PUBMED   17086453
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Saitoh,K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-JUN-2005) Contact:Kenji Saitoh National Research
+            Institute of Fisheries Science; Fukuura, Kanazawa, Yokohama,
+            Kanagawa 236-8648, Japan
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Tinca tinca"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:27717"
+                     /geo_loc_name="France: Saone River"
+     tRNA            >1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       AB378749                   1 bp    DNA     linear   VRT 26-JUL-2016
+DEFINITION  Micropterus dolomieu mitochondrial DNA, complete genome, haplotype:
+            n.
+ACCESSION   AB378749 REGION: 1
+VERSION     AB378749.1
+KEYWORDS    .
+SOURCE      mitochondrion Micropterus dolomieu (smallmouth bass)
+  ORGANISM  Micropterus dolomieu
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Centrarchiformes; Centrarchoidei;
+            Centrarchidae; Micropterus.
+REFERENCE   1
+  AUTHORS   Mukai,T. and Sato,C.
+  TITLE     Complete mitochondrial DNA sequences of two haplotypes of the
+            smallmouth bass, Micropterus dolomieu, collected from nonindigenous
+            populations in Japan
+  JOURNAL   Ichthyol. Res. 56, 204-207 (2009)
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Mukai,T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-FEB-2008) Contact:Takahiko Mukai Gifu University,
+            Faculty of Regional Studies; 1-1 Yanagido, Gifu 501-1193, Japan
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Micropterus dolomieu"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:147949"
+                     /haplotype="n"
+                     /geo_loc_name="Japan:Ibaraki, Naka River"
+     tRNA            >1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       AB445125                   1 bp    DNA     linear   VRT 26-JUL-2016
+DEFINITION  Culaea inconstans mitochondrial DNA, complete genome.
+ACCESSION   AB445125 REGION: 1
+VERSION     AB445125.1
+KEYWORDS    .
+SOURCE      mitochondrion Culaea inconstans (brook stickleback)
+  ORGANISM  Culaea inconstans
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Perciformes; Cottioidei;
+            Gasterosteales; Gasterosteidae; Culaea.
+REFERENCE   1
+  AUTHORS   Kawahara,R., Miya,M., Mabuchi,K., Near,T.J. and Nishida,M.
+  TITLE     Stickleback phylogenies resolved: evidence from mitochondrial
+            genomes and 11 nuclear genes
+  JOURNAL   Mol. Phylogenet. Evol. 50 (2), 401-404 (2009)
+   PUBMED   19027080
+  REMARK    Publication_Status: Available-Online
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Kawahara,R., Miya,M., Mabuchi,K. and Nishida,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-JUL-2008) Contact:Ryouka Kawahara Ocean Research
+            Institute, The University of Tokyo, Molecular Marine Biology;
+            1-15-1 Minamidai, Nakano, Tokyo 164-8639, Japan
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Culaea inconstans"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:240156"
+                     /tissue_type="muscle"
+     tRNA            >1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       AB445126                   1 bp    DNA     linear   VRT 26-JUL-2016
+DEFINITION  Apeltes quadracus mitochondrial DNA, complete genome.
+ACCESSION   AB445126 REGION: 1
+VERSION     AB445126.1
+KEYWORDS    .
+SOURCE      mitochondrion Apeltes quadracus (fourspine stickleback)
+  ORGANISM  Apeltes quadracus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Perciformes; Cottioidei;
+            Gasterosteales; Gasterosteidae; Apeltes.
+REFERENCE   1
+  AUTHORS   Kawahara,R., Miya,M., Mabuchi,K., Near,T.J. and Nishida,M.
+  TITLE     Stickleback phylogenies resolved: evidence from mitochondrial
+            genomes and 11 nuclear genes
+  JOURNAL   Mol. Phylogenet. Evol. 50 (2), 401-404 (2009)
+   PUBMED   19027080
+  REMARK    Publication_Status: Available-Online
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Kawahara,R., Miya,M., Mabuchi,K. and Nishida,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-JUL-2008) Contact:Ryouka Kawahara Ocean Research
+            Institute, The University of Tokyo, Molecular Marine Biology;
+            1-15-1 Minamidai, Nakano, Tokyo 164-8639, Japan
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Apeltes quadracus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:240154"
+                     /tissue_type="muscle"
+     tRNA            >1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       AB445129                   1 bp    DNA     linear   VRT 26-JUL-2016
+DEFINITION  Gasterosteus wheatlandi mitochondrial DNA, complete genome.
+ACCESSION   AB445129 REGION: 1
+VERSION     AB445129.1
+KEYWORDS    .
+SOURCE      mitochondrion Gasterosteus wheatlandi (blackspotted stickleback)
+  ORGANISM  Gasterosteus wheatlandi
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Perciformes; Cottioidei;
+            Gasterosteales; Gasterosteidae; Gasterosteus.
+REFERENCE   1
+  AUTHORS   Kawahara,R., Miya,M., Mabuchi,K., Near,T.J. and Nishida,M.
+  TITLE     Stickleback phylogenies resolved: evidence from mitochondrial
+            genomes and 11 nuclear genes
+  JOURNAL   Mol. Phylogenet. Evol. 50 (2), 401-404 (2009)
+   PUBMED   19027080
+  REMARK    Publication_Status: Available-Online
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Kawahara,R., Miya,M., Mabuchi,K. and Nishida,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-JUL-2008) Contact:Ryouka Kawahara Ocean Research
+            Institute, The University of Tokyo, Molecular Marine Biology;
+            1-15-1 Minamidai, Nakano, Tokyo 164-8639, Japan
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Gasterosteus wheatlandi"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:161456"
+                     /tissue_type="muscle"
+     tRNA            >1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       AB445130                   1 bp    DNA     linear   VRT 26-JUL-2016
+DEFINITION  Pungitius pungitius mitochondrial DNA, complete genome.
+ACCESSION   AB445130 REGION: 1
+VERSION     AB445130.1
+KEYWORDS    .
+SOURCE      mitochondrion Pungitius pungitius (ninespine stickleback)
+  ORGANISM  Pungitius pungitius
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Perciformes; Cottioidei;
+            Gasterosteales; Gasterosteidae; Pungitius.
+REFERENCE   1
+  AUTHORS   Kawahara,R., Miya,M., Mabuchi,K., Near,T.J. and Nishida,M.
+  TITLE     Stickleback phylogenies resolved: evidence from mitochondrial
+            genomes and 11 nuclear genes
+  JOURNAL   Mol. Phylogenet. Evol. 50 (2), 401-404 (2009)
+   PUBMED   19027080
+  REMARK    Publication_Status: Available-Online
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Kawahara,R., Miya,M., Mabuchi,K. and Nishida,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-JUL-2008) Contact:Ryouka Kawahara Ocean Research
+            Institute, The University of Tokyo, Molecular Marine Biology;
+            1-15-1 Minamidai, Nakano, Tokyo 164-8639, Japan
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Pungitius pungitius"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:134920"
+                     /tissue_type="muscle"
+     tRNA            >1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       AF004968                   1 bp    DNA     linear   VRT 31-MAR-1998
+DEFINITION  Acipenser fulvescens 12S ribosomal RNA gene, mitochondrial gene for
+            mitochondrial RNA, partial sequence.
+ACCESSION   AF004968 REGION: 1
+VERSION     AF004968.1
+KEYWORDS    .
+SOURCE      mitochondrion Acipenser fulvescens (lake sturgeon)
+  ORGANISM  Acipenser fulvescens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Chondrostei; Acipenseriformes; Acipenseridae;
+            Acipenser.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Birstein,V.J. and DeSalle,R.
+  TITLE     Molecular phylogeny of Acipenserinae
+  JOURNAL   Mol. Phylogenet. Evol. 9 (1), 141-155 (1998)
+   PUBMED   9479703
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Birstein,V.J. and DeSalle,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-MAY-1997) Molecular Labs, AMNH, 79th Street at
+            Central Park West, New York, NY 10024, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Acipenser fulvescens"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:41871"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       AF004973                   1 bp    DNA     linear   VRT 31-MAR-1998
+DEFINITION  Acipenser oxyrhynchus 12S ribosomal RNA gene, mitochondrial gene
+            for mitochondrial RNA, partial sequence.
+ACCESSION   AF004973 REGION: 1
+VERSION     AF004973.1
+KEYWORDS    .
+SOURCE      mitochondrion Acipenser oxyrinchus (Atlantic sturgeon)
+  ORGANISM  Acipenser oxyrinchus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Chondrostei; Acipenseriformes; Acipenseridae;
+            Acipenser.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Birstein,V.J. and DeSalle,R.
+  TITLE     Molecular phylogeny of Acipenserinae
+  JOURNAL   Mol. Phylogenet. Evol. 9 (1), 141-155 (1998)
+   PUBMED   9479703
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Birstein,V.J. and DeSalle,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-MAY-1997) Molecular Labs, AMNH, 79th Street at
+            Central Park West, New York, NY 10024, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Acipenser oxyrinchus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:36177"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       AF023185                   1 bp    DNA     linear   VRT 22-APR-2004
+DEFINITION  Couesius plumbeus 12S ribosomal RNA gene, complete sequence;
+            tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene,
+            partial sequence; mitochondrial genes for mitochondrial products.
+ACCESSION   AF023185 REGION: 1
+VERSION     AF023185.2
+KEYWORDS    .
+SOURCE      mitochondrion Couesius plumbeus (lake chub)
+  ORGANISM  Couesius plumbeus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Leuciscidae; Plagopterinae; Couesius.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Simons,A.M. and Mayden,R.L.
+  TITLE     Phylogenetic relationships of the western North American phoxinins
+            (Actinopterygii: Cyprinidae) as inferred from mitochondrial 12S and
+            16S ribosomal RNA sequences
+  JOURNAL   Mol. Phylogenet. Evol. 9 (2), 308-329 (1998)
+   PUBMED   9562988
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Simons,A.M., Berendzen,P.B. and Mayden,R.L.
+  TITLE     Molecular systematics of North American phoxinin genera
+            (Actinopterygii: Cyprinidae) inferred from mitochondrial 12S and
+            16S ribosomal RNA sequences
+  JOURNAL   Zool. J. Linn. Soc. 139 (1), 63-80 (2003)
+REFERENCE   3  (bases 1 to 1)
+  AUTHORS   Simons,A.M. and Mayden,R.L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-SEP-1997) Department of Biological Sciences, The
+            University of Alabama, Box 870344, Tuscaloosa, AL 35487-0344, USA
+REFERENCE   4  (bases 1 to 1)
+  AUTHORS   Simons,A.M. and Mayden,R.L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-JAN-2003) Department of Biological Sciences, The
+            University of Alabama, Box 870344, Tuscaloosa, AL 35487-0344, USA
+  REMARK    Sequence update by submitter
+COMMENT     On Jun 2, 2003 this sequence version replaced AF023185.1.
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Couesius plumbeus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="UAIC 11367.01"
+                     /db_xref="taxon:67539"
+                     /note="collected from Lizard Hot Springs, Ft. Nelson, BC,
+                     Canada"
+     rRNA            >1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 t
+//
+
+LOCUS       AF023192                   1 bp    DNA     linear   VRT 18-OCT-1997
+DEFINITION  Margariscus margarita 12S ribosomal RNA gene, mitochondrial gene
+            for mitochondrial RNA, complete sequence.
+ACCESSION   AF023192 REGION: 1
+VERSION     AF023192.1
+KEYWORDS    .
+SOURCE      mitochondrion Margariscus margarita (pearl dace)
+  ORGANISM  Margariscus margarita
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Leuciscidae; Plagopterinae; Margariscus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Simons,A.M. and Mayden,R.L.
+  TITLE     Phylogenetic Relationships of the Creek Chubs and the Spine-Fins:
+            an Enigmatic Group of North American Cyprinid Fishes
+            (Actinopterygii: Cyprinidae)
+  JOURNAL   Cladistics 13 (3) (1997) In press
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Simons,A.M. and Mayden,R.L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-SEP-1997) Department of Biological Sciences, The
+            University of Alabama, Box 870344, Tuscaloosa, AL 35487-0344, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Margariscus margarita"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="UAIC 10241.07"
+                     /db_xref="taxon:67547"
+                     /note="collected from Plover River, Marathon Co., WI"
+     rRNA            >1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 t
+//
+
+LOCUS       AF023194                   1 bp    DNA     linear   VRT 31-MAR-1998
+DEFINITION  Notemigonus crysoleucas 12S ribosomal RNA gene, mitochondrial gene
+            for mitochodrial RNA, complete sequence.
+ACCESSION   AF023194 REGION: 1
+VERSION     AF023194.1
+KEYWORDS    .
+SOURCE      mitochondrion Notemigonus crysoleucas (golden shiner)
+  ORGANISM  Notemigonus crysoleucas
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Leuciscidae; Leuciscinae; Notemigonus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Simons,A.M. and Mayden,R.L.
+  TITLE     Phylogenetic Relationships of the Creek Chubs and the Spine-Fins:
+            an Enigmatic Group of North American Cyprinid Fishes
+            (Actinopterygii: Cyprinidae)
+  JOURNAL   Cladistics 13 (3) (1997) In press
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Simons,A.M. and Mayden,R.L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-SEP-1997) Department of Biological Sciences, The
+            University of Alabama, Box 870344, Tuscaloosa, AL 35487-0344, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Notemigonus crysoleucas"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="UAIC 10527.02"
+                     /db_xref="taxon:28800"
+                     /note="collected from Mill Creek, Protage Co., WI"
+     rRNA            >1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 c
+//
+
+LOCUS       AF023195                   1 bp    DNA     linear   VRT 18-OCT-1997
+DEFINITION  Notropis atherinoides 12S ribosomal RNA gene, mitochondrial gene
+            for mitochondrial RNA, complete sequence.
+ACCESSION   AF023195 REGION: 1
+VERSION     AF023195.1
+KEYWORDS    .
+SOURCE      mitochondrion Notropis atherinoides (emerald shiner)
+  ORGANISM  Notropis atherinoides
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Leuciscidae; Pogonichthyinae; Notropis.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Simons,A.M. and Mayden,R.L.
+  TITLE     Phylogenetic Relationships of the Creek Chubs and the Spine-Fins:
+            an Enigmatic Group of North American Cyprinid Fishes
+            (Actinopterygii: Cyprinidae)
+  JOURNAL   Cladistics 13 (3) (1997) In press
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Simons,A.M. and Mayden,R.L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-SEP-1997) Department of Biological Sciences, The
+            University of Alabama, Box 870344, Tuscaloosa, AL 35487-0344, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Notropis atherinoides"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="UAIC 10485.06"
+                     /db_xref="taxon:67550"
+                     /note="collected from Waupaca River, Waupaca Co., WI"
+     rRNA            >1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 c
+//
+
+LOCUS       AF023198                   1 bp    DNA     linear   VRT 18-OCT-1997
+DEFINITION  Rhinichthys atratulus 12S ribosomal RNA gene, mitochondrial gene
+            for mitochondrial RNA, complete sequence.
+ACCESSION   AF023198 REGION: 1
+VERSION     AF023198.1
+KEYWORDS    .
+SOURCE      mitochondrion Rhinichthys atratulus (blacknose dace)
+  ORGANISM  Rhinichthys atratulus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Leuciscidae; Pogonichthyinae; Rhinichthys.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Simons,A.M. and Mayden,R.L.
+  TITLE     Phylogenetic Relationships of the Creek Chubs and the Spine-Fins:
+            an Enigmatic Group of North American Cyprinid Fishes
+            (Actinopterygii: Cyprinidae)
+  JOURNAL   Cladistics 13 (3) (1997) In press
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Simons,A.M. and Mayden,R.L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-SEP-1997) Department of Biological Sciences, The
+            University of Alabama, Box 870344, Tuscaloosa, AL 35487-0344, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Rhinichthys atratulus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="UAIC 9850.01"
+                     /db_xref="taxon:67556"
+                     /note="collected from Russell Creek, Clairborne Co., TN"
+     rRNA            >1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 t
+//
+
+LOCUS       AF049731                   1 bp    DNA     linear   VRT 03-AUG-1999
+DEFINITION  Percopsis omiscomaycus 12S ribosomal RNA gene, mitochondrial gene
+            for mitochondrial RNA, partial sequence.
+ACCESSION   AF049731 REGION: 1
+VERSION     AF049731.1
+KEYWORDS    .
+SOURCE      mitochondrion Percopsis omiscomaycus
+  ORGANISM  Percopsis omiscomaycus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Percopsaria; Percopsiformes; Percopsoidei;
+            Percopsidae; Percopsis.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Wiley,E.O., Johnson,G.D. and Dimmick,W.W.
+  TITLE     The phylogenetic relationships of lampridiform fishes (Teleostei:
+            acanthomorpha), based on a total-evidence analysis of morphological
+            and molecular data
+  JOURNAL   Mol. Phylogenet. Evol. 10 (3), 417-425 (1998)
+   PUBMED   10051394
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Wiley,E.O., Johnson,G.D. and Dimmick,W.W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-FEB-1998) Natural History Museum, University of
+            Kansas, Dyche Hall, Lawrence, KS 66045, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Percopsis omiscomaycus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:81381"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 a
+//
+
+LOCUS       AF113120                   1 bp    DNA     linear   VRT 13-MAY-1999
+DEFINITION  Oncorhynchus mykiss 12S ribosomal RNA gene, mitochondrial gene for
+            mitochondrial RNA, complete sequence.
+ACCESSION   AF113120 REGION: 1
+VERSION     AF113120.1
+KEYWORDS    .
+SOURCE      mitochondrion Oncorhynchus mykiss (rainbow trout)
+  ORGANISM  Oncorhynchus mykiss
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Oncorhynchus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Lee,H.J., Kim,W.J., Lee,J.H., Park,D.W., Ryu,H.Y. and Park,J.Y.
+  TITLE     Genetic relationships of salmonid species in Korean waters: direct
+            sequence analysis of the mitochondrial 12S rRNA genes
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Park,J.Y., Lee,H.J., Kim,W.J., Lee,J.H., Park,D.W. and Ryu,H.Y.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-DEC-1998) Biotechnology, NFRDI National Fisheries
+            Research and Development Institute, 408-1, Sirang-ri, Kijang-up,
+            Kijang-gun, Pusan 619-900, Korea
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oncorhynchus mykiss"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8022"
+     rRNA            >1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 c
+//
+
+LOCUS       AF113121                   1 bp    DNA     linear   VRT 13-MAY-1999
+DEFINITION  Oncorhynchus mykiss albino mutant 12S ribosomal RNA gene,
+            mitochondrial gene for mitochondrial RNA, complete sequence.
+ACCESSION   AF113121 REGION: 1
+VERSION     AF113121.1
+KEYWORDS    .
+SOURCE      mitochondrion Oncorhynchus mykiss (rainbow trout)
+  ORGANISM  Oncorhynchus mykiss
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Oncorhynchus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Lee,H.J., Kim,W.J., Lee,J.H., Park,D.W., Ryu,H.Y. and Park,J.Y.
+  TITLE     Genetic relationships of salmonid species in Korean waters: direct
+            sequence analysis of the mitochondrial 12S rRNA genes
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Park,J.Y., Lee,H.J., Kim,W.J., Lee,J.H., Park,D.W. and Ryu,H.Y.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-DEC-1998) Biotechnology, NFRDI National Fisheries
+            Research and Development Institute, 408-1, Sirang-ri, Kijang-up,
+            Kijang-gun, Pusan 619-900, Korea
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oncorhynchus mykiss"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8022"
+                     /note="albino mutant"
+     rRNA            >1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 c
+//
+
+LOCUS       AF118676                   1 bp    DNA     linear   VRT 10-JAN-2001
+DEFINITION  Noturus insignis 12S ribosomal RNA gene, mitochondrial gene for
+            mitochondrial RNA, partial sequence.
+ACCESSION   AF118676 REGION: 1
+VERSION     AF118676.1
+KEYWORDS    .
+SOURCE      mitochondrion Noturus insignis (margined madtom)
+  ORGANISM  Noturus insignis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi; Siluriformes;
+            Ictaluridae; Noturus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Bennetts,R.Q., Grady,J.M., Rohde,F.C. and Quattro,J.M.
+  TITLE     Discordant patterns of morphological and molecular change in
+            broadtail madtoms (genus Noturus)
+  JOURNAL   Mol. Ecol. 8 (10), 1563-1569 (1999)
+   PUBMED   10583820
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Bennetts,R.Q., Grady,J.M., Rohde,F.C. and Quattro,J.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-JAN-1999) Biological Sciences, University of South
+            Carolina, Coker Life Sciences Building, Columbia, SC 29208, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Noturus insignis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:90663"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 t
+//
+
+LOCUS       AF118687                   1 bp    DNA     linear   VRT 10-JAN-2001
+DEFINITION  Noturus gyrinus 12S ribosomal RNA gene, mitochondrial gene for
+            mitochondrial RNA, partial sequence.
+ACCESSION   AF118687 REGION: 1
+VERSION     AF118687.1
+KEYWORDS    .
+SOURCE      mitochondrion Noturus gyrinus (tadpole madtom)
+  ORGANISM  Noturus gyrinus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi; Siluriformes;
+            Ictaluridae; Noturus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Bennetts,R.Q., Grady,J.M., Rohde,F.C. and Quattro,J.M.
+  TITLE     Discordant patterns of morphological and molecular change in
+            broadtail madtoms (genus Noturus)
+  JOURNAL   Mol. Ecol. 8 (10), 1563-1569 (1999)
+   PUBMED   10583820
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Bennetts,R.Q., Grady,J.M., Rohde,F.C. and Quattro,J.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-JAN-1999) Biological Sciences, University of South
+            Carolina, Coker Life Sciences Building, Columbia, SC 29208, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Noturus gyrinus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:90661"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       AF125508                   1 bp    DNA     linear   VRT 28-NOV-2000
+DEFINITION  Oncorhynchus mykiss 12S ribosomal RNA, complete sequence; tRNA-Val,
+            complete sequence and 16S ribosomal RNA, complete sequence,
+            mitochondrial genes for mitochondrial products.
+ACCESSION   AF125508 REGION: 1
+VERSION     AF125508.1
+KEYWORDS    .
+SOURCE      mitochondrion Oncorhynchus mykiss (rainbow trout)
+  ORGANISM  Oncorhynchus mykiss
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Oncorhynchus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Lee,H.J., Kim,W.J., Lee,J.H., Min,K.S., Yoo,M.A., Lee,W.H. and
+            Park,J.Y.
+  TITLE     Genetic relationships of six salmonids in Korean waters : direct
+            sequence analysis of the mitochondrial ribosomal RNA genes
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Park,J.Y., Lee,H.J., Kim,W.J., Lee,J.H. and Min,K.S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-FEB-1999) Biotechnology, National Fisheries Research
+            and Development Institute, 408-1, Sirang-ri, Kijang-up, Kijang-gun,
+            Pusan 619-900, Korea
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oncorhynchus mykiss"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8022"
+                     /geo_loc_name="South Korea"
+     rRNA            >1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 c
+//
+
+LOCUS       AF125595                   1 bp    DNA     linear   VRT 03-JAN-2006
+DEFINITION  Acipenser fulvescens 12S ribosomal RNA gene, complete sequence;
+            mitochondrial.
+ACCESSION   AF125595 REGION: 1
+VERSION     AF125595.2
+KEYWORDS    .
+SOURCE      mitochondrion Acipenser fulvescens (lake sturgeon)
+  ORGANISM  Acipenser fulvescens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Chondrostei; Acipenseriformes; Acipenseridae;
+            Acipenser.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Krieger,J., Fuerst,P.A. and Cavender,T.M.
+  TITLE     Phylogenetic relationships of the North American sturgeons (order
+            Acipenseriformes) based on mitochondrial DNA sequences
+  JOURNAL   Mol. Phylogenet. Evol. 16 (1), 64-72 (2000)
+   PUBMED   10877940
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Krieger,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (04-FEB-1999) Molecular Genetics, The Ohio State
+            University, 484 West Twelfth Avenue, Columbus, OH 43210, USA
+REFERENCE   3  (bases 1 to 1)
+  AUTHORS   Krieger,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-JAN-2006) Molecular Genetics, The Ohio State
+            University, 484 West Twelfth Avenue, Columbus, OH 43210, USA
+  REMARK    Sequence update by submitter
+COMMENT     On Jan 3, 2006 this sequence version replaced AF125595.1.
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Acipenser fulvescens"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:41871"
+     rRNA            >1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 c
+//
+
+LOCUS       AF125599                   1 bp    DNA     linear   VRT 03-JAN-2006
+DEFINITION  Acipenser oxyrhynchus oxyrhynchus 12S ribosomal RNA gene, complete
+            sequence; mitochondrial.
+ACCESSION   AF125599 REGION: 1
+VERSION     AF125599.2
+KEYWORDS    .
+SOURCE      mitochondrion Acipenser oxyrinchus oxyrinchus
+  ORGANISM  Acipenser oxyrinchus oxyrinchus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Chondrostei; Acipenseriformes; Acipenseridae;
+            Acipenser.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Krieger,J., Fuerst,P.A. and Cavender,T.M.
+  TITLE     Phylogenetic relationships of the North American sturgeons (order
+            Acipenseriformes) based on mitochondrial DNA sequences
+  JOURNAL   Mol. Phylogenet. Evol. 16 (1), 64-72 (2000)
+   PUBMED   10877940
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Krieger,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (04-FEB-1999) Molecular Genetics, The Ohio State
+            University, 484 West Twelfth Avenue, Columbus, OH 43210, USA
+REFERENCE   3  (bases 1 to 1)
+  AUTHORS   Krieger,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-JAN-2006) Molecular Genetics, The Ohio State
+            University, 484 West Twelfth Avenue, Columbus, OH 43210, USA
+  REMARK    Sequence update by submitter
+COMMENT     On Jan 3, 2006 this sequence version replaced AF125599.1.
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Acipenser oxyrinchus oxyrinchus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:40147"
+     rRNA            >1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 c
+//
+
+LOCUS       AF125600                   1 bp    DNA     linear   VRT 03-JAN-2006
+DEFINITION  Acipenser oxyrhynchus desotoi 12S ribosomal RNA gene, complete
+            sequence; mitochondrial.
+ACCESSION   AF125600 REGION: 1
+VERSION     AF125600.2
+KEYWORDS    .
+SOURCE      mitochondrion Acipenser oxyrinchus desotoi (Gulf sturgeon)
+  ORGANISM  Acipenser oxyrinchus desotoi
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Chondrostei; Acipenseriformes; Acipenseridae;
+            Acipenser.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Krieger,J., Fuerst,P.A. and Cavender,T.M.
+  TITLE     Phylogenetic relationships of the North American sturgeons (order
+            Acipenseriformes) based on mitochondrial DNA sequences
+  JOURNAL   Mol. Phylogenet. Evol. 16 (1), 64-72 (2000)
+   PUBMED   10877940
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Krieger,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (04-FEB-1999) Molecular Genetics, The Ohio State
+            University, 484 West Twelfth Avenue, Columbus, OH 43210, USA
+REFERENCE   3  (bases 1 to 1)
+  AUTHORS   Krieger,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-JAN-2006) Molecular Genetics, The Ohio State
+            University, 484 West Twelfth Avenue, Columbus, OH 43210, USA
+  REMARK    Sequence update by submitter
+COMMENT     On Jan 3, 2006 this sequence version replaced AF125600.1.
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Acipenser oxyrinchus desotoi"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:40146"
+     rRNA            >1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 c
+//
+
+LOCUS       AF126355                   1 bp    DNA     linear   VRT 19-MAY-1999
+DEFINITION  Pimephales promelas strain H1 12S ribosomal RNA gene, partial
+            sequence; mitochondrial gene for mitochondrial product.
+ACCESSION   AF126355 REGION: 1
+VERSION     AF126355.1
+KEYWORDS    .
+SOURCE      mitochondrion Pimephales promelas (fathead minnow)
+  ORGANISM  Pimephales promelas
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Leuciscidae; Pogonichthyinae; Pimephales.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Kreiser,B.R., Mitton,J.B. and Woodling,J.D.
+  TITLE     Genetic variation in introduced populations of the fathead minnow,
+            Pimephales promelas (Cyprinidae), in western Colorado and eastern
+            Utah: genetic evidence for multiple introductions
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Kreiser,B.R., Mitton,J.B. and Woodling,J.D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-FEB-1999) Environmental, Population and Organismic,
+            University of Colorado, Campus Box 334, Boulder, CO 80309, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Pimephales promelas"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /strain="H1"
+                     /db_xref="taxon:90988"
+                     /tissue_type="muscle"
+                     /geo_loc_name="USA:Utah, San Juan County, Cross Canyon"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 a
+//
+
+LOCUS       AF126357                   1 bp    DNA     linear   VRT 19-MAY-1999
+DEFINITION  Pimephales promelas strain H3 12S ribosomal RNA gene, partial
+            sequence; mitochondrial gene for mitochondrial product.
+ACCESSION   AF126357 REGION: 1
+VERSION     AF126357.1
+KEYWORDS    .
+SOURCE      mitochondrion Pimephales promelas (fathead minnow)
+  ORGANISM  Pimephales promelas
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Leuciscidae; Pogonichthyinae; Pimephales.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Kreiser,B.R., Mitton,J.B. and Woodling,J.D.
+  TITLE     Genetic variation in introduced populations of the fathead minnow,
+            Pimephales promelas (Cyprinidae), in western Colorado and eastern
+            Utah: genetic evidence for multiple introductions
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Kreiser,B.R., Mitton,J.B. and Woodling,J.D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-FEB-1999) Environmental, Population and Organismic,
+            University of Colorado, Campus Box 334, Boulder, CO 80309, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Pimephales promelas"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /strain="H3"
+                     /db_xref="taxon:90988"
+                     /tissue_type="muscle"
+                     /geo_loc_name="USA:Colorado, Moffat County, Morgan Gulch"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 a
+//
+
+LOCUS       AF126358                   1 bp    DNA     linear   VRT 19-MAY-1999
+DEFINITION  Pimephales promelas strain H4 12S ribosomal RNA gene, partial
+            sequence; mitochondrial gene for mitochondrial product.
+ACCESSION   AF126358 REGION: 1
+VERSION     AF126358.1
+KEYWORDS    .
+SOURCE      mitochondrion Pimephales promelas (fathead minnow)
+  ORGANISM  Pimephales promelas
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Leuciscidae; Pogonichthyinae; Pimephales.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Kreiser,B.R., Mitton,J.B. and Woodling,J.D.
+  TITLE     Genetic variation in introduced populations of the fathead minnow,
+            Pimephales promelas (Cyprinidae), in western Colorado and eastern
+            Utah: genetic evidence for multiple introductions
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Kreiser,B.R., Mitton,J.B. and Woodling,J.D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-FEB-1999) Environmental, Population and Organismic,
+            University of Colorado, Campus Box 334, Boulder, CO 80309, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Pimephales promelas"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /strain="H4"
+                     /db_xref="taxon:90988"
+                     /tissue_type="muscle"
+                     /geo_loc_name="USA:Colorado, Moffat County, Morgan Gulch"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 a
+//
+
+LOCUS       AF126362                   1 bp    DNA     linear   VRT 19-MAY-1999
+DEFINITION  Pimephales promelas strain H8 12S ribosomal RNA gene, partial
+            sequence; mitochondrial gene for mitochondrial product.
+ACCESSION   AF126362 REGION: 1
+VERSION     AF126362.1
+KEYWORDS    .
+SOURCE      mitochondrion Pimephales promelas (fathead minnow)
+  ORGANISM  Pimephales promelas
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Leuciscidae; Pogonichthyinae; Pimephales.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Kreiser,B.R., Mitton,J.B. and Woodling,J.D.
+  TITLE     Genetic variation in introduced populations of the fathead minnow,
+            Pimephales promelas (Cyprinidae), in western Colorado and eastern
+            Utah: genetic evidence for multiple introductions
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Kreiser,B.R., Mitton,J.B. and Woodling,J.D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-FEB-1999) Environmental, Population and Organismic,
+            University of Colorado, Campus Box 334, Boulder, CO 80309, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Pimephales promelas"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /strain="H8"
+                     /db_xref="taxon:90988"
+                     /tissue_type="muscle"
+                     /geo_loc_name="USA:Colorado, Delta County, Sweitzer Lake"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 a
+//
+
+LOCUS       AF126363                   1 bp    DNA     linear   VRT 19-MAY-1999
+DEFINITION  Pimephales promelas strain H9 12S ribosomal RNA gene, partial
+            sequence; mitochondrial gene for mitochondrial product.
+ACCESSION   AF126363 REGION: 1
+VERSION     AF126363.1
+KEYWORDS    .
+SOURCE      mitochondrion Pimephales promelas (fathead minnow)
+  ORGANISM  Pimephales promelas
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Leuciscidae; Pogonichthyinae; Pimephales.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Kreiser,B.R., Mitton,J.B. and Woodling,J.D.
+  TITLE     Genetic variation in introduced populations of the fathead minnow,
+            Pimephales promelas (Cyprinidae), in western Colorado and eastern
+            Utah: genetic evidence for multiple introductions
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Kreiser,B.R., Mitton,J.B. and Woodling,J.D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-FEB-1999) Environmental, Population and Organismic,
+            University of Colorado, Campus Box 334, Boulder, CO 80309, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Pimephales promelas"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /strain="H9"
+                     /db_xref="taxon:90988"
+                     /tissue_type="muscle"
+                     /geo_loc_name="USA:Colorado, Montrose County, Naturita
+                     Creek"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 a
+//
+
+LOCUS       AF126364                   1 bp    DNA     linear   VRT 19-MAY-1999
+DEFINITION  Pimephales promelas strain H10 12S ribosomal RNA gene, partial
+            sequence; mitochondrial gene for mitochondrial product.
+ACCESSION   AF126364 REGION: 1
+VERSION     AF126364.1
+KEYWORDS    .
+SOURCE      mitochondrion Pimephales promelas (fathead minnow)
+  ORGANISM  Pimephales promelas
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Leuciscidae; Pogonichthyinae; Pimephales.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Kreiser,B.R., Mitton,J.B. and Woodling,J.D.
+  TITLE     Genetic variation in introduced populations of the fathead minnow,
+            Pimephales promelas (Cyprinidae), in western Colorado and eastern
+            Utah: genetic evidence for multiple introductions
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Kreiser,B.R., Mitton,J.B. and Woodling,J.D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-FEB-1999) Environmental, Population and Organismic,
+            University of Colorado, Campus Box 334, Boulder, CO 80309, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Pimephales promelas"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /strain="H10"
+                     /db_xref="taxon:90988"
+                     /tissue_type="muscle"
+                     /geo_loc_name="USA:Colorado, Montrose County, Naturita
+                     Creek"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 a
+//
+
+LOCUS       AF133701                   1 bp    DNA     linear   VRT 26-JUL-2016
+DEFINITION  Salmo salar mitochondrion, complete genome.
+ACCESSION   AF133701 REGION: 1
+VERSION     AF133701.1
+KEYWORDS    .
+SOURCE      mitochondrion Salmo salar (Atlantic salmon)
+  ORGANISM  Salmo salar
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Salmo.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Arnason,U., Johnsson,E. and Rasmussen,A.
+  TITLE     The complete mitochondrial genome sequence of a teleost, Salmo
+            salar, and comparisons with other salmoniformes
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Arnason,U.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-MAR-1999) Genetics, University of Lund, Solvegatan
+            29, Lund 223 62, Sweden
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Salmo salar"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8030"
+                     /sex="female"
+                     /geo_loc_name="Sweden:Moerrum River"
+                     /note="specimen collected in autumn 1992"
+     tRNA            >1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       AF149986                   1 bp    DNA     linear   VRT 13-JUL-2009
+DEFINITION  Percopsis omiscomaycus voucher UAIC 11218.07 12S ribosomal RNA
+            gene, partial sequence; mitochondrial.
+ACCESSION   AF149986 REGION: 1
+VERSION     AF149986.1
+KEYWORDS    .
+SOURCE      mitochondrion Percopsis omiscomaycus
+  ORGANISM  Percopsis omiscomaycus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Percopsaria; Percopsiformes; Percopsoidei;
+            Percopsidae; Percopsis.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Wiley,E.O., David Johnson,G. and Wheaton Dimmick,W.
+  TITLE     The interrelationships of Acanthomorph fishes: A total evidence
+            approach using molecular and morphological data
+  JOURNAL   Biochem. Syst. Ecol. 28 (4), 319-350 (2000)
+   PUBMED   10725591
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Wiley,E.O., Johnson,G.D. and Dimmick,W.W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-MAY-1999) Natural History Museum, University of
+            Kansas, Lawrence, KS 66045, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Percopsis omiscomaycus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="UAIC 11218.07"
+                     /db_xref="taxon:81381"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       AF150004                   1 bp    DNA     linear   VRT 13-JUL-2009
+DEFINITION  Lepomis macrochirus voucher KU 25193 12S ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   AF150004 REGION: 1
+VERSION     AF150004.1
+KEYWORDS    .
+SOURCE      mitochondrion Lepomis macrochirus (bluegill)
+  ORGANISM  Lepomis macrochirus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Centrarchiformes; Centrarchoidei;
+            Centrarchidae; Lepomis.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Wiley,E.O., David Johnson,G. and Wheaton Dimmick,W.
+  TITLE     The interrelationships of Acanthomorph fishes: A total evidence
+            approach using molecular and morphological data
+  JOURNAL   Biochem. Syst. Ecol. 28 (4), 319-350 (2000)
+   PUBMED   10725591
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Wiley,E.O., Johnson,G.D. and Dimmick,W.W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-MAY-1999) Natural History Museum, University of
+            Kansas, Lawrence, KS 66045, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Lepomis macrochirus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="KU 25193"
+                     /db_xref="taxon:13106"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       AF150005                   1 bp    DNA     linear   VRT 13-JUL-2009
+DEFINITION  Morone chrysops voucher KU 22901 12S ribosomal RNA gene, partial
+            sequence; mitochondrial.
+ACCESSION   AF150005 REGION: 1
+VERSION     AF150005.1
+KEYWORDS    .
+SOURCE      mitochondrion Morone chrysops (white bass)
+  ORGANISM  Morone chrysops
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Moronidae; Morone.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Wiley,E.O., David Johnson,G. and Wheaton Dimmick,W.
+  TITLE     The interrelationships of Acanthomorph fishes: A total evidence
+            approach using molecular and morphological data
+  JOURNAL   Biochem. Syst. Ecol. 28 (4), 319-350 (2000)
+   PUBMED   10725591
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Wiley,E.O., Johnson,G.D. and Dimmick,W.W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-MAY-1999) Natural History Museum, University of
+            Kansas, Lawrence, KS 66045, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Morone chrysops"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="KU 22901"
+                     /db_xref="taxon:46259"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       AF154850                   1 bp    DNA     linear   VRT 26-JUL-2016
+DEFINITION  Salvelinus fontinalis mitochondrion complete genome.
+ACCESSION   AF154850 REGION: 1
+VERSION     AF154850.1
+KEYWORDS    .
+SOURCE      mitochondrion Salvelinus fontinalis (brook trout)
+  ORGANISM  Salvelinus fontinalis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Salvelinus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Doiron,S., Bernatchez,L. and Blier,P.U.
+  TITLE     A comparative mitogenomic analysis of the potential adaptive value
+            of Arctic charr mtDNA introgression in brook charr populations
+            (Salvelinus fontinalis Mitchill)
+  JOURNAL   Mol. Biol. Evol. 19 (11), 1902-1909 (2002)
+   PUBMED   12411599
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Doiron,S., Blier,P.U. and Bernatchez,L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-MAY-1999) Biology, Universite Laval, Cite
+            Universitaire, Ste-Foy, Quebec G1K 7P4, Canada
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Salvelinus fontinalis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8038"
+     D-loop          >1
+                     /note="control region"
+ORIGIN      
+        1 a
+//
+
+LOCUS       AF266496                   1 bp    DNA     linear   VRT 13-AUG-2001
+DEFINITION  Anguilla rostrata 12S ribosomal RNA gene, complete sequence;
+            mitochondrial gene for mitochondrial product.
+ACCESSION   AF266496 REGION: 1
+VERSION     AF266496.1
+KEYWORDS    .
+SOURCE      mitochondrion Anguilla rostrata (American eel)
+  ORGANISM  Anguilla rostrata
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Anguilliformes;
+            Anguillidae; Anguilla.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Lin,Y.S., Poh,Y.P. and Tzeng,C.S.
+  TITLE     A phylogeny of freshwater eels inferred from mitochondrial genes
+  JOURNAL   Mol. Phylogenet. Evol. 20 (2), 252-261 (2001)
+   PUBMED   11476633
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Poh,Y.P., Lin,Y.S. and Tzeng,C.S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-MAY-2000) Department of Life Science, National Tsing
+            Hua University, 101 Kuang Fu Road Sec. 2, Hsingchu, Taiwan 30043,
+            Republic of China
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Anguilla rostrata"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:7938"
+     rRNA            >1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 c
+//
+
+LOCUS       AF266497                   1 bp    DNA     linear   VRT 13-AUG-2001
+DEFINITION  Anguilla rostrata 12S ribosomal RNA gene, complete sequence;
+            mitochondrial gene for mitochondrial product.
+ACCESSION   AF266497 REGION: 1
+VERSION     AF266497.1
+KEYWORDS    .
+SOURCE      mitochondrion Anguilla rostrata (American eel)
+  ORGANISM  Anguilla rostrata
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Anguilliformes;
+            Anguillidae; Anguilla.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Lin,Y.S., Poh,Y.P. and Tzeng,C.S.
+  TITLE     A phylogeny of freshwater eels inferred from mitochondrial genes
+  JOURNAL   Mol. Phylogenet. Evol. 20 (2), 252-261 (2001)
+   PUBMED   11476633
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Poh,Y.P., Lin,Y.S. and Tzeng,C.S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-MAY-2000) Department of Life Science, National Tsing
+            Hua University, 101 Kuang Fu Road Sec. 2, Hsingchu, Taiwan 30043,
+            Republic of China
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Anguilla rostrata"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:7938"
+     rRNA            >1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 c
+//
+
+LOCUS       AF333595                   1 bp    DNA     linear   VRT 26-AUG-2001
+DEFINITION  Catostomus catostomus 12S ribosomal RNA gene, partial sequence;
+            tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene,
+            partial sequence; mitochondrial genes for mitochondrial products.
+ACCESSION   AF333595 REGION: 1
+VERSION     AF333595.1
+KEYWORDS    .
+SOURCE      mitochondrion Catostomus catostomus (longnose sucker)
+  ORGANISM  Catostomus catostomus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Catostomoidei; Catostomidae; Catostomus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Harris,P.M. and Mayden,R.L.
+  TITLE     Phylogenetic relationships of major clades of Catostomidae
+            (Teleostei: Cypriniformes) as inferred from mitochondrial SSU and
+            LSU rDNA sequences
+  JOURNAL   Mol. Phylogenet. Evol. 20 (2), 225-237 (2001)
+   PUBMED   11476631
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Harris,P.M. and Mayden,R.L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (04-JAN-2001) Biological Sciences, University of Alabama,
+            Box 870345, Tuscaloosa, AL 35487-0345, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Catostomus catostomus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="UAIC 11237.04"
+                     /db_xref="taxon:43956"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 c
+//
+
+LOCUS       AF333596                   1 bp    DNA     linear   VRT 26-AUG-2001
+DEFINITION  Catostomus commersoni 12S ribosomal RNA gene, partial sequence;
+            tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene,
+            partial sequence; mitochondrial genes for mitochondrial products.
+ACCESSION   AF333596 REGION: 1
+VERSION     AF333596.1
+KEYWORDS    .
+SOURCE      mitochondrion Catostomus commersonii (white sucker)
+  ORGANISM  Catostomus commersonii
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Catostomoidei; Catostomidae; Catostomus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Harris,P.M. and Mayden,R.L.
+  TITLE     Phylogenetic relationships of major clades of Catostomidae
+            (Teleostei: Cypriniformes) as inferred from mitochondrial SSU and
+            LSU rDNA sequences
+  JOURNAL   Mol. Phylogenet. Evol. 20 (2), 225-237 (2001)
+   PUBMED   11476631
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Harris,P.M. and Mayden,R.L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (04-JAN-2001) Biological Sciences, University of Alabama,
+            Box 870345, Tuscaloosa, AL 35487-0345, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Catostomus commersonii"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="UAIC 11156.03"
+                     /db_xref="taxon:7971"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       AF333600                   1 bp    DNA     linear   VRT 26-AUG-2001
+DEFINITION  Moxostoma anisurum 12S ribosomal RNA gene, partial sequence;
+            tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene,
+            partial sequence; mitochondrial genes for mitochondrial products.
+ACCESSION   AF333600 REGION: 1
+VERSION     AF333600.1
+KEYWORDS    .
+SOURCE      mitochondrion Moxostoma anisurum (silver redhorse)
+  ORGANISM  Moxostoma anisurum
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Catostomoidei; Catostomidae; Moxostoma.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Harris,P.M. and Mayden,R.L.
+  TITLE     Phylogenetic relationships of major clades of Catostomidae
+            (Teleostei: Cypriniformes) as inferred from mitochondrial SSU and
+            LSU rDNA sequences
+  JOURNAL   Mol. Phylogenet. Evol. 20 (2), 225-237 (2001)
+   PUBMED   11476631
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Harris,P.M. and Mayden,R.L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (04-JAN-2001) Biological Sciences, University of Alabama,
+            Box 870345, Tuscaloosa, AL 35487-0345, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Moxostoma anisurum"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="UAIC 11606.02"
+                     /db_xref="taxon:154817"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 c
+//
+
+LOCUS       AF333601                   1 bp    DNA     linear   VRT 26-AUG-2001
+DEFINITION  Moxostoma carinatum 12S ribosomal RNA gene, partial sequence;
+            tRNA-Val gene, complete sequence; and 16S ribosomal RNA gene,
+            partial sequence; mitochondrial genes for mitochondrial products.
+ACCESSION   AF333601 REGION: 1
+VERSION     AF333601.1
+KEYWORDS    .
+SOURCE      mitochondrion Moxostoma carinatum (river redhorse)
+  ORGANISM  Moxostoma carinatum
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Catostomoidei; Catostomidae; Moxostoma.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Harris,P.M. and Mayden,R.L.
+  TITLE     Phylogenetic relationships of major clades of Catostomidae
+            (Teleostei: Cypriniformes) as inferred from mitochondrial SSU and
+            LSU rDNA sequences
+  JOURNAL   Mol. Phylogenet. Evol. 20 (2), 225-237 (2001)
+   PUBMED   11476631
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Harris,P.M. and Mayden,R.L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (04-JAN-2001) Biological Sciences, University of Alabama,
+            Box 870345, Tuscaloosa, AL 35487-0345, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Moxostoma carinatum"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="UAIC 11005.03"
+                     /db_xref="taxon:154820"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 c
+//
+
+LOCUS       AF354985                   1 bp    DNA     linear   VRT 24-DEC-2002
+DEFINITION  Gasterosteus wheatlandi 12S ribosomal RNA gene, partial sequence;
+            mitochondrial gene for mitochondrial product.
+ACCESSION   AF354985 REGION: 1
+VERSION     AF354985.1
+KEYWORDS    .
+SOURCE      mitochondrion Gasterosteus wheatlandi (blackspotted stickleback)
+  ORGANISM  Gasterosteus wheatlandi
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Perciformes; Cottioidei;
+            Gasterosteales; Gasterosteidae; Gasterosteus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Wilson,A.B., Vincent,A., Ahnesjo,I. and Meyer,A.
+  TITLE     Male pregnancy in seahorses and pipefishes (family Syngnathidae):
+            rapid diversification of paternal brood pouch morphology inferred
+            from a molecular phylogeny
+  JOURNAL   J. Hered. 92 (2), 159-166 (2001)
+   PUBMED   11396574
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Wilson,A.B., Vincent,A., Ahnesjo,I. and Meyer,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-FEB-2001) Biology, University of Konstanz,
+            Universitatstrasse 10, Konstanz 78457, Germany
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Gasterosteus wheatlandi"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:161456"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       AF354986                   1 bp    DNA     linear   VRT 24-DEC-2002
+DEFINITION  Gasterosteus aculeatus 12S ribosomal RNA gene, partial sequence;
+            mitochondrial gene for mitochondrial product.
+ACCESSION   AF354986 REGION: 1
+VERSION     AF354986.1
+KEYWORDS    .
+SOURCE      mitochondrion Gasterosteus aculeatus (three-spined stickleback)
+  ORGANISM  Gasterosteus aculeatus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Perciformes; Cottioidei;
+            Gasterosteales; Gasterosteidae; Gasterosteus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Wilson,A.B., Vincent,A., Ahnesjo,I. and Meyer,A.
+  TITLE     Male pregnancy in seahorses and pipefishes (family Syngnathidae):
+            rapid diversification of paternal brood pouch morphology inferred
+            from a molecular phylogeny
+  JOURNAL   J. Hered. 92 (2), 159-166 (2001)
+   PUBMED   11396574
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Wilson,A.B., Vincent,A., Ahnesjo,I. and Meyer,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-FEB-2001) Biology, University of Konstanz,
+            Universitatstrasse 10, Konstanz 78457, Germany
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Gasterosteus aculeatus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:69293"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       AF354987                   1 bp    DNA     linear   VRT 24-DEC-2002
+DEFINITION  Pungitius pungitius 12S ribosomal RNA gene, partial sequence;
+            mitochondrial gene for mitochondrial product.
+ACCESSION   AF354987 REGION: 1
+VERSION     AF354987.1
+KEYWORDS    .
+SOURCE      mitochondrion Pungitius pungitius (ninespine stickleback)
+  ORGANISM  Pungitius pungitius
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Perciformes; Cottioidei;
+            Gasterosteales; Gasterosteidae; Pungitius.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Wilson,A.B., Vincent,A., Ahnesjo,I. and Meyer,A.
+  TITLE     Male pregnancy in seahorses and pipefishes (family Syngnathidae):
+            rapid diversification of paternal brood pouch morphology inferred
+            from a molecular phylogeny
+  JOURNAL   J. Hered. 92 (2), 159-166 (2001)
+   PUBMED   11396574
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Wilson,A.B., Vincent,A., Ahnesjo,I. and Meyer,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-FEB-2001) Biology, University of Konstanz,
+            Universitatstrasse 10, Konstanz 78457, Germany
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Pungitius pungitius"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:134920"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       AF392054                   1 bp    DNA     linear   VRT 23-JUL-2016
+DEFINITION  Oncorhynchus tshawytscha mitochondrion, complete genome.
+ACCESSION   AF392054 REGION: 1
+VERSION     AF392054.1
+KEYWORDS    .
+SOURCE      mitochondrion Oncorhynchus tshawytscha (Chinook salmon)
+  ORGANISM  Oncorhynchus tshawytscha
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Oncorhynchus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Bernales,S.O., Burzio,L.O., Engel,E., Martinez,R., Miquel,A.,
+            Villegas,J. and Valenzuela,P.D.T.
+  TITLE     The complete nucleotide sequence of the mitochondrial DNA genome of
+            chinook salmon, Oncorhynchus tshawytscha
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Bernales,S.O., Burzio,L.O., Engel,E., Martinez,R., Miquel,A.,
+            Villegas,J. and Valenzuela,P.D.T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (15-JUN-2001) Molecular Biology, Fundacion Ciencia para
+            la Vida, Av. Marathon 1943, Santiago 6842301, Chile
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oncorhynchus tshawytscha"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:74940"
+     D-loop          >1
+ORIGIN      
+        1 a
+//
+
+LOCUS       AF402894                   1 bp    DNA     linear   VRT 08-MAY-2002
+DEFINITION  Acipenser oxyrinchus desotoi 12S ribosomal RNA gene, partial
+            sequence; mitochondrial gene for mitochondrial product.
+ACCESSION   AF402894 REGION: 1
+VERSION     AF402894.1
+KEYWORDS    .
+SOURCE      mitochondrion Acipenser oxyrinchus desotoi (Gulf sturgeon)
+  ORGANISM  Acipenser oxyrinchus desotoi
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Chondrostei; Acipenseriformes; Acipenseridae;
+            Acipenser.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Birstein,V.J., Doukakis,P. and DeSalle,R.
+  TITLE     Molecular phylogeny of Acipenseridae: nonmonophyly of
+            Scaphirhynchinae
+  JOURNAL   Copeia 2 (2), 287-301 (2002)
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Birstein,V.J., Doukakis,P. and DeSalle,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (26-JUL-2001) Division of Invertebrates, Molecular
+            Laboratory, American Museum of Natural History, Central Park West
+            at 79th Street, New York, NY 10019, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Acipenser oxyrinchus desotoi"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:40146"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 t
+//
+

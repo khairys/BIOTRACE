@@ -1,0 +1,1181 @@
+LOCUS       PQ284208                   1 bp    DNA     linear   VRT 07-OCT-2024
+DEFINITION  Salmo salar isolate Sal_Far1 mitochondrion, complete genome.
+ACCESSION   PQ284208 REGION: 1
+VERSION     PQ284208.1
+KEYWORDS    .
+SOURCE      mitochondrion Salmo salar (Atlantic salmon)
+  ORGANISM  Salmo salar
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Salmo.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Ji,C., Zhao,H. and Wang,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (30-AUG-2024) Tianjin Normal University, School of Life
+            SciencesTianjin Normal University, Tianjin Normal University, No.
+            393, Extension of Bin Shui West Road, Tianjin, Tianjin 300387,
+            China
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: MitoZ v. 2.4
+            Sequencing Technology :: Illumina
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Salmo salar"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="Sal_Far1"
+                     /db_xref="taxon:8030"
+                     /geo_loc_name="Denmark"
+     gene            >1
+                     /gene="trnF(gaa)"
+     tRNA            >1
+                     /gene="trnF(gaa)"
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       PQ584794                   1 bp    DNA     linear   VRT 23-NOV-2024
+DEFINITION  Cyprinus carpio mitochondrion, complete genome.
+ACCESSION   PQ584794 REGION: 1
+VERSION     PQ584794.1
+KEYWORDS    .
+SOURCE      mitochondrion Cyprinus carpio (common carp)
+  ORGANISM  Cyprinus carpio
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Cyprinidae; Cyprininae; Cyprinus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Lin,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-NOV-2024) Shantou University, Guangdong Provincial
+            Key Laboratory of Marine Biotechnology, 243 University Road,
+            Shantou, Guangdong 515063, China
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: GetOrganelle v. v1.7.7.1
+            Assembly Name         :: CC
+            Coverage              :: 90
+            Sequencing Technology :: Illumina
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Cyprinus carpio"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:7962"
+     gene            >1
+                     /gene="trnF(gaa)"
+     tRNA            >1
+                     /gene="trnF(gaa)"
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       PV029268                   1 bp    DNA     linear   VRT 02-FEB-2025
+DEFINITION  Neogobius melanostomus isolate tissue small subunit ribosomal RNA
+            gene, partial sequence; mitochondrial.
+ACCESSION   PV029268 REGION: 1
+VERSION     PV029268.1
+KEYWORDS    .
+SOURCE      mitochondrion Neogobius melanostomus (round goby)
+  ORGANISM  Neogobius melanostomus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Gobiaria; Gobiiformes; Gobioidei; Gobiidae;
+            Benthophilinae; Neogobiini; Neogobius.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Rund,H., Dobrovolny,S., Kurmayer,R. and Wanzenboeck,J.
+  TITLE     Spatial distribution patterns of eDNA in pre-alpine lakes reflect
+            habitat preferences of different fish species
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Rund,H., Dobrovolny,S., Kurmayer,R. and Wanzenboeck,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-JAN-2025) Research Department for Limnology, Mondsee,
+            University of Innsbruck, Mondseestrasse 9, Mondsee 5310, Austria
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: A5-miseq v. MAY-2020
+            Sequencing Technology :: Illumina
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Neogobius melanostomus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="tissue"
+                     /db_xref="taxon:47308"
+                     /geo_loc_name="Austria"
+                     /collection_date="Feb-2022"
+                     /note="PCR_primers=fwd_name: MiFish-Uf, rev_name:
+                     MiFish-Ur"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 c
+//
+
+LOCUS       PV034394                   1 bp    DNA     linear   VRT 04-FEB-2025
+DEFINITION  Ameiurus natalis small subunit ribosomal RNA gene, partial
+            sequence; mitochondrial.
+ACCESSION   PV034394 REGION: 1
+VERSION     PV034394.1
+KEYWORDS    .
+SOURCE      mitochondrion Ameiurus natalis (yellow bullhead)
+  ORGANISM  Ameiurus natalis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi; Siluriformes;
+            Ictaluridae; Ameiurus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Kyle,K.E., Vastano,A.R., Henning,B. and Lockwood,J.L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-JAN-2025) Ecology, Evolution and Natural Resources,
+            Rutgers University, 14 College Farm Road, New Brunswick, NJ 08901,
+            USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Ameiurus natalis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:66912"
+                     /geo_loc_name="USA: New Jersey"
+                     /collection_date="2023"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 c
+//
+
+LOCUS       PV254232                   1 bp    DNA     linear   VRT 01-APR-2025
+DEFINITION  Morone americana mitochondrion, complete genome.
+ACCESSION   PV254232 REGION: 1
+VERSION     PV254232.1
+KEYWORDS    .
+SOURCE      mitochondrion Morone americana (white perch)
+  ORGANISM  Morone americana
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Moronidae; Morone.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Paris,J.R., Criss,M.A., Walsh,J.L., Ferrer Obiol,J., Murray,C.S.,
+            Boone,J.Q. and Petersen,A.M.
+  TITLE     Two genomes of the white perch (Morone americana), an ecologically
+            important teleost
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Paris,J.R., Criss,M.A., Walsh,J.L., Ferrer Obiol,J., Murray,C.S.,
+            Boone,J.Q. and Petersen,A.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-MAR-2025) Industrial Economics, Incorporated (IEc),
+            Cambridge, MA, USA, 2067 Massachusetts Ave, Cambridge, MA 02140,
+            USA
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: MitoHifi v. 3.2
+            Assembly Name         :: Morone americana, complete mitogenome
+            Sequencing Technology :: PacBio
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Morone americana"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:46260"
+                     /sex="female"
+                     /dev_stage="adult"
+                     /geo_loc_name="USA: Mullica River,Great Bay, NJ"
+                     /collection_date="Jun-2022"
+                     /collected_by="Ann Petersen"
+     gene            >1
+                     /gene="trnF(gaa)"
+     tRNA            >1
+                     /gene="trnF(gaa)"
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       PV414310                   1 bp    DNA     linear   VRT 19-APR-2025
+DEFINITION  Anguilla rostrata isolate 66S109 12S ribosomal RNA gene, partial
+            sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA
+            gene, partial sequence; mitochondrial.
+ACCESSION   PV414310 REGION: 1
+VERSION     PV414310.1
+KEYWORDS    .
+SOURCE      mitochondrion Anguilla rostrata (American eel)
+  ORGANISM  Anguilla rostrata
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Anguilliformes;
+            Anguillidae; Anguilla.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Munguia-Vega,A., Caamal,J., Martinez-Garza,B.A.,
+            Dominguez-Contreras,J.F. and Fulton,S.
+  TITLE     Marine eDNA Metabarcoding for Citizen Science Monitoring of Fish
+            Communities and Spawning Aggregations in the Mexican Caribbean
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Munguia-Vega,A., Caamal,J., Martinez-Garza,B.A.,
+            Dominguez-Contreras,J.F. and Fulton,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-MAR-2025) School of Natural Resources and the
+            Environment, The University of Arizona, 1064 E. LOWELL ST, Tucson,
+            AZ 85721, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Anguilla rostrata"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="66S109"
+                     /db_xref="taxon:7938"
+                     /geo_loc_name="Mexico"
+                     /collection_date="Oct-2024"
+                     /PCR_primers="fwd_name: Teleo12s_792-F, fwd_seq:
+                     caggtcgaggtgtagcgyatg, rev_name: Teleo12s_1322-R, rev_seq:
+                     ctttcagctttcccttgcgg"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 t
+//
+
+LOCUS       PV748002                   1 bp    DNA     linear   VRT 16-JUN-2025
+DEFINITION  Catostomus commersonii isolate te-CACO8 mitochondrion, complete
+            genome.
+ACCESSION   PV748002 REGION: 1
+VERSION     PV748002.1
+KEYWORDS    .
+SOURCE      mitochondrion Catostomus commersonii (white sucker)
+  ORGANISM  Catostomus commersonii
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Catostomoidei; Catostomidae; Catostomus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Helbing,C.C., Lopez,M.L.D., Warren,R., Coombe,L. and Birol,I.
+  TITLE     iTrackDNA: Non-Destructive Precision Genomics for Environmental
+            Impact Tracking in a Global Climate Change Era
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Lopez,M.L.D. and Helbing,C.C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (26-MAY-2025) Biochemistry and Microbiology, University
+            of Victoria, 3800 Finnerty Road, Victoria, British Columbia V8P5C2,
+            Canada
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: mtGrasp v. 1.1.8
+            Assembly Name         :: te-CACO8
+            Coverage              :: 10X
+            Sequencing Technology :: Illumina
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Catostomus commersonii"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="te-CACO8"
+                     /db_xref="taxon:7971"
+                     /geo_loc_name="Canada"
+     gene            >1
+                     /gene="trnF(gaa)"
+     tRNA            >1
+                     /gene="trnF(gaa)"
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       PV748006                   1 bp    DNA     linear   VRT 31-JUL-2025
+DEFINITION  Catostomus commersonii isolate te-CACO9 mitochondrion, complete
+            genome.
+ACCESSION   PV748006 REGION: 1
+VERSION     PV748006.1
+DBLINK      BioProject: PRJNA1139757
+KEYWORDS    .
+SOURCE      mitochondrion Catostomus commersonii (white sucker)
+  ORGANISM  Catostomus commersonii
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Catostomoidei; Catostomidae; Catostomus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Helbing,C.C., Lopez,M.L.D., Warren,R., Coombe,L., Imbery,J. and
+            Birol,I.
+  TITLE     iTrackDNA: Non-Destructive Precision Genomics for Environmental
+            Impact Tracking in a Global Climate Change Era
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Lopez,M.L.D. and Helbing,C.C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (26-MAY-2025) Biochemistry and Microbiology, University
+            of Victoria, 3800 Finnerty Road, Victoria, British Columbia V8P5C2,
+            Canada
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: te-CACO9 v. 1.18
+            Assembly Name         :: te-CACO9
+            Coverage              :: 10X
+            Sequencing Technology :: Illumina
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Catostomus commersonii"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="te-CACO9"
+                     /db_xref="taxon:7971"
+                     /geo_loc_name="Canada"
+     gene            >1
+                     /gene="trnF(gaa)"
+     tRNA            >1
+                     /gene="trnF(gaa)"
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       PV748007                   1 bp    DNA     linear   VRT 31-JUL-2025
+DEFINITION  Catostomus commersonii isolate te-CACO10 mitochondrion, complete
+            genome.
+ACCESSION   PV748007 REGION: 1
+VERSION     PV748007.1
+DBLINK      BioProject: PRJNA1139757
+KEYWORDS    .
+SOURCE      mitochondrion Catostomus commersonii (white sucker)
+  ORGANISM  Catostomus commersonii
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Catostomoidei; Catostomidae; Catostomus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Helbing,C.C., Lopez,M.L.D., Warren,R., Coombe,L., Imbery,J. and
+            Warren,R.
+  TITLE     iTrackDNA: Non-Destructive Precision Genomics for Environmental
+            Impact Tracking in a Global Climate Change Era
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Lopez,M.L.D. and Helbing,C.C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (26-MAY-2025) Biochemistry and Microbiology, University
+            of Victoria, 3800 Finnerty Road, Victoria, British Columbia V8P5C2,
+            Canada
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: mtGrasp v. 1.1.8
+            Assembly Name         :: te-CACO10
+            Coverage              :: 10X
+            Sequencing Technology :: Illumina
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Catostomus commersonii"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="te-CACO10"
+                     /db_xref="taxon:7971"
+                     /geo_loc_name="Canada"
+     gene            >1
+                     /gene="trnF(gaa)"
+     tRNA            >1
+                     /gene="trnF(gaa)"
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       PV748008                   1 bp    DNA     linear   VRT 31-JUL-2025
+DEFINITION  Catostomus commersonii isolate te-CACO11 mitochondrion, complete
+            genome.
+ACCESSION   PV748008 REGION: 1
+VERSION     PV748008.1
+DBLINK      BioProject: PRJNA1139757
+KEYWORDS    .
+SOURCE      mitochondrion Catostomus commersonii (white sucker)
+  ORGANISM  Catostomus commersonii
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Catostomoidei; Catostomidae; Catostomus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Helbing,C.C., Lopez,M.L.D., Warren,R., Coombe,L., Imbery,J. and
+            Birol,I.
+  TITLE     iTrackDNA: Non-Destructive Precision Genomics for Environmental
+            Impact Tracking in a Global Climate Change Era
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Lopez,M.L.D. and Helbing,C.C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (26-MAY-2025) Biochemistry and Microbiology, University
+            of Victoria, 3800 Finnerty Road, Victoria, British Columbia V8P5C2,
+            Canada
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: mtGrasp v. 1.1.8
+            Assembly Name         :: te-CACO11
+            Coverage              :: 10X
+            Sequencing Technology :: Illumina
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Catostomus commersonii"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="te-CACO11"
+                     /db_xref="taxon:7971"
+                     /geo_loc_name="Canada"
+     gene            >1
+                     /gene="trnF(gaa)"
+     tRNA            >1
+                     /gene="trnF(gaa)"
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       PV748009                   1 bp    DNA     linear   VRT 31-JUL-2025
+DEFINITION  Catostomus commersonii isolate te-CACO12 mitochondrion, complete
+            genome.
+ACCESSION   PV748009 REGION: 1
+VERSION     PV748009.1
+DBLINK      BioProject: PRJNA1139757
+KEYWORDS    .
+SOURCE      mitochondrion Catostomus commersonii (white sucker)
+  ORGANISM  Catostomus commersonii
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Catostomoidei; Catostomidae; Catostomus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Helbing,C.C., Lopez,M.L.D., Warren,R., Coombe,L., Imbery,J. and
+            Birol,I.
+  TITLE     iTrackDNA: Non-Destructive Precision Genomics for Environmental
+            Impact Tracking in a Global Climate Change Era
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Lopez,M.L.D. and Helbing,C.C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (26-MAY-2025) Biochemistry and Microbiology, University
+            of Victoria, 3800 Finnerty Road, Victoria, British Columbia V8P5C2,
+            Canada
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: mtGrasp v. 1.1.8
+            Assembly Name         :: te-CACO12
+            Coverage              :: 10X
+            Sequencing Technology :: Illumina
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Catostomus commersonii"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="te-CACO12"
+                     /db_xref="taxon:7971"
+                     /geo_loc_name="Canada"
+     gene            >1
+                     /gene="trnF(gaa)"
+     tRNA            >1
+                     /gene="trnF(gaa)"
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       PV874414                   1 bp    DNA     linear   VRT 13-JUL-2025
+DEFINITION  Ameiurus nebulosus mitochondrion, complete genome.
+ACCESSION   PV874414 REGION: 1
+VERSION     PV874414.1
+KEYWORDS    .
+SOURCE      mitochondrion Ameiurus nebulosus (brown bullhead)
+  ORGANISM  Ameiurus nebulosus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi; Siluriformes;
+            Ictaluridae; Ameiurus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Curd,E.E.
+  TITLE     In Review
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Curd,E.E.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (01-JUL-2025) Vermont Biomedical Research Network,
+            University of Vermont, 95 Carrigan Dr., Burlington, VT 05405, USA
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: GetOrganelle v. v1.7.7.1
+            Assembly Name         :: HL4_mitochondria
+            Coverage              :: 644.4x
+            Sequencing Technology :: Illumina
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Ameiurus nebulosus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /bio_material="Brain"
+                     /db_xref="taxon:27778"
+                     /geo_loc_name="USA: Vermont"
+                     /lat_lon="43.26119444 N 72.43122222 W"
+                     /collection_date="2022-05-01"
+                     /collected_by="Matthew Bodnar"
+     gene            >1
+                     /gene="trnF"
+     tRNA            >1
+                     /gene="trnF"
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       PX761679                   1 bp    DNA     linear   VRT 31-DEC-2025
+DEFINITION  Carassius auratus isolate SW3 small subunit ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   PX761679 REGION: 1
+VERSION     PX761679.1
+KEYWORDS    .
+SOURCE      mitochondrion Carassius auratus (goldfish)
+  ORGANISM  Carassius auratus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Cyprinidae; Cyprininae; Carassius.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Shah,S.N., Anjum,S., Zaman,Q. and Ilahi,I.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (25-DEC-2025) Department of Zoology, Kaisee Dreams
+            Research Laboratory, Kaisee Dreams Research Laboratory, Malakand,
+            Khyber Pakhtunkhwa 23061, Pakistan
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Carassius auratus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="SW3"
+                     /db_xref="taxon:7957"
+                     /tissue_type="muscles"
+                     /geo_loc_name="Pakistan"
+                     /collection_date="2023"
+                     /collected_by="Sayyed Noaman Shah"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 a
+//
+
+LOCUS       PX761680                   1 bp    DNA     linear   VRT 31-DEC-2025
+DEFINITION  Carassius auratus isolate DLP1 small subunit ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   PX761680 REGION: 1
+VERSION     PX761680.1
+KEYWORDS    .
+SOURCE      mitochondrion Carassius auratus (goldfish)
+  ORGANISM  Carassius auratus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Cyprinidae; Cyprininae; Carassius.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Anjum,S., Zaman,Q. and Ilahi,I.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (25-DEC-2025) Department of Zoology, Kaisee Dreams
+            Research Laboratory, Kaisee Dreams Research Laboratory, Malakand,
+            Khyber Pakhtunkhwa 23061, Pakistan
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Carassius auratus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="DLP1"
+                     /db_xref="taxon:7957"
+                     /tissue_type="muscles"
+                     /geo_loc_name="Pakistan"
+                     /collection_date="2023"
+                     /collected_by="Sohail Anjum"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 a
+//
+
+LOCUS       PX761683                   1 bp    DNA     linear   VRT 31-DEC-2025
+DEFINITION  Carassius auratus isolate BJ3 small subunit ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   PX761683 REGION: 1
+VERSION     PX761683.1
+KEYWORDS    .
+SOURCE      mitochondrion Carassius auratus (goldfish)
+  ORGANISM  Carassius auratus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Cyprinidae; Cyprininae; Carassius.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Abbas,M., Zaman,Q., Ilahi,I., Anjum,S. and Shah,S.N.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (25-DEC-2025) Department of Zoology, Kaisee Dreams
+            Research Laboratory, Kaisee Dreams Research Laboratory, Malakand,
+            Khyber Pakhtunkhwa 23061, Pakistan
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Carassius auratus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="BJ3"
+                     /db_xref="taxon:7957"
+                     /tissue_type="muscles"
+                     /geo_loc_name="Pakistan"
+                     /collection_date="2023"
+                     /collected_by="Muhammad Abbas"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 c
+//
+
+LOCUS       PX797253                   1 bp    DNA     linear   VRT 10-JAN-2026
+DEFINITION  Carassius auratus isolate SUMAE1006 small subunit ribosomal RNA
+            gene, partial sequence; mitochondrial.
+ACCESSION   PX797253 REGION: 1
+VERSION     PX797253.1
+KEYWORDS    .
+SOURCE      mitochondrion Carassius auratus (goldfish)
+  ORGANISM  Carassius auratus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Cyprinidae; Cyprininae; Carassius.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Firidin,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-JAN-2026) Bereeding and Genetic, Central Fisheries
+            Research Institute, Vali Adil Yazar Cad., Trabzon 5055843248,
+            Turkey
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Carassius auratus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="SUMAE1006"
+                     /db_xref="taxon:7957"
+                     /geo_loc_name="Turkey: Karasu"
+                     /collection_date="28-Aug-2021"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       PX797258                   1 bp    DNA     linear   VRT 10-JAN-2026
+DEFINITION  Cyprinus carpio isolate H1_Keban small subunit ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   PX797258 REGION: 1
+VERSION     PX797258.1
+KEYWORDS    .
+SOURCE      mitochondrion Cyprinus carpio (common carp)
+  ORGANISM  Cyprinus carpio
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Cyprinidae; Cyprininae; Cyprinus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Firidin,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-JAN-2026) Bereeding and Genetic, Central Fisheries
+            Research Institute, Vali Adil Yazar Cad., Trabzon 5055843248,
+            Turkey
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Cyprinus carpio"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="H1_Keban"
+                     /db_xref="taxon:7962"
+                     /geo_loc_name="Turkey: Karasu"
+                     /collection_date="30-Aug-2021"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       PX797259                   1 bp    DNA     linear   VRT 10-JAN-2026
+DEFINITION  Cyprinus carpio isolate H2_Keban small subunit ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   PX797259 REGION: 1
+VERSION     PX797259.1
+KEYWORDS    .
+SOURCE      mitochondrion Cyprinus carpio (common carp)
+  ORGANISM  Cyprinus carpio
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Cyprinidae; Cyprininae; Cyprinus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Firidin,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-JAN-2026) Bereeding and Genetic, Central Fisheries
+            Research Institute, Vali Adil Yazar Cad., Trabzon 5055843248,
+            Turkey
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Cyprinus carpio"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="H2_Keban"
+                     /db_xref="taxon:7962"
+                     /geo_loc_name="Turkey: Karasu"
+                     /collection_date="30-Aug-2021"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       PX797269                   1 bp    DNA     linear   VRT 10-JAN-2026
+DEFINITION  Oncorhynchus mykiss isolate SUMAE00989 small subunit ribosomal RNA
+            gene, partial sequence; mitochondrial.
+ACCESSION   PX797269 REGION: 1
+VERSION     PX797269.1
+KEYWORDS    .
+SOURCE      mitochondrion Oncorhynchus mykiss (rainbow trout)
+  ORGANISM  Oncorhynchus mykiss
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Oncorhynchus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Firidin,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-JAN-2026) Bereeding and Genetic, Central Fisheries
+            Research Institute, Vali Adil Yazar Cad., Trabzon 5055843248,
+            Turkey
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oncorhynchus mykiss"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="SUMAE00989"
+                     /db_xref="taxon:8022"
+                     /geo_loc_name="Turkey: Karasu"
+                     /collection_date="Aug-2021"
+     rRNA            <1..>1
+                     /product="small subunit ribosomal RNA"
+ORIGIN      
+        1 c
+//
+
+LOCUS       PX982952                   1 bp    DNA     linear   VRT 16-FEB-2026
+DEFINITION  Cyprinus carpio isolate WuLi mitochondrion, complete genome.
+ACCESSION   PX982952 REGION: 1
+VERSION     PX982952.1
+KEYWORDS    .
+SOURCE      mitochondrion Cyprinus carpio (common carp)
+  ORGANISM  Cyprinus carpio
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Cyprinidae; Cyprininae; Cyprinus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Xu,X.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-FEB-2026) Hunan Normal University, Hunan Normal
+            University, College of Life Sciences, Hunan Normal University,
+            Changsha, Select 410000, China
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Cyprinus carpio"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="WuLi"
+                     /db_xref="taxon:7962"
+                     /note="Cyprinus carpio var. Quanzhounensis"
+     tRNA            >1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       PX992786                   1 bp    DNA     linear   VRT 17-FEB-2026
+DEFINITION  Cyprinus carpio isolate WuLi original parent_01 mitochondrion,
+            complete genome.
+ACCESSION   PX992786 REGION: 1
+VERSION     PX992786.1
+KEYWORDS    .
+SOURCE      mitochondrion Cyprinus carpio (common carp)
+  ORGANISM  Cyprinus carpio
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Cyprinidae; Cyprininae; Cyprinus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Xu,X.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-FEB-2026) Hunan Normal University, Hunan Normal
+            University, College of Life Sciences, Hunan Normal University,
+            Changsha, Select 410000, China
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Cyprinus carpio"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="WuLi original parent_01"
+                     /db_xref="taxon:7962"
+                     /note="Cyprinus carpio var. Quanzhounensis"
+     tRNA            >1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       PZ291810                   1 bp    DNA     linear   VRT 26-APR-2026
+DEFINITION  Alosa sapidissima voucher USNM:FISH:477988 mitochondrion, complete
+            genome.
+ACCESSION   PZ291810 REGION: 1
+VERSION     PZ291810.1
+DBLINK      BioProject: PRJNA720393
+            BioSample: SAMN57239875
+            Sequence Read Archive: SRR38066952
+KEYWORDS    .
+SOURCE      mitochondrion Alosa sapidissima (American shad)
+  ORGANISM  Alosa sapidissima
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Clupei; Clupeiformes;
+            Clupeoidei; Clupeidae; Alosa.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Bemis,K.E., Collins,A., Girard,M.G., Meyer,C., Pitassy,D.E. and
+            Reft,A.J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (15-APR-2026) Division of Fishes | Department of
+            Vertebrate Zoology, National Museum of Natural History, Smithsonian
+            Institution, 10th & Consitution Ave. NW, Washington, DC 20560, USA
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Geneious v. 2025.1.2
+            Sequencing Technology :: Illumina
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Alosa sapidissima"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="USNM:FISH:477988"
+                     /db_xref="taxon:34773"
+                     /lat_lon="43.0183 N 67.64358 W"
+                     /collection_date="2022-11-06"
+     tRNA            >1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       LCU09470                   1 bp    DNA     linear   VRT 04-MAR-2025
+DEFINITION  Luxilus cornutus Yellow R., Chippewa Co., WI, USA, mitochondrion
+            12S rRNA and 16S rRNA genes, partial sequence, and tRNA-Val gene,
+            complete sequence.
+ACCESSION   U09470 REGION: 1
+VERSION     U09470.2
+KEYWORDS    .
+SOURCE      mitochondrion Luxilus cornutus (common shiner)
+  ORGANISM  Luxilus cornutus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Leuciscidae; Pogonichthyinae; Luxilus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Duvernell,D.D. and Aspinwall,N.
+  TITLE     Introgression of Luxilus cornutus mtDNA into allopatric populations
+            of Luxilus chrysocephalus (Teleostei: Cyprinidae) in Missouri and
+            Arkansas
+  JOURNAL   Mol. Ecol. 4 (2), 173-181 (1995)
+   PUBMED   7735524
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Aspinwall,N.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-MAY-1994) Nevin Aspinwall, Saint Louis University,
+            Biology, 3507 Laclede, St. Louis, MO 63103-2010, USA
+COMMENT     On Mar 4, 2025 this sequence version replaced U09470.1.
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Luxilus cornutus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="Collection site: Yellow R., Chippewa Co., WI,
+                     USA"
+                     /db_xref="taxon:33539"
+                     /haplotype="CORN1"
+                     /tissue_type="muscle, skeletal"
+                     /dev_stage="adult"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 a
+//
+
+LOCUS       LCU09471                   1 bp    DNA     linear   VRT 04-MAR-2025
+DEFINITION  Luxilus cornutus Perche Cr., Boone Co., MO, USA, mitochondrion 12S
+            rRNA and 16S rRNA genes, partial sequence, and tRNA-Val gene,
+            complete sequence.
+ACCESSION   U09471 REGION: 1
+VERSION     U09471.2
+KEYWORDS    .
+SOURCE      mitochondrion Luxilus cornutus (common shiner)
+  ORGANISM  Luxilus cornutus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Leuciscidae; Pogonichthyinae; Luxilus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Duvernell,D.D. and Aspinwall,N.
+  TITLE     Introgression of Luxilus cornutus mtDNA into allopatric populations
+            of Luxilus chrysocephalus (Teleostei: Cyprinidae) in Missouri and
+            Arkansas
+  JOURNAL   Mol. Ecol. 4 (2), 173-181 (1995)
+   PUBMED   7735524
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Aspinwall,N.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-MAY-1994) Nevin Aspinwall, Saint Louis University,
+            Biology, 3507 Laclede, St. Louis, MO 63103-2010, USA
+COMMENT     On Mar 4, 2025 this sequence version replaced U09471.1.
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Luxilus cornutus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="Collection site: Perche Cr., Boone Co., MO, USA"
+                     /db_xref="taxon:33539"
+                     /haplotype="CORN2"
+                     /tissue_type="muscle, skeletal"
+                     /dev_stage="adult"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 a
+//
+
+LOCUS       NRU09475                   1 bp    DNA     linear   VRT 21-MAY-1994
+DEFINITION  Notropis rubellus mitochondrion 12S rRNA and 16S rRNA genes,
+            partial sequence, and tRNA-Val gene, complete sequence.
+ACCESSION   U09475 REGION: 1
+VERSION     U09475.1
+KEYWORDS    .
+SOURCE      mitochondrion Notropis rubellus (rosyface shiner)
+  ORGANISM  Notropis rubellus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Leuciscidae; Pogonichthyinae; Notropis.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Duvernell,D.D. and Aspinwall,N.
+  TITLE     Introgression of Luxilus cornutus mtDNA into allopatric populations
+            of Luxilus chrysocephalus (Teleostei:Cyprinidae) in Missouri and
+            Arkansas
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Aspinwall,N.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-MAY-1994) Nevin Aspinwall, Saint Louis University,
+            Biology, 3507 Laclede, St. Louis, MO 63103-2010, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Notropis rubellus"
+                     /organelle="mitochondrion"
+                     /mol_type="unassigned DNA"
+                     /isolate="Collection site: Meramec R., Franklin Co., MO,
+                     USA"
+                     /db_xref="taxon:33540"
+                     /haplotype="RUBE"
+                     /tissue_type="muscle, skeletal"
+                     /dev_stage="adult"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 a
+//
+
+LOCUS       FHU73259                   1 bp    DNA     linear   VRT 01-APR-2004
+DEFINITION  Fundulus heteroclitus 12S ribosomal RNA gene, mitochondrial gene
+            for mitochondrial RNA, partial sequence.
+ACCESSION   U73259 REGION: 1
+VERSION     U73259.1
+KEYWORDS    .
+SOURCE      mitochondrion Fundulus heteroclitus (mummichog)
+  ORGANISM  Fundulus heteroclitus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Ovalentaria; Atherinomorphae; Cyprinodontiformes;
+            Fundulidae; Fundulus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Murphy,W.J. and Collier,G.E.
+  TITLE     A molecular phylogeny for aplocheiloid fishes (Atherinomorpha,
+            Cyprinodontiformes): the role of vicariance and the origins of
+            annualism
+  JOURNAL   Mol. Biol. Evol. 14 (8), 790-799 (1997)
+   PUBMED   9254916
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Murphy,W.J. and Collier,G.E.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-OCT-1996) Biological Sciences, The University of
+            Tulsa, 600 S. College Ave., Tulsa, OK 74104, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Fundulus heteroclitus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8078"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 t
+//
+
+LOCUS       X95031                     1 bp    DNA     linear   VRT 27-JUN-2018
+DEFINITION  A.calva mitochondrial 12S rRNA gene (partial).
+ACCESSION   X95031 REGION: 1
+VERSION     X95031.1
+KEYWORDS    12S ribosomal RNA; 12S rRNA gene.
+SOURCE      mitochondrion Amia calva (bowfin)
+  ORGANISM  Amia calva
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Holostei; Amiiformes; Amiidae; Amia.
+REFERENCE   1
+  AUTHORS   Birstein,V.J.J., Hanner,R. and DeSalle,R.
+  TITLE     Phylogeny of the Acipenseriformes: cytogenetic and molecular
+            aspects
+  JOURNAL   Environ. Biol. Fishes 48, 127-155 (1997)
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Birstein,V.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-JAN-1996) V. Birstein, The American Museum of Natural
+            History, Central Park at 79th Street, New York, NY 10024-5192, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Amia calva"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:7924"
+     gene            <1..>1
+                     /gene="rRNA"
+     rRNA            <1..>1
+                     /gene="rRNA"
+                     /product="ribosomal RNA"
+ORIGIN      
+        1 t
+//
+
+LOCUS       X99170                     1 bp    DNA     linear   VRT 06-DEC-1996
+DEFINITION  H.alosoides mitochondrial 12S rRNA gene.
+ACCESSION   X99170 REGION: 1
+VERSION     X99170.1
+KEYWORDS    12S ribosomal RNA; 12S rRNA gene.
+SOURCE      mitochondrion Hiodon alosoides (goldeye)
+  ORGANISM  Hiodon alosoides
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Osteoglossocephala;
+            Osteoglossomorpha; Hiodontiformes; Hiodontidae; Hiodon.
+REFERENCE   1
+  AUTHORS   Forey,P., Littlewood,D.T.J., Ritchie,P. and Meyer,A.
+  TITLE     Interrelationships of elopomorph fishes
+  JOURNAL   (in) Stiassny,M.L.J., Parenti,L.R. and Johnson,D.G. (Eds.);
+            INTERRELATIONSHIPS OF FISHES: 175-191;
+            Academic Press, San Diego (1996)
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Littlewood,D.T.J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (04-JUL-1996) D.T.J. Littlewood, The Natural History
+            Museum, Dept. Zoology, Cromwell Road, London SW7 5BD, UK
+COMMENT     For author's systematic classification see original article.
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Hiodon alosoides"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:54904"
+                     /dev_stage="adult"
+     gene            >1
+                     /gene="12S rRNA"
+     rRNA            >1
+                     /gene="12S rRNA"
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 a
+//
+
+LOCUS       X99184                     1 bp    DNA     linear   VRT 06-DEC-1996
+DEFINITION  A.rostrata mitochondrial 12S rRNA gene.
+ACCESSION   X99184 REGION: 1
+VERSION     X99184.1
+KEYWORDS    12S ribosomal RNA; 12S rRNA gene.
+SOURCE      mitochondrion Anguilla rostrata (American eel)
+  ORGANISM  Anguilla rostrata
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Anguilliformes;
+            Anguillidae; Anguilla.
+REFERENCE   1
+  AUTHORS   Forey,P., Littlewood,D.T.J., Ritchie,P. and Meyer,A.
+  TITLE     Interrelationships of elopomorph fishes
+  JOURNAL   (in) Stiassny,M.L.J., Parenti,L.R. and Johnson,D.G. (Eds.);
+            INTERRELATIONSHIPS OF FISHES: 175-191;
+            Academic Press, San Diego (1996)
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Littlewood,D.T.J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (04-JUL-1996) D.T.J. Littlewood, The Natural History
+            Museum, Dept. Zoology, Cromwell Road, London SW7 5BD, UK
+COMMENT     For author's systematic classification see original article.
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Anguilla rostrata"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:7938"
+                     /dev_stage="adult"
+     gene            >1
+                     /gene="12S rRNA"
+     rRNA            >1
+                     /gene="12S rRNA"
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 a
+//
+
+LOCUS       Y12668                     1 bp    DNA     linear   VRT 27-JUN-2018
+DEFINITION  Scardinius erythrophtalmus mitochondrial 12S rRNA gene, partial.
+ACCESSION   Y12668 REGION: 1
+VERSION     Y12668.1
+KEYWORDS    12S ribosomal RNA; 12S rRNA gene.
+SOURCE      mitochondrion Scardinius erythrophthalmus (rudd)
+  ORGANISM  Scardinius erythrophthalmus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Leuciscidae; Leuciscinae; Scardinius.
+REFERENCE   1
+  AUTHORS   Ludwig,A.N.N. and Wolter,C.
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Ludwig,A.N.N.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (17-APR-1997) A.N. Ludwig, Inst. Freshwater Ecol. and
+            Inland Fish., Biology and Ecology of Fish, PB: 23, 12561 Berlin,
+            FRG
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Scardinius erythrophthalmus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:58319"
+     gene            <1..>1
+                     /gene="12S rRNA"
+     rRNA            <1..>1
+                     /gene="12S rRNA"
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 g
+//
+

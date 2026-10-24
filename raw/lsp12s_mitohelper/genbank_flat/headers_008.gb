@@ -1,0 +1,1909 @@
+LOCUS       KT289926                   1 bp    DNA     linear   VRT 14-JUL-2016
+DEFINITION  Etheostoma nigrum mitochondrion, complete genome.
+ACCESSION   KT289926 REGION: 1
+VERSION     KT289926.1
+KEYWORDS    .
+SOURCE      mitochondrion Etheostoma nigrum (Johnny darter)
+  ORGANISM  Etheostoma nigrum
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Perciformes; Percoidei; Percidae;
+            Etheostomatinae; Etheostoma.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Renshaw,M.A., Olds,B.P., Li,Y. and Pfrender,M.E.
+  TITLE     Complete mitochondrial genome of the Johnny darter, Etheostoma
+            nigrum (Perciformes: Percidae)
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Renshaw,M.A., Olds,B.P., Li,Y. and Pfrender,M.E.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-JUL-2015) Biological Sciences, University of Notre
+            Dame, 182 Galvin Life Sciences Center, Notre Dame, IN 46556, USA
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: CLC Genomic Workbench v. 7.x; IDBA-UD v.
+                                     5-1-2014
+            Sequencing Technology :: Illumina
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Etheostoma nigrum"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:54337"
+     tRNA            >1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       KT989571                   1 bp    DNA     linear   VRT 15-FEB-2016
+DEFINITION  Pungitius pungitius isolate FRAMON2 mitochondrion, complete genome.
+ACCESSION   KT989571 REGION: 1
+VERSION     KT989571.1
+KEYWORDS    .
+SOURCE      mitochondrion Pungitius pungitius (ninespine stickleback)
+  ORGANISM  Pungitius pungitius
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Perciformes; Cottioidei;
+            Gasterosteales; Gasterosteidae; Pungitius.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Guo,B.
+  TITLE     Complete mitochondrial genomes of the Pungitius sticklebacks
+            (Gasterosteiformes, Gasterosteidae)
+  JOURNAL   Mitochondrial DNA Part B Resour (2016) In press
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Guo,B., Takahito,T. and Merila,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-NOV-2015) Department of Biosciences, University of
+            Helsinki, PL 65 (Viikinkaari 1), Helsinki 00014, Finland
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: BWA v. 0.7.12; samtools v. 1.2
+            Coverage              :: 20
+            Sequencing Technology :: Illumina
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Pungitius pungitius"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="FRAMON2"
+                     /db_xref="taxon:134920"
+                     /note="France"
+     tRNA            >1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       KU050703                   1 bp    DNA     linear   VRT 15-FEB-2016
+DEFINITION  Cyprinus carpio mitochondrion, complete genome.
+ACCESSION   KU050703 REGION: 1
+VERSION     KU050703.1
+KEYWORDS    .
+SOURCE      mitochondrion Cyprinus carpio (common carp)
+  ORGANISM  Cyprinus carpio
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Cyprinidae; Cyprininae; Cyprinus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Huang,Q. and Wang,Z.
+  TITLE     The complete mitochondrial genome of Songpu mirror carp, Cyprinus
+            carpio
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Huang,Q. and Wang,Z.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-NOV-2015) Jilin Agricultural University, College of
+            Animal Science and Technology, Changchun City, Xincheng Street, No.
+            2888, Jilin province, Changchun, Jilin 130118, China
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: CLC Genomic Workbench v. 3.6
+            Sequencing Technology :: Illumina
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Cyprinus carpio"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:7962"
+ORIGIN      
+        1 g
+//
+
+LOCUS       KU146528                   1 bp    DNA     linear   VRT 31-OCT-2016
+DEFINITION  Carassius auratus mitochondrion, complete genome.
+ACCESSION   KU146528 REGION: 1
+VERSION     KU146528.1
+KEYWORDS    .
+SOURCE      mitochondrion Carassius auratus (goldfish)
+  ORGANISM  Carassius auratus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Cyprinidae; Cyprininae; Carassius.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Zou,L., Wang,J.L., Li,C.W. and Wu,Y.A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-NOV-2015) Fisheries Research Institute of Hunan
+            Province, Changsha, Hunan, China
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Lasergene's SeqMan Pro v. 7.1.0(44.1)
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Carassius auratus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:7957"
+     tRNA            >1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       KU159761                   1 bp    DNA     linear   VRT 24-FEB-2016
+DEFINITION  Cyprinus carpio mitochondrion, complete genome.
+ACCESSION   KU159761 REGION: 1
+VERSION     KU159761.1
+KEYWORDS    .
+SOURCE      mitochondrion Cyprinus carpio (common carp)
+  ORGANISM  Cyprinus carpio
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Cyprinidae; Cyprininae; Cyprinus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Li,X., Zeng,J., Zhang,H., Weng,S., He,J. and Dong,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-NOV-2015) School of Life Sciences, Sun Yat-sen
+            University, MOE Key Laboratory of Aquatic Food Safety / State Key
+            Laboratory for Bio-control, Xingang West Road No. 135, Guangzhou,
+            Guangdong 510275, China
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Cyprinus carpio"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:7962"
+     gene            >1
+                     /gene="trnF(GAA)"
+     tRNA            >1
+                     /gene="trnF(GAA)"
+                     /product="tRNA-Phe"
+                     /note="tRNA-Phe(TTC)"
+ORIGIN      
+        1 g
+//
+
+LOCUS       KU519295                   1 bp    DNA     linear   VRT 23-JUL-2016
+DEFINITION  Oncorhynchus nerka isolate ONER01 D-loop, partial sequence;
+            tRNA-Phe gene, complete sequence; and 12S ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   KU519295 REGION: 1
+VERSION     KU519295.1
+KEYWORDS    .
+SOURCE      mitochondrion Oncorhynchus nerka (sockeye salmon)
+  ORGANISM  Oncorhynchus nerka
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Oncorhynchus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Johnson,B.M., Monda,J., Day,M. and Thorgaard,G.H.
+  TITLE     Mitochondrial DNA diversity, population structure, and biogeography
+            in Oncorhynchus nerka
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Johnson,B.M., Monda,J., Day,M. and Thorgaard,G.H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-JAN-2016) School of Biological Sciences, Washington
+            State University, PO Box 644236, Pullman, WA 99164-4236, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oncorhynchus nerka"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="ONER01"
+                     /db_xref="taxon:8023"
+     D-loop          <1..>1
+ORIGIN      
+        1 t
+//
+
+LOCUS       KU519296                   1 bp    DNA     linear   VRT 23-JUL-2016
+DEFINITION  Oncorhynchus nerka isolate ONER02 D-loop, partial sequence;
+            tRNA-Phe gene, complete sequence; and 12S ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   KU519296 REGION: 1
+VERSION     KU519296.1
+KEYWORDS    .
+SOURCE      mitochondrion Oncorhynchus nerka (sockeye salmon)
+  ORGANISM  Oncorhynchus nerka
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Oncorhynchus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Johnson,B.M., Monda,J., Day,M. and Thorgaard,G.H.
+  TITLE     Mitochondrial DNA diversity, population structure, and biogeography
+            in Oncorhynchus nerka
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Johnson,B.M., Monda,J., Day,M. and Thorgaard,G.H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-JAN-2016) School of Biological Sciences, Washington
+            State University, PO Box 644236, Pullman, WA 99164-4236, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oncorhynchus nerka"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="ONER02"
+                     /db_xref="taxon:8023"
+     D-loop          <1..>1
+ORIGIN      
+        1 t
+//
+
+LOCUS       KU519297                   1 bp    DNA     linear   VRT 23-JUL-2016
+DEFINITION  Oncorhynchus nerka isolate ONER03 D-loop, partial sequence;
+            tRNA-Phe gene, complete sequence; and 12S ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   KU519297 REGION: 1
+VERSION     KU519297.1
+KEYWORDS    .
+SOURCE      mitochondrion Oncorhynchus nerka (sockeye salmon)
+  ORGANISM  Oncorhynchus nerka
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Oncorhynchus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Johnson,B.M., Monda,J., Day,M. and Thorgaard,G.H.
+  TITLE     Mitochondrial DNA diversity, population structure, and biogeography
+            in Oncorhynchus nerka
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Johnson,B.M., Monda,J., Day,M. and Thorgaard,G.H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-JAN-2016) School of Biological Sciences, Washington
+            State University, PO Box 644236, Pullman, WA 99164-4236, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oncorhynchus nerka"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="ONER03"
+                     /db_xref="taxon:8023"
+     D-loop          <1..>1
+ORIGIN      
+        1 t
+//
+
+LOCUS       KU519298                   1 bp    DNA     linear   VRT 23-JUL-2016
+DEFINITION  Oncorhynchus nerka isolate ONER04 D-loop, partial sequence;
+            tRNA-Phe gene, complete sequence; and 12S ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   KU519298 REGION: 1
+VERSION     KU519298.1
+KEYWORDS    .
+SOURCE      mitochondrion Oncorhynchus nerka (sockeye salmon)
+  ORGANISM  Oncorhynchus nerka
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Oncorhynchus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Johnson,B.M., Monda,J., Day,M. and Thorgaard,G.H.
+  TITLE     Mitochondrial DNA diversity, population structure, and biogeography
+            in Oncorhynchus nerka
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Johnson,B.M., Monda,J., Day,M. and Thorgaard,G.H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-JAN-2016) School of Biological Sciences, Washington
+            State University, PO Box 644236, Pullman, WA 99164-4236, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oncorhynchus nerka"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="ONER04"
+                     /db_xref="taxon:8023"
+     D-loop          <1..>1
+ORIGIN      
+        1 t
+//
+
+LOCUS       KU519299                   1 bp    DNA     linear   VRT 23-JUL-2016
+DEFINITION  Oncorhynchus nerka isolate ONER05 D-loop, partial sequence;
+            tRNA-Phe gene, complete sequence; and 12S ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   KU519299 REGION: 1
+VERSION     KU519299.1
+KEYWORDS    .
+SOURCE      mitochondrion Oncorhynchus nerka (sockeye salmon)
+  ORGANISM  Oncorhynchus nerka
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Oncorhynchus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Johnson,B.M., Monda,J., Day,M. and Thorgaard,G.H.
+  TITLE     Mitochondrial DNA diversity, population structure, and biogeography
+            in Oncorhynchus nerka
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Johnson,B.M., Monda,J., Day,M. and Thorgaard,G.H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-JAN-2016) School of Biological Sciences, Washington
+            State University, PO Box 644236, Pullman, WA 99164-4236, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oncorhynchus nerka"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="ONER05"
+                     /db_xref="taxon:8023"
+     D-loop          <1..>1
+ORIGIN      
+        1 t
+//
+
+LOCUS       KU519300                   1 bp    DNA     linear   VRT 23-JUL-2016
+DEFINITION  Oncorhynchus nerka isolate ONER06 D-loop, partial sequence;
+            tRNA-Phe gene, complete sequence; and 12S ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   KU519300 REGION: 1
+VERSION     KU519300.1
+KEYWORDS    .
+SOURCE      mitochondrion Oncorhynchus nerka (sockeye salmon)
+  ORGANISM  Oncorhynchus nerka
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Oncorhynchus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Johnson,B.M., Monda,J., Day,M. and Thorgaard,G.H.
+  TITLE     Mitochondrial DNA diversity, population structure, and biogeography
+            in Oncorhynchus nerka
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Johnson,B.M., Monda,J., Day,M. and Thorgaard,G.H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-JAN-2016) School of Biological Sciences, Washington
+            State University, PO Box 644236, Pullman, WA 99164-4236, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oncorhynchus nerka"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="ONER06"
+                     /db_xref="taxon:8023"
+     D-loop          <1..>1
+ORIGIN      
+        1 t
+//
+
+LOCUS       KU519301                   1 bp    DNA     linear   VRT 23-JUL-2016
+DEFINITION  Oncorhynchus nerka isolate ONER07 D-loop, partial sequence;
+            tRNA-Phe gene, complete sequence; and 12S ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   KU519301 REGION: 1
+VERSION     KU519301.1
+KEYWORDS    .
+SOURCE      mitochondrion Oncorhynchus nerka (sockeye salmon)
+  ORGANISM  Oncorhynchus nerka
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Oncorhynchus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Johnson,B.M., Monda,J., Day,M. and Thorgaard,G.H.
+  TITLE     Mitochondrial DNA diversity, population structure, and biogeography
+            in Oncorhynchus nerka
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Johnson,B.M., Monda,J., Day,M. and Thorgaard,G.H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-JAN-2016) School of Biological Sciences, Washington
+            State University, PO Box 644236, Pullman, WA 99164-4236, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oncorhynchus nerka"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="ONER07"
+                     /db_xref="taxon:8023"
+     D-loop          <1..>1
+ORIGIN      
+        1 t
+//
+
+LOCUS       KU519302                   1 bp    DNA     linear   VRT 23-JUL-2016
+DEFINITION  Oncorhynchus nerka isolate ONER08 D-loop, partial sequence;
+            tRNA-Phe gene, complete sequence; and 12S ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   KU519302 REGION: 1
+VERSION     KU519302.1
+KEYWORDS    .
+SOURCE      mitochondrion Oncorhynchus nerka (sockeye salmon)
+  ORGANISM  Oncorhynchus nerka
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Oncorhynchus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Johnson,B.M., Monda,J., Day,M. and Thorgaard,G.H.
+  TITLE     Mitochondrial DNA diversity, population structure, and biogeography
+            in Oncorhynchus nerka
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Johnson,B.M., Monda,J., Day,M. and Thorgaard,G.H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-JAN-2016) School of Biological Sciences, Washington
+            State University, PO Box 644236, Pullman, WA 99164-4236, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oncorhynchus nerka"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="ONER08"
+                     /db_xref="taxon:8023"
+     D-loop          <1..>1
+ORIGIN      
+        1 t
+//
+
+LOCUS       KU519303                   1 bp    DNA     linear   VRT 23-JUL-2016
+DEFINITION  Oncorhynchus nerka isolate ONER09 D-loop, partial sequence;
+            tRNA-Phe gene, complete sequence; and 12S ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   KU519303 REGION: 1
+VERSION     KU519303.1
+KEYWORDS    .
+SOURCE      mitochondrion Oncorhynchus nerka (sockeye salmon)
+  ORGANISM  Oncorhynchus nerka
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Oncorhynchus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Johnson,B.M., Monda,J., Day,M. and Thorgaard,G.H.
+  TITLE     Mitochondrial DNA diversity, population structure, and biogeography
+            in Oncorhynchus nerka
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Johnson,B.M., Monda,J., Day,M. and Thorgaard,G.H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-JAN-2016) School of Biological Sciences, Washington
+            State University, PO Box 644236, Pullman, WA 99164-4236, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oncorhynchus nerka"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="ONER09"
+                     /db_xref="taxon:8023"
+     D-loop          <1..>1
+ORIGIN      
+        1 t
+//
+
+LOCUS       KU519304                   1 bp    DNA     linear   VRT 23-JUL-2016
+DEFINITION  Oncorhynchus nerka isolate ONER10 D-loop, partial sequence;
+            tRNA-Phe gene, complete sequence; and 12S ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   KU519304 REGION: 1
+VERSION     KU519304.1
+KEYWORDS    .
+SOURCE      mitochondrion Oncorhynchus nerka (sockeye salmon)
+  ORGANISM  Oncorhynchus nerka
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Oncorhynchus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Johnson,B.M., Monda,J., Day,M. and Thorgaard,G.H.
+  TITLE     Mitochondrial DNA diversity, population structure, and biogeography
+            in Oncorhynchus nerka
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Johnson,B.M., Monda,J., Day,M. and Thorgaard,G.H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-JAN-2016) School of Biological Sciences, Washington
+            State University, PO Box 644236, Pullman, WA 99164-4236, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oncorhynchus nerka"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="ONER10"
+                     /db_xref="taxon:8023"
+     D-loop          <1..>1
+ORIGIN      
+        1 t
+//
+
+LOCUS       KU519305                   1 bp    DNA     linear   VRT 23-JUL-2016
+DEFINITION  Oncorhynchus nerka isolate ONER11 D-loop, partial sequence;
+            tRNA-Phe gene, complete sequence; and 12S ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   KU519305 REGION: 1
+VERSION     KU519305.1
+KEYWORDS    .
+SOURCE      mitochondrion Oncorhynchus nerka (sockeye salmon)
+  ORGANISM  Oncorhynchus nerka
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Oncorhynchus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Johnson,B.M., Monda,J., Day,M. and Thorgaard,G.H.
+  TITLE     Mitochondrial DNA diversity, population structure, and biogeography
+            in Oncorhynchus nerka
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Johnson,B.M., Monda,J., Day,M. and Thorgaard,G.H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-JAN-2016) School of Biological Sciences, Washington
+            State University, PO Box 644236, Pullman, WA 99164-4236, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oncorhynchus nerka"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="ONER11"
+                     /db_xref="taxon:8023"
+     D-loop          <1..>1
+ORIGIN      
+        1 t
+//
+
+LOCUS       KU519306                   1 bp    DNA     linear   VRT 23-JUL-2016
+DEFINITION  Oncorhynchus nerka isolate ONER12 D-loop, partial sequence;
+            tRNA-Phe gene, complete sequence; and 12S ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   KU519306 REGION: 1
+VERSION     KU519306.1
+KEYWORDS    .
+SOURCE      mitochondrion Oncorhynchus nerka (sockeye salmon)
+  ORGANISM  Oncorhynchus nerka
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Oncorhynchus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Johnson,B.M., Monda,J., Day,M. and Thorgaard,G.H.
+  TITLE     Mitochondrial DNA diversity, population structure, and biogeography
+            in Oncorhynchus nerka
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Johnson,B.M., Monda,J., Day,M. and Thorgaard,G.H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-JAN-2016) School of Biological Sciences, Washington
+            State University, PO Box 644236, Pullman, WA 99164-4236, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oncorhynchus nerka"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="ONER12"
+                     /db_xref="taxon:8023"
+     D-loop          <1..>1
+ORIGIN      
+        1 t
+//
+
+LOCUS       KU519307                   1 bp    DNA     linear   VRT 23-JUL-2016
+DEFINITION  Oncorhynchus nerka isolate ONER13 D-loop, partial sequence;
+            tRNA-Phe gene, complete sequence; and 12S ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   KU519307 REGION: 1
+VERSION     KU519307.1
+KEYWORDS    .
+SOURCE      mitochondrion Oncorhynchus nerka (sockeye salmon)
+  ORGANISM  Oncorhynchus nerka
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Oncorhynchus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Johnson,B.M., Monda,J., Day,M. and Thorgaard,G.H.
+  TITLE     Mitochondrial DNA diversity, population structure, and biogeography
+            in Oncorhynchus nerka
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Johnson,B.M., Monda,J., Day,M. and Thorgaard,G.H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-JAN-2016) School of Biological Sciences, Washington
+            State University, PO Box 644236, Pullman, WA 99164-4236, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oncorhynchus nerka"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="ONER13"
+                     /db_xref="taxon:8023"
+     D-loop          <1..>1
+ORIGIN      
+        1 t
+//
+
+LOCUS       KU519308                   1 bp    DNA     linear   VRT 23-JUL-2016
+DEFINITION  Oncorhynchus nerka isolate ONER14 D-loop, partial sequence;
+            tRNA-Phe gene, complete sequence; and 12S ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   KU519308 REGION: 1
+VERSION     KU519308.1
+KEYWORDS    .
+SOURCE      mitochondrion Oncorhynchus nerka (sockeye salmon)
+  ORGANISM  Oncorhynchus nerka
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Oncorhynchus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Johnson,B.M., Monda,J., Day,M. and Thorgaard,G.H.
+  TITLE     Mitochondrial DNA diversity, population structure, and biogeography
+            in Oncorhynchus nerka
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Johnson,B.M., Monda,J., Day,M. and Thorgaard,G.H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-JAN-2016) School of Biological Sciences, Washington
+            State University, PO Box 644236, Pullman, WA 99164-4236, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oncorhynchus nerka"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="ONER14"
+                     /db_xref="taxon:8023"
+     D-loop          <1..>1
+ORIGIN      
+        1 t
+//
+
+LOCUS       KU519309                   1 bp    DNA     linear   VRT 23-JUL-2016
+DEFINITION  Oncorhynchus nerka isolate ONER15 D-loop, partial sequence;
+            tRNA-Phe gene, complete sequence; and 12S ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   KU519309 REGION: 1
+VERSION     KU519309.1
+KEYWORDS    .
+SOURCE      mitochondrion Oncorhynchus nerka (sockeye salmon)
+  ORGANISM  Oncorhynchus nerka
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Oncorhynchus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Johnson,B.M., Monda,J., Day,M. and Thorgaard,G.H.
+  TITLE     Mitochondrial DNA diversity, population structure, and biogeography
+            in Oncorhynchus nerka
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Johnson,B.M., Monda,J., Day,M. and Thorgaard,G.H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-JAN-2016) School of Biological Sciences, Washington
+            State University, PO Box 644236, Pullman, WA 99164-4236, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oncorhynchus nerka"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="ONER15"
+                     /db_xref="taxon:8023"
+     D-loop          <1..>1
+ORIGIN      
+        1 t
+//
+
+LOCUS       KU519310                   1 bp    DNA     linear   VRT 23-JUL-2016
+DEFINITION  Oncorhynchus nerka isolate ONER16 D-loop, partial sequence;
+            tRNA-Phe gene, complete sequence; and 12S ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   KU519310 REGION: 1
+VERSION     KU519310.1
+KEYWORDS    .
+SOURCE      mitochondrion Oncorhynchus nerka (sockeye salmon)
+  ORGANISM  Oncorhynchus nerka
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Oncorhynchus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Johnson,B.M., Monda,J., Day,M. and Thorgaard,G.H.
+  TITLE     Mitochondrial DNA diversity, population structure, and biogeography
+            in Oncorhynchus nerka
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Johnson,B.M., Monda,J., Day,M. and Thorgaard,G.H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-JAN-2016) School of Biological Sciences, Washington
+            State University, PO Box 644236, Pullman, WA 99164-4236, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oncorhynchus nerka"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="ONER16"
+                     /db_xref="taxon:8023"
+     D-loop          <1..>1
+ORIGIN      
+        1 t
+//
+
+LOCUS       KU519311                   1 bp    DNA     linear   VRT 23-JUL-2016
+DEFINITION  Oncorhynchus nerka isolate ONER17 D-loop, partial sequence;
+            tRNA-Phe gene, complete sequence; and 12S ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   KU519311 REGION: 1
+VERSION     KU519311.1
+KEYWORDS    .
+SOURCE      mitochondrion Oncorhynchus nerka (sockeye salmon)
+  ORGANISM  Oncorhynchus nerka
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Oncorhynchus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Johnson,B.M., Monda,J., Day,M. and Thorgaard,G.H.
+  TITLE     Mitochondrial DNA diversity, population structure, and biogeography
+            in Oncorhynchus nerka
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Johnson,B.M., Monda,J., Day,M. and Thorgaard,G.H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-JAN-2016) School of Biological Sciences, Washington
+            State University, PO Box 644236, Pullman, WA 99164-4236, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oncorhynchus nerka"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="ONER17"
+                     /db_xref="taxon:8023"
+     D-loop          <1..>1
+ORIGIN      
+        1 t
+//
+
+LOCUS       KU519312                   1 bp    DNA     linear   VRT 23-JUL-2016
+DEFINITION  Oncorhynchus nerka isolate ONER18 D-loop, partial sequence;
+            tRNA-Phe gene, complete sequence; and 12S ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   KU519312 REGION: 1
+VERSION     KU519312.1
+KEYWORDS    .
+SOURCE      mitochondrion Oncorhynchus nerka (sockeye salmon)
+  ORGANISM  Oncorhynchus nerka
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Oncorhynchus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Johnson,B.M., Monda,J., Day,M. and Thorgaard,G.H.
+  TITLE     Mitochondrial DNA diversity, population structure, and biogeography
+            in Oncorhynchus nerka
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Johnson,B.M., Monda,J., Day,M. and Thorgaard,G.H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-JAN-2016) School of Biological Sciences, Washington
+            State University, PO Box 644236, Pullman, WA 99164-4236, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oncorhynchus nerka"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="ONER18"
+                     /db_xref="taxon:8023"
+     D-loop          <1..>1
+ORIGIN      
+        1 t
+//
+
+LOCUS       KU519313                   1 bp    DNA     linear   VRT 23-JUL-2016
+DEFINITION  Oncorhynchus nerka isolate ONER19 D-loop, partial sequence;
+            tRNA-Phe gene, complete sequence; and 12S ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   KU519313 REGION: 1
+VERSION     KU519313.1
+KEYWORDS    .
+SOURCE      mitochondrion Oncorhynchus nerka (sockeye salmon)
+  ORGANISM  Oncorhynchus nerka
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Oncorhynchus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Johnson,B.M., Monda,J., Day,M. and Thorgaard,G.H.
+  TITLE     Mitochondrial DNA diversity, population structure, and biogeography
+            in Oncorhynchus nerka
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Johnson,B.M., Monda,J., Day,M. and Thorgaard,G.H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-JAN-2016) School of Biological Sciences, Washington
+            State University, PO Box 644236, Pullman, WA 99164-4236, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oncorhynchus nerka"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="ONER19"
+                     /db_xref="taxon:8023"
+     D-loop          <1..>1
+ORIGIN      
+        1 t
+//
+
+LOCUS       KU519314                   1 bp    DNA     linear   VRT 23-JUL-2016
+DEFINITION  Oncorhynchus nerka isolate ONER20 D-loop, partial sequence;
+            tRNA-Phe gene, complete sequence; and 12S ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   KU519314 REGION: 1
+VERSION     KU519314.1
+KEYWORDS    .
+SOURCE      mitochondrion Oncorhynchus nerka (sockeye salmon)
+  ORGANISM  Oncorhynchus nerka
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Oncorhynchus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Johnson,B.M., Monda,J., Day,M. and Thorgaard,G.H.
+  TITLE     Mitochondrial DNA diversity, population structure, and biogeography
+            in Oncorhynchus nerka
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Johnson,B.M., Monda,J., Day,M. and Thorgaard,G.H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-JAN-2016) School of Biological Sciences, Washington
+            State University, PO Box 644236, Pullman, WA 99164-4236, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oncorhynchus nerka"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="ONER20"
+                     /db_xref="taxon:8023"
+     D-loop          <1..>1
+ORIGIN      
+        1 t
+//
+
+LOCUS       KU519315                   1 bp    DNA     linear   VRT 23-JUL-2016
+DEFINITION  Oncorhynchus nerka isolate ONER21 D-loop, partial sequence;
+            tRNA-Phe gene, complete sequence; and 12S ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   KU519315 REGION: 1
+VERSION     KU519315.1
+KEYWORDS    .
+SOURCE      mitochondrion Oncorhynchus nerka (sockeye salmon)
+  ORGANISM  Oncorhynchus nerka
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Oncorhynchus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Johnson,B.M., Monda,J., Day,M. and Thorgaard,G.H.
+  TITLE     Mitochondrial DNA diversity, population structure, and biogeography
+            in Oncorhynchus nerka
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Johnson,B.M., Monda,J., Day,M. and Thorgaard,G.H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-JAN-2016) School of Biological Sciences, Washington
+            State University, PO Box 644236, Pullman, WA 99164-4236, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oncorhynchus nerka"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="ONER21"
+                     /db_xref="taxon:8023"
+     D-loop          <1..>1
+ORIGIN      
+        1 t
+//
+
+LOCUS       KU519316                   1 bp    DNA     linear   VRT 23-JUL-2016
+DEFINITION  Oncorhynchus nerka isolate ONER22 D-loop, partial sequence;
+            tRNA-Phe gene, complete sequence; and 12S ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   KU519316 REGION: 1
+VERSION     KU519316.1
+KEYWORDS    .
+SOURCE      mitochondrion Oncorhynchus nerka (sockeye salmon)
+  ORGANISM  Oncorhynchus nerka
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Oncorhynchus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Johnson,B.M., Monda,J., Day,M. and Thorgaard,G.H.
+  TITLE     Mitochondrial DNA diversity, population structure, and biogeography
+            in Oncorhynchus nerka
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Johnson,B.M., Monda,J., Day,M. and Thorgaard,G.H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-JAN-2016) School of Biological Sciences, Washington
+            State University, PO Box 644236, Pullman, WA 99164-4236, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oncorhynchus nerka"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="ONER22"
+                     /db_xref="taxon:8023"
+     D-loop          <1..>1
+ORIGIN      
+        1 t
+//
+
+LOCUS       KU681006                   1 bp    DNA     linear   VRT 01-JUN-2016
+DEFINITION  Cyprinus carpio 12S ribosomal RNA gene, partial sequence;
+            mitochondrial.
+ACCESSION   KU681006 REGION: 1
+VERSION     KU681006.1
+KEYWORDS    .
+SOURCE      mitochondrion Cyprinus carpio (common carp)
+  ORGANISM  Cyprinus carpio
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Cyprinidae; Cyprininae; Cyprinus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Galal-Khallaf,A., Mohammed-Geba,K., Osman,A.G.M., Aboelfdal,K.,
+            Borrella,Y.J. and Garcia-Vazquez,E.
+  TITLE     Molecular markers for genetic fingerprinting of economically
+            important Egyptian fish species
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Galal-Khallaf,A., Mohammed-Geba,K., Osman,A.G.M., Aboelfdal,K.,
+            Borrella,Y.J. and Garcia-Vazquez,E.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-FEB-2016) Functional Biology, University of Oviedo,
+            C/ Julian Claveria s/n, Oviedo, Asturias 33006, Spain
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Cyprinus carpio"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:7962"
+                     /clone="14 S 1"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 a
+//
+
+LOCUS       KU755530                   1 bp    DNA     linear   VRT 27-FEB-2017
+DEFINITION  UNVERIFIED: Neogobius melanostomus mitochondrion sequence.
+ACCESSION   KU755530 REGION: 1
+VERSION     KU755530.1
+KEYWORDS    UNVERIFIED.
+SOURCE      mitochondrion Neogobius melanostomus (round goby)
+  ORGANISM  Neogobius melanostomus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Gobiaria; Gobiiformes; Gobioidei; Gobiidae;
+            Benthophilinae; Neogobiini; Neogobius.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Adrian-Kalchhauser,I., Svensson,O., Kutschera,V.E., Alm
+            Rosenblad,M., Pippel,M., Winkler,S., Schloissnig,S., Blomberg,A.
+            and Burkhardt-Holm,P.
+  TITLE     The mitochondrial genome sequences of the round goby and the sand
+            goby reveal patterns of recent evolution in gobiid fish
+  JOURNAL   BMC Genomics 18 (1), 177 (2017)
+   PUBMED   28209125
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Adrian-Kalchhauser,I. and Kutschera,V.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-FEB-2016) Department of Environmental Sciences,
+            University of Basel, Vesalgasse 1, Basel 4055, Switzerland
+COMMENT     GenBank staff is unable to verify sequence and/or annotation
+            provided by the submitter.
+            
+            ##Assembly-Data-START##
+            Assembly Method       :: Quiver v. 2015
+            Sequencing Technology :: PacBio
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Neogobius melanostomus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:47308"
+     D-loop          >1
+ORIGIN      
+        1 g
+//
+
+LOCUS       KU821707                   1 bp    DNA     linear   VRT 10-JUL-2016
+DEFINITION  Carassius auratus 12S ribosomal RNA gene, partial sequence;
+            mitochondrial.
+ACCESSION   KU821707 REGION: 1
+VERSION     KU821707.1
+KEYWORDS    .
+SOURCE      mitochondrion Carassius auratus (goldfish)
+  ORGANISM  Carassius auratus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Cyprinidae; Cyprininae; Carassius.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Fan,L.-X., Li,Y.-Z. and Li,X.-S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (26-FEB-2016) School of Life Science, Yunnan Normal
+            University, Jv Xian Street 768, Kunming, Yunnan 650500, China
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: DNAMAN7.0 v. 2016.02.10
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Carassius auratus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolation_source="Yingjiang of Yunnan"
+                     /db_xref="taxon:7957"
+                     /geo_loc_name="China"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 t
+//
+
+LOCUS       KU821709                   1 bp    DNA     linear   VRT 10-JUL-2016
+DEFINITION  Cyprinus carpio 12S ribosomal RNA gene, partial sequence;
+            mitochondrial.
+ACCESSION   KU821709 REGION: 1
+VERSION     KU821709.1
+KEYWORDS    .
+SOURCE      mitochondrion Cyprinus carpio (common carp)
+  ORGANISM  Cyprinus carpio
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Cyprinidae; Cyprininae; Cyprinus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Fan,L.-X., Li,Y.-Z. and Li,X.-S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (26-FEB-2016) School of Life Science, Yunnan Normal
+            University, Jv Xian Street 768, Kunming, Yunnan 650500, China
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: DNAMAN7.0 v. 2016.02.10
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Cyprinus carpio"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolation_source="Yingjiang of Yunnan"
+                     /db_xref="taxon:7962"
+                     /geo_loc_name="China"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 t
+//
+
+LOCUS       KU985070                   1 bp    DNA     linear   VRT 03-JAN-2021
+DEFINITION  Acipenser fulvescens isolate LSNFC-15-002 mitochondrion, complete
+            genome.
+ACCESSION   KU985070 REGION: 1
+VERSION     KU985070.1
+DBLINK      BioProject: PRJNA633136
+            BioSample: SAMN16874325
+KEYWORDS    .
+SOURCE      mitochondrion Acipenser fulvescens (lake sturgeon)
+  ORGANISM  Acipenser fulvescens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Chondrostei; Acipenseriformes; Acipenseridae;
+            Acipenser.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Schroeter,J.C., Maloy,A.P., Rees,C.B. and Bartron,M.L.
+  TITLE     Fish mitochondrial genome sequencing: expanding genetic resources
+            to support species detection and biodiversity monitoring using
+            environmental DNA
+  JOURNAL   Conserv Genet Resour 12 (3), 433-446 (2020)
+  REMARK    DOI: 10.1007/s12686-019-01111-0
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Maloy,A.P., Kalie,J., Withers,J., Rees,C. and Bartron,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (25-MAR-2016) Northeast Fishery Center, US Fish and
+            Wildlife Service, PO Box 75, Lamar, PA 16848, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Acipenser fulvescens"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="LSNFC-15-002"
+                     /db_xref="taxon:41871"
+     tRNA            >1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       KU985082                   1 bp    DNA     linear   VRT 03-JAN-2021
+DEFINITION  Acipenser fulvescens isolate LSNFC-15-021 mitochondrion, complete
+            genome.
+ACCESSION   KU985082 REGION: 1
+VERSION     KU985082.2
+DBLINK      BioProject: PRJNA633136
+            BioSample: SAMN16874321
+KEYWORDS    .
+SOURCE      mitochondrion Acipenser fulvescens (lake sturgeon)
+  ORGANISM  Acipenser fulvescens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Chondrostei; Acipenseriformes; Acipenseridae;
+            Acipenser.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Schroeter,J.C., Maloy,A.P., Rees,C.B. and Bartron,M.L.
+  TITLE     Fish mitochondrial genome sequencing: expanding genetic resources
+            to support species detection and biodiversity monitoring using
+            environmental DNA
+  JOURNAL   Conserv Genet Resour 12 (3), 433-446 (2020)
+  REMARK    DOI: 10.1007/s12686-019-01111-0
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Maloy,A.P., Kalie,J., Withers,J., Rees,C. and Bartron,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (25-MAR-2016) Northeast Fishery Center, US Fish and
+            Wildlife Service, PO Box 75, Lamar, PA 16848, USA
+REFERENCE   3  (bases 1 to 1)
+  AUTHORS   Maloy,A.P., Kalie,J., Withers,J., Rees,C. and Bartron,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-APR-2017) Northeast Fishery Center, US Fish and
+            Wildlife Service, PO Box 75, Lamar, PA 16848, USA
+  REMARK    Sequence update by submitter
+COMMENT     On Apr 14, 2017 this sequence version replaced KU985082.1.
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Acipenser fulvescens"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="LSNFC-15-021"
+                     /db_xref="taxon:41871"
+     tRNA            >1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       KX686077                   1 bp    DNA     linear   VRT 14-JAN-2017
+DEFINITION  Fundulus heteroclitus isolate LS09 12S ribosomal RNA gene, partial
+            sequence; mitochondrial.
+ACCESSION   KX686077 REGION: 1
+VERSION     KX686077.1
+KEYWORDS    .
+SOURCE      mitochondrion Fundulus heteroclitus (mummichog)
+  ORGANISM  Fundulus heteroclitus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Ovalentaria; Atherinomorphae; Cyprinodontiformes;
+            Fundulidae; Fundulus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Soboleva,L., Stoeckle,M.Y. and Garbarino,J.
+  TITLE     Fishing for DNA: Expanding the 12S database for eDNA identification
+            of NY/NJ fish species
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Soboleva,L., Stoeckle,M.Y. and Garbarino,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-AUG-2016) Program for the Human Environment,
+            Rockefeller University, 1230 York Ave, New York, NY 10065, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Fundulus heteroclitus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="LS09"
+                     /db_xref="taxon:8078"
+                     /geo_loc_name="USA: New Jersey"
+                     /collected_by="K. Dunton"
+                     /PCR_primers="fwd_name: M13-12S229F, fwd_seq:
+                     tgtaaaacgacggccagtgycggtaaaaytcgtgccag, rev_name:
+                     M13-12S954R, rev_seq:
+                     caggaaacagctatgacyccaagygcaccttccggta"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 c
+//
+
+LOCUS       KX686091                   1 bp    DNA     linear   VRT 14-JAN-2017
+DEFINITION  Fundulus heteroclitus isolate LS24 12S ribosomal RNA gene, partial
+            sequence; mitochondrial.
+ACCESSION   KX686091 REGION: 1
+VERSION     KX686091.1
+KEYWORDS    .
+SOURCE      mitochondrion Fundulus heteroclitus (mummichog)
+  ORGANISM  Fundulus heteroclitus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Ovalentaria; Atherinomorphae; Cyprinodontiformes;
+            Fundulidae; Fundulus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Soboleva,L., Stoeckle,M.Y. and Garbarino,J.
+  TITLE     Fishing for DNA: Expanding the 12S database for eDNA identification
+            of NY/NJ fish species
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Soboleva,L., Stoeckle,M.Y. and Garbarino,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-AUG-2016) Program for the Human Environment,
+            Rockefeller University, 1230 York Ave, New York, NY 10065, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Fundulus heteroclitus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="LS24"
+                     /db_xref="taxon:8078"
+                     /geo_loc_name="USA: New Jersey"
+                     /collected_by="K. Dunton"
+                     /PCR_primers="fwd_name: M13-12S229F, fwd_seq:
+                     tgtaaaacgacggccagtgycggtaaaaytcgtgccag, rev_name:
+                     M13-12S954R, rev_seq:
+                     caggaaacagctatgacyccaagygcaccttccggta"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 c
+//
+
+LOCUS       KX686092                   1 bp    DNA     linear   VRT 14-JAN-2017
+DEFINITION  Fundulus heteroclitus isolate LS25 12S ribosomal RNA gene, partial
+            sequence; mitochondrial.
+ACCESSION   KX686092 REGION: 1
+VERSION     KX686092.1
+KEYWORDS    .
+SOURCE      mitochondrion Fundulus heteroclitus (mummichog)
+  ORGANISM  Fundulus heteroclitus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Ovalentaria; Atherinomorphae; Cyprinodontiformes;
+            Fundulidae; Fundulus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Soboleva,L., Stoeckle,M.Y. and Garbarino,J.
+  TITLE     Fishing for DNA: Expanding the 12S database for eDNA identification
+            of NY/NJ fish species
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Soboleva,L., Stoeckle,M.Y. and Garbarino,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-AUG-2016) Program for the Human Environment,
+            Rockefeller University, 1230 York Ave, New York, NY 10065, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Fundulus heteroclitus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="LS25"
+                     /db_xref="taxon:8078"
+                     /geo_loc_name="USA: New Jersey"
+                     /collected_by="K. Dunton"
+                     /PCR_primers="fwd_name: M13-12S229F, fwd_seq:
+                     tgtaaaacgacggccagtgycggtaaaaytcgtgccag, rev_name:
+                     M13-12S954R, rev_seq:
+                     caggaaacagctatgacyccaagygcaccttccggta"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 c
+//
+
+LOCUS       KY660677                   1 bp    DNA     linear   VRT 14-AUG-2017
+DEFINITION  Ambloplites rupestris mitochondrion, complete genome.
+ACCESSION   KY660677 REGION: 1
+VERSION     KY660677.1
+KEYWORDS    .
+SOURCE      mitochondrion Ambloplites rupestris
+  ORGANISM  Ambloplites rupestris
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Centrarchiformes; Centrarchoidei;
+            Centrarchidae; Ambloplites.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Deiner,K., Renshaw,M.A., Li,Y., Olds,B.P., Lodge,D.M. and
+            Pfrender,M.E.
+  TITLE     Long-range PCR allows sequencing of mitochondrial genomes from
+            environmental DNA
+  JOURNAL   Methods Ecol Evol (2017) In press
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Deiner,K., Renshaw,M.A., Li,Y., Olds,B.P., Lodge,D.M. and
+            Pfrender,M.E.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (24-FEB-2017) Oceanic Institute, Shrimp, Hawai'i Pacific
+            University, 41-202 Kalanianaole Hwy, Waimanalo, HI 96795, USA
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: IDBA-UD v. 1
+            Sequencing Technology :: Illumina
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Ambloplites rupestris"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:109273"
+     tRNA            >1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       KY660678                   1 bp    DNA     linear   VRT 14-AUG-2017
+DEFINITION  Etheostoma caeruleum mitochondrion, complete genome.
+ACCESSION   KY660678 REGION: 1
+VERSION     KY660678.1
+KEYWORDS    .
+SOURCE      mitochondrion Etheostoma caeruleum (rainbow darter)
+  ORGANISM  Etheostoma caeruleum
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Perciformes; Percoidei; Percidae;
+            Etheostomatinae; Etheostoma.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Deiner,K., Renshaw,M.A., Li,Y., Olds,B.P., Lodge,D.M. and
+            Pfrender,M.E.
+  TITLE     Long-range PCR allows sequencing of mitochondrial genomes from
+            environmental DNA
+  JOURNAL   Methods Ecol Evol (2017) In press
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Deiner,K., Renshaw,M.A., Li,Y., Olds,B.P., Lodge,D.M. and
+            Pfrender,M.E.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (24-FEB-2017) Oceanic Institute, Shrimp, Hawai'i Pacific
+            University, 41-202 Kalanianaole Hwy, Waimanalo, HI 96795, USA
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: IDBA-UD v. 1
+            Sequencing Technology :: Illumina
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Etheostoma caeruleum"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:54319"
+     tRNA            >1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       KY769128                   1 bp    DNA     linear   VRT 18-JUL-2017
+DEFINITION  Alosa sapidissima mitochondrion, complete genome.
+ACCESSION   KY769128 REGION: 1
+VERSION     KY769128.1
+KEYWORDS    .
+SOURCE      mitochondrion Alosa sapidissima (American shad)
+  ORGANISM  Alosa sapidissima
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Clupei; Clupeiformes;
+            Clupeoidei; Clupeidae; Alosa.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Wang,J., Yu,Z., Wang,X., Yang,S., Zhang,D. and Zhang,Y.
+  TITLE     The next-generation sequencing reveals the complete mitochondrial
+            genome of Alosa sapidissima (Perciformes: Clupeidae) with
+            phylogenetic consideration
+  JOURNAL   Mitochondrial DNA B Resour 2 (1), 304-306 (2017)
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Wang,J., Yu,Z., Wang,X., Yang,S., Zhang,D. and Zhang,Y.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (13-MAR-2017) Sun Yat-Sen University, State Key
+            Laboratory of Biocontrol, Institute of Aquatic Economic Animals and
+            the Guangdong Province Key Laboratory for Aquatic Economic Animals,
+            Guangzhou, Guangdong 510275, China
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Alosa sapidissima"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:34773"
+     gene            >1
+                     /gene="trnF(GAA)"
+     tRNA            >1
+                     /gene="trnF(GAA)"
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       KY798482                   1 bp    DNA     linear   VRT 06-MAR-2018
+DEFINITION  Carassius auratus isolate CES025 tRNA-Phe gene, partial sequence;
+            12S ribosomal RNA and tRNA-Val genes, complete sequence; and 16S
+            ribosomal RNA gene, partial sequence; mitochondrial.
+ACCESSION   KY798482 REGION: 1
+VERSION     KY798482.1
+KEYWORDS    .
+SOURCE      mitochondrion Carassius auratus (goldfish)
+  ORGANISM  Carassius auratus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Cyprinidae; Cyprininae; Carassius.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Bylemans,J., Furlan,E.M., Hardy,C.M. and Gleeson,D.M.
+  TITLE     An in silico workflow for ecoregion based evaluation of
+            metabarcoding primers: an example using the freshwater fish
+            biodiversity in the Murray-Darling Basin (Australia)
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Bylemans,J., Furlan,E.M., Hardy,C.M. and Gleeson,D.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (22-MAR-2017) Institute for Applied Ecology, University
+            of Canberra, Kirinari Street, Canberra, ACT, Australia
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Carassius auratus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="CES025"
+                     /db_xref="taxon:7957"
+                     /geo_loc_name="Australia: New South Wales, Narrandera
+                     Fisheries Centre"
+     tRNA            <1..>1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 c
+//
+
+LOCUS       KY798486                   1 bp    DNA     linear   VRT 06-MAR-2018
+DEFINITION  Tinca tinca isolate CES076 tRNA-Phe gene, partial sequence; 12S
+            ribosomal RNA and tRNA-Val genes, complete sequence; and 16S
+            ribosomal RNA gene, partial sequence; mitochondrial.
+ACCESSION   KY798486 REGION: 1
+VERSION     KY798486.1
+KEYWORDS    .
+SOURCE      mitochondrion Tinca tinca (tench)
+  ORGANISM  Tinca tinca
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Tincidae; Tinca.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Bylemans,J., Furlan,E.M., Hardy,C.M. and Gleeson,D.M.
+  TITLE     An in silico workflow for ecoregion based evaluation of
+            metabarcoding primers: an example using the freshwater fish
+            biodiversity in the Murray-Darling Basin (Australia)
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Bylemans,J., Furlan,E.M., Hardy,C.M. and Gleeson,D.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (22-MAR-2017) Institute for Applied Ecology, University
+            of Canberra, Kirinari Street, Canberra, ACT, Australia
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Tinca tinca"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="CES076"
+                     /db_xref="taxon:27717"
+                     /geo_loc_name="Australia: Victoria, Campaspe River"
+     tRNA            <1..>1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 c
+//
+
+LOCUS       KY798503                   1 bp    DNA     linear   VRT 06-MAR-2018
+DEFINITION  Salvelinus fontinalis isolate CES071 tRNA-Phe gene, partial
+            sequence; 12S ribosomal RNA and tRNA-Val genes, complete sequence;
+            and 16S ribosomal RNA gene, partial sequence; mitochondrial.
+ACCESSION   KY798503 REGION: 1
+VERSION     KY798503.1
+KEYWORDS    .
+SOURCE      mitochondrion Salvelinus fontinalis (brook trout)
+  ORGANISM  Salvelinus fontinalis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Salvelinus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Bylemans,J., Furlan,E.M., Hardy,C.M. and Gleeson,D.M.
+  TITLE     An in silico workflow for ecoregion based evaluation of
+            metabarcoding primers: an example using the freshwater fish
+            biodiversity in the Murray-Darling Basin (Australia)
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Bylemans,J., Furlan,E.M., Hardy,C.M. and Gleeson,D.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (22-MAR-2017) Institute for Applied Ecology, University
+            of Canberra, Kirinari Street, Canberra, ACT, Australia
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Salvelinus fontinalis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="CES071"
+                     /db_xref="taxon:8038"
+                     /geo_loc_name="Australia: New South Wales, Eucumbene Trout
+                     Farm"
+     tRNA            <1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 a
+//
+
+LOCUS       KY973380                   1 bp    DNA     linear   VRT 29-JAN-2018
+DEFINITION  Oncorhynchus tshawytscha isolate TSA22 D-loop, partial sequence;
+            tRNA-Phe (trnF) gene, complete sequence; and 12S ribosomal RNA
+            gene, partial sequence; mitochondrial.
+ACCESSION   KY973380 REGION: 1
+VERSION     KY973380.1
+KEYWORDS    .
+SOURCE      mitochondrion Oncorhynchus tshawytscha (Chinook salmon)
+  ORGANISM  Oncorhynchus tshawytscha
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Oncorhynchus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Johnson,B.M., Kemp,B.M. and Thorgaard,G.H.
+  TITLE     Increased mitochondrial DNA diversity in ancient Columbia River
+            basin Chinook salmon Oncorhynchus tshawytscha
+  JOURNAL   PLoS ONE 13 (1), e0190059 (2018)
+   PUBMED   29320518
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Johnson,B.M., Kemp,B.M. and Thorgaard,G.H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-APR-2017) School of Biological Sciences, Washington
+            State University, PO Box 644236, Pullman, WA 99164-4236, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oncorhynchus tshawytscha"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="TSA22"
+                     /db_xref="taxon:74940"
+     misc_feature    <1..>1
+                     /note="contains D-loop, tRNA-Phe (trnF), and 12S ribosomal
+                     RNA"
+ORIGIN      
+        1 t
+//
+
+LOCUS       KY973381                   1 bp    DNA     linear   VRT 29-JAN-2018
+DEFINITION  Oncorhynchus tshawytscha isolate TSA23 D-loop, partial sequence;
+            tRNA-Phe (trnF) gene, complete sequence; and 12S ribosomal RNA
+            gene, partial sequence; mitochondrial.
+ACCESSION   KY973381 REGION: 1
+VERSION     KY973381.1
+KEYWORDS    .
+SOURCE      mitochondrion Oncorhynchus tshawytscha (Chinook salmon)
+  ORGANISM  Oncorhynchus tshawytscha
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Oncorhynchus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Johnson,B.M., Kemp,B.M. and Thorgaard,G.H.
+  TITLE     Increased mitochondrial DNA diversity in ancient Columbia River
+            basin Chinook salmon Oncorhynchus tshawytscha
+  JOURNAL   PLoS ONE 13 (1), e0190059 (2018)
+   PUBMED   29320518
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Johnson,B.M., Kemp,B.M. and Thorgaard,G.H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-APR-2017) School of Biological Sciences, Washington
+            State University, PO Box 644236, Pullman, WA 99164-4236, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oncorhynchus tshawytscha"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="TSA23"
+                     /db_xref="taxon:74940"
+     misc_feature    <1..>1
+                     /note="contains D-loop, tRNA-Phe (trnF), and 12S ribosomal
+                     RNA"
+ORIGIN      
+        1 t
+//
+
+LOCUS       KY973382                   1 bp    DNA     linear   VRT 29-JAN-2018
+DEFINITION  Oncorhynchus tshawytscha isolate TSA24 D-loop, partial sequence;
+            tRNA-Phe (trnF) gene, complete sequence; and 12S ribosomal RNA
+            gene, partial sequence; mitochondrial.
+ACCESSION   KY973382 REGION: 1
+VERSION     KY973382.1
+KEYWORDS    .
+SOURCE      mitochondrion Oncorhynchus tshawytscha (Chinook salmon)
+  ORGANISM  Oncorhynchus tshawytscha
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Oncorhynchus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Johnson,B.M., Kemp,B.M. and Thorgaard,G.H.
+  TITLE     Increased mitochondrial DNA diversity in ancient Columbia River
+            basin Chinook salmon Oncorhynchus tshawytscha
+  JOURNAL   PLoS ONE 13 (1), e0190059 (2018)
+   PUBMED   29320518
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Johnson,B.M., Kemp,B.M. and Thorgaard,G.H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-APR-2017) School of Biological Sciences, Washington
+            State University, PO Box 644236, Pullman, WA 99164-4236, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oncorhynchus tshawytscha"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="TSA24"
+                     /db_xref="taxon:74940"
+     misc_feature    <1..>1
+                     /note="contains D-loop, tRNA-Phe (trnF), and 12S ribosomal
+                     RNA"
+ORIGIN      
+        1 t
+//
+
+LOCUS       KY973383                   1 bp    DNA     linear   VRT 29-JAN-2018
+DEFINITION  Oncorhynchus tshawytscha isolate TSA25 D-loop, partial sequence;
+            tRNA-Phe (trnF) gene, complete sequence; and 12S ribosomal RNA
+            gene, partial sequence; mitochondrial.
+ACCESSION   KY973383 REGION: 1
+VERSION     KY973383.1
+KEYWORDS    .
+SOURCE      mitochondrion Oncorhynchus tshawytscha (Chinook salmon)
+  ORGANISM  Oncorhynchus tshawytscha
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Oncorhynchus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Johnson,B.M., Kemp,B.M. and Thorgaard,G.H.
+  TITLE     Increased mitochondrial DNA diversity in ancient Columbia River
+            basin Chinook salmon Oncorhynchus tshawytscha
+  JOURNAL   PLoS ONE 13 (1), e0190059 (2018)
+   PUBMED   29320518
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Johnson,B.M., Kemp,B.M. and Thorgaard,G.H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-APR-2017) School of Biological Sciences, Washington
+            State University, PO Box 644236, Pullman, WA 99164-4236, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oncorhynchus tshawytscha"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="TSA25"
+                     /db_xref="taxon:74940"
+     misc_feature    <1..>1
+                     /note="contains D-loop, tRNA-Phe (trnF), and 12S ribosomal
+                     RNA"
+ORIGIN      
+        1 t
+//
+
+LOCUS       KY973384                   1 bp    DNA     linear   VRT 29-JAN-2018
+DEFINITION  Oncorhynchus tshawytscha isolate TSA26 D-loop, partial sequence;
+            tRNA-Phe (trnF) gene, complete sequence; and 12S ribosomal RNA
+            gene, partial sequence; mitochondrial.
+ACCESSION   KY973384 REGION: 1
+VERSION     KY973384.1
+KEYWORDS    .
+SOURCE      mitochondrion Oncorhynchus tshawytscha (Chinook salmon)
+  ORGANISM  Oncorhynchus tshawytscha
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Oncorhynchus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Johnson,B.M., Kemp,B.M. and Thorgaard,G.H.
+  TITLE     Increased mitochondrial DNA diversity in ancient Columbia River
+            basin Chinook salmon Oncorhynchus tshawytscha
+  JOURNAL   PLoS ONE 13 (1), e0190059 (2018)
+   PUBMED   29320518
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Johnson,B.M., Kemp,B.M. and Thorgaard,G.H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-APR-2017) School of Biological Sciences, Washington
+            State University, PO Box 644236, Pullman, WA 99164-4236, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oncorhynchus tshawytscha"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="TSA26"
+                     /db_xref="taxon:74940"
+     misc_feature    <1..>1
+                     /note="contains D-loop, tRNA-Phe (trnF), and 12S ribosomal
+                     RNA"
+ORIGIN      
+        1 t
+//
+
+LOCUS       KY973385                   1 bp    DNA     linear   VRT 29-JAN-2018
+DEFINITION  Oncorhynchus tshawytscha isolate TSA27 D-loop, partial sequence;
+            tRNA-Phe (trnF) gene, complete sequence; and 12S ribosomal RNA
+            gene, partial sequence; mitochondrial.
+ACCESSION   KY973385 REGION: 1
+VERSION     KY973385.1
+KEYWORDS    .
+SOURCE      mitochondrion Oncorhynchus tshawytscha (Chinook salmon)
+  ORGANISM  Oncorhynchus tshawytscha
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Oncorhynchus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Johnson,B.M., Kemp,B.M. and Thorgaard,G.H.
+  TITLE     Increased mitochondrial DNA diversity in ancient Columbia River
+            basin Chinook salmon Oncorhynchus tshawytscha
+  JOURNAL   PLoS ONE 13 (1), e0190059 (2018)
+   PUBMED   29320518
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Johnson,B.M., Kemp,B.M. and Thorgaard,G.H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-APR-2017) School of Biological Sciences, Washington
+            State University, PO Box 644236, Pullman, WA 99164-4236, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oncorhynchus tshawytscha"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="TSA27"
+                     /db_xref="taxon:74940"
+     misc_feature    <1..>1
+                     /note="contains D-loop, tRNA-Phe (trnF), and 12S ribosomal
+                     RNA"
+ORIGIN      
+        1 t
+//
+
+LOCUS       KY973386                   1 bp    DNA     linear   VRT 29-JAN-2018
+DEFINITION  Oncorhynchus tshawytscha isolate TSA28 D-loop, partial sequence;
+            tRNA-Phe (trnF) gene, complete sequence; and 12S ribosomal RNA
+            gene, partial sequence; mitochondrial.
+ACCESSION   KY973386 REGION: 1
+VERSION     KY973386.1
+KEYWORDS    .
+SOURCE      mitochondrion Oncorhynchus tshawytscha (Chinook salmon)
+  ORGANISM  Oncorhynchus tshawytscha
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Oncorhynchus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Johnson,B.M., Kemp,B.M. and Thorgaard,G.H.
+  TITLE     Increased mitochondrial DNA diversity in ancient Columbia River
+            basin Chinook salmon Oncorhynchus tshawytscha
+  JOURNAL   PLoS ONE 13 (1), e0190059 (2018)
+   PUBMED   29320518
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Johnson,B.M., Kemp,B.M. and Thorgaard,G.H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-APR-2017) School of Biological Sciences, Washington
+            State University, PO Box 644236, Pullman, WA 99164-4236, USA
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oncorhynchus tshawytscha"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="TSA28"
+                     /db_xref="taxon:74940"
+     misc_feature    <1..>1
+                     /note="contains D-loop, tRNA-Phe (trnF), and 12S ribosomal
+                     RNA"
+ORIGIN      
+        1 t
+//
+
+LOCUS       ONHMTCG                    1 bp    DNA     linear   VRT 02-JUL-1996
+DEFINITION  Oncorhynchus mykiss mitochondrion complete genome.
+ACCESSION   L29771 REGION: 1
+VERSION     L29771.1
+KEYWORDS    12S ribosomal RNA; 16S ribosomal RNA; NADH dehydrogenase; adenosine
+            triphosphatase; complete genome; cytochrome b; cytochrome oxidase;
+            transfer RNA-Ala; transfer RNA-Arg; transfer RNA-Asn; transfer
+            RNA-Asp; transfer RNA-Cys; transfer RNA-Gln; transfer RNA-Glu;
+            transfer RNA-Gly; transfer RNA-His; transfer RNA-Ile; transfer
+            RNA-Leu; transfer RNA-Lys; transfer RNA-Met; transfer RNA-Phe;
+            transfer RNA-Pro; transfer RNA-Ser; transfer RNA-Thr; transfer
+            RNA-Trp; transfer RNA-Tyr; transfer RNA-Val.
+SOURCE      mitochondrion Oncorhynchus mykiss (rainbow trout)
+  ORGANISM  Oncorhynchus mykiss
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Oncorhynchus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Zardoya,R., Garrido-Pertierra,A. and Bautista,J.M.
+  TITLE     The complete nucleotide sequence of the mitochondrial DNA genome of
+            the rainbow trout, Oncorhynchus mykiss
+  JOURNAL   J. Mol. Evol. 41 (6), 942-951 (1995)
+   PUBMED   8587139
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Zardoya,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-MAR-1994) Rafael Zardoya, Departamento de Bioquimica
+            y Biologia Molecular IV, Facultad de Veterinaria, Universidad
+            Complutense, Madrid, 28040, Spain
+COMMENT     On Apr 2, 1996 this sequence version replaced gi:463153.
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oncorhynchus mykiss"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8022"
+                     /cell_type="hepatocyte"
+                     /tissue_type="liver"
+                     /dev_stage="adult"
+     D-loop          >1
+                     /note="control region"
+ORIGIN      
+        1 a
+//
+

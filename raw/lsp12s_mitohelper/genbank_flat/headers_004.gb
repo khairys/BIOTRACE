@@ -1,0 +1,1891 @@
+LOCUS       FJ817294                   1 bp    DNA     linear   VRT 31-DEC-2009
+DEFINITION  Carassius auratus haplotype 1 D-loop, partial sequence; tRNA-Phe
+            gene, complete sequence; and 12S ribosomal RNA gene, partial
+            sequence; mitochondrial.
+ACCESSION   FJ817294 REGION: 1
+VERSION     FJ817294.1
+KEYWORDS    .
+SOURCE      mitochondrion Carassius auratus (goldfish)
+  ORGANISM  Carassius auratus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Cyprinidae; Cyprininae; Carassius.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Jung,J., Song,K.H., Lee,E. and Kim,W.
+  TITLE     Mitochondrial genetic variations in fishes of the genus Carassius
+            from South Korea: proximity to northern China rather than Japanese
+            Islands?
+  JOURNAL   Hydrobiologia 635 (1), 95-105 (2009)
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Jung,J., Song,K.H., Lee,E. and Kim,W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-MAR-2009) School of Biological Sciences, Seoul
+            National University, Shillim-dong San 56-1, Gwanak-gu, Seoul, Seoul
+            151-747, Korea
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Carassius auratus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:7957"
+                     /haplotype="1"
+     D-loop          <1..>1
+ORIGIN      
+        1 a
+//
+
+LOCUS       FJ817301                   1 bp    DNA     linear   VRT 31-DEC-2009
+DEFINITION  Carassius auratus haplotype 8 D-loop, partial sequence; tRNA-Phe
+            gene, complete sequence; and 12S ribosomal RNA gene, partial
+            sequence; mitochondrial.
+ACCESSION   FJ817301 REGION: 1
+VERSION     FJ817301.1
+KEYWORDS    .
+SOURCE      mitochondrion Carassius auratus (goldfish)
+  ORGANISM  Carassius auratus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Cyprinidae; Cyprininae; Carassius.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Jung,J., Song,K.H., Lee,E. and Kim,W.
+  TITLE     Mitochondrial genetic variations in fishes of the genus Carassius
+            from South Korea: proximity to northern China rather than Japanese
+            Islands?
+  JOURNAL   Hydrobiologia 635 (1), 95-105 (2009)
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Jung,J., Song,K.H., Lee,E. and Kim,W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-MAR-2009) School of Biological Sciences, Seoul
+            National University, Shillim-dong San 56-1, Gwanak-gu, Seoul, Seoul
+            151-747, Korea
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Carassius auratus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:7957"
+                     /haplotype="8"
+     D-loop          <1..>1
+ORIGIN      
+        1 a
+//
+
+LOCUS       FJ817304                   1 bp    DNA     linear   VRT 31-DEC-2009
+DEFINITION  Carassius auratus haplotype 11 D-loop, partial sequence; tRNA-Phe
+            gene, complete sequence; and 12S ribosomal RNA gene, partial
+            sequence; mitochondrial.
+ACCESSION   FJ817304 REGION: 1
+VERSION     FJ817304.1
+KEYWORDS    .
+SOURCE      mitochondrion Carassius auratus (goldfish)
+  ORGANISM  Carassius auratus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Cyprinidae; Cyprininae; Carassius.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Jung,J., Song,K.H., Lee,E. and Kim,W.
+  TITLE     Mitochondrial genetic variations in fishes of the genus Carassius
+            from South Korea: proximity to northern China rather than Japanese
+            Islands?
+  JOURNAL   Hydrobiologia 635 (1), 95-105 (2009)
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Jung,J., Song,K.H., Lee,E. and Kim,W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-MAR-2009) School of Biological Sciences, Seoul
+            National University, Shillim-dong San 56-1, Gwanak-gu, Seoul, Seoul
+            151-747, Korea
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Carassius auratus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:7957"
+                     /haplotype="11"
+     D-loop          <1..>1
+ORIGIN      
+        1 a
+//
+
+LOCUS       FJ817319                   1 bp    DNA     linear   VRT 31-DEC-2009
+DEFINITION  Carassius auratus haplotype 26 D-loop, partial sequence; tRNA-Phe
+            gene, complete sequence; and 12S ribosomal RNA gene, partial
+            sequence; mitochondrial.
+ACCESSION   FJ817319 REGION: 1
+VERSION     FJ817319.1
+KEYWORDS    .
+SOURCE      mitochondrion Carassius auratus (goldfish)
+  ORGANISM  Carassius auratus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Cyprinidae; Cyprininae; Carassius.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Jung,J., Song,K.H., Lee,E. and Kim,W.
+  TITLE     Mitochondrial genetic variations in fishes of the genus Carassius
+            from South Korea: proximity to northern China rather than Japanese
+            Islands?
+  JOURNAL   Hydrobiologia 635 (1), 95-105 (2009)
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Jung,J., Song,K.H., Lee,E. and Kim,W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-MAR-2009) School of Biological Sciences, Seoul
+            National University, Shillim-dong San 56-1, Gwanak-gu, Seoul, Seoul
+            151-747, Korea
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Carassius auratus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:7957"
+                     /haplotype="26"
+     D-loop          <1..>1
+ORIGIN      
+        1 a
+//
+
+LOCUS       GQ141869                   1 bp    DNA     linear   VRT 28-DEC-2009
+DEFINITION  Coregonus clupeaformis isolate LW1 12S ribosomal RNA gene, partial
+            sequence; mitochondrial.
+ACCESSION   GQ141869 REGION: 1
+VERSION     GQ141869.1
+KEYWORDS    .
+SOURCE      mitochondrion Coregonus clupeaformis (lake whitefish)
+  ORGANISM  Coregonus clupeaformis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Coregoninae; Coregonus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Jordan,L.G., Steele,C.A. and Thorgaard,G.H.
+  TITLE     Universal mtDNA primers for species identification of degraded bony
+            fish samples
+  JOURNAL   Mol Ecol Resour 10 (1), 225-228 (2010)
+   PUBMED   21565016
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Jordan,L.G., Steele,C.A. and Thorgaard,G.H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-MAY-2009) SBS, Washington State University, Pullman,
+            WA 99164-4236, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Coregonus clupeaformis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="LW1"
+                     /db_xref="taxon:59861"
+                     /note="PCR_primers=fwd_name: OST 12S-F, rev_name: OST
+                     12S-R"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 c
+//
+
+LOCUS       GQ250834                   1 bp    DNA     linear   VRT 05-MAR-2010
+DEFINITION  Etheostoma caeruleum haplotype Cr1 control region, partial
+            sequence; tRNA-Phe gene, complete sequence; and 12S ribosomal RNA
+            gene, partial sequence; mitochondrial.
+ACCESSION   GQ250834 REGION: 1
+VERSION     GQ250834.1
+KEYWORDS    .
+SOURCE      mitochondrion Etheostoma caeruleum (rainbow darter)
+  ORGANISM  Etheostoma caeruleum
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Perciformes; Percoidei; Percidae;
+            Etheostomatinae; Etheostoma.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Haponski,A.E., Bollin,T.L., Jedlicka,M.A. and Stepien,C.A.
+  TITLE     Landscape genetic patterns of the rainbow darter Etheostoma
+            caeruleum: a catchment analysis of mitochondrial DNA sequences and
+            nuclear microsatellites
+  JOURNAL   J. Fish Biol. 75 (9), 2244-2268 (2009)
+   PUBMED   20738685
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Haponski,A.E., Bollin,T.L., Jedlicka,M.A. and Stepien,C.A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-JUN-2009) Environmental Sciences/Lake Erie Center,
+            University of Toledo, 6200 Bayshore Rd, Oregon, OH 43618, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Etheostoma caeruleum"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:54319"
+                     /haplotype="Cr1"
+     misc_feature    <1..>1
+                     /note="control region"
+ORIGIN      
+        1 t
+//
+
+LOCUS       GQ250836                   1 bp    DNA     linear   VRT 05-MAR-2010
+DEFINITION  Etheostoma caeruleum haplotype Cr3 control region, partial
+            sequence; tRNA-Phe gene, complete sequence; and 12S ribosomal RNA
+            gene, partial sequence; mitochondrial.
+ACCESSION   GQ250836 REGION: 1
+VERSION     GQ250836.1
+KEYWORDS    .
+SOURCE      mitochondrion Etheostoma caeruleum (rainbow darter)
+  ORGANISM  Etheostoma caeruleum
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Perciformes; Percoidei; Percidae;
+            Etheostomatinae; Etheostoma.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Haponski,A.E., Bollin,T.L., Jedlicka,M.A. and Stepien,C.A.
+  TITLE     Landscape genetic patterns of the rainbow darter Etheostoma
+            caeruleum: a catchment analysis of mitochondrial DNA sequences and
+            nuclear microsatellites
+  JOURNAL   J. Fish Biol. 75 (9), 2244-2268 (2009)
+   PUBMED   20738685
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Haponski,A.E., Bollin,T.L., Jedlicka,M.A. and Stepien,C.A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-JUN-2009) Environmental Sciences/Lake Erie Center,
+            University of Toledo, 6200 Bayshore Rd, Oregon, OH 43618, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Etheostoma caeruleum"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:54319"
+                     /haplotype="Cr3"
+     misc_feature    <1..>1
+                     /note="control region"
+ORIGIN      
+        1 t
+//
+
+LOCUS       GQ250843                   1 bp    DNA     linear   VRT 05-MAR-2010
+DEFINITION  Etheostoma caeruleum haplotype Cr10 control region, partial
+            sequence; tRNA-Phe gene, complete sequence; and 12S ribosomal RNA
+            gene, partial sequence; mitochondrial.
+ACCESSION   GQ250843 REGION: 1
+VERSION     GQ250843.1
+KEYWORDS    .
+SOURCE      mitochondrion Etheostoma caeruleum (rainbow darter)
+  ORGANISM  Etheostoma caeruleum
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Perciformes; Percoidei; Percidae;
+            Etheostomatinae; Etheostoma.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Haponski,A.E., Bollin,T.L., Jedlicka,M.A. and Stepien,C.A.
+  TITLE     Landscape genetic patterns of the rainbow darter Etheostoma
+            caeruleum: a catchment analysis of mitochondrial DNA sequences and
+            nuclear microsatellites
+  JOURNAL   J. Fish Biol. 75 (9), 2244-2268 (2009)
+   PUBMED   20738685
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Haponski,A.E., Bollin,T.L., Jedlicka,M.A. and Stepien,C.A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-JUN-2009) Environmental Sciences/Lake Erie Center,
+            University of Toledo, 6200 Bayshore Rd, Oregon, OH 43618, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Etheostoma caeruleum"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:54319"
+                     /haplotype="Cr10"
+     misc_feature    <1..>1
+                     /note="control region"
+ORIGIN      
+        1 t
+//
+
+LOCUS       GQ250845                   1 bp    DNA     linear   VRT 05-MAR-2010
+DEFINITION  Etheostoma caeruleum haplotype Cr12 control region, partial
+            sequence; tRNA-Phe gene, complete sequence; and 12S ribosomal RNA
+            gene, partial sequence; mitochondrial.
+ACCESSION   GQ250845 REGION: 1
+VERSION     GQ250845.1
+KEYWORDS    .
+SOURCE      mitochondrion Etheostoma caeruleum (rainbow darter)
+  ORGANISM  Etheostoma caeruleum
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Perciformes; Percoidei; Percidae;
+            Etheostomatinae; Etheostoma.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Haponski,A.E., Bollin,T.L., Jedlicka,M.A. and Stepien,C.A.
+  TITLE     Landscape genetic patterns of the rainbow darter Etheostoma
+            caeruleum: a catchment analysis of mitochondrial DNA sequences and
+            nuclear microsatellites
+  JOURNAL   J. Fish Biol. 75 (9), 2244-2268 (2009)
+   PUBMED   20738685
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Haponski,A.E., Bollin,T.L., Jedlicka,M.A. and Stepien,C.A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-JUN-2009) Environmental Sciences/Lake Erie Center,
+            University of Toledo, 6200 Bayshore Rd, Oregon, OH 43618, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Etheostoma caeruleum"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:54319"
+                     /haplotype="Cr12"
+     misc_feature    <1..>1
+                     /note="control region"
+ORIGIN      
+        1 t
+//
+
+LOCUS       GQ254270                   1 bp    DNA     linear   VRT 24-JUL-2016
+DEFINITION  Lepomis macrochirus cytochrome b (Cytb) gene, partial cds; tRNA-Thr
+            and tRNA-Pro genes, D-loop, and tRNA-Phe gene, complete sequence;
+            and 12S ribosomal RNA gene, partial sequence; mitochondrial.
+ACCESSION   GQ254270 REGION: 1
+VERSION     GQ254270.1
+KEYWORDS    .
+SOURCE      mitochondrion Lepomis macrochirus (bluegill)
+  ORGANISM  Lepomis macrochirus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Centrarchiformes; Centrarchoidei;
+            Centrarchidae; Lepomis.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Lau,H.H., Huang,J., Kwan,Y.-S., Lee,W.-O. and Won,Y.-J.
+  TITLE     Genetic distribution pattern of bluegill sunfish Lepomis
+            macrochirus in freshwater ecosystems across Korea
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Lau,H.H., Huang,J., Kwan,Y.-S., Lee,W.-O. and Won,Y.-J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-JUN-2009) Division of EcoScience, Ewha Womans
+            University, 11-1 Daehyon-Dong, Sodaemun-Ku, Seoul 120-750, South
+            Korea
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Lepomis macrochirus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:13106"
+                     /haplotype="1"
+     gene            <1..>1
+                     /gene="Cytb"
+     CDS             <1..>1
+                     /gene="Cytb"
+                     /note="TAA stop codon is completed by the addition of 3' A
+                     residues to the mRNA"
+                     /codon_start=2
+                     /transl_except=(pos:239,aa:TERM)
+                     /transl_table=2
+                     /product="cytochrome b"
+                     /protein_id="ACT33449.1"
+                     /translation="MVVPILHTSKQRSLTFRPLTQLLFWALVADVAILTWIGGMPVEH
+                     PFIMIGQVASFLYFFLFLVLTPLTGWLENKVLEWS"
+ORIGIN      
+        1 g
+//
+
+LOCUS       HG977014                   1 bp    DNA     linear   VRT 11-JUN-2016
+DEFINITION  Acipenser oxyrinchus mitochondrial partial 12S rRNA gene, isolate
+            Gijon.
+ACCESSION   HG977014 REGION: 1
+VERSION     HG977014.1
+KEYWORDS    .
+SOURCE      mitochondrion Acipenser oxyrinchus (Atlantic sturgeon)
+  ORGANISM  Acipenser oxyrinchus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Chondrostei; Acipenseriformes; Acipenseridae;
+            Acipenser.
+REFERENCE   1
+  AUTHORS   Robles,F., De la Herran,R., Cano-Roldan,B., Navajas-Perez,R.,
+            Molina-Luzon,M.J. and Ruiz Rejon,C.
+  TITLE     Acipenser oxyrinchus in North Coast of Iberian Peninsula
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Robles,F.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-APR-2014) Departamento de Genetica, Facultad de
+            Ciencias, Universidad de Granada. Avda. Fuentenueva s/n, 18071
+            Granada, SPAIN
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Acipenser oxyrinchus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="Gijon"
+                     /db_xref="taxon:36177"
+                     /geo_loc_name="Spain:Mar Cantabrico"
+                     /PCR_primers="fwd_name: 12S-F, fwd_seq:
+                     atagccggcttcaaaagaat, rev_name: 12S-R, rev_seq:
+                     cgaggtgtagcgaatgaagt"
+     gene            <1..>1
+                     /gene="12S rRNA"
+     rRNA            <1..>1
+                     /gene="12S rRNA"
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 a
+//
+
+LOCUS       HM003527                   1 bp    DNA     linear   VRT 09-NOV-2011
+DEFINITION  Salmo salar voucher US<ZAF>:09062 12S ribosomal RNA gene, partial
+            sequence; mitochondrial.
+ACCESSION   HM003527 REGION: 1
+VERSION     HM003527.1
+KEYWORDS    .
+SOURCE      mitochondrion Salmo salar (Atlantic salmon)
+  ORGANISM  Salmo salar
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Salmo.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Cawthorn,D.M., Steinman,H.A. and Witthuhn,R.C.
+  TITLE     Evaluation of the 16S and 12S rRNA genes as universal markers for
+            the identification of commercial fish species in South Africa
+  JOURNAL   Gene 491 (1), 40-48 (2012)
+   PUBMED   21963445
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Cawthorn,D.M., Witthuhn,C. and Steinman,H.A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-MAR-2010) Food Science, University of Stellenbosch,
+            Corner of Hammanshand & Helshoogte Streets, Stellenbosch, Western
+            Cape 7600, South Africa
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Salmo salar"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="US<ZAF>:09062"
+                     /db_xref="taxon:8030"
+                     /tissue_type="muscle"
+                     /collection_date="2009"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 c
+//
+
+LOCUS       HM003530                   1 bp    DNA     linear   VRT 09-NOV-2011
+DEFINITION  Salmo salar voucher US<ZAF>:RET25 12S ribosomal RNA gene, partial
+            sequence; mitochondrial.
+ACCESSION   HM003530 REGION: 1
+VERSION     HM003530.1
+KEYWORDS    .
+SOURCE      mitochondrion Salmo salar (Atlantic salmon)
+  ORGANISM  Salmo salar
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Salmo.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Cawthorn,D.M., Steinman,H.A. and Witthuhn,R.C.
+  TITLE     Evaluation of the 16S and 12S rRNA genes as universal markers for
+            the identification of commercial fish species in South Africa
+  JOURNAL   Gene 491 (1), 40-48 (2012)
+   PUBMED   21963445
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Cawthorn,D.M., Witthuhn,C. and Steinman,H.A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-MAR-2010) Food Science, University of Stellenbosch,
+            Corner of Hammanshand & Helshoogte Streets, Stellenbosch, Western
+            Cape 7600, South Africa
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Salmo salar"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="US<ZAF>:RET25"
+                     /db_xref="taxon:8030"
+                     /tissue_type="muscle"
+                     /collection_date="2009"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 c
+//
+
+LOCUS       HM106493                   1 bp    DNA     linear   VRT 25-JUL-2016
+DEFINITION  Osmerus mordax mitochondrion, complete genome.
+ACCESSION   HM106493 REGION: 1
+VERSION     HM106493.1
+KEYWORDS    .
+SOURCE      mitochondrion Osmerus mordax (rainbow smelt)
+  ORGANISM  Osmerus mordax
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Stomiati; Osmeriformes;
+            Osmeridae; Osmerus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Li,J., Xia,R., McDowall,R.M., Lopez,J.A., Lei,G. and Fu,C.
+  TITLE     Phylogenetic position of the enigmatic Lepidogalaxias
+            salamandroides with comment on the orders of lower euteleostean
+            fishes
+  JOURNAL   Mol. Phylogenet. Evol. 57 (2), 932-936 (2010)
+   PUBMED   20674753
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Li,J., Xia,R., McDowall,R.M., Lopez,J.A., Lei,G. and Fu,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-APR-2010) Fudan University, Ministry of Education Key
+            Laboratory for Biodiversity Science and Ecological Engineering and
+            Institute of Biodiversity Science, Handan Rd. 220, Shanghai 200433,
+            China
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Osmerus mordax"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8014"
+                     /geo_loc_name="Canada: Lac St. Jean"
+     tRNA            >1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       HM151501                   1 bp    DNA     linear   VRT 10-MAY-2011
+DEFINITION  Osmerus mordax isolate OM_CA_1 12S ribosomal RNA gene, partial
+            sequence; mitochondrial.
+ACCESSION   HM151501 REGION: 1
+VERSION     HM151501.1
+KEYWORDS    .
+SOURCE      mitochondrion Osmerus mordax (rainbow smelt)
+  ORGANISM  Osmerus mordax
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Stomiati; Osmeriformes;
+            Osmeridae; Osmerus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Guo,L., Li,J., Wang,Z. and Fu,C.
+  TITLE     Phylogenetic relationships of noodle-fishes (Osmeriformes:
+            Salangidae) based on four mitochondrial genes
+  JOURNAL   Shui sheng sheng wu hsueh bao 35 (3), 449-459 (2011)
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Guo,L., Li,J., Zhang,J., Wang,Z. and Fu,C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (26-APR-2010) Ministry of Education Key Laboratory for
+            Biodiversity Science and Ecological Engineering, and Institute of
+            Biodiversity Science, Fudan University, Handan Rd. 220, Shanghai
+            200433, China
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Osmerus mordax"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="OM_CA_1"
+                     /db_xref="taxon:8014"
+                     /geo_loc_name="Canada: Lac St. Jean"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 c
+//
+
+LOCUS       HM177472                   1 bp    DNA     linear   VRT 30-APR-2011
+DEFINITION  Esox lucius voucher BBGY W5 12S ribosomal RNA gene, partial
+            sequence; mitochondrial.
+ACCESSION   HM177472 REGION: 1
+VERSION     HM177472.1
+KEYWORDS    .
+SOURCE      mitochondrion Esox lucius (northern pike)
+  ORGANISM  Esox lucius
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Esociformes; Esocidae; Esox.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Cheng,Q. and Zhang,Q.
+  TITLE     Mitochondrial DNA variation in wild and cultured populations of
+            northern pike, Esox lucius L.
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Cheng,Q. and Zhang,Q.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (04-MAY-2010) Department of Aquatic Biotechnology, East
+            China Sea Fisheries Research Institute,Chinese Academy of Fishery
+            Sciences, 300 JunGong Road, Shanghai 200090, China
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Esox lucius"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="BBGY W5"
+                     /db_xref="taxon:8010"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 t
+//
+
+LOCUS       HM177473                   1 bp    DNA     linear   VRT 30-APR-2011
+DEFINITION  Esox lucius voucher BBGY W6 12S ribosomal RNA gene, partial
+            sequence; mitochondrial.
+ACCESSION   HM177473 REGION: 1
+VERSION     HM177473.1
+KEYWORDS    .
+SOURCE      mitochondrion Esox lucius (northern pike)
+  ORGANISM  Esox lucius
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Esociformes; Esocidae; Esox.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Cheng,Q. and Zhang,Q.
+  TITLE     Mitochondrial DNA variation in wild and cultured populations of
+            northern pike, Esox lucius L.
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Cheng,Q. and Zhang,Q.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (04-MAY-2010) Department of Aquatic Biotechnology, East
+            China Sea Fisheries Research Institute,Chinese Academy of Fishery
+            Sciences, 300 JunGong Road, Shanghai 200090, China
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Esox lucius"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="BBGY W6"
+                     /db_xref="taxon:8010"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 t
+//
+
+LOCUS       HM177474                   1 bp    DNA     linear   VRT 30-APR-2011
+DEFINITION  Esox lucius voucher BBGY W7 12S ribosomal RNA gene, partial
+            sequence; mitochondrial.
+ACCESSION   HM177474 REGION: 1
+VERSION     HM177474.1
+KEYWORDS    .
+SOURCE      mitochondrion Esox lucius (northern pike)
+  ORGANISM  Esox lucius
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Esociformes; Esocidae; Esox.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Cheng,Q. and Zhang,Q.
+  TITLE     Mitochondrial DNA variation in wild and cultured populations of
+            northern pike, Esox lucius L.
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Cheng,Q. and Zhang,Q.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (04-MAY-2010) Department of Aquatic Biotechnology, East
+            China Sea Fisheries Research Institute,Chinese Academy of Fishery
+            Sciences, 300 JunGong Road, Shanghai 200090, China
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Esox lucius"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="BBGY W7"
+                     /db_xref="taxon:8010"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 t
+//
+
+LOCUS       HM177475                   1 bp    DNA     linear   VRT 30-APR-2011
+DEFINITION  Esox lucius voucher BBGY W18 12S ribosomal RNA gene, partial
+            sequence; mitochondrial.
+ACCESSION   HM177475 REGION: 1
+VERSION     HM177475.1
+KEYWORDS    .
+SOURCE      mitochondrion Esox lucius (northern pike)
+  ORGANISM  Esox lucius
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Esociformes; Esocidae; Esox.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Cheng,Q. and Zhang,Q.
+  TITLE     Mitochondrial DNA variation in wild and cultured populations of
+            northern pike, Esox lucius L.
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Cheng,Q. and Zhang,Q.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (04-MAY-2010) Department of Aquatic Biotechnology, East
+            China Sea Fisheries Research Institute,Chinese Academy of Fishery
+            Sciences, 300 JunGong Road, Shanghai 200090, China
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Esox lucius"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="BBGY W18"
+                     /db_xref="taxon:8010"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 t
+//
+
+LOCUS       HM229293                   1 bp    DNA     linear   VRT 30-JUN-2010
+DEFINITION  Oncorhynchus mykiss haplotype MYS01A D-loop, partial sequence;
+            tRNA-Phe (trnF) gene, complete sequence; and 12S ribosomal RNA
+            gene, partial sequence; mitochondrial.
+ACCESSION   HM229293 REGION: 1
+VERSION     HM229293.1
+KEYWORDS    .
+SOURCE      mitochondrion Oncorhynchus mykiss (rainbow trout)
+  ORGANISM  Oncorhynchus mykiss
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Oncorhynchus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Brunelli,J.P., Steele,C.A. and Thorgaard,G.H.
+  TITLE     Deep divergence and apparent sex-biased dispersal revealed by a
+            Y-linked marker in rainbow trout
+  JOURNAL   Mol. Phylogenet. Evol. 56 (3), 983-990 (2010)
+   PUBMED   20546904
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Brunelli,J.P., Steele,C.A. and Thorgaard,G.H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-MAY-2010) School of Biological Sciences, Washington
+            State University, College Ave. Heald Hall, Pullman, WA 99164-4236,
+            USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oncorhynchus mykiss"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8022"
+                     /haplotype="MYS01A"
+                     /PCR_primers="fwd_seq: ccactctttacgccggtag, rev_seq:
+                     actcttattgatggtcaggggcag"
+     D-loop          <1..>1
+ORIGIN      
+        1 t
+//
+
+LOCUS       HM229294                   1 bp    DNA     linear   VRT 30-JUN-2010
+DEFINITION  Oncorhynchus mykiss haplotype MYS01B D-loop, partial sequence;
+            tRNA-Phe (trnF) gene, complete sequence; and 12S ribosomal RNA
+            gene, partial sequence; mitochondrial.
+ACCESSION   HM229294 REGION: 1
+VERSION     HM229294.1
+KEYWORDS    .
+SOURCE      mitochondrion Oncorhynchus mykiss (rainbow trout)
+  ORGANISM  Oncorhynchus mykiss
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Oncorhynchus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Brunelli,J.P., Steele,C.A. and Thorgaard,G.H.
+  TITLE     Deep divergence and apparent sex-biased dispersal revealed by a
+            Y-linked marker in rainbow trout
+  JOURNAL   Mol. Phylogenet. Evol. 56 (3), 983-990 (2010)
+   PUBMED   20546904
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Brunelli,J.P., Steele,C.A. and Thorgaard,G.H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-MAY-2010) School of Biological Sciences, Washington
+            State University, College Ave. Heald Hall, Pullman, WA 99164-4236,
+            USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oncorhynchus mykiss"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8022"
+                     /haplotype="MYS01B"
+                     /PCR_primers="fwd_seq: ccactctttacgccggtag, rev_seq:
+                     actcttattgatggtcaggggcag"
+     D-loop          <1..>1
+ORIGIN      
+        1 t
+//
+
+LOCUS       HM229295                   1 bp    DNA     linear   VRT 30-JUN-2010
+DEFINITION  Oncorhynchus mykiss haplotype MYS01C D-loop, partial sequence;
+            tRNA-Phe (trnF) gene, complete sequence; and 12S ribosomal RNA
+            gene, partial sequence; mitochondrial.
+ACCESSION   HM229295 REGION: 1
+VERSION     HM229295.1
+KEYWORDS    .
+SOURCE      mitochondrion Oncorhynchus mykiss (rainbow trout)
+  ORGANISM  Oncorhynchus mykiss
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Oncorhynchus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Brunelli,J.P., Steele,C.A. and Thorgaard,G.H.
+  TITLE     Deep divergence and apparent sex-biased dispersal revealed by a
+            Y-linked marker in rainbow trout
+  JOURNAL   Mol. Phylogenet. Evol. 56 (3), 983-990 (2010)
+   PUBMED   20546904
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Brunelli,J.P., Steele,C.A. and Thorgaard,G.H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-MAY-2010) School of Biological Sciences, Washington
+            State University, College Ave. Heald Hall, Pullman, WA 99164-4236,
+            USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oncorhynchus mykiss"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8022"
+                     /haplotype="MYS01C"
+                     /PCR_primers="fwd_seq: ccactctttacgccggtag, rev_seq:
+                     actcttattgatggtcaggggcag"
+     D-loop          <1..>1
+ORIGIN      
+        1 t
+//
+
+LOCUS       HM229296                   1 bp    DNA     linear   VRT 30-JUN-2010
+DEFINITION  Oncorhynchus mykiss haplotype MYS01D D-loop, partial sequence;
+            tRNA-Phe (trnF) gene, complete sequence; and 12S ribosomal RNA
+            gene, partial sequence; mitochondrial.
+ACCESSION   HM229296 REGION: 1
+VERSION     HM229296.1
+KEYWORDS    .
+SOURCE      mitochondrion Oncorhynchus mykiss (rainbow trout)
+  ORGANISM  Oncorhynchus mykiss
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Oncorhynchus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Brunelli,J.P., Steele,C.A. and Thorgaard,G.H.
+  TITLE     Deep divergence and apparent sex-biased dispersal revealed by a
+            Y-linked marker in rainbow trout
+  JOURNAL   Mol. Phylogenet. Evol. 56 (3), 983-990 (2010)
+   PUBMED   20546904
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Brunelli,J.P., Steele,C.A. and Thorgaard,G.H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-MAY-2010) School of Biological Sciences, Washington
+            State University, College Ave. Heald Hall, Pullman, WA 99164-4236,
+            USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oncorhynchus mykiss"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8022"
+                     /haplotype="MYS01D"
+                     /PCR_primers="fwd_seq: ccactctttacgccggtag, rev_seq:
+                     actcttattgatggtcaggggcag"
+     D-loop          <1..>1
+ORIGIN      
+        1 t
+//
+
+LOCUS       HM229297                   1 bp    DNA     linear   VRT 30-JUN-2010
+DEFINITION  Oncorhynchus mykiss haplotype MYS01E D-loop, partial sequence;
+            tRNA-Phe (trnF) gene, complete sequence; and 12S ribosomal RNA
+            gene, partial sequence; mitochondrial.
+ACCESSION   HM229297 REGION: 1
+VERSION     HM229297.1
+KEYWORDS    .
+SOURCE      mitochondrion Oncorhynchus mykiss (rainbow trout)
+  ORGANISM  Oncorhynchus mykiss
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Oncorhynchus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Brunelli,J.P., Steele,C.A. and Thorgaard,G.H.
+  TITLE     Deep divergence and apparent sex-biased dispersal revealed by a
+            Y-linked marker in rainbow trout
+  JOURNAL   Mol. Phylogenet. Evol. 56 (3), 983-990 (2010)
+   PUBMED   20546904
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Brunelli,J.P., Steele,C.A. and Thorgaard,G.H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-MAY-2010) School of Biological Sciences, Washington
+            State University, College Ave. Heald Hall, Pullman, WA 99164-4236,
+            USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oncorhynchus mykiss"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8022"
+                     /haplotype="MYS01E"
+                     /PCR_primers="fwd_seq: ccactctttacgccggtag, rev_seq:
+                     actcttattgatggtcaggggcag"
+     D-loop          <1..>1
+ORIGIN      
+        1 t
+//
+
+LOCUS       HM229298                   1 bp    DNA     linear   VRT 30-JUN-2010
+DEFINITION  Oncorhynchus mykiss haplotype MYS01F D-loop, partial sequence;
+            tRNA-Phe (trnF) gene, complete sequence; and 12S ribosomal RNA
+            gene, partial sequence; mitochondrial.
+ACCESSION   HM229298 REGION: 1
+VERSION     HM229298.1
+KEYWORDS    .
+SOURCE      mitochondrion Oncorhynchus mykiss (rainbow trout)
+  ORGANISM  Oncorhynchus mykiss
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Oncorhynchus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Brunelli,J.P., Steele,C.A. and Thorgaard,G.H.
+  TITLE     Deep divergence and apparent sex-biased dispersal revealed by a
+            Y-linked marker in rainbow trout
+  JOURNAL   Mol. Phylogenet. Evol. 56 (3), 983-990 (2010)
+   PUBMED   20546904
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Brunelli,J.P., Steele,C.A. and Thorgaard,G.H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-MAY-2010) School of Biological Sciences, Washington
+            State University, College Ave. Heald Hall, Pullman, WA 99164-4236,
+            USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oncorhynchus mykiss"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8022"
+                     /haplotype="MYS01F"
+                     /PCR_primers="fwd_seq: ccactctttacgccggtag, rev_seq:
+                     actcttattgatggtcaggggcag"
+     D-loop          <1..>1
+ORIGIN      
+        1 t
+//
+
+LOCUS       HM229299                   1 bp    DNA     linear   VRT 30-JUN-2010
+DEFINITION  Oncorhynchus mykiss haplotype MYS01G D-loop, partial sequence;
+            tRNA-Phe (trnF) gene, complete sequence; and 12S ribosomal RNA
+            gene, partial sequence; mitochondrial.
+ACCESSION   HM229299 REGION: 1
+VERSION     HM229299.1
+KEYWORDS    .
+SOURCE      mitochondrion Oncorhynchus mykiss (rainbow trout)
+  ORGANISM  Oncorhynchus mykiss
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Oncorhynchus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Brunelli,J.P., Steele,C.A. and Thorgaard,G.H.
+  TITLE     Deep divergence and apparent sex-biased dispersal revealed by a
+            Y-linked marker in rainbow trout
+  JOURNAL   Mol. Phylogenet. Evol. 56 (3), 983-990 (2010)
+   PUBMED   20546904
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Brunelli,J.P., Steele,C.A. and Thorgaard,G.H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-MAY-2010) School of Biological Sciences, Washington
+            State University, College Ave. Heald Hall, Pullman, WA 99164-4236,
+            USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oncorhynchus mykiss"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8022"
+                     /haplotype="MYS01G"
+                     /PCR_primers="fwd_seq: ccactctttacgccggtag, rev_seq:
+                     actcttattgatggtcaggggcag"
+     D-loop          <1..>1
+ORIGIN      
+        1 t
+//
+
+LOCUS       HM229300                   1 bp    DNA     linear   VRT 30-JUN-2010
+DEFINITION  Oncorhynchus mykiss haplotype MYS01H D-loop, partial sequence;
+            tRNA-Phe (trnF) gene, complete sequence; and 12S ribosomal RNA
+            gene, partial sequence; mitochondrial.
+ACCESSION   HM229300 REGION: 1
+VERSION     HM229300.1
+KEYWORDS    .
+SOURCE      mitochondrion Oncorhynchus mykiss (rainbow trout)
+  ORGANISM  Oncorhynchus mykiss
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Oncorhynchus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Brunelli,J.P., Steele,C.A. and Thorgaard,G.H.
+  TITLE     Deep divergence and apparent sex-biased dispersal revealed by a
+            Y-linked marker in rainbow trout
+  JOURNAL   Mol. Phylogenet. Evol. 56 (3), 983-990 (2010)
+   PUBMED   20546904
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Brunelli,J.P., Steele,C.A. and Thorgaard,G.H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-MAY-2010) School of Biological Sciences, Washington
+            State University, College Ave. Heald Hall, Pullman, WA 99164-4236,
+            USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oncorhynchus mykiss"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8022"
+                     /haplotype="MYS01H"
+                     /PCR_primers="fwd_seq: ccactctttacgccggtag, rev_seq:
+                     actcttattgatggtcaggggcag"
+     D-loop          <1..>1
+ORIGIN      
+        1 t
+//
+
+LOCUS       HM229301                   1 bp    DNA     linear   VRT 30-JUN-2010
+DEFINITION  Oncorhynchus mykiss haplotype MYS01I D-loop, partial sequence;
+            tRNA-Phe (trnF) gene, complete sequence; and 12S ribosomal RNA
+            gene, partial sequence; mitochondrial.
+ACCESSION   HM229301 REGION: 1
+VERSION     HM229301.1
+KEYWORDS    .
+SOURCE      mitochondrion Oncorhynchus mykiss (rainbow trout)
+  ORGANISM  Oncorhynchus mykiss
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Oncorhynchus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Brunelli,J.P., Steele,C.A. and Thorgaard,G.H.
+  TITLE     Deep divergence and apparent sex-biased dispersal revealed by a
+            Y-linked marker in rainbow trout
+  JOURNAL   Mol. Phylogenet. Evol. 56 (3), 983-990 (2010)
+   PUBMED   20546904
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Brunelli,J.P., Steele,C.A. and Thorgaard,G.H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-MAY-2010) School of Biological Sciences, Washington
+            State University, College Ave. Heald Hall, Pullman, WA 99164-4236,
+            USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oncorhynchus mykiss"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8022"
+                     /haplotype="MYS01I"
+                     /PCR_primers="fwd_seq: ccactctttacgccggtag, rev_seq:
+                     actcttattgatggtcaggggcag"
+     D-loop          <1..>1
+ORIGIN      
+        1 t
+//
+
+LOCUS       HM229302                   1 bp    DNA     linear   VRT 30-JUN-2010
+DEFINITION  Oncorhynchus mykiss haplotype MYS01J D-loop, partial sequence;
+            tRNA-Phe (trnF) gene, complete sequence; and 12S ribosomal RNA
+            gene, partial sequence; mitochondrial.
+ACCESSION   HM229302 REGION: 1
+VERSION     HM229302.1
+KEYWORDS    .
+SOURCE      mitochondrion Oncorhynchus mykiss (rainbow trout)
+  ORGANISM  Oncorhynchus mykiss
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Oncorhynchus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Brunelli,J.P., Steele,C.A. and Thorgaard,G.H.
+  TITLE     Deep divergence and apparent sex-biased dispersal revealed by a
+            Y-linked marker in rainbow trout
+  JOURNAL   Mol. Phylogenet. Evol. 56 (3), 983-990 (2010)
+   PUBMED   20546904
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Brunelli,J.P., Steele,C.A. and Thorgaard,G.H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-MAY-2010) School of Biological Sciences, Washington
+            State University, College Ave. Heald Hall, Pullman, WA 99164-4236,
+            USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oncorhynchus mykiss"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8022"
+                     /haplotype="MYS01J"
+                     /PCR_primers="fwd_seq: ccactctttacgccggtag, rev_seq:
+                     actcttattgatggtcaggggcag"
+     D-loop          <1..>1
+ORIGIN      
+        1 t
+//
+
+LOCUS       HM229303                   1 bp    DNA     linear   VRT 30-JUN-2010
+DEFINITION  Oncorhynchus mykiss haplotype MYS01K D-loop, partial sequence;
+            tRNA-Phe (trnF) gene, complete sequence; and 12S ribosomal RNA
+            gene, partial sequence; mitochondrial.
+ACCESSION   HM229303 REGION: 1
+VERSION     HM229303.1
+KEYWORDS    .
+SOURCE      mitochondrion Oncorhynchus mykiss (rainbow trout)
+  ORGANISM  Oncorhynchus mykiss
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Oncorhynchus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Brunelli,J.P., Steele,C.A. and Thorgaard,G.H.
+  TITLE     Deep divergence and apparent sex-biased dispersal revealed by a
+            Y-linked marker in rainbow trout
+  JOURNAL   Mol. Phylogenet. Evol. 56 (3), 983-990 (2010)
+   PUBMED   20546904
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Brunelli,J.P., Steele,C.A. and Thorgaard,G.H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-MAY-2010) School of Biological Sciences, Washington
+            State University, College Ave. Heald Hall, Pullman, WA 99164-4236,
+            USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oncorhynchus mykiss"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8022"
+                     /haplotype="MYS01K"
+                     /PCR_primers="fwd_seq: ccactctttacgccggtag, rev_seq:
+                     actcttattgatggtcaggggcag"
+     D-loop          <1..>1
+ORIGIN      
+        1 t
+//
+
+LOCUS       HM229304                   1 bp    DNA     linear   VRT 30-JUN-2010
+DEFINITION  Oncorhynchus mykiss haplotype MYS03A D-loop, partial sequence;
+            tRNA-Phe (trnF) gene, complete sequence; and 12S ribosomal RNA
+            gene, partial sequence; mitochondrial.
+ACCESSION   HM229304 REGION: 1
+VERSION     HM229304.1
+KEYWORDS    .
+SOURCE      mitochondrion Oncorhynchus mykiss (rainbow trout)
+  ORGANISM  Oncorhynchus mykiss
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Oncorhynchus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Brunelli,J.P., Steele,C.A. and Thorgaard,G.H.
+  TITLE     Deep divergence and apparent sex-biased dispersal revealed by a
+            Y-linked marker in rainbow trout
+  JOURNAL   Mol. Phylogenet. Evol. 56 (3), 983-990 (2010)
+   PUBMED   20546904
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Brunelli,J.P., Steele,C.A. and Thorgaard,G.H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-MAY-2010) School of Biological Sciences, Washington
+            State University, College Ave. Heald Hall, Pullman, WA 99164-4236,
+            USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oncorhynchus mykiss"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8022"
+                     /haplotype="MYS03A"
+                     /PCR_primers="fwd_seq: ccactctttacgccggtag, rev_seq:
+                     actcttattgatggtcaggggcag"
+     D-loop          <1..>1
+ORIGIN      
+        1 t
+//
+
+LOCUS       HM229305                   1 bp    DNA     linear   VRT 30-JUN-2010
+DEFINITION  Oncorhynchus mykiss haplotype MYS03B D-loop, partial sequence;
+            tRNA-Phe (trnF) gene, complete sequence; and 12S ribosomal RNA
+            gene, partial sequence; mitochondrial.
+ACCESSION   HM229305 REGION: 1
+VERSION     HM229305.1
+KEYWORDS    .
+SOURCE      mitochondrion Oncorhynchus mykiss (rainbow trout)
+  ORGANISM  Oncorhynchus mykiss
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Oncorhynchus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Brunelli,J.P., Steele,C.A. and Thorgaard,G.H.
+  TITLE     Deep divergence and apparent sex-biased dispersal revealed by a
+            Y-linked marker in rainbow trout
+  JOURNAL   Mol. Phylogenet. Evol. 56 (3), 983-990 (2010)
+   PUBMED   20546904
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Brunelli,J.P., Steele,C.A. and Thorgaard,G.H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-MAY-2010) School of Biological Sciences, Washington
+            State University, College Ave. Heald Hall, Pullman, WA 99164-4236,
+            USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oncorhynchus mykiss"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8022"
+                     /haplotype="MYS03B"
+                     /PCR_primers="fwd_seq: ccactctttacgccggtag, rev_seq:
+                     actcttattgatggtcaggggcag"
+     D-loop          <1..>1
+ORIGIN      
+        1 t
+//
+
+LOCUS       HM229306                   1 bp    DNA     linear   VRT 30-JUN-2010
+DEFINITION  Oncorhynchus mykiss haplotype MYS03C D-loop, partial sequence;
+            tRNA-Phe (trnF) gene, complete sequence; and 12S ribosomal RNA
+            gene, partial sequence; mitochondrial.
+ACCESSION   HM229306 REGION: 1
+VERSION     HM229306.1
+KEYWORDS    .
+SOURCE      mitochondrion Oncorhynchus mykiss (rainbow trout)
+  ORGANISM  Oncorhynchus mykiss
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Oncorhynchus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Brunelli,J.P., Steele,C.A. and Thorgaard,G.H.
+  TITLE     Deep divergence and apparent sex-biased dispersal revealed by a
+            Y-linked marker in rainbow trout
+  JOURNAL   Mol. Phylogenet. Evol. 56 (3), 983-990 (2010)
+   PUBMED   20546904
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Brunelli,J.P., Steele,C.A. and Thorgaard,G.H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-MAY-2010) School of Biological Sciences, Washington
+            State University, College Ave. Heald Hall, Pullman, WA 99164-4236,
+            USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oncorhynchus mykiss"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8022"
+                     /haplotype="MYS03C"
+                     /PCR_primers="fwd_seq: ccactctttacgccggtag, rev_seq:
+                     actcttattgatggtcaggggcag"
+     D-loop          <1..>1
+ORIGIN      
+        1 t
+//
+
+LOCUS       HM229307                   1 bp    DNA     linear   VRT 30-JUN-2010
+DEFINITION  Oncorhynchus mykiss haplotype MYS05 D-loop, partial sequence;
+            tRNA-Phe (trnF) gene, complete sequence; and 12S ribosomal RNA
+            gene, partial sequence; mitochondrial.
+ACCESSION   HM229307 REGION: 1
+VERSION     HM229307.1
+KEYWORDS    .
+SOURCE      mitochondrion Oncorhynchus mykiss (rainbow trout)
+  ORGANISM  Oncorhynchus mykiss
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Oncorhynchus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Brunelli,J.P., Steele,C.A. and Thorgaard,G.H.
+  TITLE     Deep divergence and apparent sex-biased dispersal revealed by a
+            Y-linked marker in rainbow trout
+  JOURNAL   Mol. Phylogenet. Evol. 56 (3), 983-990 (2010)
+   PUBMED   20546904
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Brunelli,J.P., Steele,C.A. and Thorgaard,G.H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-MAY-2010) School of Biological Sciences, Washington
+            State University, College Ave. Heald Hall, Pullman, WA 99164-4236,
+            USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oncorhynchus mykiss"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8022"
+                     /haplotype="MYS05"
+                     /PCR_primers="fwd_seq: ccactctttacgccggtag, rev_seq:
+                     actcttattgatggtcaggggcag"
+     D-loop          <1..>1
+ORIGIN      
+        1 t
+//
+
+LOCUS       HM229308                   1 bp    DNA     linear   VRT 30-JUN-2010
+DEFINITION  Oncorhynchus mykiss haplotype MYS08 D-loop, partial sequence;
+            tRNA-Phe (trnF) gene, complete sequence; and 12S ribosomal RNA
+            gene, partial sequence; mitochondrial.
+ACCESSION   HM229308 REGION: 1
+VERSION     HM229308.1
+KEYWORDS    .
+SOURCE      mitochondrion Oncorhynchus mykiss (rainbow trout)
+  ORGANISM  Oncorhynchus mykiss
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Oncorhynchus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Brunelli,J.P., Steele,C.A. and Thorgaard,G.H.
+  TITLE     Deep divergence and apparent sex-biased dispersal revealed by a
+            Y-linked marker in rainbow trout
+  JOURNAL   Mol. Phylogenet. Evol. 56 (3), 983-990 (2010)
+   PUBMED   20546904
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Brunelli,J.P., Steele,C.A. and Thorgaard,G.H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-MAY-2010) School of Biological Sciences, Washington
+            State University, College Ave. Heald Hall, Pullman, WA 99164-4236,
+            USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oncorhynchus mykiss"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8022"
+                     /haplotype="MYS08"
+                     /PCR_primers="fwd_seq: ccactctttacgccggtag, rev_seq:
+                     actcttattgatggtcaggggcag"
+     D-loop          <1..>1
+ORIGIN      
+        1 t
+//
+
+LOCUS       HM229309                   1 bp    DNA     linear   VRT 30-JUN-2010
+DEFINITION  Oncorhynchus mykiss haplotype MYS09 D-loop, partial sequence;
+            tRNA-Phe (trnF) gene, complete sequence; and 12S ribosomal RNA
+            gene, partial sequence; mitochondrial.
+ACCESSION   HM229309 REGION: 1
+VERSION     HM229309.1
+KEYWORDS    .
+SOURCE      mitochondrion Oncorhynchus mykiss (rainbow trout)
+  ORGANISM  Oncorhynchus mykiss
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Oncorhynchus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Brunelli,J.P., Steele,C.A. and Thorgaard,G.H.
+  TITLE     Deep divergence and apparent sex-biased dispersal revealed by a
+            Y-linked marker in rainbow trout
+  JOURNAL   Mol. Phylogenet. Evol. 56 (3), 983-990 (2010)
+   PUBMED   20546904
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Brunelli,J.P., Steele,C.A. and Thorgaard,G.H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-MAY-2010) School of Biological Sciences, Washington
+            State University, College Ave. Heald Hall, Pullman, WA 99164-4236,
+            USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oncorhynchus mykiss"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8022"
+                     /haplotype="MYS09"
+                     /PCR_primers="fwd_seq: ccactctttacgccggtag, rev_seq:
+                     actcttattgatggtcaggggcag"
+     D-loop          <1..>1
+ORIGIN      
+        1 t
+//
+
+LOCUS       HM229310                   1 bp    DNA     linear   VRT 30-JUN-2010
+DEFINITION  Oncorhynchus mykiss haplotype MYS10 D-loop, partial sequence;
+            tRNA-Phe (trnF) gene, complete sequence; and 12S ribosomal RNA
+            gene, partial sequence; mitochondrial.
+ACCESSION   HM229310 REGION: 1
+VERSION     HM229310.1
+KEYWORDS    .
+SOURCE      mitochondrion Oncorhynchus mykiss (rainbow trout)
+  ORGANISM  Oncorhynchus mykiss
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Oncorhynchus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Brunelli,J.P., Steele,C.A. and Thorgaard,G.H.
+  TITLE     Deep divergence and apparent sex-biased dispersal revealed by a
+            Y-linked marker in rainbow trout
+  JOURNAL   Mol. Phylogenet. Evol. 56 (3), 983-990 (2010)
+   PUBMED   20546904
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Brunelli,J.P., Steele,C.A. and Thorgaard,G.H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-MAY-2010) School of Biological Sciences, Washington
+            State University, College Ave. Heald Hall, Pullman, WA 99164-4236,
+            USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oncorhynchus mykiss"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8022"
+                     /haplotype="MYS10"
+                     /PCR_primers="fwd_seq: ccactctttacgccggtag, rev_seq:
+                     actcttattgatggtcaggggcag"
+     D-loop          <1..>1
+ORIGIN      
+        1 t
+//
+
+LOCUS       HM229311                   1 bp    DNA     linear   VRT 30-JUN-2010
+DEFINITION  Oncorhynchus mykiss haplotype MYS12A D-loop, partial sequence;
+            tRNA-Phe (trnF) gene, complete sequence; and 12S ribosomal RNA
+            gene, partial sequence; mitochondrial.
+ACCESSION   HM229311 REGION: 1
+VERSION     HM229311.1
+KEYWORDS    .
+SOURCE      mitochondrion Oncorhynchus mykiss (rainbow trout)
+  ORGANISM  Oncorhynchus mykiss
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Oncorhynchus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Brunelli,J.P., Steele,C.A. and Thorgaard,G.H.
+  TITLE     Deep divergence and apparent sex-biased dispersal revealed by a
+            Y-linked marker in rainbow trout
+  JOURNAL   Mol. Phylogenet. Evol. 56 (3), 983-990 (2010)
+   PUBMED   20546904
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Brunelli,J.P., Steele,C.A. and Thorgaard,G.H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-MAY-2010) School of Biological Sciences, Washington
+            State University, College Ave. Heald Hall, Pullman, WA 99164-4236,
+            USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oncorhynchus mykiss"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8022"
+                     /haplotype="MYS12A"
+                     /PCR_primers="fwd_seq: ccactctttacgccggtag, rev_seq:
+                     actcttattgatggtcaggggcag"
+     D-loop          <1..>1
+ORIGIN      
+        1 t
+//
+
+LOCUS       HM229312                   1 bp    DNA     linear   VRT 30-JUN-2010
+DEFINITION  Oncorhynchus mykiss haplotype MYS12B D-loop, partial sequence;
+            tRNA-Phe (trnF) gene, complete sequence; and 12S ribosomal RNA
+            gene, partial sequence; mitochondrial.
+ACCESSION   HM229312 REGION: 1
+VERSION     HM229312.1
+KEYWORDS    .
+SOURCE      mitochondrion Oncorhynchus mykiss (rainbow trout)
+  ORGANISM  Oncorhynchus mykiss
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Oncorhynchus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Brunelli,J.P., Steele,C.A. and Thorgaard,G.H.
+  TITLE     Deep divergence and apparent sex-biased dispersal revealed by a
+            Y-linked marker in rainbow trout
+  JOURNAL   Mol. Phylogenet. Evol. 56 (3), 983-990 (2010)
+   PUBMED   20546904
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Brunelli,J.P., Steele,C.A. and Thorgaard,G.H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-MAY-2010) School of Biological Sciences, Washington
+            State University, College Ave. Heald Hall, Pullman, WA 99164-4236,
+            USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oncorhynchus mykiss"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8022"
+                     /haplotype="MYS12B"
+                     /PCR_primers="fwd_seq: ccactctttacgccggtag, rev_seq:
+                     actcttattgatggtcaggggcag"
+     D-loop          <1..>1
+ORIGIN      
+        1 t
+//
+
+LOCUS       HM229313                   1 bp    DNA     linear   VRT 30-JUN-2010
+DEFINITION  Oncorhynchus mykiss haplotype MYS12C D-loop, partial sequence;
+            tRNA-Phe (trnF) gene, complete sequence; and 12S ribosomal RNA
+            gene, partial sequence; mitochondrial.
+ACCESSION   HM229313 REGION: 1
+VERSION     HM229313.1
+KEYWORDS    .
+SOURCE      mitochondrion Oncorhynchus mykiss (rainbow trout)
+  ORGANISM  Oncorhynchus mykiss
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Oncorhynchus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Brunelli,J.P., Steele,C.A. and Thorgaard,G.H.
+  TITLE     Deep divergence and apparent sex-biased dispersal revealed by a
+            Y-linked marker in rainbow trout
+  JOURNAL   Mol. Phylogenet. Evol. 56 (3), 983-990 (2010)
+   PUBMED   20546904
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Brunelli,J.P., Steele,C.A. and Thorgaard,G.H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-MAY-2010) School of Biological Sciences, Washington
+            State University, College Ave. Heald Hall, Pullman, WA 99164-4236,
+            USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oncorhynchus mykiss"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8022"
+                     /haplotype="MYS12C"
+                     /PCR_primers="fwd_seq: ccactctttacgccggtag, rev_seq:
+                     actcttattgatggtcaggggcag"
+     D-loop          <1..>1
+ORIGIN      
+        1 t
+//
+
+LOCUS       HM229314                   1 bp    DNA     linear   VRT 30-JUN-2010
+DEFINITION  Oncorhynchus mykiss haplotype MYS12D D-loop, partial sequence;
+            tRNA-Phe (trnF) gene, complete sequence; and 12S ribosomal RNA
+            gene, partial sequence; mitochondrial.
+ACCESSION   HM229314 REGION: 1
+VERSION     HM229314.1
+KEYWORDS    .
+SOURCE      mitochondrion Oncorhynchus mykiss (rainbow trout)
+  ORGANISM  Oncorhynchus mykiss
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Oncorhynchus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Brunelli,J.P., Steele,C.A. and Thorgaard,G.H.
+  TITLE     Deep divergence and apparent sex-biased dispersal revealed by a
+            Y-linked marker in rainbow trout
+  JOURNAL   Mol. Phylogenet. Evol. 56 (3), 983-990 (2010)
+   PUBMED   20546904
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Brunelli,J.P., Steele,C.A. and Thorgaard,G.H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-MAY-2010) School of Biological Sciences, Washington
+            State University, College Ave. Heald Hall, Pullman, WA 99164-4236,
+            USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oncorhynchus mykiss"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8022"
+                     /haplotype="MYS12D"
+                     /PCR_primers="fwd_seq: ccactctttacgccggtag, rev_seq:
+                     actcttattgatggtcaggggcag"
+     D-loop          <1..>1
+ORIGIN      
+        1 t
+//
+
+LOCUS       HM229315                   1 bp    DNA     linear   VRT 30-JUN-2010
+DEFINITION  Oncorhynchus mykiss haplotype MYS12E D-loop, partial sequence;
+            tRNA-Phe (trnF) gene, complete sequence; and 12S ribosomal RNA
+            gene, partial sequence; mitochondrial.
+ACCESSION   HM229315 REGION: 1
+VERSION     HM229315.1
+KEYWORDS    .
+SOURCE      mitochondrion Oncorhynchus mykiss (rainbow trout)
+  ORGANISM  Oncorhynchus mykiss
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Oncorhynchus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Brunelli,J.P., Steele,C.A. and Thorgaard,G.H.
+  TITLE     Deep divergence and apparent sex-biased dispersal revealed by a
+            Y-linked marker in rainbow trout
+  JOURNAL   Mol. Phylogenet. Evol. 56 (3), 983-990 (2010)
+   PUBMED   20546904
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Brunelli,J.P., Steele,C.A. and Thorgaard,G.H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-MAY-2010) School of Biological Sciences, Washington
+            State University, College Ave. Heald Hall, Pullman, WA 99164-4236,
+            USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oncorhynchus mykiss"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8022"
+                     /haplotype="MYS12E"
+                     /PCR_primers="fwd_seq: ccactctttacgccggtag, rev_seq:
+                     actcttattgatggtcaggggcag"
+     D-loop          <1..>1
+ORIGIN      
+        1 t
+//
+
+LOCUS       HM229316                   1 bp    DNA     linear   VRT 30-JUN-2010
+DEFINITION  Oncorhynchus mykiss haplotype MYS21 D-loop, partial sequence;
+            tRNA-Phe (trnF) gene, complete sequence; and 12S ribosomal RNA
+            gene, partial sequence; mitochondrial.
+ACCESSION   HM229316 REGION: 1
+VERSION     HM229316.1
+KEYWORDS    .
+SOURCE      mitochondrion Oncorhynchus mykiss (rainbow trout)
+  ORGANISM  Oncorhynchus mykiss
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Oncorhynchus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Brunelli,J.P., Steele,C.A. and Thorgaard,G.H.
+  TITLE     Deep divergence and apparent sex-biased dispersal revealed by a
+            Y-linked marker in rainbow trout
+  JOURNAL   Mol. Phylogenet. Evol. 56 (3), 983-990 (2010)
+   PUBMED   20546904
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Brunelli,J.P., Steele,C.A. and Thorgaard,G.H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-MAY-2010) School of Biological Sciences, Washington
+            State University, College Ave. Heald Hall, Pullman, WA 99164-4236,
+            USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oncorhynchus mykiss"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8022"
+                     /haplotype="MYS21"
+                     /PCR_primers="fwd_seq: ccactctttacgccggtag, rev_seq:
+                     actcttattgatggtcaggggcag"
+     D-loop          <1..>1
+ORIGIN      
+        1 t
+//
+
+LOCUS       HM229317                   1 bp    DNA     linear   VRT 30-JUN-2010
+DEFINITION  Oncorhynchus mykiss haplotype MYS22 D-loop, partial sequence;
+            tRNA-Phe (trnF) gene, complete sequence; and 12S ribosomal RNA
+            gene, partial sequence; mitochondrial.
+ACCESSION   HM229317 REGION: 1
+VERSION     HM229317.1
+KEYWORDS    .
+SOURCE      mitochondrion Oncorhynchus mykiss (rainbow trout)
+  ORGANISM  Oncorhynchus mykiss
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Oncorhynchus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Brunelli,J.P., Steele,C.A. and Thorgaard,G.H.
+  TITLE     Deep divergence and apparent sex-biased dispersal revealed by a
+            Y-linked marker in rainbow trout
+  JOURNAL   Mol. Phylogenet. Evol. 56 (3), 983-990 (2010)
+   PUBMED   20546904
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Brunelli,J.P., Steele,C.A. and Thorgaard,G.H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-MAY-2010) School of Biological Sciences, Washington
+            State University, College Ave. Heald Hall, Pullman, WA 99164-4236,
+            USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oncorhynchus mykiss"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8022"
+                     /haplotype="MYS22"
+                     /PCR_primers="fwd_seq: ccactctttacgccggtag, rev_seq:
+                     actcttattgatggtcaggggcag"
+     D-loop          <1..>1
+ORIGIN      
+        1 t
+//
+
+LOCUS       HM229318                   1 bp    DNA     linear   VRT 30-JUN-2010
+DEFINITION  Oncorhynchus mykiss haplotype MYS25 D-loop, partial sequence;
+            tRNA-Phe (trnF) gene, complete sequence; and 12S ribosomal RNA
+            gene, partial sequence; mitochondrial.
+ACCESSION   HM229318 REGION: 1
+VERSION     HM229318.1
+KEYWORDS    .
+SOURCE      mitochondrion Oncorhynchus mykiss (rainbow trout)
+  ORGANISM  Oncorhynchus mykiss
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Oncorhynchus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Brunelli,J.P., Steele,C.A. and Thorgaard,G.H.
+  TITLE     Deep divergence and apparent sex-biased dispersal revealed by a
+            Y-linked marker in rainbow trout
+  JOURNAL   Mol. Phylogenet. Evol. 56 (3), 983-990 (2010)
+   PUBMED   20546904
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Brunelli,J.P., Steele,C.A. and Thorgaard,G.H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-MAY-2010) School of Biological Sciences, Washington
+            State University, College Ave. Heald Hall, Pullman, WA 99164-4236,
+            USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oncorhynchus mykiss"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8022"
+                     /haplotype="MYS25"
+                     /PCR_primers="fwd_seq: ccactctttacgccggtag, rev_seq:
+                     actcttattgatggtcaggggcag"
+     D-loop          <1..>1
+ORIGIN      
+        1 t
+//
+
+LOCUS       HM229319                   1 bp    DNA     linear   VRT 30-JUN-2010
+DEFINITION  Oncorhynchus mykiss haplotype MYS27 D-loop, partial sequence;
+            tRNA-Phe (trnF) gene, complete sequence; and 12S ribosomal RNA
+            gene, partial sequence; mitochondrial.
+ACCESSION   HM229319 REGION: 1
+VERSION     HM229319.1
+KEYWORDS    .
+SOURCE      mitochondrion Oncorhynchus mykiss (rainbow trout)
+  ORGANISM  Oncorhynchus mykiss
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Oncorhynchus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Brunelli,J.P., Steele,C.A. and Thorgaard,G.H.
+  TITLE     Deep divergence and apparent sex-biased dispersal revealed by a
+            Y-linked marker in rainbow trout
+  JOURNAL   Mol. Phylogenet. Evol. 56 (3), 983-990 (2010)
+   PUBMED   20546904
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Brunelli,J.P., Steele,C.A. and Thorgaard,G.H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-MAY-2010) School of Biological Sciences, Washington
+            State University, College Ave. Heald Hall, Pullman, WA 99164-4236,
+            USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oncorhynchus mykiss"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8022"
+                     /haplotype="MYS27"
+                     /PCR_primers="fwd_seq: ccactctttacgccggtag, rev_seq:
+                     actcttattgatggtcaggggcag"
+     D-loop          <1..>1
+ORIGIN      
+        1 t
+//
+
+LOCUS       HM229320                   1 bp    DNA     linear   VRT 30-JUN-2010
+DEFINITION  Oncorhynchus mykiss haplotype MYS28 D-loop, partial sequence;
+            tRNA-Phe (trnF) gene, complete sequence; and 12S ribosomal RNA
+            gene, partial sequence; mitochondrial.
+ACCESSION   HM229320 REGION: 1
+VERSION     HM229320.1
+KEYWORDS    .
+SOURCE      mitochondrion Oncorhynchus mykiss (rainbow trout)
+  ORGANISM  Oncorhynchus mykiss
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Oncorhynchus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Brunelli,J.P., Steele,C.A. and Thorgaard,G.H.
+  TITLE     Deep divergence and apparent sex-biased dispersal revealed by a
+            Y-linked marker in rainbow trout
+  JOURNAL   Mol. Phylogenet. Evol. 56 (3), 983-990 (2010)
+   PUBMED   20546904
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Brunelli,J.P., Steele,C.A. and Thorgaard,G.H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-MAY-2010) School of Biological Sciences, Washington
+            State University, College Ave. Heald Hall, Pullman, WA 99164-4236,
+            USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oncorhynchus mykiss"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8022"
+                     /haplotype="MYS28"
+                     /PCR_primers="fwd_seq: ccactctttacgccggtag, rev_seq:
+                     actcttattgatggtcaggggcag"
+     D-loop          <1..>1
+ORIGIN      
+        1 t
+//
+
+LOCUS       HM229322                   1 bp    DNA     linear   VRT 30-JUN-2010
+DEFINITION  Oncorhynchus mykiss haplotype NEW02 D-loop, partial sequence;
+            tRNA-Phe (trnF) gene, complete sequence; and 12S ribosomal RNA
+            gene, partial sequence; mitochondrial.
+ACCESSION   HM229322 REGION: 1
+VERSION     HM229322.1
+KEYWORDS    .
+SOURCE      mitochondrion Oncorhynchus mykiss (rainbow trout)
+  ORGANISM  Oncorhynchus mykiss
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Oncorhynchus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Brunelli,J.P., Steele,C.A. and Thorgaard,G.H.
+  TITLE     Deep divergence and apparent sex-biased dispersal revealed by a
+            Y-linked marker in rainbow trout
+  JOURNAL   Mol. Phylogenet. Evol. 56 (3), 983-990 (2010)
+   PUBMED   20546904
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Brunelli,J.P., Steele,C.A. and Thorgaard,G.H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-MAY-2010) School of Biological Sciences, Washington
+            State University, College Ave. Heald Hall, Pullman, WA 99164-4236,
+            USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oncorhynchus mykiss"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8022"
+                     /haplotype="NEW02"
+                     /PCR_primers="fwd_seq: ccactctttacgccggtag, rev_seq:
+                     actcttattgatggtcaggggcag"
+     D-loop          <1..>1
+ORIGIN      
+        1 t
+//
+
+LOCUS       HM229323                   1 bp    DNA     linear   VRT 30-JUN-2010
+DEFINITION  Oncorhynchus mykiss haplotype NEW03 D-loop, partial sequence;
+            tRNA-Phe (trnF) gene, complete sequence; and 12S ribosomal RNA
+            gene, partial sequence; mitochondrial.
+ACCESSION   HM229323 REGION: 1
+VERSION     HM229323.1
+KEYWORDS    .
+SOURCE      mitochondrion Oncorhynchus mykiss (rainbow trout)
+  ORGANISM  Oncorhynchus mykiss
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Oncorhynchus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Brunelli,J.P., Steele,C.A. and Thorgaard,G.H.
+  TITLE     Deep divergence and apparent sex-biased dispersal revealed by a
+            Y-linked marker in rainbow trout
+  JOURNAL   Mol. Phylogenet. Evol. 56 (3), 983-990 (2010)
+   PUBMED   20546904
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Brunelli,J.P., Steele,C.A. and Thorgaard,G.H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-MAY-2010) School of Biological Sciences, Washington
+            State University, College Ave. Heald Hall, Pullman, WA 99164-4236,
+            USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oncorhynchus mykiss"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8022"
+                     /haplotype="NEW03"
+                     /PCR_primers="fwd_seq: ccactctttacgccggtag, rev_seq:
+                     actcttattgatggtcaggggcag"
+     D-loop          <1..>1
+ORIGIN      
+        1 t
+//
+
+LOCUS       HM229324                   1 bp    DNA     linear   VRT 30-JUN-2010
+DEFINITION  Oncorhynchus mykiss haplotype NEW04 D-loop, partial sequence;
+            tRNA-Phe (trnF) gene, complete sequence; and 12S ribosomal RNA
+            gene, partial sequence; mitochondrial.
+ACCESSION   HM229324 REGION: 1
+VERSION     HM229324.1
+KEYWORDS    .
+SOURCE      mitochondrion Oncorhynchus mykiss (rainbow trout)
+  ORGANISM  Oncorhynchus mykiss
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Oncorhynchus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Brunelli,J.P., Steele,C.A. and Thorgaard,G.H.
+  TITLE     Deep divergence and apparent sex-biased dispersal revealed by a
+            Y-linked marker in rainbow trout
+  JOURNAL   Mol. Phylogenet. Evol. 56 (3), 983-990 (2010)
+   PUBMED   20546904
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Brunelli,J.P., Steele,C.A. and Thorgaard,G.H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-MAY-2010) School of Biological Sciences, Washington
+            State University, College Ave. Heald Hall, Pullman, WA 99164-4236,
+            USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oncorhynchus mykiss"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8022"
+                     /haplotype="NEW04"
+                     /PCR_primers="fwd_seq: ccactctttacgccggtag, rev_seq:
+                     actcttattgatggtcaggggcag"
+     D-loop          <1..>1
+ORIGIN      
+        1 t
+//
+

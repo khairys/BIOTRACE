@@ -1,0 +1,1780 @@
+LOCUS       EU489726                   1 bp    DNA     linear   VRT 28-FEB-2009
+DEFINITION  Oncorhynchus tshawytscha isolate TSA10 12S ribosomal RNA gene,
+            partial sequence; tRNA-Phe gene, complete sequence; and D-loop,
+            partial sequence; mitochondrial.
+ACCESSION   EU489726 REGION: 1
+VERSION     EU489726.1
+KEYWORDS    .
+SOURCE      mitochondrion Oncorhynchus tshawytscha (Chinook salmon)
+  ORGANISM  Oncorhynchus tshawytscha
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Oncorhynchus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Martin,K.E., Steele,C.A., Brunelli,J.P. and Thorgaard,G.H.
+  TITLE     Mitochondrial variation and implications for the biogeographic
+            history of North American Chinook salmon (Oncorhynchus tshawytscha)
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Martin,K.E., Steele,C.A., Brunelli,J.P. and Thorgaard,G.H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-FEB-2008) School of Biological Sciences, Washington
+            State University, PO Box 644236, Pullman, WA 99164-4236, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oncorhynchus tshawytscha"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="TSA10"
+                     /db_xref="taxon:74940"
+     rRNA            complement(<1..>1)
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 a
+//
+
+LOCUS       EU489727                   1 bp    DNA     linear   VRT 28-FEB-2009
+DEFINITION  Oncorhynchus tshawytscha isolate TSA1a 12S ribosomal RNA gene,
+            partial sequence; tRNA-Phe gene, complete sequence; and D-loop,
+            partial sequence; mitochondrial.
+ACCESSION   EU489727 REGION: 1
+VERSION     EU489727.1
+KEYWORDS    .
+SOURCE      mitochondrion Oncorhynchus tshawytscha (Chinook salmon)
+  ORGANISM  Oncorhynchus tshawytscha
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Oncorhynchus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Martin,K.E., Steele,C.A., Brunelli,J.P. and Thorgaard,G.H.
+  TITLE     Mitochondrial variation and implications for the biogeographic
+            history of North American Chinook salmon (Oncorhynchus tshawytscha)
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Martin,K.E., Steele,C.A., Brunelli,J.P. and Thorgaard,G.H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-FEB-2008) School of Biological Sciences, Washington
+            State University, PO Box 644236, Pullman, WA 99164-4236, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oncorhynchus tshawytscha"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="TSA1a"
+                     /db_xref="taxon:74940"
+     rRNA            complement(<1..>1)
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 a
+//
+
+LOCUS       EU489728                   1 bp    DNA     linear   VRT 28-FEB-2009
+DEFINITION  Oncorhynchus tshawytscha isolate TSA20 12S ribosomal RNA gene,
+            partial sequence; tRNA-Phe gene, complete sequence; and D-loop,
+            partial sequence; mitochondrial.
+ACCESSION   EU489728 REGION: 1
+VERSION     EU489728.1
+KEYWORDS    .
+SOURCE      mitochondrion Oncorhynchus tshawytscha (Chinook salmon)
+  ORGANISM  Oncorhynchus tshawytscha
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Oncorhynchus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Martin,K.E., Steele,C.A., Brunelli,J.P. and Thorgaard,G.H.
+  TITLE     Mitochondrial variation and implications for the biogeographic
+            history of North American Chinook salmon (Oncorhynchus tshawytscha)
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Martin,K.E., Steele,C.A., Brunelli,J.P. and Thorgaard,G.H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-FEB-2008) School of Biological Sciences, Washington
+            State University, PO Box 644236, Pullman, WA 99164-4236, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oncorhynchus tshawytscha"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="TSA20"
+                     /db_xref="taxon:74940"
+     rRNA            complement(<1..>1)
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 a
+//
+
+LOCUS       EU489729                   1 bp    DNA     linear   VRT 28-FEB-2009
+DEFINITION  Oncorhynchus tshawytscha isolate TSA1b 12S ribosomal RNA gene,
+            partial sequence; tRNA-Phe gene, complete sequence; and D-loop,
+            partial sequence; mitochondrial.
+ACCESSION   EU489729 REGION: 1
+VERSION     EU489729.1
+KEYWORDS    .
+SOURCE      mitochondrion Oncorhynchus tshawytscha (Chinook salmon)
+  ORGANISM  Oncorhynchus tshawytscha
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Oncorhynchus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Martin,K.E., Steele,C.A., Brunelli,J.P. and Thorgaard,G.H.
+  TITLE     Mitochondrial variation and implications for the biogeographic
+            history of North American Chinook salmon (Oncorhynchus tshawytscha)
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Martin,K.E., Steele,C.A., Brunelli,J.P. and Thorgaard,G.H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-FEB-2008) School of Biological Sciences, Washington
+            State University, PO Box 644236, Pullman, WA 99164-4236, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oncorhynchus tshawytscha"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="TSA1b"
+                     /db_xref="taxon:74940"
+     rRNA            complement(<1..>1)
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 a
+//
+
+LOCUS       EU489730                   1 bp    DNA     linear   VRT 28-FEB-2009
+DEFINITION  Oncorhynchus tshawytscha isolate TSA17 12S ribosomal RNA gene,
+            partial sequence; tRNA-Phe gene, complete sequence; and D-loop,
+            partial sequence; mitochondrial.
+ACCESSION   EU489730 REGION: 1
+VERSION     EU489730.1
+KEYWORDS    .
+SOURCE      mitochondrion Oncorhynchus tshawytscha (Chinook salmon)
+  ORGANISM  Oncorhynchus tshawytscha
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Oncorhynchus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Martin,K.E., Steele,C.A., Brunelli,J.P. and Thorgaard,G.H.
+  TITLE     Mitochondrial variation and implications for the biogeographic
+            history of North American Chinook salmon (Oncorhynchus tshawytscha)
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Martin,K.E., Steele,C.A., Brunelli,J.P. and Thorgaard,G.H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-FEB-2008) School of Biological Sciences, Washington
+            State University, PO Box 644236, Pullman, WA 99164-4236, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oncorhynchus tshawytscha"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="TSA17"
+                     /db_xref="taxon:74940"
+     rRNA            complement(<1..>1)
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 a
+//
+
+LOCUS       EU489731                   1 bp    DNA     linear   VRT 28-FEB-2009
+DEFINITION  Oncorhynchus tshawytscha isolate TSA19 12S ribosomal RNA gene,
+            partial sequence; tRNA-Phe gene, complete sequence; and D-loop,
+            partial sequence; mitochondrial.
+ACCESSION   EU489731 REGION: 1
+VERSION     EU489731.1
+KEYWORDS    .
+SOURCE      mitochondrion Oncorhynchus tshawytscha (Chinook salmon)
+  ORGANISM  Oncorhynchus tshawytscha
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Oncorhynchus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Martin,K.E., Steele,C.A., Brunelli,J.P. and Thorgaard,G.H.
+  TITLE     Mitochondrial variation and implications for the biogeographic
+            history of North American Chinook salmon (Oncorhynchus tshawytscha)
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Martin,K.E., Steele,C.A., Brunelli,J.P. and Thorgaard,G.H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-FEB-2008) School of Biological Sciences, Washington
+            State University, PO Box 644236, Pullman, WA 99164-4236, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oncorhynchus tshawytscha"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="TSA19"
+                     /db_xref="taxon:74940"
+     rRNA            complement(<1..>1)
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 a
+//
+
+LOCUS       EU489732                   1 bp    DNA     linear   VRT 28-FEB-2009
+DEFINITION  Oncorhynchus tshawytscha isolate TSA4a 12S ribosomal RNA gene,
+            partial sequence; tRNA-Phe gene, complete sequence; and D-loop,
+            partial sequence; mitochondrial.
+ACCESSION   EU489732 REGION: 1
+VERSION     EU489732.1
+KEYWORDS    .
+SOURCE      mitochondrion Oncorhynchus tshawytscha (Chinook salmon)
+  ORGANISM  Oncorhynchus tshawytscha
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Oncorhynchus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Martin,K.E., Steele,C.A., Brunelli,J.P. and Thorgaard,G.H.
+  TITLE     Mitochondrial variation and implications for the biogeographic
+            history of North American Chinook salmon (Oncorhynchus tshawytscha)
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Martin,K.E., Steele,C.A., Brunelli,J.P. and Thorgaard,G.H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-FEB-2008) School of Biological Sciences, Washington
+            State University, PO Box 644236, Pullman, WA 99164-4236, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oncorhynchus tshawytscha"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="TSA4a"
+                     /db_xref="taxon:74940"
+     rRNA            complement(<1..>1)
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 a
+//
+
+LOCUS       EU489733                   1 bp    DNA     linear   VRT 28-FEB-2009
+DEFINITION  Oncorhynchus tshawytscha isolate TSA21 12S ribosomal RNA gene,
+            partial sequence; tRNA-Phe gene, complete sequence; and D-loop,
+            partial sequence; mitochondrial.
+ACCESSION   EU489733 REGION: 1
+VERSION     EU489733.1
+KEYWORDS    .
+SOURCE      mitochondrion Oncorhynchus tshawytscha (Chinook salmon)
+  ORGANISM  Oncorhynchus tshawytscha
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Oncorhynchus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Martin,K.E., Steele,C.A., Brunelli,J.P. and Thorgaard,G.H.
+  TITLE     Mitochondrial variation and implications for the biogeographic
+            history of North American Chinook salmon (Oncorhynchus tshawytscha)
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Martin,K.E., Steele,C.A., Brunelli,J.P. and Thorgaard,G.H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-FEB-2008) School of Biological Sciences, Washington
+            State University, PO Box 644236, Pullman, WA 99164-4236, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oncorhynchus tshawytscha"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="TSA21"
+                     /db_xref="taxon:74940"
+     rRNA            complement(<1..>1)
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 a
+//
+
+LOCUS       EU489734                   1 bp    DNA     linear   VRT 28-FEB-2009
+DEFINITION  Oncorhynchus tshawytscha isolate TSA16 12S ribosomal RNA gene,
+            partial sequence; tRNA-Phe gene, complete sequence; and D-loop,
+            partial sequence; mitochondrial.
+ACCESSION   EU489734 REGION: 1
+VERSION     EU489734.1
+KEYWORDS    .
+SOURCE      mitochondrion Oncorhynchus tshawytscha (Chinook salmon)
+  ORGANISM  Oncorhynchus tshawytscha
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Oncorhynchus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Martin,K.E., Steele,C.A., Brunelli,J.P. and Thorgaard,G.H.
+  TITLE     Mitochondrial variation and implications for the biogeographic
+            history of North American Chinook salmon (Oncorhynchus tshawytscha)
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Martin,K.E., Steele,C.A., Brunelli,J.P. and Thorgaard,G.H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-FEB-2008) School of Biological Sciences, Washington
+            State University, PO Box 644236, Pullman, WA 99164-4236, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oncorhynchus tshawytscha"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="TSA16"
+                     /db_xref="taxon:74940"
+     rRNA            complement(<1..>1)
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 a
+//
+
+LOCUS       EU489735                   1 bp    DNA     linear   VRT 28-FEB-2009
+DEFINITION  Oncorhynchus tshawytscha isolate TSA2a 12S ribosomal RNA gene,
+            partial sequence; tRNA-Phe gene, complete sequence; and D-loop,
+            partial sequence; mitochondrial.
+ACCESSION   EU489735 REGION: 1
+VERSION     EU489735.1
+KEYWORDS    .
+SOURCE      mitochondrion Oncorhynchus tshawytscha (Chinook salmon)
+  ORGANISM  Oncorhynchus tshawytscha
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Oncorhynchus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Martin,K.E., Steele,C.A., Brunelli,J.P. and Thorgaard,G.H.
+  TITLE     Mitochondrial variation and implications for the biogeographic
+            history of North American Chinook salmon (Oncorhynchus tshawytscha)
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Martin,K.E., Steele,C.A., Brunelli,J.P. and Thorgaard,G.H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-FEB-2008) School of Biological Sciences, Washington
+            State University, PO Box 644236, Pullman, WA 99164-4236, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oncorhynchus tshawytscha"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="TSA2a"
+                     /db_xref="taxon:74940"
+     rRNA            complement(<1..>1)
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 a
+//
+
+LOCUS       EU489736                   1 bp    DNA     linear   VRT 28-FEB-2009
+DEFINITION  Oncorhynchus tshawytscha isolate TSA15 12S ribosomal RNA gene,
+            partial sequence; tRNA-Phe gene, complete sequence; and D-loop,
+            partial sequence; mitochondrial.
+ACCESSION   EU489736 REGION: 1
+VERSION     EU489736.1
+KEYWORDS    .
+SOURCE      mitochondrion Oncorhynchus tshawytscha (Chinook salmon)
+  ORGANISM  Oncorhynchus tshawytscha
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Oncorhynchus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Martin,K.E., Steele,C.A., Brunelli,J.P. and Thorgaard,G.H.
+  TITLE     Mitochondrial variation and implications for the biogeographic
+            history of North American Chinook salmon (Oncorhynchus tshawytscha)
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Martin,K.E., Steele,C.A., Brunelli,J.P. and Thorgaard,G.H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-FEB-2008) School of Biological Sciences, Washington
+            State University, PO Box 644236, Pullman, WA 99164-4236, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oncorhynchus tshawytscha"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="TSA15"
+                     /db_xref="taxon:74940"
+     rRNA            complement(<1..>1)
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 a
+//
+
+LOCUS       EU489737                   1 bp    DNA     linear   VRT 28-FEB-2009
+DEFINITION  Oncorhynchus tshawytscha isolate TSA13 12S ribosomal RNA gene,
+            partial sequence; tRNA-Phe gene, complete sequence; and D-loop,
+            partial sequence; mitochondrial.
+ACCESSION   EU489737 REGION: 1
+VERSION     EU489737.1
+KEYWORDS    .
+SOURCE      mitochondrion Oncorhynchus tshawytscha (Chinook salmon)
+  ORGANISM  Oncorhynchus tshawytscha
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Oncorhynchus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Martin,K.E., Steele,C.A., Brunelli,J.P. and Thorgaard,G.H.
+  TITLE     Mitochondrial variation and implications for the biogeographic
+            history of North American Chinook salmon (Oncorhynchus tshawytscha)
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Martin,K.E., Steele,C.A., Brunelli,J.P. and Thorgaard,G.H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-FEB-2008) School of Biological Sciences, Washington
+            State University, PO Box 644236, Pullman, WA 99164-4236, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oncorhynchus tshawytscha"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="TSA13"
+                     /db_xref="taxon:74940"
+     rRNA            complement(<1..>1)
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 a
+//
+
+LOCUS       EU489738                   1 bp    DNA     linear   VRT 28-FEB-2009
+DEFINITION  Oncorhynchus tshawytscha isolate TSA11 12S ribosomal RNA gene,
+            partial sequence; tRNA-Phe gene, complete sequence; and D-loop,
+            partial sequence; mitochondrial.
+ACCESSION   EU489738 REGION: 1
+VERSION     EU489738.1
+KEYWORDS    .
+SOURCE      mitochondrion Oncorhynchus tshawytscha (Chinook salmon)
+  ORGANISM  Oncorhynchus tshawytscha
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Oncorhynchus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Martin,K.E., Steele,C.A., Brunelli,J.P. and Thorgaard,G.H.
+  TITLE     Mitochondrial variation and implications for the biogeographic
+            history of North American Chinook salmon (Oncorhynchus tshawytscha)
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Martin,K.E., Steele,C.A., Brunelli,J.P. and Thorgaard,G.H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-FEB-2008) School of Biological Sciences, Washington
+            State University, PO Box 644236, Pullman, WA 99164-4236, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oncorhynchus tshawytscha"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="TSA11"
+                     /db_xref="taxon:74940"
+     rRNA            complement(<1..>1)
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 a
+//
+
+LOCUS       EU489739                   1 bp    DNA     linear   VRT 28-FEB-2009
+DEFINITION  Oncorhynchus tshawytscha isolate TSA18 12S ribosomal RNA gene,
+            partial sequence; tRNA-Phe gene, complete sequence; and D-loop,
+            partial sequence; mitochondrial.
+ACCESSION   EU489739 REGION: 1
+VERSION     EU489739.1
+KEYWORDS    .
+SOURCE      mitochondrion Oncorhynchus tshawytscha (Chinook salmon)
+  ORGANISM  Oncorhynchus tshawytscha
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Oncorhynchus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Martin,K.E., Steele,C.A., Brunelli,J.P. and Thorgaard,G.H.
+  TITLE     Mitochondrial variation and implications for the biogeographic
+            history of North American Chinook salmon (Oncorhynchus tshawytscha)
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Martin,K.E., Steele,C.A., Brunelli,J.P. and Thorgaard,G.H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-FEB-2008) School of Biological Sciences, Washington
+            State University, PO Box 644236, Pullman, WA 99164-4236, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oncorhynchus tshawytscha"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="TSA18"
+                     /db_xref="taxon:74940"
+     rRNA            complement(<1..>1)
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 a
+//
+
+LOCUS       EU552665                   1 bp    DNA     linear   VRT 26-APR-2008
+DEFINITION  Dorosoma cepedianum voucher H58 12S ribosomal RNA gene, partial
+            sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA
+            gene, partial sequence; mitochondrial.
+ACCESSION   EU552665 REGION: 1
+VERSION     EU552665.1
+KEYWORDS    .
+SOURCE      mitochondrion Dorosoma cepedianum (American gizzard shad)
+  ORGANISM  Dorosoma cepedianum
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Clupei; Clupeiformes;
+            Clupeoidei; Clupeidae; Dorosoma.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Wilson,A.B., Teugels,G.G. and Meyer,A.
+  TITLE     Marine incursion: the freshwater herring of Lake Tanganyika are the
+            product of a marine invasion into west Africa
+  JOURNAL   PLoS ONE 3 (4), E1979 (2008)
+   PUBMED   18431469
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Wilson,A.B., Teugels,G.G. and Meyer,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-MAR-2008) Zoological Museum, University of Zurich,
+            Winterthurerstrasse 190, Zurich 8057, Switzerland
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Dorosoma cepedianum"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="H58"
+                     /db_xref="taxon:336262"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       EU552666                   1 bp    DNA     linear   VRT 26-APR-2008
+DEFINITION  Dorosoma cepedianum voucher H59 12S ribosomal RNA gene, partial
+            sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA
+            gene, partial sequence; mitochondrial.
+ACCESSION   EU552666 REGION: 1
+VERSION     EU552666.1
+KEYWORDS    .
+SOURCE      mitochondrion Dorosoma cepedianum (American gizzard shad)
+  ORGANISM  Dorosoma cepedianum
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Clupei; Clupeiformes;
+            Clupeoidei; Clupeidae; Dorosoma.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Wilson,A.B., Teugels,G.G. and Meyer,A.
+  TITLE     Marine incursion: the freshwater herring of Lake Tanganyika are the
+            product of a marine invasion into west Africa
+  JOURNAL   PLoS ONE 3 (4), E1979 (2008)
+   PUBMED   18431469
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Wilson,A.B., Teugels,G.G. and Meyer,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-MAR-2008) Zoological Museum, University of Zurich,
+            Winterthurerstrasse 190, Zurich 8057, Switzerland
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Dorosoma cepedianum"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="H59"
+                     /db_xref="taxon:336262"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 a
+//
+
+LOCUS       EU552667                   1 bp    DNA     linear   VRT 26-APR-2008
+DEFINITION  Dorosoma cepedianum voucher H60 12S ribosomal RNA gene, partial
+            sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA
+            gene, partial sequence; mitochondrial.
+ACCESSION   EU552667 REGION: 1
+VERSION     EU552667.1
+KEYWORDS    .
+SOURCE      mitochondrion Dorosoma cepedianum (American gizzard shad)
+  ORGANISM  Dorosoma cepedianum
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Clupei; Clupeiformes;
+            Clupeoidei; Clupeidae; Dorosoma.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Wilson,A.B., Teugels,G.G. and Meyer,A.
+  TITLE     Marine incursion: the freshwater herring of Lake Tanganyika are the
+            product of a marine invasion into west Africa
+  JOURNAL   PLoS ONE 3 (4), E1979 (2008)
+   PUBMED   18431469
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Wilson,A.B., Teugels,G.G. and Meyer,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-MAR-2008) Zoological Museum, University of Zurich,
+            Winterthurerstrasse 190, Zurich 8057, Switzerland
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Dorosoma cepedianum"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="H60"
+                     /db_xref="taxon:336262"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 t
+//
+
+LOCUS       EU552696                   1 bp    DNA     linear   VRT 26-APR-2008
+DEFINITION  Alosa aestivalis voucher H93 12S ribosomal RNA gene, partial
+            sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA
+            gene, partial sequence; mitochondrial.
+ACCESSION   EU552696 REGION: 1
+VERSION     EU552696.1
+KEYWORDS    .
+SOURCE      mitochondrion Alosa aestivalis (blueback shad)
+  ORGANISM  Alosa aestivalis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Clupei; Clupeiformes;
+            Clupeoidei; Clupeidae; Alosa.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Wilson,A.B., Teugels,G.G. and Meyer,A.
+  TITLE     Marine incursion: the freshwater herring of Lake Tanganyika are the
+            product of a marine invasion into west Africa
+  JOURNAL   PLoS ONE 3 (4), E1979 (2008)
+   PUBMED   18431469
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Wilson,A.B., Teugels,G.G. and Meyer,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-MAR-2008) Zoological Museum, University of Zurich,
+            Winterthurerstrasse 190, Zurich 8057, Switzerland
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Alosa aestivalis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="H93"
+                     /db_xref="taxon:224703"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       EU552697                   1 bp    DNA     linear   VRT 26-APR-2008
+DEFINITION  Alosa sapidissima voucher H94 12S ribosomal RNA gene, partial
+            sequence; tRNA-Val gene, complete sequence; and 16S ribosomal RNA
+            gene, partial sequence; mitochondrial.
+ACCESSION   EU552697 REGION: 1
+VERSION     EU552697.1
+KEYWORDS    .
+SOURCE      mitochondrion Alosa sapidissima (American shad)
+  ORGANISM  Alosa sapidissima
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Clupei; Clupeiformes;
+            Clupeoidei; Clupeidae; Alosa.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Wilson,A.B., Teugels,G.G. and Meyer,A.
+  TITLE     Marine incursion: the freshwater herring of Lake Tanganyika are the
+            product of a marine invasion into west Africa
+  JOURNAL   PLoS ONE 3 (4), E1979 (2008)
+   PUBMED   18431469
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Wilson,A.B., Teugels,G.G. and Meyer,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-MAR-2008) Zoological Museum, University of Zurich,
+            Winterthurerstrasse 190, Zurich 8057, Switzerland
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Alosa sapidissima"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="H94"
+                     /db_xref="taxon:34773"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       EU621491                   1 bp    DNA     linear   VRT 30-DEC-2008
+DEFINITION  Osmerus mordax dentex isolate ODAK31 12S ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   EU621491 REGION: 1
+VERSION     EU621491.1
+KEYWORDS    .
+SOURCE      mitochondrion Osmerus mordax dentex (Osmerus dentex)
+  ORGANISM  Osmerus mordax dentex
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Stomiati; Osmeriformes;
+            Osmeridae; Osmerus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Ilves,K.L. and Taylor,E.B.
+  TITLE     Molecular resolution of the systematics of a problematic group of
+            fishes (Teleostei: Osmeridae) and evidence for morphological
+            homoplasy
+  JOURNAL   Mol. Phylogenet. Evol. 50 (1), 163-178 (2009)
+   PUBMED   19015040
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Ilves,K.L. and Taylor,E.B.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (04-APR-2008) Zoology, University of British Columbia,
+            6270 University Blvd., Vancouver, BC V6T1Z4, Canada
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Osmerus mordax dentex"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="ODAK31"
+                     /db_xref="taxon:476919"
+                     /geo_loc_name="USA: Alaska"
+                     /note="synonym: Osmerus dentex"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 c
+//
+
+LOCUS       EU621495                   1 bp    DNA     linear   VRT 30-DEC-2008
+DEFINITION  Osmerus mordax isolate OMML8 12S ribosomal RNA gene, partial
+            sequence; mitochondrial.
+ACCESSION   EU621495 REGION: 1
+VERSION     EU621495.1
+KEYWORDS    .
+SOURCE      mitochondrion Osmerus mordax (rainbow smelt)
+  ORGANISM  Osmerus mordax
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Stomiati; Osmeriformes;
+            Osmeridae; Osmerus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Ilves,K.L. and Taylor,E.B.
+  TITLE     Molecular resolution of the systematics of a problematic group of
+            fishes (Teleostei: Osmeridae) and evidence for morphological
+            homoplasy
+  JOURNAL   Mol. Phylogenet. Evol. 50 (1), 163-178 (2009)
+   PUBMED   19015040
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Ilves,K.L. and Taylor,E.B.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (04-APR-2008) Zoology, University of British Columbia,
+            6270 University Blvd., Vancouver, BC V6T1Z4, Canada
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Osmerus mordax"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="OMML8"
+                     /db_xref="taxon:8014"
+                     /geo_loc_name="Canada: Quebec, Meech Lake"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 c
+//
+
+LOCUS       EU643688                   1 bp    DNA     linear   VRT 24-MAY-2010
+DEFINITION  Salmo salar haplotype Hap_3 12S ribosomal RNA gene, partial
+            sequence; mitochondrial.
+ACCESSION   EU643688 REGION: 1
+VERSION     EU643688.1
+KEYWORDS    .
+SOURCE      mitochondrion Salmo salar (Atlantic salmon)
+  ORGANISM  Salmo salar
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Salmo.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Karlsson,S., Moen,T. and Hindar,K.
+  TITLE     An extended panel of single nucleotide polymorphisms in Atlantic
+            salmon (Salmo salar L.) mitochondrial DNA
+  JOURNAL   Conserv. Genet. 11 (3), 1171-1175 (2010)
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Karlsson,S., Moen,T. and Hindar,K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (15-APR-2008) Arboretveien 2, AAs, Na 1432, Norway
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Salmo salar"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8030"
+                     /haplotype="Hap_3"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 t
+//
+
+LOCUS       EU643689                   1 bp    DNA     linear   VRT 24-MAY-2010
+DEFINITION  Salmo salar haplotype Hap_2 12S ribosomal RNA gene, partial
+            sequence; mitochondrial.
+ACCESSION   EU643689 REGION: 1
+VERSION     EU643689.1
+KEYWORDS    .
+SOURCE      mitochondrion Salmo salar (Atlantic salmon)
+  ORGANISM  Salmo salar
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Salmo.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Karlsson,S., Moen,T. and Hindar,K.
+  TITLE     An extended panel of single nucleotide polymorphisms in Atlantic
+            salmon (Salmo salar L.) mitochondrial DNA
+  JOURNAL   Conserv. Genet. 11 (3), 1171-1175 (2010)
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Karlsson,S., Moen,T. and Hindar,K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (15-APR-2008) Arboretveien 2, AAs, Na 1432, Norway
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Salmo salar"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8030"
+                     /haplotype="Hap_2"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 t
+//
+
+LOCUS       EU643690                   1 bp    DNA     linear   VRT 24-MAY-2010
+DEFINITION  Salmo salar haplotype Hap_1 12S ribosomal RNA gene, partial
+            sequence; mitochondrial.
+ACCESSION   EU643690 REGION: 1
+VERSION     EU643690.1
+KEYWORDS    .
+SOURCE      mitochondrion Salmo salar (Atlantic salmon)
+  ORGANISM  Salmo salar
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Salmo.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Karlsson,S., Moen,T. and Hindar,K.
+  TITLE     An extended panel of single nucleotide polymorphisms in Atlantic
+            salmon (Salmo salar L.) mitochondrial DNA
+  JOURNAL   Conserv. Genet. 11 (3), 1171-1175 (2010)
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Karlsson,S., Moen,T. and Hindar,K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (15-APR-2008) Arboretveien 2, AAs, Na 1432, Norway
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Salmo salar"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8030"
+                     /haplotype="Hap_1"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 t
+//
+
+LOCUS       EU851898                   1 bp    DNA     linear   VRT 29-JUL-2008
+DEFINITION  Salmo salar isolate Salmon1 12S ribosomal RNA gene, partial
+            sequence; mitochondrial.
+ACCESSION   EU851898 REGION: 1
+VERSION     EU851898.1
+KEYWORDS    .
+SOURCE      mitochondrion Salmo salar (Atlantic salmon)
+  ORGANISM  Salmo salar
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Salmo.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Wang,Q., Zhao,D.H. and Ma,H.P.
+  TITLE     Identification of ten animal species by terminal restriction
+            fragment length polymorphism (T-RFLP) based on the mitochondrial
+            12S rRNA gene
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Wang,Q., Zhao,D.H. and Ma,H.P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (24-JUN-2008) Food Safety Testing Center of Beijing
+            Entry-Exit Inspection and Quarantine Bureau, No. 6 Tianshuiyuan
+            Street, Chaoyang District, Beijing 100026, China
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Salmo salar"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="Salmon1"
+                     /db_xref="taxon:8030"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 a
+//
+
+LOCUS       FJ215063                   1 bp    DNA     linear   VRT 14-JUL-2009
+DEFINITION  Microgadus tomcod voucher KU:IT:5884 12S ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   FJ215063 REGION: 1
+VERSION     FJ215063.1
+KEYWORDS    .
+SOURCE      mitochondrion Microgadus tomcod (Atlantic tomcod)
+  ORGANISM  Microgadus tomcod
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Zeiogadaria; Gadariae; Gadiformes; Gadoidei;
+            Gadidae; Microgadus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Roa-Varon,A. and Orti,G.
+  TITLE     Phylogenetic relationships among families of Gadiformes (Teleostei,
+            Paracanthopterygii) based on nuclear and mitochondrial data
+  JOURNAL   Mol. Phylogenet. Evol. 52 (3), 688-704 (2009)
+   PUBMED   19345274
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Roa-Varon,A. and Orti,G.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-SEP-2008) Center for Marine Science, University of
+            North Carolina, Wilmington, 5600 Marvin K. Moss Ln., Wilmington, NC
+            28409, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Microgadus tomcod"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="KU:IT:5884"
+                     /db_xref="taxon:34823"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 c
+//
+
+LOCUS       FJ445394                   1 bp    DNA     linear   VRT 26-JUL-2016
+DEFINITION  Fundulus diaphanus isolate 01 pop-variant MDPP mitochondrion,
+            complete genome.
+ACCESSION   FJ445394 REGION: 1
+VERSION     FJ445394.1
+KEYWORDS    .
+SOURCE      mitochondrion Fundulus diaphanus (banded killifish)
+  ORGANISM  Fundulus diaphanus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Ovalentaria; Atherinomorphae; Cyprinodontiformes;
+            Fundulidae; Fundulus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Whitehead,A.
+  TITLE     Comparative mitochondrial genomics within and among species of
+            killifish
+  JOURNAL   BMC Evol. Biol. 9, 11 (2009)
+   PUBMED   19144111
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Whitehead,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-NOV-2008) Biological Sciences, Louisiana State
+            University, 202 Life Sciences Building, Baton Rouge, LA 70803, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Fundulus diaphanus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="01"
+                     /db_xref="taxon:54267"
+                     /pop_variant="MDPP"
+     tRNA            >1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       FJ445398                   1 bp    DNA     linear   VRT 26-JUL-2016
+DEFINITION  Fundulus heteroclitus isolate 01 pop-variant MDPP mitochondrion,
+            complete genome.
+ACCESSION   FJ445398 REGION: 1
+VERSION     FJ445398.1
+KEYWORDS    .
+SOURCE      mitochondrion Fundulus heteroclitus (mummichog)
+  ORGANISM  Fundulus heteroclitus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Ovalentaria; Atherinomorphae; Cyprinodontiformes;
+            Fundulidae; Fundulus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Whitehead,A.
+  TITLE     Comparative mitochondrial genomics within and among species of
+            killifish
+  JOURNAL   BMC Evol. Biol. 9, 11 (2009)
+   PUBMED   19144111
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Whitehead,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-NOV-2008) Biological Sciences, Louisiana State
+            University, 202 Life Sciences Building, Baton Rouge, LA 70803, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Fundulus heteroclitus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="01"
+                     /db_xref="taxon:8078"
+                     /pop_variant="MDPP"
+     tRNA            >1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       FJ445399                   1 bp    DNA     linear   VRT 26-JUL-2016
+DEFINITION  Fundulus heteroclitus isolate 02 pop-variant MDPP mitochondrion,
+            complete genome.
+ACCESSION   FJ445399 REGION: 1
+VERSION     FJ445399.1
+KEYWORDS    .
+SOURCE      mitochondrion Fundulus heteroclitus (mummichog)
+  ORGANISM  Fundulus heteroclitus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Ovalentaria; Atherinomorphae; Cyprinodontiformes;
+            Fundulidae; Fundulus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Whitehead,A.
+  TITLE     Comparative mitochondrial genomics within and among species of
+            killifish
+  JOURNAL   BMC Evol. Biol. 9, 11 (2009)
+   PUBMED   19144111
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Whitehead,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-NOV-2008) Biological Sciences, Louisiana State
+            University, 202 Life Sciences Building, Baton Rouge, LA 70803, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Fundulus heteroclitus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="02"
+                     /db_xref="taxon:8078"
+                     /pop_variant="MDPP"
+     tRNA            >1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       FJ445400                   1 bp    DNA     linear   VRT 26-JUL-2016
+DEFINITION  Fundulus heteroclitus isolate 01 pop-variant GAS mitochondrion,
+            complete genome.
+ACCESSION   FJ445400 REGION: 1
+VERSION     FJ445400.1
+KEYWORDS    .
+SOURCE      mitochondrion Fundulus heteroclitus (mummichog)
+  ORGANISM  Fundulus heteroclitus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Ovalentaria; Atherinomorphae; Cyprinodontiformes;
+            Fundulidae; Fundulus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Whitehead,A.
+  TITLE     Comparative mitochondrial genomics within and among species of
+            killifish
+  JOURNAL   BMC Evol. Biol. 9, 11 (2009)
+   PUBMED   19144111
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Whitehead,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-NOV-2008) Biological Sciences, Louisiana State
+            University, 202 Life Sciences Building, Baton Rouge, LA 70803, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Fundulus heteroclitus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="01"
+                     /db_xref="taxon:8078"
+                     /pop_variant="GAS"
+     tRNA            >1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       FJ445401                   1 bp    DNA     linear   VRT 26-JUL-2016
+DEFINITION  Fundulus heteroclitus isolate 02 pop-variant GAS mitochondrion,
+            complete genome.
+ACCESSION   FJ445401 REGION: 1
+VERSION     FJ445401.1
+KEYWORDS    .
+SOURCE      mitochondrion Fundulus heteroclitus (mummichog)
+  ORGANISM  Fundulus heteroclitus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Ovalentaria; Atherinomorphae; Cyprinodontiformes;
+            Fundulidae; Fundulus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Whitehead,A.
+  TITLE     Comparative mitochondrial genomics within and among species of
+            killifish
+  JOURNAL   BMC Evol. Biol. 9, 11 (2009)
+   PUBMED   19144111
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Whitehead,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-NOV-2008) Biological Sciences, Louisiana State
+            University, 202 Life Sciences Building, Baton Rouge, LA 70803, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Fundulus heteroclitus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="02"
+                     /db_xref="taxon:8078"
+                     /pop_variant="GAS"
+     tRNA            >1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       FJ445402                   1 bp    DNA     linear   VRT 26-JUL-2016
+DEFINITION  Fundulus heteroclitus isolate 01 pop-variant Maine mitochondrion,
+            complete genome.
+ACCESSION   FJ445402 REGION: 1
+VERSION     FJ445402.1
+KEYWORDS    .
+SOURCE      mitochondrion Fundulus heteroclitus (mummichog)
+  ORGANISM  Fundulus heteroclitus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Ovalentaria; Atherinomorphae; Cyprinodontiformes;
+            Fundulidae; Fundulus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Whitehead,A.
+  TITLE     Comparative mitochondrial genomics within and among species of
+            killifish
+  JOURNAL   BMC Evol. Biol. 9, 11 (2009)
+   PUBMED   19144111
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Whitehead,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-NOV-2008) Biological Sciences, Louisiana State
+            University, 202 Life Sciences Building, Baton Rouge, LA 70803, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Fundulus heteroclitus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="01"
+                     /db_xref="taxon:8078"
+                     /pop_variant="Maine"
+     tRNA            >1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       FJ445403                   1 bp    DNA     linear   VRT 26-JUL-2016
+DEFINITION  Fundulus heteroclitus isolate 02 pop-variant ME mitochondrion,
+            complete genome.
+ACCESSION   FJ445403 REGION: 1
+VERSION     FJ445403.1
+KEYWORDS    .
+SOURCE      mitochondrion Fundulus heteroclitus (mummichog)
+  ORGANISM  Fundulus heteroclitus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Ovalentaria; Atherinomorphae; Cyprinodontiformes;
+            Fundulidae; Fundulus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Whitehead,A.
+  TITLE     Comparative mitochondrial genomics within and among species of
+            killifish
+  JOURNAL   BMC Evol. Biol. 9, 11 (2009)
+   PUBMED   19144111
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Whitehead,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-NOV-2008) Biological Sciences, Louisiana State
+            University, 202 Life Sciences Building, Baton Rouge, LA 70803, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Fundulus heteroclitus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="02"
+                     /db_xref="taxon:8078"
+                     /pop_variant="ME"
+     tRNA            >1
+                     /product="tRNA-Phe"
+ORIGIN      
+        1 g
+//
+
+LOCUS       FJ612584                   1 bp    DNA     linear   VRT 01-MAY-2010
+DEFINITION  Anguilla rostrata 12S ribosomal RNA gene, partial sequence;
+            mitochondrial.
+ACCESSION   FJ612584 REGION: 1
+VERSION     FJ612584.1
+KEYWORDS    .
+SOURCE      mitochondrion Anguilla rostrata (American eel)
+  ORGANISM  Anguilla rostrata
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Anguilliformes;
+            Anguillidae; Anguilla.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Hwang,J.-H., Han,K.-H., Lee,J.-H., Choi,J.-H., Rha,S.-J.,
+            Jeong,D.-H., Kim,Y.-J., Yoo,D.-J. and Lee,S.-H.
+  TITLE     Morphological and molecular systematics of genus Anguilla
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Hwang,J.-H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-JAN-2009) Eco Marine Bio Center, Chonnam National
+            University, San 96-1, Dunduck-dong, Yosu, Chonnam 550-749, Korea
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Anguilla rostrata"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:7938"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 t
+//
+
+LOCUS       FJ620115                   1 bp    DNA     linear   VRT 18-DEC-2009
+DEFINITION  Oncorhynchus clarkii isolate 12S-EE 12S ribosomal RNA gene, partial
+            sequence; mitochondrial.
+ACCESSION   FJ620115 REGION: 1
+VERSION     FJ620115.1
+KEYWORDS    .
+SOURCE      mitochondrion Oncorhynchus clarkii (cutthroat trout)
+  ORGANISM  Oncorhynchus clarkii
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Oncorhynchus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Jordan,L.G., Steele,C.A. and Thorgaard,G.H.
+  TITLE     Universal mtDNA primers for species identification of degraded bony
+            fish samples
+  JOURNAL   Mol Ecol Resour 10 (1), 225-228 (2010)
+   PUBMED   21565016
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Jordan,L.G., Steele,C.A. and Thorgaard,G.H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-DEC-2008) School of Biological Sciences, Washington
+            State University, PO Box 644236, Pullman, WA 99164-4236, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oncorhynchus clarkii"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="12S-EE"
+                     /db_xref="taxon:30962"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 t
+//
+
+LOCUS       FJ620116                   1 bp    DNA     linear   VRT 18-DEC-2009
+DEFINITION  Oncorhynchus nerka isolate 12S-K 12S ribosomal RNA gene, partial
+            sequence; mitochondrial.
+ACCESSION   FJ620116 REGION: 1
+VERSION     FJ620116.1
+KEYWORDS    .
+SOURCE      mitochondrion Oncorhynchus nerka (sockeye salmon)
+  ORGANISM  Oncorhynchus nerka
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Oncorhynchus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Jordan,L.G., Steele,C.A. and Thorgaard,G.H.
+  TITLE     Universal mtDNA primers for species identification of degraded bony
+            fish samples
+  JOURNAL   Mol Ecol Resour 10 (1), 225-228 (2010)
+   PUBMED   21565016
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Jordan,L.G., Steele,C.A. and Thorgaard,G.H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-DEC-2008) School of Biological Sciences, Washington
+            State University, PO Box 644236, Pullman, WA 99164-4236, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oncorhynchus nerka"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="12S-K"
+                     /db_xref="taxon:8023"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 t
+//
+
+LOCUS       FJ620117                   1 bp    DNA     linear   VRT 18-DEC-2009
+DEFINITION  Oncorhynchus tshawytscha isolate 12S-L 12S ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   FJ620117 REGION: 1
+VERSION     FJ620117.1
+KEYWORDS    .
+SOURCE      mitochondrion Oncorhynchus tshawytscha (Chinook salmon)
+  ORGANISM  Oncorhynchus tshawytscha
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Oncorhynchus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Jordan,L.G., Steele,C.A. and Thorgaard,G.H.
+  TITLE     Universal mtDNA primers for species identification of degraded bony
+            fish samples
+  JOURNAL   Mol Ecol Resour 10 (1), 225-228 (2010)
+   PUBMED   21565016
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Jordan,L.G., Steele,C.A. and Thorgaard,G.H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-DEC-2008) School of Biological Sciences, Washington
+            State University, PO Box 644236, Pullman, WA 99164-4236, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oncorhynchus tshawytscha"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="12S-L"
+                     /db_xref="taxon:74940"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 t
+//
+
+LOCUS       FJ620119                   1 bp    DNA     linear   VRT 18-DEC-2009
+DEFINITION  Oncorhynchus mykiss isolate 12S-H 12S ribosomal RNA gene, partial
+            sequence; mitochondrial.
+ACCESSION   FJ620119 REGION: 1
+VERSION     FJ620119.1
+KEYWORDS    .
+SOURCE      mitochondrion Oncorhynchus mykiss (rainbow trout)
+  ORGANISM  Oncorhynchus mykiss
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Oncorhynchus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Jordan,L.G., Steele,C.A. and Thorgaard,G.H.
+  TITLE     Universal mtDNA primers for species identification of degraded bony
+            fish samples
+  JOURNAL   Mol Ecol Resour 10 (1), 225-228 (2010)
+   PUBMED   21565016
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Jordan,L.G., Steele,C.A. and Thorgaard,G.H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-DEC-2008) School of Biological Sciences, Washington
+            State University, PO Box 644236, Pullman, WA 99164-4236, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oncorhynchus mykiss"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="12S-H"
+                     /db_xref="taxon:8022"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 t
+//
+
+LOCUS       FJ620121                   1 bp    DNA     linear   VRT 18-DEC-2009
+DEFINITION  Esox lucius isolate 12S-G 12S ribosomal RNA gene, partial sequence;
+            mitochondrial.
+ACCESSION   FJ620121 REGION: 1
+VERSION     FJ620121.1
+KEYWORDS    .
+SOURCE      mitochondrion Esox lucius (northern pike)
+  ORGANISM  Esox lucius
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Esociformes; Esocidae; Esox.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Jordan,L.G., Steele,C.A. and Thorgaard,G.H.
+  TITLE     Universal mtDNA primers for species identification of degraded bony
+            fish samples
+  JOURNAL   Mol Ecol Resour 10 (1), 225-228 (2010)
+   PUBMED   21565016
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Jordan,L.G., Steele,C.A. and Thorgaard,G.H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-DEC-2008) School of Biological Sciences, Washington
+            State University, PO Box 644236, Pullman, WA 99164-4236, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Esox lucius"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="12S-G"
+                     /db_xref="taxon:8010"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 t
+//
+
+LOCUS       FJ620122                   1 bp    DNA     linear   VRT 18-DEC-2009
+DEFINITION  Salmo salar isolate 12S-U 12S ribosomal RNA gene, partial sequence;
+            mitochondrial.
+ACCESSION   FJ620122 REGION: 1
+VERSION     FJ620122.1
+KEYWORDS    .
+SOURCE      mitochondrion Salmo salar (Atlantic salmon)
+  ORGANISM  Salmo salar
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Salmo.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Jordan,L.G., Steele,C.A. and Thorgaard,G.H.
+  TITLE     Universal mtDNA primers for species identification of degraded bony
+            fish samples
+  JOURNAL   Mol Ecol Resour 10 (1), 225-228 (2010)
+   PUBMED   21565016
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Jordan,L.G., Steele,C.A. and Thorgaard,G.H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-DEC-2008) School of Biological Sciences, Washington
+            State University, PO Box 644236, Pullman, WA 99164-4236, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Salmo salar"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="12S-U"
+                     /db_xref="taxon:8030"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 t
+//
+
+LOCUS       FJ620124                   1 bp    DNA     linear   VRT 18-DEC-2009
+DEFINITION  Salvelinus namaycush isolate 12S-CC1 12S ribosomal RNA gene,
+            partial sequence; mitochondrial.
+ACCESSION   FJ620124 REGION: 1
+VERSION     FJ620124.1
+KEYWORDS    .
+SOURCE      mitochondrion Salvelinus namaycush (lake trout)
+  ORGANISM  Salvelinus namaycush
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Salvelinus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Jordan,L.G., Steele,C.A. and Thorgaard,G.H.
+  TITLE     Universal mtDNA primers for species identification of degraded bony
+            fish samples
+  JOURNAL   Mol Ecol Resour 10 (1), 225-228 (2010)
+   PUBMED   21565016
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Jordan,L.G., Steele,C.A. and Thorgaard,G.H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-DEC-2008) School of Biological Sciences, Washington
+            State University, PO Box 644236, Pullman, WA 99164-4236, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Salvelinus namaycush"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="12S-CC1"
+                     /db_xref="taxon:8040"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 t
+//
+
+LOCUS       FJ620125                   1 bp    DNA     linear   VRT 18-DEC-2009
+DEFINITION  Oncorhynchus kisutch isolate 12S-BB 12S ribosomal RNA gene, partial
+            sequence; mitochondrial.
+ACCESSION   FJ620125 REGION: 1
+VERSION     FJ620125.1
+KEYWORDS    .
+SOURCE      mitochondrion Oncorhynchus kisutch (coho salmon)
+  ORGANISM  Oncorhynchus kisutch
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Oncorhynchus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Jordan,L.G., Steele,C.A. and Thorgaard,G.H.
+  TITLE     Universal mtDNA primers for species identification of degraded bony
+            fish samples
+  JOURNAL   Mol Ecol Resour 10 (1), 225-228 (2010)
+   PUBMED   21565016
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Jordan,L.G., Steele,C.A. and Thorgaard,G.H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-DEC-2008) School of Biological Sciences, Washington
+            State University, PO Box 644236, Pullman, WA 99164-4236, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oncorhynchus kisutch"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="12S-BB"
+                     /db_xref="taxon:8019"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 t
+//
+
+LOCUS       FJ620127                   1 bp    DNA     linear   VRT 18-DEC-2009
+DEFINITION  Oncorhynchus mykiss isolate 12S-E 12S ribosomal RNA gene, partial
+            sequence; mitochondrial.
+ACCESSION   FJ620127 REGION: 1
+VERSION     FJ620127.1
+KEYWORDS    .
+SOURCE      mitochondrion Oncorhynchus mykiss (rainbow trout)
+  ORGANISM  Oncorhynchus mykiss
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Oncorhynchus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Jordan,L.G., Steele,C.A. and Thorgaard,G.H.
+  TITLE     Universal mtDNA primers for species identification of degraded bony
+            fish samples
+  JOURNAL   Mol Ecol Resour 10 (1), 225-228 (2010)
+   PUBMED   21565016
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Jordan,L.G., Steele,C.A. and Thorgaard,G.H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-DEC-2008) School of Biological Sciences, Washington
+            State University, PO Box 644236, Pullman, WA 99164-4236, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oncorhynchus mykiss"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="12S-E"
+                     /db_xref="taxon:8022"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 t
+//
+
+LOCUS       FJ620133                   1 bp    DNA     linear   VRT 18-DEC-2009
+DEFINITION  Anguilla rostrata isolate 12S-F 12S ribosomal RNA gene, partial
+            sequence; mitochondrial.
+ACCESSION   FJ620133 REGION: 1
+VERSION     FJ620133.1
+KEYWORDS    .
+SOURCE      mitochondrion Anguilla rostrata (American eel)
+  ORGANISM  Anguilla rostrata
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Anguilliformes;
+            Anguillidae; Anguilla.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Jordan,L.G., Steele,C.A. and Thorgaard,G.H.
+  TITLE     Universal mtDNA primers for species identification of degraded bony
+            fish samples
+  JOURNAL   Mol Ecol Resour 10 (1), 225-228 (2010)
+   PUBMED   21565016
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Jordan,L.G., Steele,C.A. and Thorgaard,G.H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-DEC-2008) School of Biological Sciences, Washington
+            State University, PO Box 644236, Pullman, WA 99164-4236, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Anguilla rostrata"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="12S-F"
+                     /db_xref="taxon:7938"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 t
+//
+
+LOCUS       FJ620135                   1 bp    DNA     linear   VRT 18-DEC-2009
+DEFINITION  Esox masquinongy isolate 12S-J 12S ribosomal RNA gene, partial
+            sequence; mitochondrial.
+ACCESSION   FJ620135 REGION: 1
+VERSION     FJ620135.1
+KEYWORDS    .
+SOURCE      mitochondrion Esox masquinongy (muskellunge)
+  ORGANISM  Esox masquinongy
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Esociformes; Esocidae; Esox.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Jordan,L.G., Steele,C.A. and Thorgaard,G.H.
+  TITLE     Universal mtDNA primers for species identification of degraded bony
+            fish samples
+  JOURNAL   Mol Ecol Resour 10 (1), 225-228 (2010)
+   PUBMED   21565016
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Jordan,L.G., Steele,C.A. and Thorgaard,G.H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-DEC-2008) School of Biological Sciences, Washington
+            State University, PO Box 644236, Pullman, WA 99164-4236, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Esox masquinongy"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="12S-J"
+                     /db_xref="taxon:126735"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 t
+//
+
+LOCUS       FJ620146                   1 bp    DNA     linear   VRT 18-DEC-2009
+DEFINITION  Micropterus dolomieu isolate 12S-P1 12S ribosomal RNA gene, partial
+            sequence; mitochondrial.
+ACCESSION   FJ620146 REGION: 1
+VERSION     FJ620146.1
+KEYWORDS    .
+SOURCE      mitochondrion Micropterus dolomieu (smallmouth bass)
+  ORGANISM  Micropterus dolomieu
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Neoteleostei;
+            Acanthomorphata; Eupercaria; Centrarchiformes; Centrarchoidei;
+            Centrarchidae; Micropterus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Jordan,L.G., Steele,C.A. and Thorgaard,G.H.
+  TITLE     Universal mtDNA primers for species identification of degraded bony
+            fish samples
+  JOURNAL   Mol Ecol Resour 10 (1), 225-228 (2010)
+   PUBMED   21565016
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Jordan,L.G., Steele,C.A. and Thorgaard,G.H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-DEC-2008) School of Biological Sciences, Washington
+            State University, PO Box 644236, Pullman, WA 99164-4236, USA
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Micropterus dolomieu"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="12S-P1"
+                     /db_xref="taxon:147949"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 t
+//
+
+LOCUS       FJ710971                   1 bp    DNA     linear   VRT 14-FEB-2017
+DEFINITION  Oncorhynchus mykiss 12S ribosomal RNA gene, partial sequence;
+            mitochondrial.
+ACCESSION   FJ710971 REGION: 1
+VERSION     FJ710971.1
+KEYWORDS    .
+SOURCE      mitochondrion Oncorhynchus mykiss (rainbow trout)
+  ORGANISM  Oncorhynchus mykiss
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Oncorhynchus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Hardy,C.M., Adams,M., Jerry,D.R., Court,L.N., Morgan,M.J. and
+            Hartley,D.M.
+  TITLE     DNA barcoding to support conservation: species identification,
+            genetic structure and biogeography of fishes in the Murray-Darling
+            River Basin, Australia
+  JOURNAL   Mar. Freshw. Res. 62 (8), 887-901 (2011)
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Hartley,D.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-FEB-2009) Entomology, CSIRO, Clunies Ross St. Acton,
+            Canberra, ACT 2601, Australia
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oncorhynchus mykiss"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolation_source="seafood trade"
+                     /db_xref="taxon:8022"
+                     /geo_loc_name="Australia"
+                     /collection_date="30-Oct-2007"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       FJ710972                   1 bp    DNA     linear   VRT 14-FEB-2017
+DEFINITION  Oncorhynchus mykiss 12S ribosomal RNA gene, partial sequence;
+            mitochondrial.
+ACCESSION   FJ710972 REGION: 1
+VERSION     FJ710972.1
+KEYWORDS    .
+SOURCE      mitochondrion Oncorhynchus mykiss (rainbow trout)
+  ORGANISM  Oncorhynchus mykiss
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Oncorhynchus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Hardy,C.M., Adams,M., Jerry,D.R., Court,L.N., Morgan,M.J. and
+            Hartley,D.M.
+  TITLE     DNA barcoding to support conservation: species identification,
+            genetic structure and biogeography of fishes in the Murray-Darling
+            River Basin, Australia
+  JOURNAL   Mar. Freshw. Res. 62 (8), 887-901 (2011)
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Hartley,D.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-FEB-2009) Entomology, CSIRO, Clunies Ross St. Acton,
+            Canberra, ACT 2601, Australia
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Oncorhynchus mykiss"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8022"
+                     /geo_loc_name="Australia: Eucumbene Trout Farm NSW"
+                     /collection_date="06-Feb-2008"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       FJ710984                   1 bp    DNA     linear   VRT 14-FEB-2017
+DEFINITION  Salmo salar 12S ribosomal RNA gene, partial sequence;
+            mitochondrial.
+ACCESSION   FJ710984 REGION: 1
+VERSION     FJ710984.1
+KEYWORDS    .
+SOURCE      mitochondrion Salmo salar (Atlantic salmon)
+  ORGANISM  Salmo salar
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Salmo.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Hardy,C.M., Adams,M., Jerry,D.R., Court,L.N., Morgan,M.J. and
+            Hartley,D.M.
+  TITLE     DNA barcoding to support conservation: species identification,
+            genetic structure and biogeography of fishes in the Murray-Darling
+            River Basin, Australia
+  JOURNAL   Mar. Freshw. Res. 62 (8), 887-901 (2011)
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Hartley,D.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-FEB-2009) Entomology, CSIRO, Clunies Ross St. Acton,
+            Canberra, ACT 2601, Australia
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Salmo salar"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolation_source="seafood trade"
+                     /db_xref="taxon:8030"
+                     /geo_loc_name="Australia"
+                     /collection_date="02-Nov-2007"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
+LOCUS       FJ710987                   1 bp    DNA     linear   VRT 14-FEB-2017
+DEFINITION  Salvelinus fontinalis 12S ribosomal RNA gene, partial sequence;
+            mitochondrial.
+ACCESSION   FJ710987 REGION: 1
+VERSION     FJ710987.1
+KEYWORDS    .
+SOURCE      mitochondrion Salvelinus fontinalis (brook trout)
+  ORGANISM  Salvelinus fontinalis
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Protacanthopterygii;
+            Salmoniformes; Salmonidae; Salmoninae; Salvelinus.
+REFERENCE   1  (bases 1 to 1)
+  AUTHORS   Hardy,C.M., Adams,M., Jerry,D.R., Court,L.N., Morgan,M.J. and
+            Hartley,D.M.
+  TITLE     DNA barcoding to support conservation: species identification,
+            genetic structure and biogeography of fishes in the Murray-Darling
+            River Basin, Australia
+  JOURNAL   Mar. Freshw. Res. 62 (8), 887-901 (2011)
+REFERENCE   2  (bases 1 to 1)
+  AUTHORS   Hartley,D.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-FEB-2009) Entomology, CSIRO, Clunies Ross St. Acton,
+            Canberra, ACT 2601, Australia
+FEATURES             Location/Qualifiers
+     source          1
+                     /organism="Salvelinus fontinalis"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:8038"
+                     /geo_loc_name="Australia: Eucumbene Trout Farm NSW"
+                     /collection_date="06-Feb-2008"
+     rRNA            <1..>1
+                     /product="12S ribosomal RNA"
+ORIGIN      
+        1 g
+//
+
