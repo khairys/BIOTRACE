@@ -9,7 +9,7 @@ from pydantic import Field
 from biotrace_core.models import Model
 
 ROOT = Path(__file__).resolve().parents[1]
-DEFAULT_RULES = Path(__file__).parent / "rules" / "rules_r0.3.yaml"
+DEFAULT_RULES = Path(__file__).parent / "rules" / "rules_r0.4.yaml"
 
 
 class NamingConfig(Model):
@@ -48,6 +48,7 @@ class RulesConfig(Model):
     blast: dict[str, str | int | float]
     interpretation_limit: str
     labels: dict[str, bool] = Field(default_factory=dict)
+    evidence: dict[str, str | bool] = Field(default_factory=dict)
 
 
 def load_rules(path: Path = DEFAULT_RULES) -> RulesConfig:

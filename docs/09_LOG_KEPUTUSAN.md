@@ -257,3 +257,11 @@ Rincian bukti dan gerbang implementasi: [11 — Audit Kesiapan](11_AUDIT_KESIAPA
 - Isi v0.2: 18 takson, 24 baris checklist `introduksi` (MATANO, MAHALONA, TOWUTI, MASAPI), 24 baris introductions, 2 sumber; 0 sekuens. Nama sesuai sumber (tanpa normalisasi Catalog of Fishes); baris tingkat genus/nama umum dicatat tetapi tidak masuk checklist. v0.1 tidak diubah (A12). v0.2 menjadi kamus bawaan mode normal.
 - Belum diisi karena tidak ada sumber: spesies asli/endemik (Herder 2006 tidak terunduh), status IUCN/invasif, anggota alias louhan (sumber hanya menyebut genus induk), urutan (`order`) takson, sekuens MiFish.
 - Perlu tinjauan ahli: sinonimi *Lyposarcus pardalis* vs *Pterygoplichthys* cf. *pardalis*, perluasan singkatan *O. niloticus* dan *T. leerii*, identifikasi "cf.".
+
+### D-033 — Rules r0.4: data kaya masuk dengan label, bukan dibuang `[MVP]`
+- Tanggal: 2026-10-25 · Status: **Disetujui** · Disetujui oleh: Agathan (chat, 25 Okt 2026). Konfirmasi pemilik area aturan (Bagus, Backend & data) diminta saat penggabungan data.
+- Konteks: penggabungan data repo Bagus (896 sekuens 12S mitohelper/GenBank, checklist endemik Malili, status IUCN via GBIF). Aturan r0.3 membuang spesimen luar Indonesia (R-NAME-01) dan A14 menolak checklist tanpa file sumber, sehingga hampir semua data itu tidak terpakai.
+- Keputusan: (1) R-NAME-01 `evidence.foreign_specimen_policy = flag`: spesimen luar Indonesia/asal kosong dari spesies `in_indonesia = true` boleh dipakai; (2) kolom `checklist.source_quality` (`primer`/`sekunder`/`berita`) dan tipe sumber `news`; (3) R-DEC-09: klaim `safe` yang hanya bertumpu pada bukti lemah tersebut menjadi `with_note` dengan penyebab `reference`. Nilai A–D tidak diubah; ambang numerik sama dengan r0.3.
+- Tetap berlaku tanpa pengecualian: A1 (tanpa fabrikasi; setiap baris punya kutipan sumber), A2, A5 (V4 tidak masuk kamus), R-CUR-05 (pemotongan daerah MiFish), spesies yang tidak tercatat di Indonesia tetap ditolak, A10/A11.
+- Implementasi: `rules_r0.4.yaml`, `reference/store.py` (seleksi), `decision.py` (`weak_evidence`, `cap_secondary`), `assessment.py`; tes `tests/test_rules_r04.py`. r0.3 tetap mereproduksi keluaran lama.
+- Status ilmiah: usulan tim, belum dikalibrasi ahli.

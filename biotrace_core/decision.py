@@ -20,6 +20,33 @@ DECISIONS: dict[str, tuple[str, str]] = {
 }
 
 
+SECONDARY_QUALITIES = {"sekunder", "berita"}
+
+
+def weak_evidence(support_countries: list[str], checklist_qualities: list[str]) -> list[str]:
+    """D-033 (r0.4): evidence that may be used but never makes a claim safe."""
+    weak = []
+    if support_countries and all(c != "ID" for c in support_countries):
+        weak.append("specimen_outside_indonesia")
+    if SECONDARY_QUALITIES & set(checklist_qualities):
+        weak.append("checklist_secondary_source")
+    return weak
+
+
+def cap_secondary(
+    decision: Decision, rule: str, text: str, weak: list[str]
+) -> tuple[Decision, str, str]:
+    """R-DEC-09 (r0.4): a safe claim resting on weak evidence becomes with_note."""
+    if not weak or decision != "safe":
+        return decision, rule, text
+    return (
+        "with_note",
+        "R-DEC-09",
+        DECISIONS["with_note"][1]
+        + " Bukti bergantung pada sumber sekunder atau spesimen luar Indonesia.",
+    )
+
+
 def decide(name: NamingResult, score: Score, causes: list[str]) -> tuple[Decision, str, str]:
     """R-DEC-01..08: first matching decision wins; additional cautions are retained."""
     sensitive = bool(

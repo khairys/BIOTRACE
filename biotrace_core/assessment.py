@@ -2,7 +2,7 @@
 
 from biotrace_core.causes import identify_causes
 from biotrace_core.config import RulesConfig
-from biotrace_core.decision import decide
+from biotrace_core.decision import cap_secondary, decide, weak_evidence
 from biotrace_core.models import Claim, LabTaxonomy, SpeciesHit
 from biotrace_core.naming.rules import assign_rank
 from biotrace_core.origin import origin_text
@@ -76,6 +76,18 @@ def assess(
         warnings.append("genus_not_in_checklist" if score.genus else "no_single_genus_for_coverage")
     if support and any(r.voucher_level == "V3" for r in support):
         warnings.append("voucher_V3_without_physical_catalog")
+    if cfg.evidence.get("secondary_source_cap", False):
+        taxa_used = names | {name.reported_name}
+        qualities = [
+            row.get("source_quality") or "primer"
+            for row in ref.checklist(signal.waterbody_id)
+            if row["species_valid"] in taxa_used
+        ]
+        weak = weak_evidence([r.specimen_country for r in support], qualities)
+        warnings.extend(weak)
+        decision, rule, follow_up = cap_secondary(decision, rule, follow_up, weak)
+        if weak and "reference" not in causes:
+            causes = sorted([*causes, "reference"])
     return Claim(
         claim_id=f"{signal.site_id}__{signal.asv_id}",
         site_id=signal.site_id,

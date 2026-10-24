@@ -1,0 +1,17 @@
+asv_id,taxon,rank,pct_identity,runner_up_taxon,runner_up_pct_identity,reference_db,is_simulated
+SIM_ASV_001,Gobio delta,species,100.0,,,SIMULASI,True
+SIM_ASV_002,Gobio epsilon,species,100.0,,,SIMULASI,True
+SIM_ASV_003,Tilapa omega,species,100.0,,,SIMULASI,True
+SIM_ASV_004,Piscis alpha,species,99.41176470588235,Piscis beta,99.41176470588235,SIMULASI,True
+SIM_ASV_005,Rasbo zeta,species,100.0,,,SIMULASI,True
+SIM_ASV_006,Piscis alpha,species,99.41176470588235,,,SIMULASI,True
+SIM_ASV_007,Gobio delta,species,100.0,,,SIMULASI,True
+SIM_ASV_008,Hybridus alpha,species,99.41176470588235,Hybridus beta,99.41176470588235,SIMULASI,True
+SIM_ASV_009,Tilapa omega,species,100.0,,,SIMULASI,True
+SIM_ASV_010,Gobio epsilon,species,100.0,,,SIMULASI,True
+SIM_ASV_011,Gobio epsilon,species,100.0,,,SIMULASI,True
+SIM_ASV_012,Rasbo iota,species,91.17647058823529,,,SIMULASI,True
+SIM_ASV_013,Rasbo iota,species,91.76470588235294,,,SIMULASI,True
+SIM_ASV_014,Gobio epsilon,species,97.05882352941177,,,SIMULASI,True
+SIM_ASV_015,Gobio lambda,species,100.0,,,SIMULASI,True
+SIM_ASV_016,Gobio delta,species,99.41176470588235,,,SIMULASI,True

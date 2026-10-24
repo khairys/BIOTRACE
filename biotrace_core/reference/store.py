@@ -83,8 +83,10 @@ class ReferenceIndex:
                 continue
             if row.species_valid not in self.taxa or not row.license:
                 continue
+            foreign_ok = cfg.evidence.get("foreign_specimen_policy") == "flag"  # D-033 (r0.4)
             if mode == "normal" and (
-                not self.taxa[row.species_valid].in_indonesia or row.specimen_country != "ID"
+                not self.taxa[row.species_valid].in_indonesia
+                or (row.specimen_country != "ID" and not foreign_ok)
             ):
                 continue
             if row.is_simulated != simulated:

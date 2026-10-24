@@ -205,6 +205,7 @@ Nilai awal v0.1: `MATANO`, `MAHALONA`, `TOWUTI`, `LONTOA`, `MASAPI` (kompleks `M
 | `source_id` | |
 | `year_recorded` | Tahun catatan |
 | `notes` | |
+| `source_quality` | r0.4 (D-033): `primer` (file sumber ada di `raw/`, bawaan bila kosong), `sekunder` (dikutip, file belum ada), `berita` (media massa). Selain `primer` → R-DEC-09 |
 
 Checklist mencatat "tercatat", bukan "tidak mungkin". Spesies yang tidak ada di checklist berarti **tidak tercatat**.
 
@@ -265,7 +266,7 @@ Isi v0.1 adalah **draf** berdasarkan literatur (introgresi *Telmatherina* "sharp
 | `source_id` | Mis. `SRC_STELBRINK2014` |
 | `citation` | Sitasi lengkap |
 | `doi_or_url` | |
-| `type` | `peer_reviewed`, `preprint`, `book`, `database`, `regulation`, `simulated` |
+| `type` | `peer_reviewed`, `preprint`, `book`, `database`, `regulation`, `news`, `simulated` |
 | `license` | |
 | `accessed_date` | |
 

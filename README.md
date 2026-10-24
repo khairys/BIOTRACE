@@ -11,7 +11,7 @@ Dokumen acuan ada di [`docs/`](docs/README.md). Sumber kebenaran tertinggi: [01_
 | Area | Status |
 |---|---|
 | Mesin inti, API, dashboard, PDF/CSV, jejak audit | Berjalan; tes `not slow` dan T-PERF lulus di perangkat tim |
-| Aturan | `r0.3` aktif (D-030); semua ambang **usulan tim, belum dikalibrasi ahli** |
+| Aturan | `r0.4` aktif (D-030, D-033); semua ambang **usulan tim, belum dikalibrasi ahli** |
 | Kamus Indonesia `data/reference/v0.2` (D-032) | Checklist **nyata** 18 ikan introduksi Malili dari Herder dkk. 2012 dan Tantu & Nilawati 2007 (24 baris, 4 danau). **0 sekuens MiFish**: klaim spesies pada data nyata masih diturunkan. Spesies endemik belum masuk (Herder 2006 belum tersedia) |
 | Demo | Data dan kamus **SIMULASI** di `data/demo/matano_SIMULASI_v3/`; hasil cadangan di `precomputed/` |
 | Fitur P1/P2 (D-031) | Verifikasi kode laporan, catatan ahli, usulan sekuens, peta lokasi tersamar, tampilan ponsel, CI, cocok ulang, agregasi celah, templat lab (`templates/`) |

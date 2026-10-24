@@ -1,0 +1,57 @@
+rules_version: r0.4
+status: "usulan tim, belum dikalibrasi ahli"
+marker_default: 12S_MiFish_U
+interpretation_limit: "Deteksi DNA bukan bukti pasti ikan hidup di lokasi."
+naming:
+  min_query_coverage: 0.90
+  hit_window_pct: 0.5
+  unknown_below_pct: 95.0
+  species_min_pct: 98.0
+  congener_gap_policy: strict
+scoring:
+  l1_high_pct: 99.0
+  l1_high_gap: 1.0
+  l1_mid_pct: 98.0
+  l1_mid_gap: 0.5
+  l1_penalty_ref_fraction_below: 0.5
+  l4_full: 1.0
+  l4_partial: 0.66
+  l4_single_replicate_score: 1
+  min_total_reads: 10
+  grade_map: {5: A, 4: B, 3: C, 2: C, 1: D, 0: D}
+causes:
+  reference_cause_p_missing: 0.5
+preprocess:
+  tag_jump_fraction: 0.001
+reference:
+  allowed_voucher_levels: [V1, V2, V3]
+validation:
+  baseline_species_pct: 97.0
+curation:
+  conflict_policy: accepted_with_flag
+  forward_primer: GTCGGTAAAACTCGTGCCAGC
+  reverse_primer: CATAGTGGGGTATCTAATCCCAGTTTG
+  primer_max_mismatches: 3
+  min_length_fraction: 0.90
+  max_n_fraction: 0.01
+priorities:
+  endemic: 3
+  threatened: 2
+  observed_reference_gap: 2
+  invasive: 1
+blast:
+  task: blastn
+  max_target_seqs: 500
+  evalue: 0.00001
+  perc_identity: 80
+  dust: "no"
+labels:
+  # D-030/K-011: possible_endemic when some but not all candidates are endemic/threatened.
+  partial_sensitive_label: true
+evidence:
+  # D-033: specimens outside Indonesia (or of unknown origin) of species recorded in Indonesia
+  # may support matching, flagged; r0.3 and earlier exclude them ("exclude").
+  foreign_specimen_policy: flag
+  # D-033: claims resting on secondary-source checklist rows or only on foreign/unknown-origin
+  # specimens are never "safe"; they become with_note (R-DEC-09).
+  secondary_source_cap: true

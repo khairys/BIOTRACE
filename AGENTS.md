@@ -28,7 +28,7 @@ Jika menemukan konflik, jangan memilih sendiri. Catat di `docs/09_LOG_KEPUTUSAN.
 | A1 | **Jangan pernah mengarang data.** Ini mencakup sekuens, nomor aksesi, DOI, angka, kutipan, hasil uji, nama mitra, dan data wawancara. Fabrikasi = diskualifikasi lomba dan merusak kredibilitas produk. |
 | A2 | **Data sintetis wajib berlabel `SIMULASI`** di nama file, di kolom `is_simulated=true` pada setiap baris, dan di layar dashboard. |
 | A3 | **Jangan mengubah aturan mesin atau ambang secara diam-diam.** Semua ambang ada di `biotrace_core/rules/rules_r0.1.yaml`. Perubahan wajib: (1) naikkan versi aturan, (2) catat entri baru di 09, (3) perbarui tes. |
-| A4 | **Referensi luar Indonesia tidak boleh mendukung nama spesies di laporan Indonesia.** Data Guyana Prancis, Lake St. Pierre, dll. hanya disimpan di `data/external/` dan hanya dipakai di mode validasi. |
+| A4 | **Referensi luar Indonesia tidak boleh mendukung nama spesies di laporan Indonesia.** Data Guyana Prancis, Lake St. Pierre, dll. hanya disimpan di `data/external/` dan hanya dipakai di mode validasi. *Sejak r0.4 (D-033):* sekuens dari spesimen luar Indonesia atau asal tidak diketahui **boleh** masuk kamus Indonesia hanya bila spesiesnya tercatat di Indonesia (`in_indonesia = true`); klaim yang hanya didukung sekuens seperti itu tidak pernah `safe` (R-DEC-09). Spesies yang tidak tercatat di Indonesia tetap tidak boleh. |
 | A5 | **Sekuens eDNA (voucher level V4) tidak boleh masuk kamus referensi**, berapa pun kualitasnya. |
 | A6 | **Mesin inti harus deterministik.** Tanpa unsur acak, urutan baris selalu disortir, dan input yang sama dengan versi yang sama harus menghasilkan sidik jari laporan yang identik. |
 | A7 | **Tidak ada machine learning di MVP.** Semua keputusan berbasis aturan yang bisa dijelaskan. |
@@ -38,7 +38,7 @@ Jika menemukan konflik, jangan memilih sendiri. Catat di `docs/09_LOG_KEPUTUSAN.
 | A11 | **Setiap kartu dan laporan memuat kalimat batas interpretasi**: deteksi DNA bukan bukti pasti ikan hidup di lokasi. |
 | A12 | **Jangan menghapus data mentah atau file referensi berversi.** Versi baru dibuat sebagai folder baru. |
 | A13 | **Unduhan data hanya lewat `scripts/fetch_data.py`** (atau cara manual di `scripts/fetch_instructions.md`), ke folder `raw/`, dengan log di `raw/DOWNLOAD_LOG.md`. Jangan mengunduh dari sumber lain atau menambahkan panggilan jaringan ke `biotrace_core/`. |
-| A14 | **Nama spesies asli hanya boleh berasal dari file sumber di `raw/` atau kamus berversi.** Jangan mengisi nama spesies, checklist, atau status dari ingatan model. Tanpa file sumber, pakai nama fiktif berlabel SIMULASI. |
+| A14 | **Nama spesies asli hanya boleh berasal dari file sumber di `raw/` atau kamus berversi.** Jangan mengisi nama spesies, checklist, atau status dari ingatan model. Tanpa file sumber, pakai nama fiktif berlabel SIMULASI. *Sejak r0.4 (D-033):* baris checklist/status boleh berasal dari sumber yang dikutip tetapi file-nya belum ada di `raw/` (mis. buku, situs, berita) bila ditandai `source_quality = sekunder` atau `berita` dan kutipannya tercatat di `sources.csv`; klaim yang bergantung padanya tidak pernah `safe`. Ingatan model tetap **bukan** sumber. |
 
 ## 3. Konvensi kode
 

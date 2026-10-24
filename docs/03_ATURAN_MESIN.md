@@ -80,7 +80,8 @@ Format file YAML ada di `04_SPESIFIKASI_DATA.md` §7.
 - `curation_status = accepted`;
 - `voucher_level ∈ allowed_voucher_levels` (V1–V3);
 - `marker` sama dengan marker run;
-- spesiesnya punya `in_indonesia = true` di `taxa.csv`.
+- spesiesnya punya `in_indonesia = true` di `taxa.csv`;
+- r0.1–r0.3: `specimen_country = ID`. **r0.4 (D-033):** bila `evidence.foreign_specimen_policy = flag`, spesimen luar Indonesia atau asal kosong tetap dipakai, dengan peringatan `specimen_outside_indonesia` dan batas R-DEC-09.
 
 ### 3.2 Mode dengan FASTA
 
@@ -217,6 +218,7 @@ Aturan dievaluasi berurutan. Aturan pertama yang cocok yang dipakai.
 | 5 | R-DEC-03 | Nilai C–D dan ada label L3 (`endemic`, `threatened`, `invasive`, `hybrid_alias`; sejak r0.3 juga `possible_endemic`) | `must_verify` |
 | 6 | R-DEC-02 | Nilai C tanpa label L3 | `with_note` |
 | 7 | R-DEC-04 | Nilai D tanpa label L3 | `do_not_use` |
+| sesudah | R-DEC-09 (r0.4, D-033) | Keputusan `safe`, tetapi semua sekuens pendukung dari spesimen luar Indonesia/asal tidak diketahui, **atau** baris checklist takson yang dipakai bersumber `sekunder`/`berita` | `with_note`; teks: "Bukti bergantung pada sumber sekunder atau spesimen luar Indonesia."; penyebab `reference` ditambahkan; nilai tidak berubah |
 
 **R-DEC-07 Teks tambahan.**
 - Label `invasive` dengan nilai C–D → tambahkan "Jangan dijadikan dasar pemberantasan sebelum dicek."

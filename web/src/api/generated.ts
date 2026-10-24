@@ -180,6 +180,7 @@ export interface RulesConfig {
   blast: Record<string, string | number | number>;
   interpretation_limit: string;
   labels: Record<string, boolean>;
+  evidence: Record<string, string | boolean>;
 }
 export interface RunComparison {
   base_run_id: string;
