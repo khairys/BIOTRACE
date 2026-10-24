@@ -1,0 +1,108 @@
+species_valid,genus,family,order,authority,synonyms,in_indonesia,cof_checked_date,source_id
+Amphilophus citrinellus,Amphilophus,Cichlidae,Cichliformes,,,True,,SRC_GBIF
+Amphilophus labiatus,Amphilophus,Cichlidae,Cichliformes,,,True,,SRC_GBIF
+Anabas cobojius,Anabas,Anabantidae,Anabantiformes,,,True,,SRC_GBIF
+Anabas testudineus,Anabas,Anabantidae,,Bloch 1792,,True,,SRC_HERDER2012
+Anguilla anguilla,Anguilla,Anguillidae,Anguilliformes,,,True,,SRC_GBIF
+Anguilla australis,Anguilla,Anguillidae,Anguilliformes,,,True,,SRC_GBIF
+Anguilla bengalensis,Anguilla,Anguillidae,Anguilliformes,,,True,,SRC_GBIF
+Anguilla celebesensis,Anguilla,Anguillidae,,,,True,,SRC_FISHBASE
+Anguilla interioris,Anguilla,Anguillidae,Anguilliformes,,,True,,SRC_GBIF
+Anguilla labiata,Anguilla,Anguillidae,Anguilliformes,,,True,,SRC_GBIF
+Anguilla malgumora,Anguilla,Anguillidae,Anguilliformes,,,True,,SRC_GBIF
+Anguilla marmorata,Anguilla,Anguillidae,Anguilliformes,,,True,,SRC_FISHBASE
+Anguilla megastoma,Anguilla,Anguillidae,Anguilliformes,,,True,,SRC_GBIF
+Anguilla nebulosa,Anguilla,Anguillidae,Anguilliformes,,,True,,SRC_GBIF
+Anguilla pacifica,Anguilla,Anguillidae,Anguilliformes,,,True,,SRC_GBIF
+Anguilla reinhardtii,Anguilla,Anguillidae,Anguilliformes,,,True,,SRC_GBIF
+Aplocheilus panchax,Aplocheilus,Aplocheilidae,,Hamilton 1822,,True,,SRC_HERDER2012
+Carassius auratus,Carassius,Cyprinidae,,,,True,,SRC_TANTU2007
+Channa aurolineata,Channa,Channidae,Anabantiformes,,,True,,SRC_GBIF
+Channa bankanensis,Channa,Channidae,Anabantiformes,,,True,,SRC_GBIF
+Channa baramensis,Channa,Channidae,Anabantiformes,,,True,,SRC_GBIF
+Channa gachua,Channa,Channidae,Anabantiformes,,,True,,SRC_GBIF
+Channa limbata,Channa,Channidae,Anabantiformes,,,True,,SRC_GBIF
+Channa lucius,Channa,Channidae,Anabantiformes,,,True,,SRC_GBIF
+Channa maculata,Channa,Channidae,Anabantiformes,,,True,,SRC_GBIF
+Channa marulioides,Channa,Channidae,Anabantiformes,,,True,,SRC_GBIF
+Channa marulius,Channa,Channidae,Anabantiformes,,,True,,SRC_GBIF
+Channa melasoma,Channa,Channidae,Anabantiformes,,,True,,SRC_GBIF
+Channa micropeltes,Channa,Channidae,Anabantiformes,,,True,,SRC_GBIF
+Channa orientalis,Channa,Channidae,Anabantiformes,,,True,,SRC_GBIF
+Channa pleurophthalma,Channa,Channidae,Anabantiformes,,,True,,SRC_GBIF
+Channa pseudomarulius,Channa,Channidae,Anabantiformes,,,True,,SRC_GBIF
+Channa punctata,Channa,Channidae,Anabantiformes,,,True,,SRC_GBIF
+Channa striata,Channa,Channidae,,Bloch 1797,,True,,SRC_HERDER2012
+Clarias batrachus,Clarias,Clariidae,,Linnaeus 1758,,True,,SRC_HERDER2012
+Clarias fuscus,Clarias,Clariidae,Siluriformes,,,True,,SRC_GBIF
+Clarias gariepinus,Clarias,Clariidae,,,,True,,SRC_TANTU2007
+Clarias leiacanthus,Clarias,Clariidae,Siluriformes,,,True,,SRC_GBIF
+Clarias macrocephalus,Clarias,Clariidae,Siluriformes,,,True,,SRC_GBIF
+Clarias meladerma,Clarias,Clariidae,Siluriformes,,,True,,SRC_GBIF
+Colossoma macropomum,Colossoma,Serrasalmidae,,Cuvier 1816,,True,,SRC_HERDER2012
+Cyprinus carpio,Cyprinus,Cyprinidae,,Linnaeus 1758,,True,,SRC_HERDER2012
+Cyprinus rubrofuscus,Cyprinus,Cyprinidae,Cypriniformes,,,True,,SRC_GBIF
+Dermogenys collettei,Dermogenys,Zenarchopteridae,Beloniformes,,,True,,SRC_GBIF
+Dermogenys pusilla,Dermogenys,Zenarchopteridae,Beloniformes,,,True,,SRC_GBIF
+Glossogobius aureus,Glossogobius,Gobiidae,Gobiiformes,,,True,,SRC_GBIF
+Glossogobius bicirrhosus,Glossogobius,Gobiidae,Gobiiformes,,,True,,SRC_GBIF
+Glossogobius celebius,Glossogobius,Gobiidae,Gobiiformes,,,True,,SRC_GBIF
+Glossogobius circumspectus,Glossogobius,Gobiidae,Gobiiformes,,,True,,SRC_GBIF
+Glossogobius flavipinnis,Glossogobius,Gobiidae,Gobiiformes,,,True,,SRC_GBIF
+Glossogobius giuris,Glossogobius,Gobiidae,Gobiiformes,,,True,,SRC_GBIF
+Glossogobius illimis,Glossogobius,Gobiidae,Gobiiformes,,,True,,SRC_GBIF
+Glossogobius matanensis,Glossogobius,Gobiidae,,,,True,,SRC_ENSIKLOPEDIA_MATANO;SRC_HEDIANTO2019
+Lyposarcus pardalis,Lyposarcus,Loricariidae,,,,True,,SRC_TANTU2007
+Marosatherina ladigesi,Marosatherina,Telmatherinidae,Atheriniformes,,,True,,SRC_GBIF
+Mugilogobius adeia,Mugilogobius,Gobiidae,,,,True,,SRC_ENSIKLOPEDIA_MATANO;SRC_HEDIANTO2019
+Mugilogobius cavifrons,Mugilogobius,Gobiidae,Gobiiformes,,,True,,SRC_GBIF
+Mugilogobius chulae,Mugilogobius,Gobiidae,Gobiiformes,,,True,,SRC_GBIF
+Mugilogobius fontinalis,Mugilogobius,Gobiidae,Gobiiformes,,,True,,SRC_GBIF
+Mugilogobius mertoni,Mugilogobius,Gobiidae,Gobiiformes,,,True,,SRC_GBIF
+Mugilogobius parvus,Mugilogobius,Gobiidae,Gobiiformes,,,True,,SRC_GBIF
+Mugilogobius platynotus,Mugilogobius,Gobiidae,Gobiiformes,,,True,,SRC_GBIF
+Mugilogobius wilsoni,Mugilogobius,Gobiidae,Gobiiformes,,,True,,SRC_GBIF
+Nomorhamphus weberi,Nomorhamphus,Zenarchopteridae,,,,True,,SRC_ENSIKLOPEDIA_MATANO;SRC_HEDIANTO2019
+Ophisternon cf. bengalense,Ophisternon,Synbranchidae,,,,True,,SRC_HERDER2012
+Oreochromis aureus,Oreochromis,Cichlidae,Cichliformes,,,True,,SRC_GBIF
+Oreochromis mossambicus,Oreochromis,Cichlidae,,Peters 1852,,True,,SRC_HERDER2012
+Oreochromis niloticus,Oreochromis,Cichlidae,,,,True,,SRC_TANTU2007
+Oreochromis urolepis,Oreochromis,Cichlidae,Cichliformes,,,True,,SRC_GBIF
+Oryzias celebensis,Oryzias,Adrianichthyidae,Beloniformes,,,True,,SRC_GBIF
+Oryzias hubbsi,Oryzias,Adrianichthyidae,Beloniformes,,,True,,SRC_GBIF
+Oryzias javanicus,Oryzias,Adrianichthyidae,Beloniformes,,,True,,SRC_GBIF
+Oryzias marmoratus,Oryzias,Adrianichthyidae,Beloniformes,,,True,,SRC_GBIF
+Oryzias matanensis,Oryzias,Adrianichthyidae,,,,True,,SRC_ENSIKLOPEDIA_MATANO;SRC_HEDIANTO2019
+Oryzias nigrimas,Oryzias,Adrianichthyidae,Beloniformes,,,True,,SRC_GBIF
+Oryzias sarasinorum,Oryzias,Adrianichthyidae,Beloniformes,,,True,,SRC_GBIF
+Oryzias wolasi,Oryzias,Adrianichthyidae,Beloniformes,,,True,,SRC_GBIF
+Oryzias woworae,Oryzias,Adrianichthyidae,Beloniformes,,,True,,SRC_GBIF
+Paratherina cyanea,Paratherina,Telmatherinidae,,,,True,,SRC_FEOW750;SRC_HERDER2006;SRC_KOTTELAT1990
+Paratherina labiosa,Paratherina,Telmatherinidae,,,,True,,SRC_FEOW750;SRC_HERDER2006;SRC_KOTTELAT1990
+Paratherina striata,Paratherina,Telmatherinidae,,,,True,,SRC_FEOW750;SRC_HERDER2006;SRC_KOTTELAT1990
+Paratherina wolterecki,Paratherina,Telmatherinidae,,,,True,,SRC_FEOW750;SRC_HERDER2006;SRC_KOTTELAT1990
+Piaractus brachypomus,Piaractus,Serrasalmidae,Characiformes,,,True,,SRC_GBIF
+Piaractus mesopotamicus,Piaractus,Serrasalmidae,Characiformes,,,True,,SRC_GBIF
+Poecilia latipinna,Poecilia,Poeciliidae,Cyprinodontiformes,,,True,,SRC_GBIF
+Poecilia reticulata,Poecilia,Poecilidae,,,,True,,SRC_HERDER2012
+Poecilia sphenops,Poecilia,Poeciliidae,Cyprinodontiformes,,,True,,SRC_GBIF
+Pseudotropheus cyaneorhabdos,Pseudotropheus,Cichlidae,,Bowers & Stauffer 1997,,True,,SRC_HERDER2012
+Pterygoplichthys cf. pardalis,Pterygoplichthys,Loricariidae,,,,True,,SRC_HERDER2012
+Pterygoplichthys disjunctivus,Pterygoplichthys,Loricariidae,Siluriformes,,,True,,SRC_GBIF
+Pterygoplichthys pardalis,Pterygoplichthys,Loricariidae,Siluriformes,,,True,,SRC_BISNIS2025;SRC_MONGABAY2018
+Telmatherina abendanoni,Telmatherina,Telmatherinidae,,,,True,,SRC_FEOW750;SRC_HERDER2006;SRC_KOTTELAT1990
+Telmatherina antoniae,Telmatherina,Telmatherinidae,,,,True,,SRC_FEOW750;SRC_HERDER2006;SRC_KOTTELAT1991
+Telmatherina bonti,Telmatherina,Telmatherinidae,,,,True,,SRC_FEOW750;SRC_HERDER2006;SRC_WEBER1922
+Telmatherina celebensis,Telmatherina,Telmatherinidae,Atheriniformes,,,True,,SRC_FEOW750;SRC_HERDER2006
+Telmatherina obscura,Telmatherina,Telmatherinidae,,,,True,,SRC_FEOW750;SRC_HERDER2006;SRC_KOTTELAT1991
+Telmatherina opudi,Telmatherina,Telmatherinidae,,,,True,,SRC_FEOW750;SRC_HERDER2006;SRC_KOTTELAT1991
+Telmatherina prognatha,Telmatherina,Telmatherinidae,,,,True,,SRC_FEOW750;SRC_HERDER2006;SRC_KOTTELAT1991
+Telmatherina sarasinorum,Telmatherina,Telmatherinidae,,,,True,,SRC_FEOW750;SRC_HERDER2006;SRC_KOTTELAT1991
+Telmatherina wahjui,Telmatherina,Telmatherinidae,,,,True,,SRC_FEOW750;SRC_HERDER2006;SRC_KOTTELAT1991
+Tominanga aurea,Tominanga,Telmatherinidae,,,,True,,SRC_FEOW750;SRC_HERDER2006;SRC_KOTTELAT1990
+Tominanga sanguicauda,Tominanga,Telmatherinidae,,,,True,,SRC_FEOW750;SRC_HERDER2006;SRC_KOTTELAT1990
+Trichogaster leerii,Trichogaster,Belontiidae,,,,True,,SRC_TANTU2007
+Trichopodus leerii,Trichopodus,Osphronemidae,Anabantiformes,,,True,,SRC_GBIF
+Trichopodus pectoralis,Trichopodus,Osphronemidae,,,Trichogaster pectoralis,True,,SRC_HERDER2012
+Trichopodus trichopterus,Trichopodus,Osphronemidae,,,Trichogaster trichopterus,True,,SRC_HERDER2012
+Vieja maculicauda,Vieja,Cichlidae,Cichliformes,,,True,,SRC_GBIF

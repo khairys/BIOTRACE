@@ -1,0 +1,42 @@
+waterbody_id,genus,n,r,p_missing,missing_species,is_simulated
+MAHALONA,Anabas,1,1,0.0,[],False
+MAHALONA,Anguilla,2,1,0.5,['Anguilla celebesensis'],False
+MAHALONA,Clarias,1,1,0.0,[],False
+MAHALONA,Colossoma,1,0,1.0,['Colossoma macropomum'],False
+MAHALONA,Oreochromis,1,1,0.0,[],False
+MAHALONA,Paratherina,1,0,1.0,['Paratherina wolterecki'],False
+MAHALONA,Pterygoplichthys,1,1,0.0,[],False
+MAHALONA,Telmatherina,1,0,1.0,['Telmatherina celebensis'],False
+MASAPI,Channa,1,1,0.0,[],False
+MATANO,Anabas,1,1,0.0,[],False
+MATANO,Anguilla,2,1,0.5,['Anguilla celebesensis'],False
+MATANO,Aplocheilus,1,0,1.0,['Aplocheilus panchax'],False
+MATANO,Carassius,1,0,1.0,['Carassius auratus'],False
+MATANO,Channa,1,1,0.0,[],False
+MATANO,Clarias,2,1,0.5,['Clarias batrachus'],False
+MATANO,Colossoma,1,0,1.0,['Colossoma macropomum'],False
+MATANO,Cyprinus,1,1,0.0,[],False
+MATANO,Glossogobius,1,0,1.0,['Glossogobius matanensis'],False
+MATANO,Lyposarcus,1,0,1.0,['Lyposarcus pardalis'],False
+MATANO,Mugilogobius,1,0,1.0,['Mugilogobius adeia'],False
+MATANO,Nomorhamphus,1,0,1.0,['Nomorhamphus weberi'],False
+MATANO,Ophisternon,1,0,1.0,['Ophisternon cf. bengalense'],False
+MATANO,Oreochromis,2,2,0.0,[],False
+MATANO,Oryzias,1,0,1.0,['Oryzias matanensis'],False
+MATANO,Poecilia,1,0,1.0,['Poecilia reticulata'],False
+MATANO,Pseudotropheus,1,0,1.0,['Pseudotropheus cyaneorhabdos'],False
+MATANO,Pterygoplichthys,2,1,0.5,['Pterygoplichthys cf. pardalis'],False
+MATANO,Telmatherina,6,0,1.0,"['Telmatherina antoniae', 'Telmatherina obscura', 'Telmatherina opudi', 'Telmatherina prognatha', 'Telmatherina sarasinorum', 'Telmatherina wahjui']",False
+MATANO,Trichogaster,1,0,1.0,['Trichogaster leerii'],False
+MATANO,Trichopodus,2,2,0.0,[],False
+TOWUTI,Anabas,1,1,0.0,[],False
+TOWUTI,Anguilla,2,1,0.5,['Anguilla celebesensis'],False
+TOWUTI,Clarias,1,1,0.0,[],False
+TOWUTI,Colossoma,1,0,1.0,['Colossoma macropomum'],False
+TOWUTI,Ophisternon,1,0,1.0,['Ophisternon cf. bengalense'],False
+TOWUTI,Oreochromis,1,1,0.0,[],False
+TOWUTI,Paratherina,4,0,1.0,"['Paratherina cyanea', 'Paratherina labiosa', 'Paratherina striata', 'Paratherina wolterecki']",False
+TOWUTI,Pterygoplichthys,1,1,0.0,[],False
+TOWUTI,Telmatherina,3,0,1.0,"['Telmatherina abendanoni', 'Telmatherina bonti', 'Telmatherina celebensis']",False
+TOWUTI,Tominanga,2,0,1.0,"['Tominanga aurea', 'Tominanga sanguicauda']",False
+TOWUTI,Trichopodus,1,1,0.0,[],False
