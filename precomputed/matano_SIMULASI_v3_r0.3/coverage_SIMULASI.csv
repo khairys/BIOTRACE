@@ -1,0 +1,5 @@
+genus,is_simulated,missing_species,n,p_missing,r,waterbody_id
+Gobio,true,,2,0.00,2,MATANO
+Piscis,true,Piscis gamma,3,0.33,2,MATANO
+Rasbo,true,Rasbo eta;Rasbo theta,4,0.50,2,MATANO
+Tilapa,true,,1,0.00,1,MATANO

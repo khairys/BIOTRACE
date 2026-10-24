@@ -11,7 +11,7 @@ Dokumen acuan ada di [`docs/`](docs/README.md). Sumber kebenaran tertinggi: [01_
 | Area | Status |
 |---|---|
 | Mesin inti, API, dashboard, PDF/CSV, jejak audit | Berjalan; tes `not slow` dan T-PERF lulus di perangkat tim |
-| Aturan | `r0.2` aktif; semua ambang **usulan tim, belum dikalibrasi ahli** |
+| Aturan | `r0.3` aktif (D-030); semua ambang **usulan tim, belum dikalibrasi ahli** |
 | Kamus Indonesia `data/reference/v0.1` | **Belum siap**: 0 sekuens diterima. Sumber Stelbrink 2014 tidak mencakup daerah MiFish (lihat [11 §4.1](docs/11_AUDIT_KESIAPAN_2026-10-24.md)) |
 | Demo | Data dan kamus **SIMULASI** di `data/demo/matano_SIMULASI_v3/`; hasil cadangan di `precomputed/` |
 | Validasi | LOSO pada pustaka 12S Guyana (mode validasi, marker Teleo1/12S-V5) di `validation/results/`. Bukan bukti akurasi MiFish Indonesia |
@@ -43,7 +43,7 @@ Setiap perintah `make <tugas>` di [Makefile](Makefile) setara dengan `uv run pyt
 uv run python scripts/project.py demo
 ```
 
-Buka http://127.0.0.1:8000, klik **Muat data demo (SIMULASI)**. Bila `blastn` tidak ditemukan, API memuat hasil dari `precomputed/matano_SIMULASI_v3/` dan dashboard menampilkan keterangan "Hasil pra-hitung". Cadangan ini hanya untuk data demo, bukan untuk unggahan pengguna.
+Buka http://127.0.0.1:8000, klik **Muat data demo (SIMULASI)**. Bila `blastn` tidak ditemukan, API memuat hasil dari `precomputed/matano_SIMULASI_v3_<versi aturan>/` dan dashboard menampilkan keterangan "Hasil pra-hitung". Cadangan ini hanya untuk data demo, bukan untuk unggahan pengguna.
 
 CLI tersedia sebagai `uv run biotrace {run,verify,ref,validate}`; lihat [05 §7](docs/05_ARSITEKTUR.md).
 

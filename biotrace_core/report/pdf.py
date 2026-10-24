@@ -44,6 +44,7 @@ LABELS = {
     "invasive": "invasif",
     "hybrid_alias": "alias hibrida",
     "possible_unreferenced_endemic": "kemungkinan endemik tanpa referensi",
+    "possible_endemic": "kemungkinan endemik/terancam",
 }
 
 

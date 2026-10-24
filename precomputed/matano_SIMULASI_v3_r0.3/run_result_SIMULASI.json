@@ -1,0 +1,2598 @@
+{
+  "barcode_priority": [
+    {
+      "is_simulated": true,
+      "name_or_asv": "Piscis gamma",
+      "nearest_hint": "",
+      "reasons": [
+        "endemic",
+        "observed_reference_gap"
+      ],
+      "score": 5,
+      "sites": [],
+      "total_reads": 0,
+      "type": "species",
+      "waterbody_id": "MATANO"
+    },
+    {
+      "is_simulated": true,
+      "name_or_asv": "Rasbo eta",
+      "nearest_hint": "",
+      "reasons": [
+        "observed_reference_gap"
+      ],
+      "score": 2,
+      "sites": [],
+      "total_reads": 0,
+      "type": "species",
+      "waterbody_id": "MATANO"
+    },
+    {
+      "is_simulated": true,
+      "name_or_asv": "Rasbo theta",
+      "nearest_hint": "",
+      "reasons": [
+        "observed_reference_gap"
+      ],
+      "score": 2,
+      "sites": [],
+      "total_reads": 0,
+      "type": "species",
+      "waterbody_id": "MATANO"
+    },
+    {
+      "is_simulated": true,
+      "name_or_asv": "SIM_ASV_012",
+      "nearest_hint": "Rasbo iota",
+      "reasons": [
+        "unknown"
+      ],
+      "score": 0,
+      "sites": [
+        "MAT-S1",
+        "MAT-S4"
+      ],
+      "total_reads": 1800,
+      "type": "asv",
+      "waterbody_id": "MATANO"
+    },
+    {
+      "is_simulated": true,
+      "name_or_asv": "SIM_ASV_013",
+      "nearest_hint": "Rasbo iota",
+      "reasons": [
+        "unknown"
+      ],
+      "score": 0,
+      "sites": [
+        "MAT-S2",
+        "MAT-S5"
+      ],
+      "total_reads": 1800,
+      "type": "asv",
+      "waterbody_id": "MATANO"
+    }
+  ],
+  "claims": [
+    {
+      "assessed_with_lab_database": false,
+      "asv_id": "SIM_ASV_003",
+      "best_match": "Tilapa omega",
+      "best_pct": 100.0,
+      "candidates": [
+        {
+          "bitscore": 307.0,
+          "pct": 100.0,
+          "query_coverage": 1.0,
+          "seq_id": "SIM_REF_010",
+          "species": "Tilapa omega"
+        }
+      ],
+      "cap_reason": "",
+      "causes": [],
+      "claim_id": "MAT-S1__SIM_ASV_003",
+      "complex_id": "",
+      "decision": "safe",
+      "decision_rule": "R-DEC-01",
+      "follow_up": "Boleh dimasukkan ke dokumen pada tingkat nama yang tertera.",
+      "gap_pct": null,
+      "grade": "A",
+      "in_negative_control": false,
+      "interpretation_limit": "Deteksi DNA bukan bukti pasti ikan hidup di lokasi.",
+      "is_simulated": true,
+      "l1": 2,
+      "l2": 1,
+      "l4": 2,
+      "labels": [
+        "invasive"
+      ],
+      "n_pos": 3,
+      "n_rep": 3,
+      "origin_other_sources": "Kemungkinan sumber DNA lain: aliran dari hulu, keramba, atau limbah pasar; belum diverifikasi di lokasi.",
+      "origin_pathway": "Kemungkinan jalur tercatat: budidaya",
+      "origin_status": "Kemungkinan status menurut checklist: introduksi",
+      "p_missing": 0.0,
+      "reasons_en": [
+        "L1 = 2/2; best identity 100.00%; gap outside the candidate set tidak ada kandidat di luar jendela.",
+        "L2 = 1/1; checked against the MATANO waterbody checklist.",
+        "L4 = 2/2; detected in 3 of 3 replicates, with 900 total reads.",
+        "DNA detection is not proof that the fish lives at the site."
+      ],
+      "reasons_id": [
+        "L1 = 2/2; kemiripan terbaik 100.00%; selisih di luar kandidat tidak ada kandidat di luar jendela.",
+        "L2 = 1/1; pemeriksaan checklist perairan MATANO.",
+        "L4 = 2/2; terdeteksi di 3 dari 3 replikat, total 900 bacaan.",
+        "Deteksi DNA bukan bukti pasti ikan hidup di lokasi."
+      ],
+      "reported_name": "Tilapa omega",
+      "reported_rank": "species",
+      "rule_ids": [
+        "R-NAME-07",
+        "R-DEC-01"
+      ],
+      "run_id": "40453debdd09",
+      "site_id": "MAT-S1",
+      "supporting_accessions": [],
+      "supporting_seq_ids": [
+        "SIM_REF_010"
+      ],
+      "taxon_lab": "Tilapa omega",
+      "total": 5,
+      "total_reads": 900,
+      "voucher_support": "V2",
+      "warnings": [],
+      "waterbody_id": "MATANO"
+    },
+    {
+      "assessed_with_lab_database": false,
+      "asv_id": "SIM_ASV_006",
+      "best_match": "Piscis alpha",
+      "best_pct": 99.412,
+      "candidates": [
+        {
+          "bitscore": 303.0,
+          "pct": 99.412,
+          "query_coverage": 1.0,
+          "seq_id": "SIM_REF_006",
+          "species": "Piscis alpha"
+        }
+      ],
+      "cap_reason": "",
+      "causes": [
+        "reference"
+      ],
+      "claim_id": "MAT-S1__SIM_ASV_006",
+      "complex_id": "KX_PISCIS_SIMULASI",
+      "decision": "must_verify",
+      "decision_rule": "R-DEC-03",
+      "follow_up": "Jangan dijadikan kesimpulan sebelum dicek: marker kedua (COI/16S), survei tangkap, atau barcode spesimen voucher. Kemungkinan ikan endemik yang belum ada di kamus.",
+      "gap_pct": 0.5880000000000081,
+      "grade": "C",
+      "in_negative_control": false,
+      "interpretation_limit": "Deteksi DNA bukan bukti pasti ikan hidup di lokasi.",
+      "is_simulated": true,
+      "l1": 1,
+      "l2": 1,
+      "l4": 1,
+      "labels": [
+        "endemic",
+        "possible_unreferenced_endemic"
+      ],
+      "n_pos": 2,
+      "n_rep": 3,
+      "origin_other_sources": "Kemungkinan sumber DNA lain: aliran dari hulu, keramba, atau limbah pasar; belum diverifikasi di lokasi.",
+      "origin_pathway": "Kemungkinan jalur tercatat: tidak tersedia dalam sumber",
+      "origin_status": "Kemungkinan status menurut checklist: endemik",
+      "p_missing": 0.3333333333333333,
+      "reasons_en": [
+        "L1 = 1/2; best identity 99.41%; gap outside the candidate set 0.59%.",
+        "L2 = 1/1; checked against the MATANO waterbody checklist.",
+        "L4 = 1/2; detected in 2 of 3 replicates, with 900 total reads.",
+        "Local relatives are missing from the reference; the congener-gap rule lowers the reported rank.",
+        "DNA detection is not proof that the fish lives at the site."
+      ],
+      "reasons_id": [
+        "L1 = 1/2; kemiripan terbaik 99.41%; selisih di luar kandidat 0.59%.",
+        "L2 = 1/1; pemeriksaan checklist perairan MATANO.",
+        "L4 = 1/2; terdeteksi di 2 dari 3 replikat, total 900 bacaan.",
+        "Kerabat lokal belum lengkap dalam kamus; nama diturunkan sesuai aturan celah kerabat.",
+        "Deteksi DNA bukan bukti pasti ikan hidup di lokasi."
+      ],
+      "reported_name": "kompleks Piscis Matano (SIMULASI)",
+      "reported_rank": "complex",
+      "rule_ids": [
+        "R-NAME-07",
+        "R-NAME-08",
+        "R-DEC-03"
+      ],
+      "run_id": "40453debdd09",
+      "site_id": "MAT-S1",
+      "supporting_accessions": [],
+      "supporting_seq_ids": [
+        "SIM_REF_006"
+      ],
+      "taxon_lab": "Piscis alpha",
+      "total": 3,
+      "total_reads": 900,
+      "voucher_support": "V2",
+      "warnings": [],
+      "waterbody_id": "MATANO"
+    },
+    {
+      "assessed_with_lab_database": false,
+      "asv_id": "SIM_ASV_009",
+      "best_match": "Tilapa omega",
+      "best_pct": 100.0,
+      "candidates": [
+        {
+          "bitscore": 307.0,
+          "pct": 100.0,
+          "query_coverage": 1.0,
+          "seq_id": "SIM_REF_010",
+          "species": "Tilapa omega"
+        }
+      ],
+      "cap_reason": "negative_control",
+      "causes": [
+        "sample"
+      ],
+      "claim_id": "MAT-S1__SIM_ASV_009",
+      "complex_id": "",
+      "decision": "must_verify",
+      "decision_rule": "R-DEC-03",
+      "follow_up": "Jangan dijadikan kesimpulan sebelum dicek: marker kedua (COI/16S), survei tangkap, atau barcode spesimen voucher. Jangan dijadikan dasar pemberantasan sebelum dicek.",
+      "gap_pct": null,
+      "grade": "D",
+      "in_negative_control": true,
+      "interpretation_limit": "Deteksi DNA bukan bukti pasti ikan hidup di lokasi.",
+      "is_simulated": true,
+      "l1": 2,
+      "l2": 1,
+      "l4": 2,
+      "labels": [
+        "invasive"
+      ],
+      "n_pos": 3,
+      "n_rep": 3,
+      "origin_other_sources": "Kemungkinan sumber DNA lain: aliran dari hulu, keramba, atau limbah pasar; belum diverifikasi di lokasi.",
+      "origin_pathway": "Kemungkinan jalur tercatat: budidaya",
+      "origin_status": "Kemungkinan status menurut checklist: introduksi",
+      "p_missing": 0.0,
+      "reasons_en": [
+        "L1 = 2/2; best identity 100.00%; gap outside the candidate set tidak ada kandidat di luar jendela.",
+        "L2 = 1/1; checked against the MATANO waterbody checklist.",
+        "L4 = 2/2; detected in 3 of 3 replicates, with 900 total reads.",
+        "The same DNA appears in a related batch negative control; the grade is capped at D.",
+        "DNA detection is not proof that the fish lives at the site."
+      ],
+      "reasons_id": [
+        "L1 = 2/2; kemiripan terbaik 100.00%; selisih di luar kandidat tidak ada kandidat di luar jendela.",
+        "L2 = 1/1; pemeriksaan checklist perairan MATANO.",
+        "L4 = 2/2; terdeteksi di 3 dari 3 replikat, total 900 bacaan.",
+        "DNA yang sama muncul di kontrol negatif batch terkait; nilai dibatasi D.",
+        "Deteksi DNA bukan bukti pasti ikan hidup di lokasi."
+      ],
+      "reported_name": "Tilapa omega",
+      "reported_rank": "species",
+      "rule_ids": [
+        "R-NAME-07",
+        "R-DEC-03"
+      ],
+      "run_id": "40453debdd09",
+      "site_id": "MAT-S1",
+      "supporting_accessions": [],
+      "supporting_seq_ids": [
+        "SIM_REF_010"
+      ],
+      "taxon_lab": "Tilapa omega",
+      "total": 5,
+      "total_reads": 900,
+      "voucher_support": "V2",
+      "warnings": [],
+      "waterbody_id": "MATANO"
+    },
+    {
+      "assessed_with_lab_database": false,
+      "asv_id": "SIM_ASV_012",
+      "best_match": "Rasbo iota",
+      "best_pct": 91.176,
+      "candidates": [],
+      "cap_reason": "",
+      "causes": [
+        "reference"
+      ],
+      "claim_id": "MAT-S1__SIM_ASV_012",
+      "complex_id": "",
+      "decision": "with_note",
+      "decision_rule": "R-DEC-06",
+      "follow_up": "Ikan tidak dikenal, kemungkinan belum ada di kamus. Tulis pada tingkat nama yang aman; sertakan catatan penyebab dan cek kemungkinan sumber DNA lain.",
+      "gap_pct": 3.5289999999999964,
+      "grade": "C",
+      "in_negative_control": false,
+      "interpretation_limit": "Deteksi DNA bukan bukti pasti ikan hidup di lokasi.",
+      "is_simulated": true,
+      "l1": 0,
+      "l2": 0,
+      "l4": 2,
+      "labels": [],
+      "n_pos": 3,
+      "n_rep": 3,
+      "origin_other_sources": "Kemungkinan sumber DNA lain: aliran dari hulu, keramba, atau limbah pasar; belum diverifikasi di lokasi.",
+      "origin_pathway": "Kemungkinan jalur tercatat: tidak tersedia dalam sumber",
+      "origin_status": "Kemungkinan status menurut checklist: tidak tercatat",
+      "p_missing": 0.5,
+      "reasons_en": [
+        "L1 = 0/2; best identity 91.18%; gap outside the candidate set 3.53%.",
+        "L2 = 0/1; checked against the MATANO waterbody checklist.",
+        "L4 = 2/2; detected in 3 of 3 replicates, with 900 total reads.",
+        "No naming support meets the 95.0% threshold; the true species may be absent from the reference.",
+        "DNA detection is not proof that the fish lives at the site."
+      ],
+      "reasons_id": [
+        "L1 = 0/2; kemiripan terbaik 91.18%; selisih di luar kandidat 3.53%.",
+        "L2 = 0/1; pemeriksaan checklist perairan MATANO.",
+        "L4 = 2/2; terdeteksi di 3 dari 3 replikat, total 900 bacaan.",
+        "Tidak ditemukan dukungan nama yang memenuhi ambang 95.0%; kemungkinan spesies belum ada di kamus.",
+        "Deteksi DNA bukan bukti pasti ikan hidup di lokasi."
+      ],
+      "reported_name": "tidak dikenal",
+      "reported_rank": "unknown",
+      "rule_ids": [
+        "R-NAME-03",
+        "R-DEC-06"
+      ],
+      "run_id": "40453debdd09",
+      "site_id": "MAT-S1",
+      "supporting_accessions": [],
+      "supporting_seq_ids": [],
+      "taxon_lab": "Rasbo iota",
+      "total": 2,
+      "total_reads": 900,
+      "voucher_support": null,
+      "warnings": [],
+      "waterbody_id": "MATANO"
+    },
+    {
+      "assessed_with_lab_database": false,
+      "asv_id": "SIM_ASV_015",
+      "best_match": "Gobio lambda",
+      "best_pct": 100.0,
+      "candidates": [
+        {
+          "bitscore": 307.0,
+          "pct": 100.0,
+          "query_coverage": 1.0,
+          "seq_id": "SIM_REF_003",
+          "species": "Gobio lambda"
+        }
+      ],
+      "cap_reason": "",
+      "causes": [
+        "location"
+      ],
+      "claim_id": "MAT-S1__SIM_ASV_015",
+      "complex_id": "",
+      "decision": "with_note",
+      "decision_rule": "R-DEC-08",
+      "follow_up": "Tulis pada tingkat nama yang aman; sertakan catatan penyebab dan cek kemungkinan sumber DNA lain.",
+      "gap_pct": 3.5289999999999964,
+      "grade": "B",
+      "in_negative_control": false,
+      "interpretation_limit": "Deteksi DNA bukan bukti pasti ikan hidup di lokasi.",
+      "is_simulated": true,
+      "l1": 2,
+      "l2": 0,
+      "l4": 2,
+      "labels": [],
+      "n_pos": 3,
+      "n_rep": 3,
+      "origin_other_sources": "Kemungkinan sumber DNA lain: aliran dari hulu, keramba, atau limbah pasar; belum diverifikasi di lokasi.",
+      "origin_pathway": "Kemungkinan jalur tercatat: tidak tersedia dalam sumber",
+      "origin_status": "Kemungkinan status menurut checklist: tidak tercatat",
+      "p_missing": 0.0,
+      "reasons_en": [
+        "L1 = 2/2; best identity 100.00%; gap outside the candidate set 3.53%.",
+        "L2 = 0/1; checked against the MATANO waterbody checklist.",
+        "L4 = 2/2; detected in 3 of 3 replicates, with 900 total reads.",
+        "DNA detection is not proof that the fish lives at the site."
+      ],
+      "reasons_id": [
+        "L1 = 2/2; kemiripan terbaik 100.00%; selisih di luar kandidat 3.53%.",
+        "L2 = 0/1; pemeriksaan checklist perairan MATANO.",
+        "L4 = 2/2; terdeteksi di 3 dari 3 replikat, total 900 bacaan.",
+        "Deteksi DNA bukan bukti pasti ikan hidup di lokasi."
+      ],
+      "reported_name": "Gobio lambda",
+      "reported_rank": "species",
+      "rule_ids": [
+        "R-NAME-07",
+        "R-DEC-08"
+      ],
+      "run_id": "40453debdd09",
+      "site_id": "MAT-S1",
+      "supporting_accessions": [],
+      "supporting_seq_ids": [
+        "SIM_REF_003"
+      ],
+      "taxon_lab": "Gobio lambda",
+      "total": 4,
+      "total_reads": 900,
+      "voucher_support": "V2",
+      "warnings": [],
+      "waterbody_id": "MATANO"
+    },
+    {
+      "assessed_with_lab_database": false,
+      "asv_id": "SIM_ASV_001",
+      "best_match": "Gobio delta",
+      "best_pct": 100.0,
+      "candidates": [
+        {
+          "bitscore": 307.0,
+          "pct": 100.0,
+          "query_coverage": 1.0,
+          "seq_id": "SIM_REF_001",
+          "species": "Gobio delta"
+        }
+      ],
+      "cap_reason": "",
+      "causes": [],
+      "claim_id": "MAT-S2__SIM_ASV_001",
+      "complex_id": "",
+      "decision": "safe",
+      "decision_rule": "R-DEC-01",
+      "follow_up": "Boleh dimasukkan ke dokumen pada tingkat nama yang tertera.",
+      "gap_pct": 1.176000000000002,
+      "grade": "A",
+      "in_negative_control": false,
+      "interpretation_limit": "Deteksi DNA bukan bukti pasti ikan hidup di lokasi.",
+      "is_simulated": true,
+      "l1": 2,
+      "l2": 1,
+      "l4": 2,
+      "labels": [
+        "endemic"
+      ],
+      "n_pos": 3,
+      "n_rep": 3,
+      "origin_other_sources": "Kemungkinan sumber DNA lain: aliran dari hulu, keramba, atau limbah pasar; belum diverifikasi di lokasi.",
+      "origin_pathway": "Kemungkinan jalur tercatat: tidak tersedia dalam sumber",
+      "origin_status": "Kemungkinan status menurut checklist: endemik",
+      "p_missing": 0.0,
+      "reasons_en": [
+        "L1 = 2/2; best identity 100.00%; gap outside the candidate set 1.18%.",
+        "L2 = 1/1; checked against the MATANO waterbody checklist.",
+        "L4 = 2/2; detected in 3 of 3 replicates, with 900 total reads.",
+        "DNA detection is not proof that the fish lives at the site."
+      ],
+      "reasons_id": [
+        "L1 = 2/2; kemiripan terbaik 100.00%; selisih di luar kandidat 1.18%.",
+        "L2 = 1/1; pemeriksaan checklist perairan MATANO.",
+        "L4 = 2/2; terdeteksi di 3 dari 3 replikat, total 900 bacaan.",
+        "Deteksi DNA bukan bukti pasti ikan hidup di lokasi."
+      ],
+      "reported_name": "Gobio delta",
+      "reported_rank": "species",
+      "rule_ids": [
+        "R-NAME-07",
+        "R-DEC-01"
+      ],
+      "run_id": "40453debdd09",
+      "site_id": "MAT-S2",
+      "supporting_accessions": [],
+      "supporting_seq_ids": [
+        "SIM_REF_001"
+      ],
+      "taxon_lab": "Gobio delta",
+      "total": 5,
+      "total_reads": 900,
+      "voucher_support": "V2",
+      "warnings": [],
+      "waterbody_id": "MATANO"
+    },
+    {
+      "assessed_with_lab_database": false,
+      "asv_id": "SIM_ASV_004",
+      "best_match": "Piscis alpha",
+      "best_pct": 99.412,
+      "candidates": [
+        {
+          "bitscore": 303.0,
+          "pct": 99.412,
+          "query_coverage": 1.0,
+          "seq_id": "SIM_REF_006",
+          "species": "Piscis alpha"
+        },
+        {
+          "bitscore": 303.0,
+          "pct": 99.412,
+          "query_coverage": 1.0,
+          "seq_id": "SIM_REF_007",
+          "species": "Piscis beta"
+        }
+      ],
+      "cap_reason": "",
+      "causes": [
+        "marker"
+      ],
+      "claim_id": "MAT-S2__SIM_ASV_004",
+      "complex_id": "KX_PISCIS_SIMULASI",
+      "decision": "safe",
+      "decision_rule": "R-DEC-01",
+      "follow_up": "Boleh dimasukkan ke dokumen pada tingkat nama yang tertera. Kemungkinan ikan endemik yang belum ada di kamus.",
+      "gap_pct": null,
+      "grade": "A",
+      "in_negative_control": false,
+      "interpretation_limit": "Deteksi DNA bukan bukti pasti ikan hidup di lokasi.",
+      "is_simulated": true,
+      "l1": 2,
+      "l2": 1,
+      "l4": 2,
+      "labels": [
+        "endemic",
+        "possible_unreferenced_endemic"
+      ],
+      "n_pos": 3,
+      "n_rep": 3,
+      "origin_other_sources": "Kemungkinan sumber DNA lain: aliran dari hulu, keramba, atau limbah pasar; belum diverifikasi di lokasi.",
+      "origin_pathway": "Kemungkinan jalur tercatat: tidak tersedia dalam sumber",
+      "origin_status": "Kemungkinan status menurut checklist: endemik",
+      "p_missing": 0.3333333333333333,
+      "reasons_en": [
+        "L1 = 2/2; best identity 99.41%; gap outside the candidate set tidak ada kandidat di luar jendela.",
+        "L2 = 1/1; checked against the MATANO waterbody checklist.",
+        "L4 = 2/2; detected in 3 of 3 replicates, with 900 total reads.",
+        "Candidates belong to kompleks Piscis Matano (SIMULASI); this marker does not support separating species names.",
+        "Local relatives are missing from the reference; the congener-gap rule lowers the reported rank.",
+        "DNA detection is not proof that the fish lives at the site."
+      ],
+      "reasons_id": [
+        "L1 = 2/2; kemiripan terbaik 99.41%; selisih di luar kandidat tidak ada kandidat di luar jendela.",
+        "L2 = 1/1; pemeriksaan checklist perairan MATANO.",
+        "L4 = 2/2; terdeteksi di 3 dari 3 replikat, total 900 bacaan.",
+        "Kandidat berada dalam kompleks kompleks Piscis Matano (SIMULASI); marker ini belum mendukung pemisahan nama spesies.",
+        "Kerabat lokal belum lengkap dalam kamus; nama diturunkan sesuai aturan celah kerabat.",
+        "Deteksi DNA bukan bukti pasti ikan hidup di lokasi."
+      ],
+      "reported_name": "kompleks Piscis Matano (SIMULASI)",
+      "reported_rank": "complex",
+      "rule_ids": [
+        "R-NAME-05",
+        "R-NAME-08",
+        "R-DEC-01"
+      ],
+      "run_id": "40453debdd09",
+      "site_id": "MAT-S2",
+      "supporting_accessions": [],
+      "supporting_seq_ids": [
+        "SIM_REF_006",
+        "SIM_REF_007"
+      ],
+      "taxon_lab": "Piscis alpha",
+      "total": 5,
+      "total_reads": 900,
+      "voucher_support": "V2",
+      "warnings": [],
+      "waterbody_id": "MATANO"
+    },
+    {
+      "assessed_with_lab_database": false,
+      "asv_id": "SIM_ASV_007",
+      "best_match": "Gobio delta",
+      "best_pct": 100.0,
+      "candidates": [
+        {
+          "bitscore": 307.0,
+          "pct": 100.0,
+          "query_coverage": 1.0,
+          "seq_id": "SIM_REF_001",
+          "species": "Gobio delta"
+        }
+      ],
+      "cap_reason": "low_reads",
+      "causes": [
+        "sample"
+      ],
+      "claim_id": "MAT-S2__SIM_ASV_007",
+      "complex_id": "",
+      "decision": "must_verify",
+      "decision_rule": "R-DEC-03",
+      "follow_up": "Jangan dijadikan kesimpulan sebelum dicek: marker kedua (COI/16S), survei tangkap, atau barcode spesimen voucher. Klaim tidak dibuang agar tidak berujung kesimpulan 'tidak ada' yang keliru.",
+      "gap_pct": 1.176000000000002,
+      "grade": "D",
+      "in_negative_control": false,
+      "interpretation_limit": "Deteksi DNA bukan bukti pasti ikan hidup di lokasi.",
+      "is_simulated": true,
+      "l1": 2,
+      "l2": 1,
+      "l4": 2,
+      "labels": [
+        "endemic"
+      ],
+      "n_pos": 3,
+      "n_rep": 3,
+      "origin_other_sources": "Kemungkinan sumber DNA lain: aliran dari hulu, keramba, atau limbah pasar; belum diverifikasi di lokasi.",
+      "origin_pathway": "Kemungkinan jalur tercatat: tidak tersedia dalam sumber",
+      "origin_status": "Kemungkinan status menurut checklist: endemik",
+      "p_missing": 0.0,
+      "reasons_en": [
+        "L1 = 2/2; best identity 100.00%; gap outside the candidate set 1.18%.",
+        "L2 = 1/1; checked against the MATANO waterbody checklist.",
+        "L4 = 2/2; detected in 3 of 3 replicates, with 7 total reads.",
+        "Total reads are below 10; the grade is capped at D.",
+        "DNA detection is not proof that the fish lives at the site."
+      ],
+      "reasons_id": [
+        "L1 = 2/2; kemiripan terbaik 100.00%; selisih di luar kandidat 1.18%.",
+        "L2 = 1/1; pemeriksaan checklist perairan MATANO.",
+        "L4 = 2/2; terdeteksi di 3 dari 3 replikat, total 7 bacaan.",
+        "Total bacaan di bawah 10; nilai dibatasi D.",
+        "Deteksi DNA bukan bukti pasti ikan hidup di lokasi."
+      ],
+      "reported_name": "Gobio delta",
+      "reported_rank": "species",
+      "rule_ids": [
+        "R-NAME-07",
+        "R-DEC-03"
+      ],
+      "run_id": "40453debdd09",
+      "site_id": "MAT-S2",
+      "supporting_accessions": [],
+      "supporting_seq_ids": [
+        "SIM_REF_001"
+      ],
+      "taxon_lab": "Gobio delta",
+      "total": 5,
+      "total_reads": 7,
+      "voucher_support": "V2",
+      "warnings": [],
+      "waterbody_id": "MATANO"
+    },
+    {
+      "assessed_with_lab_database": false,
+      "asv_id": "SIM_ASV_009",
+      "best_match": "Tilapa omega",
+      "best_pct": 100.0,
+      "candidates": [
+        {
+          "bitscore": 307.0,
+          "pct": 100.0,
+          "query_coverage": 1.0,
+          "seq_id": "SIM_REF_010",
+          "species": "Tilapa omega"
+        }
+      ],
+      "cap_reason": "negative_control",
+      "causes": [
+        "sample"
+      ],
+      "claim_id": "MAT-S2__SIM_ASV_009",
+      "complex_id": "",
+      "decision": "must_verify",
+      "decision_rule": "R-DEC-03",
+      "follow_up": "Jangan dijadikan kesimpulan sebelum dicek: marker kedua (COI/16S), survei tangkap, atau barcode spesimen voucher. Jangan dijadikan dasar pemberantasan sebelum dicek.",
+      "gap_pct": null,
+      "grade": "D",
+      "in_negative_control": true,
+      "interpretation_limit": "Deteksi DNA bukan bukti pasti ikan hidup di lokasi.",
+      "is_simulated": true,
+      "l1": 2,
+      "l2": 1,
+      "l4": 2,
+      "labels": [
+        "invasive"
+      ],
+      "n_pos": 3,
+      "n_rep": 3,
+      "origin_other_sources": "Kemungkinan sumber DNA lain: aliran dari hulu, keramba, atau limbah pasar; belum diverifikasi di lokasi.",
+      "origin_pathway": "Kemungkinan jalur tercatat: budidaya",
+      "origin_status": "Kemungkinan status menurut checklist: introduksi",
+      "p_missing": 0.0,
+      "reasons_en": [
+        "L1 = 2/2; best identity 100.00%; gap outside the candidate set tidak ada kandidat di luar jendela.",
+        "L2 = 1/1; checked against the MATANO waterbody checklist.",
+        "L4 = 2/2; detected in 3 of 3 replicates, with 900 total reads.",
+        "The same DNA appears in a related batch negative control; the grade is capped at D.",
+        "DNA detection is not proof that the fish lives at the site."
+      ],
+      "reasons_id": [
+        "L1 = 2/2; kemiripan terbaik 100.00%; selisih di luar kandidat tidak ada kandidat di luar jendela.",
+        "L2 = 1/1; pemeriksaan checklist perairan MATANO.",
+        "L4 = 2/2; terdeteksi di 3 dari 3 replikat, total 900 bacaan.",
+        "DNA yang sama muncul di kontrol negatif batch terkait; nilai dibatasi D.",
+        "Deteksi DNA bukan bukti pasti ikan hidup di lokasi."
+      ],
+      "reported_name": "Tilapa omega",
+      "reported_rank": "species",
+      "rule_ids": [
+        "R-NAME-07",
+        "R-DEC-03"
+      ],
+      "run_id": "40453debdd09",
+      "site_id": "MAT-S2",
+      "supporting_accessions": [],
+      "supporting_seq_ids": [
+        "SIM_REF_010"
+      ],
+      "taxon_lab": "Tilapa omega",
+      "total": 5,
+      "total_reads": 900,
+      "voucher_support": "V2",
+      "warnings": [],
+      "waterbody_id": "MATANO"
+    },
+    {
+      "assessed_with_lab_database": false,
+      "asv_id": "SIM_ASV_013",
+      "best_match": "Rasbo iota",
+      "best_pct": 91.765,
+      "candidates": [],
+      "cap_reason": "",
+      "causes": [
+        "reference"
+      ],
+      "claim_id": "MAT-S2__SIM_ASV_013",
+      "complex_id": "",
+      "decision": "with_note",
+      "decision_rule": "R-DEC-06",
+      "follow_up": "Ikan tidak dikenal, kemungkinan belum ada di kamus. Tulis pada tingkat nama yang aman; sertakan catatan penyebab dan cek kemungkinan sumber DNA lain.",
+      "gap_pct": 3.530000000000001,
+      "grade": "C",
+      "in_negative_control": false,
+      "interpretation_limit": "Deteksi DNA bukan bukti pasti ikan hidup di lokasi.",
+      "is_simulated": true,
+      "l1": 0,
+      "l2": 0,
+      "l4": 2,
+      "labels": [],
+      "n_pos": 3,
+      "n_rep": 3,
+      "origin_other_sources": "Kemungkinan sumber DNA lain: aliran dari hulu, keramba, atau limbah pasar; belum diverifikasi di lokasi.",
+      "origin_pathway": "Kemungkinan jalur tercatat: tidak tersedia dalam sumber",
+      "origin_status": "Kemungkinan status menurut checklist: tidak tercatat",
+      "p_missing": 0.5,
+      "reasons_en": [
+        "L1 = 0/2; best identity 91.77%; gap outside the candidate set 3.53%.",
+        "L2 = 0/1; checked against the MATANO waterbody checklist.",
+        "L4 = 2/2; detected in 3 of 3 replicates, with 900 total reads.",
+        "No naming support meets the 95.0% threshold; the true species may be absent from the reference.",
+        "DNA detection is not proof that the fish lives at the site."
+      ],
+      "reasons_id": [
+        "L1 = 0/2; kemiripan terbaik 91.77%; selisih di luar kandidat 3.53%.",
+        "L2 = 0/1; pemeriksaan checklist perairan MATANO.",
+        "L4 = 2/2; terdeteksi di 3 dari 3 replikat, total 900 bacaan.",
+        "Tidak ditemukan dukungan nama yang memenuhi ambang 95.0%; kemungkinan spesies belum ada di kamus.",
+        "Deteksi DNA bukan bukti pasti ikan hidup di lokasi."
+      ],
+      "reported_name": "tidak dikenal",
+      "reported_rank": "unknown",
+      "rule_ids": [
+        "R-NAME-03",
+        "R-DEC-06"
+      ],
+      "run_id": "40453debdd09",
+      "site_id": "MAT-S2",
+      "supporting_accessions": [],
+      "supporting_seq_ids": [],
+      "taxon_lab": "Rasbo iota",
+      "total": 2,
+      "total_reads": 900,
+      "voucher_support": null,
+      "warnings": [],
+      "waterbody_id": "MATANO"
+    },
+    {
+      "assessed_with_lab_database": false,
+      "asv_id": "SIM_ASV_016",
+      "best_match": "Gobio delta",
+      "best_pct": 99.412,
+      "candidates": [
+        {
+          "bitscore": 303.0,
+          "pct": 99.412,
+          "query_coverage": 1.0,
+          "seq_id": "SIM_REF_001",
+          "species": "Gobio delta"
+        },
+        {
+          "bitscore": 303.0,
+          "pct": 99.412,
+          "query_coverage": 1.0,
+          "seq_id": "SIM_REF_002",
+          "species": "Gobio epsilon"
+        }
+      ],
+      "cap_reason": "",
+      "causes": [
+        "marker"
+      ],
+      "claim_id": "MAT-S2__SIM_ASV_016",
+      "complex_id": "",
+      "decision": "safe",
+      "decision_rule": "R-DEC-01",
+      "follow_up": "Boleh dimasukkan ke dokumen pada tingkat nama yang tertera. Sebagian kandidat berstatus endemik atau terancam.",
+      "gap_pct": 3.530000000000001,
+      "grade": "A",
+      "in_negative_control": false,
+      "interpretation_limit": "Deteksi DNA bukan bukti pasti ikan hidup di lokasi.",
+      "is_simulated": true,
+      "l1": 2,
+      "l2": 1,
+      "l4": 2,
+      "labels": [
+        "possible_endemic"
+      ],
+      "n_pos": 3,
+      "n_rep": 3,
+      "origin_other_sources": "Kemungkinan sumber DNA lain: aliran dari hulu, keramba, atau limbah pasar; belum diverifikasi di lokasi.",
+      "origin_pathway": "Kemungkinan jalur tercatat: tidak tersedia dalam sumber",
+      "origin_status": "Kemungkinan status menurut checklist: asli, endemik",
+      "p_missing": 0.0,
+      "reasons_en": [
+        "L1 = 2/2; best identity 99.41%; gap outside the candidate set 3.53%.",
+        "L2 = 1/1; checked against the MATANO waterbody checklist.",
+        "L4 = 2/2; detected in 3 of 3 replicates, with 900 total reads.",
+        "Several close candidates remain; the name is reported at genus: Gobio.",
+        "DNA detection is not proof that the fish lives at the site."
+      ],
+      "reasons_id": [
+        "L1 = 2/2; kemiripan terbaik 99.41%; selisih di luar kandidat 3.53%.",
+        "L2 = 1/1; pemeriksaan checklist perairan MATANO.",
+        "L4 = 2/2; terdeteksi di 3 dari 3 replikat, total 900 bacaan.",
+        "Beberapa kandidat berdekatan; nama dilaporkan pada tingkat genus: Gobio.",
+        "Deteksi DNA bukan bukti pasti ikan hidup di lokasi."
+      ],
+      "reported_name": "Gobio",
+      "reported_rank": "genus",
+      "rule_ids": [
+        "R-NAME-06",
+        "R-DEC-01"
+      ],
+      "run_id": "40453debdd09",
+      "site_id": "MAT-S2",
+      "supporting_accessions": [],
+      "supporting_seq_ids": [
+        "SIM_REF_001",
+        "SIM_REF_002"
+      ],
+      "taxon_lab": "Gobio delta",
+      "total": 5,
+      "total_reads": 900,
+      "voucher_support": "V2",
+      "warnings": [],
+      "waterbody_id": "MATANO"
+    },
+    {
+      "assessed_with_lab_database": false,
+      "asv_id": "SIM_ASV_002",
+      "best_match": "Gobio epsilon",
+      "best_pct": 100.0,
+      "candidates": [
+        {
+          "bitscore": 307.0,
+          "pct": 100.0,
+          "query_coverage": 1.0,
+          "seq_id": "SIM_REF_002",
+          "species": "Gobio epsilon"
+        }
+      ],
+      "cap_reason": "",
+      "causes": [],
+      "claim_id": "MAT-S3__SIM_ASV_002",
+      "complex_id": "",
+      "decision": "safe",
+      "decision_rule": "R-DEC-01",
+      "follow_up": "Boleh dimasukkan ke dokumen pada tingkat nama yang tertera.",
+      "gap_pct": 1.176000000000002,
+      "grade": "A",
+      "in_negative_control": false,
+      "interpretation_limit": "Deteksi DNA bukan bukti pasti ikan hidup di lokasi.",
+      "is_simulated": true,
+      "l1": 2,
+      "l2": 1,
+      "l4": 2,
+      "labels": [],
+      "n_pos": 3,
+      "n_rep": 3,
+      "origin_other_sources": "Kemungkinan sumber DNA lain: aliran dari hulu, keramba, atau limbah pasar; belum diverifikasi di lokasi.",
+      "origin_pathway": "Kemungkinan jalur tercatat: tidak tersedia dalam sumber",
+      "origin_status": "Kemungkinan status menurut checklist: asli",
+      "p_missing": 0.0,
+      "reasons_en": [
+        "L1 = 2/2; best identity 100.00%; gap outside the candidate set 1.18%.",
+        "L2 = 1/1; checked against the MATANO waterbody checklist.",
+        "L4 = 2/2; detected in 3 of 3 replicates, with 900 total reads.",
+        "DNA detection is not proof that the fish lives at the site."
+      ],
+      "reasons_id": [
+        "L1 = 2/2; kemiripan terbaik 100.00%; selisih di luar kandidat 1.18%.",
+        "L2 = 1/1; pemeriksaan checklist perairan MATANO.",
+        "L4 = 2/2; terdeteksi di 3 dari 3 replikat, total 900 bacaan.",
+        "Deteksi DNA bukan bukti pasti ikan hidup di lokasi."
+      ],
+      "reported_name": "Gobio epsilon",
+      "reported_rank": "species",
+      "rule_ids": [
+        "R-NAME-07",
+        "R-DEC-01"
+      ],
+      "run_id": "40453debdd09",
+      "site_id": "MAT-S3",
+      "supporting_accessions": [],
+      "supporting_seq_ids": [
+        "SIM_REF_002"
+      ],
+      "taxon_lab": "Gobio epsilon",
+      "total": 5,
+      "total_reads": 900,
+      "voucher_support": "V2",
+      "warnings": [],
+      "waterbody_id": "MATANO"
+    },
+    {
+      "assessed_with_lab_database": false,
+      "asv_id": "SIM_ASV_005",
+      "best_match": "Rasbo zeta",
+      "best_pct": 100.0,
+      "candidates": [
+        {
+          "bitscore": 307.0,
+          "pct": 100.0,
+          "query_coverage": 1.0,
+          "seq_id": "SIM_REF_009",
+          "species": "Rasbo zeta"
+        }
+      ],
+      "cap_reason": "",
+      "causes": [
+        "reference"
+      ],
+      "claim_id": "MAT-S3__SIM_ASV_005",
+      "complex_id": "",
+      "decision": "safe",
+      "decision_rule": "R-DEC-01",
+      "follow_up": "Boleh dimasukkan ke dokumen pada tingkat nama yang tertera.",
+      "gap_pct": 3.5289999999999964,
+      "grade": "A",
+      "in_negative_control": false,
+      "interpretation_limit": "Deteksi DNA bukan bukti pasti ikan hidup di lokasi.",
+      "is_simulated": true,
+      "l1": 2,
+      "l2": 1,
+      "l4": 2,
+      "labels": [],
+      "n_pos": 3,
+      "n_rep": 3,
+      "origin_other_sources": "Kemungkinan sumber DNA lain: aliran dari hulu, keramba, atau limbah pasar; belum diverifikasi di lokasi.",
+      "origin_pathway": "Kemungkinan jalur tercatat: tidak tersedia dalam sumber",
+      "origin_status": "Kemungkinan status menurut checklist: asli",
+      "p_missing": 0.5,
+      "reasons_en": [
+        "L1 = 2/2; best identity 100.00%; gap outside the candidate set 3.53%.",
+        "L2 = 1/1; checked against the MATANO waterbody checklist.",
+        "L4 = 2/2; detected in 3 of 3 replicates, with 900 total reads.",
+        "Local relatives are missing from the reference; the congener-gap rule lowers the reported rank.",
+        "DNA detection is not proof that the fish lives at the site."
+      ],
+      "reasons_id": [
+        "L1 = 2/2; kemiripan terbaik 100.00%; selisih di luar kandidat 3.53%.",
+        "L2 = 1/1; pemeriksaan checklist perairan MATANO.",
+        "L4 = 2/2; terdeteksi di 3 dari 3 replikat, total 900 bacaan.",
+        "Kerabat lokal belum lengkap dalam kamus; nama diturunkan sesuai aturan celah kerabat.",
+        "Deteksi DNA bukan bukti pasti ikan hidup di lokasi."
+      ],
+      "reported_name": "Rasbo",
+      "reported_rank": "genus",
+      "rule_ids": [
+        "R-NAME-07",
+        "R-NAME-08",
+        "R-DEC-01"
+      ],
+      "run_id": "40453debdd09",
+      "site_id": "MAT-S3",
+      "supporting_accessions": [],
+      "supporting_seq_ids": [
+        "SIM_REF_009"
+      ],
+      "taxon_lab": "Rasbo zeta",
+      "total": 5,
+      "total_reads": 900,
+      "voucher_support": "V2",
+      "warnings": [],
+      "waterbody_id": "MATANO"
+    },
+    {
+      "assessed_with_lab_database": false,
+      "asv_id": "SIM_ASV_008",
+      "best_match": "Hybridus alpha",
+      "best_pct": 99.412,
+      "candidates": [
+        {
+          "bitscore": 303.0,
+          "pct": 99.412,
+          "query_coverage": 1.0,
+          "seq_id": "SIM_REF_004",
+          "species": "Hybridus alpha"
+        },
+        {
+          "bitscore": 303.0,
+          "pct": 99.412,
+          "query_coverage": 1.0,
+          "seq_id": "SIM_REF_005",
+          "species": "Hybridus beta"
+        }
+      ],
+      "cap_reason": "",
+      "causes": [
+        "marker",
+        "sample"
+      ],
+      "claim_id": "MAT-S3__SIM_ASV_008",
+      "complex_id": "",
+      "decision": "must_verify",
+      "decision_rule": "R-DEC-03",
+      "follow_up": "Jangan dijadikan kesimpulan sebelum dicek: marker kedua (COI/16S), survei tangkap, atau barcode spesimen voucher. Jangan dijadikan dasar pemberantasan sebelum dicek.",
+      "gap_pct": null,
+      "grade": "C",
+      "in_negative_control": false,
+      "interpretation_limit": "Deteksi DNA bukan bukti pasti ikan hidup di lokasi.",
+      "is_simulated": true,
+      "l1": 2,
+      "l2": 1,
+      "l4": 0,
+      "labels": [
+        "hybrid_alias",
+        "invasive"
+      ],
+      "n_pos": 1,
+      "n_rep": 3,
+      "origin_other_sources": "Kemungkinan sumber DNA lain: aliran dari hulu, keramba, atau limbah pasar; belum diverifikasi di lokasi.",
+      "origin_pathway": "Kemungkinan jalur tercatat: tidak tersedia dalam sumber",
+      "origin_status": "Kemungkinan status menurut checklist: introduksi",
+      "p_missing": null,
+      "reasons_en": [
+        "L1 = 2/2; best identity 99.41%; gap outside the candidate set tidak ada kandidat di luar jendela.",
+        "L2 = 1/1; checked against the MATANO waterbody checklist.",
+        "L4 = 0/2; detected in 1 of 3 replicates, with 900 total reads.",
+        "The name matches the alias table; reported as kemungkinan louhan hibrida (SIMULASI).",
+        "DNA detection is not proof that the fish lives at the site."
+      ],
+      "reasons_id": [
+        "L1 = 2/2; kemiripan terbaik 99.41%; selisih di luar kandidat tidak ada kandidat di luar jendela.",
+        "L2 = 1/1; pemeriksaan checklist perairan MATANO.",
+        "L4 = 0/2; terdeteksi di 1 dari 3 replikat, total 900 bacaan.",
+        "Nama cocok dengan tabel alias; dilaporkan sebagai kemungkinan louhan hibrida (SIMULASI).",
+        "Deteksi DNA bukan bukti pasti ikan hidup di lokasi."
+      ],
+      "reported_name": "kemungkinan louhan hibrida (SIMULASI)",
+      "reported_rank": "hybrid_alias",
+      "rule_ids": [
+        "R-NAME-11",
+        "R-DEC-03"
+      ],
+      "run_id": "40453debdd09",
+      "site_id": "MAT-S3",
+      "supporting_accessions": [],
+      "supporting_seq_ids": [
+        "SIM_REF_004",
+        "SIM_REF_005"
+      ],
+      "taxon_lab": "Hybridus alpha",
+      "total": 3,
+      "total_reads": 900,
+      "voucher_support": "V2",
+      "warnings": [
+        "genus_not_in_checklist"
+      ],
+      "waterbody_id": "MATANO"
+    },
+    {
+      "assessed_with_lab_database": false,
+      "asv_id": "SIM_ASV_011",
+      "best_match": "Gobio epsilon",
+      "best_pct": 100.0,
+      "candidates": [
+        {
+          "bitscore": 307.0,
+          "pct": 100.0,
+          "query_coverage": 1.0,
+          "seq_id": "SIM_REF_002",
+          "species": "Gobio epsilon"
+        }
+      ],
+      "cap_reason": "low_reads",
+      "causes": [
+        "sample"
+      ],
+      "claim_id": "MAT-S3__SIM_ASV_011",
+      "complex_id": "",
+      "decision": "do_not_use",
+      "decision_rule": "R-DEC-04",
+      "follow_up": "Tinjau batch ekstraksi dan kontrol; ulang PCR; abaikan data nyasar.",
+      "gap_pct": 1.176000000000002,
+      "grade": "D",
+      "in_negative_control": false,
+      "interpretation_limit": "Deteksi DNA bukan bukti pasti ikan hidup di lokasi.",
+      "is_simulated": true,
+      "l1": 2,
+      "l2": 1,
+      "l4": 0,
+      "labels": [],
+      "n_pos": 1,
+      "n_rep": 3,
+      "origin_other_sources": "Kemungkinan sumber DNA lain: aliran dari hulu, keramba, atau limbah pasar; belum diverifikasi di lokasi.",
+      "origin_pathway": "Kemungkinan jalur tercatat: tidak tersedia dalam sumber",
+      "origin_status": "Kemungkinan status menurut checklist: asli",
+      "p_missing": 0.0,
+      "reasons_en": [
+        "L1 = 2/2; best identity 100.00%; gap outside the candidate set 1.18%.",
+        "L2 = 1/1; checked against the MATANO waterbody checklist.",
+        "L4 = 0/2; detected in 1 of 3 replicates, with 7 total reads.",
+        "Total reads are below 10; the grade is capped at D.",
+        "DNA detection is not proof that the fish lives at the site."
+      ],
+      "reasons_id": [
+        "L1 = 2/2; kemiripan terbaik 100.00%; selisih di luar kandidat 1.18%.",
+        "L2 = 1/1; pemeriksaan checklist perairan MATANO.",
+        "L4 = 0/2; terdeteksi di 1 dari 3 replikat, total 7 bacaan.",
+        "Total bacaan di bawah 10; nilai dibatasi D.",
+        "Deteksi DNA bukan bukti pasti ikan hidup di lokasi."
+      ],
+      "reported_name": "Gobio epsilon",
+      "reported_rank": "species",
+      "rule_ids": [
+        "R-NAME-07",
+        "R-DEC-04"
+      ],
+      "run_id": "40453debdd09",
+      "site_id": "MAT-S3",
+      "supporting_accessions": [],
+      "supporting_seq_ids": [
+        "SIM_REF_002"
+      ],
+      "taxon_lab": "Gobio epsilon",
+      "total": 3,
+      "total_reads": 7,
+      "voucher_support": "V2",
+      "warnings": [],
+      "waterbody_id": "MATANO"
+    },
+    {
+      "assessed_with_lab_database": false,
+      "asv_id": "SIM_ASV_014",
+      "best_match": "Gobio epsilon",
+      "best_pct": 97.059,
+      "candidates": [
+        {
+          "bitscore": 285.0,
+          "pct": 97.059,
+          "query_coverage": 1.0,
+          "seq_id": "SIM_REF_002",
+          "species": "Gobio epsilon"
+        }
+      ],
+      "cap_reason": "",
+      "causes": [
+        "reference"
+      ],
+      "claim_id": "MAT-S3__SIM_ASV_014",
+      "complex_id": "",
+      "decision": "with_note",
+      "decision_rule": "R-DEC-02",
+      "follow_up": "Tulis pada tingkat nama yang aman; sertakan catatan penyebab dan cek kemungkinan sumber DNA lain.",
+      "gap_pct": 1.1769999999999925,
+      "grade": "C",
+      "in_negative_control": false,
+      "interpretation_limit": "Deteksi DNA bukan bukti pasti ikan hidup di lokasi.",
+      "is_simulated": true,
+      "l1": 0,
+      "l2": 1,
+      "l4": 2,
+      "labels": [],
+      "n_pos": 3,
+      "n_rep": 3,
+      "origin_other_sources": "Kemungkinan sumber DNA lain: aliran dari hulu, keramba, atau limbah pasar; belum diverifikasi di lokasi.",
+      "origin_pathway": "Kemungkinan jalur tercatat: tidak tersedia dalam sumber",
+      "origin_status": "Kemungkinan status menurut checklist: asli",
+      "p_missing": 0.0,
+      "reasons_en": [
+        "L1 = 0/2; best identity 97.06%; gap outside the candidate set 1.18%.",
+        "L2 = 1/1; checked against the MATANO waterbody checklist.",
+        "L4 = 2/2; detected in 3 of 3 replicates, with 900 total reads.",
+        "Identity is below the 98.0% species threshold; the name is lowered to genus.",
+        "DNA detection is not proof that the fish lives at the site."
+      ],
+      "reasons_id": [
+        "L1 = 0/2; kemiripan terbaik 97.06%; selisih di luar kandidat 1.18%.",
+        "L2 = 1/1; pemeriksaan checklist perairan MATANO.",
+        "L4 = 2/2; terdeteksi di 3 dari 3 replikat, total 900 bacaan.",
+        "Kemiripan belum memenuhi batas spesies 98.0%; nama diturunkan ke genus.",
+        "Deteksi DNA bukan bukti pasti ikan hidup di lokasi."
+      ],
+      "reported_name": "Gobio",
+      "reported_rank": "genus",
+      "rule_ids": [
+        "R-NAME-09",
+        "R-DEC-02"
+      ],
+      "run_id": "40453debdd09",
+      "site_id": "MAT-S3",
+      "supporting_accessions": [],
+      "supporting_seq_ids": [
+        "SIM_REF_002"
+      ],
+      "taxon_lab": "Gobio epsilon",
+      "total": 3,
+      "total_reads": 900,
+      "voucher_support": "V2",
+      "warnings": [],
+      "waterbody_id": "MATANO"
+    },
+    {
+      "assessed_with_lab_database": false,
+      "asv_id": "SIM_ASV_002",
+      "best_match": "Gobio epsilon",
+      "best_pct": 100.0,
+      "candidates": [
+        {
+          "bitscore": 307.0,
+          "pct": 100.0,
+          "query_coverage": 1.0,
+          "seq_id": "SIM_REF_002",
+          "species": "Gobio epsilon"
+        }
+      ],
+      "cap_reason": "",
+      "causes": [],
+      "claim_id": "MAT-S4__SIM_ASV_002",
+      "complex_id": "",
+      "decision": "safe",
+      "decision_rule": "R-DEC-01",
+      "follow_up": "Boleh dimasukkan ke dokumen pada tingkat nama yang tertera.",
+      "gap_pct": 1.176000000000002,
+      "grade": "A",
+      "in_negative_control": false,
+      "interpretation_limit": "Deteksi DNA bukan bukti pasti ikan hidup di lokasi.",
+      "is_simulated": true,
+      "l1": 2,
+      "l2": 1,
+      "l4": 2,
+      "labels": [],
+      "n_pos": 3,
+      "n_rep": 3,
+      "origin_other_sources": "Kemungkinan sumber DNA lain: aliran dari hulu, keramba, atau limbah pasar; belum diverifikasi di lokasi.",
+      "origin_pathway": "Kemungkinan jalur tercatat: tidak tersedia dalam sumber",
+      "origin_status": "Kemungkinan status menurut checklist: asli",
+      "p_missing": 0.0,
+      "reasons_en": [
+        "L1 = 2/2; best identity 100.00%; gap outside the candidate set 1.18%.",
+        "L2 = 1/1; checked against the MATANO waterbody checklist.",
+        "L4 = 2/2; detected in 3 of 3 replicates, with 900 total reads.",
+        "DNA detection is not proof that the fish lives at the site."
+      ],
+      "reasons_id": [
+        "L1 = 2/2; kemiripan terbaik 100.00%; selisih di luar kandidat 1.18%.",
+        "L2 = 1/1; pemeriksaan checklist perairan MATANO.",
+        "L4 = 2/2; terdeteksi di 3 dari 3 replikat, total 900 bacaan.",
+        "Deteksi DNA bukan bukti pasti ikan hidup di lokasi."
+      ],
+      "reported_name": "Gobio epsilon",
+      "reported_rank": "species",
+      "rule_ids": [
+        "R-NAME-07",
+        "R-DEC-01"
+      ],
+      "run_id": "40453debdd09",
+      "site_id": "MAT-S4",
+      "supporting_accessions": [],
+      "supporting_seq_ids": [
+        "SIM_REF_002"
+      ],
+      "taxon_lab": "Gobio epsilon",
+      "total": 5,
+      "total_reads": 900,
+      "voucher_support": "V2",
+      "warnings": [],
+      "waterbody_id": "MATANO"
+    },
+    {
+      "assessed_with_lab_database": false,
+      "asv_id": "SIM_ASV_004",
+      "best_match": "Piscis alpha",
+      "best_pct": 99.412,
+      "candidates": [
+        {
+          "bitscore": 303.0,
+          "pct": 99.412,
+          "query_coverage": 1.0,
+          "seq_id": "SIM_REF_006",
+          "species": "Piscis alpha"
+        },
+        {
+          "bitscore": 303.0,
+          "pct": 99.412,
+          "query_coverage": 1.0,
+          "seq_id": "SIM_REF_007",
+          "species": "Piscis beta"
+        }
+      ],
+      "cap_reason": "",
+      "causes": [
+        "marker"
+      ],
+      "claim_id": "MAT-S4__SIM_ASV_004",
+      "complex_id": "KX_PISCIS_SIMULASI",
+      "decision": "safe",
+      "decision_rule": "R-DEC-01",
+      "follow_up": "Boleh dimasukkan ke dokumen pada tingkat nama yang tertera. Kemungkinan ikan endemik yang belum ada di kamus.",
+      "gap_pct": null,
+      "grade": "A",
+      "in_negative_control": false,
+      "interpretation_limit": "Deteksi DNA bukan bukti pasti ikan hidup di lokasi.",
+      "is_simulated": true,
+      "l1": 2,
+      "l2": 1,
+      "l4": 2,
+      "labels": [
+        "endemic",
+        "possible_unreferenced_endemic"
+      ],
+      "n_pos": 3,
+      "n_rep": 3,
+      "origin_other_sources": "Kemungkinan sumber DNA lain: aliran dari hulu, keramba, atau limbah pasar; belum diverifikasi di lokasi.",
+      "origin_pathway": "Kemungkinan jalur tercatat: tidak tersedia dalam sumber",
+      "origin_status": "Kemungkinan status menurut checklist: endemik",
+      "p_missing": 0.3333333333333333,
+      "reasons_en": [
+        "L1 = 2/2; best identity 99.41%; gap outside the candidate set tidak ada kandidat di luar jendela.",
+        "L2 = 1/1; checked against the MATANO waterbody checklist.",
+        "L4 = 2/2; detected in 3 of 3 replicates, with 900 total reads.",
+        "Candidates belong to kompleks Piscis Matano (SIMULASI); this marker does not support separating species names.",
+        "Local relatives are missing from the reference; the congener-gap rule lowers the reported rank.",
+        "DNA detection is not proof that the fish lives at the site."
+      ],
+      "reasons_id": [
+        "L1 = 2/2; kemiripan terbaik 99.41%; selisih di luar kandidat tidak ada kandidat di luar jendela.",
+        "L2 = 1/1; pemeriksaan checklist perairan MATANO.",
+        "L4 = 2/2; terdeteksi di 3 dari 3 replikat, total 900 bacaan.",
+        "Kandidat berada dalam kompleks kompleks Piscis Matano (SIMULASI); marker ini belum mendukung pemisahan nama spesies.",
+        "Kerabat lokal belum lengkap dalam kamus; nama diturunkan sesuai aturan celah kerabat.",
+        "Deteksi DNA bukan bukti pasti ikan hidup di lokasi."
+      ],
+      "reported_name": "kompleks Piscis Matano (SIMULASI)",
+      "reported_rank": "complex",
+      "rule_ids": [
+        "R-NAME-05",
+        "R-NAME-08",
+        "R-DEC-01"
+      ],
+      "run_id": "40453debdd09",
+      "site_id": "MAT-S4",
+      "supporting_accessions": [],
+      "supporting_seq_ids": [
+        "SIM_REF_006",
+        "SIM_REF_007"
+      ],
+      "taxon_lab": "Piscis alpha",
+      "total": 5,
+      "total_reads": 900,
+      "voucher_support": "V2",
+      "warnings": [],
+      "waterbody_id": "MATANO"
+    },
+    {
+      "assessed_with_lab_database": false,
+      "asv_id": "SIM_ASV_006",
+      "best_match": "Piscis alpha",
+      "best_pct": 99.412,
+      "candidates": [
+        {
+          "bitscore": 303.0,
+          "pct": 99.412,
+          "query_coverage": 1.0,
+          "seq_id": "SIM_REF_006",
+          "species": "Piscis alpha"
+        }
+      ],
+      "cap_reason": "",
+      "causes": [
+        "reference"
+      ],
+      "claim_id": "MAT-S4__SIM_ASV_006",
+      "complex_id": "KX_PISCIS_SIMULASI",
+      "decision": "must_verify",
+      "decision_rule": "R-DEC-03",
+      "follow_up": "Jangan dijadikan kesimpulan sebelum dicek: marker kedua (COI/16S), survei tangkap, atau barcode spesimen voucher. Kemungkinan ikan endemik yang belum ada di kamus.",
+      "gap_pct": 0.5880000000000081,
+      "grade": "C",
+      "in_negative_control": false,
+      "interpretation_limit": "Deteksi DNA bukan bukti pasti ikan hidup di lokasi.",
+      "is_simulated": true,
+      "l1": 1,
+      "l2": 1,
+      "l4": 1,
+      "labels": [
+        "endemic",
+        "possible_unreferenced_endemic"
+      ],
+      "n_pos": 2,
+      "n_rep": 3,
+      "origin_other_sources": "Kemungkinan sumber DNA lain: aliran dari hulu, keramba, atau limbah pasar; belum diverifikasi di lokasi.",
+      "origin_pathway": "Kemungkinan jalur tercatat: tidak tersedia dalam sumber",
+      "origin_status": "Kemungkinan status menurut checklist: endemik",
+      "p_missing": 0.3333333333333333,
+      "reasons_en": [
+        "L1 = 1/2; best identity 99.41%; gap outside the candidate set 0.59%.",
+        "L2 = 1/1; checked against the MATANO waterbody checklist.",
+        "L4 = 1/2; detected in 2 of 3 replicates, with 900 total reads.",
+        "Local relatives are missing from the reference; the congener-gap rule lowers the reported rank.",
+        "DNA detection is not proof that the fish lives at the site."
+      ],
+      "reasons_id": [
+        "L1 = 1/2; kemiripan terbaik 99.41%; selisih di luar kandidat 0.59%.",
+        "L2 = 1/1; pemeriksaan checklist perairan MATANO.",
+        "L4 = 1/2; terdeteksi di 2 dari 3 replikat, total 900 bacaan.",
+        "Kerabat lokal belum lengkap dalam kamus; nama diturunkan sesuai aturan celah kerabat.",
+        "Deteksi DNA bukan bukti pasti ikan hidup di lokasi."
+      ],
+      "reported_name": "kompleks Piscis Matano (SIMULASI)",
+      "reported_rank": "complex",
+      "rule_ids": [
+        "R-NAME-07",
+        "R-NAME-08",
+        "R-DEC-03"
+      ],
+      "run_id": "40453debdd09",
+      "site_id": "MAT-S4",
+      "supporting_accessions": [],
+      "supporting_seq_ids": [
+        "SIM_REF_006"
+      ],
+      "taxon_lab": "Piscis alpha",
+      "total": 3,
+      "total_reads": 900,
+      "voucher_support": "V2",
+      "warnings": [],
+      "waterbody_id": "MATANO"
+    },
+    {
+      "assessed_with_lab_database": false,
+      "asv_id": "SIM_ASV_008",
+      "best_match": "Hybridus alpha",
+      "best_pct": 99.412,
+      "candidates": [
+        {
+          "bitscore": 303.0,
+          "pct": 99.412,
+          "query_coverage": 1.0,
+          "seq_id": "SIM_REF_004",
+          "species": "Hybridus alpha"
+        },
+        {
+          "bitscore": 303.0,
+          "pct": 99.412,
+          "query_coverage": 1.0,
+          "seq_id": "SIM_REF_005",
+          "species": "Hybridus beta"
+        }
+      ],
+      "cap_reason": "",
+      "causes": [
+        "marker",
+        "sample"
+      ],
+      "claim_id": "MAT-S4__SIM_ASV_008",
+      "complex_id": "",
+      "decision": "must_verify",
+      "decision_rule": "R-DEC-03",
+      "follow_up": "Jangan dijadikan kesimpulan sebelum dicek: marker kedua (COI/16S), survei tangkap, atau barcode spesimen voucher. Jangan dijadikan dasar pemberantasan sebelum dicek.",
+      "gap_pct": null,
+      "grade": "C",
+      "in_negative_control": false,
+      "interpretation_limit": "Deteksi DNA bukan bukti pasti ikan hidup di lokasi.",
+      "is_simulated": true,
+      "l1": 2,
+      "l2": 1,
+      "l4": 0,
+      "labels": [
+        "hybrid_alias",
+        "invasive"
+      ],
+      "n_pos": 1,
+      "n_rep": 3,
+      "origin_other_sources": "Kemungkinan sumber DNA lain: aliran dari hulu, keramba, atau limbah pasar; belum diverifikasi di lokasi.",
+      "origin_pathway": "Kemungkinan jalur tercatat: tidak tersedia dalam sumber",
+      "origin_status": "Kemungkinan status menurut checklist: introduksi",
+      "p_missing": null,
+      "reasons_en": [
+        "L1 = 2/2; best identity 99.41%; gap outside the candidate set tidak ada kandidat di luar jendela.",
+        "L2 = 1/1; checked against the MATANO waterbody checklist.",
+        "L4 = 0/2; detected in 1 of 3 replicates, with 900 total reads.",
+        "The name matches the alias table; reported as kemungkinan louhan hibrida (SIMULASI).",
+        "DNA detection is not proof that the fish lives at the site."
+      ],
+      "reasons_id": [
+        "L1 = 2/2; kemiripan terbaik 99.41%; selisih di luar kandidat tidak ada kandidat di luar jendela.",
+        "L2 = 1/1; pemeriksaan checklist perairan MATANO.",
+        "L4 = 0/2; terdeteksi di 1 dari 3 replikat, total 900 bacaan.",
+        "Nama cocok dengan tabel alias; dilaporkan sebagai kemungkinan louhan hibrida (SIMULASI).",
+        "Deteksi DNA bukan bukti pasti ikan hidup di lokasi."
+      ],
+      "reported_name": "kemungkinan louhan hibrida (SIMULASI)",
+      "reported_rank": "hybrid_alias",
+      "rule_ids": [
+        "R-NAME-11",
+        "R-DEC-03"
+      ],
+      "run_id": "40453debdd09",
+      "site_id": "MAT-S4",
+      "supporting_accessions": [],
+      "supporting_seq_ids": [
+        "SIM_REF_004",
+        "SIM_REF_005"
+      ],
+      "taxon_lab": "Hybridus alpha",
+      "total": 3,
+      "total_reads": 900,
+      "voucher_support": "V2",
+      "warnings": [
+        "genus_not_in_checklist"
+      ],
+      "waterbody_id": "MATANO"
+    },
+    {
+      "assessed_with_lab_database": false,
+      "asv_id": "SIM_ASV_010",
+      "best_match": "Gobio epsilon",
+      "best_pct": 100.0,
+      "candidates": [
+        {
+          "bitscore": 307.0,
+          "pct": 100.0,
+          "query_coverage": 1.0,
+          "seq_id": "SIM_REF_002",
+          "species": "Gobio epsilon"
+        }
+      ],
+      "cap_reason": "negative_control",
+      "causes": [
+        "sample"
+      ],
+      "claim_id": "MAT-S4__SIM_ASV_010",
+      "complex_id": "",
+      "decision": "do_not_use",
+      "decision_rule": "R-DEC-04",
+      "follow_up": "Tinjau batch ekstraksi dan kontrol; ulang PCR; abaikan data nyasar.",
+      "gap_pct": 1.176000000000002,
+      "grade": "D",
+      "in_negative_control": true,
+      "interpretation_limit": "Deteksi DNA bukan bukti pasti ikan hidup di lokasi.",
+      "is_simulated": true,
+      "l1": 2,
+      "l2": 1,
+      "l4": 2,
+      "labels": [],
+      "n_pos": 3,
+      "n_rep": 3,
+      "origin_other_sources": "Kemungkinan sumber DNA lain: aliran dari hulu, keramba, atau limbah pasar; belum diverifikasi di lokasi.",
+      "origin_pathway": "Kemungkinan jalur tercatat: tidak tersedia dalam sumber",
+      "origin_status": "Kemungkinan status menurut checklist: asli",
+      "p_missing": 0.0,
+      "reasons_en": [
+        "L1 = 2/2; best identity 100.00%; gap outside the candidate set 1.18%.",
+        "L2 = 1/1; checked against the MATANO waterbody checklist.",
+        "L4 = 2/2; detected in 3 of 3 replicates, with 900 total reads.",
+        "The same DNA appears in a related batch negative control; the grade is capped at D.",
+        "DNA detection is not proof that the fish lives at the site."
+      ],
+      "reasons_id": [
+        "L1 = 2/2; kemiripan terbaik 100.00%; selisih di luar kandidat 1.18%.",
+        "L2 = 1/1; pemeriksaan checklist perairan MATANO.",
+        "L4 = 2/2; terdeteksi di 3 dari 3 replikat, total 900 bacaan.",
+        "DNA yang sama muncul di kontrol negatif batch terkait; nilai dibatasi D.",
+        "Deteksi DNA bukan bukti pasti ikan hidup di lokasi."
+      ],
+      "reported_name": "Gobio epsilon",
+      "reported_rank": "species",
+      "rule_ids": [
+        "R-NAME-07",
+        "R-DEC-04"
+      ],
+      "run_id": "40453debdd09",
+      "site_id": "MAT-S4",
+      "supporting_accessions": [],
+      "supporting_seq_ids": [
+        "SIM_REF_002"
+      ],
+      "taxon_lab": "Gobio epsilon",
+      "total": 5,
+      "total_reads": 900,
+      "voucher_support": "V2",
+      "warnings": [],
+      "waterbody_id": "MATANO"
+    },
+    {
+      "assessed_with_lab_database": false,
+      "asv_id": "SIM_ASV_012",
+      "best_match": "Rasbo iota",
+      "best_pct": 91.176,
+      "candidates": [],
+      "cap_reason": "",
+      "causes": [
+        "reference"
+      ],
+      "claim_id": "MAT-S4__SIM_ASV_012",
+      "complex_id": "",
+      "decision": "with_note",
+      "decision_rule": "R-DEC-06",
+      "follow_up": "Ikan tidak dikenal, kemungkinan belum ada di kamus. Tulis pada tingkat nama yang aman; sertakan catatan penyebab dan cek kemungkinan sumber DNA lain.",
+      "gap_pct": 3.5289999999999964,
+      "grade": "C",
+      "in_negative_control": false,
+      "interpretation_limit": "Deteksi DNA bukan bukti pasti ikan hidup di lokasi.",
+      "is_simulated": true,
+      "l1": 0,
+      "l2": 0,
+      "l4": 2,
+      "labels": [],
+      "n_pos": 3,
+      "n_rep": 3,
+      "origin_other_sources": "Kemungkinan sumber DNA lain: aliran dari hulu, keramba, atau limbah pasar; belum diverifikasi di lokasi.",
+      "origin_pathway": "Kemungkinan jalur tercatat: tidak tersedia dalam sumber",
+      "origin_status": "Kemungkinan status menurut checklist: tidak tercatat",
+      "p_missing": 0.5,
+      "reasons_en": [
+        "L1 = 0/2; best identity 91.18%; gap outside the candidate set 3.53%.",
+        "L2 = 0/1; checked against the MATANO waterbody checklist.",
+        "L4 = 2/2; detected in 3 of 3 replicates, with 900 total reads.",
+        "No naming support meets the 95.0% threshold; the true species may be absent from the reference.",
+        "DNA detection is not proof that the fish lives at the site."
+      ],
+      "reasons_id": [
+        "L1 = 0/2; kemiripan terbaik 91.18%; selisih di luar kandidat 3.53%.",
+        "L2 = 0/1; pemeriksaan checklist perairan MATANO.",
+        "L4 = 2/2; terdeteksi di 3 dari 3 replikat, total 900 bacaan.",
+        "Tidak ditemukan dukungan nama yang memenuhi ambang 95.0%; kemungkinan spesies belum ada di kamus.",
+        "Deteksi DNA bukan bukti pasti ikan hidup di lokasi."
+      ],
+      "reported_name": "tidak dikenal",
+      "reported_rank": "unknown",
+      "rule_ids": [
+        "R-NAME-03",
+        "R-DEC-06"
+      ],
+      "run_id": "40453debdd09",
+      "site_id": "MAT-S4",
+      "supporting_accessions": [],
+      "supporting_seq_ids": [],
+      "taxon_lab": "Rasbo iota",
+      "total": 2,
+      "total_reads": 900,
+      "voucher_support": null,
+      "warnings": [],
+      "waterbody_id": "MATANO"
+    },
+    {
+      "assessed_with_lab_database": false,
+      "asv_id": "SIM_ASV_014",
+      "best_match": "Gobio epsilon",
+      "best_pct": 97.059,
+      "candidates": [
+        {
+          "bitscore": 285.0,
+          "pct": 97.059,
+          "query_coverage": 1.0,
+          "seq_id": "SIM_REF_002",
+          "species": "Gobio epsilon"
+        }
+      ],
+      "cap_reason": "",
+      "causes": [
+        "reference"
+      ],
+      "claim_id": "MAT-S4__SIM_ASV_014",
+      "complex_id": "",
+      "decision": "with_note",
+      "decision_rule": "R-DEC-02",
+      "follow_up": "Tulis pada tingkat nama yang aman; sertakan catatan penyebab dan cek kemungkinan sumber DNA lain.",
+      "gap_pct": 1.1769999999999925,
+      "grade": "C",
+      "in_negative_control": false,
+      "interpretation_limit": "Deteksi DNA bukan bukti pasti ikan hidup di lokasi.",
+      "is_simulated": true,
+      "l1": 0,
+      "l2": 1,
+      "l4": 2,
+      "labels": [],
+      "n_pos": 3,
+      "n_rep": 3,
+      "origin_other_sources": "Kemungkinan sumber DNA lain: aliran dari hulu, keramba, atau limbah pasar; belum diverifikasi di lokasi.",
+      "origin_pathway": "Kemungkinan jalur tercatat: tidak tersedia dalam sumber",
+      "origin_status": "Kemungkinan status menurut checklist: asli",
+      "p_missing": 0.0,
+      "reasons_en": [
+        "L1 = 0/2; best identity 97.06%; gap outside the candidate set 1.18%.",
+        "L2 = 1/1; checked against the MATANO waterbody checklist.",
+        "L4 = 2/2; detected in 3 of 3 replicates, with 900 total reads.",
+        "Identity is below the 98.0% species threshold; the name is lowered to genus.",
+        "DNA detection is not proof that the fish lives at the site."
+      ],
+      "reasons_id": [
+        "L1 = 0/2; kemiripan terbaik 97.06%; selisih di luar kandidat 1.18%.",
+        "L2 = 1/1; pemeriksaan checklist perairan MATANO.",
+        "L4 = 2/2; terdeteksi di 3 dari 3 replikat, total 900 bacaan.",
+        "Kemiripan belum memenuhi batas spesies 98.0%; nama diturunkan ke genus.",
+        "Deteksi DNA bukan bukti pasti ikan hidup di lokasi."
+      ],
+      "reported_name": "Gobio",
+      "reported_rank": "genus",
+      "rule_ids": [
+        "R-NAME-09",
+        "R-DEC-02"
+      ],
+      "run_id": "40453debdd09",
+      "site_id": "MAT-S4",
+      "supporting_accessions": [],
+      "supporting_seq_ids": [
+        "SIM_REF_002"
+      ],
+      "taxon_lab": "Gobio epsilon",
+      "total": 3,
+      "total_reads": 900,
+      "voucher_support": "V2",
+      "warnings": [],
+      "waterbody_id": "MATANO"
+    },
+    {
+      "assessed_with_lab_database": false,
+      "asv_id": "SIM_ASV_016",
+      "best_match": "Gobio delta",
+      "best_pct": 99.412,
+      "candidates": [
+        {
+          "bitscore": 303.0,
+          "pct": 99.412,
+          "query_coverage": 1.0,
+          "seq_id": "SIM_REF_001",
+          "species": "Gobio delta"
+        },
+        {
+          "bitscore": 303.0,
+          "pct": 99.412,
+          "query_coverage": 1.0,
+          "seq_id": "SIM_REF_002",
+          "species": "Gobio epsilon"
+        }
+      ],
+      "cap_reason": "",
+      "causes": [
+        "marker"
+      ],
+      "claim_id": "MAT-S4__SIM_ASV_016",
+      "complex_id": "",
+      "decision": "safe",
+      "decision_rule": "R-DEC-01",
+      "follow_up": "Boleh dimasukkan ke dokumen pada tingkat nama yang tertera. Sebagian kandidat berstatus endemik atau terancam.",
+      "gap_pct": 3.530000000000001,
+      "grade": "A",
+      "in_negative_control": false,
+      "interpretation_limit": "Deteksi DNA bukan bukti pasti ikan hidup di lokasi.",
+      "is_simulated": true,
+      "l1": 2,
+      "l2": 1,
+      "l4": 2,
+      "labels": [
+        "possible_endemic"
+      ],
+      "n_pos": 3,
+      "n_rep": 3,
+      "origin_other_sources": "Kemungkinan sumber DNA lain: aliran dari hulu, keramba, atau limbah pasar; belum diverifikasi di lokasi.",
+      "origin_pathway": "Kemungkinan jalur tercatat: tidak tersedia dalam sumber",
+      "origin_status": "Kemungkinan status menurut checklist: asli, endemik",
+      "p_missing": 0.0,
+      "reasons_en": [
+        "L1 = 2/2; best identity 99.41%; gap outside the candidate set 3.53%.",
+        "L2 = 1/1; checked against the MATANO waterbody checklist.",
+        "L4 = 2/2; detected in 3 of 3 replicates, with 900 total reads.",
+        "Several close candidates remain; the name is reported at genus: Gobio.",
+        "DNA detection is not proof that the fish lives at the site."
+      ],
+      "reasons_id": [
+        "L1 = 2/2; kemiripan terbaik 99.41%; selisih di luar kandidat 3.53%.",
+        "L2 = 1/1; pemeriksaan checklist perairan MATANO.",
+        "L4 = 2/2; terdeteksi di 3 dari 3 replikat, total 900 bacaan.",
+        "Beberapa kandidat berdekatan; nama dilaporkan pada tingkat genus: Gobio.",
+        "Deteksi DNA bukan bukti pasti ikan hidup di lokasi."
+      ],
+      "reported_name": "Gobio",
+      "reported_rank": "genus",
+      "rule_ids": [
+        "R-NAME-06",
+        "R-DEC-01"
+      ],
+      "run_id": "40453debdd09",
+      "site_id": "MAT-S4",
+      "supporting_accessions": [],
+      "supporting_seq_ids": [
+        "SIM_REF_001",
+        "SIM_REF_002"
+      ],
+      "taxon_lab": "Gobio delta",
+      "total": 5,
+      "total_reads": 900,
+      "voucher_support": "V2",
+      "warnings": [],
+      "waterbody_id": "MATANO"
+    },
+    {
+      "assessed_with_lab_database": false,
+      "asv_id": "SIM_ASV_001",
+      "best_match": "Gobio delta",
+      "best_pct": 100.0,
+      "candidates": [
+        {
+          "bitscore": 307.0,
+          "pct": 100.0,
+          "query_coverage": 1.0,
+          "seq_id": "SIM_REF_001",
+          "species": "Gobio delta"
+        }
+      ],
+      "cap_reason": "",
+      "causes": [],
+      "claim_id": "MAT-S5__SIM_ASV_001",
+      "complex_id": "",
+      "decision": "safe",
+      "decision_rule": "R-DEC-01",
+      "follow_up": "Boleh dimasukkan ke dokumen pada tingkat nama yang tertera.",
+      "gap_pct": 1.176000000000002,
+      "grade": "A",
+      "in_negative_control": false,
+      "interpretation_limit": "Deteksi DNA bukan bukti pasti ikan hidup di lokasi.",
+      "is_simulated": true,
+      "l1": 2,
+      "l2": 1,
+      "l4": 2,
+      "labels": [
+        "endemic"
+      ],
+      "n_pos": 3,
+      "n_rep": 3,
+      "origin_other_sources": "Kemungkinan sumber DNA lain: aliran dari hulu, keramba, atau limbah pasar; belum diverifikasi di lokasi.",
+      "origin_pathway": "Kemungkinan jalur tercatat: tidak tersedia dalam sumber",
+      "origin_status": "Kemungkinan status menurut checklist: endemik",
+      "p_missing": 0.0,
+      "reasons_en": [
+        "L1 = 2/2; best identity 100.00%; gap outside the candidate set 1.18%.",
+        "L2 = 1/1; checked against the MATANO waterbody checklist.",
+        "L4 = 2/2; detected in 3 of 3 replicates, with 900 total reads.",
+        "DNA detection is not proof that the fish lives at the site."
+      ],
+      "reasons_id": [
+        "L1 = 2/2; kemiripan terbaik 100.00%; selisih di luar kandidat 1.18%.",
+        "L2 = 1/1; pemeriksaan checklist perairan MATANO.",
+        "L4 = 2/2; terdeteksi di 3 dari 3 replikat, total 900 bacaan.",
+        "Deteksi DNA bukan bukti pasti ikan hidup di lokasi."
+      ],
+      "reported_name": "Gobio delta",
+      "reported_rank": "species",
+      "rule_ids": [
+        "R-NAME-07",
+        "R-DEC-01"
+      ],
+      "run_id": "40453debdd09",
+      "site_id": "MAT-S5",
+      "supporting_accessions": [],
+      "supporting_seq_ids": [
+        "SIM_REF_001"
+      ],
+      "taxon_lab": "Gobio delta",
+      "total": 5,
+      "total_reads": 900,
+      "voucher_support": "V2",
+      "warnings": [],
+      "waterbody_id": "MATANO"
+    },
+    {
+      "assessed_with_lab_database": false,
+      "asv_id": "SIM_ASV_003",
+      "best_match": "Tilapa omega",
+      "best_pct": 100.0,
+      "candidates": [
+        {
+          "bitscore": 307.0,
+          "pct": 100.0,
+          "query_coverage": 1.0,
+          "seq_id": "SIM_REF_010",
+          "species": "Tilapa omega"
+        }
+      ],
+      "cap_reason": "",
+      "causes": [],
+      "claim_id": "MAT-S5__SIM_ASV_003",
+      "complex_id": "",
+      "decision": "safe",
+      "decision_rule": "R-DEC-01",
+      "follow_up": "Boleh dimasukkan ke dokumen pada tingkat nama yang tertera.",
+      "gap_pct": null,
+      "grade": "A",
+      "in_negative_control": false,
+      "interpretation_limit": "Deteksi DNA bukan bukti pasti ikan hidup di lokasi.",
+      "is_simulated": true,
+      "l1": 2,
+      "l2": 1,
+      "l4": 2,
+      "labels": [
+        "invasive"
+      ],
+      "n_pos": 3,
+      "n_rep": 3,
+      "origin_other_sources": "Kemungkinan sumber DNA lain: aliran dari hulu, keramba, atau limbah pasar; belum diverifikasi di lokasi.",
+      "origin_pathway": "Kemungkinan jalur tercatat: budidaya",
+      "origin_status": "Kemungkinan status menurut checklist: introduksi",
+      "p_missing": 0.0,
+      "reasons_en": [
+        "L1 = 2/2; best identity 100.00%; gap outside the candidate set tidak ada kandidat di luar jendela.",
+        "L2 = 1/1; checked against the MATANO waterbody checklist.",
+        "L4 = 2/2; detected in 3 of 3 replicates, with 900 total reads.",
+        "DNA detection is not proof that the fish lives at the site."
+      ],
+      "reasons_id": [
+        "L1 = 2/2; kemiripan terbaik 100.00%; selisih di luar kandidat tidak ada kandidat di luar jendela.",
+        "L2 = 1/1; pemeriksaan checklist perairan MATANO.",
+        "L4 = 2/2; terdeteksi di 3 dari 3 replikat, total 900 bacaan.",
+        "Deteksi DNA bukan bukti pasti ikan hidup di lokasi."
+      ],
+      "reported_name": "Tilapa omega",
+      "reported_rank": "species",
+      "rule_ids": [
+        "R-NAME-07",
+        "R-DEC-01"
+      ],
+      "run_id": "40453debdd09",
+      "site_id": "MAT-S5",
+      "supporting_accessions": [],
+      "supporting_seq_ids": [
+        "SIM_REF_010"
+      ],
+      "taxon_lab": "Tilapa omega",
+      "total": 5,
+      "total_reads": 900,
+      "voucher_support": "V2",
+      "warnings": [],
+      "waterbody_id": "MATANO"
+    },
+    {
+      "assessed_with_lab_database": false,
+      "asv_id": "SIM_ASV_005",
+      "best_match": "Rasbo zeta",
+      "best_pct": 100.0,
+      "candidates": [
+        {
+          "bitscore": 307.0,
+          "pct": 100.0,
+          "query_coverage": 1.0,
+          "seq_id": "SIM_REF_009",
+          "species": "Rasbo zeta"
+        }
+      ],
+      "cap_reason": "",
+      "causes": [
+        "reference"
+      ],
+      "claim_id": "MAT-S5__SIM_ASV_005",
+      "complex_id": "",
+      "decision": "safe",
+      "decision_rule": "R-DEC-01",
+      "follow_up": "Boleh dimasukkan ke dokumen pada tingkat nama yang tertera.",
+      "gap_pct": 3.5289999999999964,
+      "grade": "A",
+      "in_negative_control": false,
+      "interpretation_limit": "Deteksi DNA bukan bukti pasti ikan hidup di lokasi.",
+      "is_simulated": true,
+      "l1": 2,
+      "l2": 1,
+      "l4": 2,
+      "labels": [],
+      "n_pos": 3,
+      "n_rep": 3,
+      "origin_other_sources": "Kemungkinan sumber DNA lain: aliran dari hulu, keramba, atau limbah pasar; belum diverifikasi di lokasi.",
+      "origin_pathway": "Kemungkinan jalur tercatat: tidak tersedia dalam sumber",
+      "origin_status": "Kemungkinan status menurut checklist: asli",
+      "p_missing": 0.5,
+      "reasons_en": [
+        "L1 = 2/2; best identity 100.00%; gap outside the candidate set 3.53%.",
+        "L2 = 1/1; checked against the MATANO waterbody checklist.",
+        "L4 = 2/2; detected in 3 of 3 replicates, with 900 total reads.",
+        "Local relatives are missing from the reference; the congener-gap rule lowers the reported rank.",
+        "DNA detection is not proof that the fish lives at the site."
+      ],
+      "reasons_id": [
+        "L1 = 2/2; kemiripan terbaik 100.00%; selisih di luar kandidat 3.53%.",
+        "L2 = 1/1; pemeriksaan checklist perairan MATANO.",
+        "L4 = 2/2; terdeteksi di 3 dari 3 replikat, total 900 bacaan.",
+        "Kerabat lokal belum lengkap dalam kamus; nama diturunkan sesuai aturan celah kerabat.",
+        "Deteksi DNA bukan bukti pasti ikan hidup di lokasi."
+      ],
+      "reported_name": "Rasbo",
+      "reported_rank": "genus",
+      "rule_ids": [
+        "R-NAME-07",
+        "R-NAME-08",
+        "R-DEC-01"
+      ],
+      "run_id": "40453debdd09",
+      "site_id": "MAT-S5",
+      "supporting_accessions": [],
+      "supporting_seq_ids": [
+        "SIM_REF_009"
+      ],
+      "taxon_lab": "Rasbo zeta",
+      "total": 5,
+      "total_reads": 900,
+      "voucher_support": "V2",
+      "warnings": [],
+      "waterbody_id": "MATANO"
+    },
+    {
+      "assessed_with_lab_database": false,
+      "asv_id": "SIM_ASV_007",
+      "best_match": "Gobio delta",
+      "best_pct": 100.0,
+      "candidates": [
+        {
+          "bitscore": 307.0,
+          "pct": 100.0,
+          "query_coverage": 1.0,
+          "seq_id": "SIM_REF_001",
+          "species": "Gobio delta"
+        }
+      ],
+      "cap_reason": "low_reads",
+      "causes": [
+        "sample"
+      ],
+      "claim_id": "MAT-S5__SIM_ASV_007",
+      "complex_id": "",
+      "decision": "must_verify",
+      "decision_rule": "R-DEC-03",
+      "follow_up": "Jangan dijadikan kesimpulan sebelum dicek: marker kedua (COI/16S), survei tangkap, atau barcode spesimen voucher. Klaim tidak dibuang agar tidak berujung kesimpulan 'tidak ada' yang keliru.",
+      "gap_pct": 1.176000000000002,
+      "grade": "D",
+      "in_negative_control": false,
+      "interpretation_limit": "Deteksi DNA bukan bukti pasti ikan hidup di lokasi.",
+      "is_simulated": true,
+      "l1": 2,
+      "l2": 1,
+      "l4": 2,
+      "labels": [
+        "endemic"
+      ],
+      "n_pos": 3,
+      "n_rep": 3,
+      "origin_other_sources": "Kemungkinan sumber DNA lain: aliran dari hulu, keramba, atau limbah pasar; belum diverifikasi di lokasi.",
+      "origin_pathway": "Kemungkinan jalur tercatat: tidak tersedia dalam sumber",
+      "origin_status": "Kemungkinan status menurut checklist: endemik",
+      "p_missing": 0.0,
+      "reasons_en": [
+        "L1 = 2/2; best identity 100.00%; gap outside the candidate set 1.18%.",
+        "L2 = 1/1; checked against the MATANO waterbody checklist.",
+        "L4 = 2/2; detected in 3 of 3 replicates, with 7 total reads.",
+        "Total reads are below 10; the grade is capped at D.",
+        "DNA detection is not proof that the fish lives at the site."
+      ],
+      "reasons_id": [
+        "L1 = 2/2; kemiripan terbaik 100.00%; selisih di luar kandidat 1.18%.",
+        "L2 = 1/1; pemeriksaan checklist perairan MATANO.",
+        "L4 = 2/2; terdeteksi di 3 dari 3 replikat, total 7 bacaan.",
+        "Total bacaan di bawah 10; nilai dibatasi D.",
+        "Deteksi DNA bukan bukti pasti ikan hidup di lokasi."
+      ],
+      "reported_name": "Gobio delta",
+      "reported_rank": "species",
+      "rule_ids": [
+        "R-NAME-07",
+        "R-DEC-03"
+      ],
+      "run_id": "40453debdd09",
+      "site_id": "MAT-S5",
+      "supporting_accessions": [],
+      "supporting_seq_ids": [
+        "SIM_REF_001"
+      ],
+      "taxon_lab": "Gobio delta",
+      "total": 5,
+      "total_reads": 7,
+      "voucher_support": "V2",
+      "warnings": [],
+      "waterbody_id": "MATANO"
+    },
+    {
+      "assessed_with_lab_database": false,
+      "asv_id": "SIM_ASV_010",
+      "best_match": "Gobio epsilon",
+      "best_pct": 100.0,
+      "candidates": [
+        {
+          "bitscore": 307.0,
+          "pct": 100.0,
+          "query_coverage": 1.0,
+          "seq_id": "SIM_REF_002",
+          "species": "Gobio epsilon"
+        }
+      ],
+      "cap_reason": "negative_control",
+      "causes": [
+        "sample"
+      ],
+      "claim_id": "MAT-S5__SIM_ASV_010",
+      "complex_id": "",
+      "decision": "do_not_use",
+      "decision_rule": "R-DEC-04",
+      "follow_up": "Tinjau batch ekstraksi dan kontrol; ulang PCR; abaikan data nyasar.",
+      "gap_pct": 1.176000000000002,
+      "grade": "D",
+      "in_negative_control": true,
+      "interpretation_limit": "Deteksi DNA bukan bukti pasti ikan hidup di lokasi.",
+      "is_simulated": true,
+      "l1": 2,
+      "l2": 1,
+      "l4": 2,
+      "labels": [],
+      "n_pos": 3,
+      "n_rep": 3,
+      "origin_other_sources": "Kemungkinan sumber DNA lain: aliran dari hulu, keramba, atau limbah pasar; belum diverifikasi di lokasi.",
+      "origin_pathway": "Kemungkinan jalur tercatat: tidak tersedia dalam sumber",
+      "origin_status": "Kemungkinan status menurut checklist: asli",
+      "p_missing": 0.0,
+      "reasons_en": [
+        "L1 = 2/2; best identity 100.00%; gap outside the candidate set 1.18%.",
+        "L2 = 1/1; checked against the MATANO waterbody checklist.",
+        "L4 = 2/2; detected in 3 of 3 replicates, with 900 total reads.",
+        "The same DNA appears in a related batch negative control; the grade is capped at D.",
+        "DNA detection is not proof that the fish lives at the site."
+      ],
+      "reasons_id": [
+        "L1 = 2/2; kemiripan terbaik 100.00%; selisih di luar kandidat 1.18%.",
+        "L2 = 1/1; pemeriksaan checklist perairan MATANO.",
+        "L4 = 2/2; terdeteksi di 3 dari 3 replikat, total 900 bacaan.",
+        "DNA yang sama muncul di kontrol negatif batch terkait; nilai dibatasi D.",
+        "Deteksi DNA bukan bukti pasti ikan hidup di lokasi."
+      ],
+      "reported_name": "Gobio epsilon",
+      "reported_rank": "species",
+      "rule_ids": [
+        "R-NAME-07",
+        "R-DEC-04"
+      ],
+      "run_id": "40453debdd09",
+      "site_id": "MAT-S5",
+      "supporting_accessions": [],
+      "supporting_seq_ids": [
+        "SIM_REF_002"
+      ],
+      "taxon_lab": "Gobio epsilon",
+      "total": 5,
+      "total_reads": 900,
+      "voucher_support": "V2",
+      "warnings": [],
+      "waterbody_id": "MATANO"
+    },
+    {
+      "assessed_with_lab_database": false,
+      "asv_id": "SIM_ASV_011",
+      "best_match": "Gobio epsilon",
+      "best_pct": 100.0,
+      "candidates": [
+        {
+          "bitscore": 307.0,
+          "pct": 100.0,
+          "query_coverage": 1.0,
+          "seq_id": "SIM_REF_002",
+          "species": "Gobio epsilon"
+        }
+      ],
+      "cap_reason": "low_reads",
+      "causes": [
+        "sample"
+      ],
+      "claim_id": "MAT-S5__SIM_ASV_011",
+      "complex_id": "",
+      "decision": "do_not_use",
+      "decision_rule": "R-DEC-04",
+      "follow_up": "Tinjau batch ekstraksi dan kontrol; ulang PCR; abaikan data nyasar.",
+      "gap_pct": 1.176000000000002,
+      "grade": "D",
+      "in_negative_control": false,
+      "interpretation_limit": "Deteksi DNA bukan bukti pasti ikan hidup di lokasi.",
+      "is_simulated": true,
+      "l1": 2,
+      "l2": 1,
+      "l4": 0,
+      "labels": [],
+      "n_pos": 1,
+      "n_rep": 3,
+      "origin_other_sources": "Kemungkinan sumber DNA lain: aliran dari hulu, keramba, atau limbah pasar; belum diverifikasi di lokasi.",
+      "origin_pathway": "Kemungkinan jalur tercatat: tidak tersedia dalam sumber",
+      "origin_status": "Kemungkinan status menurut checklist: asli",
+      "p_missing": 0.0,
+      "reasons_en": [
+        "L1 = 2/2; best identity 100.00%; gap outside the candidate set 1.18%.",
+        "L2 = 1/1; checked against the MATANO waterbody checklist.",
+        "L4 = 0/2; detected in 1 of 3 replicates, with 7 total reads.",
+        "Total reads are below 10; the grade is capped at D.",
+        "DNA detection is not proof that the fish lives at the site."
+      ],
+      "reasons_id": [
+        "L1 = 2/2; kemiripan terbaik 100.00%; selisih di luar kandidat 1.18%.",
+        "L2 = 1/1; pemeriksaan checklist perairan MATANO.",
+        "L4 = 0/2; terdeteksi di 1 dari 3 replikat, total 7 bacaan.",
+        "Total bacaan di bawah 10; nilai dibatasi D.",
+        "Deteksi DNA bukan bukti pasti ikan hidup di lokasi."
+      ],
+      "reported_name": "Gobio epsilon",
+      "reported_rank": "species",
+      "rule_ids": [
+        "R-NAME-07",
+        "R-DEC-04"
+      ],
+      "run_id": "40453debdd09",
+      "site_id": "MAT-S5",
+      "supporting_accessions": [],
+      "supporting_seq_ids": [
+        "SIM_REF_002"
+      ],
+      "taxon_lab": "Gobio epsilon",
+      "total": 3,
+      "total_reads": 7,
+      "voucher_support": "V2",
+      "warnings": [],
+      "waterbody_id": "MATANO"
+    },
+    {
+      "assessed_with_lab_database": false,
+      "asv_id": "SIM_ASV_013",
+      "best_match": "Rasbo iota",
+      "best_pct": 91.765,
+      "candidates": [],
+      "cap_reason": "",
+      "causes": [
+        "reference"
+      ],
+      "claim_id": "MAT-S5__SIM_ASV_013",
+      "complex_id": "",
+      "decision": "with_note",
+      "decision_rule": "R-DEC-06",
+      "follow_up": "Ikan tidak dikenal, kemungkinan belum ada di kamus. Tulis pada tingkat nama yang aman; sertakan catatan penyebab dan cek kemungkinan sumber DNA lain.",
+      "gap_pct": 3.530000000000001,
+      "grade": "C",
+      "in_negative_control": false,
+      "interpretation_limit": "Deteksi DNA bukan bukti pasti ikan hidup di lokasi.",
+      "is_simulated": true,
+      "l1": 0,
+      "l2": 0,
+      "l4": 2,
+      "labels": [],
+      "n_pos": 3,
+      "n_rep": 3,
+      "origin_other_sources": "Kemungkinan sumber DNA lain: aliran dari hulu, keramba, atau limbah pasar; belum diverifikasi di lokasi.",
+      "origin_pathway": "Kemungkinan jalur tercatat: tidak tersedia dalam sumber",
+      "origin_status": "Kemungkinan status menurut checklist: tidak tercatat",
+      "p_missing": 0.5,
+      "reasons_en": [
+        "L1 = 0/2; best identity 91.77%; gap outside the candidate set 3.53%.",
+        "L2 = 0/1; checked against the MATANO waterbody checklist.",
+        "L4 = 2/2; detected in 3 of 3 replicates, with 900 total reads.",
+        "No naming support meets the 95.0% threshold; the true species may be absent from the reference.",
+        "DNA detection is not proof that the fish lives at the site."
+      ],
+      "reasons_id": [
+        "L1 = 0/2; kemiripan terbaik 91.77%; selisih di luar kandidat 3.53%.",
+        "L2 = 0/1; pemeriksaan checklist perairan MATANO.",
+        "L4 = 2/2; terdeteksi di 3 dari 3 replikat, total 900 bacaan.",
+        "Tidak ditemukan dukungan nama yang memenuhi ambang 95.0%; kemungkinan spesies belum ada di kamus.",
+        "Deteksi DNA bukan bukti pasti ikan hidup di lokasi."
+      ],
+      "reported_name": "tidak dikenal",
+      "reported_rank": "unknown",
+      "rule_ids": [
+        "R-NAME-03",
+        "R-DEC-06"
+      ],
+      "run_id": "40453debdd09",
+      "site_id": "MAT-S5",
+      "supporting_accessions": [],
+      "supporting_seq_ids": [],
+      "taxon_lab": "Rasbo iota",
+      "total": 2,
+      "total_reads": 900,
+      "voucher_support": null,
+      "warnings": [],
+      "waterbody_id": "MATANO"
+    },
+    {
+      "assessed_with_lab_database": false,
+      "asv_id": "SIM_ASV_015",
+      "best_match": "Gobio lambda",
+      "best_pct": 100.0,
+      "candidates": [
+        {
+          "bitscore": 307.0,
+          "pct": 100.0,
+          "query_coverage": 1.0,
+          "seq_id": "SIM_REF_003",
+          "species": "Gobio lambda"
+        }
+      ],
+      "cap_reason": "",
+      "causes": [
+        "location"
+      ],
+      "claim_id": "MAT-S5__SIM_ASV_015",
+      "complex_id": "",
+      "decision": "with_note",
+      "decision_rule": "R-DEC-08",
+      "follow_up": "Tulis pada tingkat nama yang aman; sertakan catatan penyebab dan cek kemungkinan sumber DNA lain.",
+      "gap_pct": 3.5289999999999964,
+      "grade": "B",
+      "in_negative_control": false,
+      "interpretation_limit": "Deteksi DNA bukan bukti pasti ikan hidup di lokasi.",
+      "is_simulated": true,
+      "l1": 2,
+      "l2": 0,
+      "l4": 2,
+      "labels": [],
+      "n_pos": 3,
+      "n_rep": 3,
+      "origin_other_sources": "Kemungkinan sumber DNA lain: aliran dari hulu, keramba, atau limbah pasar; belum diverifikasi di lokasi.",
+      "origin_pathway": "Kemungkinan jalur tercatat: tidak tersedia dalam sumber",
+      "origin_status": "Kemungkinan status menurut checklist: tidak tercatat",
+      "p_missing": 0.0,
+      "reasons_en": [
+        "L1 = 2/2; best identity 100.00%; gap outside the candidate set 3.53%.",
+        "L2 = 0/1; checked against the MATANO waterbody checklist.",
+        "L4 = 2/2; detected in 3 of 3 replicates, with 900 total reads.",
+        "DNA detection is not proof that the fish lives at the site."
+      ],
+      "reasons_id": [
+        "L1 = 2/2; kemiripan terbaik 100.00%; selisih di luar kandidat 3.53%.",
+        "L2 = 0/1; pemeriksaan checklist perairan MATANO.",
+        "L4 = 2/2; terdeteksi di 3 dari 3 replikat, total 900 bacaan.",
+        "Deteksi DNA bukan bukti pasti ikan hidup di lokasi."
+      ],
+      "reported_name": "Gobio lambda",
+      "reported_rank": "species",
+      "rule_ids": [
+        "R-NAME-07",
+        "R-DEC-08"
+      ],
+      "run_id": "40453debdd09",
+      "site_id": "MAT-S5",
+      "supporting_accessions": [],
+      "supporting_seq_ids": [
+        "SIM_REF_003"
+      ],
+      "taxon_lab": "Gobio lambda",
+      "total": 4,
+      "total_reads": 900,
+      "voucher_support": "V2",
+      "warnings": [],
+      "waterbody_id": "MATANO"
+    }
+  ],
+  "coverage": [
+    {
+      "genus": "Gobio",
+      "is_simulated": true,
+      "missing_species": [],
+      "n": 2,
+      "p_missing": 0.0,
+      "r": 2,
+      "waterbody_id": "MATANO"
+    },
+    {
+      "genus": "Piscis",
+      "is_simulated": true,
+      "missing_species": [
+        "Piscis gamma"
+      ],
+      "n": 3,
+      "p_missing": 0.3333333333333333,
+      "r": 2,
+      "waterbody_id": "MATANO"
+    },
+    {
+      "genus": "Rasbo",
+      "is_simulated": true,
+      "missing_species": [
+        "Rasbo eta",
+        "Rasbo theta"
+      ],
+      "n": 4,
+      "p_missing": 0.5,
+      "r": 2,
+      "waterbody_id": "MATANO"
+    },
+    {
+      "genus": "Tilapa",
+      "is_simulated": true,
+      "missing_species": [],
+      "n": 1,
+      "p_missing": 0.0,
+      "r": 1,
+      "waterbody_id": "MATANO"
+    }
+  ],
+  "manifest": {
+    "blast_version": "blastn: 2.17.0+",
+    "engine_version": "0.1.1",
+    "execution": {
+      "blast_threads": 4
+    },
+    "finished_at": "2026-10-24T17:18:45.505397+00:00",
+    "input_hashes": {
+      "fasta_SIMULASI.fasta": "0cba26f6d0d11b3d6c85c3cb5e7267ec806898dc60c630a7598ea770818df465",
+      "metadata_SIMULASI.csv": "3c4538aa93655d9d7a154074e1e5ab41b99e8f50b6f4c652d3374cc3ceda0e6d",
+      "reads_SIMULASI.csv": "9808d9aafde7a5c8e178d2b4eb3680e5aa32adc1a7b1df4824f5b5c4ccf11bb2",
+      "taxonomy_SIMULASI.csv": "e0722ec938993dce051efab3fc247dc277c9c0d128fb79d63c9eeccf022d69d3"
+    },
+    "is_simulated": true,
+    "mode": "simulation",
+    "output_hashes": {
+      "barcode_priority_SIMULASI.csv": "ce52bf16c4cb04f3a265161150f82f2d4b2752750d6c39cebc22937f1b6eb2b9",
+      "blast_hits_SIMULASI.tsv": "ba7bfa1d0de60c00233300a5abc59c616436b1fd0612220dad5955ebb960bbd3",
+      "claims_SIMULASI.csv": "28f52494fcb67e2d80e089fda3aca4ac297bc2aa80ad62760849b4b10e3f7b55",
+      "coverage_SIMULASI.csv": "4ebdbbe17ea7f5f8de448de3be34eb60ceeb9a34e47ba414ac4909b22c90c357",
+      "report_SIMULASI.pdf": "d4c7c487b34be57fcd6dd2279dbbd11293bd7c4f6fc4a272a1e767df03fe6385",
+      "summary_SIMULASI.json": "0123de63657deedeaf80e352969123fbf7da67cfcf40072133445f867166c4e3",
+      "validation_report_SIMULASI.json": "f8a11350d7740a78cfb4675981ce0e6f4ccb3b1eaaa8a32c9e64725d9dd59f72"
+    },
+    "parameters": {
+      "marker": "12S_MiFish_U",
+      "rules": {
+        "blast": {
+          "dust": "no",
+          "evalue": 1e-05,
+          "max_target_seqs": 500,
+          "perc_identity": 80,
+          "task": "blastn"
+        },
+        "causes": {
+          "reference_cause_p_missing": 0.5
+        },
+        "curation": {
+          "conflict_policy": "accepted_with_flag",
+          "forward_primer": "GTCGGTAAAACTCGTGCCAGC",
+          "max_n_fraction": 0.01,
+          "min_length_fraction": 0.9,
+          "primer_max_mismatches": 3,
+          "reverse_primer": "CATAGTGGGGTATCTAATCCCAGTTTG"
+        },
+        "interpretation_limit": "Deteksi DNA bukan bukti pasti ikan hidup di lokasi.",
+        "labels": {
+          "partial_sensitive_label": true
+        },
+        "marker_default": "12S_MiFish_U",
+        "naming": {
+          "congener_gap_policy": "strict",
+          "hit_window_pct": 0.5,
+          "min_query_coverage": 0.9,
+          "species_min_pct": 98.0,
+          "unknown_below_pct": 95.0
+        },
+        "preprocess": {
+          "tag_jump_fraction": 0.001
+        },
+        "priorities": {
+          "endemic": 3,
+          "invasive": 1,
+          "observed_reference_gap": 2,
+          "threatened": 2
+        },
+        "reference": {
+          "allowed_voucher_levels": [
+            "V1",
+            "V2",
+            "V3"
+          ]
+        },
+        "rules_version": "r0.3",
+        "scoring": {
+          "grade_map": {
+            "0": "D",
+            "1": "D",
+            "2": "C",
+            "3": "C",
+            "4": "B",
+            "5": "A"
+          },
+          "l1_high_gap": 1.0,
+          "l1_high_pct": 99.0,
+          "l1_mid_gap": 0.5,
+          "l1_mid_pct": 98.0,
+          "l1_penalty_ref_fraction_below": 0.5,
+          "l4_full": 1.0,
+          "l4_partial": 0.66,
+          "l4_single_replicate_score": 1,
+          "min_total_reads": 10
+        },
+        "status": "usulan tim, belum dikalibrasi ahli",
+        "validation": {
+          "baseline_species_pct": 97.0
+        }
+      },
+      "uses_fasta": true
+    },
+    "reasons_hash": "19f1372ba56d9754366c0321ebd581e1e7f06e6475e6d6007c1c34d3c6ed489c",
+    "reference_manifest_hash": "0342b499cb5a737320d962a53c8598fd811fe3decb30fb71b310f58b607bea6b",
+    "reference_version": "SIMULASI-v3",
+    "report_fingerprint": "b5f12bba3474e24898b29eacc03261c5c21313b2e50cf0e347cb29e077b0e9b7",
+    "result_payload_hash": "85a63092d842679bedec2751d10416156db4a8666834450af7306cd9a1a03e59",
+    "rules_hash": "90d2d1ad0bec973b82c429d1512d7fd85bf2811dda8812b5e2c44399a19b57fd",
+    "rules_version": "r0.3",
+    "run_fingerprint": "40453debdd09b9c9910a82628db32ad6113496392da6f3946ea5045926a6f738",
+    "started_at": "2026-10-24T17:18:43.794379+00:00"
+  },
+  "run_id": "40453debdd09",
+  "summary": {
+    "decisions": [
+      {
+        "claims": 12,
+        "decision": "safe",
+        "follow_up": "Boleh dimasukkan ke dokumen pada tingkat nama yang tertera.",
+        "label": "Aman dilaporkan",
+        "taxa": 6
+      },
+      {
+        "claims": 8,
+        "decision": "with_note",
+        "follow_up": "Tulis pada tingkat nama yang aman; sertakan catatan penyebab dan cek kemungkinan sumber DNA lain.",
+        "label": "Dengan catatan",
+        "taxa": 3
+      },
+      {
+        "claims": 8,
+        "decision": "must_verify",
+        "follow_up": "Jangan dijadikan kesimpulan sebelum dicek: marker kedua (COI/16S), survei tangkap, atau barcode spesimen voucher.",
+        "label": "Wajib verifikasi",
+        "taxa": 4
+      },
+      {
+        "claims": 4,
+        "decision": "do_not_use",
+        "follow_up": "Tinjau batch ekstraksi dan kontrol; ulang PCR; abaikan data nyasar.",
+        "label": "Jangan dipakai",
+        "taxa": 1
+      }
+    ],
+    "duration_seconds": 1.704,
+    "is_simulated": true,
+    "must_verify_count": 8,
+    "precomputed": false,
+    "reference_by_voucher": {
+      "V2": 10
+    },
+    "reference_coverage": 0.7,
+    "reference_sequences": 10,
+    "reference_species": 10,
+    "safe_percent": 37.5,
+    "sites": [
+      "MAT-S1",
+      "MAT-S2",
+      "MAT-S3",
+      "MAT-S4",
+      "MAT-S5"
+    ],
+    "tag_jump_removed": 0,
+    "total_claims": 32,
+    "total_taxa": 9,
+    "warnings": [],
+    "waterbodies": [
+      "MATANO"
+    ]
+  },
+  "validation": {
+    "issues": []
+  }
+}

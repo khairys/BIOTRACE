@@ -3,6 +3,7 @@
 import pytest
 
 from biotrace_core.assessment import assess
+from biotrace_core.config import DEFAULT_RULES, load_rules
 from biotrace_core.models import LabTaxonomy, NamingResult, ReadRow, Sample, SpeciesHit
 from biotrace_core.naming.candidates import candidate_set, species_hits
 from biotrace_core.naming.rules import assign_rank
@@ -78,6 +79,44 @@ def test_R_SCORE_01_single_replicate(ref, cfg):
     )
     score = score_claim(name, Signal("A", "S", "MATANO", 1, 1, 10, False), ref, cfg)
     assert score.l4 == 1
+
+
+@pytest.mark.parametrize(
+    "rules,labels,decision",
+    [
+        ("rules_r0.2.yaml", [], "do_not_use"),
+        ("rules_r0.3.yaml", ["possible_endemic"], "must_verify"),
+    ],
+)
+def test_R_SCORE_04_R_DEC_03_possible_endemic_mixed_candidates(
+    rules, labels, decision, ref, reasons, hit
+):
+    """D-030: Gobio delta (endemik) + Gobio epsilon (asli) share a genus claim."""
+    cfg = load_rules(DEFAULT_RULES.parent / rules)
+    claim = assess(
+        Signal("A", "S", "MATANO", 3, 3, 5, False),  # low reads → D (R-SCORE-06)
+        [hit("Gobio delta", 100), hit("Gobio epsilon", 100)],
+        ref,
+        cfg,
+        reasons,
+    )
+    assert claim.reported_rank == "genus"
+    assert claim.grade == "D"
+    assert [x for x in claim.labels if x == "possible_endemic"] == labels
+    assert claim.decision == decision
+
+
+def test_R_SCORE_04_possible_endemic_not_added_when_all_agree(ref, cfg, hit):
+    """D-030: a full endemic label never gets the weaker mixed label as well."""
+    name = NamingResult(
+        reported_name="Gobio delta",
+        reported_rank="species",
+        best_match="Gobio delta",
+        best_pct=100,
+        candidates=[hit("Gobio delta", 100)],
+    )
+    labels = score_claim(name, Signal("A", "S", "MATANO", 3, 3, 100, False), ref, cfg).labels
+    assert "endemic" in labels and "possible_endemic" not in labels
 
 
 @pytest.mark.parametrize(

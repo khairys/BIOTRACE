@@ -158,6 +158,7 @@ Lalu dikurangi 1 (minimal 0) bila fraksi kerabat satu genus di checklist peraira
 - `invasive`: berstatus invasif di `status.csv` atau lewat alias.
 - `hybrid_alias`: dari R-NAME-11.
 - `possible_unreferenced_endemic`: klaim di atas tingkat spesies atau `unknown`, dan genus (atau kerabat terdekat) punya spesies endemik di perairan itu yang belum punya referensi.
+- `possible_endemic` (r0.3, D-030): ≥1 anggota S endemik di checklist atau berkategori CR/EN/VU, tetapi `endemic` maupun `threatened` tidak diberikan karena tidak semua anggota S setuju.
 
 **R-SCORE-05 Total dan nilai.** `total = L1 + L2 + L4` (0–5). Pemetaan: 5 → **A**, 4 → **B**, 2–3 → **C**, 0–1 → **D**.
 
@@ -213,13 +214,14 @@ Aturan dievaluasi berurutan. Aturan pertama yang cocok yang dipakai.
 | 2 | R-DEC-06 | `reported_rank = unknown` | `with_note`; teks: "ikan tidak dikenal, kemungkinan belum ada di kamus" |
 | 3 | R-DEC-08 | Nilai A–B, tingkat spesies/alias, dan `L2 = 0` (catatan baru untuk perairan ini) | `with_note` (bila ada label L3: `must_verify`) |
 | 4 | R-DEC-01 | Nilai A–B | `safe` |
-| 5 | R-DEC-03 | Nilai C–D dan ada label L3 (`endemic`, `threatened`, `invasive`, `hybrid_alias`) | `must_verify` |
+| 5 | R-DEC-03 | Nilai C–D dan ada label L3 (`endemic`, `threatened`, `invasive`, `hybrid_alias`; sejak r0.3 juga `possible_endemic`) | `must_verify` |
 | 6 | R-DEC-02 | Nilai C tanpa label L3 | `with_note` |
 | 7 | R-DEC-04 | Nilai D tanpa label L3 | `do_not_use` |
 
 **R-DEC-07 Teks tambahan.**
 - Label `invasive` dengan nilai C–D → tambahkan "Jangan dijadikan dasar pemberantasan sebelum dicek."
 - Label `endemic` dengan nilai D → tambahkan "Klaim tidak dibuang agar tidak berujung kesimpulan 'tidak ada' yang keliru."
+- Label `possible_endemic` (r0.3) → tambahkan "Sebagian kandidat berstatus endemik atau terancam."
 - Label `possible_unreferenced_endemic` → tambahkan "Kemungkinan ikan endemik yang belum ada di kamus."
 
 Label L3 `possible_unreferenced_endemic` saja **tidak** memicu R-DEC-03 di r0.1; label itu tetap ditampilkan.

@@ -1,0 +1,110 @@
+{
+  "blast_version": "blastn: 2.17.0+",
+  "engine_version": "0.1.1",
+  "execution": {
+    "blast_threads": 4
+  },
+  "finished_at": "2026-10-24T17:18:45.505397+00:00",
+  "input_hashes": {
+    "fasta_SIMULASI.fasta": "0cba26f6d0d11b3d6c85c3cb5e7267ec806898dc60c630a7598ea770818df465",
+    "metadata_SIMULASI.csv": "3c4538aa93655d9d7a154074e1e5ab41b99e8f50b6f4c652d3374cc3ceda0e6d",
+    "reads_SIMULASI.csv": "9808d9aafde7a5c8e178d2b4eb3680e5aa32adc1a7b1df4824f5b5c4ccf11bb2",
+    "taxonomy_SIMULASI.csv": "e0722ec938993dce051efab3fc247dc277c9c0d128fb79d63c9eeccf022d69d3"
+  },
+  "is_simulated": true,
+  "mode": "simulation",
+  "output_hashes": {
+    "barcode_priority_SIMULASI.csv": "ce52bf16c4cb04f3a265161150f82f2d4b2752750d6c39cebc22937f1b6eb2b9",
+    "blast_hits_SIMULASI.tsv": "ba7bfa1d0de60c00233300a5abc59c616436b1fd0612220dad5955ebb960bbd3",
+    "claims_SIMULASI.csv": "28f52494fcb67e2d80e089fda3aca4ac297bc2aa80ad62760849b4b10e3f7b55",
+    "coverage_SIMULASI.csv": "4ebdbbe17ea7f5f8de448de3be34eb60ceeb9a34e47ba414ac4909b22c90c357",
+    "report_SIMULASI.pdf": "d4c7c487b34be57fcd6dd2279dbbd11293bd7c4f6fc4a272a1e767df03fe6385",
+    "summary_SIMULASI.json": "0123de63657deedeaf80e352969123fbf7da67cfcf40072133445f867166c4e3",
+    "validation_report_SIMULASI.json": "f8a11350d7740a78cfb4675981ce0e6f4ccb3b1eaaa8a32c9e64725d9dd59f72"
+  },
+  "parameters": {
+    "marker": "12S_MiFish_U",
+    "rules": {
+      "blast": {
+        "dust": "no",
+        "evalue": 1e-05,
+        "max_target_seqs": 500,
+        "perc_identity": 80,
+        "task": "blastn"
+      },
+      "causes": {
+        "reference_cause_p_missing": 0.5
+      },
+      "curation": {
+        "conflict_policy": "accepted_with_flag",
+        "forward_primer": "GTCGGTAAAACTCGTGCCAGC",
+        "max_n_fraction": 0.01,
+        "min_length_fraction": 0.9,
+        "primer_max_mismatches": 3,
+        "reverse_primer": "CATAGTGGGGTATCTAATCCCAGTTTG"
+      },
+      "interpretation_limit": "Deteksi DNA bukan bukti pasti ikan hidup di lokasi.",
+      "labels": {
+        "partial_sensitive_label": true
+      },
+      "marker_default": "12S_MiFish_U",
+      "naming": {
+        "congener_gap_policy": "strict",
+        "hit_window_pct": 0.5,
+        "min_query_coverage": 0.9,
+        "species_min_pct": 98.0,
+        "unknown_below_pct": 95.0
+      },
+      "preprocess": {
+        "tag_jump_fraction": 0.001
+      },
+      "priorities": {
+        "endemic": 3,
+        "invasive": 1,
+        "observed_reference_gap": 2,
+        "threatened": 2
+      },
+      "reference": {
+        "allowed_voucher_levels": [
+          "V1",
+          "V2",
+          "V3"
+        ]
+      },
+      "rules_version": "r0.3",
+      "scoring": {
+        "grade_map": {
+          "0": "D",
+          "1": "D",
+          "2": "C",
+          "3": "C",
+          "4": "B",
+          "5": "A"
+        },
+        "l1_high_gap": 1.0,
+        "l1_high_pct": 99.0,
+        "l1_mid_gap": 0.5,
+        "l1_mid_pct": 98.0,
+        "l1_penalty_ref_fraction_below": 0.5,
+        "l4_full": 1.0,
+        "l4_partial": 0.66,
+        "l4_single_replicate_score": 1,
+        "min_total_reads": 10
+      },
+      "status": "usulan tim, belum dikalibrasi ahli",
+      "validation": {
+        "baseline_species_pct": 97.0
+      }
+    },
+    "uses_fasta": true
+  },
+  "reasons_hash": "19f1372ba56d9754366c0321ebd581e1e7f06e6475e6d6007c1c34d3c6ed489c",
+  "reference_manifest_hash": "0342b499cb5a737320d962a53c8598fd811fe3decb30fb71b310f58b607bea6b",
+  "reference_version": "SIMULASI-v3",
+  "report_fingerprint": "b5f12bba3474e24898b29eacc03261c5c21313b2e50cf0e347cb29e077b0e9b7",
+  "result_payload_hash": "85a63092d842679bedec2751d10416156db4a8666834450af7306cd9a1a03e59",
+  "rules_hash": "90d2d1ad0bec973b82c429d1512d7fd85bf2811dda8812b5e2c44399a19b57fd",
+  "rules_version": "r0.3",
+  "run_fingerprint": "40453debdd09b9c9910a82628db32ad6113496392da6f3946ea5045926a6f738",
+  "started_at": "2026-10-24T17:18:43.794379+00:00"
+}

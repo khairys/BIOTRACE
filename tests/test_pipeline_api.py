@@ -197,7 +197,7 @@ def test_T_API_no_blast_fallback_verified_only(monkeypatch, tmp_path, completed)
     client = TestClient(api.app)
     # A precomputed result is prepared from a real pipeline run, never hand-authored.
     run, root = completed
-    target = tmp_path / "precomputed/matano_SIMULASI_v3"
+    target = tmp_path / "precomputed" / api.PRECOMPUTED_NAME
     target.parent.mkdir()
     shutil.copytree(root / run.run_id, target)
     monkeypatch.setattr(api, "ROOT", tmp_path)

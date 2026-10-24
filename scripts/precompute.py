@@ -5,13 +5,13 @@ import tempfile
 from pathlib import Path
 
 from biotrace_core.audit import verify_run
-from biotrace_core.config import ROOT
+from biotrace_core.config import ROOT, load_rules
 from biotrace_core.pipeline import run_analysis
 from scripts.make_demo_data import DEMO
 
 
 def precompute() -> Path:
-    target = ROOT / "precomputed/matano_SIMULASI_v3"
+    target = ROOT / "precomputed" / f"matano_SIMULASI_v3_{load_rules().rules_version}"
     if target.exists():
         raise ValueError(
             "Hasil pra-hitung sudah ada; buat versi demo baru agar jejak audit tetap utuh."

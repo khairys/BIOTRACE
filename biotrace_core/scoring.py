@@ -91,6 +91,17 @@ def score_claim(name: NamingResult, signal: Signal, ref: ReferenceIndex, cfg: Ru
             labels.append("threatened")
         if all(truth(statuses.get(n, {}).get("invasive_flag", False)) for n in candidates):
             labels.append("invasive")
+        sensitive = [
+            by_species.get(n, {}).get("origin_status") == "endemik"
+            or statuses.get(n, {}).get("iucn_category") in {"CR", "EN", "VU"}
+            for n in candidates
+        ]
+        if (
+            cfg.labels.get("partial_sensitive_label", False)
+            and any(sensitive)
+            and not {"endemic", "threatened"} & set(labels)
+        ):
+            labels.append("possible_endemic")  # D-030 (r0.3): mixed candidate set
     if name.reported_rank == "hybrid_alias":
         labels.extend(["hybrid_alias", "invasive"])
     if name.reported_rank not in {"species", "hybrid_alias"} and genus:

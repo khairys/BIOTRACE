@@ -154,6 +154,7 @@ export interface RulesConfig {
   priorities: Record<string, number>;
   blast: Record<string, string | number | number>;
   interpretation_limit: string;
+  labels: Record<string, boolean>;
 }
 export interface RunCreated {
   run_id: string;

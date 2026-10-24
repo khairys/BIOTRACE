@@ -49,6 +49,8 @@ app = FastAPI(
 )
 DEMO = ROOT / "data/demo/matano_SIMULASI_v3"
 DEMO_ID = "matano_sim_v3"
+# Offline demo fallback is tied to the active rules version (D-030).
+PRECOMPUTED_NAME = f"matano_SIMULASI_v3_{load_rules().rules_version}"
 
 
 def runs_root() -> Path:
@@ -216,7 +218,7 @@ def create_demo_run(demo_id: str) -> RunCreated:
     if demo_id != DEMO_ID:
         raise HTTPException(404, "Demo tidak ditemukan.")
     if not executable("blastn"):
-        precomputed = ROOT / "precomputed/matano_SIMULASI_v3"
+        precomputed = ROOT / "precomputed" / PRECOMPUTED_NAME
         if not precomputed.exists() or not verify_run(precomputed)["valid"]:
             raise HTTPException(503, "BLAST tidak tersedia dan hasil demo pra-hitung belum siap.")
         result = read_run(precomputed)

@@ -22,7 +22,10 @@ DECISIONS: dict[str, tuple[str, str]] = {
 
 def decide(name: NamingResult, score: Score, causes: list[str]) -> tuple[Decision, str, str]:
     """R-DEC-01..08: first matching decision wins; additional cautions are retained."""
-    sensitive = bool(set(score.labels) & {"endemic", "threatened", "invasive", "hybrid_alias"})
+    sensitive = bool(
+        set(score.labels)
+        & {"endemic", "threatened", "invasive", "hybrid_alias", "possible_endemic"}
+    )
     if name.reported_rank == "unknown":
         decision, rule = (
             ("do_not_use", "R-DEC-05") if "sample" in causes else ("with_note", "R-DEC-06")
@@ -48,6 +51,8 @@ def decide(name: NamingResult, score: Score, causes: list[str]) -> tuple[Decisio
         text += " Jangan dijadikan dasar pemberantasan sebelum dicek."
     if "endemic" in score.labels and score.grade == "D":
         text += " Klaim tidak dibuang agar tidak berujung kesimpulan 'tidak ada' yang keliru."
+    if "possible_endemic" in score.labels:
+        text += " Sebagian kandidat berstatus endemik atau terancam."
     if "possible_unreferenced_endemic" in score.labels:
         text += " Kemungkinan ikan endemik yang belum ada di kamus."
     return decision, rule, text

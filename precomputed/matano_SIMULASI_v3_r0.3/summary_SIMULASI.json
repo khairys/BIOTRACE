@@ -1,0 +1,57 @@
+{
+  "decisions": [
+    {
+      "claims": 12,
+      "decision": "safe",
+      "follow_up": "Boleh dimasukkan ke dokumen pada tingkat nama yang tertera.",
+      "label": "Aman dilaporkan",
+      "taxa": 6
+    },
+    {
+      "claims": 8,
+      "decision": "with_note",
+      "follow_up": "Tulis pada tingkat nama yang aman; sertakan catatan penyebab dan cek kemungkinan sumber DNA lain.",
+      "label": "Dengan catatan",
+      "taxa": 3
+    },
+    {
+      "claims": 8,
+      "decision": "must_verify",
+      "follow_up": "Jangan dijadikan kesimpulan sebelum dicek: marker kedua (COI/16S), survei tangkap, atau barcode spesimen voucher.",
+      "label": "Wajib verifikasi",
+      "taxa": 4
+    },
+    {
+      "claims": 4,
+      "decision": "do_not_use",
+      "follow_up": "Tinjau batch ekstraksi dan kontrol; ulang PCR; abaikan data nyasar.",
+      "label": "Jangan dipakai",
+      "taxa": 1
+    }
+  ],
+  "duration_seconds": 1.704,
+  "is_simulated": true,
+  "must_verify_count": 8,
+  "precomputed": false,
+  "reference_by_voucher": {
+    "V2": 10
+  },
+  "reference_coverage": 0.7,
+  "reference_sequences": 10,
+  "reference_species": 10,
+  "safe_percent": 37.5,
+  "sites": [
+    "MAT-S1",
+    "MAT-S2",
+    "MAT-S3",
+    "MAT-S4",
+    "MAT-S5"
+  ],
+  "tag_jump_removed": 0,
+  "total_claims": 32,
+  "total_taxa": 9,
+  "warnings": [],
+  "waterbodies": [
+    "MATANO"
+  ]
+}
