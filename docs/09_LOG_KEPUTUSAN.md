@@ -227,3 +227,11 @@ Templat:
 - Pemilik: Backend & data bersama penasihat ahli.
 
 Rincian bukti dan gerbang implementasi: [11 — Audit Kesiapan](11_AUDIT_KESIAPAN_2026-10-24.md). Pencatatan konflik tidak menyetujui perubahan aturan/skema.
+
+### D-029 — Baseline pengerjaan MVP setelah audit `[MVP]`
+- Tanggal: 2026-10-24 · Status pencatatan: **Diusulkan** (status formal dokumen tetap milik manusia).
+- Diusulkan oleh: Codex berdasarkan instruksi implementasi keseluruhan dari pengguna setelah audit.
+- Konfirmasi manusia dalam chat: K-004 accepted + flag conflict, wajib turun tingkat; K-006 thread dipisah dari fingerprint analitis. Konfirmasi ini adalah otorisasi implementasi pilihan tersebut, bukan persetujuan ilmiah ambang.
+- Keputusan implementasi: simpan rules r0.1, buat r0.2 tanpa mengubah angka ambang; dokumentasikan kontrak mode/berkas/agregasi dan penanganan dataset tertunda dalam [12 — Baseline implementasi](12_BASELINE_IMPLEMENTASI.md).
+- Dampak: F1–F27, F37–F42; R-CUR-08, R-NAME-01, R-AUD-02; tes konflik dan reproduksibilitas. Semua ambang tetap belum dikalibrasi ahli.
+- Menggantikan: perilaku konflik dan parameter eksekusi yang belum konsisten pada r0.1, khusus prototipe yang diotorisasi pengguna.

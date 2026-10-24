@@ -1,0 +1,42 @@
+unknown:
+  id: "Tidak ditemukan dukungan nama yang memenuhi ambang {unknown_below_pct}%; kemungkinan spesies belum ada di kamus."
+  en: "No naming support meets the {unknown_below_pct}% threshold; the true species may be absent from the reference."
+complex:
+  id: "Kandidat berada dalam kompleks {name}; marker ini belum mendukung pemisahan nama spesies."
+  en: "Candidates belong to {name}; this marker does not support separating species names."
+lca:
+  id: "Beberapa kandidat berdekatan; nama dilaporkan pada tingkat {rank}: {name}."
+  en: "Several close candidates remain; the name is reported at {rank}: {name}."
+congener_gap:
+  id: "Kerabat lokal belum lengkap dalam kamus; nama diturunkan sesuai aturan celah kerabat."
+  en: "Local relatives are missing from the reference; the congener-gap rule lowers the reported rank."
+mid_identity:
+  id: "Kemiripan belum memenuhi batas spesies {species_min_pct}%; nama diturunkan ke genus."
+  en: "Identity is below the {species_min_pct}% species threshold; the name is lowered to genus."
+l1:
+  id: "L1 = {l1}/2; kemiripan terbaik {best_pct}%; selisih di luar kandidat {gap}."
+  en: "L1 = {l1}/2; best identity {best_pct}%; gap outside the candidate set {gap}."
+l2:
+  id: "L2 = {l2}/1; pemeriksaan checklist perairan {waterbody}."
+  en: "L2 = {l2}/1; checked against the {waterbody} waterbody checklist."
+l4:
+  id: "L4 = {l4}/2; terdeteksi di {n_pos} dari {n_rep} replikat, total {reads} bacaan."
+  en: "L4 = {l4}/2; detected in {n_pos} of {n_rep} replicates, with {reads} total reads."
+neg_control:
+  id: "DNA yang sama muncul di kontrol negatif batch terkait; nilai dibatasi D."
+  en: "The same DNA appears in a related batch negative control; the grade is capped at D."
+low_reads:
+  id: "Total bacaan di bawah {min_total_reads}; nilai dibatasi D."
+  en: "Total reads are below {min_total_reads}; the grade is capped at D."
+not_in_indonesia:
+  id: "Nama lab belum tercatat sebagai spesies Indonesia dalam kamus; dilaporkan pada tingkat lebih tinggi."
+  en: "The lab name is not recorded as an Indonesian species in the reference; a higher rank is reported."
+alias:
+  id: "Nama cocok dengan tabel alias; dilaporkan sebagai {name}."
+  en: "The name matches the alias table; reported as {name}."
+lab_db:
+  id: "Dinilai dengan database lab; sekuens belum dicocokkan ulang ke kamus BioTrace."
+  en: "Assessed with the lab database; sequences have not been rematched to the BioTrace reference."
+limit:
+  id: "Deteksi DNA bukan bukti pasti ikan hidup di lokasi."
+  en: "DNA detection is not proof that the fish lives at the site."
