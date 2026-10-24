@@ -4,14 +4,16 @@ import type { Claim, ReviewNote } from '../api/generated';
 import { ApiError, request, useResource } from '../api/client';
 import { causeNames, formatNumber, labelNames, percent, rankLabels, warningNames } from '../i18n/id';
 import { DecisionBadge, GradeBadge } from './Common';
+import { BaselineLine } from './Baseline';
 
-export default function EvidenceCard({claim,runId,onClose}:{claim:Claim;runId:string;onClose:()=>void}){
+export default function EvidenceCard({claim,runId,baselinePct,onClose}:{claim:Claim;runId:string;baselinePct:number|null;onClose:()=>void}){
   const dialog=useRef<HTMLDialogElement>(null);
   const [language,setLanguage]=useState<'id'|'en'>('id');
   useEffect(()=>{const element=dialog.current;element?.showModal();return()=>element?.close();},[]);
   return <dialog ref={dialog} className="evidence-dialog" onCancel={onClose} onClick={event=>{if(event.target===event.currentTarget)onClose();}} aria-labelledby="evidence-title"><article className="evidence-card"><div className="evidence-header"><span><ClipboardList size={16}/>BUKTI PER KLAIM</span><button className="icon-button" aria-label="Tutup Evidence Card" onClick={onClose}><X size={20}/></button></div><div className="evidence-body">
     <div className="eyebrow">{claim.site_id} <span>·</span> {claim.asv_id}</div><h2 id="evidence-title"><i>{claim.reported_name}</i></h2><span className="rank-label">{rankLabels[claim.reported_rank]}</span>
     {claim.taxon_lab?<div className="lab-name"><span>Dari lab</span><ArrowDown size={12}/><i className={claim.taxon_lab!==claim.reported_name?'changed-name':''}>{claim.taxon_lab}</i></div>:null}
+    <BaselineLine claim={claim} pct={baselinePct}/>
     <div className="evidence-badges"><GradeBadge grade={claim.grade}/><DecisionBadge decision={claim.decision}/></div><div className="label-list">{claim.labels.map(label=><span className="taxon-label" key={label}>{labelNames[label]??label}</span>)}{claim.is_simulated?<span className="simulation-tag">SIMULASI</span>:null}</div>
     <section><h3>Kenapa keputusan ini?</h3><div className="cause-list">{claim.causes.length?claim.causes.map(c=><span key={c}><Info size={13}/>{causeNames[c]??c}</span>):<span><Check size={13}/>Tidak ada penyebab ketidakpastian yang terpicu.</span>}</div><div className="language-tabs" role="group" aria-label="Bahasa alasan"><button className={language==='id'?'selected':''} onClick={()=>setLanguage('id')}>Indonesia</button><button className={language==='en'?'selected':''} onClick={()=>setLanguage('en')}>English</button></div><ul className="reasons-list">{(language==='id'?claim.reasons_id:claim.reasons_en).map((reason,i)=><li key={i}>{reason}</li>)}</ul></section>
     <section><h3>Bukti pendukung</h3><div className="score-grid">{[['L1','Kamus',claim.l1,2],['L2','Lokasi',claim.l2,1],['L4','Sinyal lab',claim.l4,2]].map(([key,label,value,max])=><div key={String(key)}><span>{key} <small>{label}</small><strong>{value}/{max}</strong></span><div className="score-track"><b style={{width:`${Number(value)/Number(max)*100}%`}}/></div></div>)}</div><dl className="evidence-facts"><div><dt>Replikat positif</dt><dd>{claim.n_pos} / {claim.n_rep}</dd></div><div><dt>Total bacaan</dt><dd>{formatNumber(claim.total_reads)}</dd></div><div><dt>Fraksi celah kamus</dt><dd>{percent(claim.p_missing)}</dd></div><div><dt>Voucher pendukung</dt><dd>{claim.voucher_support??'Tidak tersedia'}{claim.is_simulated?' (SIMULASI)':''}</dd></div><div><dt>Kontrol negatif terkait</dt><dd>{claim.in_negative_control?'DNA terdeteksi':'DNA tidak terdeteksi'}</dd></div></dl>

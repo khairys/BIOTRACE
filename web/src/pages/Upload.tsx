@@ -5,6 +5,7 @@ import { useNavigate } from 'react-router-dom';
 import { ApiError, request, useResource } from '../api/client';
 import type { HealthResponse, RunCreated, ValidationReport } from '../api/generated';
 import { ErrorNotice, LimitNotice, SimulationBanner } from '../components/Common';
+import { LosoEvidence } from '../components/Baseline';
 
 type Role='reads'|'metadata'|'fasta'|'taxonomy'|'site_context'|'unknown';
 type Entry={id:string;file:File;role:Role;hint:string};
@@ -65,6 +66,7 @@ export default function Upload(){
       <div className="upload-actions"><button className="button primary" disabled={!ready||busy} onClick={()=>void start()}>{busy?<LoaderCircle size={16} className="spinner"/>:<FolderUp size={17}/>}Jalankan analisis<ArrowRight size={16}/></button><span>atau</span><button className="button secondary" disabled={busy} onClick={()=>void start(true)}><FlaskConical size={17}/>Muat data demo (SIMULASI)</button></div>
     </section>
     <div className="upload-assurances"><div><ShieldCheck size={20}/><span><strong>Diproses secara lokal</strong><small>Berkas tidak dikirim ke layanan luar.</small></span></div><div><Check size={20}/><span><strong>Keputusan dapat ditelusuri</strong><small>Sumber, versi aturan, dan sidik jari file.</small></span></div></div>
+    <LosoEvidence/>
     <div className="readiness-note"><span className={health.data?.reference_ready?'small-dot':'small-dot amber'}/><span>{health.loading?'Memeriksa lingkungan lokal…':health.data?.reference_ready?'Kamus referensi lokal tersedia.':'Kamus Indonesia nyata belum siap. Anda dapat menjalankan demo SIMULASI.'}</span></div>
     <LimitNotice/>
   </div>;
