@@ -29,9 +29,12 @@ ATURAN KERAS (jangan dilanggar):
 - A1: jangan mengarang apa pun. Setiap baris wajib menunjuk sumber yang tercatat di sources.csv.
   Ingatan model BUKAN sumber.
 - A12: jangan mengubah data/reference/v0.1, v0.2, raw/ yang sudah ada, atau precomputed/.
-- A13: sekuens WAJIB diunduh ulang dari NCBI lewat scripts/fetch_data.py (tambahkan dataset
-  baru di sana) ke raw/, dengan log di raw/DOWNLOAD_LOG.md. Jangan menyalin ref12S.fasta repo
-  lama. Mesin inti (biotrace_core/) tidak boleh memanggil jaringan.
+- A13: pakai file MENTAH yang sudah ada di laptop saya (folder data/raw/ repo lama) lewat cara
+  manual scripts/fetch_instructions.md §6: salin byte-per-byte ke raw/, cocokkan SHA-256 dengan
+  data/ref/v0.1/manifest.csv repo lama, catat di raw/DOWNLOAD_LOG.md. Hanya file yang hilang atau
+  hash-nya tidak cocok yang diunduh ulang lewat scripts/fetch_data.py. Jangan memakai berkas
+  turunan (ref12S.fasta, ref12S_taksonomi.csv, kelengkapan*.csv) sebagai sumber. Mesin inti
+  (biotrace_core/) tidak boleh memanggil jaringan.
 - A5: tidak ada sekuens eDNA/lingkungan (V4) di kamus.
 - R-CUR-05: semua sekuens dipotong ke daerah MiFish-U lewat alat kurasi yang ada
   (biotrace_core/reference/curate.py, trim.py). Yang gagal dipotong ditolak, tidak dipaksa.
@@ -47,12 +50,17 @@ LANGKAH:
    sumber/invasif.csv dari repo lama ke raw/bagus_ref_v0.1/ apa adanya (byte sama), tambahkan
    README.md (asal: repo BagusAth/BIOTRACE commit <hash>, tanggal, isi) dan catat SHA-256 di
    raw/DOWNLOAD_LOG.md. Ini sumber sekunder: tabel kurasi tim, bukan file publikasi.
-3. Sekuens: tambahkan dataset `malili12s_mitohelper` ke scripts/fetch_data.py yang mengambil
-   FASTA dan GenBank flat file untuk daftar aksesi di aksesi_dicek.csv (batch efetch, jeda sesuai
-   kebijakan NCBI, verifikasi jumlah record). Simpan di raw/malili12s_mitohelper/.
+3. Sekuens dari file mentah lokal: salin data/raw/biotrace_ref_malili_v0.1.zip (dan isinya),
+   data/raw/mitohelper/ (12S-seqs-derep-uniq.qza, 12S-tax-derep-uniq.qza), data/raw/genbank/
+   esummary_*.json, data/raw/gbif/*.json dari repo lama ke raw/malili12s_mitohelper/ apa adanya.
+   Cocokkan SHA-256 dengan manifest.csv repo lama dan simpan manifest itu sebagai
+   manifest_rekan.csv. Sekuens diambil dari FASTA di dalam .qza/zip (arsip zip; ekstrak ke folder
+   kerja, bukan menimpa raw/); voucher dan negara dari esummary_*.json. Bila esummary tidak memuat
+   /specimen_voucher atau /country untuk suatu aksesi, barulah ambil GenBank flat file untuk
+   aksesi itu saja lewat dataset baru di scripts/fetch_data.py.
 4. Buat builder `prepare_indonesia_v03()` di scripts/prepare_data.py (pola sama dengan
    prepare_indonesia_v02), yang membangun data/reference/v0.3 dari v0.2 + data di atas:
-   a. sequences: dari GenBank flat file. voucher_level: V2 bila ada /specimen_voucher; V3 bila
+   a. sequences: dari FASTA mitohelper + metadata esummary (flat file hanya untuk yang kurang). voucher_level: V2 bila ada /specimen_voucher; V3 bila
       tanpa voucher tetapi REFERENCE terbit di jurnal (bukan "Unpublished"/"Direct Submission");
       selain itu tetap masuk metadata tetapi curation_status rejected dengan alasan no_voucher.
       specimen_country dari /country atau /geo_loc_name: "ID" bila Indonesia, selain itu nama

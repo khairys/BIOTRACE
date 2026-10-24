@@ -48,3 +48,12 @@ Simpan di `raw/checklists/`. Agent akan membantu mengetik tabelnya ke `checklist
 - Jangan ubah isi file mentah.
 - Tulis di `raw/DOWNLOAD_LOG.md`: nama file, URL, tanggal unduh, lisensi.
 - Minta agent: "kurasi `raw/...` ke kamus versi baru sesuai 04 §5".
+
+## 6. Impor data mentah lokal rekan tim (tanpa unduh ulang)
+
+Bila rekan tim sudah mengunduh sumber publik dan mencatat SHA-256-nya (mis. `data/ref/v0.1/manifest.csv` di repo BagusAth/BIOTRACE), file mentah boleh disalin dari laptopnya alih-alih diunduh ulang:
+
+1. Salin file **mentah** (bukan hasil turunan seperti `ref12S.fasta`) ke `raw/<dataset>/` tanpa mengubah byte.
+2. Hitung SHA-256 setiap file dan cocokkan dengan manifest rekan. File yang tidak cocok atau hilang **tidak dipakai**; unduh ulang lewat `scripts/fetch_data.py`.
+3. Catat di `raw/DOWNLOAD_LOG.md`: nama file, URL/sumber asli dan versi/commit dari manifest rekan, tanggal unduh asli, siapa yang mengunduh, SHA-256, hasil pencocokan, dan lisensi.
+4. Simpan salinan manifest rekan di `raw/<dataset>/manifest_rekan.csv` sebagai bukti.
