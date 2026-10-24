@@ -99,15 +99,15 @@ ZENODO = {
 def _request(url: str, data: dict | None = None, timeout: int = 300) -> bytes:
     body = urllib.parse.urlencode(data).encode() if data is not None else None
     last: Exception | None = None
-    for attempt in range(5):  # server publik kadang membalas 429/5xx sementara
+    for attempt in range(9):  # server publik kadang membalas 429/5xx; jeda total +-7 menit
         try:
             req = urllib.request.Request(url, data=body, headers=UA)
             with urllib.request.urlopen(req, timeout=timeout) as r:
                 return r.read()
         except OSError as exc:
             last = exc
-            time.sleep(2 ** (attempt + 1))
-    raise RuntimeError(f"gagal setelah 5 percobaan: {url}") from last
+            time.sleep(min(60, 2 ** (attempt + 1)))
+    raise RuntimeError(f"gagal setelah 9 percobaan: {url}") from last
 
 
 def _json(url: str, data: dict | None = None) -> dict:
@@ -365,6 +365,122 @@ def genbank_species_marine() -> None:
     )
 
 
+# ---------------------------------------------------------------- Europe PMC (aksesi dari paper)
+
+EPMC = "https://www.ebi.ac.uk/europepmc/"
+EPMC_QUERY = (
+    "(Indonesia OR Sulawesi OR Sumatra OR Kalimantan OR Borneo OR Java OR Papua OR Maluku) "
+    'AND (fish OR fishes) AND (GenBank OR "accession number" OR "accession numbers" OR BOLD) '
+    "AND OPEN_ACCESS:y"
+)
+ACCESSION_RE = r"^(?:[A-Z]\d{5}|[A-Z]{2}\d{6}|[A-Z]{2}\d{8})(?:\.\d+)?$"  # format INSDC nukleotida
+
+
+def europepmc() -> None:
+    """Artikel open access ikan Indonesia + nomor aksesi yang disebut di teksnya.
+
+    Anotasi Europe PMC (type=Accession Numbers) menandai aksesi di teks lengkap. Rentang
+    seperti "KJ667771–KJ667865" hanya tercatat ujung-ujungnya; tidak diperluas di sini.
+    """
+    run = Run(
+        "europepmc",
+        "Europe PMC REST search + Annotations API",
+        "Metadata Europe PMC terbuka; teks artikel mengikuti lisensi artikel (CC/OA)",
+        "search query="
+        + EPMC_QUERY
+        + "; annotationsByArticleIds type=Accession Numbers per 8 PMCID",
+    )
+    if not run.has("articles.json"):
+        cursor, articles = "*", []
+        while True:
+            page = _json(
+                EPMC
+                + "webservices/rest/search?"
+                + urllib.parse.urlencode(
+                    {
+                        "query": EPMC_QUERY,
+                        "format": "json",
+                        "pageSize": 1000,
+                        "resultType": "lite",
+                        "cursorMark": cursor,
+                    }
+                )
+            )
+            articles += page["resultList"]["result"]
+            nxt = page.get("nextCursorMark")
+            if not nxt or nxt == cursor or not page["resultList"]["result"]:
+                break
+            cursor = nxt
+            time.sleep(0.5)
+        _write(run.folder / "articles.json", json.dumps(articles, ensure_ascii=False).encode())
+        run.add("articles.json", EPMC + "webservices/rest/search", len(articles))
+        run.manifest["queries"]["search"] = {"query": EPMC_QUERY, "hits": len(articles)}
+    articles = json.loads((run.folder / "articles.json").read_text("utf-8"))
+    pmcids = sorted({a["pmcid"] for a in articles if a.get("pmcid")})
+    ann_path = run.folder / "accession_annotations.json"
+    annotations = json.loads(ann_path.read_text("utf-8")) if ann_path.is_file() else {}
+    todo = [p for p in pmcids if p not in annotations]
+    for i in range(0, len(todo), 8):
+        batch = todo[i : i + 8]
+        url = (
+            EPMC
+            + "annotations_api/annotationsByArticleIds?"
+            + urllib.parse.urlencode(
+                {
+                    "articleIds": ",".join(f"PMC:{p}" for p in batch),
+                    "type": "Accession Numbers",
+                    "format": "JSON",
+                }
+            )
+        )
+        for item in json.loads(_request(url).decode("utf-8")):
+            annotations[item.get("pmcid") or item.get("extId")] = sorted(
+                {(x.get("exact") or "").strip() for x in item.get("annotations", [])}
+            )
+        for p in batch:
+            annotations.setdefault(p, [])
+        if i % 80 == 0:
+            _write(ann_path, json.dumps(annotations).encode())
+        time.sleep(0.3)
+    _write(ann_path, json.dumps(annotations).encode())
+    run.add(
+        "accession_annotations.json",
+        EPMC + "annotations_api/annotationsByArticleIds",
+        len(annotations),
+    )
+    import re
+
+    accs = sorted(
+        {a.split(".")[0] for v in annotations.values() for a in v if re.match(ACCESSION_RE, a)}
+    )
+    _write(run.folder / "cited_accessions.txt", ("\n".join(accs) + "\n").encode())
+    run.add("cited_accessions.txt", "turunan accession_annotations.json", len(accs))
+    run.finish(
+        f"{len(articles)} artikel OA, {len(pmcids)} PMCID, {len(accs)} aksesi nukleotida unik"
+    )
+
+
+def genbank_cited() -> None:
+    """Rekaman GenBank untuk aksesi yang disebut di artikel ikan Indonesia (butuh europepmc)."""
+    source = sorted((ROOT / "europepmc").glob("*/cited_accessions.txt"))[-1]
+    accs = [a for a in source.read_text("utf-8").split() if a]
+    run = Run(
+        "genbank_cited",
+        "NCBI GenBank nuccore; daftar aksesi dari " + str(source.relative_to(RAW)),
+        "Kebijakan NCBI: tanpa batasan pemakaian, tanpa jaminan hak pihak ketiga",
+        "esearch per 200 aksesi: (A[accn] OR B[accn] ...) AND Actinopterygii[Organism]",
+    )
+    total = 0
+    for i in range(0, len(accs), 200):
+        term = (
+            "("
+            + " OR ".join(f"{a}[accn]" for a in accs[i : i + 200])
+            + ") AND Actinopterygii[Organism]"
+        )
+        total += _genbank_query(run, f"cited{i // 200:03d}", term)
+    run.finish(f"{total} rekaman ikan dari {len(accs)} aksesi yang dikutip")
+
+
 # ---------------------------------------------------------------- BOLD v5
 
 
@@ -494,27 +610,38 @@ def oai() -> None:
     )
     import re
 
+    failed = []
     for journal, endpoint in OAI_JOURNALS.items():
         if run.manifest["queries"].get(journal, {}).get("complete"):
             continue
         token, page, records = None, 0, 0
-        while True:
-            name = f"{journal}_{page:04d}.xml"
-            params = {
-                "verb": "ListRecords",
-                **({"resumptionToken": token} if token else {"metadataPrefix": "oai_dc"}),
+        try:
+            while True:
+                name = f"{journal}_{page:04d}.xml"
+                params = {
+                    "verb": "ListRecords",
+                    **({"resumptionToken": token} if token else {"metadataPrefix": "oai_dc"}),
+                }
+                url = endpoint + "?" + urllib.parse.urlencode(params)
+                data = _request(url, timeout=180)
+                _write(run.folder / name, data)
+                n = data.count(b"<record>") + data.count(b"<record ")
+                records += n
+                run.add(name, url, n, journal=journal)
+                m = re.search(rb"<resumptionToken[^>]*>([^<]+)</resumptionToken>", data)
+                if not m:
+                    break
+                token, page = m.group(1).decode().strip(), page + 1
+                time.sleep(1)
+        except RuntimeError as exc:  # satu jurnal gagal tidak menghentikan jurnal lain
+            failed.append(journal)
+            run.manifest["queries"][journal] = {
+                "endpoint": endpoint,
+                "records": records,
+                "error": str(exc),
             }
-            url = endpoint + "?" + urllib.parse.urlencode(params)
-            data = _request(url, timeout=180)
-            _write(run.folder / name, data)
-            n = data.count(b"<record>") + data.count(b"<record ")
-            records += n
-            run.add(name, url, n, journal=journal)
-            m = re.search(rb"<resumptionToken[^>]*>([^<]+)</resumptionToken>", data)
-            if not m:
-                break
-            token, page = m.group(1).decode().strip(), page + 1
-            time.sleep(1)
+            run.save()
+            continue
         run.manifest["queries"][journal] = {
             "endpoint": endpoint,
             "records": records,
@@ -522,7 +649,11 @@ def oai() -> None:
             "complete": True,
         }
         run.save()
-    run.finish(f"metadata OAI {len(OAI_JOURNALS)} jurnal")
+    done = len(OAI_JOURNALS) - len(failed)
+    run.finish(
+        f"metadata OAI {done}/{len(OAI_JOURNALS)} jurnal"
+        + (f"; gagal: {', '.join(failed)}" if failed else "")
+    )
 
 
 # ---------------------------------------------------------------- Regulasi Indonesia
@@ -558,6 +689,35 @@ def regulasi() -> None:
                 raise RuntimeError(f"{name}: bukan PDF")
             run.add(name, url)
     run.finish(f"{len(REGULATIONS)} PDF regulasi")
+
+
+# Literatur primer yang dihosting terbuka oleh penerbit/lembaga (tidak dikomit; hak cipta penulis).
+OPEN_LITERATURE = {
+    "herder2006_checklist_telmatherinidae_malili.pdf": (
+        "https://www.ichthyologie.de/wp-content/uploads/2019/11/"
+        "Preliminary_checklist_of_sailfin_silversides.pdf",
+        "Herder F, Schwarzer J, Pfaender J, Hadiaty RK, Schliewen UK (2006) Preliminary checklist "
+        "of sailfin silversides (Teleostei: Telmatherinidae) in the Malili Lakes of Sulawesi "
+        "(Indonesia). Verh. Ges. Ichthyol. 5: 139-163",
+    ),
+}
+
+
+def literatur() -> None:
+    """PDF literatur primer yang disediakan terbuka oleh penerbitnya (checklist, deskripsi)."""
+    run = Run(
+        "literatur",
+        "Situs penerbit/lembaga (lihat url per file)",
+        "Hak cipta penulis/penerbit; disimpan lokal untuk ekstraksi fakta, tidak didistribusikan",
+        "Unduh PDF apa adanya; ekstraksi tabel ke data/curation/ dengan rujukan halaman",
+    )
+    for name, (url, citation) in OPEN_LITERATURE.items():
+        if not run.has(name):
+            _download(url, run.folder / name)
+            if not (run.folder / name).read_bytes().startswith(b"%PDF"):
+                raise RuntimeError(f"{name}: bukan PDF")
+            run.add(name, url, citation=citation)
+    run.finish(f"{len(OPEN_LITERATURE)} PDF literatur")
 
 
 # ---------------------------------------------------------------- SRA/ENA (eDNA lapangan)
@@ -681,10 +841,19 @@ DATASETS: dict[str, tuple[Callable[[], None], str]] = {
         genbank_species_marine,
         "GenBank 12S+mitogenom spesies laut Indonesia (besar, butuh tropis_fishbase)",
     ),
+    "tropis_europepmc": (europepmc, "Artikel OA ikan Indonesia + aksesi yang disebut (Europe PMC)"),
+    "tropis_genbank_cited": (
+        genbank_cited,
+        "GenBank untuk aksesi yang dikutip paper ikan Indonesia (butuh tropis_europepmc)",
+    ),
     "tropis_bold": (bold, "BOLD v5 COI Teleostei global (disaring lokal per negara)"),
     "tropis_gbif": (gbif, "GBIF jumlah okurensi/spesimen museum per spesies ikan"),
     "tropis_oai": (oai, "Metadata OAI-PMH 11 jurnal Indonesia (biologi, ikan, perairan, laut)"),
     "tropis_regulasi": (regulasi, "PDF Kepmen KP 1/2021, Permen KP 19/2020, Kepmen KP 83/2024"),
+    "tropis_literatur": (
+        literatur,
+        "PDF literatur primer terbuka (Herder 2006 checklist Telmatherinidae)",
+    ),
     "tropis_sra": (sra, "BioProject eDNA ikan Indonesia + daftar URL FASTQ ENA (tanpa FASTQ)"),
     "tropis_zenodo_mifish": (zenodo_mifish, "Pustaka 12S MiFish rCRUX+MitoFish (Zenodo, ±27,5 MB)"),
     "tropis_zenodo_mitohelper": (

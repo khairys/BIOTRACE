@@ -1,0 +1,49 @@
+{
+ "dataset": "zenodo_mifish_rcrux",
+ "source": "Zenodo record 17664847: 12S rRNA V5-V6 (Fish-12S-MiFish-Miya) amplicon reference sequence database",
+ "license_reported_by_source": "Lisensi Zenodo: cc-by-4.0",
+ "method": "Unduh semua file record; MD5 dibandingkan dengan checksum Zenodo.",
+ "started": "2026-10-25T02:51:44",
+ "queries": {},
+ "files": {
+  "rc_12S_efc_fish-addSI_MF_trawl_J-mifish-seqs-derepU.qza": {
+   "url": "https://zenodo.org/api/records/17664847/files/rc_12S_efc_fish-addSI_MF_trawl_J-mifish-seqs-derepU.qza/content",
+   "bytes": 6984480,
+   "sha256": "b99ee07418a6bc3f2b22b8ebf733c1d8403c09a0c1cee00da65c8ecbfa4be932",
+   "records": null,
+   "md5": "d3613f1dcaadd8e19e8a860f72deb5ef"
+  },
+  "trawl_fish_12S_seqs_mifish.qza": {
+   "url": "https://zenodo.org/api/records/17664847/files/trawl_fish_12S_seqs_mifish.qza/content",
+   "bytes": 12540,
+   "sha256": "af56527198a25d03b067fc8e66918526f01b4e4f722f0885b2c9be8037b27f41",
+   "records": null,
+   "md5": "caa67423445949b8a38068d2316098bf"
+  },
+  "rc_12S_efc_fish-addSI_MF_trawl_J-mifish-taxa-derepU.qza": {
+   "url": "https://zenodo.org/api/records/17664847/files/rc_12S_efc_fish-addSI_MF_trawl_J-mifish-taxa-derepU.qza/content",
+   "bytes": 6833199,
+   "sha256": "d377b832f6441323fdf4b94b36f4ed0330219292d0ed9d4008884bc4132048a7",
+   "records": null,
+   "md5": "5dfcb3152d95dfb5bd574324dcfb7577"
+  },
+  "rc_12S_efc_fish-addSI-addMF-addtrawl-addJ-mifish-seqs.qza": {
+   "url": "https://zenodo.org/api/records/17664847/files/rc_12S_efc_fish-addSI-addMF-addtrawl-addJ-mifish-seqs.qza/content",
+   "bytes": 6957844,
+   "sha256": "3d761532df69a36b90d5d0cb77b3432870a72ec81041ae0d1576bcbb1fae5cdc",
+   "records": null,
+   "md5": "8f7fda46257d184b3d901f4c92f03cd8"
+  },
+  "rc_12S_efc_fish-addSI-addMF-addtrawl-addJ-mifish-taxa.qza": {
+   "url": "https://zenodo.org/api/records/17664847/files/rc_12S_efc_fish-addSI-addMF-addtrawl-addJ-mifish-taxa.qza/content",
+   "bytes": 6718018,
+   "sha256": "0943525b49a2788e699317931f50f3abb25b00dd7aa6b8e7ed6c8034458cdbb5",
+   "records": null,
+   "md5": "8b55df521cd186bbd144f408ee987fac"
+  }
+ },
+ "notes": [],
+ "updated": "2026-10-25T02:53:36",
+ "finished": "2026-10-25T02:53:36",
+ "summary": "5 file, lisensi cc-by-4.0"
+}

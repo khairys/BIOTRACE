@@ -1,0 +1,724 @@
+{
+ "dataset": "oai_jurnal",
+ "source": "OAI-PMH jurnal OJS Indonesia: jurnal_iktiologi_indonesia, biodiversitas, treubia, biotropia, limnotek, zoo_indonesia, berita_biologi, marine_research_indonesia, oldi, ilmu_kelautan_undip, jitkt_ipb",
+ "license_reported_by_source": "Metadata OAI-PMH terbuka; isi/PDF mengikuti lisensi tiap jurnal (dc:rights)",
+ "method": "verb=ListRecords&metadataPrefix=oai_dc lalu resumptionToken sampai habis",
+ "started": "2026-10-25T02:45:27",
+ "queries": {
+  "jurnal_iktiologi_indonesia": {
+   "endpoint": "https://www.jurnal-iktiologi.org/index.php/jii/oai",
+   "records": 470,
+   "pages": 5,
+   "complete": true
+  },
+  "biodiversitas": {
+   "endpoint": "https://smujo.id/biodiv/oai",
+   "records": 6360,
+   "pages": 64,
+   "complete": true
+  },
+  "treubia": {
+   "endpoint": "https://ejournal.brin.go.id/treubia/oai",
+   "records": 798,
+   "pages": 3,
+   "complete": true
+  },
+  "biotropia": {
+   "endpoint": "https://journal.biotrop.org/index.php/biotropia/oai",
+   "records": 580,
+   "pages": 6,
+   "complete": true
+  },
+  "limnotek": {
+   "endpoint": "https://ejournal.brin.go.id/limnotek/oai",
+   "records": 188,
+   "pages": 1,
+   "complete": true
+  },
+  "zoo_indonesia": {
+   "endpoint": "https://ejournal.brin.go.id/zoo_indonesia/oai",
+   "records": 0,
+   "pages": 1,
+   "complete": true
+  },
+  "berita_biologi": {
+   "endpoint": "https://ejournal.brin.go.id/berita_biologi/oai",
+   "records": 172,
+   "pages": 1,
+   "complete": true
+  },
+  "marine_research_indonesia": {
+   "endpoint": "https://ejournal.brin.go.id/mri/oai",
+   "records": 308,
+   "pages": 2,
+   "complete": true
+  },
+  "oldi": {
+   "endpoint": "https://ejournal.brin.go.id/oldi/oai",
+   "records": 139,
+   "pages": 1,
+   "complete": true
+  },
+  "ilmu_kelautan_undip": {
+   "endpoint": "https://ejournal.undip.ac.id/index.php/ijms/oai",
+   "records": 0,
+   "error": "gagal setelah 5 percobaan: https://ejournal.undip.ac.id/index.php/ijms/oai?verb=ListRecords&metadataPrefix=oai_dc"
+  },
+  "jitkt_ipb": {
+   "endpoint": "https://journal.ipb.ac.id/index.php/jurnalikt/oai",
+   "records": 722,
+   "pages": 8,
+   "complete": true
+  }
+ },
+ "files": {
+  "jurnal_iktiologi_indonesia_0000.xml": {
+   "url": "https://www.jurnal-iktiologi.org/index.php/jii/oai?verb=ListRecords&metadataPrefix=oai_dc",
+   "bytes": 448922,
+   "sha256": "6a2b67b65d98859719132a47b3d85edb74078884428143dc8e5eb97305284bb3",
+   "records": 100,
+   "journal": "jurnal_iktiologi_indonesia"
+  },
+  "jurnal_iktiologi_indonesia_0001.xml": {
+   "url": "https://www.jurnal-iktiologi.org/index.php/jii/oai?verb=ListRecords&resumptionToken=13679db11f98a752b778f47b4b6aa95f",
+   "bytes": 363766,
+   "sha256": "dc89f1dad7ca3f8b7378824bae21a3cebeb217b0fc195d82527695714a20c5da",
+   "records": 100,
+   "journal": "jurnal_iktiologi_indonesia"
+  },
+  "jurnal_iktiologi_indonesia_0002.xml": {
+   "url": "https://www.jurnal-iktiologi.org/index.php/jii/oai?verb=ListRecords&resumptionToken=539b79f8b7630d5b1a08995fba701fbf",
+   "bytes": 331418,
+   "sha256": "082d5a7438fb30fc46cd4f08356b02a40e68562ecad6365138d7081397c21b4f",
+   "records": 100,
+   "journal": "jurnal_iktiologi_indonesia"
+  },
+  "jurnal_iktiologi_indonesia_0003.xml": {
+   "url": "https://www.jurnal-iktiologi.org/index.php/jii/oai?verb=ListRecords&resumptionToken=30397fe19d8d0e667af2b217b0be4ab4",
+   "bytes": 407153,
+   "sha256": "b7d82c0a047d0d0badeeae1480415bc80af5eb206099bd0d7243adacdd5079e3",
+   "records": 100,
+   "journal": "jurnal_iktiologi_indonesia"
+  },
+  "jurnal_iktiologi_indonesia_0004.xml": {
+   "url": "https://www.jurnal-iktiologi.org/index.php/jii/oai?verb=ListRecords&resumptionToken=be8b5bb7488d7b712530e628a281c739",
+   "bytes": 267403,
+   "sha256": "7b04d4c21f7bff77fa8f741863b8431fda4a44bb79a1321a56f93705b3c5adaf",
+   "records": 70,
+   "journal": "jurnal_iktiologi_indonesia"
+  },
+  "biodiversitas_0000.xml": {
+   "url": "https://smujo.id/biodiv/oai?verb=ListRecords&metadataPrefix=oai_dc",
+   "bytes": 334296,
+   "sha256": "727ac7edbc242b77c87a17638bcc2862cb752d21e1163a1fd8ee8f47726f7dd4",
+   "records": 100,
+   "journal": "biodiversitas"
+  },
+  "biodiversitas_0001.xml": {
+   "url": "https://smujo.id/biodiv/oai?verb=ListRecords&resumptionToken=ceb2776c81cc4e11ce52d8114c8c65b0",
+   "bytes": 326810,
+   "sha256": "c00d397e5c6c51116db67bd4455c4b3ff643ca57b197c6d6829316570a4bebe6",
+   "records": 100,
+   "journal": "biodiversitas"
+  },
+  "biodiversitas_0002.xml": {
+   "url": "https://smujo.id/biodiv/oai?verb=ListRecords&resumptionToken=f4bf5c7e7de86332f8f6d987765e711e",
+   "bytes": 313245,
+   "sha256": "72974d396cd1f329c8b2c486e38379b9a4cb959262060fbd6b2cfdf183efea17",
+   "records": 100,
+   "journal": "biodiversitas"
+  },
+  "biodiversitas_0003.xml": {
+   "url": "https://smujo.id/biodiv/oai?verb=ListRecords&resumptionToken=e185f079aa52b7640dce196a9f56d7ae",
+   "bytes": 301388,
+   "sha256": "ff0242c20b6fa1514dd3c88e212cc98b7e6468ac405584b6e588b9cae7afd3f7",
+   "records": 100,
+   "journal": "biodiversitas"
+  },
+  "biodiversitas_0004.xml": {
+   "url": "https://smujo.id/biodiv/oai?verb=ListRecords&resumptionToken=f9dab9a27cfb401ad60655e419f8fdbf",
+   "bytes": 282030,
+   "sha256": "1c59ea3f184389282747b7150ac105cc63dde501985bd873a58cb733139cda89",
+   "records": 100,
+   "journal": "biodiversitas"
+  },
+  "biodiversitas_0005.xml": {
+   "url": "https://smujo.id/biodiv/oai?verb=ListRecords&resumptionToken=a8af2d6344a1f9359778479c7bb89411",
+   "bytes": 285083,
+   "sha256": "21329d404b8e8fc683ba8c2a5416a30791717baa7c08edcc402aad850bee4bd6",
+   "records": 100,
+   "journal": "biodiversitas"
+  },
+  "biodiversitas_0006.xml": {
+   "url": "https://smujo.id/biodiv/oai?verb=ListRecords&resumptionToken=00c7859a39918c8f52dc3f72f02ae0cd",
+   "bytes": 283420,
+   "sha256": "1e2de759709717632289f76313720eae8d51da25473cdd3f432feb3bb133135a",
+   "records": 100,
+   "journal": "biodiversitas"
+  },
+  "biodiversitas_0007.xml": {
+   "url": "https://smujo.id/biodiv/oai?verb=ListRecords&resumptionToken=c54fdfbbd1a8eaf1258b0594cc35076b",
+   "bytes": 339423,
+   "sha256": "f4f2967ec99569de7fb948bfa45f87bad0533d2933c0106753df34b2763d2b51",
+   "records": 100,
+   "journal": "biodiversitas"
+  },
+  "biodiversitas_0008.xml": {
+   "url": "https://smujo.id/biodiv/oai?verb=ListRecords&resumptionToken=1c7466540db073a17dac0a99671d851a",
+   "bytes": 351814,
+   "sha256": "776deb84662013d27be102182f7fb40274d7fbc3cc3eedfe0771a55f0259f413",
+   "records": 100,
+   "journal": "biodiversitas"
+  },
+  "biodiversitas_0009.xml": {
+   "url": "https://smujo.id/biodiv/oai?verb=ListRecords&resumptionToken=a03bb1fe95aca0d27ae3f81ce898105c",
+   "bytes": 356601,
+   "sha256": "5d8430de47bdbdc281d253a35ea80137a5546e12fd3a46aa99e8ff0f81c2f062",
+   "records": 100,
+   "journal": "biodiversitas"
+  },
+  "biodiversitas_0010.xml": {
+   "url": "https://smujo.id/biodiv/oai?verb=ListRecords&resumptionToken=1f5283ee93b4a84e865373553e10edf0",
+   "bytes": 358202,
+   "sha256": "01b325adeab1098a2469d16ff360711467239046faed427156cbd15d80a83cb3",
+   "records": 100,
+   "journal": "biodiversitas"
+  },
+  "biodiversitas_0011.xml": {
+   "url": "https://smujo.id/biodiv/oai?verb=ListRecords&resumptionToken=b2f90ca9cb849a930e547052e0d42306",
+   "bytes": 358655,
+   "sha256": "3ec8d4a4a972774fc27f2c15d9ec04b7532e00f8c415ecadc35deb13fb50d0c1",
+   "records": 100,
+   "journal": "biodiversitas"
+  },
+  "biodiversitas_0012.xml": {
+   "url": "https://smujo.id/biodiv/oai?verb=ListRecords&resumptionToken=03c9fa96bf52a72c8c79fc7b978f2341",
+   "bytes": 359417,
+   "sha256": "fcf563389a963c9675c64711faafbd0a38c9beef9b97ee391711e449a5c0216c",
+   "records": 100,
+   "journal": "biodiversitas"
+  },
+  "biodiversitas_0013.xml": {
+   "url": "https://smujo.id/biodiv/oai?verb=ListRecords&resumptionToken=ffa5d1aa102b0e867d6e8ca1a3eeefef",
+   "bytes": 352940,
+   "sha256": "5c48b278a4c9a9280f06cd29a892b883289971d70ed5a4c5c4201fca73274607",
+   "records": 100,
+   "journal": "biodiversitas"
+  },
+  "biodiversitas_0014.xml": {
+   "url": "https://smujo.id/biodiv/oai?verb=ListRecords&resumptionToken=77f5f565909b955d9eef701c8ca2f373",
+   "bytes": 351374,
+   "sha256": "1a9ad2dc94ac1439ac83f384689092f3b56b1a2f2eb40ffdbf575cbae8dbbf0c",
+   "records": 100,
+   "journal": "biodiversitas"
+  },
+  "biodiversitas_0015.xml": {
+   "url": "https://smujo.id/biodiv/oai?verb=ListRecords&resumptionToken=c79f283a7a390313820cef73c5e66180",
+   "bytes": 363769,
+   "sha256": "25bf101f05e2b5f19171d7c1cd2f20ebd6ac104658071b3b0e3556de4ee019ed",
+   "records": 100,
+   "journal": "biodiversitas"
+  },
+  "biodiversitas_0016.xml": {
+   "url": "https://smujo.id/biodiv/oai?verb=ListRecords&resumptionToken=787653daaa899ff03c1c0d1ccc8fc551",
+   "bytes": 357669,
+   "sha256": "f470836a1f3ff0ae4742275fff4319b2b7684eb7f3a6c11783438b465869023e",
+   "records": 100,
+   "journal": "biodiversitas"
+  },
+  "biodiversitas_0017.xml": {
+   "url": "https://smujo.id/biodiv/oai?verb=ListRecords&resumptionToken=e932c4b29810e6eb761884c51f7311bd",
+   "bytes": 354654,
+   "sha256": "98e237e95ec5cc6673c95c325840767e84ca64f806664b4e43eda35dfa1e2c38",
+   "records": 100,
+   "journal": "biodiversitas"
+  },
+  "biodiversitas_0018.xml": {
+   "url": "https://smujo.id/biodiv/oai?verb=ListRecords&resumptionToken=c27b6f95c105b04f9484ef6f6f4e5c66",
+   "bytes": 363587,
+   "sha256": "ee0aac9303388d9ab837c56a696160f3f49d251517cb60474b7dc5b60921a0a9",
+   "records": 100,
+   "journal": "biodiversitas"
+  },
+  "biodiversitas_0019.xml": {
+   "url": "https://smujo.id/biodiv/oai?verb=ListRecords&resumptionToken=dfd25a31d51a4a5c630df31d98719194",
+   "bytes": 359676,
+   "sha256": "9b02df7e1191d90dd129b61483f9db6fcf0be9f693239b8a2e4017ff43d77734",
+   "records": 100,
+   "journal": "biodiversitas"
+  },
+  "biodiversitas_0020.xml": {
+   "url": "https://smujo.id/biodiv/oai?verb=ListRecords&resumptionToken=c4205888882e1d836644b76e87b2f7cf",
+   "bytes": 362987,
+   "sha256": "abbfcf3f48f30c883f92aedad5f5716195ad9e999e9e2d5aba7b72edc74726aa",
+   "records": 100,
+   "journal": "biodiversitas"
+  },
+  "biodiversitas_0021.xml": {
+   "url": "https://smujo.id/biodiv/oai?verb=ListRecords&resumptionToken=b3e33bb6090606ff48c332927b526ba3",
+   "bytes": 360435,
+   "sha256": "aad555976e0811cbeac1bcc3b099e3e3204ca055f450500811674b72d43f9c2f",
+   "records": 100,
+   "journal": "biodiversitas"
+  },
+  "biodiversitas_0022.xml": {
+   "url": "https://smujo.id/biodiv/oai?verb=ListRecords&resumptionToken=c6c9abec4aacf801316b3a664a4b1541",
+   "bytes": 364104,
+   "sha256": "23ca57ef9b2bb470a71c67fdd665a678605a284ec22a2f5c74fcbb0b5af6a452",
+   "records": 100,
+   "journal": "biodiversitas"
+  },
+  "biodiversitas_0023.xml": {
+   "url": "https://smujo.id/biodiv/oai?verb=ListRecords&resumptionToken=f71e7337df14ce9ff3ad742a9b758ada",
+   "bytes": 367419,
+   "sha256": "5dac6a6dd55c09faa7ce01a301d06619b8e4cf90f7d6b6d59ff77281918c9d2e",
+   "records": 100,
+   "journal": "biodiversitas"
+  },
+  "biodiversitas_0024.xml": {
+   "url": "https://smujo.id/biodiv/oai?verb=ListRecords&resumptionToken=f501a866150c7658e138ca1367c629dd",
+   "bytes": 363956,
+   "sha256": "33240262213a804b86dff8d9cf4851706e540dc4fd8f5a3916a37c009c077a4c",
+   "records": 100,
+   "journal": "biodiversitas"
+  },
+  "biodiversitas_0025.xml": {
+   "url": "https://smujo.id/biodiv/oai?verb=ListRecords&resumptionToken=7ab6af14f9e59e2ba4da16fd6392ea8f",
+   "bytes": 365044,
+   "sha256": "70579474ffedd16d43258d205525eb5b1ff0ef8871b77530a8b38aaf0c9e0bc8",
+   "records": 100,
+   "journal": "biodiversitas"
+  },
+  "biodiversitas_0026.xml": {
+   "url": "https://smujo.id/biodiv/oai?verb=ListRecords&resumptionToken=088d86f5cb6865907a0711e45725519f",
+   "bytes": 367179,
+   "sha256": "1acf7ee9dc74ab4e7c97996084e97e5c03731cf441db77ddd7f627ab71aff980",
+   "records": 100,
+   "journal": "biodiversitas"
+  },
+  "biodiversitas_0027.xml": {
+   "url": "https://smujo.id/biodiv/oai?verb=ListRecords&resumptionToken=0d8825d993b77b213767177beae754dc",
+   "bytes": 360186,
+   "sha256": "215c42273952a8ee12c87c490f7390d58f79b3914bdeb16fdb5f4350d6ec2d0e",
+   "records": 100,
+   "journal": "biodiversitas"
+  },
+  "biodiversitas_0028.xml": {
+   "url": "https://smujo.id/biodiv/oai?verb=ListRecords&resumptionToken=6f2128cb8d6195d26ca9091c4e1e0fed",
+   "bytes": 365386,
+   "sha256": "d84e1775cbda21e603c304499c8548e2e796a056612fb59dc37e38a84da259ba",
+   "records": 100,
+   "journal": "biodiversitas"
+  },
+  "biodiversitas_0029.xml": {
+   "url": "https://smujo.id/biodiv/oai?verb=ListRecords&resumptionToken=a78bc432cd155f61c8ce562662144c6c",
+   "bytes": 371347,
+   "sha256": "12e32406c3f2d48190a37dda0bc18fa0013c3ec3cf882cf438f8752619743547",
+   "records": 100,
+   "journal": "biodiversitas"
+  },
+  "biodiversitas_0030.xml": {
+   "url": "https://smujo.id/biodiv/oai?verb=ListRecords&resumptionToken=0e23982c2c204fcc0ffe19fbf63c2b41",
+   "bytes": 363748,
+   "sha256": "49b4dd9b6304b8d56b6d5b56d320618b0ed41f0642578079341e29bc371aa04a",
+   "records": 100,
+   "journal": "biodiversitas"
+  },
+  "biodiversitas_0031.xml": {
+   "url": "https://smujo.id/biodiv/oai?verb=ListRecords&resumptionToken=1116401d9c01912d6908fcb34b678702",
+   "bytes": 372247,
+   "sha256": "01899e7005cf8749bc588c179148b8676ef7556b63cce5bb1a0d3a1bd7b923f1",
+   "records": 100,
+   "journal": "biodiversitas"
+  },
+  "biodiversitas_0032.xml": {
+   "url": "https://smujo.id/biodiv/oai?verb=ListRecords&resumptionToken=132e2ec83b879a75c532db884ee48483",
+   "bytes": 374036,
+   "sha256": "9d8606c326a8055a37112a94b327e758c9a6d83e96efb91ed282c036bb32af71",
+   "records": 100,
+   "journal": "biodiversitas"
+  },
+  "biodiversitas_0033.xml": {
+   "url": "https://smujo.id/biodiv/oai?verb=ListRecords&resumptionToken=0b7dbb646f7a2cdedc17c347e6a3dbd5",
+   "bytes": 370632,
+   "sha256": "1a4787f92c117ffbfab7bac221ec67fa14ec9619a86b3803101c960e2ccecdf7",
+   "records": 100,
+   "journal": "biodiversitas"
+  },
+  "biodiversitas_0034.xml": {
+   "url": "https://smujo.id/biodiv/oai?verb=ListRecords&resumptionToken=3719e4381833e1cb6b5eca921b20fa3b",
+   "bytes": 369245,
+   "sha256": "5a9b46e4ed505e36f3ea43b158d3b69e8b0bc1a966b26669292c356f7a0bc358",
+   "records": 100,
+   "journal": "biodiversitas"
+  },
+  "biodiversitas_0035.xml": {
+   "url": "https://smujo.id/biodiv/oai?verb=ListRecords&resumptionToken=b9b84764d51d7fee125730c8c30b5b9a",
+   "bytes": 371958,
+   "sha256": "bda83a7f0d7e1a6c2e65cc92d15e61057d04e1c6dd4acbfc5bd89b2f02873b24",
+   "records": 100,
+   "journal": "biodiversitas"
+  },
+  "biodiversitas_0036.xml": {
+   "url": "https://smujo.id/biodiv/oai?verb=ListRecords&resumptionToken=f6feef51698588f3f7f6389b2795767e",
+   "bytes": 368961,
+   "sha256": "659fd9cd19a28ff5f0c888f310d67c50a07e9feddfa7def73556eedd6a0c3183",
+   "records": 100,
+   "journal": "biodiversitas"
+  },
+  "biodiversitas_0037.xml": {
+   "url": "https://smujo.id/biodiv/oai?verb=ListRecords&resumptionToken=497cc4d322874bb5c39ef173510349eb",
+   "bytes": 375778,
+   "sha256": "6f7f1beef19fcdaee82ca301b38a6360f9d39e46538304b7de9ad226a45412a3",
+   "records": 100,
+   "journal": "biodiversitas"
+  },
+  "biodiversitas_0038.xml": {
+   "url": "https://smujo.id/biodiv/oai?verb=ListRecords&resumptionToken=d73fbda63731ea48f7b3eca5fe5650df",
+   "bytes": 382366,
+   "sha256": "cb061f077b41b62735f849de13f33ff9aec3ff4af17ad78036c97b9377317478",
+   "records": 100,
+   "journal": "biodiversitas"
+  },
+  "biodiversitas_0039.xml": {
+   "url": "https://smujo.id/biodiv/oai?verb=ListRecords&resumptionToken=c96474fdd2f52a60cf9adf78f2fd1359",
+   "bytes": 377395,
+   "sha256": "5d9965148d3651b8640414a51c3dec2e4c460172a625a523aedf6d617095ade1",
+   "records": 100,
+   "journal": "biodiversitas"
+  },
+  "biodiversitas_0040.xml": {
+   "url": "https://smujo.id/biodiv/oai?verb=ListRecords&resumptionToken=c4ce3fce195c5115a23971ce2acbdfa5",
+   "bytes": 379692,
+   "sha256": "694184433fe1a55e8536a418904b472591f876a129cbd57eccd73c174d7899a6",
+   "records": 100,
+   "journal": "biodiversitas"
+  },
+  "biodiversitas_0041.xml": {
+   "url": "https://smujo.id/biodiv/oai?verb=ListRecords&resumptionToken=5fc3e7c21426cd1bf801120797fa560b",
+   "bytes": 386150,
+   "sha256": "07d50263800510d5352f28d4713e08e664b9217d7a7533789158facf074f4485",
+   "records": 100,
+   "journal": "biodiversitas"
+  },
+  "biodiversitas_0042.xml": {
+   "url": "https://smujo.id/biodiv/oai?verb=ListRecords&resumptionToken=31e127def6af548c47f7987e93e529f7",
+   "bytes": 383369,
+   "sha256": "62210c46734c970ce27edd7c00e2e364929b8eee15089b96f6e5212bbab09414",
+   "records": 100,
+   "journal": "biodiversitas"
+  },
+  "biodiversitas_0043.xml": {
+   "url": "https://smujo.id/biodiv/oai?verb=ListRecords&resumptionToken=8b406812e9d08fd794f92863f8ca91cd",
+   "bytes": 374298,
+   "sha256": "ece8dffbbeb4c539f7ac632ca344a8f6f4a1d62829dd85600e23fea55f55b7ac",
+   "records": 100,
+   "journal": "biodiversitas"
+  },
+  "biodiversitas_0044.xml": {
+   "url": "https://smujo.id/biodiv/oai?verb=ListRecords&resumptionToken=4404dab1fee1891c57fb660ffb27ee2e",
+   "bytes": 369048,
+   "sha256": "01a33e4e02005ba44693caaa8050b691022a394a255a7517c9483cf4f90d472f",
+   "records": 100,
+   "journal": "biodiversitas"
+  },
+  "biodiversitas_0045.xml": {
+   "url": "https://smujo.id/biodiv/oai?verb=ListRecords&resumptionToken=9a87bfe499f04118c237c29166cc2e94",
+   "bytes": 383678,
+   "sha256": "bfa4aaf0c8ae1931952f47512cbac47e827834b75b01724682330e3506590c07",
+   "records": 100,
+   "journal": "biodiversitas"
+  },
+  "biodiversitas_0046.xml": {
+   "url": "https://smujo.id/biodiv/oai?verb=ListRecords&resumptionToken=3b845449b4617f9961676349b1b0363a",
+   "bytes": 386655,
+   "sha256": "a0ec8a54f8cf9098ecd77b72900323779a2b1f8fdcd3d7eb4bbb5a29c52a799e",
+   "records": 100,
+   "journal": "biodiversitas"
+  },
+  "biodiversitas_0047.xml": {
+   "url": "https://smujo.id/biodiv/oai?verb=ListRecords&resumptionToken=f7398bfc941c1dd341d29faed526d2cf",
+   "bytes": 380482,
+   "sha256": "2fa613ce659080b3bad419afe4a19c09ec28d9b3d5cca82f1ab53148d7e4c0f2",
+   "records": 100,
+   "journal": "biodiversitas"
+  },
+  "biodiversitas_0048.xml": {
+   "url": "https://smujo.id/biodiv/oai?verb=ListRecords&resumptionToken=543b724861ffd216da5b96e20751b442",
+   "bytes": 383382,
+   "sha256": "a9062196946738837aa5c4d6a412620d313972efb5bade0c7a5caf3a96136be8",
+   "records": 100,
+   "journal": "biodiversitas"
+  },
+  "biodiversitas_0049.xml": {
+   "url": "https://smujo.id/biodiv/oai?verb=ListRecords&resumptionToken=7b5e38521f9a9f6032a7006a53de3db3",
+   "bytes": 382830,
+   "sha256": "adc3c90cb7f94038e30581195863b6cc6a7603a9d35c765b725e990b1f3a3855",
+   "records": 100,
+   "journal": "biodiversitas"
+  },
+  "biodiversitas_0050.xml": {
+   "url": "https://smujo.id/biodiv/oai?verb=ListRecords&resumptionToken=ec549084dd4a1ec2f0e81e8d169ce544",
+   "bytes": 384581,
+   "sha256": "023670c7b35890221096b84332b7d86b26d482f9687c85030608efb75a5f65d7",
+   "records": 100,
+   "journal": "biodiversitas"
+  },
+  "biodiversitas_0051.xml": {
+   "url": "https://smujo.id/biodiv/oai?verb=ListRecords&resumptionToken=59bc5ff880e86d9a32c0cf4618608ba9",
+   "bytes": 390973,
+   "sha256": "bfafa559e30edcb3bedf4449d236e11d6d526c68ed7ea0a0cd08b81f320caff7",
+   "records": 100,
+   "journal": "biodiversitas"
+  },
+  "biodiversitas_0052.xml": {
+   "url": "https://smujo.id/biodiv/oai?verb=ListRecords&resumptionToken=67f009138778e775cfc7d17e854552b7",
+   "bytes": 397916,
+   "sha256": "fd6109455278ddc79b13ab6c2d557a309d156112c655c78c3d7851093bb85a24",
+   "records": 100,
+   "journal": "biodiversitas"
+  },
+  "biodiversitas_0053.xml": {
+   "url": "https://smujo.id/biodiv/oai?verb=ListRecords&resumptionToken=2a8ea77eb65ee37c93f1c7a47f1c85d4",
+   "bytes": 394677,
+   "sha256": "e755bde17e72bae57b635f375ef3491e3e83f4a7b1661fedb3f3ae165b15e0a3",
+   "records": 100,
+   "journal": "biodiversitas"
+  },
+  "biodiversitas_0054.xml": {
+   "url": "https://smujo.id/biodiv/oai?verb=ListRecords&resumptionToken=7c757e6db9efc162aed9bedfd0b075f9",
+   "bytes": 392678,
+   "sha256": "d2c4b8e6cc4e05d7eb9b7b42ef28de6030570df7ac58b5e95d1619b6a62b6a3a",
+   "records": 100,
+   "journal": "biodiversitas"
+  },
+  "biodiversitas_0055.xml": {
+   "url": "https://smujo.id/biodiv/oai?verb=ListRecords&resumptionToken=8641c38cf8c57a771e66f02f41dca94c",
+   "bytes": 402389,
+   "sha256": "9c1b2e6af7d94fd462632efde9fca59f13b5de1499edbaf90ce6f2b34fb0ae84",
+   "records": 100,
+   "journal": "biodiversitas"
+  },
+  "biodiversitas_0056.xml": {
+   "url": "https://smujo.id/biodiv/oai?verb=ListRecords&resumptionToken=c1a4ead61a4329db4a1f86b6ac13ee30",
+   "bytes": 405423,
+   "sha256": "bfa3536d6e4b212bb2dd1e078080d092dc9d19a4c276e0c27d53b3c82e82d772",
+   "records": 100,
+   "journal": "biodiversitas"
+  },
+  "biodiversitas_0057.xml": {
+   "url": "https://smujo.id/biodiv/oai?verb=ListRecords&resumptionToken=b47e60f0284c7ba7515fd8567445fde0",
+   "bytes": 401530,
+   "sha256": "314715fdf8e8f3d187a13911ae7331dccd01b958e75f220a6a34168b62dae48d",
+   "records": 100,
+   "journal": "biodiversitas"
+  },
+  "biodiversitas_0058.xml": {
+   "url": "https://smujo.id/biodiv/oai?verb=ListRecords&resumptionToken=6ab941dda75d283deb6f17d14d777c13",
+   "bytes": 409961,
+   "sha256": "32f8f2034f9d8bd9cc7d443dd3b460966cab01b66ff55caee5e73cbe380e1b81",
+   "records": 100,
+   "journal": "biodiversitas"
+  },
+  "biodiversitas_0059.xml": {
+   "url": "https://smujo.id/biodiv/oai?verb=ListRecords&resumptionToken=c382ad0d59a1707d44dde70a419eb49a",
+   "bytes": 409830,
+   "sha256": "95d8cf398a377a2ab20647eaee7df9f11ea48fe911291e3096d2f1df9be89ecf",
+   "records": 100,
+   "journal": "biodiversitas"
+  },
+  "biodiversitas_0060.xml": {
+   "url": "https://smujo.id/biodiv/oai?verb=ListRecords&resumptionToken=dff917937d61962ac133abad3de0d7d5",
+   "bytes": 408401,
+   "sha256": "dd9698ca814e6356a96eb386cd7d325bab02f1491873be9340e4412c6c767be2",
+   "records": 100,
+   "journal": "biodiversitas"
+  },
+  "biodiversitas_0061.xml": {
+   "url": "https://smujo.id/biodiv/oai?verb=ListRecords&resumptionToken=ffeaa3546a19ae18911a1d5b2f266939",
+   "bytes": 431256,
+   "sha256": "38416dc0dbb247be2ea089421e7122de4b100d957267e49278919a30b5db6917",
+   "records": 100,
+   "journal": "biodiversitas"
+  },
+  "biodiversitas_0062.xml": {
+   "url": "https://smujo.id/biodiv/oai?verb=ListRecords&resumptionToken=ca339f9f8ee1e99462ed2945a8227d0e",
+   "bytes": 429928,
+   "sha256": "03a27c18953c6ad0993544be429122cc1ea84961a01c64fb8058990bcc6babfb",
+   "records": 100,
+   "journal": "biodiversitas"
+  },
+  "biodiversitas_0063.xml": {
+   "url": "https://smujo.id/biodiv/oai?verb=ListRecords&resumptionToken=dd4cf47fa7b31ad8bf11a3d035ba058c",
+   "bytes": 259082,
+   "sha256": "d698ec5859c2fabf5756f6c9a680e778b09955ac7cb3ca18d6f769f4c9a7c077",
+   "records": 60,
+   "journal": "biodiversitas"
+  },
+  "treubia_0000.xml": {
+   "url": "https://ejournal.brin.go.id/treubia/oai?verb=ListRecords&metadataPrefix=oai_dc",
+   "bytes": 626545,
+   "sha256": "1fe2898c52659b644f886200fcd2c6567affe685733543067816a944afe6d093",
+   "records": 300,
+   "journal": "treubia"
+  },
+  "treubia_0001.xml": {
+   "url": "https://ejournal.brin.go.id/treubia/oai?verb=ListRecords&resumptionToken=4f5fb4a1c40aa5672e302c9a04843835",
+   "bytes": 577840,
+   "sha256": "cd1e59bcab3317ba00f9cdc7fa1bbe790e2762507d32f4ce83fcbe320150d2c3",
+   "records": 300,
+   "journal": "treubia"
+  },
+  "treubia_0002.xml": {
+   "url": "https://ejournal.brin.go.id/treubia/oai?verb=ListRecords&resumptionToken=b170cdef368058cb927d474898c53a09",
+   "bytes": 424852,
+   "sha256": "fadc362515188b487705d806ba7b1c41dd9c0fd63a107856fb68aabc8f9ffe63",
+   "records": 198,
+   "journal": "treubia"
+  },
+  "biotropia_0000.xml": {
+   "url": "https://journal.biotrop.org/index.php/biotropia/oai?verb=ListRecords&metadataPrefix=oai_dc",
+   "bytes": 290573,
+   "sha256": "1799f3b210821d07fe247fe8e30e29fda0f165b4319729d525542000dbb382ad",
+   "records": 100,
+   "journal": "biotropia"
+  },
+  "biotropia_0001.xml": {
+   "url": "https://journal.biotrop.org/index.php/biotropia/oai?verb=ListRecords&resumptionToken=70ab91bc915fb37754712c8a60a8bc1f",
+   "bytes": 305164,
+   "sha256": "958061d2402eb63b5a8d2c33b91eec7c38ef3322f96f1389a4c3672d95f8c76f",
+   "records": 100,
+   "journal": "biotropia"
+  },
+  "biotropia_0002.xml": {
+   "url": "https://journal.biotrop.org/index.php/biotropia/oai?verb=ListRecords&resumptionToken=f54b457d7cfd7eec677017dc20f8b8d8",
+   "bytes": 333518,
+   "sha256": "54c9698af36ea63886f3eef2a27f4beecd1730f83f63d8d6040e07bc190e6122",
+   "records": 100,
+   "journal": "biotropia"
+  },
+  "biotropia_0003.xml": {
+   "url": "https://journal.biotrop.org/index.php/biotropia/oai?verb=ListRecords&resumptionToken=4f030311dae10fa5e98add4212e119f3",
+   "bytes": 371497,
+   "sha256": "38b7c7cd02be0939f05bbf958ad87acbb175f2a0e01c49586fd24f23a351c916",
+   "records": 100,
+   "journal": "biotropia"
+  },
+  "biotropia_0004.xml": {
+   "url": "https://journal.biotrop.org/index.php/biotropia/oai?verb=ListRecords&resumptionToken=358babad5154aab371f3c17417373141",
+   "bytes": 396830,
+   "sha256": "50a16b787a95080f51496469ebdd7d46ac0c48c377ac4c1ef2fc7b48c711a20e",
+   "records": 100,
+   "journal": "biotropia"
+  },
+  "biotropia_0005.xml": {
+   "url": "https://journal.biotrop.org/index.php/biotropia/oai?verb=ListRecords&resumptionToken=65f49f04bc53cbd8c05ae7c3c5329b66",
+   "bytes": 386149,
+   "sha256": "81639a46ac235b812e7749396e1276dc7c18322ea4724285005ebdc21a6e9a42",
+   "records": 80,
+   "journal": "biotropia"
+  },
+  "limnotek_0000.xml": {
+   "url": "https://ejournal.brin.go.id/limnotek/oai?verb=ListRecords&metadataPrefix=oai_dc",
+   "bytes": 590156,
+   "sha256": "00eb281ce536d433a268fcef61cf4d66a373f47e846e57bb0dbf8eb4d1fe6210",
+   "records": 188,
+   "journal": "limnotek"
+  },
+  "zoo_indonesia_0000.xml": {
+   "url": "https://ejournal.brin.go.id/zoo_indonesia/oai?verb=ListRecords&metadataPrefix=oai_dc",
+   "bytes": 597,
+   "sha256": "a438af924b7882ad9891a71695313ff35acd6a2aa9503435665bf7921aa6202f",
+   "records": 0,
+   "journal": "zoo_indonesia"
+  },
+  "berita_biologi_0000.xml": {
+   "url": "https://ejournal.brin.go.id/berita_biologi/oai?verb=ListRecords&metadataPrefix=oai_dc",
+   "bytes": 622135,
+   "sha256": "8faa5613710cad74ce12b0fa53e2c683c17500bb300347fc9583d16653c19083",
+   "records": 172,
+   "journal": "berita_biologi"
+  },
+  "marine_research_indonesia_0000.xml": {
+   "url": "https://ejournal.brin.go.id/mri/oai?verb=ListRecords&metadataPrefix=oai_dc",
+   "bytes": 866900,
+   "sha256": "f832ea8f89b264b760f5a246c10f66595eef891169f45012c8cdc1b2d392bf01",
+   "records": 300,
+   "journal": "marine_research_indonesia"
+  },
+  "marine_research_indonesia_0001.xml": {
+   "url": "https://ejournal.brin.go.id/mri/oai?verb=ListRecords&resumptionToken=ce80568501e8a32280abf71a349f7d8d",
+   "bytes": 18274,
+   "sha256": "c894239d91902e2aea9ec7e6b6fed09b10630147f905fee329f61599aeaddf74",
+   "records": 8,
+   "journal": "marine_research_indonesia"
+  },
+  "oldi_0000.xml": {
+   "url": "https://ejournal.brin.go.id/oldi/oai?verb=ListRecords&metadataPrefix=oai_dc",
+   "bytes": 444622,
+   "sha256": "e31d7d60f396a47d7bf45253efa30450574b1a226bdb6e7201694d275d9b4377",
+   "records": 139,
+   "journal": "oldi"
+  },
+  "jitkt_ipb_0000.xml": {
+   "url": "https://journal.ipb.ac.id/index.php/jurnalikt/oai?verb=ListRecords&metadataPrefix=oai_dc",
+   "bytes": 326682,
+   "sha256": "6d113b226be499b509dc1efdc8700e24f16e2787046f32f287eec5831e5fc817",
+   "records": 100,
+   "journal": "jitkt_ipb"
+  },
+  "jitkt_ipb_0001.xml": {
+   "url": "https://journal.ipb.ac.id/index.php/jurnalikt/oai?verb=ListRecords&resumptionToken=25fe4e5622d5f75372020d143af62f65",
+   "bytes": 318032,
+   "sha256": "7033ac7a1b63f1ae4f408b7ead47962e0183b441ec4ce97817b0a36f2bdf2c08",
+   "records": 100,
+   "journal": "jitkt_ipb"
+  },
+  "jitkt_ipb_0002.xml": {
+   "url": "https://journal.ipb.ac.id/index.php/jurnalikt/oai?verb=ListRecords&resumptionToken=97b95c07293e9ac1d072eb87598af1f9",
+   "bytes": 338305,
+   "sha256": "b256158982f0848cd5d26ed1600cf139767ee48dec23160039dac57999df529a",
+   "records": 100,
+   "journal": "jitkt_ipb"
+  },
+  "jitkt_ipb_0003.xml": {
+   "url": "https://journal.ipb.ac.id/index.php/jurnalikt/oai?verb=ListRecords&resumptionToken=5de985e028d8d5b8d468749217f9181c",
+   "bytes": 369712,
+   "sha256": "6a026096e26b5ccbd87bc4c5abfe5d28cc714fd80a1d7c52289452f265eef66a",
+   "records": 100,
+   "journal": "jitkt_ipb"
+  },
+  "jitkt_ipb_0004.xml": {
+   "url": "https://journal.ipb.ac.id/index.php/jurnalikt/oai?verb=ListRecords&resumptionToken=f503c25a70878747d5f5f7f486a73171",
+   "bytes": 453959,
+   "sha256": "bf72704b80a73e936220961c9d7169ca33c43094a4f07f42d2da93baccec6d10",
+   "records": 100,
+   "journal": "jitkt_ipb"
+  },
+  "jitkt_ipb_0005.xml": {
+   "url": "https://journal.ipb.ac.id/index.php/jurnalikt/oai?verb=ListRecords&resumptionToken=19ead0974492f483967032d3522dd7a3",
+   "bytes": 502506,
+   "sha256": "f1b4b20a59368a78330df56d7ecd9e8756baeede9645455ddb373b6d8ed2849c",
+   "records": 100,
+   "journal": "jitkt_ipb"
+  },
+  "jitkt_ipb_0006.xml": {
+   "url": "https://journal.ipb.ac.id/index.php/jurnalikt/oai?verb=ListRecords&resumptionToken=fa7a5341c72ce1abb8c95906d45077a4",
+   "bytes": 489384,
+   "sha256": "5827ebad00cbf11deb4e7e4f92f63f0faf511d4cbc6d9c18f7aa4cb5becb6905",
+   "records": 100,
+   "journal": "jitkt_ipb"
+  },
+  "jitkt_ipb_0007.xml": {
+   "url": "https://journal.ipb.ac.id/index.php/jurnalikt/oai?verb=ListRecords&resumptionToken=de2041b340054c8c6c93211eaab2e07d",
+   "bytes": 96966,
+   "sha256": "ab949c9bf45ccbb609002867dba9c1036345cbcef049687a77598d7b6b9ed5bf",
+   "records": 22,
+   "journal": "jitkt_ipb"
+  }
+ },
+ "notes": [],
+ "updated": "2026-10-25T02:59:50",
+ "finished": "2026-10-25T02:59:50",
+ "summary": "metadata OAI 10/11 jurnal; gagal: ilmu_kelautan_undip"
+}

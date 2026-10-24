@@ -1,0 +1,21 @@
+{
+ "dataset": "literatur",
+ "source": "Situs penerbit/lembaga (lihat url per file)",
+ "license_reported_by_source": "Hak cipta penulis/penerbit; disimpan lokal untuk ekstraksi fakta, tidak didistribusikan",
+ "method": "Unduh PDF apa adanya; ekstraksi tabel ke data/curation/ dengan rujukan halaman",
+ "started": "2026-10-25T03:02:10",
+ "queries": {},
+ "files": {
+  "herder2006_checklist_telmatherinidae_malili.pdf": {
+   "url": "https://www.ichthyologie.de/wp-content/uploads/2019/11/Preliminary_checklist_of_sailfin_silversides.pdf",
+   "bytes": 108327,
+   "sha256": "7e5e12c52dd97973f7ff889f01b31c1f63f8ce7d6189bbf0b8ba0b6c94c660fa",
+   "records": null,
+   "citation": "Herder F, Schwarzer J, Pfaender J, Hadiaty RK, Schliewen UK (2006) Preliminary checklist of sailfin silversides (Teleostei: Telmatherinidae) in the Malili Lakes of Sulawesi (Indonesia). Verh. Ges. Ichthyol. 5: 139-163"
+  }
+ },
+ "notes": [],
+ "updated": "2026-10-25T03:02:13",
+ "finished": "2026-10-25T03:02:13",
+ "summary": "1 PDF literatur"
+}

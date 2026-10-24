@@ -43,6 +43,12 @@ Batasan yang tetap berlaku dari percakapan: tanpa Docker; hemat token tetapi sta
 | 25 Okt 02:50 | Harvester `scripts/harvest_tropis.py` | 11 dataset via `fetch_data.py`: FishBase, GenBank per negara & per spesies, BOLD, GBIF, OAI 11 jurnal, SRA/ENA, regulasi, Zenodo (c627133 + lanjutan) |
 | 25 Okt 02:55 | Panen selesai sebagian | FishBase 9 tabel (30 MB); SRA 7 BioProject/135 run/147 FASTQ (9,7 GB, URL ENA); regulasi 3 PDF; BOLD 423.278 rekaman Teleostei global |
 | 25 Okt 03:00 | Bug BOLD diperbaiki | API v5 mengabaikan filter geo; ID.tsv = MY.tsv. Kini satu unduhan global + saring lokal; duplikat dihapus, dicatat di manifest |
+| 25 Okt 03:05 | Sumber baru ditemukan & ditambahkan ke harvester | 7 jurnal OAI tambahan (Limnotek, Zoo Indonesia, Berita Biologi, MRI, OLDI, Ilmu Kelautan Undip, JITKT IPB); SRA/ENA eDNA; regulasi KKP; Europe PMC (aksesi di paper OA); literatur terbuka |
+| 25 Okt 03:10 | OAI | 10/11 jurnal (Undip gagal ListRecords) |
+| 25 Okt 03:12 | Zenodo MiFish rCRUX | 5 file, CC BY 4.0 |
+| 25 Okt 03:15 | GenBank gagal sementara (efetch 5xx) | Retry diperpanjang (9x, ±7 menit); antrean NCBI dijalankan ulang (lanjut dari batch terakhir) |
+| 25 Okt 03:20 | Herder 2006 | PDF di ichthyologie.de hanya 2 halaman pratinjau; teks lengkap = manual |
+| 25 Okt 03:25 | Analisis celah `scripts/analyze_tropis.py` | Pemotongan MiFish tervektor (setara trim_mifish, diverifikasi pada sampel tiap run), cache bertahap |
 
 ## Langkah berikutnya
 
