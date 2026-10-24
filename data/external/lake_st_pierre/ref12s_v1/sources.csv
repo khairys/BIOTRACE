@@ -1,0 +1,4 @@
+source_id,citation,doi_or_url,type,license,accessed_date
+SRC_ASTORG2025,Astorg L. dkk. (2025). eDNA metabarcoding to monitor fish communities in a large river floodplain. Dryad dataset.,https://doi.org/10.5061/dryad.3bk3j9kzf,database,CC0,2026-10-24
+SRC_GENBANK_LSP,NCBI GenBank nucleotide: esummary dan header flat file 2026-10-25 untuk aksesi mitohelper spesies Lake St. Pierre (raw/lsp12s_mitohelper),https://www.ncbi.nlm.nih.gov/nuccore,database,GenBank-public; kebijakan NCBI,2026-10-25
+SRC_MITOHELPER2026,"Lim SJ, Thompson LR (2021) Mitohelper, Environmental DNA; data 12S Juli 2026, repo aomlomics/mitohelper commit f3d92c7 (raw/malili12s_mitohelper)",https://github.com/aomlomics/mitohelper; https://doi.org/10.5281/zenodo.21326269,database,tidak tercantum di repo; data dari GenBank dan MitoFish,2026-10-25

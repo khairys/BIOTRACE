@@ -1,0 +1,66 @@
+waterbody_id,genus,n,r,p_missing,missing_species,is_simulated
+CA_QC_LSP,Acipenser,2,2,0.0,[],False
+CA_QC_LSP,Alosa,3,3,0.0,[],False
+CA_QC_LSP,Ambloplites,1,1,0.0,[],False
+CA_QC_LSP,Ameiurus,2,2,0.0,[],False
+CA_QC_LSP,Amia,1,1,0.0,[],False
+CA_QC_LSP,Ammocrypta,1,1,0.0,[],False
+CA_QC_LSP,Anguilla,1,1,0.0,[],False
+CA_QC_LSP,Apeltes,1,1,0.0,[],False
+CA_QC_LSP,Aplodinotus,1,0,1.0,['Aplodinotus grunniens'],False
+CA_QC_LSP,Carassius,1,1,0.0,[],False
+CA_QC_LSP,Carpiodes,1,1,0.0,[],False
+CA_QC_LSP,Catostomus,2,2,0.0,[],False
+CA_QC_LSP,Coregonus,2,2,0.0,[],False
+CA_QC_LSP,Cottus,3,3,0.0,[],False
+CA_QC_LSP,Couesius,1,1,0.0,[],False
+CA_QC_LSP,Culaea,1,1,0.0,[],False
+CA_QC_LSP,Cyprinella,1,1,0.0,[],False
+CA_QC_LSP,Cyprinus,1,1,0.0,[],False
+CA_QC_LSP,Dorosoma,1,1,0.0,[],False
+CA_QC_LSP,Esox,3,3,0.0,[],False
+CA_QC_LSP,Etheostoma,5,4,0.2,['Etheostoma exile'],False
+CA_QC_LSP,Exoglossum,1,1,0.0,[],False
+CA_QC_LSP,Fundulus,2,0,1.0,"['Fundulus diaphanus', 'Fundulus heteroclitus']",False
+CA_QC_LSP,Gasterosteus,2,2,0.0,[],False
+CA_QC_LSP,Hiodon,2,2,0.0,[],False
+CA_QC_LSP,Hybognathus,2,1,0.5,['Hybognathus hankinsoni'],False
+CA_QC_LSP,Ichthyomyzon,3,2,0.3333333333333333,['Ichthyomyzon castaneus'],False
+CA_QC_LSP,Ictalurus,1,1,0.0,[],False
+CA_QC_LSP,Labidesthes,1,0,1.0,['Labidesthes sicculus'],False
+CA_QC_LSP,Lampetra,1,0,1.0,['Lampetra appendix'],False
+CA_QC_LSP,Lepisosteus,1,1,0.0,[],False
+CA_QC_LSP,Lepomis,4,4,0.0,[],False
+CA_QC_LSP,Lota,1,1,0.0,[],False
+CA_QC_LSP,Luxilus,1,1,0.0,[],False
+CA_QC_LSP,Margariscus,1,1,0.0,[],False
+CA_QC_LSP,Microgadus,1,1,0.0,[],False
+CA_QC_LSP,Micropterus,2,2,0.0,[],False
+CA_QC_LSP,Morone,3,3,0.0,[],False
+CA_QC_LSP,Moxostoma,5,3,0.4,"['Moxostoma hubbsi', 'Moxostoma macrolepidotum']",False
+CA_QC_LSP,Myoxocephalus,1,1,0.0,[],False
+CA_QC_LSP,Neogobius,1,0,1.0,['Neogobius melanostomus'],False
+CA_QC_LSP,Notemigonus,1,1,0.0,[],False
+CA_QC_LSP,Notropis,8,7,0.125,['Notropis volucellus'],False
+CA_QC_LSP,Noturus,3,1,0.6666666666666666,"['Noturus flavus', 'Noturus insignis']",False
+CA_QC_LSP,Oncorhynchus,5,3,0.4,"['Oncorhynchus clarkii', 'Oncorhynchus kisutch']",False
+CA_QC_LSP,Osmerus,1,1,0.0,[],False
+CA_QC_LSP,Perca,1,1,0.0,[],False
+CA_QC_LSP,Percina,2,2,0.0,[],False
+CA_QC_LSP,Percopsis,1,1,0.0,[],False
+CA_QC_LSP,Petromyzon,1,1,0.0,[],False
+CA_QC_LSP,Phoxinus,2,0,1.0,"['Phoxinus eos', 'Phoxinus neogaeus']",False
+CA_QC_LSP,Pimephales,2,2,0.0,[],False
+CA_QC_LSP,Pomoxis,1,1,0.0,[],False
+CA_QC_LSP,Prosopium,1,1,0.0,[],False
+CA_QC_LSP,Proterorhinus,1,0,1.0,['Proterorhinus marmoratus'],False
+CA_QC_LSP,Pungitius,1,1,0.0,[],False
+CA_QC_LSP,Rhinichthys,2,2,0.0,[],False
+CA_QC_LSP,Salmo,2,2,0.0,[],False
+CA_QC_LSP,Salvelinus,3,2,0.3333333333333333,['Salvelinus alpinus'],False
+CA_QC_LSP,Sander,2,1,0.5,['Sander canadensis'],False
+CA_QC_LSP,Scardinius,1,1,0.0,[],False
+CA_QC_LSP,Semotilus,2,1,0.5,['Semotilus atromaculatus'],False
+CA_QC_LSP,Tinca,1,1,0.0,[],False
+CA_QC_LSP,Triglopsis,1,0,1.0,['Triglopsis quadricornis'],False
+CA_QC_LSP,Umbra,1,1,0.0,[],False
