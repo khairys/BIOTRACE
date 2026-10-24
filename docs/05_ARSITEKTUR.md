@@ -205,6 +205,10 @@ blastn -query asv.fasta -db .../blastdb/ref -task blastn \
 | `biotrace ref stats --ref ...` | Ringkasan kamus (R-COV-02) | `[MVP]` |
 | `biotrace validate loso --ref <dir> [--module <ext>]` | Uji leave-one-species-out vs baseline | `[MVP]` |
 | `biotrace verify --run runs/<id>` | Hitung ulang fingerprint dan bandingkan | `[MVP]` |
+| `biotrace verify --code <kode> [--runs runs/]` | Cari dan verifikasi laporan dari kodenya (F28) | `[P1]` ✅ |
+| `biotrace ref propose --fasta F --meta S.csv --ref <dir>` | Laporan kurasi usulan tanpa menulis kamus (F31) | `[P1]` ✅ |
+| `biotrace rematch --run R --ref <dir> [--rules ...]` / `biotrace compare --base A --other B` | Cocok ulang dan banding run (F32) | `[P2]` ✅ |
+| `biotrace gaps --runs A B ... --consent [--out f.csv]` | Agregasi celah lintas run (F30) | `[P1]` ✅ |
 
 ## 8. API (FastAPI)
 
@@ -225,7 +229,12 @@ Basis: `/api`. Semua respons JSON memakai model pydantic. Proses sinkron di MVP 
 | GET | `/api/reference` | — | statistik kamus aktif (R-COV-02) | `[MVP]` |
 | GET | `/api/reference/coverage?waterbody_id=` | — | cakupan per genus | `[MVP]` |
 | GET | `/api/validation/latest` | — | hasil LOSO pra-hitung | `[MVP]` |
-| POST | `/api/verify` | `{report_fingerprint}` | cocok/tidak | `[P1]` |
+| POST | `/api/verify` | `{report_fingerprint}` | cocok/tidak (run lokal, hash dihitung ulang) | `[P1]` ✅ |
+| GET/POST | `/api/runs/{run_id}/notes`, `/api/runs/{run_id}/claims/{claim_id}/notes` | `{reviewer, note, verified}` | catatan ahli append-only (F29) | `[P1]` ✅ |
+| GET | `/api/runs/{run_id}/sites` | — | titik lokasi; koordinat sensitif dibulatkan | `[P1]` ✅ |
+| POST | `/api/reference/proposals` | multipart: `fasta`, `metadata`, `simulation?` | laporan kurasi usulan (F31) | `[P1]` ✅ |
+| POST | `/api/runs/{run_id}/rematch` | — | perbandingan dengan kamus/aturan aktif (F32) | `[P2]` ✅ |
+| GET | `/api/runs/{run_id}/compare/{other_id}` | — | klaim yang berubah (F32) | `[P2]` ✅ |
 
 Galat: `422` untuk validasi input, dengan isi `ValidationReport`. `500` dicatat di log tanpa membocorkan isi data.
 
@@ -316,7 +325,7 @@ Variabel lingkungan (`.env`, opsional):
 | Isolasi data luar | Tes memastikan mode normal tidak membaca `data/external/` |
 | Kinerja | Tes sintetis 200 sampel × 2.000 ASV < 120 detik (ditandai `slow`) |
 | Cakupan tes | ≥ 80% untuk `biotrace_core` `[P1]`; MVP: semua modul aturan |
-| CI | GitHub Actions: ruff + pytest (tanpa tes `slow`) `[P1]` |
+| CI | GitHub Actions: ruff + pytest (tanpa tes `slow`) + build web `[P1]` ✅ `.github/workflows/ci.yml` |
 
 ## 13. Keamanan dan privasi
 

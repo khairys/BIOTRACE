@@ -14,6 +14,7 @@ Dokumen acuan ada di [`docs/`](docs/README.md). Sumber kebenaran tertinggi: [01_
 | Aturan | `r0.3` aktif (D-030); semua ambang **usulan tim, belum dikalibrasi ahli** |
 | Kamus Indonesia `data/reference/v0.1` | **Belum siap**: 0 sekuens diterima. Sumber Stelbrink 2014 tidak mencakup daerah MiFish (lihat [11 §4.1](docs/11_AUDIT_KESIAPAN_2026-10-24.md)) |
 | Demo | Data dan kamus **SIMULASI** di `data/demo/matano_SIMULASI_v3/`; hasil cadangan di `precomputed/` |
+| Fitur P1/P2 (D-031) | Verifikasi kode laporan, catatan ahli, usulan sekuens, peta lokasi tersamar, tampilan ponsel, CI, cocok ulang, agregasi celah, templat lab (`templates/`) |
 | Validasi | LOSO pada pustaka 12S Guyana (mode validasi, marker Teleo1/12S-V5) di `validation/results/`. Bukan bukti akurasi MiFish Indonesia |
 
 ## Persiapan
