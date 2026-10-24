@@ -55,6 +55,8 @@ Batasan yang tetap berlaku dari percakapan: tanpa Docker; hemat token tetapi sta
 | 25 Okt 03:50 | Perbaikan NCBI | Kueri per spesies dibatasi <= 20 kb (rakitan genom bikin efetch timeout); manifest tahan PermissionError; antrean NCBI (country → freshwater → marine → cited) dijalankan ulang (c8ffc4b) |
 | 25 Okt 04:05 | Transkripsi regulasi KKP | Permen KP 19/2020 lampiran (80 baris, dari gambar) + status dilindungi Kepmen 1/2021 & 83/2024 di `data/curation/regulasi_kkp/` (3af1b53) |
 | 25 Okt 04:25 | GenBank per negara diulang | Kueri lama menangkap kromosom utuh (3,2 GB); file lama dihapus, kueri kini dibatasi <= 20 kb (label *_s20k). **Panen NCBI BELUM selesai — limit sesi habis di sini** |
+| 25 Okt 05:20 | Cek status oleh tugas terjadwal (sesi cloud, tanpa shell laptop) | `tropis_gbif` tampak selesai: 7 negara (ID 6.083, MY 3.233, SG 1.391, BN 406, TL 948, PG 3.129, PH 4.981 spesies), manifest diperbarui 05:11, `species_names.json` ada. Antrean NCBI **masih terhenti** sejak ±03:23: `genbank_country` belum punya file *_s20k (manifest kosong), `genbank_species_freshwater` baru batch000 *_s20k, `marine` dan `cited` belum diulang dengan batas 20 kb. Sesi cloud tidak bisa menjalankan perintah di laptop dan tidak bisa menjangkau NCBI/GBIF/BOLD, jadi langkah di bawah harus dijalankan dari sesi di laptop. Branch `integrasi/main-bagus` di GitHub = b507b1a (sama dengan log) |
+| 25 Okt 05:38 | Lanjutan setelah jeda | GBIF selesai (7 negara, 8.350 nama); antrean NCBI dijalankan ulang (batas 20 kb); dataset baru: BRIN file terbuka (50 file), OBIS (4.411 takson area Indonesia), IUCN (siap, butuh token); analisis uji dijalankan (be5c3e6..bc63886) |
 
 ## Langkah berikutnya
 
@@ -62,7 +64,7 @@ Batasan yang tetap berlaku dari percakapan: tanpa Docker; hemat token tetapi sta
 - [x] Build web di branch gabungan
 - [x] Harvester otomatis lewat `scripts/fetch_data.py` (14 dataset `tropis_*`)
 - [ ] **MULAI DI SINI:** jalankan `uv run --no-project -q --with pyarrow python scripts/fetch_data.py tropis_genbank_country tropis_genbank_freshwater tropis_genbank_marine tropis_genbank_cited` lalu `tropis_gbif` (proses lama terhenti). Antrean NCBI (cek `raw/tropis/genbank_*/2026-10-25/manifest.json` kolom `summary`; bila gagal, jalankan ulang perintah docs/16 §2 — lanjut otomatis dari batch terakhir)
-- [ ] Tunggu `tropis_gbif` selesai (resolusi nama spesies)
+- [x] Tunggu `tropis_gbif` selesai (resolusi nama spesies) — tampak selesai 05:11–05:15; cek `species_names.json` lengkap sebelum analisis
 - [ ] Jalankan `scripts/analyze_tropis.py` (perintah di docs/16 §2) setelah semua panen selesai — JANGAN edit skrip saat berjalan (Windows spawn mengimpor ulang)
 - [ ] Isi docs/16 §5 dari `data/curation/tropis_gap_v1/summary.json`; komit `data/curation/tropis_gap_v1/*.csv` (kecuali cache)
 - [x] Transkripsi lampiran Permen KP 19/2020 dan status Kepmen (cek manusia masih perlu)
