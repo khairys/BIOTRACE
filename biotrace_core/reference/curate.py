@@ -23,6 +23,7 @@ def write_reference(
     sequences: dict[str, str],
     simulated: bool = False,
     notes: str = "",
+    created: str = "2026-10-24",
 ) -> None:
     """R-CUR-11: exclusive directory; never replaces an existing version."""
     path.mkdir(parents=True, exist_ok=False)
@@ -36,7 +37,7 @@ def write_reference(
         "reference_version": version,
         "module": module,
         "marker": marker,
-        "created": "2026-10-24",
+        "created": created,
         "contains_simulated": simulated,
         "files": {
             p.name: hashlib.sha256(p.read_bytes()).hexdigest()

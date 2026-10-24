@@ -162,8 +162,132 @@ def prepare_guyana() -> Path:
     return path
 
 
+SOURCES_V02 = [
+    {
+        "source_id": "SRC_HERDER2012",
+        "citation": "Herder F, Schliewen UK, Geiger MF, Hadiaty RK, Gray SM, McKinnon JS, Walter RP, Pfaender J (2012) Alien invasion in Wallace's Dreamponds: records of the hybridogenic 'flowerhorn' cichlid in Lake Matano, with an annotated checklist of fish species introduced to the Malili Lakes system in Sulawesi. Aquatic Invasions 7(4): 521-535",
+        "doi_or_url": "https://www.researchgate.net/publication/232708663",
+        "type": "peer_reviewed",
+        "license": "Open Access; (c) 2012 The Author(s); journal compilation (c) 2012 REABIC",
+        "accessed_date": "2026-10-25",
+    },
+    {
+        "source_id": "SRC_TANTU2007",
+        "citation": "Tantu FY, Nilawati J (2007) The exotic fish and fisheries in Lake Matano South Sulawesi. Vol. 4 No. 7, Desember 2007, ISSN 1829-7374, Himpunan Mahasiswa Pascasarjana Sulawesi Tengah-Bogor; Tabel 1 hlm. 33",
+        "doi_or_url": "https://www.researchgate.net/publication/370417162",
+        "type": "journal_unverified",
+        "license": "tidak diketahui; PDF tidak didistribusikan ulang",
+        "accessed_date": "2026-10-25",
+    },
+]
+
+
+def prepare_indonesia_v02() -> Path:
+    """Checklist + introductions from transcribed Herder 2012 / Tantu 2007 tables [MVP].
+
+    Names are kept as printed in the sources (no Catalog of Fishes normalisation, A14);
+    rows the sources give only at genus level or as common names stay out of the checklist.
+    No sequences: neither source contains MiFish references.
+    """
+    path = ROOT / "data/reference/v0.2"
+    if path.exists():
+        return path
+    rows = read_table(ROOT / "data/curation/malili_introduced_v0.2/transcription.csv")
+    kept = [r for r in rows if r["include"] == "ya"]
+    taxa: dict[str, dict] = {}
+    for r in sorted(kept, key=lambda r: (r["source_id"] != "SRC_HERDER2012", r["species_valid"])):
+        name = r["species_valid"]
+        if name.startswith("alias:") or name in taxa:
+            continue
+        verbatim = r["name_verbatim"]
+        authority = (
+            verbatim[verbatim.find("(") :]
+            if "(" in verbatim and r["source_id"] == "SRC_HERDER2012"
+            else ""
+        )
+        synonyms = "Trichogaster " + name.split()[1] if name.startswith("Trichopodus ") else ""
+        taxa[name] = {
+            "species_valid": name,
+            "genus": name.split()[0],
+            "family": r["family_verbatim"],
+            "order": "",
+            "authority": authority.strip("()")
+            if not authority.startswith("(Trichogaster)")
+            else "",
+            "synonyms": synonyms,
+            "in_indonesia": True,
+            "cof_checked_date": "",
+            "source_id": r["source_id"],
+        }
+    grouped: dict[tuple[str, str], list[dict]] = {}
+    for r in kept:
+        grouped.setdefault((r["waterbody_id"], r["species_valid"]), []).append(r)
+    checklist, introductions = [], []
+    for (waterbody, name), group in sorted(grouped.items()):
+        sources = ";".join(sorted({g["source_id"] for g in group}))
+        years = sorted({g["first_record_year"] for g in group if g["first_record_year"]})
+        notes = " | ".join(f"{g['source_id']} {g['location']}: {g['notes']}" for g in group)
+        checklist.append(
+            {
+                "waterbody_id": waterbody,
+                "species_valid": name,
+                "origin_status": "introduksi",
+                "endemic_scope": "",
+                "source_id": sources,
+                "year_recorded": years[0] if years else "",
+                "notes": notes,
+            }
+        )
+        pathways = sorted({g["pathway"] for g in group} - {"tidak_diketahui"})
+        introductions.append(
+            {
+                "species_valid": name,
+                "waterbody_id": waterbody,
+                "pathway": ";".join(pathways) or "tidak_diketahui",
+                "first_record_year": years[0] if years else "",
+                "source_id": sources,
+            }
+        )
+    previous = read_table(ROOT / "data/reference/v0.1/waterbodies.csv")
+    tables = {
+        "sequences": [],
+        "taxa": [taxa[k] for k in sorted(taxa)],
+        "waterbodies": previous,
+        "checklist": checklist,
+        "status": [],
+        "aliases": [],
+        "complexes": [],
+        "introductions": introductions,
+        "sources": SOURCES_V02,
+    }
+    write_reference(
+        path,
+        "v0.2",
+        "ID",
+        "12S_MiFish_U",
+        tables,
+        {},
+        notes=(
+            "Dari v0.1. Menambah checklist ikan introduksi Malili dari Herder dkk. 2012 "
+            "(Appendix 1 dan teks) dan Tantu & Nilawati 2007 (Tabel 1), ditranskripsi di "
+            "data/curation/malili_introduced_v0.2/transcription.csv. Nama sesuai sumber; "
+            "sinonimi dan normalisasi Catalog of Fishes belum ditinjau ahli. Spesies endemik "
+            "belum dimasukkan karena checklist Herder 2006 belum tersedia. Belum ada sekuens "
+            "MiFish; alias louhan tanpa nama spesies induk; status IUCN/invasif belum diisi."
+        ),
+        created="2026-10-25",
+    )
+    return path
+
+
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument("dataset", choices=["indonesia", "guyana"])
+    parser.add_argument("dataset", choices=["indonesia", "indonesia_v02", "guyana"])
     args = parser.parse_args()
-    print(initialize_indonesia() if args.dataset == "indonesia" else prepare_guyana())
+    print(
+        {
+            "indonesia": initialize_indonesia,
+            "indonesia_v02": prepare_indonesia_v02,
+            "guyana": prepare_guyana,
+        }[args.dataset]()
+    )

@@ -74,7 +74,7 @@ def runs_root() -> Path:
 
 
 def reference_root() -> Path:
-    return Path(os.environ.get("BIOTRACE_REF_DIR", str(ROOT / "data/reference/v0.1"))).resolve()
+    return Path(os.environ.get("BIOTRACE_REF_DIR", str(ROOT / "data/reference/v0.2"))).resolve()
 
 
 def error_response(

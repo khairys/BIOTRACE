@@ -1,0 +1,19 @@
+species_valid,genus,family,order,authority,synonyms,in_indonesia,cof_checked_date,source_id
+Anabas testudineus,Anabas,Anabantidae,,Bloch 1792,,True,,SRC_HERDER2012
+Aplocheilus panchax,Aplocheilus,Aplocheilidae,,Hamilton 1822,,True,,SRC_HERDER2012
+Carassius auratus,Carassius,Cyprinidae,,,,True,,SRC_TANTU2007
+Channa striata,Channa,Channidae,,Bloch 1797,,True,,SRC_HERDER2012
+Clarias batrachus,Clarias,Clariidae,,Linnaeus 1758,,True,,SRC_HERDER2012
+Clarias gariepinus,Clarias,Clariidae,,,,True,,SRC_TANTU2007
+Colossoma macropomum,Colossoma,Serrasalmidae,,Cuvier 1816,,True,,SRC_HERDER2012
+Cyprinus carpio,Cyprinus,Cyprinidae,,Linnaeus 1758,,True,,SRC_HERDER2012
+Lyposarcus pardalis,Lyposarcus,Loricariidae,,,,True,,SRC_TANTU2007
+Ophisternon cf. bengalense,Ophisternon,Synbranchidae,,,,True,,SRC_HERDER2012
+Oreochromis mossambicus,Oreochromis,Cichlidae,,Peters 1852,,True,,SRC_HERDER2012
+Oreochromis niloticus,Oreochromis,Cichlidae,,,,True,,SRC_TANTU2007
+Poecilia reticulata,Poecilia,Poecilidae,,,,True,,SRC_HERDER2012
+Pseudotropheus cyaneorhabdos,Pseudotropheus,Cichlidae,,Bowers & Stauffer 1997,,True,,SRC_HERDER2012
+Pterygoplichthys cf. pardalis,Pterygoplichthys,Loricariidae,,,,True,,SRC_HERDER2012
+Trichogaster leerii,Trichogaster,Belontiidae,,,,True,,SRC_TANTU2007
+Trichopodus pectoralis,Trichopodus,Osphronemidae,,,Trichogaster pectoralis,True,,SRC_HERDER2012
+Trichopodus trichopterus,Trichopodus,Osphronemidae,,,Trichogaster trichopterus,True,,SRC_HERDER2012

@@ -383,7 +383,7 @@ Semua output sebuah run disimpan di `runs/<run_id>/` (`run_id` = 12 karakter per
 | *Oryzias* Malili | Revisi 2026 (BMC Ecol Evol) | Data SNP; aksesi 12S belum dicek | Daftar manual |
 | Sekuens 12S publik lain untuk spesies Malili | GenBank/MitoFish/BOLD | Belum dicari | Pencarian manual per spesies checklist |
 | Checklist Telmatherinidae Malili | Herder dkk. 2006, Verh. Ges. Ichthyol. 5:139–163 | Sumber teridentifikasi | Ekstrak ke `checklist.csv` |
-| Ikan introduksi Malili | Herder dkk. 2012, Aquatic Invasions 7(4):521–535; Tantu & Nilawati 2007 | Sumber teridentifikasi | Ekstrak ke `checklist.csv` + `introductions.csv` |
+| Ikan introduksi Malili | Herder dkk. 2012, Aquatic Invasions 7(4):521–535; Tantu & Nilawati 2007 | **Diekstrak ke v0.2** (D-032) | `data/reference/v0.2/checklist.csv` + `introductions.csv`; transkripsi di `data/curation/` |
 | Nama valid | Catalog of Fishes | Online | Cek per spesies |
 | Status IUCN | IUCN Red List | Online | Cek per spesies |
 | Daftar invasif nasional | Permen KP No. 19/2020 | Teks belum diverifikasi | Daftar manual (JDIH KKP) |

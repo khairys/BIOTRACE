@@ -20,3 +20,6 @@ raw/downloads/
 data/**/blastdb/
 *.partial
 proposals/
+
+# PDF sumber disimpan lokal saja (hak cipta pihak ketiga); hash dicatat di raw/DOWNLOAD_LOG.md
+raw/checklists/*.pdf

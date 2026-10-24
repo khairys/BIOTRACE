@@ -12,7 +12,7 @@ Dokumen acuan ada di [`docs/`](docs/README.md). Sumber kebenaran tertinggi: [01_
 |---|---|
 | Mesin inti, API, dashboard, PDF/CSV, jejak audit | Berjalan; tes `not slow` dan T-PERF lulus di perangkat tim |
 | Aturan | `r0.3` aktif (D-030); semua ambang **usulan tim, belum dikalibrasi ahli** |
-| Kamus Indonesia `data/reference/v0.1` | **Belum siap**: 0 sekuens diterima. Sumber Stelbrink 2014 tidak mencakup daerah MiFish (lihat [11 §4.1](docs/11_AUDIT_KESIAPAN_2026-10-24.md)) |
+| Kamus Indonesia `data/reference/v0.2` (D-032) | Checklist **nyata** 18 ikan introduksi Malili dari Herder dkk. 2012 dan Tantu & Nilawati 2007 (24 baris, 4 danau). **0 sekuens MiFish**: klaim spesies pada data nyata masih diturunkan. Spesies endemik belum masuk (Herder 2006 belum tersedia) |
 | Demo | Data dan kamus **SIMULASI** di `data/demo/matano_SIMULASI_v3/`; hasil cadangan di `precomputed/` |
 | Fitur P1/P2 (D-031) | Verifikasi kode laporan, catatan ahli, usulan sekuens, peta lokasi tersamar, tampilan ponsel, CI, cocok ulang, agregasi celah, templat lab (`templates/`) |
 | Validasi | LOSO pada pustaka 12S Guyana (mode validasi, marker Teleo1/12S-V5) di `validation/results/`. Bukan bukti akurasi MiFish Indonesia |

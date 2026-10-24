@@ -1,0 +1,41 @@
+source_id,location,waterbody_id,family_verbatim,name_verbatim,species_valid,origin_status,pathway,first_record_year,include,notes
+SRC_HERDER2012,Appendix 1 + teks hlm. 527,MATANO,Anabantidae,Anabas testudineus (Bloch 1792),Anabas testudineus,introduksi,tidak_diketahui,,ya,Latest record: this study; teks: likely introduced to Lakes Matano Mahalona and Towuti
+SRC_HERDER2012,Teks hlm. 528,MAHALONA,Anabantidae,Anabas testudineus,Anabas testudineus,introduksi,tidak_diketahui,,ya,likely introduced to Lakes Matano Mahalona and Towuti
+SRC_HERDER2012,Teks hlm. 528,TOWUTI,Anabantidae,Anabas testudineus,Anabas testudineus,introduksi,tidak_diketahui,,ya,likely introduced to Lakes Matano Mahalona and Towuti
+SRC_HERDER2012,Appendix 1 + teks hlm. 527,MATANO,Aplocheilidae,Aplocheilus panchax (Hamilton 1822),Aplocheilus panchax,introduksi,tidak_diketahui,,ya,Latest record: this study
+SRC_HERDER2012,Appendix 1 + teks hlm. 527,MATANO,Channidae,Channa striata (Bloch 1797),Channa striata,introduksi,tebar_benih,,ya,Teks: juvenil dijual untuk penebaran; kolam tebar dekat Sungai Petea
+SRC_HERDER2012,Teks hlm. 527-528,MASAPI,Channidae,Channa striata,Channa striata,introduksi,tebar_benih,,ya,Satu-satunya spesies introduksi di Danau Masapi; menurut warga hasil penebaran langsung
+SRC_HERDER2012,Appendix 1,,Channidae,Channa lucius (Cuvier 1831),Channa lucius,introduksi,tidak_diketahui,,tidak,Latest record: Kottelat (1989 1991); perairan spesifik tidak disebut sehingga tidak dimasukkan ke checklist danau
+SRC_HERDER2012,Appendix 1 + abstrak,MATANO,Cichlidae,artificial hybrid (flowerhorn cichlid; Lou Han),alias:louhan_hybrid,introduksi,ikan_hias,,ya,Hibrida buatan; induk dilaporkan dari genus Cichlasoma Amphilophus Paraneetroplus (tanpa nama spesies); asal kemungkinan pelepasan toko/pemelihara akuarium
+SRC_HERDER2012,Appendix 1 + teks hlm. 528,MATANO,Cichlidae,Oreochromis mossambicus (Peters 1852),Oreochromis mossambicus,introduksi,budidaya,,ya,Teks: umum di kolam budidaya kecil dan di Danau Matano
+SRC_HERDER2012,Appendix 1,MATANO,Cichlidae,Pseudotropheus cyaneorhabdos (Bowers & Stauffer 1997),Pseudotropheus cyaneorhabdos,introduksi,tidak_diketahui,,ya,Populasi Maingano; Latest record: this study
+SRC_HERDER2012,Appendix 1,MATANO,Clariidae,Clarias batrachus (Linnaeus 1758),Clarias batrachus,introduksi,tebar_benih,,ya,Teks memakai Clarias cf. batrachus; juvenil tersedia untuk penebaran
+SRC_HERDER2012,Appendix 1,MATANO,Cyprinidae,Cyprinus carpio (Linnaeus 1758),Cyprinus carpio,introduksi,tidak_diketahui,,ya,Latest record: this study
+SRC_HERDER2012,Appendix 1 + teks hlm. 528,MATANO,Loricariidae,Pterygoplichthys cf. pardalis,Pterygoplichthys cf. pardalis,introduksi,tidak_diketahui,2012,ya,Satu spesimen 2 Sept 2012 dekat keramba budidaya terbengkalai; identifikasi cf.
+SRC_HERDER2012,Appendix 1,MATANO,Osphronemidae,Trichopodus (Trichogaster) pectoralis Regan 1910,Trichopodus pectoralis,introduksi,tidak_diketahui,,ya,Sumber menulis subgenus/genus lama Trichogaster dalam kurung
+SRC_HERDER2012,Appendix 1 + teks hlm. 530,MATANO,Osphronemidae,Trichopodus (Trichogaster) trichopterus Pallas 1770,Trichopodus trichopterus,introduksi,tidak_diketahui,,ya,Catatan aktual satu lokasi di Matano
+SRC_HERDER2012,Teks hlm. 530,TOWUTI,Osphronemidae,Trichopodus trichopterus,Trichopodus trichopterus,introduksi,tidak_diketahui,,ya,Dua lokasi di Danau Towuti
+SRC_HERDER2012,Appendix 1,MATANO,Poecilidae,Poecilia reticulata Peters 1859,Poecilia reticulata,introduksi,tidak_diketahui,,ya,Latest record: this study
+SRC_HERDER2012,Appendix 1 + teks hlm. 528,MATANO,Synbranchidae,Ophisternon cf. bengalense McClelland 1844,Ophisternon cf. bengalense,introduksi,tidak_diketahui,,ya,Hadir sampai kedalaman 20 m di Matano dan Towuti; identifikasi cf.
+SRC_HERDER2012,Teks hlm. 528,TOWUTI,Synbranchidae,Ophisternon cf. bengalense,Ophisternon cf. bengalense,introduksi,tidak_diketahui,,ya,Hadir sampai kedalaman 20 m di Matano dan Towuti
+SRC_HERDER2012,Appendix 1,MATANO,Serrasalmidae,Colossoma macropomum (Cuvier 1816),Colossoma macropomum,introduksi,tidak_diketahui,,ya,Latest record: this study
+SRC_TANTU2007,Tabel 1 hlm. 33,MATANO,Clariidae,Clarias batrachus,Clarias batrachus,introduksi,tidak_diketahui,,ya,Introduction; Collection (++)
+SRC_TANTU2007,Tabel 1 hlm. 33,MATANO,Clariidae,C. gariepinus,Clarias gariepinus,introduksi,tidak_diketahui,,ya,Introduction; (+); singkatan C. mengikuti baris Clarias batrachus
+SRC_TANTU2007,Tabel 1 hlm. 33,MATANO,Characidae,Serrasalmus sp.,,introduksi,budidaya,,tidak,Introduction; In cage (+); hanya tingkat genus
+SRC_TANTU2007,Tabel 1 hlm. 33,MATANO,Characidae,Pygocentrus sp,,introduksi,tidak_diketahui,,tidak,Introduction; Caught by fishing hobbiest (+); hanya tingkat genus
+SRC_TANTU2007,Tabel 1 hlm. 33,MATANO,Cyprinidae,Cyprinus carpio,Cyprinus carpio,introduksi,tidak_diketahui,,ya,Introduction; Collection
+SRC_TANTU2007,Tabel 1 hlm. 33,MATANO,Cyprinidae,Carassius auratus,Carassius auratus,introduksi,tidak_diketahui,,ya,Introduction; (+)
+SRC_TANTU2007,Tabel 1 hlm. 33,MATANO,Cyprinidae,Koi fish,,introduksi,budidaya,,tidak,Introduction; In cage (+); nama umum tanpa nama ilmiah
+SRC_TANTU2007,Tabel 1 hlm. 33,MATANO,Cichlidae,O. mossambicus,Oreochromis mossambicus,introduksi,tidak_diketahui,,ya,Introduction; Collection (++); singkatan O. cocok dengan Oreochromis mossambicus di Herder 2012
+SRC_TANTU2007,Tabel 1 hlm. 33,MATANO,Cichlidae,O. niloticus,Oreochromis niloticus,introduksi,tidak_diketahui,,ya,Introduction; Collection (++); singkatan O. diperluas mengikuti baris sebelumnya; perlu cek ahli
+SRC_TANTU2007,Tabel 1 hlm. 33,MATANO,Cichlidae,Lou han,alias:louhan_hybrid,introduksi,tidak_diketahui,,ya,Introduction; Collection (+)
+SRC_TANTU2007,Tabel 1 hlm. 33,MATANO,Cichlidae,African Cichlid,,introduksi,tidak_diketahui,,tidak,Introduction; Collection (+); nama umum tanpa nama ilmiah
+SRC_TANTU2007,Tabel 1 hlm. 33,MATANO,Loricariidae,Lyposarcus pardalis,Lyposarcus pardalis,introduksi,tidak_diketahui,,ya,Introduction; Collection (++); ejaan sesuai sumber; sinonimi dengan Pterygoplichthys belum ditinjau ahli
+SRC_TANTU2007,Tabel 1 hlm. 33,MATANO,Belontiidae,Trichogaster pectoralis,Trichopodus pectoralis,introduksi,tidak_diketahui,,ya,Introduction; Collection (+); Herder 2012 menulis Trichopodus (Trichogaster) pectoralis
+SRC_TANTU2007,Tabel 1 hlm. 33,MATANO,Belontiidae,T. leerii,Trichogaster leerii,introduksi,tidak_diketahui,,ya,Introduction; Collection (+); singkatan T. mengikuti Trichogaster pada baris sebelumnya
+SRC_TANTU2007,Tabel 1 hlm. 33,MATANO,Poeciliidae,Poecilia reticulata,Poecilia reticulata,introduksi,tidak_diketahui,,ya,Introduction; Collection of Hadiaty & Wirdjoatmodjo (2002)
+SRC_TANTU2007,Tabel 1 hlm. 33,MATANO,Osphronemidae,Osphronemus sp.,,introduksi,budidaya,,tidak,Introduction; In cage (+); hanya tingkat genus
+SRC_TANTU2007,Tabel 1 hlm. 33,MATANO,Aplocheilidae,Aplocheilus panchax,Aplocheilus panchax,introduksi,tidak_diketahui,,ya,(?) tanpa informasi awal; Collection (+); Herder 2012 mencatatnya sebagai ikan asing
+SRC_TANTU2007,Tabel 1 hlm. 33,MATANO,Anabantidae,Anabas testudineus,Anabas testudineus,introduksi,tidak_diketahui,,ya,(?) tanpa informasi awal; Collection (++); Herder 2012 mencatatnya sebagai ikan asing
+SRC_TANTU2007,Tabel 1 hlm. 33,MATANO,Channidae,Channa striata,Channa striata,introduksi,tidak_diketahui,,ya,(?) tanpa informasi awal; Collection (++); teks OCR terbaca Charon striata tetapi gambar halaman jelas Channa striata
+SRC_TANTU2007,Tabel 1 hlm. 33,MATANO,Anguillidae,Anguilla sp.,,tidak_diketahui,tidak_diketahui,,tidak,(?) tanpa informasi awal; Underwater observation (+); status asal tidak ditetapkan sumber

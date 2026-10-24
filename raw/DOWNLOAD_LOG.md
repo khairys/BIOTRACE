@@ -32,3 +32,16 @@ Sumber disediakan pengguna; DOI https://doi.org/10.5061/dryad.3bk3j9kzf; CC0 men
 - `raw/lake_st_pierre/v20250924/elec_long.csv`: `1bccfef945fc3a890a0c8d4aa159e1dab777e0ca3ed138fce1e97f8f47a62c96`; CRC ZIP lulus saat ekstraksi.
 - `raw/lake_st_pierre/v20250924/fish_codes.csv`: `78ba86ceeea76f1b5a038d633b92237da81a15c8d9c1f0130060ff984db73c4b`; CRC ZIP lulus saat ekstraksi.
 - `raw/lake_st_pierre/v20250924/raw_seq.zip`: `045dda292931b8fdc28a75b13f4990184b73fc6f76d75810fa090a631b3b5527`; CRC ZIP lulus saat ekstraksi.
+
+## Unduhan manual pengguna 25 Oktober 2026 (WIB)
+
+Diunduh manual oleh pengguna (Agathan) lalu dipindahkan agent dari akar repo ke `raw/checklists/`. PDF tidak dikomit ke Git (hak cipta pihak ketiga; `.gitignore`), hanya hash berikut. Byte file tidak diubah.
+
+| File | Sumber | SHA-256 | Lisensi/kebijakan |
+|---|---|---|---|
+| raw/checklists/herder2012_aquatic_invasions.pdf | Herder dkk. 2012, Aquatic Invasions 7(4):521–535 (corrected proof) | 3d31e7fce2fdd52bd0c9ae991469d95168b4679675a7583d00622e12dc27e2b9 | Open Access; © 2012 The Author(s) |
+| raw/checklists/tantu_nilawati2007_exotic_fish_matano.pdf | Tantu & Nilawati 2007, Vol. 4 No. 7, ISSN 1829-7374 (PDF hasil pindai) | 12892c9a2c4fb0da020004b02a67c15bd1e4570c3a966261582f295f0725e226 | tidak diketahui |
+
+`Data_12S Ref library_Fish Guiana.csv` yang juga diunduh ulang ke akar repo identik (MD5 5b34a6eaeed4a8a1220be8f72321f208) dengan `raw/french_guiana_12s/`; salinan duplikat di akar dihapus. Herder dkk. 2006 (checklist Telmatherinidae) tidak berhasil diunduh dan belum tersedia.
+
+Tabel hasil ekstraksi: `data/curation/malili_introduced_v0.2/transcription.csv` (Herder 2012 Appendix 1 + teks; Tantu 2007 Tabel 1 hlm. 33, dibaca dari gambar halaman karena OCR rusak). Setiap baris perlu dicek manusia terhadap PDF.

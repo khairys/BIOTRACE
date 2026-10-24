@@ -30,7 +30,7 @@ def parser() -> argparse.ArgumentParser:
     run.add_argument("--fasta", type=Path)
     run.add_argument("--taxonomy", type=Path)
     run.add_argument("--site-context", type=Path)
-    run.add_argument("--ref", type=Path, default=ROOT / "data/reference/v0.1")
+    run.add_argument("--ref", type=Path, default=ROOT / "data/reference/v0.2")
     run.add_argument("--rules", type=Path, default=DEFAULT_RULES)
     run.add_argument("--out", type=Path, default=ROOT / "runs")
     run.add_argument("--mode", choices=["normal", "simulation", "validation"], default="normal")

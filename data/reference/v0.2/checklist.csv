@@ -1,0 +1,25 @@
+waterbody_id,species_valid,origin_status,endemic_scope,source_id,year_recorded,notes
+MAHALONA,Anabas testudineus,introduksi,,SRC_HERDER2012,,SRC_HERDER2012 Teks hlm. 528: likely introduced to Lakes Matano Mahalona and Towuti
+MASAPI,Channa striata,introduksi,,SRC_HERDER2012,,SRC_HERDER2012 Teks hlm. 527-528: Satu-satunya spesies introduksi di Danau Masapi; menurut warga hasil penebaran langsung
+MATANO,Anabas testudineus,introduksi,,SRC_HERDER2012;SRC_TANTU2007,,SRC_HERDER2012 Appendix 1 + teks hlm. 527: Latest record: this study; teks: likely introduced to Lakes Matano Mahalona and Towuti | SRC_TANTU2007 Tabel 1 hlm. 33: (?) tanpa informasi awal; Collection (++); Herder 2012 mencatatnya sebagai ikan asing
+MATANO,Aplocheilus panchax,introduksi,,SRC_HERDER2012;SRC_TANTU2007,,SRC_HERDER2012 Appendix 1 + teks hlm. 527: Latest record: this study | SRC_TANTU2007 Tabel 1 hlm. 33: (?) tanpa informasi awal; Collection (+); Herder 2012 mencatatnya sebagai ikan asing
+MATANO,Carassius auratus,introduksi,,SRC_TANTU2007,,SRC_TANTU2007 Tabel 1 hlm. 33: Introduction; (+)
+MATANO,Channa striata,introduksi,,SRC_HERDER2012;SRC_TANTU2007,,SRC_HERDER2012 Appendix 1 + teks hlm. 527: Teks: juvenil dijual untuk penebaran; kolam tebar dekat Sungai Petea | SRC_TANTU2007 Tabel 1 hlm. 33: (?) tanpa informasi awal; Collection (++); teks OCR terbaca Charon striata tetapi gambar halaman jelas Channa striata
+MATANO,Clarias batrachus,introduksi,,SRC_HERDER2012;SRC_TANTU2007,,SRC_HERDER2012 Appendix 1: Teks memakai Clarias cf. batrachus; juvenil tersedia untuk penebaran | SRC_TANTU2007 Tabel 1 hlm. 33: Introduction; Collection (++)
+MATANO,Clarias gariepinus,introduksi,,SRC_TANTU2007,,SRC_TANTU2007 Tabel 1 hlm. 33: Introduction; (+); singkatan C. mengikuti baris Clarias batrachus
+MATANO,Colossoma macropomum,introduksi,,SRC_HERDER2012,,SRC_HERDER2012 Appendix 1: Latest record: this study
+MATANO,Cyprinus carpio,introduksi,,SRC_HERDER2012;SRC_TANTU2007,,SRC_HERDER2012 Appendix 1: Latest record: this study | SRC_TANTU2007 Tabel 1 hlm. 33: Introduction; Collection
+MATANO,Lyposarcus pardalis,introduksi,,SRC_TANTU2007,,SRC_TANTU2007 Tabel 1 hlm. 33: Introduction; Collection (++); ejaan sesuai sumber; sinonimi dengan Pterygoplichthys belum ditinjau ahli
+MATANO,Ophisternon cf. bengalense,introduksi,,SRC_HERDER2012,,SRC_HERDER2012 Appendix 1 + teks hlm. 528: Hadir sampai kedalaman 20 m di Matano dan Towuti; identifikasi cf.
+MATANO,Oreochromis mossambicus,introduksi,,SRC_HERDER2012;SRC_TANTU2007,,SRC_HERDER2012 Appendix 1 + teks hlm. 528: Teks: umum di kolam budidaya kecil dan di Danau Matano | SRC_TANTU2007 Tabel 1 hlm. 33: Introduction; Collection (++); singkatan O. cocok dengan Oreochromis mossambicus di Herder 2012
+MATANO,Oreochromis niloticus,introduksi,,SRC_TANTU2007,,SRC_TANTU2007 Tabel 1 hlm. 33: Introduction; Collection (++); singkatan O. diperluas mengikuti baris sebelumnya; perlu cek ahli
+MATANO,Poecilia reticulata,introduksi,,SRC_HERDER2012;SRC_TANTU2007,,SRC_HERDER2012 Appendix 1: Latest record: this study | SRC_TANTU2007 Tabel 1 hlm. 33: Introduction; Collection of Hadiaty & Wirdjoatmodjo (2002)
+MATANO,Pseudotropheus cyaneorhabdos,introduksi,,SRC_HERDER2012,,SRC_HERDER2012 Appendix 1: Populasi Maingano; Latest record: this study
+MATANO,Pterygoplichthys cf. pardalis,introduksi,,SRC_HERDER2012,2012,SRC_HERDER2012 Appendix 1 + teks hlm. 528: Satu spesimen 2 Sept 2012 dekat keramba budidaya terbengkalai; identifikasi cf.
+MATANO,Trichogaster leerii,introduksi,,SRC_TANTU2007,,SRC_TANTU2007 Tabel 1 hlm. 33: Introduction; Collection (+); singkatan T. mengikuti Trichogaster pada baris sebelumnya
+MATANO,Trichopodus pectoralis,introduksi,,SRC_HERDER2012;SRC_TANTU2007,,SRC_HERDER2012 Appendix 1: Sumber menulis subgenus/genus lama Trichogaster dalam kurung | SRC_TANTU2007 Tabel 1 hlm. 33: Introduction; Collection (+); Herder 2012 menulis Trichopodus (Trichogaster) pectoralis
+MATANO,Trichopodus trichopterus,introduksi,,SRC_HERDER2012,,SRC_HERDER2012 Appendix 1 + teks hlm. 530: Catatan aktual satu lokasi di Matano
+MATANO,alias:louhan_hybrid,introduksi,,SRC_HERDER2012;SRC_TANTU2007,,SRC_HERDER2012 Appendix 1 + abstrak: Hibrida buatan; induk dilaporkan dari genus Cichlasoma Amphilophus Paraneetroplus (tanpa nama spesies); asal kemungkinan pelepasan toko/pemelihara akuarium | SRC_TANTU2007 Tabel 1 hlm. 33: Introduction; Collection (+)
+TOWUTI,Anabas testudineus,introduksi,,SRC_HERDER2012,,SRC_HERDER2012 Teks hlm. 528: likely introduced to Lakes Matano Mahalona and Towuti
+TOWUTI,Ophisternon cf. bengalense,introduksi,,SRC_HERDER2012,,SRC_HERDER2012 Teks hlm. 528: Hadir sampai kedalaman 20 m di Matano dan Towuti
+TOWUTI,Trichopodus trichopterus,introduksi,,SRC_HERDER2012,,SRC_HERDER2012 Teks hlm. 530: Dua lokasi di Danau Towuti
