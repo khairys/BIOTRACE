@@ -1,0 +1,39 @@
+{
+ "accepted_species": [
+  "Kalyptatherina helodes",
+  "Marosatherina ladigesi",
+  "Paratherina cyanea",
+  "Paratherina labiosa",
+  "Paratherina striata",
+  "Paratherina wolterecki",
+  "Telmatherina abendanoni",
+  "Telmatherina albolabiosus",
+  "Telmatherina antoniae",
+  "Telmatherina bonti",
+  "Telmatherina celebensis",
+  "Telmatherina obscura",
+  "Telmatherina opudi",
+  "Telmatherina prognatha",
+  "Telmatherina sarasinorum",
+  "Telmatherina wahjui",
+  "Tominanga aurea",
+  "Tominanga sanguicauda"
+ ],
+ "family": {
+  "canonicalName": "Telmatherinidae",
+  "confidence": 98,
+  "family": "Telmatherinidae",
+  "familyKey": 7177,
+  "kingdom": "Animalia",
+  "kingdomKey": 1,
+  "matchType": "EXACT",
+  "order": "Atheriniformes",
+  "orderKey": 496,
+  "phylum": "Chordata",
+  "phylumKey": 44,
+  "rank": "FAMILY",
+  "scientificName": "Telmatherinidae",
+  "status": "ACCEPTED",
+  "usageKey": 7177
+ }
+}
