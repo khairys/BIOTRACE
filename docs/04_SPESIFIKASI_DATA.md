@@ -16,6 +16,8 @@ Konvensi umum:
 
 ## 1. Input pengguna `[MVP]`
 
+*D-038 (Diusulkan):* nama kolom di bawah adalah kontrak internal. Ekspor lab dengan nama lain (mis. `otu_id`, `site_name`, `waterbody`, `pident`) dikenali lewat sinonim atau isinya (`biotrace_core/io/columns.py`), kolom tambahan diabaikan, dan semua pemetaan dilaporkan sebagai peringatan `V-COL`. Perairan dan marker yang kosong dipilih pengguna di formulir unggah; koordinat dan tanggal yang kosong tidak ditebak.
+
 ### 1.1 `reads.csv` (wajib)
 
 Format panjang:
