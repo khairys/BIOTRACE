@@ -1,0 +1,7 @@
+alias_key,alias_label_id,alias_label_en,member_name,category,source_id,reviewed_by_expert,notes
+louhan_hybrid,kemungkinan louhan hibrida,likely flowerhorn hybrid,Amphilophus citrinellus,hybrid_invasive,SRC_BAGUS_REF_V01,False,induk louhan; ditinjau ahli
+louhan_hybrid,kemungkinan louhan hibrida,likely flowerhorn hybrid,Amphilophus labiatus,hybrid_invasive,SRC_BAGUS_REF_V01,False,induk louhan; ditinjau ahli
+louhan_hybrid,kemungkinan louhan hibrida,likely flowerhorn hybrid,Amphilophus trimaculatus,hybrid_invasive,SRC_BAGUS_REF_V01,False,= Cichlasoma trimaculatum; belum ada sekuens 12S
+louhan_hybrid,kemungkinan louhan hibrida,likely flowerhorn hybrid,Cichlasoma trimaculatum,hybrid_invasive,SRC_BAGUS_REF_V01,False,induk yang sering disebut; belum ada sekuens 12S
+louhan_hybrid,kemungkinan louhan hibrida,likely flowerhorn hybrid,Paraneetroplus synspilus,hybrid_invasive,SRC_BAGUS_REF_V01,False,induk louhan
+louhan_hybrid,kemungkinan louhan hibrida,likely flowerhorn hybrid,Vieja melanura,hybrid_invasive,SRC_BAGUS_REF_V01,False,sinonim senior Paraneetroplus synspilus (Vieja synspila); perlu tinjauan ahli

@@ -1,0 +1,8 @@
+waterbody_id,name,type,complex_id,country
+MATANO,Danau Matano,danau,MALILI,ID
+MAHALONA,Danau Mahalona,danau,MALILI,ID
+TOWUTI,Danau Towuti,danau,MALILI,ID
+LONTOA,Danau Lontoa,danau,MALILI,ID
+MASAPI,Danau Masapi,danau,MALILI,ID
+LAUT_INDONESIA,Perairan laut Indonesia (checklist tingkat negara),laut,,ID
+AIR_TAWAR_INDONESIA,Perairan tawar Indonesia (checklist tingkat negara),sungai,,ID

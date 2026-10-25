@@ -63,6 +63,7 @@ Batasan yang tetap berlaku dari percakapan: tanpa Docker; hemat token tetapi sta
 | 25 Okt 07:10 | Kamus nasional v0.4 (D-035) | 966 sekuens MiFish, 630 spesies, 100 spesimen bertanda Indonesia; LAUT_INDONESIA dari FishBase |
 | 25 Okt 07:19 | Demo DATA ASLI (D-036) | Marwayana 2022 (Dryad CC0, MiFish-U, 39 lokasi terumbu Indonesia): 4.354 klaim, 152 taksa; tombol "Muat data eDNA asli Indonesia" + pra-hitung terverifikasi; diuji di browser (292f17f + pra-hitung) |
 
+| 25 Okt 07:40 | Unduhan manual pengguna masuk + kamus v0.5 | Rasborinae (MiFish, asal via BOLD) → v0.5 D-037 (133 sekuens spesimen ID, Rasbora bisa `safe` genus); Jawa-Bali COI, Raja Ampat (checklist/teleo/UVC/eDNA), Kottelat 2013 → data/curation/raw; token IUCN 401; main = integrasi = b162458; 107 tes lulus |
 ## Langkah berikutnya
 
 - [x] Sisa langkah Bagus: D-034 (Diusulkan), README, LOSO v0.3
