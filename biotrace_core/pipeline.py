@@ -42,8 +42,12 @@ def run_analysis(
     out_root: Path = Path("runs"),
     mode: Mode = "normal",
     threads: int = 4,
+    defaults: dict[str, str] | None = None,
 ) -> RunResult:
-    """Load → validate → R-PRE/NAME/SCORE/CAUSE/DEC/ORIG/GAP/AUD → persist atomically."""
+    """Load → validate → R-PRE/NAME/SCORE/CAUSE/DEC/ORIG/GAP/AUD → persist atomically.
+
+    `defaults` (D-038) are user-chosen values for blank metadata cells, e.g. waterbody_id.
+    """
     started = datetime.now(UTC).isoformat()
     clock = time.perf_counter()
     cfg = load_rules(rules_path)
@@ -58,8 +62,9 @@ def run_analysis(
         fasta_path,
         taxonomy_path,
         site_context_path,
-        {r["waterbody_id"] for r in ref.tables["waterbodies"]},
+        {r["waterbody_id"]: r.get("name", "") for r in ref.tables["waterbodies"]},
         mode,
+        defaults,
     )
     marker = data.samples[0].marker
     ref = ref.select(cfg, mode, marker)
@@ -79,6 +84,9 @@ def run_analysis(
         "marker": marker,
         "uses_fasta": bool(fasta_path),
     }
+    # Only present when used, so fingerprints of runs without defaults stay unchanged.
+    if used := {k: v for k, v in sorted((defaults or {}).items()) if v}:
+        effective["input_defaults"] = used
     # Original input bytes are preserved under canonical, role-based filenames.
     input_names = {
         role: artifact_name(
@@ -141,7 +149,8 @@ def run_analysis(
                     ref,
                     cfg,
                     reasons,
-                    None if fasta_path else data.taxonomy[signal.asv_id],
+                    # D-038: a lab "no hit" has no candidates and is assessed as unknown.
+                    None if fasta_path else data.taxonomy.get(signal.asv_id),
                     data.site_context.get(signal.site_id, []),
                     mode == "validation",
                 )
