@@ -1,5 +1,5 @@
 import { useEffect, useRef, useState } from 'react';
-import { ArrowDown, BadgeCheck, Check, ClipboardList, Info, MessageSquarePlus, X } from 'lucide-react';
+import { ArrowDown, ArrowRight, BadgeCheck, Check, ClipboardList, Info, MessageSquarePlus, X } from 'lucide-react';
 import type { Claim, ReviewNote } from '../api/generated';
 import { ApiError, request, useResource } from '../api/client';
 import { causeNames, formatNumber, labelNames, percent, rankLabels, warningNames } from '../i18n/id';
@@ -26,6 +26,18 @@ export default function EvidenceCard({claim,runId,baselinePct,onClose}:{claim:Cl
     <ReviewNotes runId={runId} claimId={claim.claim_id}/>
     <p className="evidence-limit"><Info size={15}/>{claim.interpretation_limit}</p><p className="mono small muted">Aturan: {claim.rule_ids.join(', ')}</p>
   </div></article></dialog>;
+}
+
+// F23: an always-visible example on the results page, so the card is found without knowing to click a row.
+export function featuredClaim(claims:Claim[]):Claim|undefined{
+  const renamed=(c:Claim)=>!!c.taxon_lab&&c.taxon_lab!==c.reported_name;
+  return claims.find(c=>c.decision==='must_verify'&&renamed(c))??claims.find(c=>renamed(c)&&c.decision!=='do_not_use')??claims.find(c=>c.decision==='must_verify')??claims[0];
+}
+export function EvidencePreview({claim,onOpen}:{claim:Claim;onOpen:()=>void}){
+  return <section id="evidence" className="card result-section evidence-preview"><div className="card-heading"><div><h2><ClipboardList size={17}/>Evidence Card</h2><p>Setiap nama punya kartu bukti: nama dari lab, nama yang aman ditulis, alasan, skor, dan tindak lanjut. Contoh di bawah; kartu lain terbuka dari baris mana pun di Daftar klaim.</p></div><button className="button primary" onClick={onOpen}>Buka Evidence Card<ArrowRight size={15}/></button></div>
+    <div className="evidence-preview-body"><div className="evidence-preview-name"><span className="eyebrow">{claim.site_id} · {claim.asv_id}</span>{claim.taxon_lab?<span className="lab-name"><span>Dari lab</span><i className={claim.taxon_lab!==claim.reported_name?'changed-name':''}>{claim.taxon_lab}</i></span>:null}<strong><i>{claim.reported_name}</i> <small>{rankLabels[claim.reported_rank]}</small></strong><div className="evidence-badges"><GradeBadge grade={claim.grade}/><DecisionBadge decision={claim.decision}/></div></div>
+      <div><h3>Kenapa?</h3><div className="cause-list">{claim.causes.length?claim.causes.map(c=><span key={c}><Info size={13}/>{causeNames[c]??c}</span>):<span><Check size={13}/>Tidak ada penyebab yang terpicu.</span>}</div><div className="score-grid">{[['L1','Kamus',claim.l1,2],['L2','Lokasi',claim.l2,1],['L4','Sinyal lab',claim.l4,2]].map(([key,label,value,max])=><div key={String(key)}><span>{key} <small>{label}</small><strong>{value}/{max}</strong></span><div className="score-track"><b style={{width:`${Number(value)/Number(max)*100}%`}}/></div></div>)}</div></div>
+      <div className={`follow-up ${claim.decision}`}><h3>Tindak lanjut</h3><p>{claim.follow_up}</p></div></div></section>;
 }
 
 function ReviewNotes({runId,claimId}:{runId:string;claimId:string}){

@@ -1,6 +1,6 @@
 import { useMemo, useState } from 'react';
 import { flexRender, getCoreRowModel, getPaginationRowModel, getSortedRowModel, useReactTable, type ColumnDef, type SortingState } from '@tanstack/react-table';
-import { ArrowUpDown, ChevronLeft, ChevronRight } from 'lucide-react';
+import { ArrowUpDown, ChevronLeft, ChevronRight, ClipboardList } from 'lucide-react';
 import type { Claim } from '../api/generated';
 import { labelNames, rankLabels } from '../i18n/id';
 import { DecisionBadge, EmptyState, GradeBadge } from './Common';
@@ -14,6 +14,8 @@ export default function ClaimsTable({claims,onSelect}:{claims:Claim[];onSelect:(
     {accessorKey:'grade',header:'Nilai',cell:info=><GradeBadge grade={info.row.original.grade}/>},
     {accessorKey:'decision',header:'Keputusan',cell:info=><DecisionBadge decision={info.row.original.decision}/>},
     {id:'labels',header:'Label',cell:info=><div className="label-list">{info.row.original.labels.length?info.row.original.labels.map(label=><span className="taxon-label" key={label}>{labelNames[label]??label}</span>):<span className="muted">—</span>}</div>},
+    // The whole row is the button; this cell only makes the Evidence Card visible as an action.
+    {id:'evidence',header:'Bukti',cell:()=><span className="evidence-link" aria-hidden="true"><ClipboardList size={13}/>Lihat bukti</span>},
   ],[]);
   const table=useReactTable({data:claims,columns,state:{sorting},onSortingChange:setSorting,getCoreRowModel:getCoreRowModel(),getSortedRowModel:getSortedRowModel(),getPaginationRowModel:getPaginationRowModel(),initialState:{pagination:{pageSize:12}}});
   if(!claims.length)return <EmptyState message="Tidak ada klaim yang cocok dengan filter."/>;
