@@ -48,13 +48,15 @@ def main() -> None:
         assert page.evaluate("document.documentElement.scrollWidth<=window.innerWidth")
         page.locator(".decision-tile.must_verify").click()
         page.locator(".claims-table tbody tr").first.click()
+        expect(page.locator(".evidence-inline")).to_be_visible()
+        page.get_by_role("button", name="Buka kartu penuh", exact=True).click()
         expect(page.get_by_role("dialog")).to_be_visible()
         expect(
             page.get_by_role("dialog")
             .get_by_text("Deteksi DNA bukan bukti pasti ikan hidup di lokasi.", exact=True)
             .last
         ).to_be_visible()
-        page.get_by_role("button", name="English", exact=True).click()
+        page.get_by_role("dialog").get_by_role("button", name="English", exact=True).click()
         expect(
             page.get_by_text(
                 "DNA detection is not proof that the fish lives at the site.", exact=True

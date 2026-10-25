@@ -348,3 +348,11 @@ Rincian bukti dan gerbang implementasi: [11 — Audit Kesiapan](11_AUDIT_KESIAPA
 - Resolusi: ID D-038 rilis juri dipertahankan; D-038 deteksi input dari branch teman menjadi D-039. Kedua fungsi provenance dataset dan defaults input dipertahankan, termasuk saat rematch.
 - Engine menjadi 0.1.3 karena perilaku normalisasi input bertambah; aturan biologis tetap r0.4, kamus tetap v0.5. Snapshot dan bukti engine 0.1.2 tidak ditimpa; pemeriksaan integrasi dicatat terpisah.
 - Tidak ada perubahan ambang numerik atau promosi bahan raw yang belum dikurasi menjadi kamus aktif.
+
+
+### D-041 — Evidence Card terlihat langsung dan konteks dashboard sesuai run `[MVP]`
+- Tanggal: 2026-10-25 · Status: **Disetujui** · Disetujui oleh: Agathan (chat: "lakukan tambahan", dengan gambar referensi dashboard).
+- F23/F24/F25: kartu bukti pertama langsung terlihat di samping tabel; baris terpilih, tombol Lihat bukti, dan pembesaran kartu memudahkan penelusuran. Layar kecil menempatkan kartu di bawah tabel.
+- Ringkasan naratif, jumlah klaim per penyebab (boleh tumpang tindih), berkas masukan beserta hash, versi, dan peringatan memakai hasil run tersimpan. Tabel menambahkan penyebab dan fraksi celah kamus; fraksi ini bukan probabilitas keberadaan ikan.
+- Cakupan dapat disaring per perairan, grafik dibatasi 12 genus dengan celah tertinggi dengan batas tampilan tertulis; seluruh rincian tetap dapat dibuka. Prioritas dapat diunduh CSV dengan label SIMULASI bila berlaku.
+- Angka/species pada gambar bukan sumber data. Tidak menyalin jumlah endemik, galat per nilai, atau status validasi ahli dari gambar. Koordinat/tanggal yang tidak tersedia tetap kosong. Tidak mengubah aturan, skema hasil, fingerprint, referensi, atau snapshot lama.

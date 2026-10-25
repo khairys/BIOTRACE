@@ -15,7 +15,7 @@ export default function Layout(){
         <NavLink to="/verify"><Fingerprint size={18}/>Verifikasi laporan</NavLink>
         <NavLink to="/reference/propose"><FlaskRound size={18}/>Usulan sekuens</NavLink>
       </nav>
-      <div className="sidebar-bottom"><div className="local-state"><CircleDot size={12}/>Lingkungan lokal</div><p><LockKeyhole size={14}/>Data diproses di perangkat ini.</p><small>Prototipe MVP · v0.1.1</small></div>
+      <div className="sidebar-bottom"><div className="local-state"><CircleDot size={12}/>Lingkungan lokal</div><p><LockKeyhole size={14}/>Data diproses di perangkat ini.</p><small>Prototipe MVP</small></div>
     </aside>
     <div className="main-shell"><header className="topbar"><span><Waves size={17}/>Verifikasi biodiversitas perairan</span><span className="topbar-tag">Laporan verifikasi pendukung</span></header><main id="main-content"><Outlet/></main><footer className="app-footer"><span>BioTrace Indonesia</span><span>Usulan tim, belum dikalibrasi ahli.</span></footer></div>
   </div>;
