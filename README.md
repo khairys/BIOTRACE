@@ -12,8 +12,8 @@ Dokumen acuan ada di [`docs/`](docs/README.md). Sumber kebenaran tertinggi: [01_
 |---|---|
 | Mesin inti, API, dashboard, PDF/CSV, jejak audit | Berjalan; tes `not slow` dan T-PERF lulus di perangkat tim |
 | Aturan | `r0.4` aktif (D-030, D-033); semua ambang **usulan tim, belum dikalibrasi ahli** |
-| Kamus Indonesia `data/reference/v0.3` (D-034, **diusulkan**) | Kamus bawaan. 65 sekuens 12S MiFish GenBank (V2/V3) dari 38 spesies, semua dari spesimen luar Indonesia atau asal kosong, sehingga klaim yang bertumpu padanya tidak pernah "Aman" (R-DEC-09). Checklist 62 baris: 24 primer (v0.2, D-032), 27 sekunder, 11 berita. Spesies berreferensi: Matano 10/32, Mahalona 5/10, Towuti 6/19, Masapi 1/1. **Cakupan endemik 0/19**. v0.1/v0.2 tetap utuh |
-| Demo | Data dan kamus **SIMULASI** di `data/demo/matano_SIMULASI_v3/`; hasil cadangan di `precomputed/` |
+| Kamus Indonesia `data/reference/v0.4` (D-035, Diusulkan) | Kamus bawaan **nasional**: 966 sekuens 12S MiFish dari 630 spesies (100 dari spesimen bertanda Indonesia) + checklist Malili dan Laut Indonesia (FishBase). v0.1–v0.3 tetap utuh |
+| Demo | **Data eDNA asli** Marwayana dkk. 2022 (MiFish-U, terumbu Indonesia, CC0) lewat tombol "Muat data eDNA asli Indonesia" (D-036), dan demo **SIMULASI** Matano berlabel |
 | Fitur P1/P2 (D-031) | Verifikasi kode laporan, catatan ahli, usulan sekuens, peta lokasi tersamar, tampilan ponsel, CI, cocok ulang, agregasi celah, templat lab (`templates/`) |
 | Validasi | LOSO r0.4 di `validation/results/`: Malili v0.3 (n 65) M3 0,092 vs baseline BLAST-97% 0,462, M2 0,908; Lake St. Pierre `CA-QC` (mode validasi, n 234) M3 0,197 vs 0,419, M2 0,803. M1 = 0 bersifat struktural (tidak ada spesimen `ID`, D-034). Juga LOSO pustaka 12S Guyana (Teleo1/12S-V5). Bukan bukti akurasi MiFish Indonesia |
 

@@ -129,3 +129,12 @@ Cara manual `scripts/fetch_instructions.md` §6, untuk `docs/13_PROMPT_PENGGABUN
 | lsp12s_genbank | lsp12s_mitohelper\genbank_flat\headers_013.gb | https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi (rettype=gb, seq_start=1, seq_stop=1) | 2026-10-25 | 00340c86999f323d… | GenBank-public; kebijakan NCBI https://www.ncbi.nlm.nih.gov/home/about/policies/ | 50 aksesi tanpa voucher/negara di esummary |
 | lsp12s_genbank | lsp12s_mitohelper\genbank_flat\headers_014.gb | https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi (rettype=gb, seq_start=1, seq_stop=1) | 2026-10-25 | f228bea9fb11e825… | GenBank-public; kebijakan NCBI https://www.ncbi.nlm.nih.gov/home/about/policies/ | 50 aksesi tanpa voucher/negara di esummary |
 | lsp12s_genbank | lsp12s_mitohelper\genbank_flat\headers_015.gb | https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi (rettype=gb, seq_start=1, seq_stop=1) | 2026-10-25 | ee75e170566fab9d… | GenBank-public; kebijakan NCBI https://www.ncbi.nlm.nih.gov/home/about/policies/ | 30 aksesi tanpa voucher/negara di esummary |
+| genbank_country | tropis\genbank_country\2026-10-25\manifest.json | NCBI GenBank nuccore (E-utilities) | 2026-10-25 | manifest 227f2ee44dd92a07adaa85fae80b358b93e9c81d64b8fa3188c408e15a08b9ca | Kebijakan NCBI: tanpa batasan pemakaian, tanpa jaminan hak pihak ketiga | 6152 rekaman 12S/mitogenom dari 12 negara |
+
+## Unduhan manual pengguna 25 Oktober 2026 pukul 06:59 (WIB): eDNA asli Indonesia
+
+| File | Sumber | SHA-256 | Lisensi |
+|---|---|---|---|
+| raw/edna_indonesia_dryad_D12T1B/anacapa_output.zip | Dryad doi:10.5068/D12T1B (Marwayana dkk. 2022, *Environmental DNA* doi:10.1002/edn3.257); diunduh manual oleh pengguna karena API unduhan Dryad membalas 401 | feffb8f06d9d966193c9c526922eaf7dc54e5d04faff762cd685ce7f2507615c | CC0 1.0 |
+
+Diolah oleh `scripts/import_marwayana2022.py` ke `data/edna_asli/marwayana2022_mifishu/` (D-036).

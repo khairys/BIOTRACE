@@ -290,3 +290,19 @@ Rincian bukti dan gerbang implementasi: [11 — Audit Kesiapan](11_AUDIT_KESIAPA
   9. 12 sekuens identik lintas spesies di v0.3: periksa kemungkinan salah identifikasi di GenBank.
   10. Celah data utama: sekuens spesimen Indonesia bervoucher (V1/V2) untuk spesies endemik Malili.
 - Status ilmiah: usulan tim, belum dikalibrasi ahli.
+
+### D-035 — Kamus Indonesia v0.4 nasional dari panen GenBank tropis `[MVP]`
+- Tanggal: 2026-10-25 · Status: **Diusulkan** · Dikerjakan: Claude Code atas instruksi Agathan ("saya tidak mau simulasi"). Perlu persetujuan Bagus (Backend & data) dan tinjauan ahli.
+- Isi: v0.3 diwarisi + sekuens GenBank hasil panen (docs/16) untuk spesies yang tercatat di Indonesia menurut FishBase v25.04. 966 sekuens 12S MiFish diterima dari 630 spesies; 100 dari spesimen bertanda Indonesia. Perairan baru `LAUT_INDONESIA` dengan checklist FishBase tingkat negara (spesies laut/payau, `source_quality = primer` karena file sumber ada di `raw/`). Status invasif dari transkripsi Permen KP 19/2020 (belum dicek manusia).
+- Aturan voucher: V2 hanya bila `/specimen_voucher` ada; rekaman tanpa voucher ditolak (5.423), karena header REFERENCE belum diunduh untuk menilai V3. 2.412 rekaman tanpa daerah MiFish ditandai. Pemotongan MiFish lewat `trim_mifish_fast`, diverifikasi identik dengan `trim_mifish` pada sampel setiap build.
+- Keterbatasan: panen GenBank per spesies air tawar/laut dan aksesi dari paper belum lengkap saat dibangun; checklist laut tingkat negara, bukan per lokasi; sinonimi FishBase–GenBank tanpa tinjauan ahli.
+- Kamus bawaan menjadi v0.4 (API, CLI). v0.1–v0.3 tidak diubah (A12). Builder: `scripts/prepare_v04.py`.
+
+### D-036 — Data eDNA asli Indonesia untuk demo; koordinat/tanggal sampel boleh kosong `[MVP]`
+- Tanggal: 2026-10-25 · Status: **Diusulkan** · Instruksi: Agathan (demo dengan data asli, bukan simulasi).
+- Data: Marwayana dkk. 2022 (Dryad 10.5068/D12T1B, CC0), keluaran Anacapa MiFish-U dari 39 lokasi terumbu di 7 wilayah Indonesia. Adapter `scripts/import_marwayana2022.py` → `data/edna_asli/marwayana2022_mifishu/` (1.935 ASV ikan, 120 sampel termasuk 4 blank, penamaan lab asli sebagai `taxonomy.csv`).
+- Perubahan skema: `Sample.latitude`, `longitude`, `collection_date` boleh kosong (string kosong = tidak ada). V-06 menjadi satu peringatan ringkas "koordinat tidak tersedia"; peta melewati lokasi tanpa koordinat. Tidak ada nilai yang ditebak (A1).
+- Asumsi konservatif yang tercatat di README data: semua sampel dan blank satu batch ekstraksi (sumber tidak mencantumkan batch); jenis blank dicatat sebagai `kontrol_negatif_ekstraksi` (jenis tidak dinyatakan); sampel `.star` dibuang; ASV dengan total bacaan lapangan < `scoring.min_total_reads` dibuang.
+- Hasil run (kamus v0.4, r0.4): 4.354 klaim, 152 taksa; aman 0, dengan catatan 1.685 (180 di antaranya bernilai A–B tetapi R-DEC-09 karena referensi hanya dari spesimen luar Indonesia), wajib verifikasi 1, jangan dipakai 2.668 (sebagian besar bacaan per lokasi < 10 dan nilai D). Dari nama spesies lab, 3.971 diturunkan ke genus/tidak dikenal.
+- Tombol "Muat data eDNA asli Indonesia" di halaman Unggah; hasil pra-hitung terverifikasi di `precomputed/`. Demo SIMULASI tetap tersedia dan berlabel.
+- Perlu: transkripsi koordinat/tanggal dari Tabel S1 paper; konfirmasi batch dan jenis blank dari penulis.

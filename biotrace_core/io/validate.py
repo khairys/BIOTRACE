@@ -163,6 +163,7 @@ def load_inputs(
     negative_batches = {
         s.extraction_batch for s in data.samples if s.sample_type.startswith("kontrol_negatif")
     }
+    no_coordinates: list[str] = []
     for sample in data.samples:
         if sample.sample_type == "sampel":
             if sample.waterbody_id not in waterbodies:
@@ -171,13 +172,24 @@ def load_inputs(
             if sample.replicate is None:
                 issue(data.report, "V-01", "Replikat wajib untuk sampel lapangan.")
             replicate_keys.append((sample.site_id, sample.replicate))
-        if not (-90 <= sample.latitude <= 90 and -180 <= sample.longitude <= 180):
+        if sample.latitude is None or sample.longitude is None:
+            if sample.sample_type == "sampel":
+                no_coordinates.append(sample.sample_id)
+        elif not (-90 <= sample.latitude <= 90 and -180 <= sample.longitude <= 180):
             issue(
                 data.report,
                 "V-06",
                 f"Koordinat di luar rentang pada {sample.sample_id}.",
                 "warning",
             )
+    if no_coordinates:
+        issue(
+            data.report,
+            "V-06",
+            f"Koordinat tidak tersedia pada {len(no_coordinates)} sampel lapangan "
+            f"(mis. {', '.join(sorted(no_coordinates)[:3])}); tidak ditebak.",
+            "warning",
+        )
     if any(len(values) > 1 for values in sites.values()):
         issue(data.report, "V-04", "Satu site_id memetakan lebih dari satu perairan.")
     if len(replicate_keys) != len(set(replicate_keys)):

@@ -3,7 +3,7 @@
 from datetime import date
 from typing import Literal
 
-from pydantic import BaseModel, ConfigDict, Field
+from pydantic import BaseModel, ConfigDict, Field, field_validator
 
 Decision = Literal["safe", "with_note", "must_verify", "do_not_use"]
 Rank = Literal["species", "complex", "genus", "family", "order", "unknown", "hybrid_alias"]
@@ -42,9 +42,10 @@ class Sample(Model):
     sample_id: str = Field(min_length=1)
     site_id: str = Field(min_length=1)
     waterbody_id: str = Field(min_length=1)
-    latitude: float
-    longitude: float
-    collection_date: date
+    # D-036: boleh kosong bila sumber data publik tidak menyediakannya (tidak ditebak).
+    latitude: float | None = None
+    longitude: float | None = None
+    collection_date: date | None = None
     sample_type: Literal[
         "sampel",
         "kontrol_negatif_lapangan",
@@ -58,6 +59,11 @@ class Sample(Model):
     pcr_batch: str = ""
     notes: str = ""
     is_simulated: bool = False
+
+    @field_validator("latitude", "longitude", "collection_date", mode="before")
+    @classmethod
+    def _blank_is_missing(cls, value: object) -> object:
+        return None if isinstance(value, str) and not value.strip() else value
 
 
 class LabTaxonomy(Model):

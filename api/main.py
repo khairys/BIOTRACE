@@ -67,6 +67,11 @@ DEMO = ROOT / "data/demo/matano_SIMULASI_v3"
 DEMO_ID = "matano_sim_v3"
 # Offline demo fallback is tied to the active rules version (D-030).
 PRECOMPUTED_NAME = f"matano_SIMULASI_v3_{load_rules().rules_version}"
+# Demo DATA ASLI (D-036): eDNA MiFish-U Marwayana dkk. 2022 (Dryad 10.5068/D12T1B, CC0) + kamus v0.4.
+REAL_DEMO_ID = "edna_asli_marwayana2022"
+REAL_DEMO = ROOT / "data/edna_asli/marwayana2022_mifishu"
+REAL_REF = ROOT / "data/reference/v0.4"
+REAL_PRECOMPUTED_NAME = f"edna_asli_marwayana2022_{load_rules().rules_version}_v0.4"
 
 
 def runs_root() -> Path:
@@ -74,7 +79,7 @@ def runs_root() -> Path:
 
 
 def reference_root() -> Path:
-    return Path(os.environ.get("BIOTRACE_REF_DIR", str(ROOT / "data/reference/v0.3"))).resolve()
+    return Path(os.environ.get("BIOTRACE_REF_DIR", str(ROOT / "data/reference/v0.4"))).resolve()
 
 
 def error_response(
@@ -234,8 +239,42 @@ async def create_run(
     )
 
 
+def _from_precomputed(folder: Path) -> RunResult:
+    result = read_run(folder)
+    root = runs_root()
+    root.mkdir(parents=True, exist_ok=True)
+    destination = root / result.run_id
+    if not destination.exists():
+        shutil.copytree(folder, destination)
+    return result
+
+
 @app.post("/api/runs/demo/{demo_id}", response_model=RunCreated)
 def create_demo_run(demo_id: str) -> RunCreated:
+    if demo_id == REAL_DEMO_ID:
+        # Analisis penuh butuh beberapa menit; hasil pra-hitung terverifikasi dipakai bila ada.
+        precomputed = ROOT / "precomputed" / REAL_PRECOMPUTED_NAME
+        if precomputed.exists() and verify_run(precomputed)["valid"]:
+            result = _from_precomputed(precomputed)
+            return RunCreated(
+                run_id=result.run_id,
+                validation=result.validation,
+                is_simulated=False,
+                precomputed=True,
+            )
+        if not executable("blastn"):
+            raise HTTPException(503, "BLAST tidak tersedia dan hasil data asli belum dipra-hitung.")
+        result = run_analysis(
+            REAL_DEMO / "reads.csv",
+            REAL_DEMO / "metadata.csv",
+            REAL_DEMO / "asv.fasta",
+            REAL_DEMO / "taxonomy.csv",
+            None,
+            REAL_REF,
+            out_root=runs_root(),
+            mode="normal",
+        )
+        return RunCreated(run_id=result.run_id, validation=result.validation, is_simulated=False)
     if demo_id != DEMO_ID:
         raise HTTPException(404, "Demo tidak ditemukan.")
     if not executable("blastn"):

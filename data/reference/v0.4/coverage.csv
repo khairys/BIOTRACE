@@ -1,0 +1,1190 @@
+waterbody_id,genus,n,r,p_missing,missing_species,is_simulated
+LAUT_INDONESIA,Abalistes,2,1,0.5,['Abalistes filamentosus'],False
+LAUT_INDONESIA,Abantennarius,5,0,1.0,"['Abantennarius coccineus', 'Abantennarius dorehensis', 'Abantennarius duescus', 'Abantennarius nummifer', 'Abantennarius rosaceus']",False
+LAUT_INDONESIA,Ablabys,2,1,0.5,['Ablabys macracanthus'],False
+LAUT_INDONESIA,Abudefduf,7,6,0.14285714285714285,['Abudefduf lorenzi'],False
+LAUT_INDONESIA,Acanthaphritis,1,0,1.0,['Acanthaphritis grandisquamis'],False
+LAUT_INDONESIA,Acanthocepola,3,2,0.3333333333333333,['Acanthocepola abbreviata'],False
+LAUT_INDONESIA,Acanthochromis,1,1,0.0,[],False
+LAUT_INDONESIA,Acanthocybium,1,1,0.0,[],False
+LAUT_INDONESIA,Acanthopagrus,1,1,0.0,[],False
+LAUT_INDONESIA,Acanthoplesiops,2,0,1.0,"['Acanthoplesiops echinatus', 'Acanthoplesiops hiatti']",False
+LAUT_INDONESIA,Acanthosphex,1,0,1.0,['Acanthosphex leurynnis'],False
+LAUT_INDONESIA,Acanthurus,25,20,0.2,"['Acanthurus auranticavus', 'Acanthurus fowleri', 'Acanthurus japonicus', 'Acanthurus leucosternon', 'Acanthurus tristis']",False
+LAUT_INDONESIA,Acentrogobius,11,5,0.5454545454545454,"['Acentrogobius audax', 'Acentrogobius cenderawasih', 'Acentrogobius chlorostigmatoides', 'Acentrogobius cyanomos', 'Acentrogobius limarius', 'Acentrogobius viridipunctatus']",False
+LAUT_INDONESIA,Acentronura,1,0,1.0,['Acentronura breviperula'],False
+LAUT_INDONESIA,Achiroides,2,0,1.0,"['Achiroides leucorhynchos', 'Achiroides melanorhynchus']",False
+LAUT_INDONESIA,Acreichthys,3,1,0.6666666666666666,"['Acreichthys hajam', 'Acreichthys radiatus']",False
+LAUT_INDONESIA,Acropoma,1,0,1.0,['Acropoma musorstom'],False
+LAUT_INDONESIA,Adelotremus,1,0,1.0,['Adelotremus deloachi'],False
+LAUT_INDONESIA,Aeoliscus,1,0,1.0,['Aeoliscus strigatus'],False
+LAUT_INDONESIA,Aesopia,1,0,1.0,['Aesopia cornuta'],False
+LAUT_INDONESIA,Aethaloperca,1,1,0.0,[],False
+LAUT_INDONESIA,Aetobatus,2,0,1.0,"['Aetobatus flagellum', 'Aetobatus ocellatus']",False
+LAUT_INDONESIA,Aetomylaeus,4,0,1.0,"['Aetomylaeus maculatus', 'Aetomylaeus milvus', 'Aetomylaeus nichofii', 'Aetomylaeus vespertilio']",False
+LAUT_INDONESIA,Aioliops,2,0,1.0,"['Aioliops megastigma', 'Aioliops novaeguineae']",False
+LAUT_INDONESIA,Akheilos,1,0,1.0,['Akheilos suwartanai'],False
+LAUT_INDONESIA,Albula,2,2,0.0,[],False
+LAUT_INDONESIA,Albulichthys,1,0,1.0,['Albulichthys albuloides'],False
+LAUT_INDONESIA,Aldrovandia,1,0,1.0,['Aldrovandia mediorostris'],False
+LAUT_INDONESIA,Alectis,1,1,0.0,[],False
+LAUT_INDONESIA,Alepes,4,3,0.25,['Alepes melanoptera'],False
+LAUT_INDONESIA,Alepisaurus,1,1,0.0,[],False
+LAUT_INDONESIA,Alepocephalus,1,0,1.0,['Alepocephalus bicolor'],False
+LAUT_INDONESIA,Alionematichthys,3,1,0.6666666666666666,"['Alionematichthys plicatosurculus', 'Alionematichthys riukiuensis']",False
+LAUT_INDONESIA,Allenbatrachus,2,0,1.0,"['Allenbatrachus grunniens', 'Allenbatrachus reticulatus']",False
+LAUT_INDONESIA,Allocyttus,1,0,1.0,['Allocyttus verrucosus'],False
+LAUT_INDONESIA,Alopias,1,1,0.0,[],False
+LAUT_INDONESIA,Alticus,1,0,1.0,['Alticus saliens'],False
+LAUT_INDONESIA,Aluterus,2,2,0.0,[],False
+LAUT_INDONESIA,Amanses,1,1,0.0,[],False
+LAUT_INDONESIA,Ambassis,11,5,0.5454545454545454,"['Ambassis agrammus', 'Ambassis dussumieri', 'Ambassis gymnocephalus', 'Ambassis kopsii', 'Ambassis miops', 'Ambassis nalua']",False
+LAUT_INDONESIA,Amblycirrhitus,3,0,1.0,"['Amblycirrhitus bimacula', 'Amblycirrhitus oxyrhynchos', 'Amblycirrhitus pinos']",False
+LAUT_INDONESIA,Amblyeleotris,18,5,0.7222222222222222,"['Amblyeleotris arcupinna', 'Amblyeleotris aurora', 'Amblyeleotris diagonalis', 'Amblyeleotris gymnocephala', 'Amblyeleotris latifasciata', 'Amblyeleotris masuii', 'Amblyeleotris melanocephala', 'Amblyeleotris ogasawarensis', 'Amblyeleotris periophthalma', 'Amblyeleotris randalli', 'Amblyeleotris rhyax', 'Amblyeleotris rubrimarginata', 'Amblyeleotris steinitzi']",False
+LAUT_INDONESIA,Amblygaster,3,1,0.6666666666666666,"['Amblygaster clupeoides', 'Amblygaster leiogaster']",False
+LAUT_INDONESIA,Amblyglyphidodon,7,3,0.5714285714285714,"['Amblyglyphidodon batunaorum', 'Amblyglyphidodon flavopurpureus', 'Amblyglyphidodon indicus', 'Amblyglyphidodon ternatensis']",False
+LAUT_INDONESIA,Amblygobius,12,3,0.75,"['Amblygobius albimaculatus', 'Amblygobius buanensis', 'Amblygobius bynoensis', 'Amblygobius cheraphilus', 'Amblygobius decussatus', 'Amblygobius linki', 'Amblygobius semicinctus', 'Amblygobius sphynx', 'Amblygobius stethophthalmus']",False
+LAUT_INDONESIA,Amblypomacentrus,4,3,0.25,['Amblypomacentrus tricinctus'],False
+LAUT_INDONESIA,Amioides,1,1,0.0,[],False
+LAUT_INDONESIA,Amphiprion,14,9,0.35714285714285715,"['Amphiprion ephippium', 'Amphiprion leucokranos', 'Amphiprion percula', 'Amphiprion polymnus', 'Amphiprion sebae']",False
+LAUT_INDONESIA,Amsichthys,1,0,1.0,['Amsichthys knighti'],False
+LAUT_INDONESIA,Anabas,1,1,0.0,[],False
+LAUT_INDONESIA,Anacanthus,1,1,0.0,[],False
+LAUT_INDONESIA,Anampses,7,6,0.14285714285714285,['Anampses lineatus'],False
+LAUT_INDONESIA,Anaora,1,0,1.0,['Anaora tentaculata'],False
+LAUT_INDONESIA,Anarchias,1,0,1.0,['Anarchias allardicei'],False
+LAUT_INDONESIA,Ancistrogobius,3,1,0.6666666666666666,"['Ancistrogobius dipus', 'Ancistrogobius yanoi']",False
+LAUT_INDONESIA,Andamia,4,1,0.75,"['Andamia cyclocheilus', 'Andamia heteroptera', 'Andamia reyi']",False
+LAUT_INDONESIA,Anguilla,7,2,0.7142857142857143,"['Anguilla bengalensis', 'Anguilla bicolor', 'Anguilla celebesensis', 'Anguilla nebulosa', 'Anguilla obscura']",False
+LAUT_INDONESIA,Anodontostoma,3,0,1.0,"['Anodontostoma chacunda', 'Anodontostoma selangkat', 'Anodontostoma thailandiae']",False
+LAUT_INDONESIA,Anomalops,1,0,1.0,['Anomalops katoptron'],False
+LAUT_INDONESIA,Anoplogaster,1,1,0.0,[],False
+LAUT_INDONESIA,Anoxypristis,1,0,1.0,['Anoxypristis cuspidata'],False
+LAUT_INDONESIA,Antennarius,7,0,1.0,"['Antennarius biocellatus', 'Antennarius commerson', 'Antennarius hispidus', 'Antennarius maculatus', 'Antennarius pictus', 'Antennarius randalli', 'Antennarius striatus']",False
+LAUT_INDONESIA,Antennatus,2,1,0.5,['Antennatus linearis'],False
+LAUT_INDONESIA,Antigonia,4,3,0.25,['Antigonia malayana'],False
+LAUT_INDONESIA,Antipodocottus,1,0,1.0,['Antipodocottus mesembrinus'],False
+LAUT_INDONESIA,Anyperodon,1,1,0.0,[],False
+LAUT_INDONESIA,Aphareus,2,2,0.0,[],False
+LAUT_INDONESIA,Apistus,1,1,0.0,[],False
+LAUT_INDONESIA,Aplocheilus,1,0,1.0,['Aplocheilus panchax'],False
+LAUT_INDONESIA,Apocryptodon,1,0,1.0,['Apocryptodon madurensis'],False
+LAUT_INDONESIA,Apogon,11,2,0.8181818181818182,"['Apogon ceramensis', 'Apogon coccineus', 'Apogon dianthus', 'Apogon hypselonotus', 'Apogon indicus', 'Apogon posterofasciatus', 'Apogon seminigracaudus', 'Apogon semiornatus', 'Apogon talboti']",False
+LAUT_INDONESIA,Apogonichthyoides,9,0,1.0,"['Apogonichthyoides brevicaudatus', 'Apogonichthyoides cantoris', 'Apogonichthyoides chrysurus', 'Apogonichthyoides erdmanni', 'Apogonichthyoides melas', 'Apogonichthyoides nigripinnis', 'Apogonichthyoides pseudotaeniatus', 'Apogonichthyoides timorensis', 'Apogonichthyoides umbratilis']",False
+LAUT_INDONESIA,Apogonichthys,2,2,0.0,[],False
+LAUT_INDONESIA,Apolemichthys,2,1,0.5,['Apolemichthys trimaculatus'],False
+LAUT_INDONESIA,Aprion,1,1,0.0,[],False
+LAUT_INDONESIA,Apristurus,3,0,1.0,"['Apristurus platyrhynchus', 'Apristurus sibogae', 'Apristurus spongiceps']",False
+LAUT_INDONESIA,Apterichtus,2,1,0.5,['Apterichtus nariculus'],False
+LAUT_INDONESIA,Apterygocampus,1,0,1.0,['Apterygocampus epinnulatus'],False
+LAUT_INDONESIA,Archamia,1,0,1.0,['Archamia bleekeri'],False
+LAUT_INDONESIA,Argyripnus,1,0,1.0,['Argyripnus pharos'],False
+LAUT_INDONESIA,Argyrops,2,0,1.0,"['Argyrops bleekeri', 'Argyrops spinifer']",False
+LAUT_INDONESIA,Argyrosomus,1,0,1.0,['Argyrosomus amoyensis'],False
+LAUT_INDONESIA,Ariomma,2,2,0.0,[],False
+LAUT_INDONESIA,Ariosoma,4,2,0.5,"['Ariosoma anago', 'Ariosoma anagoides']",False
+LAUT_INDONESIA,Arius,9,1,0.8888888888888888,"['Arius arius', 'Arius leptonotacanthus', 'Arius macronotacanthus', 'Arius microcephalus', 'Arius subrostratus', 'Arius sumatranus', 'Arius utik', 'Arius venosus']",False
+LAUT_INDONESIA,Arnoglossus,7,1,0.8571428571428571,"['Arnoglossus aspilos', 'Arnoglossus dalgleishi', 'Arnoglossus elongatus', 'Arnoglossus macrolophus', 'Arnoglossus polyspilus', 'Arnoglossus tapeinosoma']",False
+LAUT_INDONESIA,Arothron,9,8,0.1111111111111111,['Arothron caeruleopunctatus'],False
+LAUT_INDONESIA,Aseraggodes,14,0,1.0,"['Aseraggodes albidus', 'Aseraggodes beauforti', 'Aseraggodes chapleaui', 'Aseraggodes cyaneus', 'Aseraggodes dubius', 'Aseraggodes filiger', 'Aseraggodes kaianus', 'Aseraggodes longipinnis', 'Aseraggodes matsuurai', 'Aseraggodes melanostictus', 'Aseraggodes microlepidotus', 'Aseraggodes suzumotoi', 'Aseraggodes texturatus', 'Aseraggodes zizette']",False
+LAUT_INDONESIA,Aspasmichthys,1,0,1.0,['Aspasmichthys alorensis'],False
+LAUT_INDONESIA,Aspericorvina,1,0,1.0,['Aspericorvina jubata'],False
+LAUT_INDONESIA,Aspidontus,2,2,0.0,[],False
+LAUT_INDONESIA,Aspistor,1,0,1.0,['Aspistor hardenbergi'],False
+LAUT_INDONESIA,Assurger,1,1,0.0,[],False
+LAUT_INDONESIA,Asterorhombus,2,0,1.0,"['Asterorhombus cocosensis', 'Asterorhombus intermedius']",False
+LAUT_INDONESIA,Asterropteryx,9,1,0.8888888888888888,"['Asterropteryx atripes', 'Asterropteryx bipunctata', 'Asterropteryx ensifera', 'Asterropteryx ovata', 'Asterropteryx profunda', 'Asterropteryx senoui', 'Asterropteryx spinosa', 'Asterropteryx striata']",False
+LAUT_INDONESIA,Astronesthes,6,0,1.0,"['Astronesthes chrysophekadion', 'Astronesthes cyaneus', 'Astronesthes ijimai', 'Astronesthes indica', 'Astronesthes martensii', 'Astronesthes splendidus']",False
+LAUT_INDONESIA,Ataxolepis,1,0,1.0,['Ataxolepis apus'],False
+LAUT_INDONESIA,Atelomycterus,3,1,0.6666666666666666,"['Atelomycterus baliensis', 'Atelomycterus erdmanni']",False
+LAUT_INDONESIA,Atherinomorus,4,2,0.5,"['Atherinomorus endrachtensis', 'Atherinomorus lineatus']",False
+LAUT_INDONESIA,Atherion,1,1,0.0,[],False
+LAUT_INDONESIA,Atrobucca,2,0,1.0,"['Atrobucca kyushini', 'Atrobucca nibe']",False
+LAUT_INDONESIA,Atrophacanthus,1,0,1.0,['Atrophacanthus japonicus'],False
+LAUT_INDONESIA,Atropus,5,4,0.2,['Atropus aurochs'],False
+LAUT_INDONESIA,Atrosalarias,2,1,0.5,['Atrosalarias holomelas'],False
+LAUT_INDONESIA,Atule,1,1,0.0,[],False
+LAUT_INDONESIA,Aulopareia,1,0,1.0,['Aulopareia unicolor'],False
+LAUT_INDONESIA,Aulostomus,1,1,0.0,[],False
+LAUT_INDONESIA,Aulotrachichthys,1,0,1.0,['Aulotrachichthys latus'],False
+LAUT_INDONESIA,Aurigequula,2,1,0.5,['Aurigequula longispinis'],False
+LAUT_INDONESIA,Austronibea,1,0,1.0,['Austronibea oedogenys'],False
+LAUT_INDONESIA,Auxis,2,2,0.0,[],False
+LAUT_INDONESIA,Avocettina,1,1,0.0,[],False
+LAUT_INDONESIA,Awaous,1,1,0.0,[],False
+LAUT_INDONESIA,Azurina,2,1,0.5,['Azurina elerae'],False
+LAUT_INDONESIA,Bahaba,1,0,1.0,['Bahaba polykladiskos'],False
+LAUT_INDONESIA,Bajacalifornia,1,0,1.0,['Bajacalifornia calcarata'],False
+LAUT_INDONESIA,Balistapus,1,1,0.0,[],False
+LAUT_INDONESIA,Balistoides,2,2,0.0,[],False
+LAUT_INDONESIA,Banjos,1,0,1.0,['Banjos banjos'],False
+LAUT_INDONESIA,Barathrodemus,1,0,1.0,['Barathrodemus nasutus'],False
+LAUT_INDONESIA,Barbuligobius,1,1,0.0,[],False
+LAUT_INDONESIA,Bascanichthys,3,0,1.0,"['Bascanichthys filaria', 'Bascanichthys longipinnis', 'Bascanichthys sibogae']",False
+LAUT_INDONESIA,Bassozetus,1,0,1.0,['Bassozetus elongatus'],False
+LAUT_INDONESIA,Bathophilus,1,0,1.0,['Bathophilus novicki'],False
+LAUT_INDONESIA,Bathycallionymus,1,0,1.0,['Bathycallionymus kaianus'],False
+LAUT_INDONESIA,Bathycongrus,2,0,1.0,"['Bathycongrus guttulatus', 'Bathycongrus odontostomus']",False
+LAUT_INDONESIA,Bathygadus,2,0,1.0,"['Bathygadus dubiosus', 'Bathygadus spongiceps']",False
+LAUT_INDONESIA,Bathygobius,9,6,0.3333333333333333,"['Bathygobius laddi', 'Bathygobius meggitti', 'Bathygobius mero']",False
+LAUT_INDONESIA,Bathylagoides,1,0,1.0,['Bathylagoides argyrogaster'],False
+LAUT_INDONESIA,Bathymyrus,1,0,1.0,['Bathymyrus smithi'],False
+LAUT_INDONESIA,Bathypterois,1,0,1.0,['Bathypterois parini'],False
+LAUT_INDONESIA,Bathyraja,2,0,1.0,"['Bathyraja andriashevi', 'Bathyraja tzinovskii']",False
+LAUT_INDONESIA,Bathysauropsis,1,0,1.0,['Bathysauropsis malayanus'],False
+LAUT_INDONESIA,Bathysphyraenops,1,0,1.0,['Bathysphyraenops declivifrons'],False
+LAUT_INDONESIA,Bathytroctes,2,0,1.0,"['Bathytroctes pappenheimi', 'Bathytroctes zugmayeri']",False
+LAUT_INDONESIA,Bathyuroconger,3,1,0.6666666666666666,"['Bathyuroconger fowleri', 'Bathyuroconger parvibranchialis']",False
+LAUT_INDONESIA,Batrachocephalus,1,0,1.0,['Batrachocephalus mino'],False
+LAUT_INDONESIA,Batrachomoeus,1,0,1.0,['Batrachomoeus trispinosus'],False
+LAUT_INDONESIA,Beaglichthys,1,0,1.0,['Beaglichthys bleekeri'],False
+LAUT_INDONESIA,Belobranchus,1,1,0.0,[],False
+LAUT_INDONESIA,Belonepterygion,1,1,0.0,[],False
+LAUT_INDONESIA,Belonoperca,1,1,0.0,[],False
+LAUT_INDONESIA,Bembradium,1,0,1.0,['Bembradium roseum'],False
+LAUT_INDONESIA,Bembras,1,0,1.0,['Bembras megacephala'],False
+LAUT_INDONESIA,Bembrops,4,2,0.5,"['Bembrops filiferus', 'Bembrops nelsoni']",False
+LAUT_INDONESIA,Benthenchelys,1,0,1.0,['Benthenchelys indicus'],False
+LAUT_INDONESIA,Benthodesmus,5,1,0.8,"['Benthodesmus macrophthalmus', 'Benthodesmus neglectus', 'Benthodesmus tuckeri', 'Benthodesmus vityazi']",False
+LAUT_INDONESIA,Benthosema,3,2,0.3333333333333333,['Benthosema fibulatum'],False
+LAUT_INDONESIA,Bertella,1,0,1.0,['Bertella idiomorpha'],False
+LAUT_INDONESIA,Bhanotia,2,0,1.0,"['Bhanotia fasciolata', 'Bhanotia pauciradiata']",False
+LAUT_INDONESIA,Biendongella,1,0,1.0,['Biendongella hemilissa'],False
+LAUT_INDONESIA,Bleekeria,2,0,1.0,"['Bleekeria mitsukurii', 'Bleekeria viridianguilla']",False
+LAUT_INDONESIA,Blenniella,8,0,1.0,"['Blenniella bilitonensis', 'Blenniella caudolineata', 'Blenniella chrysospilos', 'Blenniella cyanostigma', 'Blenniella interrupta', 'Blenniella leopardus', 'Blenniella paula', 'Blenniella periophthalmus']",False
+LAUT_INDONESIA,Bodianus,12,2,0.8333333333333334,"['Bodianus anthioides', 'Bodianus bilunulatus', 'Bodianus bimaculatus', 'Bodianus dictynna', 'Bodianus izuensis', 'Bodianus leucosticticus', 'Bodianus masudai', 'Bodianus mesothorax', 'Bodianus rubrisos', 'Bodianus sepiacaudus']",False
+LAUT_INDONESIA,Boehlkenchelys,1,0,1.0,['Boehlkenchelys longidentata'],False
+LAUT_INDONESIA,Boesemania,1,0,1.0,['Boesemania microlepis'],False
+LAUT_INDONESIA,Bolbometopon,1,0,1.0,['Bolbometopon muricatum'],False
+LAUT_INDONESIA,Boleophthalmus,1,0,1.0,['Boleophthalmus boddarti'],False
+LAUT_INDONESIA,Bolinichthys,1,0,1.0,['Bolinichthys pyrsobolus'],False
+LAUT_INDONESIA,Bostrychus,2,1,0.5,['Bostrychus zonatus'],False
+LAUT_INDONESIA,Bothus,4,1,0.75,"['Bothus mancus', 'Bothus ocellatus', 'Bothus pantherinus']",False
+LAUT_INDONESIA,Brachaluteres,2,0,1.0,"['Brachaluteres taylori', 'Brachaluteres ulvarum']",False
+LAUT_INDONESIA,Brachirus,4,0,1.0,"['Brachirus aspilos', 'Brachirus macrolepis', 'Brachirus orientalis', 'Brachirus panoides']",False
+LAUT_INDONESIA,Brachyamblyopus,1,0,1.0,['Brachyamblyopus brachysoma'],False
+LAUT_INDONESIA,Brachypleura,1,0,1.0,['Brachypleura novaezeelandiae'],False
+LAUT_INDONESIA,Brachypterois,1,0,1.0,['Brachypterois serrulata'],False
+LAUT_INDONESIA,Brachysomophis,4,0,1.0,"['Brachysomophis cirrocheilos', 'Brachysomophis crocodilinus', 'Brachysomophis henshawi', 'Brachysomophis umbonis']",False
+LAUT_INDONESIA,Brama,1,1,0.0,[],False
+LAUT_INDONESIA,Branchiostegus,2,0,1.0,"['Branchiostegus australiensis', 'Branchiostegus gloerfelti']",False
+LAUT_INDONESIA,Bregmaceros,2,0,1.0,"['Bregmaceros anchovia', 'Bregmaceros nectabanus']",False
+LAUT_INDONESIA,Brevitrygon,3,0,1.0,"['Brevitrygon heterura', 'Brevitrygon imbricata', 'Brevitrygon javaensis']",False
+LAUT_INDONESIA,Brosmophyciops,1,0,1.0,['Brosmophyciops pautzkei'],False
+LAUT_INDONESIA,Brotula,1,0,1.0,['Brotula multibarbata'],False
+LAUT_INDONESIA,Bryaninops,9,0,1.0,"['Bryaninops amplus', 'Bryaninops annella', 'Bryaninops isis', 'Bryaninops loki', 'Bryaninops natans', 'Bryaninops nexus', 'Bryaninops tigris', 'Bryaninops translucens', 'Bryaninops yongei']",False
+LAUT_INDONESIA,Bufoceratias,2,0,1.0,"['Bufoceratias microcephalus', 'Bufoceratias thele']",False
+LAUT_INDONESIA,Bulbonaricus,2,0,1.0,"['Bulbonaricus brauni', 'Bulbonaricus davaoensis']",False
+LAUT_INDONESIA,Butis,4,1,0.75,"['Butis amboinensis', 'Butis gymnopomus', 'Butis humeralis']",False
+LAUT_INDONESIA,Cabillus,3,0,1.0,"['Cabillus lacertops', 'Cabillus macrophthalmus', 'Cabillus tongarevae']",False
+LAUT_INDONESIA,Caesio,6,1,0.8333333333333334,"['Caesio caerulaurea', 'Caesio lunaris', 'Caesio teres', 'Caesio varilineata', 'Caesio xanthonota']",False
+LAUT_INDONESIA,Callechelys,2,0,1.0,"['Callechelys catostoma', 'Callechelys marmorata']",False
+LAUT_INDONESIA,Callionymus,24,2,0.9166666666666666,"['Callionymus amboina', 'Callionymus annulatus', 'Callionymus bleekeri', 'Callionymus brevianalis', 'Callionymus delicatulus', 'Callionymus enneactis', 'Callionymus filamentosus', 'Callionymus hindsii', 'Callionymus japonicus', 'Callionymus keeleyi', 'Callionymus macdonaldi', 'Callionymus melanotopterus', 'Callionymus mortenseni', 'Callionymus neptunius', 'Callionymus obscurus', 'Callionymus pleurostictus', 'Callionymus schaapii', 'Callionymus semeiophor', 'Callionymus simplicicornis', 'Callionymus superbus', 'Callionymus whiteheadi', 'Callionymus zythros']",False
+LAUT_INDONESIA,Callogobius,9,1,0.8888888888888888,"['Callogobius centrolepis', 'Callogobius clitellus', 'Callogobius crassus', 'Callogobius maculipinnis', 'Callogobius okinawae', 'Callogobius sclateri', 'Callogobius snelliusi', 'Callogobius stellatus']",False
+LAUT_INDONESIA,Calloplesiops,2,0,1.0,"['Calloplesiops altivelis', 'Calloplesiops argus']",False
+LAUT_INDONESIA,Calotomus,2,1,0.5,['Calotomus carolinus'],False
+LAUT_INDONESIA,Calumia,4,0,1.0,"['Calumia eilperinae', 'Calumia godeffroyi', 'Calumia papuensis', 'Calumia profunda']",False
+LAUT_INDONESIA,Cantherhines,3,1,0.6666666666666666,"['Cantherhines dumerilii', 'Cantherhines fronticinctus']",False
+LAUT_INDONESIA,Canthidermis,1,0,1.0,['Canthidermis maculata'],False
+LAUT_INDONESIA,Canthigaster,16,3,0.8125,"['Canthigaster amboinensis', 'Canthigaster bennetti', 'Canthigaster cyanospilota', 'Canthigaster investigatoris', 'Canthigaster janthinoptera', 'Canthigaster leoparda', 'Canthigaster ocellicincta', 'Canthigaster papua', 'Canthigaster petersii', 'Canthigaster rivulata', 'Canthigaster solandri', 'Canthigaster tyleri', 'Canthigaster valentini']",False
+LAUT_INDONESIA,Caracanthus,2,0,1.0,"['Caracanthus maculatus', 'Caracanthus unipinna']",False
+LAUT_INDONESIA,Caragobius,1,1,0.0,[],False
+LAUT_INDONESIA,Carangichthys,3,0,1.0,"['Carangichthys dinema', 'Carangichthys humerosus', 'Carangichthys oblongus']",False
+LAUT_INDONESIA,Carangoides,1,0,1.0,['Carangoides praeustus'],False
+LAUT_INDONESIA,Caranx,8,4,0.5,"['Caranx bucculentus', 'Caranx lugubris', 'Caranx melampygus', 'Caranx tille']",False
+LAUT_INDONESIA,Carapus,2,0,1.0,"['Carapus mourlani', 'Carapus sluiteri']",False
+LAUT_INDONESIA,Carcharhinus,18,2,0.8888888888888888,"['Carcharhinus albimarginatus', 'Carcharhinus amblyrhynchoides', 'Carcharhinus amblyrhynchos', 'Carcharhinus amboinensis', 'Carcharhinus borneensis', 'Carcharhinus brevipinna', 'Carcharhinus cautus', 'Carcharhinus falciformis', 'Carcharhinus hemiodon', 'Carcharhinus leucas', 'Carcharhinus longimanus', 'Carcharhinus macloti', 'Carcharhinus plumbeus', 'Carcharhinus sealei', 'Carcharhinus sorrah', 'Carcharhinus tjutjot']",False
+LAUT_INDONESIA,Carcharias,1,0,1.0,['Carcharias taurus'],False
+LAUT_INDONESIA,Caulophryne,1,0,1.0,['Caulophryne pelagica'],False
+LAUT_INDONESIA,Centriscus,2,0,1.0,"['Centriscus cristatus', 'Centriscus scutatus']",False
+LAUT_INDONESIA,Centrodraco,1,0,1.0,['Centrodraco rubellus'],False
+LAUT_INDONESIA,Centrogenys,1,0,1.0,['Centrogenys vaigiensis'],False
+LAUT_INDONESIA,Centrophorus,3,0,1.0,"['Centrophorus longipinnis', 'Centrophorus moluccensis', 'Centrophorus squamosus']",False
+LAUT_INDONESIA,Centropyge,15,6,0.6,"['Centropyge abei', 'Centropyge argi', 'Centropyge aurantia', 'Centropyge bispinosa', 'Centropyge colini', 'Centropyge flavipectoralis', 'Centropyge flavissima', 'Centropyge multispinis', 'Centropyge vrolikii']",False
+LAUT_INDONESIA,Centroscymnus,1,0,1.0,['Centroscymnus owstonii'],False
+LAUT_INDONESIA,Cephalocassis,2,0,1.0,"['Cephalocassis borneensis', 'Cephalocassis melanochir']",False
+LAUT_INDONESIA,Cephalopholis,15,3,0.8,"['Cephalopholis aitha', 'Cephalopholis cyanostigma', 'Cephalopholis formosa', 'Cephalopholis leopardus', 'Cephalopholis microprion', 'Cephalopholis miniata', 'Cephalopholis polleni', 'Cephalopholis polyspila', 'Cephalopholis sexmaculata', 'Cephalopholis sonnerati', 'Cephalopholis spiloparaea', 'Cephalopholis urodeta']",False
+LAUT_INDONESIA,Cephaloscyllium,2,0,1.0,"['Cephaloscyllium cooki', 'Cephaloscyllium pictum']",False
+LAUT_INDONESIA,Cepola,1,0,1.0,['Cepola schlegelii'],False
+LAUT_INDONESIA,Ceratias,1,0,1.0,['Ceratias uranoscopus'],False
+LAUT_INDONESIA,Ceratobregma,1,0,1.0,['Ceratobregma helenae'],False
+LAUT_INDONESIA,Cercamia,3,0,1.0,"['Cercamia cladara', 'Cercamia eremia', 'Cercamia melanogaster']",False
+LAUT_INDONESIA,Cestraeus,3,0,1.0,"['Cestraeus goldiei', 'Cestraeus oxyrhyncus', 'Cestraeus plicatilis']",False
+LAUT_INDONESIA,Cetonurus,1,0,1.0,['Cetonurus globiceps'],False
+LAUT_INDONESIA,Cetoscarus,1,0,1.0,['Cetoscarus ocellatus'],False
+LAUT_INDONESIA,Chaenogaleus,1,0,1.0,['Chaenogaleus macrostoma'],False
+LAUT_INDONESIA,Chaetodermis,1,0,1.0,['Chaetodermis penicilligerus'],False
+LAUT_INDONESIA,Chaetodon,46,2,0.9565217391304348,"['Chaetodon adiergastos', 'Chaetodon andamanensis', 'Chaetodon assarius', 'Chaetodon aureofasciatus', 'Chaetodon baronessa', 'Chaetodon bennetti', 'Chaetodon burgessi', 'Chaetodon citrinellus', 'Chaetodon collare', 'Chaetodon decussatus', 'Chaetodon ephippium', 'Chaetodon falcula', 'Chaetodon gardineri', 'Chaetodon guentheri', 'Chaetodon guttatissimus', 'Chaetodon interruptus', 'Chaetodon kleinii', 'Chaetodon lineolatus', 'Chaetodon lunula', 'Chaetodon lunulatus', 'Chaetodon madagaskariensis', 'Chaetodon melannotus', 'Chaetodon mertensii', 'Chaetodon meyeri', 'Chaetodon ocellicaudus', 'Chaetodon octofasciatus', 'Chaetodon ornatissimus', 'Chaetodon oxycephalus', 'Chaetodon pelewensis', 'Chaetodon plebeius', 'Chaetodon punctatofasciatus', 'Chaetodon reticulatus', 'Chaetodon selene', 'Chaetodon semeion', 'Chaetodon speculum', 'Chaetodon triangulum', 'Chaetodon trifascialis', 'Chaetodon trifasciatus', 'Chaetodon ulietensis', 'Chaetodon unimaculatus', 'Chaetodon vagabundus', 'Chaetodon wiebeli', 'Chaetodon xanthocephalus', 'Chaetodon xanthurus']",False
+LAUT_INDONESIA,Chaetodontoplus,6,1,0.8333333333333334,"['Chaetodontoplus chrysocephalus', 'Chaetodontoplus dimidiatus', 'Chaetodontoplus duboulayi', 'Chaetodontoplus melanosoma', 'Chaetodontoplus mesoleucus']",False
+LAUT_INDONESIA,Champsodon,6,0,1.0,"['Champsodon atridorsalis', 'Champsodon guentheri', 'Champsodon longipinnis', 'Champsodon nudivittis', 'Champsodon sagittus', 'Champsodon vorax']",False
+LAUT_INDONESIA,Channomuraena,1,0,1.0,['Channomuraena vittata'],False
+LAUT_INDONESIA,Chanos,1,0,1.0,['Chanos chanos'],False
+LAUT_INDONESIA,Chascanopsetta,1,0,1.0,['Chascanopsetta lugubris'],False
+LAUT_INDONESIA,Chauliodus,1,0,1.0,['Chauliodus sloani'],False
+LAUT_INDONESIA,Chaunax,4,0,1.0,"['Chaunax brachysomus', 'Chaunax gomoni', 'Chaunax nebulosus', 'Chaunax penicillatus']",False
+LAUT_INDONESIA,Cheilinus,5,0,1.0,"['Cheilinus chlorourus', 'Cheilinus fasciatus', 'Cheilinus oxycephalus', 'Cheilinus trilobatus', 'Cheilinus undulatus']",False
+LAUT_INDONESIA,Cheilio,1,0,1.0,['Cheilio inermis'],False
+LAUT_INDONESIA,Cheilodipterus,10,1,0.9,"['Cheilodipterus alleni', 'Cheilodipterus artus', 'Cheilodipterus intermedius', 'Cheilodipterus isostigma', 'Cheilodipterus nigrotaeniatus', 'Cheilodipterus parazonatus', 'Cheilodipterus quinquelineatus', 'Cheilodipterus singapurensis', 'Cheilodipterus zonatus']",False
+LAUT_INDONESIA,Cheilopogon,7,2,0.7142857142857143,"['Cheilopogon arcticeps', 'Cheilopogon atrisignis', 'Cheilopogon furcatus', 'Cheilopogon katoptron', 'Cheilopogon unicolor']",False
+LAUT_INDONESIA,Cheiloprion,1,0,1.0,['Cheiloprion labiatus'],False
+LAUT_INDONESIA,Chelidoperca,3,0,1.0,"['Chelidoperca flavolineata', 'Chelidoperca hirundinacea', 'Chelidoperca maculicauda']",False
+LAUT_INDONESIA,Chelmon,2,0,1.0,"['Chelmon muelleri', 'Chelmon rostratus']",False
+LAUT_INDONESIA,Chelonodontops,1,1,0.0,[],False
+LAUT_INDONESIA,Chiasmodon,1,0,1.0,['Chiasmodon braueri'],False
+LAUT_INDONESIA,Chilomycterus,1,0,1.0,['Chilomycterus reticulatus'],False
+LAUT_INDONESIA,Chiloscyllium,4,0,1.0,"['Chiloscyllium hasseltii', 'Chiloscyllium indicum', 'Chiloscyllium plagiosum', 'Chiloscyllium punctatum']",False
+LAUT_INDONESIA,Chimaera,1,0,1.0,['Chimaera ogilbyi'],False
+LAUT_INDONESIA,Chirocentrus,2,0,1.0,"['Chirocentrus dorab', 'Chirocentrus nudus']",False
+LAUT_INDONESIA,Chlorophthalmus,4,0,1.0,"['Chlorophthalmus agassizi', 'Chlorophthalmus albatrossis', 'Chlorophthalmus corniger', 'Chlorophthalmus nigromarginatus']",False
+LAUT_INDONESIA,Chlorurus,12,1,0.9166666666666666,"['Chlorurus bleekeri', 'Chlorurus bowersi', 'Chlorurus enneacanthus', 'Chlorurus japanensis', 'Chlorurus microrhinos', 'Chlorurus oedema', 'Chlorurus rhakoura', 'Chlorurus sordidus', 'Chlorurus spilurus', 'Chlorurus strongylocephalus', 'Chlorurus troschelii']",False
+LAUT_INDONESIA,Choerodon,11,1,0.9090909090909091,"['Choerodon anchorago', 'Choerodon cephalotes', 'Choerodon gomoni', 'Choerodon jordani', 'Choerodon monostigma', 'Choerodon oligacanthus', 'Choerodon robustus', 'Choerodon schoenleinii', 'Choerodon vitta', 'Choerodon zamboangae']",False
+LAUT_INDONESIA,Choeroichthys,4,0,1.0,"['Choeroichthys brachysoma', 'Choeroichthys cinctus', 'Choeroichthys hadiatyae', 'Choeroichthys sculptus']",False
+LAUT_INDONESIA,Choridactylus,1,1,0.0,[],False
+LAUT_INDONESIA,Chrionema,1,0,1.0,['Chrionema chlorotaenia'],False
+LAUT_INDONESIA,Chromileptes,1,1,0.0,[],False
+LAUT_INDONESIA,Chromis,19,3,0.8421052631578947,"['Chromis albicauda', 'Chromis athena', 'Chromis atripectoralis', 'Chromis cinerascens', 'Chromis earina', 'Chromis monochroma', 'Chromis nigroanalis', 'Chromis opercularis', 'Chromis pura', 'Chromis scotochiloptera', 'Chromis unipa', 'Chromis viridis', 'Chromis weberi', 'Chromis xanthochira', 'Chromis xanthura', 'Chromis xouthos']",False
+LAUT_INDONESIA,Chrysiptera,21,0,1.0,"['Chrysiptera arnazae', 'Chrysiptera biocellata', 'Chrysiptera bleekeri', 'Chrysiptera brownriggii', 'Chrysiptera caeruleolineata', 'Chrysiptera caesifrons', 'Chrysiptera cyanea', 'Chrysiptera ellenae', 'Chrysiptera giti', 'Chrysiptera glauca', 'Chrysiptera hemicyanea', 'Chrysiptera maurineae', 'Chrysiptera oxycephala', 'Chrysiptera parasema', 'Chrysiptera pricei', 'Chrysiptera rex', 'Chrysiptera rollandi', 'Chrysiptera springeri', 'Chrysiptera talboti', 'Chrysiptera unimaculata', 'Chrysiptera uswanasi']",False
+LAUT_INDONESIA,Chrysochir,1,0,1.0,['Chrysochir aurea'],False
+LAUT_INDONESIA,Cirrhilabrus,24,2,0.9166666666666666,"['Cirrhilabrus adornatus', 'Cirrhilabrus aquamarinus', 'Cirrhilabrus aurantidorsalis', 'Cirrhilabrus brunneus', 'Cirrhilabrus cenderawasih', 'Cirrhilabrus chaliasi', 'Cirrhilabrus condei', 'Cirrhilabrus cyanogularis', 'Cirrhilabrus exquisitus', 'Cirrhilabrus filamentosus', 'Cirrhilabrus flavidorsalis', 'Cirrhilabrus humanni', 'Cirrhilabrus joanallenae', 'Cirrhilabrus lubbocki', 'Cirrhilabrus marinda', 'Cirrhilabrus naokoae', 'Cirrhilabrus pylei', 'Cirrhilabrus rubrimarginatus', 'Cirrhilabrus rubripinnis', 'Cirrhilabrus ryukyuensis', 'Cirrhilabrus solorensis', 'Cirrhilabrus tonozukai']",False
+LAUT_INDONESIA,Cirrhimuraena,2,0,1.0,"['Cirrhimuraena chinensis', 'Cirrhimuraena tapeinoptera']",False
+LAUT_INDONESIA,Cirrhitichthys,5,3,0.4,"['Cirrhitichthys aureus', 'Cirrhitichthys guichenoti']",False
+LAUT_INDONESIA,Cirrhitus,1,0,1.0,['Cirrhitus pinnulatus'],False
+LAUT_INDONESIA,Cirripectes,9,0,1.0,"['Cirripectes auritus', 'Cirripectes castaneus', 'Cirripectes filamentosus', 'Cirripectes gilberti', 'Cirripectes perustus', 'Cirripectes polyzona', 'Cirripectes quagga', 'Cirripectes springeri', 'Cirripectes stigmaticus']",False
+LAUT_INDONESIA,Cociella,2,1,0.5,['Cociella punctata'],False
+LAUT_INDONESIA,Cocotropus,2,0,1.0,"['Cocotropus dermacanthus', 'Cocotropus larvatus']",False
+LAUT_INDONESIA,Coelophrys,4,0,1.0,"['Coelophrys arca', 'Coelophrys brevicaudata', 'Coelophrys brevipes', 'Coelophrys micropus']",False
+LAUT_INDONESIA,Coelorinchus,5,0,1.0,"['Coelorinchus argentatus', 'Coelorinchus argus', 'Coelorinchus commutabilis', 'Coelorinchus posteromaculatus', 'Coelorinchus spinifer']",False
+LAUT_INDONESIA,Coilia,7,0,1.0,"['Coilia borneensis', 'Coilia coomansi', 'Coilia dussumieri', 'Coilia lindmani', 'Coilia macrognathos', 'Coilia neglecta', 'Coilia rebentischii']",False
+LAUT_INDONESIA,Conger,1,0,1.0,['Conger cinereus'],False
+LAUT_INDONESIA,Congresox,2,0,1.0,"['Congresox talabon', 'Congresox talabonoides']",False
+LAUT_INDONESIA,Congrogadus,2,0,1.0,"['Congrogadus malayanus', 'Congrogadus subducens']",False
+LAUT_INDONESIA,Conidens,1,0,1.0,['Conidens laticephalus'],False
+LAUT_INDONESIA,Cookeolus,1,1,0.0,[],False
+LAUT_INDONESIA,Coradion,3,0,1.0,"['Coradion altivelis', 'Coradion chrysozonus', 'Coradion melanopus']",False
+LAUT_INDONESIA,Corica,2,0,1.0,"['Corica laciniata', 'Corica soborna']",False
+LAUT_INDONESIA,Coris,8,3,0.625,"['Coris aygula', 'Coris caudimacula', 'Coris cuvieri', 'Coris gaimard', 'Coris julis']",False
+LAUT_INDONESIA,Coryphaena,2,1,0.5,['Coryphaena equiselis'],False
+LAUT_INDONESIA,Coryphaenoides,4,0,1.0,"['Coryphaenoides asprellus', 'Coryphaenoides orthogrammus', 'Coryphaenoides sibogae', 'Coryphaenoides tydemani']",False
+LAUT_INDONESIA,Corythoichthys,9,0,1.0,"['Corythoichthys amplexus', 'Corythoichthys benedetto', 'Corythoichthys flavofasciatus', 'Corythoichthys haematopterus', 'Corythoichthys intestinalis', 'Corythoichthys nigripectus', 'Corythoichthys ocellatus', 'Corythoichthys polynotatus', 'Corythoichthys schultzi']",False
+LAUT_INDONESIA,Cosmocampus,3,0,1.0,"['Cosmocampus banneri', 'Cosmocampus darrosanus', 'Cosmocampus maxweberi']",False
+LAUT_INDONESIA,Cottapistus,1,0,1.0,['Cottapistus cottoides'],False
+LAUT_INDONESIA,Craterognathus,1,0,1.0,['Craterognathus plagiotaenia'],False
+LAUT_INDONESIA,Cristatogobius,2,0,1.0,"['Cristatogobius lophius', 'Cristatogobius rubripectoralis']",False
+LAUT_INDONESIA,Crossorhombus,1,0,1.0,['Crossorhombus azureus'],False
+LAUT_INDONESIA,Crossosalarias,1,0,1.0,['Crossosalarias macrospilus'],False
+LAUT_INDONESIA,Cryptarius,1,0,1.0,['Cryptarius truncatus'],False
+LAUT_INDONESIA,Cryptocentroides,1,1,0.0,[],False
+LAUT_INDONESIA,Cryptocentrus,20,0,1.0,"['Cryptocentrus albidorsus', 'Cryptocentrus caeruleomaculatus', 'Cryptocentrus cebuanus', 'Cryptocentrus cinctus', 'Cryptocentrus cyanospilotus', 'Cryptocentrus cyanotaenia', 'Cryptocentrus diproctotaenia', 'Cryptocentrus fasciatus', 'Cryptocentrus inexplicatus', 'Cryptocentrus leptocephalus', 'Cryptocentrus leucostictus', 'Cryptocentrus maudae', 'Cryptocentrus multicinctus', 'Cryptocentrus nigrocellatus', 'Cryptocentrus niveatus', 'Cryptocentrus octofasciatus', 'Cryptocentrus pavoninoides', 'Cryptocentrus polyophthalmus', 'Cryptocentrus sericus', 'Cryptocentrus strigilliceps']",False
+LAUT_INDONESIA,Cryptopsaras,1,0,1.0,['Cryptopsaras couesii'],False
+LAUT_INDONESIA,Ctenochaetus,5,2,0.6,"['Ctenochaetus cyanocheilus', 'Ctenochaetus tominiensis', 'Ctenochaetus truncatus']",False
+LAUT_INDONESIA,Ctenogobiops,6,0,1.0,"['Ctenogobiops aurocingulus', 'Ctenogobiops crocineus', 'Ctenogobiops feroculus', 'Ctenogobiops mitodes', 'Ctenogobiops pomastictus', 'Ctenogobiops tangaroai']",False
+LAUT_INDONESIA,Ctenotrypauchen,1,0,1.0,['Ctenotrypauchen chinensis'],False
+LAUT_INDONESIA,Cubiceps,3,1,0.6666666666666666,"['Cubiceps kotlyari', 'Cubiceps whiteleggii']",False
+LAUT_INDONESIA,Cyclichthys,2,1,0.5,['Cyclichthys spilostylus'],False
+LAUT_INDONESIA,Cymatognathus,1,0,1.0,['Cymatognathus aureolateralis'],False
+LAUT_INDONESIA,Cymbacephalus,3,0,1.0,"['Cymbacephalus beauforti', 'Cymbacephalus bosschei', 'Cymbacephalus nematophthalmus']",False
+LAUT_INDONESIA,Cymolutes,2,1,0.5,['Cymolutes praetextatus'],False
+LAUT_INDONESIA,Cynoglossus,14,2,0.8571428571428571,"['Cynoglossus abbreviatus', 'Cynoglossus arel', 'Cynoglossus bilineatus', 'Cynoglossus cynoglossus', 'Cynoglossus itinus', 'Cynoglossus kopsii', 'Cynoglossus lida', 'Cynoglossus lingua', 'Cynoglossus macrolepidotus', 'Cynoglossus oligolepis', 'Cynoglossus suyeni', 'Cynoglossus trulla']",False
+LAUT_INDONESIA,Cypho,1,0,1.0,['Cypho zaps'],False
+LAUT_INDONESIA,Cyprinocirrhites,1,0,1.0,['Cyprinocirrhites polyactis'],False
+LAUT_INDONESIA,Cypselurus,4,0,1.0,"['Cypselurus hexazona', 'Cypselurus oligolepis', 'Cypselurus opisthopus', 'Cypselurus poecilopterus']",False
+LAUT_INDONESIA,Cyttopsis,1,0,1.0,['Cyttopsis cypho'],False
+LAUT_INDONESIA,Dactylanthias,1,0,1.0,['Dactylanthias aplodactylus'],False
+LAUT_INDONESIA,Dactyloptena,4,2,0.5,"['Dactyloptena gilberti', 'Dactyloptena peterseni']",False
+LAUT_INDONESIA,Dactylopus,2,1,0.5,['Dactylopus kuiteri'],False
+LAUT_INDONESIA,Dascyllus,5,0,1.0,"['Dascyllus aruanus', 'Dascyllus carneus', 'Dascyllus melanurus', 'Dascyllus reticulatus', 'Dascyllus trimaculatus']",False
+LAUT_INDONESIA,Dasyscopelus,1,0,1.0,['Dasyscopelus asper'],False
+LAUT_INDONESIA,Datnioides,1,0,1.0,['Datnioides campbelli'],False
+LAUT_INDONESIA,Decapterus,6,0,1.0,"['Decapterus kurroides', 'Decapterus macarellus', 'Decapterus macrosoma', 'Decapterus russelli', 'Decapterus smithvanizi', 'Decapterus tabl']",False
+LAUT_INDONESIA,Demissolinea,1,0,1.0,['Demissolinea novaeguineensis'],False
+LAUT_INDONESIA,Dendrochirus,3,1,0.6666666666666666,"['Dendrochirus brachypterus', 'Dendrochirus zebra']",False
+LAUT_INDONESIA,Dendrophysa,1,0,1.0,['Dendrophysa russelii'],False
+LAUT_INDONESIA,Dentatherina,1,0,1.0,['Dentatherina merceri'],False
+LAUT_INDONESIA,Dentex,1,0,1.0,['Dentex spariformis'],False
+LAUT_INDONESIA,Dermogenys,5,1,0.8,"['Dermogenys montana', 'Dermogenys orientalis', 'Dermogenys sumatrana', 'Dermogenys vogti']",False
+LAUT_INDONESIA,Desmodema,1,0,1.0,['Desmodema polystictum'],False
+LAUT_INDONESIA,Deveximentum,6,3,0.5,"['Deveximentum hanedai', 'Deveximentum interruptum', 'Deveximentum megalolepis']",False
+LAUT_INDONESIA,Dexillus,1,0,1.0,['Dexillus muelleri'],False
+LAUT_INDONESIA,Diademichthys,1,0,1.0,['Diademichthys lineatus'],False
+LAUT_INDONESIA,Diagramma,2,1,0.5,['Diagramma melanacrum'],False
+LAUT_INDONESIA,Diancistrus,9,0,1.0,"['Diancistrus alleni', 'Diancistrus altidorsalis', 'Diancistrus beateae', 'Diancistrus karinae', 'Diancistrus machidai', 'Diancistrus niger', 'Diancistrus novaeguineae', 'Diancistrus springeri', 'Diancistrus typhlops']",False
+LAUT_INDONESIA,Diaphenchelys,1,0,1.0,['Diaphenchelys pelonates'],False
+LAUT_INDONESIA,Diaphus,14,0,1.0,"['Diaphus chrysorhynchus', 'Diaphus coeruleus', 'Diaphus diademophilus', 'Diaphus effulgens', 'Diaphus fragilis', 'Diaphus garmani', 'Diaphus impostor', 'Diaphus lucidus', 'Diaphus megalops', 'Diaphus signatus', 'Diaphus splendidus', 'Diaphus suborbitalis', 'Diaphus thiollierei', 'Diaphus watasei']",False
+LAUT_INDONESIA,Dibrachichthys,1,0,1.0,['Dibrachichthys melanurus'],False
+LAUT_INDONESIA,Diceratias,1,0,1.0,['Diceratias bispinosus'],False
+LAUT_INDONESIA,Dichichthys,1,0,1.0,['Dichichthys nigripalatum'],False
+LAUT_INDONESIA,Dichotomyctere,1,0,1.0,['Dichotomyctere erythrotaenia'],False
+LAUT_INDONESIA,Dinematichthys,1,0,1.0,['Dinematichthys iluocoeteoides'],False
+LAUT_INDONESIA,Diodon,4,2,0.5,"['Diodon eydouxii', 'Diodon liturosus']",False
+LAUT_INDONESIA,Diploconger,1,0,1.0,['Diploconger polystigmatus'],False
+LAUT_INDONESIA,Diplogrammus,2,0,1.0,"['Diplogrammus goramensis', 'Diplogrammus xenicus']",False
+LAUT_INDONESIA,Diploprion,1,0,1.0,['Diploprion bifasciatum'],False
+LAUT_INDONESIA,Diplospinus,1,0,1.0,['Diplospinus multistriatus'],False
+LAUT_INDONESIA,Diproctacanthus,1,0,1.0,['Diproctacanthus xanthurus'],False
+LAUT_INDONESIA,Dipterygonotus,1,0,1.0,['Dipterygonotus balteatus'],False
+LAUT_INDONESIA,Diretmoides,1,0,1.0,['Diretmoides veriginae'],False
+LAUT_INDONESIA,Dischistodus,6,1,0.8333333333333334,"['Dischistodus chrysopoecilus', 'Dischistodus fasciatus', 'Dischistodus melanotus', 'Dischistodus prosopotaenia', 'Dischistodus pseudochrysopoecilus']",False
+LAUT_INDONESIA,Discordipinna,1,0,1.0,['Discordipinna griessingeri'],False
+LAUT_INDONESIA,Discotrema,2,0,1.0,"['Discotrema crinophilum', 'Discotrema monogrammum']",False
+LAUT_INDONESIA,Doboatherina,2,1,0.5,['Doboatherina duodecimalis'],False
+LAUT_INDONESIA,Doederleinia,1,0,1.0,['Doederleinia berycoides'],False
+LAUT_INDONESIA,Dolopichthys,1,0,1.0,['Dolopichthys pullatus'],False
+LAUT_INDONESIA,Doryrhamphus,4,0,1.0,"['Doryrhamphus excisus', 'Doryrhamphus janssi', 'Doryrhamphus japonicus', 'Doryrhamphus negrosensis']",False
+LAUT_INDONESIA,Dotsugobius,1,0,1.0,['Dotsugobius bleekeri'],False
+LAUT_INDONESIA,Drepane,2,1,0.5,['Drepane longimana'],False
+LAUT_INDONESIA,Drombus,2,0,1.0,"['Drombus kranjiensis', 'Drombus triangularis']",False
+LAUT_INDONESIA,Dunckerocampus,5,0,1.0,"['Dunckerocampus baldwini', 'Dunckerocampus boylei', 'Dunckerocampus dactyliophorus', 'Dunckerocampus naia', 'Dunckerocampus pessuliferus']",False
+LAUT_INDONESIA,Dussumieria,4,0,1.0,"['Dussumieria acuta', 'Dussumieria albulina', 'Dussumieria elopsoides', 'Dussumieria hasseltii']",False
+LAUT_INDONESIA,Dysomma,1,0,1.0,['Dysomma anguillare'],False
+LAUT_INDONESIA,Ebinania,1,0,1.0,['Ebinania gyrinoides'],False
+LAUT_INDONESIA,Ebosia,1,0,1.0,['Ebosia bleekeri'],False
+LAUT_INDONESIA,Echeneis,1,0,1.0,['Echeneis naucrates'],False
+LAUT_INDONESIA,Echidna,6,2,0.6666666666666666,"['Echidna amblyodon', 'Echidna delicatula', 'Echidna nebulosa', 'Echidna xanthospilos']",False
+LAUT_INDONESIA,Echinogobius,1,0,1.0,['Echinogobius hayashii'],False
+LAUT_INDONESIA,Echiostoma,1,0,1.0,['Echiostoma barbatum'],False
+LAUT_INDONESIA,Ecsenius,25,0,1.0,"['Ecsenius axelrodi', 'Ecsenius bandanus', 'Ecsenius bathi', 'Ecsenius bicolor', 'Ecsenius bimaculatus', 'Ecsenius caeruliventris', 'Ecsenius lineatus', 'Ecsenius lividanalis', 'Ecsenius lubbocki', 'Ecsenius melarchus', 'Ecsenius midas', 'Ecsenius monoculus', 'Ecsenius namiyei', 'Ecsenius oculus', 'Ecsenius ops', 'Ecsenius paroculus', 'Ecsenius pictus', 'Ecsenius polystictus', 'Ecsenius randalli', 'Ecsenius schroederi', 'Ecsenius shirleyae', 'Ecsenius stigmatura', 'Ecsenius tricolor', 'Ecsenius trilineatus', 'Ecsenius yaeyamaensis']",False
+LAUT_INDONESIA,Ectreposebastes,1,0,1.0,['Ectreposebastes imus'],False
+LAUT_INDONESIA,Elagatis,1,0,1.0,['Elagatis bipinnulata'],False
+LAUT_INDONESIA,Elates,1,0,1.0,['Elates ransonnettii'],False
+LAUT_INDONESIA,Eleotris,5,3,0.4,"['Eleotris macrocephala', 'Eleotris macrolepis']",False
+LAUT_INDONESIA,Eleutherochir,1,1,0.0,[],False
+LAUT_INDONESIA,Eleutheronema,2,0,1.0,"['Eleutheronema tetradactylum', 'Eleutheronema tridactylum']",False
+LAUT_INDONESIA,Ellochelon,1,1,0.0,[],False
+LAUT_INDONESIA,Elops,2,1,0.5,['Elops machnata'],False
+LAUT_INDONESIA,Ematops,1,0,1.0,['Ematops randalli'],False
+LAUT_INDONESIA,Encheliophis,4,0,1.0,"['Encheliophis boraborensis', 'Encheliophis gracilis', 'Encheliophis homei', 'Encheliophis vermicularis']",False
+LAUT_INDONESIA,Enchelybrotula,1,0,1.0,['Enchelybrotula paucidens'],False
+LAUT_INDONESIA,Enchelycore,2,1,0.5,['Enchelycore schismatorhynchus'],False
+LAUT_INDONESIA,Enchelynassa,1,0,1.0,['Enchelynassa canina'],False
+LAUT_INDONESIA,Enchelyurus,2,0,1.0,"['Enchelyurus flavipes', 'Enchelyurus kraussii']",False
+LAUT_INDONESIA,Encrasicholina,6,0,1.0,"['Encrasicholina devisi', 'Encrasicholina heteroloba', 'Encrasicholina integra', 'Encrasicholina oligobranchus', 'Encrasicholina punctifer', 'Encrasicholina sigma']",False
+LAUT_INDONESIA,Engraulis,1,0,1.0,['Engraulis japonicus'],False
+LAUT_INDONESIA,Engyprosopon,4,0,1.0,"['Engyprosopon grandisquama', 'Engyprosopon maldivense', 'Engyprosopon mogkii', 'Engyprosopon xystrias']",False
+LAUT_INDONESIA,Enneapterygius,16,1,0.9375,"['Enneapterygius bahasa', 'Enneapterygius elegans', 'Enneapterygius fasciatus', 'Enneapterygius flavoccipitis', 'Enneapterygius hemimelas', 'Enneapterygius minutus', 'Enneapterygius mirabilis', 'Enneapterygius nanus', 'Enneapterygius philippinus', 'Enneapterygius rubicauda', 'Enneapterygius sericus', 'Enneapterygius similis', 'Enneapterygius unimaculatus', 'Enneapterygius viridicauda', 'Enneapterygius ziegleri']",False
+LAUT_INDONESIA,Entomacrodus,6,1,0.8333333333333334,"['Entomacrodus caudofasciatus', 'Entomacrodus epalzeocheilos', 'Entomacrodus thalassinus', 'Entomacrodus vermiculatus', 'Entomacrodus williamsi']",False
+LAUT_INDONESIA,Ephippus,1,0,1.0,['Ephippus orbis'],False
+LAUT_INDONESIA,Epibulus,2,0,1.0,"['Epibulus brevis', 'Epibulus insidiator']",False
+LAUT_INDONESIA,Epigonus,2,0,1.0,"['Epigonus macrops', 'Epigonus pectinifer']",False
+LAUT_INDONESIA,Epinephelus,42,12,0.7142857142857143,"['Epinephelus amblycephalus', 'Epinephelus bleekeri', 'Epinephelus bontoides', 'Epinephelus coeruleopunctatus', 'Epinephelus cyanopodus', 'Epinephelus erythrurus', 'Epinephelus faveatus', 'Epinephelus flavocaeruleus', 'Epinephelus fuscoguttatus', 'Epinephelus heniochus', 'Epinephelus hexagonatus', 'Epinephelus howlandi', 'Epinephelus insularis', 'Epinephelus kupangensis', 'Epinephelus longispinis', 'Epinephelus macrospilos', 'Epinephelus maculatus', 'Epinephelus miliaris', 'Epinephelus multinotatus', 'Epinephelus polyphekadion', 'Epinephelus polystigma', 'Epinephelus quoyanus', 'Epinephelus retouti', 'Epinephelus rivulatus', 'Epinephelus sexfasciatus', 'Epinephelus spilotoceps', 'Epinephelus stictus', 'Epinephelus tauvina', 'Epinephelus tukula', 'Epinephelus undulosus']",False
+LAUT_INDONESIA,Equulites,6,0,1.0,"['Equulites berbis', 'Equulites elongatus', 'Equulites laterofenestra', 'Equulites leuciscus', 'Equulites oblongus', 'Equulites popei']",False
+LAUT_INDONESIA,Eretmichthys,1,0,1.0,['Eretmichthys pinnatus'],False
+LAUT_INDONESIA,Erisphex,2,0,1.0,"['Erisphex aniarus', 'Erisphex philippinus']",False
+LAUT_INDONESIA,Erosa,1,0,1.0,['Erosa erosa'],False
+LAUT_INDONESIA,Escualosa,1,1,0.0,[],False
+LAUT_INDONESIA,Etelis,3,1,0.6666666666666666,"['Etelis carbunculus', 'Etelis coruscans']",False
+LAUT_INDONESIA,Etmopterus,1,0,1.0,['Etmopterus evansi'],False
+LAUT_INDONESIA,Eubleekeria,4,0,1.0,"['Eubleekeria jonesi', 'Eubleekeria kupanensis', 'Eubleekeria rapsoni', 'Eubleekeria splendens']",False
+LAUT_INDONESIA,Eucrossorhinus,1,0,1.0,['Eucrossorhinus dasypogon'],False
+LAUT_INDONESIA,Eugnathogobius,1,0,1.0,['Eugnathogobius variegatus'],False
+LAUT_INDONESIA,Eupleurogrammus,2,0,1.0,"['Eupleurogrammus glossodon', 'Eupleurogrammus muticus']",False
+LAUT_INDONESIA,Euristhmus,2,0,1.0,"['Euristhmus lepturus', 'Euristhmus microphthalmus']",False
+LAUT_INDONESIA,Eurypegasus,1,0,1.0,['Eurypegasus draconis'],False
+LAUT_INDONESIA,Eusphyra,1,0,1.0,['Eusphyra blochii'],False
+LAUT_INDONESIA,Eustomias,6,0,1.0,"['Eustomias bertelseni', 'Eustomias bifilis', 'Eustomias crossotus', 'Eustomias flagellifer', 'Eustomias monoclonus', 'Eustomias paxtoni']",False
+LAUT_INDONESIA,Eusurculus,1,0,1.0,['Eusurculus andamanensis'],False
+LAUT_INDONESIA,Euthynnus,1,1,0.0,[],False
+LAUT_INDONESIA,Eviota,54,1,0.9814814814814815,"['Eviota afelei', 'Eviota algida', 'Eviota ancora', 'Eviota angustifascia', 'Eviota asymbasia', 'Eviota atriventris', 'Eviota bifasciata', 'Eviota bipunctata', 'Eviota distigma', 'Eviota epistigmata', 'Eviota erdmanni', 'Eviota fallax', 'Eviota fasciola', 'Eviota flaviarma', 'Eviota fluctiphila', 'Eviota gunawanae', 'Eviota herrei', 'Eviota imitata', 'Eviota jewettae', 'Eviota korechika', 'Eviota lachdeberei', 'Eviota latifasciata', 'Eviota longirostris', 'Eviota maculosa', 'Eviota melasma', 'Eviota mikiae', 'Eviota nebulosa', 'Eviota nigrispina', 'Eviota nigriventris', 'Eviota oculineata', 'Eviota pamae', 'Eviota pictifacies', 'Eviota pinocchioi', 'Eviota piperata', 'Eviota prasina', 'Eviota prasites', 'Eviota pseudaprica', 'Eviota punyit', 'Eviota queenslandica', 'Eviota raja', 'Eviota rubriceps', 'Eviota rubrisparsa', 'Eviota samota', 'Eviota sebreei', 'Eviota shimadai', 'Eviota singula', 'Eviota sparsa', 'Eviota spilota', 'Eviota storthynx', 'Eviota teresae', 'Eviota tetha', 'Eviota winterbottomi', 'Eviota zonura']",False
+LAUT_INDONESIA,Exallias,1,0,1.0,['Exallias brevis'],False
+LAUT_INDONESIA,Exyrias,4,1,0.75,"['Exyrias akihito', 'Exyrias belissimus', 'Exyrias ferrarisi']",False
+LAUT_INDONESIA,Favonigobius,2,1,0.5,['Favonigobius melanobranchus'],False
+LAUT_INDONESIA,Feia,1,0,1.0,['Feia nympha'],False
+LAUT_INDONESIA,Fenestraja,1,0,1.0,['Fenestraja sibogae'],False
+LAUT_INDONESIA,Ferdauia,2,1,0.5,['Ferdauia orthogrammus'],False
+LAUT_INDONESIA,Festucalex,5,0,1.0,"['Festucalex erythraeus', 'Festucalex gibbsi', 'Festucalex kulbickii', 'Festucalex prolixus', 'Festucalex rufus']",False
+LAUT_INDONESIA,Fibramia,3,2,0.3333333333333333,['Fibramia thermalis'],False
+LAUT_INDONESIA,Filimanus,5,0,1.0,"['Filimanus heptadactyla', 'Filimanus hexanema', 'Filimanus perplexa', 'Filimanus sealei', 'Filimanus xanthonema']",False
+LAUT_INDONESIA,Fistularia,2,2,0.0,[],False
+LAUT_INDONESIA,Flabellicauda,2,0,1.0,"['Flabellicauda akiko', 'Flabellicauda alleni']",False
+LAUT_INDONESIA,Flavocaranx,1,0,1.0,['Flavocaranx bajad'],False
+LAUT_INDONESIA,Foa,2,0,1.0,"['Foa fo', 'Foa hyalina']",False
+LAUT_INDONESIA,Forcipiger,3,0,1.0,"['Forcipiger flavissimus', 'Forcipiger longirostris', 'Forcipiger wanai']",False
+LAUT_INDONESIA,Fowleria,8,2,0.75,"['Fowleria amblyuroptera', 'Fowleria aurita', 'Fowleria flammea', 'Fowleria isostigma', 'Fowleria marmorata', 'Fowleria punctulata']",False
+LAUT_INDONESIA,Fusigobius,11,0,1.0,"['Fusigobius aureus', 'Fusigobius duospilus', 'Fusigobius gracilis', 'Fusigobius humeralis', 'Fusigobius inframaculatus', 'Fusigobius longispinus', 'Fusigobius maximus', 'Fusigobius melacron', 'Fusigobius neophytus', 'Fusigobius pallidus', 'Fusigobius signipinnis']",False
+LAUT_INDONESIA,Galeocerdo,1,1,0.0,[],False
+LAUT_INDONESIA,Gargariscus,1,0,1.0,['Gargariscus prionocephalus'],False
+LAUT_INDONESIA,Gavialiceps,1,0,1.0,['Gavialiceps javanicus'],False
+LAUT_INDONESIA,Gazza,4,1,0.75,"['Gazza achlamys', 'Gazza dentex', 'Gazza rhombea']",False
+LAUT_INDONESIA,Gempylus,1,1,0.0,[],False
+LAUT_INDONESIA,Genicanthus,4,2,0.5,"['Genicanthus bellus', 'Genicanthus caudovittatus']",False
+LAUT_INDONESIA,Gerres,8,3,0.625,"['Gerres limbatus', 'Gerres longirostris', 'Gerres macracanthus', 'Gerres oblongus', 'Gerres shima']",False
+LAUT_INDONESIA,Gigantactis,1,0,1.0,['Gigantactis perlatus'],False
+LAUT_INDONESIA,Giganthias,1,0,1.0,['Giganthias serratospinosus'],False
+LAUT_INDONESIA,Gladiogobius,3,0,1.0,"['Gladiogobius brevispinis', 'Gladiogobius ensifer', 'Gladiogobius rex']",False
+LAUT_INDONESIA,Glaucostegus,2,0,1.0,"['Glaucostegus thouin', 'Glaucostegus typus']",False
+LAUT_INDONESIA,Glossogobius,1,1,0.0,[],False
+LAUT_INDONESIA,Glyphis,1,1,0.0,[],False
+LAUT_INDONESIA,Glyptoparus,1,0,1.0,['Glyptoparus delicatulus'],False
+LAUT_INDONESIA,Glyptophidium,2,0,1.0,"['Glyptophidium lucidum', 'Glyptophidium macropus']",False
+LAUT_INDONESIA,Gnathanodon,1,0,1.0,['Gnathanodon speciosus'],False
+LAUT_INDONESIA,Gnathodentex,1,0,1.0,['Gnathodentex aureolineatus'],False
+LAUT_INDONESIA,Gnatholepis,3,1,0.6666666666666666,"['Gnatholepis anjerensis', 'Gnatholepis ophthalmotaenia']",False
+LAUT_INDONESIA,Gobiodon,12,0,1.0,"['Gobiodon acicularis', 'Gobiodon albofasciatus', 'Gobiodon aoyagii', 'Gobiodon ceramensis', 'Gobiodon citrinus', 'Gobiodon erythrospilus', 'Gobiodon heterospilos', 'Gobiodon histrio', 'Gobiodon okinawae', 'Gobiodon quinquestrigatus', 'Gobiodon spilophthalmus', 'Gobiodon unicolor']",False
+LAUT_INDONESIA,Gobiopsis,6,0,1.0,"['Gobiopsis angustifrons', 'Gobiopsis bravoi', 'Gobiopsis liolepis', 'Gobiopsis malekulae', 'Gobiopsis springeri', 'Gobiopsis uranophilus']",False
+LAUT_INDONESIA,Gobius,1,0,1.0,['Gobius bontii'],False
+LAUT_INDONESIA,Gomphosus,2,0,1.0,"['Gomphosus caeruleus', 'Gomphosus varius']",False
+LAUT_INDONESIA,Gorgasia,7,0,1.0,"['Gorgasia barnesi', 'Gorgasia galzini', 'Gorgasia japonica', 'Gorgasia maculata', 'Gorgasia naeocepaea', 'Gorgasia preclara', 'Gorgasia taiwanensis']",False
+LAUT_INDONESIA,Gracila,1,1,0.0,[],False
+LAUT_INDONESIA,Grallenia,2,0,1.0,"['Grallenia baliensis', 'Grallenia lipi']",False
+LAUT_INDONESIA,Grammatobothus,1,0,1.0,['Grammatobothus polyophthalmus'],False
+LAUT_INDONESIA,Grammatonotus,1,0,1.0,['Grammatonotus roseus'],False
+LAUT_INDONESIA,Grammatorcynus,1,0,1.0,['Grammatorcynus bilineatus'],False
+LAUT_INDONESIA,Grammistes,1,0,1.0,['Grammistes sexlineatus'],False
+LAUT_INDONESIA,Grammistops,1,0,1.0,['Grammistops ocellatus'],False
+LAUT_INDONESIA,Grammonus,1,0,1.0,['Grammonus thielei'],False
+LAUT_INDONESIA,Grammoplites,1,1,0.0,[],False
+LAUT_INDONESIA,Gunnellichthys,4,0,1.0,"['Gunnellichthys curiosus', 'Gunnellichthys monostigma', 'Gunnellichthys pleurotaenia', 'Gunnellichthys viridescens']",False
+LAUT_INDONESIA,Gymnapogon,3,0,1.0,"['Gymnapogon annona', 'Gymnapogon philippinus', 'Gymnapogon urospilotus']",False
+LAUT_INDONESIA,Gymnocaesio,1,0,1.0,['Gymnocaesio gymnoptera'],False
+LAUT_INDONESIA,Gymnochanda,1,0,1.0,['Gymnochanda filamentosa'],False
+LAUT_INDONESIA,Gymnocranius,7,0,1.0,"['Gymnocranius elongatus', 'Gymnocranius frenatus', 'Gymnocranius grandoculis', 'Gymnocranius griseus', 'Gymnocranius indicus', 'Gymnocranius microdon', 'Gymnocranius satoi']",False
+LAUT_INDONESIA,Gymnomuraena,1,0,1.0,['Gymnomuraena zebra'],False
+LAUT_INDONESIA,Gymnosarda,1,1,0.0,[],False
+LAUT_INDONESIA,Gymnothorax,40,3,0.925,"['Gymnothorax albimarginatus', 'Gymnothorax angusticauda', 'Gymnothorax buroensis', 'Gymnothorax castlei', 'Gymnothorax chilospilus', 'Gymnothorax chlamydatus', 'Gymnothorax davidsmithi', 'Gymnothorax favagineus', 'Gymnothorax flavimarginatus', 'Gymnothorax formosus', 'Gymnothorax fuscomaculatus', 'Gymnothorax herrei', 'Gymnothorax isingteena', 'Gymnothorax javanicus', 'Gymnothorax longinaris', 'Gymnothorax margaritophorus', 'Gymnothorax melatremus', 'Gymnothorax meleagris', 'Gymnothorax microstictus', 'Gymnothorax moluccensis', 'Gymnothorax monochrous', 'Gymnothorax nudivomer', 'Gymnothorax paucivertebralis', 'Gymnothorax pictus', 'Gymnothorax pindae', 'Gymnothorax polyuranodon', 'Gymnothorax pseudoherrei', 'Gymnothorax pseudothyrsoideus', 'Gymnothorax punctatofasciatus', 'Gymnothorax randalli', 'Gymnothorax reticularis', 'Gymnothorax richardsonii', 'Gymnothorax robinsi', 'Gymnothorax rueppelliae', 'Gymnothorax tile', 'Gymnothorax undulatus', 'Gymnothorax zonipectis']",False
+LAUT_INDONESIA,Gymnura,3,0,1.0,"['Gymnura australis', 'Gymnura poecilura', 'Gymnura zonura']",False
+LAUT_INDONESIA,Halaelurus,1,0,1.0,['Halaelurus maculosus'],False
+LAUT_INDONESIA,Halicampus,7,1,0.8571428571428571,"['Halicampus brocki', 'Halicampus dunckeri', 'Halicampus grayi', 'Halicampus mataafae', 'Halicampus nitidus', 'Halicampus spinirostris']",False
+LAUT_INDONESIA,Halichoeres,39,8,0.7948717948717948,"['Halichoeres argus', 'Halichoeres bicolor', 'Halichoeres binotopsis', 'Halichoeres biocellatus', 'Halichoeres chlorocephalus', 'Halichoeres chloropterus', 'Halichoeres claudia', 'Halichoeres cosmetus', 'Halichoeres erdmanni', 'Halichoeres hortulanus', 'Halichoeres kallochroma', 'Halichoeres kneri', 'Halichoeres leucoxanthus', 'Halichoeres margaritaceus', 'Halichoeres marginatus', 'Halichoeres melanurus', 'Halichoeres melasmapomus', 'Halichoeres miniatus', 'Halichoeres nigrescens', 'Halichoeres ornatissimus', 'Halichoeres pallidus', 'Halichoeres papilionaceus', 'Halichoeres pardaleocephalus', 'Halichoeres rubricephalus', 'Halichoeres scapularis', 'Halichoeres solorensis', 'Halichoeres timorensis', 'Halichoeres trimaculatus', 'Halichoeres trispilus', 'Halichoeres vrolikii', 'Halichoeres zeylonicus']",False
+LAUT_INDONESIA,Halieutaea,4,0,1.0,"['Halieutaea coccinea', 'Halieutaea fumosa', 'Halieutaea indica', 'Halieutaea stellata']",False
+LAUT_INDONESIA,Halieutopsis,6,0,1.0,"['Halieutopsis kawaii', 'Halieutopsis nasuta', 'Halieutopsis nudiventer', 'Halieutopsis oblonga', 'Halieutopsis simula', 'Halieutopsis stellifera']",False
+LAUT_INDONESIA,Haliichthys,1,0,1.0,['Haliichthys taeniophorus'],False
+LAUT_INDONESIA,Halimochirurgus,2,0,1.0,"['Halimochirurgus alcocki', 'Halimochirurgus centriscoides']",False
+LAUT_INDONESIA,Haliophis,1,0,1.0,['Haliophis aethiopus'],False
+LAUT_INDONESIA,Halophryne,2,0,1.0,"['Halophryne diemensis', 'Halophryne hutchinsi']",False
+LAUT_INDONESIA,Harpadon,3,1,0.6666666666666666,"['Harpadon microchir', 'Harpadon mortenseni']",False
+LAUT_INDONESIA,Hazeus,3,0,1.0,"['Hazeus ammophilus', 'Hazeus otakii', 'Hazeus profusus']",False
+LAUT_INDONESIA,Helcogramma,14,0,1.0,"['Helcogramma capidata', 'Helcogramma ellioti', 'Helcogramma fuscipectoris', 'Helcogramma gymnauchen', 'Helcogramma hudsoni', 'Helcogramma kranos', 'Helcogramma obtusirostris', 'Helcogramma randalli', 'Helcogramma rhinoceros', 'Helcogramma solorensis', 'Helcogramma springeri', 'Helcogramma striata', 'Helcogramma trigloides', 'Helcogramma vulcana']",False
+LAUT_INDONESIA,Hemerorhinus,1,0,1.0,['Hemerorhinus heyningi'],False
+LAUT_INDONESIA,Hemiarius,1,0,1.0,['Hemiarius stormii'],False
+LAUT_INDONESIA,Hemibagrus,1,0,1.0,['Hemibagrus hoevenii'],False
+LAUT_INDONESIA,Hemigaleus,1,0,1.0,['Hemigaleus microstoma'],False
+LAUT_INDONESIA,Hemiglyphidodon,1,1,0.0,[],False
+LAUT_INDONESIA,Hemigobius,1,0,1.0,['Hemigobius mingi'],False
+LAUT_INDONESIA,Hemigymnus,2,1,0.5,['Hemigymnus melapterus'],False
+LAUT_INDONESIA,Heminodus,1,0,1.0,['Heminodus philippinus'],False
+LAUT_INDONESIA,Hemiramphus,4,2,0.5,"['Hemiramphus archipelagicus', 'Hemiramphus convexus']",False
+LAUT_INDONESIA,Hemirhamphodon,3,0,1.0,"['Hemirhamphodon chrysopunctatus', 'Hemirhamphodon kapuasensis', 'Hemirhamphodon pogonognathus']",False
+LAUT_INDONESIA,Hemiscyllium,5,0,1.0,"['Hemiscyllium freycineti', 'Hemiscyllium galei', 'Hemiscyllium halmahera', 'Hemiscyllium henryi', 'Hemiscyllium ocellatum']",False
+LAUT_INDONESIA,Hemitaurichthys,2,0,1.0,"['Hemitaurichthys polylepis', 'Hemitaurichthys zoster']",False
+LAUT_INDONESIA,Hemitriakis,1,0,1.0,['Hemitriakis indroyonoi'],False
+LAUT_INDONESIA,Hemitrygon,2,0,1.0,"['Hemitrygon bennettii', 'Hemitrygon longicauda']",False
+LAUT_INDONESIA,Heniochus,7,1,0.8571428571428571,"['Heniochus acuminatus', 'Heniochus chrysostomus', 'Heniochus diphreutes', 'Heniochus monoceros', 'Heniochus pleurotaenia', 'Heniochus varius']",False
+LAUT_INDONESIA,Heptranchias,1,0,1.0,['Heptranchias perlo'],False
+LAUT_INDONESIA,Herklotsichthys,3,1,0.6666666666666666,"['Herklotsichthys dispilonotus', 'Herklotsichthys gotoi']",False
+LAUT_INDONESIA,Heteroconger,9,0,1.0,"['Heteroconger enigmaticus', 'Heteroconger guttatus', 'Heteroconger hassi', 'Heteroconger lentiginosus', 'Heteroconger mercyae', 'Heteroconger perissodon', 'Heteroconger polyzona', 'Heteroconger taylori', 'Heteroconger tricia']",False
+LAUT_INDONESIA,Heterodontus,1,0,1.0,['Heterodontus zebra'],False
+LAUT_INDONESIA,Heteromycteris,1,0,1.0,['Heteromycteris hartzfeldii'],False
+LAUT_INDONESIA,Heteropriacanthus,1,1,0.0,[],False
+LAUT_INDONESIA,Hexanchus,2,0,1.0,"['Hexanchus griseus', 'Hexanchus nakamurai']",False
+LAUT_INDONESIA,Hexanematichthys,1,0,1.0,['Hexanematichthys sagor'],False
+LAUT_INDONESIA,Hilsa,1,1,0.0,[],False
+LAUT_INDONESIA,Himantolophus,5,0,1.0,"['Himantolophus brevirostris', 'Himantolophus danae', 'Himantolophus macroceratoides', 'Himantolophus rostratus', 'Himantolophus sagamius']",False
+LAUT_INDONESIA,Himantura,7,0,1.0,"['Himantura alcockii', 'Himantura fava', 'Himantura leoparda', 'Himantura pareh', 'Himantura tutul', 'Himantura uarnak', 'Himantura undulata']",False
+LAUT_INDONESIA,Hime,1,0,1.0,['Hime caudizoma'],False
+LAUT_INDONESIA,Hippichthys,4,4,0.0,[],False
+LAUT_INDONESIA,Hippocampus,11,0,1.0,"['Hippocampus barbouri', 'Hippocampus bargibanti', 'Hippocampus comes', 'Hippocampus denise', 'Hippocampus histrix', 'Hippocampus kelloggi', 'Hippocampus kuda', 'Hippocampus pontohi', 'Hippocampus satomiae', 'Hippocampus spinosissimus', 'Hippocampus trimaculatus']",False
+LAUT_INDONESIA,Hipposcarus,2,0,1.0,"['Hipposcarus harid', 'Hipposcarus longiceps']",False
+LAUT_INDONESIA,Hipposcorpaena,1,0,1.0,['Hipposcorpaena filamentosa'],False
+LAUT_INDONESIA,Hirundichthys,3,0,1.0,"['Hirundichthys albimaculatus', 'Hirundichthys indicus', 'Hirundichthys oxycephalus']",False
+LAUT_INDONESIA,Hispidoberyx,1,0,1.0,['Hispidoberyx ambagiosus'],False
+LAUT_INDONESIA,Histiophryne,3,0,1.0,"['Histiophryne cryptacanthus', 'Histiophryne pogonia', 'Histiophryne psychedelica']",False
+LAUT_INDONESIA,Histiopterus,1,1,0.0,[],False
+LAUT_INDONESIA,Histrio,1,0,1.0,['Histrio histrio'],False
+LAUT_INDONESIA,Holcomycteronus,1,0,1.0,['Holcomycteronus aequatoris'],False
+LAUT_INDONESIA,Hologymnosus,3,2,0.3333333333333333,['Hologymnosus rhodonotus'],False
+LAUT_INDONESIA,Holtbyrnia,1,0,1.0,['Holtbyrnia conocephala'],False
+LAUT_INDONESIA,Homostolus,1,0,1.0,['Homostolus acer'],False
+LAUT_INDONESIA,Hoplichthys,2,0,1.0,"['Hoplichthys gilberti', 'Hoplichthys regani']",False
+LAUT_INDONESIA,Hoplolatilus,10,0,1.0,"['Hoplolatilus chlupatyi', 'Hoplolatilus cuniculus', 'Hoplolatilus erdmanni', 'Hoplolatilus fourmanoiri', 'Hoplolatilus fronticinctus', 'Hoplolatilus marcosi', 'Hoplolatilus pohle', 'Hoplolatilus purpureus', 'Hoplolatilus randalli', 'Hoplolatilus starcki']",False
+LAUT_INDONESIA,Hoplostethus,4,0,1.0,"['Hoplostethus melanopus', 'Hoplostethus platynotus', 'Hoplostethus rubellopterus', 'Hoplostethus shubnikovi']",False
+LAUT_INDONESIA,Hymenocephalus,2,0,1.0,"['Hymenocephalus grimaldii', 'Hymenocephalus nascens']",False
+LAUT_INDONESIA,Hypoatherina,6,1,0.8333333333333334,"['Hypoatherina barnesi', 'Hypoatherina celebesensis', 'Hypoatherina lunata', 'Hypoatherina ovalaua', 'Hypoatherina valenciennei']",False
+LAUT_INDONESIA,Hypopleuron,1,0,1.0,['Hypopleuron caninum'],False
+LAUT_INDONESIA,Hyporhamphus,7,1,0.8571428571428571,"['Hyporhamphus affinis', 'Hyporhamphus balinensis', 'Hyporhamphus dussumieri', 'Hyporhamphus melanopterus', 'Hyporhamphus neglectissimus', 'Hyporhamphus neglectus']",False
+LAUT_INDONESIA,Hypseleotris,1,0,1.0,['Hypseleotris leuciscus'],False
+LAUT_INDONESIA,Iago,1,0,1.0,['Iago garricki'],False
+LAUT_INDONESIA,Ichthyapus,1,1,0.0,[],False
+LAUT_INDONESIA,Ichthyocampus,1,0,1.0,['Ichthyocampus carce'],False
+LAUT_INDONESIA,Ichthyscopus,1,0,1.0,['Ichthyscopus malacopterus'],False
+LAUT_INDONESIA,Ilisha,8,0,1.0,"['Ilisha elongata', 'Ilisha filigera', 'Ilisha kampeni', 'Ilisha macrogaster', 'Ilisha megaloptera', 'Ilisha melastoma', 'Ilisha pristigastroides', 'Ilisha sirishae']",False
+LAUT_INDONESIA,Inegocia,1,1,0.0,[],False
+LAUT_INDONESIA,Iniistius,9,1,0.8888888888888888,"['Iniistius aneitensis', 'Iniistius bimaculatus', 'Iniistius celebicus', 'Iniistius dea', 'Iniistius pavo', 'Iniistius pentadactylus', 'Iniistius spilonotus', 'Iniistius twistii']",False
+LAUT_INDONESIA,Inimicus,3,2,0.3333333333333333,['Inimicus didactylus'],False
+LAUT_INDONESIA,Ipnops,1,0,1.0,['Ipnops agassizii'],False
+LAUT_INDONESIA,Iracundus,1,0,1.0,['Iracundus signifer'],False
+LAUT_INDONESIA,Istiblennius,4,0,1.0,"['Istiblennius dussumieri', 'Istiblennius edentulus', 'Istiblennius lineatus', 'Istiblennius muelleri']",False
+LAUT_INDONESIA,Istigobius,8,2,0.75,"['Istigobius diadema', 'Istigobius goldmanni', 'Istigobius murdyi', 'Istigobius nigroocellatus', 'Istigobius rigilius', 'Istigobius spence']",False
+LAUT_INDONESIA,Istiompax,1,0,1.0,['Istiompax indica'],False
+LAUT_INDONESIA,Istiophorus,1,0,1.0,['Istiophorus platypterus'],False
+LAUT_INDONESIA,Isurus,1,0,1.0,['Isurus oxyrinchus'],False
+LAUT_INDONESIA,Javichthys,1,0,1.0,['Javichthys kailolae'],False
+LAUT_INDONESIA,Jaydia,7,0,1.0,"['Jaydia argyrogaster', 'Jaydia ellioti', 'Jaydia melanopus', 'Jaydia photogaster', 'Jaydia poeciloptera', 'Jaydia smithi', 'Jaydia striata']",False
+LAUT_INDONESIA,Johnius,16,1,0.9375,"['Johnius amblycephalus', 'Johnius australis', 'Johnius belangerii', 'Johnius borneensis', 'Johnius coitor', 'Johnius heterolepis', 'Johnius hypostoma', 'Johnius latifrons', 'Johnius macropterus', 'Johnius macrorhynus', 'Johnius novaeguineae', 'Johnius pacificus', 'Johnius plagiostoma', 'Johnius trachycephalus', 'Johnius weberi']",False
+LAUT_INDONESIA,Kajikia,1,0,1.0,['Kajikia audax'],False
+LAUT_INDONESIA,Kalyptatherina,1,0,1.0,['Kalyptatherina helodes'],False
+LAUT_INDONESIA,Kamoharaia,1,0,1.0,['Kamoharaia megastoma'],False
+LAUT_INDONESIA,Kanekonia,1,0,1.0,['Kanekonia pelta'],False
+LAUT_INDONESIA,Karalla,2,0,1.0,"['Karalla daura', 'Karalla dussumieri']",False
+LAUT_INDONESIA,Karsten,1,0,1.0,['Karsten totoyensis'],False
+LAUT_INDONESIA,Katsuwonus,1,1,0.0,[],False
+LAUT_INDONESIA,Kaupichthys,3,0,1.0,"['Kaupichthys atronasus', 'Kaupichthys brachychirus', 'Kaupichthys diodontus']",False
+LAUT_INDONESIA,Ketengus,1,0,1.0,['Ketengus typus'],False
+LAUT_INDONESIA,Koumansetta,2,0,1.0,"['Koumansetta hectori', 'Koumansetta rainfordi']",False
+LAUT_INDONESIA,Kuhlia,2,0,1.0,"['Kuhlia mugil', 'Kuhlia rupestris']",False
+LAUT_INDONESIA,Kumococius,1,0,1.0,['Kumococius rodericensis'],False
+LAUT_INDONESIA,Kurtus,2,0,1.0,"['Kurtus gulliveri', 'Kurtus indicus']",False
+LAUT_INDONESIA,Kyataphisa,1,0,1.0,['Kyataphisa caelata'],False
+LAUT_INDONESIA,Kyonemichthys,1,0,1.0,['Kyonemichthys rumengani'],False
+LAUT_INDONESIA,Kyphosus,3,1,0.6666666666666666,"['Kyphosus bigibbus', 'Kyphosus cinerascens']",False
+LAUT_INDONESIA,Labracinus,1,0,1.0,['Labracinus cyclophthalmus'],False
+LAUT_INDONESIA,Labrichthys,1,0,1.0,['Labrichthys unilineatus'],False
+LAUT_INDONESIA,Labroides,3,0,1.0,"['Labroides bicolor', 'Labroides dimidiatus', 'Labroides pectoralis']",False
+LAUT_INDONESIA,Labropsis,3,1,0.6666666666666666,"['Labropsis alleni', 'Labropsis xanthonota']",False
+LAUT_INDONESIA,Lactarius,1,0,1.0,['Lactarius lactarius'],False
+LAUT_INDONESIA,Lactoria,3,2,0.3333333333333333,['Lactoria diaphana'],False
+LAUT_INDONESIA,Lagocephalus,6,2,0.6666666666666666,"['Lagocephalus gloveri', 'Lagocephalus lagocephalus', 'Lagocephalus lunaris', 'Lagocephalus sceleratus']",False
+LAUT_INDONESIA,Lagusia,1,0,1.0,['Lagusia micracanthus'],False
+LAUT_INDONESIA,Laiphognathus,1,0,1.0,['Laiphognathus multimaculatus'],False
+LAUT_INDONESIA,Lamiopsis,1,0,1.0,['Lamiopsis tephrodes'],False
+LAUT_INDONESIA,Lamnostoma,1,0,1.0,['Lamnostoma orientale'],False
+LAUT_INDONESIA,Lampadena,1,0,1.0,['Lampadena luminosa'],False
+LAUT_INDONESIA,Lampanyctus,2,0,1.0,"['Lampanyctus lineatus', 'Lampanyctus niger']",False
+LAUT_INDONESIA,Lampris,1,0,1.0,['Lampris megalopsis'],False
+LAUT_INDONESIA,Lamprogrammus,1,0,1.0,['Lamprogrammus brunswigi'],False
+LAUT_INDONESIA,Lates,1,1,0.0,[],False
+LAUT_INDONESIA,Latimeria,2,0,1.0,"['Latimeria chalumnae', 'Latimeria menadoensis']",False
+LAUT_INDONESIA,Leiognathus,1,0,1.0,['Leiognathus equula'],False
+LAUT_INDONESIA,Leiuranus,2,0,1.0,"['Leiuranus semicinctus', 'Leiuranus versicolor']",False
+LAUT_INDONESIA,Lepadichthys,1,0,1.0,['Lepadichthys minor'],False
+LAUT_INDONESIA,Lepidamia,1,0,1.0,['Lepidamia kalosoma'],False
+LAUT_INDONESIA,Lepidoblepharon,1,0,1.0,['Lepidoblepharon ophthalmolepis'],False
+LAUT_INDONESIA,Lepidocybium,1,0,1.0,['Lepidocybium flavobrunneum'],False
+LAUT_INDONESIA,Lepidotrigla,7,0,1.0,"['Lepidotrigla japonica', 'Lepidotrigla longipinnis', 'Lepidotrigla macracaina', 'Lepidotrigla maculapinna', 'Lepidotrigla punctipectoralis', 'Lepidotrigla spiloptera', 'Lepidotrigla tanydactyla']",False
+LAUT_INDONESIA,Lepidozygus,1,0,1.0,['Lepidozygus tapeinosoma'],False
+LAUT_INDONESIA,Leptojulis,4,0,1.0,"['Leptojulis chrysotaenia', 'Leptojulis cyanopleura', 'Leptojulis polylepis', 'Leptojulis urostigma']",False
+LAUT_INDONESIA,Leptomelanosoma,1,0,1.0,['Leptomelanosoma indicum'],False
+LAUT_INDONESIA,Leptoscarus,1,1,0.0,[],False
+LAUT_INDONESIA,Leptosynanceia,1,0,1.0,['Leptosynanceia asteroblepa'],False
+LAUT_INDONESIA,Lepturacanthus,2,0,1.0,"['Lepturacanthus roelandti', 'Lepturacanthus savala']",False
+LAUT_INDONESIA,Lestidiops,1,0,1.0,['Lestidiops mirabilis'],False
+LAUT_INDONESIA,Lestidium,1,0,1.0,['Lestidium atlanticum'],False
+LAUT_INDONESIA,Lestrolepis,1,0,1.0,['Lestrolepis intermedia'],False
+LAUT_INDONESIA,Lethrinus,20,9,0.55,"['Lethrinus atkinsoni', 'Lethrinus conchyliatus', 'Lethrinus erythropterus', 'Lethrinus harak', 'Lethrinus laticaudis', 'Lethrinus microdon', 'Lethrinus obsoletus', 'Lethrinus ravus', 'Lethrinus rubrioperculatus', 'Lethrinus variegatus', 'Lethrinus xanthochilus']",False
+LAUT_INDONESIA,Liachirus,1,0,1.0,['Liachirus melanospilos'],False
+LAUT_INDONESIA,Limnichthys,2,0,1.0,"['Limnichthys fasciatus', 'Limnichthys nitidus']",False
+LAUT_INDONESIA,Linophryne,2,0,1.0,"['Linophryne bipennata', 'Linophryne trewavasae']",False
+LAUT_INDONESIA,Liocranium,1,0,1.0,['Liocranium pleurostigma'],False
+LAUT_INDONESIA,Liopropoma,10,1,0.9,"['Liopropoma africanum', 'Liopropoma collettei', 'Liopropoma dorsoluteum', 'Liopropoma lemniscatum', 'Liopropoma multilineatum', 'Liopropoma randalli', 'Liopropoma susumi', 'Liopropoma swalesi', 'Liopropoma tonstrinum']",False
+LAUT_INDONESIA,Lioscorpius,1,0,1.0,['Lioscorpius longiceps'],False
+LAUT_INDONESIA,Lipocheilus,1,1,0.0,[],False
+LAUT_INDONESIA,Litobranchus,1,0,1.0,['Litobranchus fowleri'],False
+LAUT_INDONESIA,Lobotes,1,0,1.0,['Lobotes surinamensis'],False
+LAUT_INDONESIA,Lobulogobius,1,0,1.0,['Lobulogobius morrigu'],False
+LAUT_INDONESIA,Lophichthys,1,0,1.0,['Lophichthys boschmai'],False
+LAUT_INDONESIA,Lophiocharon,3,0,1.0,"['Lophiocharon hutchinsi', 'Lophiocharon lithinostomus', 'Lophiocharon trisignatus']",False
+LAUT_INDONESIA,Lophiodes,3,0,1.0,"['Lophiodes gracilimanus', 'Lophiodes lugubris', 'Lophiodes mutilus']",False
+LAUT_INDONESIA,Lophocampus,1,0,1.0,['Lophocampus ocellatus'],False
+LAUT_INDONESIA,Lophodiodon,1,0,1.0,['Lophodiodon calori'],False
+LAUT_INDONESIA,Lotilia,1,0,1.0,['Lotilia klausewitzi'],False
+LAUT_INDONESIA,Loxodon,1,0,1.0,['Loxodon macrorhinus'],False
+LAUT_INDONESIA,Lubbockichthys,2,0,1.0,"['Lubbockichthys multisquamatus', 'Lubbockichthys tanakai']",False
+LAUT_INDONESIA,Lubricogobius,3,0,1.0,"['Lubricogobius dinah', 'Lubricogobius exiguus', 'Lubricogobius ornatus']",False
+LAUT_INDONESIA,Lucigadus,1,0,1.0,['Lucigadus microlepis'],False
+LAUT_INDONESIA,Luposicya,1,0,1.0,['Luposicya lupus'],False
+LAUT_INDONESIA,Lutjanus,34,8,0.7647058823529411,"['Lutjanus biguttatus', 'Lutjanus bitaeniatus', 'Lutjanus bohar', 'Lutjanus boutton', 'Lutjanus carponotatus', 'Lutjanus decussatus', 'Lutjanus dodecacanthoides', 'Lutjanus ehrenbergii', 'Lutjanus erythropterus', 'Lutjanus fulvus', 'Lutjanus fuscescens', 'Lutjanus johnii', 'Lutjanus kasmira', 'Lutjanus lemniscatus', 'Lutjanus lunulatus', 'Lutjanus malabaricus', 'Lutjanus maxweberi', 'Lutjanus mizenkoi', 'Lutjanus monostigma', 'Lutjanus papuensis', 'Lutjanus rivulatus', 'Lutjanus rufolineatus', 'Lutjanus sebae', 'Lutjanus semicinctus', 'Lutjanus timoriensis', 'Lutjanus vitta']",False
+LAUT_INDONESIA,Luzonichthys,2,0,1.0,"['Luzonichthys taeniatus', 'Luzonichthys waitei']",False
+LAUT_INDONESIA,Lycothrissa,1,0,1.0,['Lycothrissa crocodilus'],False
+LAUT_INDONESIA,Lythrichthys,3,0,1.0,"['Lythrichthys cypho', 'Lythrichthys eulabes', 'Lythrichthys longimanus']",False
+LAUT_INDONESIA,Macolor,2,1,0.5,['Macolor macularis'],False
+LAUT_INDONESIA,Macrocephenchelys,2,0,1.0,"['Macrocephenchelys brachialis', 'Macrocephenchelys brevirostris']",False
+LAUT_INDONESIA,Macrodontogobius,1,0,1.0,['Macrodontogobius wilburi'],False
+LAUT_INDONESIA,Macrognathus,1,0,1.0,['Macrognathus aculeatus'],False
+LAUT_INDONESIA,Macropharyngodon,3,1,0.6666666666666666,"['Macropharyngodon meleagris', 'Macropharyngodon ornatus']",False
+LAUT_INDONESIA,Macrorhamphosodes,1,0,1.0,['Macrorhamphosodes platycheilus'],False
+LAUT_INDONESIA,Maculabatis,5,0,1.0,"['Maculabatis astra', 'Maculabatis gerrardi', 'Maculabatis macrura', 'Maculabatis pastinacoides', 'Maculabatis toshi']",False
+LAUT_INDONESIA,Magnisudis,1,0,1.0,['Magnisudis indica'],False
+LAUT_INDONESIA,Mahidolia,1,0,1.0,['Mahidolia mystacina'],False
+LAUT_INDONESIA,Makaira,1,0,1.0,['Makaira mazara'],False
+LAUT_INDONESIA,Malacanthus,2,1,0.5,['Malacanthus brevirostris'],False
+LAUT_INDONESIA,Malacocephalus,1,0,1.0,['Malacocephalus laevis'],False
+LAUT_INDONESIA,Malacosteus,1,0,1.0,['Malacosteus niger'],False
+LAUT_INDONESIA,Malakichthys,1,0,1.0,['Malakichthys elegans'],False
+LAUT_INDONESIA,Malthopsis,1,0,1.0,['Malthopsis kobayashii'],False
+LAUT_INDONESIA,Manducus,1,0,1.0,['Manducus greyae'],False
+LAUT_INDONESIA,Manonichthys,4,0,1.0,"['Manonichthys alleni', 'Manonichthys jamali', 'Manonichthys polynemus', 'Manonichthys splendens']",False
+LAUT_INDONESIA,Marilyna,1,0,1.0,['Marilyna meraukensis'],False
+LAUT_INDONESIA,Mastigopterus,1,0,1.0,['Mastigopterus imperator'],False
+LAUT_INDONESIA,Mataeocephalus,1,0,1.0,['Mataeocephalus adustus'],False
+LAUT_INDONESIA,Maurolicus,2,0,1.0,"['Maurolicus javanicus', 'Maurolicus muelleri']",False
+LAUT_INDONESIA,Megachasma,1,0,1.0,['Megachasma pelagios'],False
+LAUT_INDONESIA,Megalaspis,1,1,0.0,[],False
+LAUT_INDONESIA,Megalops,1,0,1.0,['Megalops cyprinoides'],False
+LAUT_INDONESIA,Megatrygon,1,0,1.0,['Megatrygon microps'],False
+LAUT_INDONESIA,Meiacanthus,15,1,0.9333333333333333,"['Meiacanthus abditus', 'Meiacanthus abruptus', 'Meiacanthus anema', 'Meiacanthus crinitus', 'Meiacanthus cyanopterus', 'Meiacanthus ditrema', 'Meiacanthus erdmanni', 'Meiacanthus geminatus', 'Meiacanthus grammistes', 'Meiacanthus limbatus', 'Meiacanthus smithi', 'Meiacanthus urostigma', 'Meiacanthus vicinus', 'Meiacanthus vittatus']",False
+LAUT_INDONESIA,Melamphaes,3,0,1.0,"['Melamphaes danae', 'Melamphaes eulepis', 'Melamphaes longivelis']",False
+LAUT_INDONESIA,Melanostigma,1,0,1.0,['Melanostigma vitiazi'],False
+LAUT_INDONESIA,Melanostomias,3,0,1.0,"['Melanostomias macrophotus', 'Melanostomias nigroaxialis', 'Melanostomias valdiviae']",False
+LAUT_INDONESIA,Melapedalion,1,0,1.0,['Melapedalion breve'],False
+LAUT_INDONESIA,Melichthys,3,0,1.0,"['Melichthys indicus', 'Melichthys niger', 'Melichthys vidua']",False
+LAUT_INDONESIA,Mene,1,0,1.0,['Mene maculata'],False
+LAUT_INDONESIA,Mesopristes,3,1,0.6666666666666666,"['Mesopristes argenteus', 'Mesopristes iravi']",False
+LAUT_INDONESIA,Microbrotula,2,0,1.0,"['Microbrotula bentleyi', 'Microbrotula geraldalleni']",False
+LAUT_INDONESIA,Micrognathus,4,0,1.0,"['Micrognathus andersonii', 'Micrognathus micronotopterus', 'Micrognathus natans', 'Micrognathus pygmaeus']",False
+LAUT_INDONESIA,Microlipophrys,1,0,1.0,['Microlipophrys nigriceps'],False
+LAUT_INDONESIA,Microphis,5,0,1.0,"['Microphis argulus', 'Microphis brachyurus', 'Microphis leiaspis', 'Microphis manadensis', 'Microphis mento']",False
+LAUT_INDONESIA,Microphotolepis,2,0,1.0,"['Microphotolepis multipunctata', 'Microphotolepis schmidti']",False
+LAUT_INDONESIA,Mimoblennius,1,0,1.0,['Mimoblennius atrocinctus'],False
+LAUT_INDONESIA,Minous,6,2,0.6666666666666666,"['Minous coccineus', 'Minous groeneveldi', 'Minous pusillus', 'Minous roseus']",False
+LAUT_INDONESIA,Minyichthys,2,0,1.0,"['Minyichthys brachyrhinus', 'Minyichthys myersi']",False
+LAUT_INDONESIA,Mirolabrichthys,3,0,1.0,"['Mirolabrichthys evansi', 'Mirolabrichthys pascalus', 'Mirolabrichthys tuka']",False
+LAUT_INDONESIA,Mobula,5,0,1.0,"['Mobula alfredi', 'Mobula birostris', 'Mobula eregoodoo', 'Mobula kuhlii', 'Mobula mobular']",False
+LAUT_INDONESIA,Mola,1,0,1.0,['Mola mola'],False
+LAUT_INDONESIA,Monacanthus,1,1,0.0,[],False
+LAUT_INDONESIA,Monocentris,1,0,1.0,['Monocentris japonica'],False
+LAUT_INDONESIA,Monochirus,1,0,1.0,['Monochirus trichodactylus'],False
+LAUT_INDONESIA,Monodactylus,1,0,1.0,['Monodactylus argenteus'],False
+LAUT_INDONESIA,Monomitopus,2,0,1.0,"['Monomitopus garmani', 'Monomitopus longiceps']",False
+LAUT_INDONESIA,Monotaxis,2,1,0.5,['Monotaxis grandoculis'],False
+LAUT_INDONESIA,Moolgarda,5,1,0.8,"['Moolgarda buchanani', 'Moolgarda crenilabis', 'Moolgarda heterocheilos', 'Moolgarda pedaraki']",False
+LAUT_INDONESIA,Moringua,7,0,1.0,"['Moringua abbreviata', 'Moringua bicolor', 'Moringua ferruginea', 'Moringua javanica', 'Moringua macrochir', 'Moringua microchir', 'Moringua raitaborua']",False
+LAUT_INDONESIA,Mugil,1,0,1.0,['Mugil cephalus'],False
+LAUT_INDONESIA,Mugilogobius,4,0,1.0,"['Mugilogobius cavifrons', 'Mugilogobius notospilus', 'Mugilogobius platystoma', 'Mugilogobius rambaiae']",False
+LAUT_INDONESIA,Mulloidichthys,3,0,1.0,"['Mulloidichthys flavolineatus', 'Mulloidichthys pfluegeri', 'Mulloidichthys vanicolensis']",False
+LAUT_INDONESIA,Muraenesox,2,0,1.0,"['Muraenesox bagio', 'Muraenesox cinereus']",False
+LAUT_INDONESIA,Muraenichthys,3,0,1.0,"['Muraenichthys gymnopterus', 'Muraenichthys schultzei', 'Muraenichthys sibogae']",False
+LAUT_INDONESIA,Mustelus,2,0,1.0,"['Mustelus stevensi', 'Mustelus widodoi']",False
+LAUT_INDONESIA,Myctophum,2,0,1.0,"['Myctophum brachygnathum', 'Myctophum lunatum']",False
+LAUT_INDONESIA,Myersina,5,0,1.0,"['Myersina filifer', 'Myersina lachneri', 'Myersina macrostoma', 'Myersina nigrivirgata', 'Myersina papuanus']",False
+LAUT_INDONESIA,Myliobatis,1,0,1.0,['Myliobatis hamlyni'],False
+LAUT_INDONESIA,Myrichthys,2,0,1.0,"['Myrichthys colubrinus', 'Myrichthys maculosus']",False
+LAUT_INDONESIA,Myripristis,13,1,0.9230769230769231,"['Myripristis adusta', 'Myripristis amaena', 'Myripristis aulacodes', 'Myripristis berndti', 'Myripristis chryseres', 'Myripristis hexagona', 'Myripristis kuntee', 'Myripristis murdjan', 'Myripristis pralinia', 'Myripristis trachyacron', 'Myripristis violacea', 'Myripristis vittata']",False
+LAUT_INDONESIA,Mystus,1,0,1.0,['Mystus gulio'],False
+LAUT_INDONESIA,Nandus,1,0,1.0,['Nandus nebulosus'],False
+LAUT_INDONESIA,Nannocampus,1,0,1.0,['Nannocampus weberi'],False
+LAUT_INDONESIA,Nannosalarias,1,0,1.0,['Nannosalarias nativitatis'],False
+LAUT_INDONESIA,Narcine,6,0,1.0,"['Narcine baliensis', 'Narcine brunnea', 'Narcine lingula', 'Narcine maculata', 'Narcine prodorsalis', 'Narcine timlei']",False
+LAUT_INDONESIA,Narcinops,1,0,1.0,['Narcinops lasti'],False
+LAUT_INDONESIA,Narke,1,0,1.0,['Narke dipterygia'],False
+LAUT_INDONESIA,Naso,16,7,0.5625,"['Naso annulatus', 'Naso brachycentron', 'Naso elegans', 'Naso fageni', 'Naso lopezi', 'Naso mcdadei', 'Naso minor', 'Naso unicornis', 'Naso vlamingii']",False
+LAUT_INDONESIA,Naucrates,1,0,1.0,['Naucrates ductor'],False
+LAUT_INDONESIA,Nealotus,1,0,1.0,['Nealotus tripes'],False
+LAUT_INDONESIA,Neamia,3,0,1.0,"['Neamia articycla', 'Neamia notula', 'Neamia octospina']",False
+LAUT_INDONESIA,Nebrius,1,0,1.0,['Nebrius ferrugineus'],False
+LAUT_INDONESIA,Nectamia,5,0,1.0,"['Nectamia bandanensis', 'Nectamia fusca', 'Nectamia savayensis', 'Nectamia similis', 'Nectamia viria']",False
+LAUT_INDONESIA,Neenchelys,3,0,1.0,"['Neenchelys buitendijki', 'Neenchelys nudiceps', 'Neenchelys similis']",False
+LAUT_INDONESIA,Negaprion,1,0,1.0,['Negaprion acutidens'],False
+LAUT_INDONESIA,Nemanthias,2,0,1.0,"['Nemanthias bicolor', 'Nemanthias dispar']",False
+LAUT_INDONESIA,Nematalosa,2,0,1.0,"['Nematalosa come', 'Nematalosa erebi']",False
+LAUT_INDONESIA,Nemateleotris,2,0,1.0,"['Nemateleotris decora', 'Nemateleotris magnifica']",False
+LAUT_INDONESIA,Nematops,2,0,1.0,"['Nematops grandisquama', 'Nematops macrochirus']",False
+LAUT_INDONESIA,Nemichthys,1,0,1.0,['Nemichthys scolopaceus'],False
+LAUT_INDONESIA,Nemipterus,22,1,0.9545454545454546,"['Nemipterus aurora', 'Nemipterus balinensis', 'Nemipterus balinensoides', 'Nemipterus bathybius', 'Nemipterus bipunctatus', 'Nemipterus celebicus', 'Nemipterus furcosus', 'Nemipterus gracilis', 'Nemipterus isacanthus', 'Nemipterus japonicus', 'Nemipterus marginatus', 'Nemipterus mesoprion', 'Nemipterus nematophorus', 'Nemipterus nematopus', 'Nemipterus nemurus', 'Nemipterus peronii', 'Nemipterus sugillatus', 'Nemipterus tambuloides', 'Nemipterus thosaporni', 'Nemipterus virgatus', 'Nemipterus zysron']",False
+LAUT_INDONESIA,Neoaploactis,1,0,1.0,['Neoaploactis tridorsalis'],False
+LAUT_INDONESIA,Neoarius,3,0,1.0,"['Neoarius graeffei', 'Neoarius hainesi', 'Neoarius pectoralis']",False
+LAUT_INDONESIA,Neobathyclupea,2,0,1.0,"['Neobathyclupea gracilis', 'Neobathyclupea malayana']",False
+LAUT_INDONESIA,Neobythites,6,0,1.0,"['Neobythites javaensis', 'Neobythites lombokensis', 'Neobythites longipes', 'Neobythites macrops', 'Neobythites malayanus', 'Neobythites purus']",False
+LAUT_INDONESIA,Neocentropogon,1,0,1.0,['Neocentropogon aeglefinus'],False
+LAUT_INDONESIA,Neocirrhites,1,0,1.0,['Neocirrhites armatus'],False
+LAUT_INDONESIA,Neoepinnula,1,0,1.0,['Neoepinnula orientalis'],False
+LAUT_INDONESIA,Neoglyphidodon,6,0,1.0,"['Neoglyphidodon bonang', 'Neoglyphidodon crossi', 'Neoglyphidodon melas', 'Neoglyphidodon nigroris', 'Neoglyphidodon oxyodon', 'Neoglyphidodon thoracotaeniatus']",False
+LAUT_INDONESIA,Neolaeops,1,0,1.0,['Neolaeops microphthalmus'],False
+LAUT_INDONESIA,Neomerinthe,4,0,1.0,"['Neomerinthe amplisquamiceps', 'Neomerinthe erostris', 'Neomerinthe megalepis', 'Neomerinthe procurva']",False
+LAUT_INDONESIA,Neoniphon,4,1,0.75,"['Neoniphon argenteus', 'Neoniphon aurolineatus', 'Neoniphon opercularis']",False
+LAUT_INDONESIA,Neopomacentrus,9,1,0.8888888888888888,"['Neopomacentrus anabatoides', 'Neopomacentrus azysron', 'Neopomacentrus bankieri', 'Neopomacentrus cyanomos', 'Neopomacentrus filamentosus', 'Neopomacentrus nemurus', 'Neopomacentrus sororius', 'Neopomacentrus taeniurus']",False
+LAUT_INDONESIA,Neostethus,4,0,1.0,"['Neostethus bicornis', 'Neostethus borneensis', 'Neostethus djajaorum', 'Neostethus lankesteri']",False
+LAUT_INDONESIA,Neotrygon,9,0,1.0,"['Neotrygon annotata', 'Neotrygon australiae', 'Neotrygon bobwardi', 'Neotrygon caeruleopunctata', 'Neotrygon leylandi', 'Neotrygon malaccensis', 'Neotrygon moluccensis', 'Neotrygon orientalis', 'Neotrygon westpapuensis']",False
+LAUT_INDONESIA,Neovespicula,1,0,1.0,['Neovespicula depressifrons'],False
+LAUT_INDONESIA,Nesiarchus,1,0,1.0,['Nesiarchus nasutus'],False
+LAUT_INDONESIA,Nettenchelys,1,0,1.0,['Nettenchelys gephyra'],False
+LAUT_INDONESIA,Netuma,2,0,1.0,"['Netuma bilineata', 'Netuma thalassina']",False
+LAUT_INDONESIA,Nezumia,1,0,1.0,['Nezumia merretti'],False
+LAUT_INDONESIA,Nibea,3,0,1.0,"['Nibea coibor', 'Nibea soldado', 'Nibea squamosa']",False
+LAUT_INDONESIA,Nielsenichthys,1,0,1.0,['Nielsenichthys pullus'],False
+LAUT_INDONESIA,Nomorhamphus,2,0,1.0,"['Nomorhamphus ebrardtii', 'Nomorhamphus megarrhamphus']",False
+LAUT_INDONESIA,Norfolkia,1,1,0.0,[],False
+LAUT_INDONESIA,Notograptus,1,0,1.0,['Notograptus guttatus'],False
+LAUT_INDONESIA,Notoscopelus,1,0,1.0,['Notoscopelus resplendens'],False
+LAUT_INDONESIA,Novaculichthys,1,0,1.0,['Novaculichthys taeniourus'],False
+LAUT_INDONESIA,Novaculoides,1,1,0.0,[],False
+LAUT_INDONESIA,Novaculops,1,0,1.0,['Novaculops halsteadi'],False
+LAUT_INDONESIA,Nuchequula,3,2,0.3333333333333333,['Nuchequula glenysae'],False
+LAUT_INDONESIA,Nudiantennarius,1,0,1.0,['Nudiantennarius subteres'],False
+LAUT_INDONESIA,Odontanthias,4,1,0.75,"['Odontanthias chrysostictus', 'Odontanthias randalli', 'Odontanthias rhodopeplus']",False
+LAUT_INDONESIA,Odonteleotris,2,0,1.0,"['Odonteleotris canina', 'Odonteleotris macrodon']",False
+LAUT_INDONESIA,Odonus,1,1,0.0,[],False
+LAUT_INDONESIA,Okamejei,1,0,1.0,['Okamejei cairae'],False
+LAUT_INDONESIA,Oligolepis,1,0,1.0,['Oligolepis acutipennis'],False
+LAUT_INDONESIA,Omobranchus,7,0,1.0,"['Omobranchus elongatus', 'Omobranchus ferox', 'Omobranchus germaini', 'Omobranchus hikkaduwensis', 'Omobranchus obliquus', 'Omobranchus punctatus', 'Omobranchus zebra']",False
+LAUT_INDONESIA,Omox,2,0,1.0,"['Omox biporos', 'Omox lupus']",False
+LAUT_INDONESIA,Oneirodes,12,0,1.0,"['Oneirodes alius', 'Oneirodes amaokai', 'Oneirodes carlsbergi', 'Oneirodes cristatus', 'Oneirodes micronema', 'Oneirodes mirus', 'Oneirodes plagionema', 'Oneirodes pterurus', 'Oneirodes quadrinema', 'Oneirodes sabex', 'Oneirodes schistonema', 'Oneirodes schmidti']",False
+LAUT_INDONESIA,Onigocia,5,0,1.0,"['Onigocia macrolepis', 'Onigocia oligolepis', 'Onigocia pedimacula', 'Onigocia sibogae', 'Onigocia spinosa']",False
+LAUT_INDONESIA,Onuxodon,2,0,1.0,"['Onuxodon fowleri', 'Onuxodon parvibrachium']",False
+LAUT_INDONESIA,Ophichthus,9,0,1.0,"['Ophichthus altipennis', 'Ophichthus apicalis', 'Ophichthus bonaparti', 'Ophichthus celebicus', 'Ophichthus cephalozona', 'Ophichthus macrochir', 'Ophichthus polyophthalmus', 'Ophichthus rutidoderma', 'Ophichthus urolophus']",False
+LAUT_INDONESIA,Ophidion,1,0,1.0,['Ophidion muraenolepis'],False
+LAUT_INDONESIA,Ophiocara,3,0,1.0,"['Ophiocara gigas', 'Ophiocara ophicephalus', 'Ophiocara porocephala']",False
+LAUT_INDONESIA,Ophisternon,1,0,1.0,['Ophisternon bengalense'],False
+LAUT_INDONESIA,Opisthopterus,2,0,1.0,"['Opisthopterus tardoore', 'Opisthopterus valenciennesi']",False
+LAUT_INDONESIA,Opistognathus,11,1,0.9090909090909091,"['Opistognathus albomaculatus', 'Opistognathus castelnaui', 'Opistognathus decorus', 'Opistognathus dendriticus', 'Opistognathus papuensis', 'Opistognathus randalli', 'Opistognathus rosenbergii', 'Opistognathus rufilineatus', 'Opistognathus solorensis', 'Opistognathus variabilis']",False
+LAUT_INDONESIA,Oplopomops,1,0,1.0,['Oplopomops diacanthus'],False
+LAUT_INDONESIA,Oplopomus,2,0,1.0,"['Oplopomus caninoides', 'Oplopomus oplopomus']",False
+LAUT_INDONESIA,Orectolobus,1,0,1.0,['Orectolobus leptolineatus'],False
+LAUT_INDONESIA,Oreochromis,2,2,0.0,[],False
+LAUT_INDONESIA,Oryzias,1,1,0.0,[],False
+LAUT_INDONESIA,Osteochilus,2,0,1.0,"['Osteochilus kuekenthali', 'Osteochilus serokan']",False
+LAUT_INDONESIA,Osteogeneiosus,1,0,1.0,['Osteogeneiosus militaris'],False
+LAUT_INDONESIA,Osteomugil,3,0,1.0,"['Osteomugil cunnesius', 'Osteomugil engeli', 'Osteomugil speigleri']",False
+LAUT_INDONESIA,Ostichthys,4,0,1.0,"['Ostichthys acanthorhinus', 'Ostichthys alamai', 'Ostichthys japonicus', 'Ostichthys kaianus']",False
+LAUT_INDONESIA,Ostorhinchus,53,4,0.9245283018867925,"['Ostorhinchus angustatus', 'Ostorhinchus apogonoides', 'Ostorhinchus bryx', 'Ostorhinchus cavitensis', 'Ostorhinchus cheni', 'Ostorhinchus chrysotaenia', 'Ostorhinchus cladophilos', 'Ostorhinchus compressus', 'Ostorhinchus cookii', 'Ostorhinchus cyanosoma', 'Ostorhinchus cyanotaenia', 'Ostorhinchus dispar', 'Ostorhinchus endekataenia', 'Ostorhinchus franssedai', 'Ostorhinchus griffini', 'Ostorhinchus hartzfeldii', 'Ostorhinchus hoevenii', 'Ostorhinchus holotaenia', 'Ostorhinchus jenkinsi', 'Ostorhinchus komodoensis', 'Ostorhinchus leptofasciatus', 'Ostorhinchus lineomaculatus', 'Ostorhinchus margaritophorus', 'Ostorhinchus melanoproctus', 'Ostorhinchus microspilos', 'Ostorhinchus moluccensis', 'Ostorhinchus monospilus', 'Ostorhinchus multilineatus', 'Ostorhinchus nanus', 'Ostorhinchus neotes', 'Ostorhinchus nigrocincta', 'Ostorhinchus nigrofasciatus', 'Ostorhinchus notatus', 'Ostorhinchus novemfasciatus', 'Ostorhinchus ocellicaudus', 'Ostorhinchus oxygrammus', 'Ostorhinchus parvulus', 'Ostorhinchus pleuron', 'Ostorhinchus properuptus', 'Ostorhinchus rubrimacula', 'Ostorhinchus rueppellii', 'Ostorhinchus schlegeli', 'Ostorhinchus sealei', 'Ostorhinchus selas', 'Ostorhinchus semilineatus', 'Ostorhinchus septemstriatus', 'Ostorhinchus taeniophorus', 'Ostorhinchus urostigmus', 'Ostorhinchus wassinki']",False
+LAUT_INDONESIA,Ostracion,4,2,0.5,"['Ostracion meleagris', 'Ostracion solorense']",False
+LAUT_INDONESIA,Otolithes,1,0,1.0,['Otolithes ruber'],False
+LAUT_INDONESIA,Otolithoides,2,0,1.0,"['Otolithoides biauritus', 'Otolithoides pama']",False
+LAUT_INDONESIA,Owstonia,4,1,0.75,"['Owstonia grammodon', 'Owstonia nudibucca', 'Owstonia sarmiento']",False
+LAUT_INDONESIA,Oxuderces,1,0,1.0,['Oxuderces dentatus'],False
+LAUT_INDONESIA,Oxycheilinus,7,3,0.5714285714285714,"['Oxycheilinus arenatus', 'Oxycheilinus celebicus', 'Oxycheilinus samurai', 'Oxycheilinus unifasciatus']",False
+LAUT_INDONESIA,Oxycirrhites,1,0,1.0,['Oxycirrhites typus'],False
+LAUT_INDONESIA,Oxyeleotris,2,0,1.0,"['Oxyeleotris marmorata', 'Oxyeleotris mertoni']",False
+LAUT_INDONESIA,Oxymetopon,3,0,1.0,"['Oxymetopon compressus', 'Oxymetopon cyanoctenosum', 'Oxymetopon typus']",False
+LAUT_INDONESIA,Oxymonacanthus,1,0,1.0,['Oxymonacanthus longirostris'],False
+LAUT_INDONESIA,Oxyporhamphus,1,0,1.0,['Oxyporhamphus micropterus'],False
+LAUT_INDONESIA,Oxyurichthys,10,2,0.8,"['Oxyurichthys auchenolepis', 'Oxyurichthys cornutus', 'Oxyurichthys lonchotus', 'Oxyurichthys microlepis', 'Oxyurichthys notonema', 'Oxyurichthys ophthalmonema', 'Oxyurichthys tentacularis', 'Oxyurichthys uronema']",False
+LAUT_INDONESIA,Pachyula,1,0,1.0,['Pachyula conorhynchus'],False
+LAUT_INDONESIA,Pagrus,1,0,1.0,['Pagrus auratus'],False
+LAUT_INDONESIA,Palutrus,1,0,1.0,['Palutrus scapulopunctatus'],False
+LAUT_INDONESIA,Pampus,2,0,1.0,"['Pampus argenteus', 'Pampus chinensis']",False
+LAUT_INDONESIA,Pandaka,2,0,1.0,"['Pandaka pusilla', 'Pandaka pygmaea']",False
+LAUT_INDONESIA,Panna,2,0,1.0,"['Panna microdon', 'Panna perarmata']",False
+LAUT_INDONESIA,Pantolabus,1,0,1.0,['Pantolabus radiatus'],False
+LAUT_INDONESIA,Papuengraulis,1,0,1.0,['Papuengraulis micropinna'],False
+LAUT_INDONESIA,Parabathymyrus,1,0,1.0,['Parabathymyrus macrophthalmus'],False
+LAUT_INDONESIA,Parabothus,1,0,1.0,['Parabothus kiensis'],False
+LAUT_INDONESIA,Paracaesio,3,0,1.0,"['Paracaesio kusakarii', 'Paracaesio sordida', 'Paracaesio xanthurus']",False
+LAUT_INDONESIA,Paracanthurus,1,0,1.0,['Paracanthurus hepatus'],False
+LAUT_INDONESIA,Paracentropogon,2,0,1.0,"['Paracentropogon longispinis', 'Paracentropogon zonatus']",False
+LAUT_INDONESIA,Paracentropyge,1,0,1.0,['Paracentropyge multifasciata'],False
+LAUT_INDONESIA,Parachaetodon,1,0,1.0,['Parachaetodon ocellatus'],False
+LAUT_INDONESIA,Parachaeturichthys,1,0,1.0,['Parachaeturichthys polynema'],False
+LAUT_INDONESIA,Paracheilinus,13,1,0.9230769230769231,"['Paracheilinus alfiani', 'Paracheilinus angulatus', 'Paracheilinus bellae', 'Paracheilinus carpenteri', 'Paracheilinus cyaneus', 'Paracheilinus flavianalis', 'Paracheilinus nursalim', 'Paracheilinus paineorum', 'Paracheilinus rennyae', 'Paracheilinus togeanensis', 'Paracheilinus walton', 'Paracheilinus xanthocirritus']",False
+LAUT_INDONESIA,Paracirrhites,2,0,1.0,"['Paracirrhites arcatus', 'Paracirrhites forsteri']",False
+LAUT_INDONESIA,Paradiancistrus,1,0,1.0,['Paradiancistrus lombokensis'],False
+LAUT_INDONESIA,Paradoxodacna,1,0,1.0,['Paradoxodacna piratica'],False
+LAUT_INDONESIA,Paragobiodon,2,0,1.0,"['Paragobiodon echinocephalus', 'Paragobiodon xanthosoma']",False
+LAUT_INDONESIA,Paraheminodus,1,0,1.0,['Paraheminodus murrayi'],False
+LAUT_INDONESIA,Paralticus,1,0,1.0,['Paralticus amboinensis'],False
+LAUT_INDONESIA,Paraluteres,1,0,1.0,['Paraluteres prionurus'],False
+LAUT_INDONESIA,Parambassis,1,0,1.0,['Parambassis apogonoides'],False
+LAUT_INDONESIA,Paramonacanthus,8,0,1.0,"['Paramonacanthus choirocephalus', 'Paramonacanthus cryptodon', 'Paramonacanthus curtorhynchos', 'Paramonacanthus japonicus', 'Paramonacanthus nipponensis', 'Paramonacanthus pusillus', 'Paramonacanthus sulcatus', 'Paramonacanthus tricuspis']",False
+LAUT_INDONESIA,Paramugil,1,0,1.0,['Paramugil parmatus'],False
+LAUT_INDONESIA,Parapercis,21,0,1.0,"['Parapercis alboguttata', 'Parapercis bimacula', 'Parapercis clathrata', 'Parapercis compressa', 'Parapercis cylindrica', 'Parapercis diagonalis', 'Parapercis diplospilus', 'Parapercis filamentosa', 'Parapercis flavolineata', 'Parapercis hexophtalma', 'Parapercis lineopunctata', 'Parapercis millepunctata', 'Parapercis multiplicata', 'Parapercis pacifica', 'Parapercis sagma', 'Parapercis schauinslandii', 'Parapercis sexfasciata', 'Parapercis snyderi', 'Parapercis striolata', 'Parapercis tetracantha', 'Parapercis xanthozona']",False
+LAUT_INDONESIA,Paraplagusia,2,1,0.5,['Paraplagusia blochii'],False
+LAUT_INDONESIA,Paraploactis,2,0,1.0,"['Paraploactis kagoshimensis', 'Paraploactis obbesi']",False
+LAUT_INDONESIA,Paraplotosus,1,0,1.0,['Paraplotosus albilabris'],False
+LAUT_INDONESIA,Parapocryptes,1,0,1.0,['Parapocryptes serperaster'],False
+LAUT_INDONESIA,Parapolynemus,1,0,1.0,['Parapolynemus verekeri'],False
+LAUT_INDONESIA,Parapriacanthus,1,0,1.0,['Parapriacanthus ransonneti'],False
+LAUT_INDONESIA,Parapterois,1,0,1.0,['Parapterois heterura'],False
+LAUT_INDONESIA,Parascolopsis,7,0,1.0,"['Parascolopsis akatamae', 'Parascolopsis eriomma', 'Parascolopsis inermis', 'Parascolopsis melanophrys', 'Parascolopsis qantasi', 'Parascolopsis tanyactis', 'Parascolopsis tosensis']",False
+LAUT_INDONESIA,Parascombrops,3,0,1.0,"['Parascombrops glossodon', 'Parascombrops parvidens', 'Parascombrops philippinensis']",False
+LAUT_INDONESIA,Parascorpaena,5,1,0.8,"['Parascorpaena bandanensis', 'Parascorpaena mcadamsi', 'Parascorpaena mossambica', 'Parascorpaena picta']",False
+LAUT_INDONESIA,Parastromateus,1,0,1.0,['Parastromateus niger'],False
+LAUT_INDONESIA,Parateleopus,2,0,1.0,"['Parateleopus indicus', 'Parateleopus microstomus']",False
+LAUT_INDONESIA,Paratrypauchen,1,0,1.0,['Paratrypauchen microcephalus'],False
+LAUT_INDONESIA,Paraulopus,2,0,1.0,"['Paraulopus brevirostris', 'Paraulopus oblongus']",False
+LAUT_INDONESIA,Pardachirus,2,0,1.0,"['Pardachirus pavoninus', 'Pardachirus poropterus']",False
+LAUT_INDONESIA,Parenchelyurus,1,0,1.0,['Parenchelyurus hepburni'],False
+LAUT_INDONESIA,Parexocoetus,1,0,1.0,['Parexocoetus brachypterus'],False
+LAUT_INDONESIA,Parioglossus,8,0,1.0,"['Parioglossus aporos', 'Parioglossus formosus', 'Parioglossus interruptus', 'Parioglossus nudus', 'Parioglossus palustris', 'Parioglossus philippinus', 'Parioglossus rainfordi', 'Parioglossus raoi']",False
+LAUT_INDONESIA,Parmaturus,1,0,1.0,['Parmaturus lanatus'],False
+LAUT_INDONESIA,Parupeneus,16,2,0.875,"['Parupeneus barberinus', 'Parupeneus chrysopleuron', 'Parupeneus ciliatus', 'Parupeneus crassilabris', 'Parupeneus cyclostomus', 'Parupeneus heptacantha', 'Parupeneus inayatae', 'Parupeneus indicus', 'Parupeneus jansenii', 'Parupeneus macronemus', 'Parupeneus pleurostigma', 'Parupeneus rubescens', 'Parupeneus spilurus', 'Parupeneus trifasciatus']",False
+LAUT_INDONESIA,Pastinachus,4,0,1.0,"['Pastinachus ater', 'Pastinachus gracilicaudus', 'Pastinachus solocirostris', 'Pastinachus stellurostris']",False
+LAUT_INDONESIA,Pateobatis,5,0,1.0,"['Pateobatis bleekeri', 'Pateobatis fai', 'Pateobatis hortlei', 'Pateobatis jenkinsii', 'Pateobatis uarnacoides']",False
+LAUT_INDONESIA,Pegasus,2,0,1.0,"['Pegasus laternarius', 'Pegasus volitans']",False
+LAUT_INDONESIA,Pelates,1,1,0.0,[],False
+LAUT_INDONESIA,Pellona,1,0,1.0,['Pellona ditchela'],False
+LAUT_INDONESIA,Pempheris,7,1,0.8571428571428571,"['Pempheris malabarica', 'Pempheris molucca', 'Pempheris otaitensis', 'Pempheris oualensis', 'Pempheris schwenkii', 'Pempheris vanicolensis']",False
+LAUT_INDONESIA,Penetopteryx,1,0,1.0,['Penetopteryx taeniocephalus'],False
+LAUT_INDONESIA,Pennahia,3,0,1.0,"['Pennahia aneus', 'Pennahia macrocephalus', 'Pennahia pawak']",False
+LAUT_INDONESIA,Pentapodus,10,1,0.9,"['Pentapodus aureofasciatus', 'Pentapodus bifasciatus', 'Pentapodus caninus', 'Pentapodus emeryii', 'Pentapodus komodoensis', 'Pentapodus nagasakiensis', 'Pentapodus numberii', 'Pentapodus porosus', 'Pentapodus trivittatus']",False
+LAUT_INDONESIA,Pentaprion,1,0,1.0,['Pentaprion longimanus'],False
+LAUT_INDONESIA,Pentherichthys,1,0,1.0,['Pentherichthys atratus'],False
+LAUT_INDONESIA,Periophthalmodon,2,0,1.0,"['Periophthalmodon freycineti', 'Periophthalmodon schlosseri']",False
+LAUT_INDONESIA,Periophthalmus,11,0,1.0,"['Periophthalmus argentilineatus', 'Periophthalmus chrysospilos', 'Periophthalmus gracilis', 'Periophthalmus kalolo', 'Periophthalmus malaccensis', 'Periophthalmus minutus', 'Periophthalmus novaeguineaensis', 'Periophthalmus pusing', 'Periophthalmus spilotus', 'Periophthalmus variabilis', 'Periophthalmus weberi']",False
+LAUT_INDONESIA,Peristedion,4,0,1.0,"['Peristedion amblygenys', 'Peristedion liorhynchus', 'Peristedion richardsi', 'Peristedion riversandersoni']",False
+LAUT_INDONESIA,Pervagor,3,1,0.6666666666666666,"['Pervagor janthinosoma', 'Pervagor nigrolineatus']",False
+LAUT_INDONESIA,Petroscirtes,6,0,1.0,"['Petroscirtes breviceps', 'Petroscirtes marginatus', 'Petroscirtes mitratus', 'Petroscirtes thepassii', 'Petroscirtes variabilis', 'Petroscirtes xestus']",False
+LAUT_INDONESIA,Phenablennius,1,0,1.0,['Phenablennius heyligeri'],False
+LAUT_INDONESIA,Phenacoscorpius,1,0,1.0,['Phenacoscorpius megalops'],False
+LAUT_INDONESIA,Pherallodus,1,0,1.0,['Pherallodus indicus'],False
+LAUT_INDONESIA,Pholidichthys,1,0,1.0,['Pholidichthys leucotaenia'],False
+LAUT_INDONESIA,Pholidochromis,2,0,1.0,"['Pholidochromis cerasina', 'Pholidochromis marginatus']",False
+LAUT_INDONESIA,Photoblepharon,1,0,1.0,['Photoblepharon palpebratum'],False
+LAUT_INDONESIA,Photolateralis,1,1,0.0,[],False
+LAUT_INDONESIA,Photonectes,2,0,1.0,"['Photonectes albipennis', 'Photonectes litvinovi']",False
+LAUT_INDONESIA,Photopectoralis,3,0,1.0,"['Photopectoralis aureus', 'Photopectoralis bindus', 'Photopectoralis hataii']",False
+LAUT_INDONESIA,Photostomias,1,0,1.0,['Photostomias liemi'],False
+LAUT_INDONESIA,Phoxocampus,3,0,1.0,"['Phoxocampus belcheri', 'Phoxocampus diacanthus', 'Phoxocampus tetrophthalmus']",False
+LAUT_INDONESIA,Phyllichthys,1,0,1.0,['Phyllichthys punctatus'],False
+LAUT_INDONESIA,Phyllogobius,1,0,1.0,['Phyllogobius platycephalops'],False
+LAUT_INDONESIA,Phyllophichthus,1,0,1.0,['Phyllophichthus xenodontus'],False
+LAUT_INDONESIA,Physiculus,4,0,1.0,"['Physiculus longifilis', 'Physiculus nigrescens', 'Physiculus peregrinus', 'Physiculus roseus']",False
+LAUT_INDONESIA,Pictichromis,7,0,1.0,"['Pictichromis aurifrons', 'Pictichromis caitlinae', 'Pictichromis diadema', 'Pictichromis dinar', 'Pictichromis ephippiata', 'Pictichromis paccagnellorum', 'Pictichromis porphyrea']",False
+LAUT_INDONESIA,Pinjalo,2,0,1.0,"['Pinjalo lewisi', 'Pinjalo pinjalo']",False
+LAUT_INDONESIA,Pisodonophis,4,0,1.0,"['Pisodonophis boro', 'Pisodonophis cancrivorus', 'Pisodonophis hoevenii', 'Pisodonophis hypselopterus']",False
+LAUT_INDONESIA,Plagiotremus,5,0,1.0,"['Plagiotremus laudandus', 'Plagiotremus phenax', 'Plagiotremus rhinorhynchos', 'Plagiotremus spilistius', 'Plagiotremus tapeinosoma']",False
+LAUT_INDONESIA,Planiliza,5,0,1.0,"['Planiliza alata', 'Planiliza macrolepis', 'Planiliza melinoptera', 'Planiliza planiceps', 'Planiliza subviridis']",False
+LAUT_INDONESIA,Platax,5,1,0.8,"['Platax batavianus', 'Platax boersii', 'Platax orbicularis', 'Platax teira']",False
+LAUT_INDONESIA,Platycaranx,3,0,1.0,"['Platycaranx chrysophrys', 'Platycaranx malabaricus', 'Platycaranx talamparoides']",False
+LAUT_INDONESIA,Platycephalus,3,0,1.0,"['Platycephalus endrachtensis', 'Platycephalus indicus', 'Platycephalus westraliae']",False
+LAUT_INDONESIA,Platygobiopsis,2,0,1.0,"['Platygobiopsis akihito', 'Platygobiopsis hadiatyae']",False
+LAUT_INDONESIA,Plectorhinchus,14,2,0.8571428571428571,"['Plectorhinchus albovittatus', 'Plectorhinchus chrysotaenia', 'Plectorhinchus chubbi', 'Plectorhinchus flavomaculatus', 'Plectorhinchus gibbosus', 'Plectorhinchus lessonii', 'Plectorhinchus lineatus', 'Plectorhinchus obscurus', 'Plectorhinchus pictus', 'Plectorhinchus picus', 'Plectorhinchus polytaenia', 'Plectorhinchus schotaf']",False
+LAUT_INDONESIA,Plectranthias,11,0,1.0,"['Plectranthias anthioides', 'Plectranthias fourmanoiri', 'Plectranthias inermis', 'Plectranthias japonicus', 'Plectranthias kamii', 'Plectranthias longimanus', 'Plectranthias megalepis', 'Plectranthias sagamiensis', 'Plectranthias wheeleri', 'Plectranthias whiteheadi', 'Plectranthias winniensis']",False
+LAUT_INDONESIA,Plectroglyphidodon,6,0,1.0,"['Plectroglyphidodon dickii', 'Plectroglyphidodon fasciolatus', 'Plectroglyphidodon johnstonianus', 'Plectroglyphidodon leucozonus', 'Plectroglyphidodon obreptus', 'Plectroglyphidodon phoenixensis']",False
+LAUT_INDONESIA,Plectropomus,6,1,0.8333333333333334,"['Plectropomus areolatus', 'Plectropomus laevis', 'Plectropomus leopardus', 'Plectropomus maculatus', 'Plectropomus pessuliferus']",False
+LAUT_INDONESIA,Plectrypops,1,0,1.0,['Plectrypops lima'],False
+LAUT_INDONESIA,Plesiops,9,0,1.0,"['Plesiops auritus', 'Plesiops cephalotaenia', 'Plesiops coeruleolineatus', 'Plesiops corallicola', 'Plesiops facicavus', 'Plesiops gracilis', 'Plesiops oxycephalus', 'Plesiops thysanopterus', 'Plesiops verecundus']",False
+LAUT_INDONESIA,Pleurosicya,12,2,0.8333333333333334,"['Pleurosicya annandalei', 'Pleurosicya bilobata', 'Pleurosicya boldinghi', 'Pleurosicya carolinensis', 'Pleurosicya elongata', 'Pleurosicya labiata', 'Pleurosicya micheli', 'Pleurosicya muscarum', 'Pleurosicya plicata', 'Pleurosicya spongicola']",False
+LAUT_INDONESIA,Plicofollis,4,0,1.0,"['Plicofollis argyropleuron', 'Plicofollis nella', 'Plicofollis polystaphylodon', 'Plicofollis tonggol']",False
+LAUT_INDONESIA,Plicomugil,1,0,1.0,['Plicomugil labiosus'],False
+LAUT_INDONESIA,Plotosus,2,0,1.0,"['Plotosus canius', 'Plotosus lineatus']",False
+LAUT_INDONESIA,Poecilia,1,0,1.0,['Poecilia latipinna'],False
+LAUT_INDONESIA,Poecilopsetta,2,0,1.0,"['Poecilopsetta colorata', 'Poecilopsetta praelonga']",False
+LAUT_INDONESIA,Pogonoperca,2,0,1.0,"['Pogonoperca ocellata', 'Pogonoperca punctata']",False
+LAUT_INDONESIA,Pollichthys,1,0,1.0,['Pollichthys mauli'],False
+LAUT_INDONESIA,Polydactylus,8,0,1.0,"['Polydactylus bifurcus', 'Polydactylus macrochir', 'Polydactylus microstoma', 'Polydactylus multiradiatus', 'Polydactylus nigripinnis', 'Polydactylus plebeius', 'Polydactylus sexfilis', 'Polydactylus sextarius']",False
+LAUT_INDONESIA,Polyipnus,5,0,1.0,"['Polyipnus meteori', 'Polyipnus soelae', 'Polyipnus spinosus', 'Polyipnus triphanos', 'Polyipnus unispinus']",False
+LAUT_INDONESIA,Polymetme,2,0,1.0,"['Polymetme corythaeola', 'Polymetme surugaensis']",False
+LAUT_INDONESIA,Polynemus,3,0,1.0,"['Polynemus dubius', 'Polynemus melanochir', 'Polynemus multifilis']",False
+LAUT_INDONESIA,Pomacanthus,6,1,0.8333333333333334,"['Pomacanthus annularis', 'Pomacanthus navarchus', 'Pomacanthus semicirculatus', 'Pomacanthus sexstriatus', 'Pomacanthus xanthometopon']",False
+LAUT_INDONESIA,Pomacentrus,45,3,0.9333333333333333,"['Pomacentrus adelus', 'Pomacentrus albimaculus', 'Pomacentrus alexanderae', 'Pomacentrus amboinensis', 'Pomacentrus andamanensis', 'Pomacentrus armillatus', 'Pomacentrus auriventris', 'Pomacentrus azuremaculatus', 'Pomacentrus bankanensis', 'Pomacentrus bellipictus', 'Pomacentrus bintanensis', 'Pomacentrus burroughi', 'Pomacentrus chrysurus', 'Pomacentrus coelestis', 'Pomacentrus cuneatus', 'Pomacentrus emarginatus', 'Pomacentrus fakfakensis', 'Pomacentrus geminospilus', 'Pomacentrus grammorhynchus', 'Pomacentrus javanicus', 'Pomacentrus komodoensis', 'Pomacentrus lepidogenys', 'Pomacentrus littoralis', 'Pomacentrus melanochir', 'Pomacentrus micronesicus', 'Pomacentrus moluccensis', 'Pomacentrus nagasakiensis', 'Pomacentrus nigromanus', 'Pomacentrus nigromarginatus', 'Pomacentrus novaeguineae', 'Pomacentrus opisthostigma', 'Pomacentrus pavo', 'Pomacentrus reidi', 'Pomacentrus saksonoi', 'Pomacentrus similis', 'Pomacentrus simsiang', 'Pomacentrus smithi', 'Pomacentrus stigma', 'Pomacentrus taeniometopon', 'Pomacentrus tripunctatus', 'Pomacentrus umbratilus', 'Pomacentrus xanthosternus']",False
+LAUT_INDONESIA,Pomadasys,5,1,0.8,"['Pomadasys argenteus', 'Pomadasys argyreus', 'Pomadasys furcatus', 'Pomadasys kaakan']",False
+LAUT_INDONESIA,Pontinus,2,0,1.0,"['Pontinus macrocephalus', 'Pontinus rhodochrous']",False
+LAUT_INDONESIA,Poromitra,1,0,1.0,['Poromitra oscitans'],False
+LAUT_INDONESIA,Praealticus,4,0,1.0,"['Praealticus bilineatus', 'Praealticus oortii', 'Praealticus semicrenatus', 'Praealticus triangulus']",False
+LAUT_INDONESIA,Priacanthus,6,0,1.0,"['Priacanthus blochii', 'Priacanthus fitchi', 'Priacanthus hamrur', 'Priacanthus macracanthus', 'Priacanthus sagittarius', 'Priacanthus tayenus']",False
+LAUT_INDONESIA,Priolepis,13,1,0.9230769230769231,"['Priolepis aithiops', 'Priolepis compita', 'Priolepis fallacincta', 'Priolepis inhaca', 'Priolepis kappa', 'Priolepis nocturna', 'Priolepis nuchifasciata', 'Priolepis pallidicincta', 'Priolepis profunda', 'Priolepis semidoliata', 'Priolepis sticta', 'Priolepis vexilla']",False
+LAUT_INDONESIA,Prionace,1,0,1.0,['Prionace glauca'],False
+LAUT_INDONESIA,Prionurus,1,0,1.0,['Prionurus chrysurus'],False
+LAUT_INDONESIA,Pristiapogon,4,1,0.75,"['Pristiapogon abrogramma', 'Pristiapogon exostigma', 'Pristiapogon fraenatus']",False
+LAUT_INDONESIA,Pristicon,3,0,1.0,"['Pristicon rhodopterus', 'Pristicon rufus', 'Pristicon trimaculatus']",False
+LAUT_INDONESIA,Pristigenys,3,0,1.0,"['Pristigenys meyeri', 'Pristigenys niphonia', 'Pristigenys refulgens']",False
+LAUT_INDONESIA,Pristipomoides,8,2,0.75,"['Pristipomoides argyrogrammicus', 'Pristipomoides auricilla', 'Pristipomoides filamentosus', 'Pristipomoides flavipinnis', 'Pristipomoides multidens', 'Pristipomoides typus']",False
+LAUT_INDONESIA,Pristis,3,0,1.0,"['Pristis microdon', 'Pristis pectinata', 'Pristis zijsron']",False
+LAUT_INDONESIA,Pristotis,1,0,1.0,['Pristotis obtusirostris'],False
+LAUT_INDONESIA,Promethichthys,1,0,1.0,['Promethichthys prometheus'],False
+LAUT_INDONESIA,Promyllantor,1,0,1.0,['Promyllantor purpureus'],False
+LAUT_INDONESIA,Proscyllium,1,0,1.0,['Proscyllium habereri'],False
+LAUT_INDONESIA,Proteracanthus,1,0,1.0,['Proteracanthus sarissophorus'],False
+LAUT_INDONESIA,Protonibea,1,0,1.0,['Protonibea diacanthus'],False
+LAUT_INDONESIA,Psammodiscus,1,0,1.0,['Psammodiscus ocellatus'],False
+LAUT_INDONESIA,Psammogobius,1,0,1.0,['Psammogobius biocellatus'],False
+LAUT_INDONESIA,Psammoperca,1,0,1.0,['Psammoperca waigiensis'],False
+LAUT_INDONESIA,Psenes,4,0,1.0,"['Psenes arafurensis', 'Psenes cyanophrys', 'Psenes maculatus', 'Psenes pellucidus']",False
+LAUT_INDONESIA,Psenopsis,2,0,1.0,"['Psenopsis humerosa', 'Psenopsis obscura']",False
+LAUT_INDONESIA,Psettina,4,0,1.0,"['Psettina brevirictis', 'Psettina gigantea', 'Psettina iijimae', 'Psettina profunda']",False
+LAUT_INDONESIA,Psettodes,1,0,1.0,['Psettodes erumei'],False
+LAUT_INDONESIA,Pseudalutarius,1,0,1.0,['Pseudalutarius nasicornis'],False
+LAUT_INDONESIA,Pseudamia,4,0,1.0,"['Pseudamia amblyuroptera', 'Pseudamia gelatinosa', 'Pseudamia hayashii', 'Pseudamia zonata']",False
+LAUT_INDONESIA,Pseudamiops,1,0,1.0,['Pseudamiops gracilicauda'],False
+LAUT_INDONESIA,Pseudanthias,19,1,0.9473684210526315,"['Pseudanthias bimaculatus', 'Pseudanthias charleneae', 'Pseudanthias cichlops', 'Pseudanthias cooperi', 'Pseudanthias engelhardi', 'Pseudanthias fasciatus', 'Pseudanthias huchtii', 'Pseudanthias hutomoi', 'Pseudanthias hypselosoma', 'Pseudanthias ignitus', 'Pseudanthias lunulatus', 'Pseudanthias luzonensis', 'Pseudanthias manadensis', 'Pseudanthias mica', 'Pseudanthias randalli', 'Pseudanthias rubrizonatus', 'Pseudanthias squamipinnis', 'Pseudanthias ventralis']",False
+LAUT_INDONESIA,Pseudapocryptes,2,0,1.0,"['Pseudapocryptes borneensis', 'Pseudapocryptes elongatus']",False
+LAUT_INDONESIA,Pseudechidna,1,0,1.0,['Pseudechidna brummeri'],False
+LAUT_INDONESIA,Pseudobalistes,2,1,0.5,['Pseudobalistes fuscus'],False
+LAUT_INDONESIA,Pseudocarcharias,1,0,1.0,['Pseudocarcharias kamoharai'],False
+LAUT_INDONESIA,Pseudocheilinops,1,0,1.0,['Pseudocheilinops ataenia'],False
+LAUT_INDONESIA,Pseudocheilinus,3,1,0.6666666666666666,"['Pseudocheilinus hexataenia', 'Pseudocheilinus octotaenia']",False
+LAUT_INDONESIA,Pseudochromis,30,1,0.9666666666666667,"['Pseudochromis alticaudex', 'Pseudochromis ammeri', 'Pseudochromis andamanensis', 'Pseudochromis aurulentus', 'Pseudochromis bitaeniatus', 'Pseudochromis coccinicauda', 'Pseudochromis cometes', 'Pseudochromis elongatus', 'Pseudochromis erdmanni', 'Pseudochromis flavopunctatus', 'Pseudochromis fowleri', 'Pseudochromis fuscus', 'Pseudochromis jace', 'Pseudochromis litus', 'Pseudochromis marshallensis', 'Pseudochromis matahari', 'Pseudochromis mooii', 'Pseudochromis moorei', 'Pseudochromis oligochrysus', 'Pseudochromis perspicillatus', 'Pseudochromis pictus', 'Pseudochromis pylei', 'Pseudochromis quinquedentatus', 'Pseudochromis ransonneti', 'Pseudochromis rutilus', 'Pseudochromis steenei', 'Pseudochromis stellatus', 'Pseudochromis tapeinosoma', 'Pseudochromis tonozukai']",False
+LAUT_INDONESIA,Pseudocoris,5,1,0.8,"['Pseudocoris aurantiofasciata', 'Pseudocoris bleekeri', 'Pseudocoris heteroptera', 'Pseudocoris petila']",False
+LAUT_INDONESIA,Pseudodax,1,0,1.0,['Pseudodax moluccanus'],False
+LAUT_INDONESIA,Pseudogobiopsis,1,0,1.0,['Pseudogobiopsis oligactis'],False
+LAUT_INDONESIA,Pseudogobius,4,0,1.0,"['Pseudogobius avicennia', 'Pseudogobius hoesei', 'Pseudogobius melanosticta', 'Pseudogobius poicilosoma']",False
+LAUT_INDONESIA,Pseudogramma,3,1,0.6666666666666666,"['Pseudogramma astigma', 'Pseudogramma megamyctera']",False
+LAUT_INDONESIA,Pseudojuloides,4,0,1.0,"['Pseudojuloides kaleidos', 'Pseudojuloides mesostigma', 'Pseudojuloides severnsi', 'Pseudojuloides splendens']",False
+LAUT_INDONESIA,Pseudomonacanthus,2,0,1.0,"['Pseudomonacanthus macrurus', 'Pseudomonacanthus peroni']",False
+LAUT_INDONESIA,Pseudomugil,1,0,1.0,['Pseudomugil inconspicuus'],False
+LAUT_INDONESIA,Pseudonezumia,1,0,1.0,['Pseudonezumia parvipes'],False
+LAUT_INDONESIA,Pseudoplesiops,6,0,1.0,"['Pseudoplesiops annae', 'Pseudoplesiops collare', 'Pseudoplesiops immaculatus', 'Pseudoplesiops rosae', 'Pseudoplesiops typus', 'Pseudoplesiops wassi']",False
+LAUT_INDONESIA,Pseudorhombus,13,1,0.9230769230769231,"['Pseudorhombus argus', 'Pseudorhombus cinnamoneus', 'Pseudorhombus diplospilus', 'Pseudorhombus dupliciocellatus', 'Pseudorhombus elevatus', 'Pseudorhombus javanicus', 'Pseudorhombus malayanus', 'Pseudorhombus megalops', 'Pseudorhombus neglectus', 'Pseudorhombus pentophthalmus', 'Pseudorhombus quinquocellatus', 'Pseudorhombus triocellatus']",False
+LAUT_INDONESIA,Pseudosciades,1,0,1.0,['Pseudosciades sona'],False
+LAUT_INDONESIA,Pseudoscopelus,5,0,1.0,"['Pseudoscopelus altipinnis', 'Pseudoscopelus bothrorrhinos', 'Pseudoscopelus cordilluminatus', 'Pseudoscopelus obtusifrons', 'Pseudoscopelus sagamianus']",False
+LAUT_INDONESIA,Pseudotriacanthus,1,0,1.0,['Pseudotriacanthus strigilifer'],False
+LAUT_INDONESIA,Pseudotrichonotus,1,0,1.0,['Pseudotrichonotus caeruleoflavus'],False
+LAUT_INDONESIA,Psilogobius,1,0,1.0,['Psilogobius prolatus'],False
+LAUT_INDONESIA,Pteragogus,4,0,1.0,"['Pteragogus enneacanthus', 'Pteragogus flagellifer', 'Pteragogus guttatus', 'Pteragogus turdus']",False
+LAUT_INDONESIA,Pterapogon,1,0,1.0,['Pterapogon kauderni'],False
+LAUT_INDONESIA,Ptereleotris,9,0,1.0,"['Ptereleotris evides', 'Ptereleotris grammica', 'Ptereleotris hanae', 'Ptereleotris heteroptera', 'Ptereleotris microlepis', 'Ptereleotris monoptera', 'Ptereleotris rubristigma', 'Ptereleotris uroditaenia', 'Ptereleotris zebra']",False
+LAUT_INDONESIA,Pterocaesio,11,1,0.9090909090909091,"['Pterocaesio digramma', 'Pterocaesio flavifasciata', 'Pterocaesio lativittata', 'Pterocaesio marri', 'Pterocaesio monikae', 'Pterocaesio pisang', 'Pterocaesio randalli', 'Pterocaesio tessellata', 'Pterocaesio tile', 'Pterocaesio trilineata']",False
+LAUT_INDONESIA,Pteroidichthys,1,0,1.0,['Pteroidichthys amboinensis'],False
+LAUT_INDONESIA,Pterois,7,0,1.0,"['Pterois andover', 'Pterois antennata', 'Pterois miles', 'Pterois mombasae', 'Pterois radiata', 'Pterois russelii', 'Pterois volitans']",False
+LAUT_INDONESIA,Pteropsaron,2,0,1.0,"['Pteropsaron longipinnis', 'Pteropsaron springeri']",False
+LAUT_INDONESIA,Pterotolithus,2,0,1.0,"['Pterotolithus lateoides', 'Pterotolithus maculatus']",False
+LAUT_INDONESIA,Pterygotrigla,4,0,1.0,"['Pterygotrigla cajorarori', 'Pterygotrigla hemisticta', 'Pterygotrigla leptacanthus', 'Pterygotrigla ryukyuensis']",False
+LAUT_INDONESIA,Pycnochromis,11,2,0.8181818181818182,"['Pycnochromis caudalis', 'Pycnochromis delta', 'Pycnochromis fieldi', 'Pycnochromis flavipectoralis', 'Pycnochromis leucurus', 'Pycnochromis lineatus', 'Pycnochromis margaritifer', 'Pycnochromis nigrurus', 'Pycnochromis retrofasciatus']",False
+LAUT_INDONESIA,Pygoplites,1,0,1.0,['Pygoplites diacanthus'],False
+LAUT_INDONESIA,Pyramodon,1,0,1.0,['Pyramodon ventralis'],False
+LAUT_INDONESIA,Pyronotanthias,5,0,1.0,"['Pyronotanthias bimarginatus', 'Pyronotanthias flavoguttatus', 'Pyronotanthias lori', 'Pyronotanthias parvirostris', 'Pyronotanthias smithvanizi']",False
+LAUT_INDONESIA,Rabaulichthys,1,0,1.0,['Rabaulichthys altipinnis'],False
+LAUT_INDONESIA,Rachycentron,1,1,0.0,[],False
+LAUT_INDONESIA,Raconda,1,0,1.0,['Raconda russeliana'],False
+LAUT_INDONESIA,Rajella,1,0,1.0,['Rajella annandalei'],False
+LAUT_INDONESIA,Rastrelliger,3,1,0.6666666666666666,"['Rastrelliger brachysoma', 'Rastrelliger faughni']",False
+LAUT_INDONESIA,Redigobius,5,0,1.0,"['Redigobius amblyrhynchus', 'Redigobius bikolanus', 'Redigobius chrysosoma', 'Redigobius isognathus', 'Redigobius tambujon']",False
+LAUT_INDONESIA,Remora,2,0,1.0,"['Remora albescens', 'Remora remora']",False
+LAUT_INDONESIA,Rexea,3,1,0.6666666666666666,"['Rexea bengalensis', 'Rexea nakamurai']",False
+LAUT_INDONESIA,Rhabdamia,3,0,1.0,"['Rhabdamia gracilis', 'Rhabdamia novaluna', 'Rhabdamia spilota']",False
+LAUT_INDONESIA,Rhabdosargus,2,0,1.0,"['Rhabdosargus niger', 'Rhabdosargus sarba']",False
+LAUT_INDONESIA,Rhina,1,0,1.0,['Rhina ancylostomus'],False
+LAUT_INDONESIA,Rhincodon,1,0,1.0,['Rhincodon typus'],False
+LAUT_INDONESIA,Rhinecanthus,3,1,0.6666666666666666,"['Rhinecanthus aculeatus', 'Rhinecanthus rectangulus']",False
+LAUT_INDONESIA,Rhinobatos,3,0,1.0,"['Rhinobatos jimbaranensis', 'Rhinobatos penggali', 'Rhinobatos schlegelii']",False
+LAUT_INDONESIA,Rhinolepadichthys,2,0,1.0,"['Rhinolepadichthys geminus', 'Rhinolepadichthys lineatus']",False
+LAUT_INDONESIA,Rhinomuraena,1,0,1.0,['Rhinomuraena quaesita'],False
+LAUT_INDONESIA,Rhinopias,3,0,1.0,"['Rhinopias aphanes', 'Rhinopias eschmeyeri', 'Rhinopias frondosa']",False
+LAUT_INDONESIA,Rhinoptera,2,0,1.0,"['Rhinoptera javanica', 'Rhinoptera jayakari']",False
+LAUT_INDONESIA,Rhizoprionodon,2,0,1.0,"['Rhizoprionodon acutus', 'Rhizoprionodon oligolinx']",False
+LAUT_INDONESIA,Rhynchobatus,3,0,1.0,"['Rhynchobatus australiae', 'Rhynchobatus cooki', 'Rhynchobatus springeri']",False
+LAUT_INDONESIA,Rhynchorhamphus,1,0,1.0,['Rhynchorhamphus georgii'],False
+LAUT_INDONESIA,Rhynchostracion,1,0,1.0,['Rhynchostracion nasus'],False
+LAUT_INDONESIA,Richardsonichthys,1,0,1.0,['Richardsonichthys leucogaster'],False
+LAUT_INDONESIA,Roa,1,0,1.0,['Roa modesta'],False
+LAUT_INDONESIA,Robia,1,0,1.0,['Robia legula'],False
+LAUT_INDONESIA,Rogadius,5,1,0.8,"['Rogadius asper', 'Rogadius pristiger', 'Rogadius serratus', 'Rogadius welanderi']",False
+LAUT_INDONESIA,Rouleina,2,0,1.0,"['Rouleina livida', 'Rouleina nuda']",False
+LAUT_INDONESIA,Rudarius,2,0,1.0,"['Rudarius excelsus', 'Rudarius minutus']",False
+LAUT_INDONESIA,Ruvettus,1,0,1.0,['Ruvettus pretiosus'],False
+LAUT_INDONESIA,Sacura,1,0,1.0,['Sacura speciosa'],False
+LAUT_INDONESIA,Salarias,10,0,1.0,"['Salarias ceramensis', 'Salarias fasciatus', 'Salarias guttatus', 'Salarias obscurus', 'Salarias patzneri', 'Salarias ramosus', 'Salarias segmentatus', 'Salarias sexfilum', 'Salarias sibogai', 'Salarias sinuosus']",False
+LAUT_INDONESIA,Samaris,1,0,1.0,['Samaris cristatus'],False
+LAUT_INDONESIA,Samariscus,4,0,1.0,"['Samariscus huysmani', 'Samariscus maculatus', 'Samariscus sunieri', 'Samariscus triocellatus']",False
+LAUT_INDONESIA,Sarda,1,1,0.0,[],False
+LAUT_INDONESIA,Sardinella,7,0,1.0,"['Sardinella albella', 'Sardinella atricauda', 'Sardinella brachysoma', 'Sardinella fimbriata', 'Sardinella gibbosa', 'Sardinella lemuru', 'Sardinella melanura']",False
+LAUT_INDONESIA,Sargocentron,15,2,0.8666666666666667,"['Sargocentron caudimaculatum', 'Sargocentron cornutum', 'Sargocentron diadema', 'Sargocentron iota', 'Sargocentron ittodai', 'Sargocentron melanospilos', 'Sargocentron microstoma', 'Sargocentron praslin', 'Sargocentron punctatissimum', 'Sargocentron shimizui', 'Sargocentron spiniferum', 'Sargocentron tiere', 'Sargocentron tiereoides']",False
+LAUT_INDONESIA,Satyrichthys,5,1,0.8,"['Satyrichthys clavilapis', 'Satyrichthys milleri', 'Satyrichthys moluccensis', 'Satyrichthys rieffeli']",False
+LAUT_INDONESIA,Saurida,9,1,0.8888888888888888,"['Saurida argentea', 'Saurida elongata', 'Saurida longimanus', 'Saurida micropectoralis', 'Saurida nebulosa', 'Saurida tumbil', 'Saurida undosquamis', 'Saurida wanieso']",False
+LAUT_INDONESIA,Scalicus,2,1,0.5,['Scalicus paucibarbatus'],False
+LAUT_INDONESIA,Scartelaos,1,0,1.0,['Scartelaos histophorus'],False
+LAUT_INDONESIA,Scarus,25,4,0.84,"['Scarus chameleon', 'Scarus dimidiatus', 'Scarus festivus', 'Scarus flavipectoralis', 'Scarus forsteni', 'Scarus frenatus', 'Scarus fuscocaudalis', 'Scarus globiceps', 'Scarus hypselopterus', 'Scarus maculipinna', 'Scarus niger', 'Scarus oviceps', 'Scarus psittacus', 'Scarus quoyi', 'Scarus rubroviolaceus', 'Scarus russelii', 'Scarus scaber', 'Scarus spinus', 'Scarus tricolor', 'Scarus viridifucatus', 'Scarus xanthopleura']",False
+LAUT_INDONESIA,Scatophagus,1,1,0.0,[],False
+LAUT_INDONESIA,Schindleria,1,0,1.0,['Schindleria macrodentata'],False
+LAUT_INDONESIA,Scolecenchelys,4,0,1.0,"['Scolecenchelys acutirostris', 'Scolecenchelys gymnota', 'Scolecenchelys laticaudata', 'Scolecenchelys macroptera']",False
+LAUT_INDONESIA,Scoliodon,2,0,1.0,"['Scoliodon laticaudus', 'Scoliodon macrorhynchos']",False
+LAUT_INDONESIA,Scolopsis,13,3,0.7692307692307693,"['Scolopsis affinis', 'Scolopsis aurata', 'Scolopsis japonica', 'Scolopsis lineata', 'Scolopsis margaritifera', 'Scolopsis monogramma', 'Scolopsis taenioptera', 'Scolopsis temporalis', 'Scolopsis trilineata', 'Scolopsis xenochrous']",False
+LAUT_INDONESIA,Scomber,1,0,1.0,['Scomber australasicus'],False
+LAUT_INDONESIA,Scomberoides,4,0,1.0,"['Scomberoides commersonnianus', 'Scomberoides lysan', 'Scomberoides tala', 'Scomberoides tol']",False
+LAUT_INDONESIA,Scomberomorus,4,0,1.0,"['Scomberomorus commerson', 'Scomberomorus guttatus', 'Scomberomorus koreanus', 'Scomberomorus lineolatus']",False
+LAUT_INDONESIA,Scopeloberyx,1,0,1.0,['Scopeloberyx malayanus'],False
+LAUT_INDONESIA,Scopelogadus,2,0,1.0,"['Scopelogadus mizolepis', 'Scopelogadus unispinis']",False
+LAUT_INDONESIA,Scopelopsis,1,0,1.0,['Scopelopsis multipunctatus'],False
+LAUT_INDONESIA,Scorpaenodes,11,3,0.7272727272727273,"['Scorpaenodes albaiensis', 'Scorpaenodes bathycolus', 'Scorpaenodes corallinus', 'Scorpaenodes evides', 'Scorpaenodes guamensis', 'Scorpaenodes hirsutus', 'Scorpaenodes smithi', 'Scorpaenodes varipinnis']",False
+LAUT_INDONESIA,Scorpaenopsis,11,4,0.6363636363636364,"['Scorpaenopsis cotticeps', 'Scorpaenopsis diabolus', 'Scorpaenopsis macrochir', 'Scorpaenopsis obtusa', 'Scorpaenopsis oxycephalus', 'Scorpaenopsis ramaraoi', 'Scorpaenopsis vittapinna']",False
+LAUT_INDONESIA,Scuticaria,2,0,1.0,"['Scuticaria okinawae', 'Scuticaria tigrina']",False
+LAUT_INDONESIA,Scyris,1,0,1.0,['Scyris indica'],False
+LAUT_INDONESIA,Searsioides,1,0,1.0,['Searsioides calvala'],False
+LAUT_INDONESIA,Sebastapistes,4,1,0.75,"['Sebastapistes fowleri', 'Sebastapistes mauritiana', 'Sebastapistes strongia']",False
+LAUT_INDONESIA,Sebastiscus,1,0,1.0,['Sebastiscus tertius'],False
+LAUT_INDONESIA,Selar,2,1,0.5,['Selar boops'],False
+LAUT_INDONESIA,Selaroides,1,1,0.0,[],False
+LAUT_INDONESIA,Selenotoca,2,0,1.0,"['Selenotoca multifasciata', 'Selenotoca papuensis']",False
+LAUT_INDONESIA,Seriola,2,0,1.0,"['Seriola dumerili', 'Seriola rivoliana']",False
+LAUT_INDONESIA,Seriolina,1,1,0.0,[],False
+LAUT_INDONESIA,Serranocirrhitus,1,0,1.0,['Serranocirrhitus latus'],False
+LAUT_INDONESIA,Setarches,1,0,1.0,['Setarches guentheri'],False
+LAUT_INDONESIA,Setipinna,4,0,1.0,"['Setipinna breviceps', 'Setipinna melanochir', 'Setipinna taty', 'Setipinna tenuifilis']",False
+LAUT_INDONESIA,Sicyopterus,1,0,1.0,['Sicyopterus lagocephalus'],False
+LAUT_INDONESIA,Siganus,19,7,0.631578947368421,"['Siganus argenteus', 'Siganus corallinus', 'Siganus doliatus', 'Siganus fuscescens', 'Siganus javus', 'Siganus labyrinthodes', 'Siganus lineatus', 'Siganus magnificus', 'Siganus puellus', 'Siganus punctatissimus', 'Siganus stellatus', 'Siganus sutor']",False
+LAUT_INDONESIA,Sigmops,1,0,1.0,['Sigmops elongatus'],False
+LAUT_INDONESIA,Signigobius,1,0,1.0,['Signigobius biocellatus'],False
+LAUT_INDONESIA,Sillaginopodys,1,0,1.0,['Sillaginopodys chondropus'],False
+LAUT_INDONESIA,Sillaginops,1,0,1.0,['Sillaginops macrolepis'],False
+LAUT_INDONESIA,Sillaginopsis,1,0,1.0,['Sillaginopsis panijus'],False
+LAUT_INDONESIA,Sillago,4,1,0.75,"['Sillago burrus', 'Sillago nierstraszi', 'Sillago sihama']",False
+LAUT_INDONESIA,Sinobatis,2,0,1.0,"['Sinobatis borneensis', 'Sinobatis bulbicauda']",False
+LAUT_INDONESIA,Siokunichthys,4,0,1.0,"['Siokunichthys bentuviai', 'Siokunichthys breviceps', 'Siokunichthys herrei', 'Siokunichthys nigrolineatus']",False
+LAUT_INDONESIA,Siphamia,13,0,1.0,"['Siphamia argentea', 'Siphamia corallicola', 'Siphamia cyanophthalma', 'Siphamia elongata', 'Siphamia fistulosa', 'Siphamia fuscolineata', 'Siphamia jebbi', 'Siphamia majimai', 'Siphamia papuensis', 'Siphamia spinicola', 'Siphamia stenotes', 'Siphamia tubifer', 'Siphamia tubulata']",False
+LAUT_INDONESIA,Sirembo,1,0,1.0,['Sirembo jerdoni'],False
+LAUT_INDONESIA,Skythrenchelys,2,0,1.0,"['Skythrenchelys macrostomus', 'Skythrenchelys zabra']",False
+LAUT_INDONESIA,Snyderina,1,0,1.0,['Snyderina yamanokami'],False
+LAUT_INDONESIA,Solea,1,0,1.0,['Solea ovata'],False
+LAUT_INDONESIA,Solegnathus,1,0,1.0,['Solegnathus lettiensis'],False
+LAUT_INDONESIA,Soleichthys,1,0,1.0,['Soleichthys heterorhinos'],False
+LAUT_INDONESIA,Solenostomus,6,0,1.0,"['Solenostomus armatus', 'Solenostomus cyanopterus', 'Solenostomus halimeda', 'Solenostomus leptosoma', 'Solenostomus paegnius', 'Solenostomus paradoxus']",False
+LAUT_INDONESIA,Sonorolux,1,0,1.0,['Sonorolux fluminis'],False
+LAUT_INDONESIA,Sorsogona,1,0,1.0,['Sorsogona tuberculata'],False
+LAUT_INDONESIA,Sphaeramia,2,1,0.5,['Sphaeramia nematoptera'],False
+LAUT_INDONESIA,Sphagemacrurus,1,0,1.0,['Sphagemacrurus richardi'],False
+LAUT_INDONESIA,Sphoeroides,1,0,1.0,['Sphoeroides pachygaster'],False
+LAUT_INDONESIA,Sphyraena,8,2,0.75,"['Sphyraena barracuda', 'Sphyraena flavicauda', 'Sphyraena forsteri', 'Sphyraena jello', 'Sphyraena obtusata', 'Sphyraena qenie']",False
+LAUT_INDONESIA,Sphyrna,2,0,1.0,"['Sphyrna lewini', 'Sphyrna mokarran']",False
+LAUT_INDONESIA,Spratelloides,3,1,0.6666666666666666,"['Spratelloides delicatulus', 'Spratelloides lewisi']",False
+LAUT_INDONESIA,Springeratus,1,0,1.0,['Springeratus xanthosoma'],False
+LAUT_INDONESIA,Squalomugil,1,0,1.0,['Squalomugil nasutus'],False
+LAUT_INDONESIA,Squalus,3,0,1.0,"['Squalus edmundsi', 'Squalus hemipinnis', 'Squalus montalbani']",False
+LAUT_INDONESIA,Squatina,1,0,1.0,['Squatina legnota'],False
+LAUT_INDONESIA,Stalix,3,0,1.0,"['Stalix histrio', 'Stalix moenensis', 'Stalix versluysi']",False
+LAUT_INDONESIA,Stanulus,1,0,1.0,['Stanulus seychellensis'],False
+LAUT_INDONESIA,Steeneichthys,1,0,1.0,['Steeneichthys nativitatus'],False
+LAUT_INDONESIA,Stegastes,4,1,0.75,"['Stegastes albifasciatus', 'Stegastes lacrymatus', 'Stegastes nigricans']",False
+LAUT_INDONESIA,Stegostoma,1,0,1.0,['Stegostoma tigrinum'],False
+LAUT_INDONESIA,Stemonosudis,7,0,1.0,"['Stemonosudis distans', 'Stemonosudis elegans', 'Stemonosudis miscella', 'Stemonosudis multifasciata', 'Stemonosudis retrodorsalis', 'Stemonosudis rothschildi', 'Stemonosudis similis']",False
+LAUT_INDONESIA,Stenatherina,1,1,0.0,[],False
+LAUT_INDONESIA,Stenogobius,3,0,1.0,"['Stenogobius genivittatus', 'Stenogobius gymnopomus', 'Stenogobius marinus']",False
+LAUT_INDONESIA,Stethojulis,5,3,0.4,"['Stethojulis albovittata', 'Stethojulis bandanensis']",False
+LAUT_INDONESIA,Stigmatogobius,3,0,1.0,"['Stigmatogobius borneensis', 'Stigmatogobius sadanundio', 'Stigmatogobius sella']",False
+LAUT_INDONESIA,Stolephorus,18,1,0.9444444444444444,"['Stolephorus andhraensis', 'Stolephorus baganensis', 'Stolephorus brevis', 'Stolephorus carpentariae', 'Stolephorus commersonnii', 'Stolephorus dubiosus', 'Stolephorus eclipsis', 'Stolephorus eldorado', 'Stolephorus grandis', 'Stolephorus indicus', 'Stolephorus insignus', 'Stolephorus insularis', 'Stolephorus leopardus', 'Stolephorus rex', 'Stolephorus teguhi', 'Stolephorus tri', 'Stolephorus waitei']",False
+LAUT_INDONESIA,Stomias,1,0,1.0,['Stomias nebulosus'],False
+LAUT_INDONESIA,Stonogobiops,3,0,1.0,"['Stonogobiops nematodes', 'Stonogobiops xanthorhinicus', 'Stonogobiops yasha']",False
+LAUT_INDONESIA,Strongylura,4,0,1.0,"['Strongylura incisa', 'Strongylura leiurus', 'Strongylura strongylura', 'Strongylura urvillii']",False
+LAUT_INDONESIA,Strophidon,1,1,0.0,[],False
+LAUT_INDONESIA,Sueviota,4,0,1.0,"['Sueviota aprica', 'Sueviota atrinasa', 'Sueviota bryozophila', 'Sueviota minersorum']",False
+LAUT_INDONESIA,Sufflamen,3,2,0.3333333333333333,['Sufflamen bursa'],False
+LAUT_INDONESIA,Suggrundus,1,0,1.0,['Suggrundus macracanthus'],False
+LAUT_INDONESIA,Sunagocia,3,0,1.0,"['Sunagocia arenicola', 'Sunagocia carbunculus', 'Sunagocia otaitensis']",False
+LAUT_INDONESIA,Sundasalanx,1,0,1.0,['Sundasalanx megalops'],False
+LAUT_INDONESIA,Suttonia,1,0,1.0,['Suttonia lineata'],False
+LAUT_INDONESIA,Symphorichthys,1,0,1.0,['Symphorichthys spilurus'],False
+LAUT_INDONESIA,Symphorus,1,0,1.0,['Symphorus nematophorus'],False
+LAUT_INDONESIA,Symphurus,6,0,1.0,"['Symphurus bathyspilus', 'Symphurus fallax', 'Symphurus gilesii', 'Symphurus microrhynchus', 'Symphurus orientalis', 'Symphurus regani']",False
+LAUT_INDONESIA,Symphysanodon,3,2,0.3333333333333333,['Symphysanodon typus'],False
+LAUT_INDONESIA,Synagrops,1,0,1.0,['Synagrops japonicus'],False
+LAUT_INDONESIA,Synanceia,4,0,1.0,"['Synanceia horrida', 'Synanceia platyrhynchus', 'Synanceia quinque', 'Synanceia verrucosa']",False
+LAUT_INDONESIA,Synaptura,1,0,1.0,['Synaptura commersonnii'],False
+LAUT_INDONESIA,Synchiropus,14,1,0.9285714285714286,"['Synchiropus bartelsi', 'Synchiropus circularis', 'Synchiropus delandi', 'Synchiropus grinnelli', 'Synchiropus laddi', 'Synchiropus lineolatus', 'Synchiropus morrisoni', 'Synchiropus moyeri', 'Synchiropus ocellatus', 'Synchiropus picturatus', 'Synchiropus splendidus', 'Synchiropus stellatus', 'Synchiropus tudorjonesi']",False
+LAUT_INDONESIA,Syngnathoides,1,0,1.0,['Syngnathoides biaculeatus'],False
+LAUT_INDONESIA,Synodus,17,1,0.9411764705882353,"['Synodus dermatogenys', 'Synodus fasciapelvicus', 'Synodus hoshinonis', 'Synodus indicus', 'Synodus kaianus', 'Synodus macrocephalus', 'Synodus macrops', 'Synodus nigrotaeniatus', 'Synodus oculeus', 'Synodus rubromarmoratus', 'Synodus sageneus', 'Synodus sanguineus', 'Synodus tectus', 'Synodus ulae', 'Synodus usitatus', 'Synodus variegatus']",False
+LAUT_INDONESIA,Taeniamia,7,0,1.0,"['Taeniamia ataenia', 'Taeniamia biguttata', 'Taeniamia buruensis', 'Taeniamia fucata', 'Taeniamia macroptera', 'Taeniamia melasma', 'Taeniamia zosterophora']",False
+LAUT_INDONESIA,Taenianotus,1,0,1.0,['Taenianotus triacanthus'],False
+LAUT_INDONESIA,Taenioides,3,0,1.0,"['Taenioides anguillaris', 'Taenioides cirratus', 'Taenioides eruptionis']",False
+LAUT_INDONESIA,Taeniura,1,0,1.0,['Taeniura lymma'],False
+LAUT_INDONESIA,Taeniurops,1,0,1.0,['Taeniurops meyeni'],False
+LAUT_INDONESIA,Takifugu,1,1,0.0,[],False
+LAUT_INDONESIA,Talismania,1,0,1.0,['Talismania kotlyari'],False
+LAUT_INDONESIA,Taractes,1,0,1.0,['Taractes rubescens'],False
+LAUT_INDONESIA,Tathicarpus,1,0,1.0,['Tathicarpus butleri'],False
+LAUT_INDONESIA,Telatrygon,2,0,1.0,"['Telatrygon biasa', 'Telatrygon zugei']",False
+LAUT_INDONESIA,Tentoriceps,1,0,1.0,['Tentoriceps cristatus'],False
+LAUT_INDONESIA,Tenualosa,2,0,1.0,"['Tenualosa macrura', 'Tenualosa toli']",False
+LAUT_INDONESIA,Terapon,3,3,0.0,[],False
+LAUT_INDONESIA,Terelabrus,2,0,1.0,"['Terelabrus dewapyle', 'Terelabrus rubrovittatus']",False
+LAUT_INDONESIA,Tetrabrachium,1,0,1.0,['Tetrabrachium ocellatum'],False
+LAUT_INDONESIA,Tetragondacnus,1,0,1.0,['Tetragondacnus spilotus'],False
+LAUT_INDONESIA,Tetrapturus,1,0,1.0,['Tetrapturus angustirostris'],False
+LAUT_INDONESIA,Tetraroge,2,0,1.0,"['Tetraroge barbata', 'Tetraroge nigra']",False
+LAUT_INDONESIA,Tetrosomus,3,0,1.0,"['Tetrosomus concatenatus', 'Tetrosomus gibbosus', 'Tetrosomus reipublicae']",False
+LAUT_INDONESIA,Thalassoma,8,2,0.75,"['Thalassoma amblycephalum', 'Thalassoma jansenii', 'Thalassoma lunare', 'Thalassoma lutescens', 'Thalassoma purpureum', 'Thalassoma trilobatum']",False
+LAUT_INDONESIA,Thamnaconus,2,0,1.0,"['Thamnaconus striatus', 'Thamnaconus tessellatus']",False
+LAUT_INDONESIA,Thaumatichthys,1,0,1.0,['Thaumatichthys pagidostomus'],False
+LAUT_INDONESIA,Thrissina,1,0,1.0,['Thrissina baelama'],False
+LAUT_INDONESIA,Thryssa,6,0,1.0,"['Thryssa dussumieri', 'Thryssa encrasicholoides', 'Thryssa hamiltonii', 'Thryssa kammalensis', 'Thryssa mystax', 'Thryssa setirostris']",False
+LAUT_INDONESIA,Thunnus,5,1,0.8,"['Thunnus alalunga', 'Thunnus albacares', 'Thunnus maccoyii', 'Thunnus obesus']",False
+LAUT_INDONESIA,Thyrsitoides,1,1,0.0,[],False
+LAUT_INDONESIA,Thysanophrys,2,1,0.5,['Thysanophrys celebica'],False
+LAUT_INDONESIA,Tinca,1,0,1.0,['Tinca tinca'],False
+LAUT_INDONESIA,Tomiyamichthys,9,1,0.8888888888888888,"['Tomiyamichthys alleni', 'Tomiyamichthys emilyae', 'Tomiyamichthys eyreae', 'Tomiyamichthys lanceolatus', 'Tomiyamichthys latruncularius', 'Tomiyamichthys nudus', 'Tomiyamichthys oni', 'Tomiyamichthys tanyspilus']",False
+LAUT_INDONESIA,Torquigener,7,0,1.0,"['Torquigener brevipinnis', 'Torquigener gloerfelti', 'Torquigener hicksi', 'Torquigener hypselogeneion', 'Torquigener pallimaculatus', 'Torquigener parcuspinus', 'Torquigener tuberculiferus']",False
+LAUT_INDONESIA,Toxotes,3,0,1.0,"['Toxotes chatareus', 'Toxotes jaculatrix', 'Toxotes microlepis']",False
+LAUT_INDONESIA,Trachicephalus,1,1,0.0,[],False
+LAUT_INDONESIA,Trachinocephalus,1,0,1.0,['Trachinocephalus trachinus'],False
+LAUT_INDONESIA,Trachinotus,5,0,1.0,"['Trachinotus africanus', 'Trachinotus baillonii', 'Trachinotus blochii', 'Trachinotus botla', 'Trachinotus mookalee']",False
+LAUT_INDONESIA,Trachipterus,1,0,1.0,['Trachipterus trachypterus'],False
+LAUT_INDONESIA,Trachyrhamphus,2,0,1.0,"['Trachyrhamphus bicoarctatus', 'Trachyrhamphus longirostris']",False
+LAUT_INDONESIA,Triacanthodes,1,0,1.0,['Triacanthodes ethiops'],False
+LAUT_INDONESIA,Triacanthus,2,0,1.0,"['Triacanthus biaculeatus', 'Triacanthus nieuhofii']",False
+LAUT_INDONESIA,Triaenodon,1,0,1.0,['Triaenodon obesus'],False
+LAUT_INDONESIA,Trichiurus,2,1,0.5,['Trichiurus auriga'],False
+LAUT_INDONESIA,Trichonotus,4,0,1.0,"['Trichonotus elegans', 'Trichonotus filamentosus', 'Trichonotus halstead', 'Trichonotus setiger']",False
+LAUT_INDONESIA,Trimma,55,0,1.0,"['Trimma abyssum', 'Trimma agrena', 'Trimma anaima', 'Trimma annosum', 'Trimma aturirii', 'Trimma benjamini', 'Trimma caesiura', 'Trimma capostriatum', 'Trimma caudomaculatum', 'Trimma cheni', 'Trimma corerefum', 'Trimma emeryi', 'Trimma erdmanni', 'Trimma fangi', 'Trimma flavatrum', 'Trimma fucatum', 'Trimma gigantum', 'Trimma griffithsi', 'Trimma habrum', 'Trimma haimassum', 'Trimma halonevum', 'Trimma hayashii', 'Trimma helenae', 'Trimma hoesei', 'Trimma hollemani', 'Trimma imaii', 'Trimma kardium', 'Trimma kitrinum', 'Trimma lantana', 'Trimma macrophthalmus', 'Trimma maiandros', 'Trimma marinae', 'Trimma meityae', 'Trimma meranyx', 'Trimma milta', 'Trimma nasa', 'Trimma naudei', 'Trimma nomurai', 'Trimma okinawae', 'Trimma pajama', 'Trimma papayum', 'Trimma preclarum', 'Trimma putrai', 'Trimma randalli', 'Trimma rubromaculatum', 'Trimma sanguinellum', 'Trimma sheppardi', 'Trimma stobbsi', 'Trimma striatum', 'Trimma taylori', 'Trimma tevegae', 'Trimma trioculatum', 'Trimma xanthochrum', 'Trimma yanoi', 'Trimma zurae']",False
+LAUT_INDONESIA,Trimmatom,4,0,1.0,"['Trimmatom nanus', 'Trimmatom pharus', 'Trimmatom sagma', 'Trimmatom zapotes']",False
+LAUT_INDONESIA,Triodon,1,0,1.0,['Triodon macropterus'],False
+LAUT_INDONESIA,Tripodichthys,3,1,0.6666666666666666,"['Tripodichthys angustifrons', 'Tripodichthys oxycephalus']",False
+LAUT_INDONESIA,Tripterophycis,1,0,1.0,['Tripterophycis gilchristi'],False
+LAUT_INDONESIA,Trixiphichthys,1,0,1.0,['Trixiphichthys weberi'],False
+LAUT_INDONESIA,Trypauchen,1,1,0.0,[],False
+LAUT_INDONESIA,Trypauchenichthys,1,0,1.0,['Trypauchenichthys sumatrensis'],False
+LAUT_INDONESIA,Tryssogobius,5,0,1.0,"['Tryssogobius colini', 'Tryssogobius flavolineatus', 'Tryssogobius longipes', 'Tryssogobius nigrolineatus', 'Tryssogobius sarah']",False
+LAUT_INDONESIA,Turrum,3,1,0.6666666666666666,"['Turrum fulvoguttatum', 'Turrum gymnostethus']",False
+LAUT_INDONESIA,Tydemania,1,0,1.0,['Tydemania navigatoris'],False
+LAUT_INDONESIA,Tylerius,1,0,1.0,['Tylerius spinosissimus'],False
+LAUT_INDONESIA,Tylosurus,3,0,1.0,"['Tylosurus crocodilus', 'Tylosurus melanotus', 'Tylosurus punctulatus']",False
+LAUT_INDONESIA,Typhlachirus,1,0,1.0,['Typhlachirus caecus'],False
+LAUT_INDONESIA,Tyson,1,0,1.0,['Tyson belos'],False
+LAUT_INDONESIA,Ucla,1,0,1.0,['Ucla xenogrammus'],False
+LAUT_INDONESIA,Ungusurculus,3,0,1.0,"['Ungusurculus komodoensis', 'Ungusurculus riauensis', 'Ungusurculus sundaensis']",False
+LAUT_INDONESIA,Upeneus,16,1,0.9375,"['Upeneus asymmetricus', 'Upeneus farnis', 'Upeneus lombok', 'Upeneus luzonius', 'Upeneus mascareinsis', 'Upeneus moluccensis', 'Upeneus quadrilineatus', 'Upeneus spottocaudalis', 'Upeneus subvittatus', 'Upeneus sulphureus', 'Upeneus sundaicus', 'Upeneus taeniopterus', 'Upeneus torres', 'Upeneus vittatus', 'Upeneus willwhite']",False
+LAUT_INDONESIA,Uranoscopus,8,1,0.875,"['Uranoscopus arafurensis', 'Uranoscopus brunneus', 'Uranoscopus cognatus', 'Uranoscopus kaianus', 'Uranoscopus kishimotoi', 'Uranoscopus oligolepis', 'Uranoscopus sulphureus']",False
+LAUT_INDONESIA,Uraspis,1,0,1.0,['Uraspis uraspis'],False
+LAUT_INDONESIA,Uroconger,1,0,1.0,['Uroconger lepturus'],False
+LAUT_INDONESIA,Urogymnus,3,0,1.0,"['Urogymnus asperrimus', 'Urogymnus granulatus', 'Urogymnus lobistoma']",False
+LAUT_INDONESIA,Urolophus,2,0,1.0,"['Urolophus javanicus', 'Urolophus kaianus']",False
+LAUT_INDONESIA,Uropterygius,11,1,0.9090909090909091,"['Uropterygius fasciolatus', 'Uropterygius fuscoguttatus', 'Uropterygius inornatus', 'Uropterygius kamar', 'Uropterygius macrocephalus', 'Uropterygius marmoratus', 'Uropterygius micropterus', 'Uropterygius nagoensis', 'Uropterygius xanthopterus', 'Uropterygius xenodontus']",False
+LAUT_INDONESIA,Valenciennea,13,0,1.0,"['Valenciennea bella', 'Valenciennea helsdingenii', 'Valenciennea immaculata', 'Valenciennea limicola', 'Valenciennea longipinnis', 'Valenciennea muralis', 'Valenciennea parva', 'Valenciennea puellaris', 'Valenciennea randalli', 'Valenciennea sexguttata', 'Valenciennea strigata', 'Valenciennea wardii', 'Valenciennea yanoi']",False
+LAUT_INDONESIA,Vanderhorstia,15,1,0.9333333333333333,"['Vanderhorstia ambanoro', 'Vanderhorstia attenuata', 'Vanderhorstia auronotata', 'Vanderhorstia cyanolineata', 'Vanderhorstia dawnarnallae', 'Vanderhorstia lepidobucca', 'Vanderhorstia longimanus', 'Vanderhorstia macropteryx', 'Vanderhorstia nobilis', 'Vanderhorstia ornatissima', 'Vanderhorstia papilio', 'Vanderhorstia phaeosticta', 'Vanderhorstia stegauchenia', 'Vanderhorstia wayag']",False
+LAUT_INDONESIA,Variola,2,0,1.0,"['Variola albimarginata', 'Variola louti']",False
+LAUT_INDONESIA,Velifer,1,0,1.0,['Velifer hypselopterus'],False
+LAUT_INDONESIA,Ventrifossa,3,0,1.0,"['Ventrifossa divergens', 'Ventrifossa nigrodorsalis', 'Ventrifossa petersonii']",False
+LAUT_INDONESIA,Verulux,1,0,1.0,['Verulux cypselurus'],False
+LAUT_INDONESIA,Vespicula,2,0,1.0,"['Vespicula trachinoides', 'Vespicula zollingeri']",False
+LAUT_INDONESIA,Wattsia,1,0,1.0,['Wattsia mossambica'],False
+LAUT_INDONESIA,Wetmorella,3,0,1.0,"['Wetmorella albofasciata', 'Wetmorella nigropinnata', 'Wetmorella tanakai']",False
+LAUT_INDONESIA,Xanthichthys,2,0,1.0,"['Xanthichthys auromarginatus', 'Xanthichthys caeruleolineatus']",False
+LAUT_INDONESIA,Xenisthmus,2,0,1.0,"['Xenisthmus eirospilus', 'Xenisthmus polyzonatus']",False
+LAUT_INDONESIA,Xenocephalus,1,0,1.0,['Xenocephalus elongatus'],False
+LAUT_INDONESIA,Xenodermichthys,1,0,1.0,['Xenodermichthys copei'],False
+LAUT_INDONESIA,Xenojulis,1,0,1.0,['Xenojulis margaritacea'],False
+LAUT_INDONESIA,Xenophthalmichthys,1,0,1.0,['Xenophthalmichthys danae'],False
+LAUT_INDONESIA,Xestochilus,1,0,1.0,['Xestochilus nebulosus'],False
+LAUT_INDONESIA,Xiphasia,2,0,1.0,"['Xiphasia matsubarai', 'Xiphasia setifer']",False
+LAUT_INDONESIA,Xiphias,1,0,1.0,['Xiphias gladius'],False
+LAUT_INDONESIA,Xiphocheilus,1,0,1.0,['Xiphocheilus typus'],False
+LAUT_INDONESIA,Xyrichtys,1,0,1.0,['Xyrichtys javanicus'],False
+LAUT_INDONESIA,Yarica,1,0,1.0,['Yarica hyalosoma'],False
+LAUT_INDONESIA,Yirrkala,3,0,1.0,"['Yirrkala lumbricoides', 'Yirrkala misolensis', 'Yirrkala moluccensis']",False
+LAUT_INDONESIA,Yongeichthys,1,0,1.0,['Yongeichthys criniger'],False
+LAUT_INDONESIA,Zabidius,1,0,1.0,['Zabidius novemaculeatus'],False
+LAUT_INDONESIA,Zagadkogobius,1,0,1.0,['Zagadkogobius ourlazon'],False
+LAUT_INDONESIA,Zanclus,1,1,0.0,[],False
+LAUT_INDONESIA,Zapogon,1,0,1.0,['Zapogon evermanni'],False
+LAUT_INDONESIA,Zappa,1,0,1.0,['Zappa confluentus'],False
+LAUT_INDONESIA,Zebrasoma,3,1,0.6666666666666666,"['Zebrasoma desjardinii', 'Zebrasoma velifer']",False
+LAUT_INDONESIA,Zebrias,3,0,1.0,"['Zebrias altipinnis', 'Zebrias quagga', 'Zebrias zebra']",False
+LAUT_INDONESIA,Zenarchopterus,9,1,0.8888888888888888,"['Zenarchopterus buffonis', 'Zenarchopterus dunckeri', 'Zenarchopterus dux', 'Zenarchopterus gilli', 'Zenarchopterus pappenheimi', 'Zenarchopterus quadrimaculatus', 'Zenarchopterus rasori', 'Zenarchopterus xiphophorus']",False
+LAUT_INDONESIA,Zenion,1,0,1.0,['Zenion hololepis'],False
+LAUT_INDONESIA,Zenopsis,2,1,0.5,['Zenopsis conchifer'],False
+LAUT_INDONESIA,Zoramia,5,0,1.0,"['Zoramia fragilis', 'Zoramia gilberti', 'Zoramia leptacanthus', 'Zoramia perlita', 'Zoramia viridiventer']",False
+MAHALONA,Anabas,1,1,0.0,[],False
+MAHALONA,Anguilla,2,1,0.5,['Anguilla celebesensis'],False
+MAHALONA,Clarias,1,1,0.0,[],False
+MAHALONA,Colossoma,1,0,1.0,['Colossoma macropomum'],False
+MAHALONA,Oreochromis,1,1,0.0,[],False
+MAHALONA,Paratherina,1,0,1.0,['Paratherina wolterecki'],False
+MAHALONA,Pterygoplichthys,1,1,0.0,[],False
+MAHALONA,Telmatherina,1,0,1.0,['Telmatherina celebensis'],False
+MASAPI,Channa,1,1,0.0,[],False
+MATANO,Anabas,1,1,0.0,[],False
+MATANO,Anguilla,2,1,0.5,['Anguilla celebesensis'],False
+MATANO,Aplocheilus,1,0,1.0,['Aplocheilus panchax'],False
+MATANO,Carassius,1,1,0.0,[],False
+MATANO,Channa,1,1,0.0,[],False
+MATANO,Clarias,2,2,0.0,[],False
+MATANO,Colossoma,1,0,1.0,['Colossoma macropomum'],False
+MATANO,Cyprinus,1,1,0.0,[],False
+MATANO,Glossogobius,1,0,1.0,['Glossogobius matanensis'],False
+MATANO,Lyposarcus,1,0,1.0,['Lyposarcus pardalis'],False
+MATANO,Mugilogobius,1,0,1.0,['Mugilogobius adeia'],False
+MATANO,Nomorhamphus,1,0,1.0,['Nomorhamphus weberi'],False
+MATANO,Ophisternon,1,0,1.0,['Ophisternon cf. bengalense'],False
+MATANO,Oreochromis,2,2,0.0,[],False
+MATANO,Oryzias,1,0,1.0,['Oryzias matanensis'],False
+MATANO,Poecilia,1,0,1.0,['Poecilia reticulata'],False
+MATANO,Pseudotropheus,1,0,1.0,['Pseudotropheus cyaneorhabdos'],False
+MATANO,Pterygoplichthys,2,1,0.5,['Pterygoplichthys cf. pardalis'],False
+MATANO,Telmatherina,6,0,1.0,"['Telmatherina antoniae', 'Telmatherina obscura', 'Telmatherina opudi', 'Telmatherina prognatha', 'Telmatherina sarasinorum', 'Telmatherina wahjui']",False
+MATANO,Trichogaster,1,0,1.0,['Trichogaster leerii'],False
+MATANO,Trichopodus,2,2,0.0,[],False
+TOWUTI,Anabas,1,1,0.0,[],False
+TOWUTI,Anguilla,2,1,0.5,['Anguilla celebesensis'],False
+TOWUTI,Clarias,1,1,0.0,[],False
+TOWUTI,Colossoma,1,0,1.0,['Colossoma macropomum'],False
+TOWUTI,Ophisternon,1,0,1.0,['Ophisternon cf. bengalense'],False
+TOWUTI,Oreochromis,1,1,0.0,[],False
+TOWUTI,Paratherina,4,0,1.0,"['Paratherina cyanea', 'Paratherina labiosa', 'Paratherina striata', 'Paratherina wolterecki']",False
+TOWUTI,Pterygoplichthys,1,1,0.0,[],False
+TOWUTI,Telmatherina,3,0,1.0,"['Telmatherina abendanoni', 'Telmatherina bonti', 'Telmatherina celebensis']",False
+TOWUTI,Tominanga,2,0,1.0,"['Tominanga aurea', 'Tominanga sanguicauda']",False
+TOWUTI,Trichopodus,1,1,0.0,[],False

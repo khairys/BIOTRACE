@@ -143,6 +143,8 @@ def site_points(folder: Path, decimals: int = 1) -> list[SitePoint]:
         site = row["site_id"]
         if site in points or site not in counts:
             continue
+        if not row.get("latitude") or not row.get("longitude"):
+            continue  # D-036: koordinat tidak tersedia di sumber
         lat, lon = float(row["latitude"]), float(row["longitude"])
         masked = site in sensitive
         if masked:

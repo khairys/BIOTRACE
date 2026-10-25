@@ -1,6 +1,6 @@
 import { useCallback, useState } from 'react';
 import { useDropzone } from 'react-dropzone';
-import { ArrowRight, Check, CircleCheck, FileText, FlaskConical, FolderUp, LoaderCircle, ShieldCheck, Trash2, UploadCloud } from 'lucide-react';
+import { ArrowRight, Check, CircleCheck, FileText, FlaskConical, FolderUp, LoaderCircle, ShieldCheck, Trash2, UploadCloud, Waves } from 'lucide-react';
 import { useNavigate } from 'react-router-dom';
 import { ApiError, request, useResource } from '../api/client';
 import type { HealthResponse, RunCreated, ValidationReport } from '../api/generated';
@@ -35,16 +35,17 @@ export default function Upload(){
   const duplicate=Object.entries(counts).some(([role,count])=>role!=='unknown'&&count>1);
   const ready=!!counts.reads&&!!counts.metadata&&(!!counts.fasta||!!counts.taxonomy)&&!duplicate&&!counts.unknown;
   const simulated=entries.length>0&&entries.every(e=>e.file.name.includes('SIMULASI'));
-  async function start(demo=false){
+  async function start(demo:false|'sim'|'asli'=false){
     setBusy(true);setError('');setValidation(null);
     try{
       let result:RunCreated;
-      if(demo) result=await request<RunCreated>('/api/runs/demo/matano_sim_v3',{method:'POST'});
+      if(demo) result=await request<RunCreated>(`/api/runs/demo/${demo==='asli'?'edna_asli_marwayana2022':'matano_sim_v3'}`,{method:'POST'});
       else{
         const body=new FormData();entries.forEach(e=>body.append(e.role,e.file));body.append('mode',simulated?'simulation':'normal');
         result=await request<RunCreated>('/api/runs',{method:'POST',body});
       }
-      navigate(`/runs/${result.run_id}${result.precomputed?'?precomputed=1':''}`);
+      const flags=[demo==='asli'?'asli=marwayana2022':'',result.precomputed&&demo!=='asli'?'precomputed=1':''].filter(Boolean).join('&');
+      navigate(`/runs/${result.run_id}${flags?`?${flags}`:''}`);
     }catch(cause){setError(cause instanceof Error?cause.message:'Analisis gagal.');if(cause instanceof ApiError)setValidation(cause.validation);}
     finally{setBusy(false);}
   }
@@ -63,7 +64,8 @@ export default function Upload(){
       {error?<ErrorNotice message={error}/>:null}
       {validation?<ul className="validation-list">{validation.issues.map((i,index)=><li key={index}><strong>{i.code}</strong> {i.message}</li>)}</ul>:null}
       {busy?<div className="processing" role="status"><LoaderCircle size={18} className="spinner"/><div><strong>Analisis sedang berjalan…</strong><p>Validasi → Penamaan → Penilaian → Laporan</p></div></div>:null}
-      <div className="upload-actions"><button className="button primary" disabled={!ready||busy} onClick={()=>void start()}>{busy?<LoaderCircle size={16} className="spinner"/>:<FolderUp size={17}/>}Jalankan analisis<ArrowRight size={16}/></button><span>atau</span><button className="button secondary" disabled={busy} onClick={()=>void start(true)}><FlaskConical size={17}/>Muat data demo (SIMULASI)</button></div>
+      <div className="upload-actions"><button className="button primary" disabled={!ready||busy} onClick={()=>void start()}>{busy?<LoaderCircle size={16} className="spinner"/>:<FolderUp size={17}/>}Jalankan analisis<ArrowRight size={16}/></button><span>atau</span><button className="button primary" disabled={busy} onClick={()=>void start('asli')}><Waves size={17}/>Muat data eDNA asli Indonesia</button><button className="button secondary" disabled={busy} onClick={()=>void start('sim')}><FlaskConical size={17}/>Muat data demo (SIMULASI)</button></div>
+      <p className="small muted">Data asli: eDNA MiFish-U terumbu karang di 7 wilayah Indonesia, Marwayana dkk. 2022 (Dryad <a className="text-button" href="https://doi.org/10.5068/D12T1B" target="_blank" rel="noreferrer">10.5068/D12T1B</a>, CC0), dicocokkan ke kamus nasional v0.4.</p>
     </section>
     <div className="upload-assurances"><div><ShieldCheck size={20}/><span><strong>Diproses secara lokal</strong><small>Berkas tidak dikirim ke layanan luar.</small></span></div><div><Check size={20}/><span><strong>Keputusan dapat ditelusuri</strong><small>Sumber, versi aturan, dan sidik jari file.</small></span></div></div>
     <LosoEvidence/>
