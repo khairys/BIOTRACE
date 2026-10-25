@@ -28,6 +28,22 @@ class ReferenceStats(Model):
     sources: list[dict[str, str]]
 
 
+class WaterbodyOption(Model):
+    waterbody_id: str
+    name: str
+
+
+class InspectResponse(Model):
+    """D-039: role and column mapping recognised from an uploaded file's first rows."""
+
+    role: str
+    columns: dict[str, str]
+    ignored: list[str]
+    notes: list[str]
+    needs: list[str]
+    waterbodies: list[WaterbodyOption]
+
+
 class Citation(Model):
     label: str
     url: str

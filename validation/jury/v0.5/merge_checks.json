@@ -1,0 +1,23 @@
+{
+  "decision_ids": {
+    "input_autodetect": "D-039",
+    "jury_release": "D-038",
+    "merge": "D-040"
+  },
+  "engine_version": "0.1.3",
+  "frontend_build": "passed",
+  "input_inspection_smoke": "passed",
+  "prior_release_evidence": "engine 0.1.2 retained without overwriting",
+  "reference_version": "v0.5",
+  "regular_tests_passed": 137,
+  "ruff": "passed",
+  "rules_sha256": "b8bd6113deb3a898c48492796f4745ecbdfa4fc11a2cc71c58f7ce33ce59e0c1",
+  "rules_version": "r0.4",
+  "scope": "Pemeriksaan integrasi D-040; bukan pengulangan validasi ilmiah",
+  "slow_tests_not_repeated": true,
+  "sources": {
+    "data/merge-bagus": "f357b5d412771a0331fcc1faee07375637181251",
+    "feat/input-autodetect": "479c5722f925c530968218fab66b8f25c416207b",
+    "integrasi/main-bagus": "67f993120ee9a7ec7339401ee538ffac6529c50b"
+  }
+}

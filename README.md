@@ -71,3 +71,7 @@ BLAST memiliki anggaran eksekusi 600 detik, dapat diatur lewat `BIOTRACE_BLAST_T
 ## Tim
 
 Tim Exastra: Bramantyo Kunni Nurrisqi (produk & validasi), Bagus Athallah (backend & data), Agathan Khairy Bowo Laksono (frontend & laporan).
+
+## Integrasi main (D-040)
+
+Engine aktif **0.1.3**, kamus v0.5, rules r0.4. Main menggabungkan rilis juri, manifest panen `integrasi/main-bagus`, serta fitur `feat/input-autodetect` (D-039). Kolom ekspor lab dikenali otomatis; perairan/marker kosong diisi pengguna dan pilihannya masuk jejak audit. Bukti dan pra-hitung engine 0.1.2 di atas dipertahankan sebagai snapshot historis; tidak dihitung ulang atau ditimpa saat merge.

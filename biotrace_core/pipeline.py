@@ -44,8 +44,12 @@ def run_analysis(
     mode: Mode = "normal",
     threads: int = 4,
     provenance: DataProvenance | None = None,
+    defaults: dict[str, str] | None = None,
 ) -> RunResult:
-    """Load → validate → R-PRE/NAME/SCORE/CAUSE/DEC/ORIG/GAP/AUD → persist atomically."""
+    """Load → validate → R-PRE/NAME/SCORE/CAUSE/DEC/ORIG/GAP/AUD → persist atomically.
+
+    `defaults` (D-039) are user-chosen values for blank metadata cells, e.g. waterbody_id.
+    """
     started = datetime.now(UTC).isoformat()
     clock = time.perf_counter()
     cfg = load_rules(rules_path)
@@ -60,8 +64,9 @@ def run_analysis(
         fasta_path,
         taxonomy_path,
         site_context_path,
-        {r["waterbody_id"] for r in ref.tables["waterbodies"]},
+        {r["waterbody_id"]: r.get("name", "") for r in ref.tables["waterbodies"]},
         mode,
+        defaults,
     )
     marker = data.samples[0].marker
     ref = ref.select(cfg, mode, marker)
@@ -83,6 +88,10 @@ def run_analysis(
     }
     if provenance is not None:
         effective["data_provenance"] = provenance.model_dump(mode="json")
+
+    # User selections are analytical parameters; omitted when no defaults are used.
+    if used := {k: v for k, v in sorted((defaults or {}).items()) if v}:
+        effective["input_defaults"] = used
     # Original input bytes are preserved under canonical, role-based filenames.
     input_names = {
         role: artifact_name(
@@ -145,7 +154,8 @@ def run_analysis(
                     ref,
                     cfg,
                     reasons,
-                    None if fasta_path else data.taxonomy[signal.asv_id],
+                    # D-039: a lab "no hit" has no candidates and is assessed as unknown.
+                    None if fasta_path else data.taxonomy.get(signal.asv_id),
                     data.site_context.get(signal.site_id, []),
                     mode == "validation",
                 )

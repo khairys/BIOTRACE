@@ -103,3 +103,7 @@ Setiap baris di atas mempunyai keputusan rilis dan gerbang berikutnya. Item yang
 **Mengapa demo laut sedangkan fokus air tawar?** Sumber eDNA Indonesia terbuka memungkinkan pemeriksaan alur pada data nyata; keterbatasan penerapan ke Malili disebut eksplisit. Cerita Malili tetap ditopang inventaris celah dan skenario SIMULASI yang berlabel.
 
 **Bagaimana kamus menjadi lebih kuat?** Setiap celah menghasilkan prioritas barcode; sekuens baru harus mempunyai sumber, marker yang cocok, voucher, dan jejak asal. Kurasi menghasilkan versi baru, kemudian laporan lama dapat dicocokkan ulang dan dibandingkan tanpa ditimpa.
+
+## 6. Setelah penggabungan seluruh branch (D-040)
+
+Main memakai engine 0.1.3 dengan pengenalan kolom otomatis D-039. Snapshot pra-hitung dan bukti rilis engine 0.1.2 tetap dipertahankan. Kamus v0.5 dan ambang r0.4 tidak berubah. Manifest panen terbaru menjadi bahan kurasi dan tidak otomatis menambah isi snapshot kamus. Keputusan D-038 tetap rilis juri; keputusan deteksi input yang juga bernomor D-038 pada branch sumber dinomori ulang D-039.

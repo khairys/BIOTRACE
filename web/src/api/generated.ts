@@ -131,6 +131,14 @@ export interface HealthResponse {
   blast_available: boolean;
   demo_available: boolean;
 }
+export interface InspectResponse {
+  role: string;
+  columns: Record<string, string>;
+  ignored: Array<string>;
+  notes: Array<string>;
+  needs: Array<string>;
+  waterbodies: Array<WaterbodyOption>;
+}
 export interface MethodsResponse {
   rules: RulesConfig;
   citations: Array<Citation>;
@@ -328,4 +336,8 @@ export interface VerifyResponse {
   engine_version: string | null;
   started_at: string | null;
   is_simulated: boolean | null;
+}
+export interface WaterbodyOption {
+  waterbody_id: string;
+  name: string;
 }

@@ -11,6 +11,7 @@ from pathlib import Path
 
 from biotrace_core.audit import read_run, sha256, verify_run
 from biotrace_core.config import RulesConfig
+from biotrace_core.io.columns import map_table, prepare_metadata
 from biotrace_core.io.loaders import read_fasta, read_table, write_table
 from biotrace_core.models import Claim, DataProvenance, Model, RunResult
 from biotrace_core.pipeline import run_analysis
@@ -131,9 +132,15 @@ def site_points(folder: Path, decimals: int = 1) -> list[SitePoint]:
     meta = sorted((folder / "input").glob(f"{stem}.*"))
     if not meta:
         return []
-    rows = read_table(meta[0])
+    # Stored inputs keep the user's column names (D-039); map them as the run did.
+    rows, _ = prepare_metadata(
+        map_table(read_table(meta[0]), "metadata")[0],
+        {},
+        result.manifest.parameters.get("input_defaults", {}),
+    )
     counts: dict[str, dict[str, int]] = defaultdict(lambda: defaultdict(int))
     sensitive: set[str] = set()
+    waterbody = {claim.site_id: claim.waterbody_id for claim in result.claims}
     for claim in result.claims:
         counts[claim.site_id][claim.decision] += 1
         if SENSITIVE_LABELS & set(claim.labels):
@@ -151,7 +158,7 @@ def site_points(folder: Path, decimals: int = 1) -> list[SitePoint]:
             lat, lon = round(lat, decimals), round(lon, decimals)
         points[site] = SitePoint(
             site_id=site,
-            waterbody_id=row["waterbody_id"],
+            waterbody_id=waterbody[site],
             latitude=lat,
             longitude=lon,
             masked=masked,
@@ -224,6 +231,7 @@ def rematch(
         provenance=DataProvenance.model_validate(base.manifest.parameters["data_provenance"])
         if "data_provenance" in base.manifest.parameters
         else None,
+        defaults=base.manifest.parameters.get("input_defaults"),
     )
     return result, compare_runs(base, result)
 
