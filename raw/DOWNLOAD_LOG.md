@@ -151,3 +151,4 @@ Diunduh Agathan lewat browser (Dryad menolak unduhan skrip, LKCNHM memakai prote
 | raw/checklists/kottelat2013_raffles_suppl27.pdf | Kottelat 2013, Raffles Bull. Zool. Suppl. 27: 1–663 (LKCNHM) | 4a6a24336f732467d62511daa8f319455c2cf99e1486889941d9e967b8c9be04 | hak cipta penerbit; PDF tidak dikomit | 667 halaman, teks terbaca; ekstraksi checklist belum dilakukan |
 
 Tidak diunduh (tidak tersedia bagi pengguna): Dryad 10.5061/dryad.8cz8w9gr2, teks lengkap Herder dkk. 2006, Hubert dkk. 2015. Token IUCN yang diberikan ditolak server (401) — perlu aktivasi akun IUCN.
+| genbank_country | tropis\genbank_country\2026-10-25\manifest.json | NCBI GenBank nuccore (E-utilities) | 2026-10-25 | manifest 581a68198ca2d0495e614503ce4afd771dc3bf8580f0f9312b4e909faa163e59 | Kebijakan NCBI: tanpa batasan pemakaian, tanpa jaminan hak pihak ketiga | 6152 rekaman 12S/mitogenom dari 12 negara |
