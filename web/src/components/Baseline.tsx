@@ -27,6 +27,15 @@ export function BaselineSummary({claims,pct}:{claims:Claim[];pct:number|null}){
     <p className="small muted">"Ditahan" berarti bukti belum cukup untuk nama spesies yang aman, bukan bukti bahwa nama tersebut salah.</p></section>;
 }
 
+// One-line contrast for the dashboard; the full breakdown lives in the PDF and export.
+export function BaselineSentence({claims,pct}:{claims:Claim[];pct:number|null}){
+  if(pct===null)return null;
+  const named=claims.filter(c=>baselineName(c,pct));
+  const held=named.filter(c=>!isSpecies(c)||c.reported_name!==c.best_match||c.decision!=='safe').length;
+  if(!named.length)return null;
+  return <p className="baseline-sentence"><ShieldCheck size={15}/>Pencocokan biasa (kemiripan ≥{pct}%) langsung memberi nama spesies pada {formatNumber(named.length)} deteksi. BioTrace menahan {formatNumber(held)} di antaranya sampai buktinya cukup.</p>;
+}
+
 export function BaselineLine({claim,pct}:{claim:Claim;pct:number|null}){
   if(pct===null)return null;
   const name=baselineName(claim,pct);

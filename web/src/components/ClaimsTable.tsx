@@ -2,19 +2,17 @@ import { useMemo, useState } from 'react';
 import { flexRender, getCoreRowModel, getPaginationRowModel, getSortedRowModel, useReactTable, type ColumnDef, type SortingState } from '@tanstack/react-table';
 import { ArrowUpDown, ChevronLeft, ChevronRight } from 'lucide-react';
 import type { Claim } from '../api/generated';
-import { causeNames, labelNames, percent, rankLabels } from '../i18n/id';
+import { labelNames, rankLabels } from '../i18n/id';
 import { DecisionBadge, EmptyState, GradeBadge } from './Common';
 
 export default function ClaimsTable({claims,onSelect,selectedClaimId}:{claims:Claim[];onSelect:(c:Claim)=>void;selectedClaimId?:string}){
   const [sorting,setSorting]=useState<SortingState>([]);
   const columns=useMemo<ColumnDef<Claim>[]>(()=>[
-    {accessorKey:'site_id',header:'Lokasi',cell:info=><span className="location-cell"><strong>{String(info.getValue())}</strong><small>{info.row.original.asv_id}</small></span>},
-    {accessorKey:'taxon_lab',header:'Nama dari lab',cell:info=><i className="muted">{String(info.getValue())||'Tidak tersedia'}</i>},
-    {accessorKey:'reported_name',header:'Nama aman',cell:info=><span className="name-cell"><i>{String(info.getValue())}</i><small>{rankLabels[info.row.original.reported_rank]}</small></span>},
+    {accessorKey:'site_id',header:'Lokasi',cell:info=><strong className="location-cell">{String(info.getValue())}</strong>},
+    {accessorKey:'taxon_lab',header:'Nama dari lab',cell:info=><i className="muted">{String(info.getValue())||'—'}</i>},
+    {accessorKey:'reported_name',header:'Nama yang aman',cell:info=><span className="name-cell"><i>{String(info.getValue())}</i><small>{rankLabels[info.row.original.reported_rank]}</small></span>},
     {accessorKey:'grade',header:'Nilai',cell:info=><GradeBadge grade={info.row.original.grade}/>},
     {accessorKey:'decision',header:'Keputusan',cell:info=><DecisionBadge decision={info.row.original.decision}/>},
-    {id:'causes',header:'Penyebab',cell:info=><span>{info.row.original.causes.map(c=>causeNames[c]??c).join(', ')||'—'}</span>},
-    {accessorKey:'p_missing',header:'Fraksi celah',cell:info=>percent(info.row.original.p_missing)},
     {id:'labels',header:'Label',cell:info=><div className="label-list">{info.row.original.labels.length?info.row.original.labels.map(label=><span className="taxon-label" key={label}>{labelNames[label]??label}</span>):<span className="muted">—</span>}</div>},
     {id:'evidence',header:'Bukti',cell:info=><button className="text-button" aria-label={`Lihat bukti ${info.row.original.asv_id} ${info.row.original.site_id}`} onClick={event=>{event.stopPropagation();onSelect(info.row.original);}}>Lihat bukti →</button>},
   ],[onSelect]);
