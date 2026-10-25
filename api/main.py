@@ -30,8 +30,9 @@ from api.contracts import (
     VerifyResponse,
 )
 from biotrace_core import __version__
-from biotrace_core.audit import read_run, verify_run
-from biotrace_core.config import DEFAULT_RULES, ROOT, load_rules
+from biotrace_core.audit import read_run, sha256, verify_run
+from biotrace_core.config import DEFAULT_REFERENCE, DEFAULT_RULES, ROOT, load_rules
+from biotrace_core.demo import REAL_DEMO, REAL_PRECOMPUTED_NAME, REAL_PROVENANCE, REAL_REF
 from biotrace_core.io.validate import ALLOWED_EXTENSIONS, MAX_UPLOAD_BYTES, InputError
 from biotrace_core.models import (
     BarcodePriorityRow,
@@ -69,9 +70,6 @@ DEMO_ID = "matano_sim_v3"
 PRECOMPUTED_NAME = f"matano_SIMULASI_v3_{load_rules().rules_version}"
 # Demo DATA ASLI (D-036): eDNA MiFish-U Marwayana dkk. 2022 (Dryad 10.5068/D12T1B, CC0) + kamus v0.4.
 REAL_DEMO_ID = "edna_asli_marwayana2022"
-REAL_DEMO = ROOT / "data/edna_asli/marwayana2022_mifishu"
-REAL_REF = ROOT / "data/reference/v0.4"
-REAL_PRECOMPUTED_NAME = f"edna_asli_marwayana2022_{load_rules().rules_version}_v0.4"
 
 
 def runs_root() -> Path:
@@ -79,7 +77,7 @@ def runs_root() -> Path:
 
 
 def reference_root() -> Path:
-    return Path(os.environ.get("BIOTRACE_REF_DIR", str(ROOT / "data/reference/v0.4"))).resolve()
+    return Path(os.environ.get("BIOTRACE_REF_DIR", str(DEFAULT_REFERENCE))).resolve()
 
 
 def error_response(
@@ -240,12 +238,28 @@ async def create_run(
 
 
 def _from_precomputed(folder: Path) -> RunResult:
+    if not verify_run(folder)["valid"]:
+        raise HTTPException(
+            503, "Integritas hasil pra-hitung tidak cocok; jalankan ulang analisis."
+        )
     result = read_run(folder)
     root = runs_root()
     root.mkdir(parents=True, exist_ok=True)
     destination = root / result.run_id
     if not destination.exists():
-        shutil.copytree(folder, destination)
+        with tempfile.TemporaryDirectory(prefix=".demo-import-", dir=root) as temp:
+            staging = Path(temp) / "run"
+            shutil.copytree(folder, staging)
+            if not verify_run(staging)["valid"]:
+                raise HTTPException(503, "Salinan pra-hitung tidak lolos pemeriksaan integritas.")
+            try:
+                staging.rename(destination)
+            except OSError:
+                if not destination.exists():
+                    raise
+                # Another request may have atomically published the same complete run.
+    if not verify_run(destination)["valid"]:
+        raise HTTPException(409, "Salinan run lokal berubah; hasil asli tidak ditimpa.")
     return result
 
 
@@ -273,6 +287,7 @@ def create_demo_run(demo_id: str) -> RunCreated:
             REAL_REF,
             out_root=runs_root(),
             mode="normal",
+            provenance=REAL_PROVENANCE,
         )
         return RunCreated(run_id=result.run_id, validation=result.validation, is_simulated=False)
     if demo_id != DEMO_ID:
@@ -281,12 +296,7 @@ def create_demo_run(demo_id: str) -> RunCreated:
         precomputed = ROOT / "precomputed" / PRECOMPUTED_NAME
         if not precomputed.exists() or not verify_run(precomputed)["valid"]:
             raise HTTPException(503, "BLAST tidak tersedia dan hasil demo pra-hitung belum siap.")
-        result = read_run(precomputed)
-        root = runs_root()
-        root.mkdir(parents=True, exist_ok=True)
-        destination = root / result.run_id
-        if not destination.exists():
-            shutil.copytree(precomputed, destination)
+        result = _from_precomputed(precomputed)
         return RunCreated(
             run_id=result.run_id, validation=result.validation, is_simulated=True, precomputed=True
         )
@@ -351,8 +361,42 @@ def priorities(run_id: str) -> list[BarcodePriorityRow]:
 @app.get("/api/runs/{run_id}/report.pdf")
 def report(run_id: str) -> FileResponse:
     result = get_result(run_id)
+    if not verify_run(run_folder(run_id))["valid"]:
+        raise HTTPException(409, "Integritas run tidak cocok; laporan tidak diterbitkan.")
     name = artifact_name("report", "pdf", result.summary.is_simulated)
     return FileResponse(run_folder(run_id) / name, media_type="application/pdf", filename=name)
+
+
+@app.get("/api/runs/{run_id}/summary.pdf")
+def summary_report(run_id: str) -> StreamingResponse:
+    """F24/D-038: bounded reading copy; complete canonical claims retain their fingerprint."""
+    from biotrace_core.reference.store import manifest_path
+    from biotrace_core.report.pdf import render_report
+
+    result = get_result(run_id)
+    if not verify_run(run_folder(run_id))["valid"]:
+        raise HTTPException(409, "Integritas run tidak cocok; ringkasan tidak diterbitkan.")
+    reference = (
+        DEMO / "reference_SIMULASI"
+        if result.summary.is_simulated
+        else ROOT / "data/reference" / result.manifest.reference_version
+    )
+    if not reference.resolve().is_relative_to((ROOT / "data").resolve()):
+        raise HTTPException(422, "Lokasi kamus tersimpan tidak sah.")
+    mode = "simulation" if result.summary.is_simulated else "normal"
+    ref = load_reference(reference, mode)
+    if sha256(manifest_path(reference).read_bytes()) != result.manifest.reference_manifest_hash:
+        raise HTTPException(409, "Kamus untuk laporan tersimpan tidak cocok.")
+    with tempfile.TemporaryDirectory(prefix="biotrace-summary-") as temp:
+        path = Path(temp) / "summary.pdf"
+        render_report(result, ref.tables["sources"], path, brief=True)
+        content = path.read_bytes()
+    name = artifact_name("ringkasan", "pdf", result.summary.is_simulated)
+    return StreamingResponse(
+        io.BytesIO(content),
+        media_type="application/pdf",
+        headers={"Content-Disposition": f'attachment; filename="{name}"'},
+    )
 
 
 @app.get("/api/runs/{run_id}/export.zip")

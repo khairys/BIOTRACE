@@ -12,7 +12,7 @@ from pathlib import Path
 from biotrace_core.audit import read_run, sha256, verify_run
 from biotrace_core.config import RulesConfig
 from biotrace_core.io.loaders import read_fasta, read_table, write_table
-from biotrace_core.models import Claim, Model, RunResult
+from biotrace_core.models import Claim, DataProvenance, Model, RunResult
 from biotrace_core.pipeline import run_analysis
 from biotrace_core.reference.curate import curate_records
 from biotrace_core.reference.store import ReferenceIndex
@@ -221,6 +221,9 @@ def rematch(
         rules_path,
         out_root,
         base.manifest.mode,
+        provenance=DataProvenance.model_validate(base.manifest.parameters["data_provenance"])
+        if "data_provenance" in base.manifest.parameters
+        else None,
     )
     return result, compare_runs(base, result)
 

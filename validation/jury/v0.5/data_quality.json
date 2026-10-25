@@ -1,0 +1,34 @@
+{
+  "alias_members": 6,
+  "checklist_source_quality": {
+    "berita": 11,
+    "primer": 5180,
+    "sekunder": 27
+  },
+  "complex_members": 0,
+  "interpretation": [
+    "Semua hitungan berasal dari file snapshot; tautan sumber yang lengkap bukan verifikasi isi sumber.",
+    "V2 tidak sama dengan identifikasi ahli terdokumentasi V1; V3 tanpa katalog voucher tetap berlabel.",
+    "Flag conflict mempertahankan ambiguitas lintas spesies; bukan pembenaran memilih satu nama.",
+    "Kamus nyata belum memiliki anggota kompleks terkurasi. Contoh kompleks di demo SIMULASI hanya uji perangkat lunak."
+  ],
+  "missing_source_links": [],
+  "reference_version": "v0.5",
+  "sequence_flags": {
+    "conflict": 75,
+    "specimen_outside_indonesia": 866
+  },
+  "source_types": {
+    "book": 1,
+    "database": 11,
+    "journal_unverified": 4,
+    "news": 2,
+    "peer_reviewed": 3,
+    "regulation": 1,
+    "team_curation": 1
+  },
+  "voucher_levels": {
+    "V2": 957,
+    "V3": 42
+  }
+}

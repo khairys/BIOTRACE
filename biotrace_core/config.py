@@ -10,6 +10,20 @@ from biotrace_core.models import Model
 
 ROOT = Path(__file__).resolve().parents[1]
 DEFAULT_RULES = Path(__file__).parent / "rules" / "rules_r0.4.yaml"
+DEFAULT_REFERENCE = ROOT / "data/reference/v0.5"
+
+
+def blast_timeout() -> int:
+    """D-038: execution budget, separate from biological thresholds and identity."""
+    import os
+
+    try:
+        seconds = int(os.environ.get("BIOTRACE_BLAST_TIMEOUT_SECONDS", "600"))
+    except ValueError as exc:
+        raise ValueError("BIOTRACE_BLAST_TIMEOUT_SECONDS wajib integer 1–3600.") from exc
+    if not 1 <= seconds <= 3600:
+        raise ValueError("BIOTRACE_BLAST_TIMEOUT_SECONDS wajib integer 1–3600.")
+    return seconds
 
 
 class NamingConfig(Model):

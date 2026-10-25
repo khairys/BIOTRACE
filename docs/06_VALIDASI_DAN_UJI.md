@@ -75,9 +75,11 @@ Dengan kamus lengkap, cocokkan setiap sekuens ke K tanpa dirinya sendiri (spesie
 | ID | Metrik | Definisi |
 |---|---|---|
 | M4 | Spesies benar dilaporkan | Query yang dilaporkan sebagai spesies X dengan benar |
-| M5 | Turun tingkat tanpa perlu | Query yang turun ke kompleks/genus padahal X bisa dibedakan |
+| M5 | Turun tingkat dengan takson benar | Query yang dilaporkan di atas spesies atau unknown dan memuat X. Ini proxy sikap hati-hati; belum membuktikan bahwa penurunan tidak diperlukan secara biologis (klarifikasi D-038) |
 
 M4 dan M5 menjaga agar BioTrace tidak "aman karena tidak pernah menjawab".
+
+Penyebut M4/M5 adalah `complete_n` (query dari spesies yang mempunyai lebih dari satu sekuens), bukan seluruh query LOSO. Resolusi marker, kelengkapan checklist, dan celah kerabat tetap dapat membuat penurunan tingkat memang diperlukan; jangan menyebut semua M5 sebagai kesalahan. Rilis v0.5: 589 query pada bagian ini, M4 120/589, M5 458/589; M1–M3 memakai 999 query. Perhitungan tidak diubah; istilah diselaraskan dengan kode dan data hasil run.
 
 ### 3.3 Dataset uji
 

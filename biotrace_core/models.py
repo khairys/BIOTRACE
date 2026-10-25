@@ -23,6 +23,17 @@ class ValidationIssue(Model):
     field: str = ""
 
 
+class DataProvenance(Model):
+    """D-036/D-038: source and assumptions bound into the analytical fingerprint."""
+
+    dataset_id: str
+    label: str
+    citation: str
+    doi: str
+    license: str
+    limitations: list[str]
+
+
 class ValidationReport(Model):
     issues: list[ValidationIssue] = Field(default_factory=list)
 

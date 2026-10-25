@@ -1,0 +1,16 @@
+{
+  "issues": [
+    {
+      "code": "V-06",
+      "field": "",
+      "level": "warning",
+      "message": "Koordinat tidak tersedia pada 116 sampel lapangan (mis. AG.1, AG.2, AG.3); tidak ditebak."
+    },
+    {
+      "code": "V-06",
+      "field": "",
+      "level": "warning",
+      "message": "Tanggal pengambilan tidak tersedia pada 116 sampel lapangan; tidak ditebak."
+    }
+  ]
+}

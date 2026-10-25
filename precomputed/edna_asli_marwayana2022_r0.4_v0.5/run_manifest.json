@@ -1,0 +1,129 @@
+{
+  "blast_version": "blastn: 2.17.0+",
+  "engine_version": "0.1.2",
+  "execution": {
+    "blast_threads": 4,
+    "blast_timeout_seconds": 600
+  },
+  "finished_at": "2026-10-25T01:07:33.757997+00:00",
+  "input_hashes": {
+    "fasta.fasta": "3ad4b331cb7751dde16e584285d9c8da9e2383485820876042810d6e3063e58d",
+    "metadata.csv": "8e1f8aa89e5de24b9e649e2ec27d8aee3720c88e1f568d4d3d3f25b1da1911e0",
+    "reads.csv": "e439ee6eb460bfe8ef62b25e441a5b9d96c9598f0e9a17686e327b55545a0b45",
+    "taxonomy.csv": "b5fb6d0e2176344d1059f0d572fc9815b9b5eb615db95a85f6fe41b7b1587405"
+  },
+  "is_simulated": false,
+  "mode": "normal",
+  "output_hashes": {
+    "barcode_priority.csv": "d3a0c57db71b05153f8ed0e15e8da2141992e2bf2bfbf619f2d67120b69ba795",
+    "blast_hits.tsv": "2f3988d49830794f837df7440fd4d1b252dd693470563cc91cf788a1939d76dc",
+    "claims.csv": "dbad58c918c052831d89aa232873c27898f62cb69d4cb6f0c7e06397edc5afc4",
+    "coverage.csv": "c52771df054de3fa5f1d2e92df6ebbaeff8579d89d74926257f59c302f968f69",
+    "report.pdf": "67f8beb40e570c2102f27fa0ad1a33ea30a16840e1d7f3ab60ca2c305ede392c",
+    "summary.json": "698d409710a37a89ab787afe496bee16b5b6e8d84f4d8609a798858a674c826f",
+    "validation_report.json": "9ee78dc3a66b47ebeef25dcf9d334f905b8691d3523154be29e238e5a3a2d414"
+  },
+  "parameters": {
+    "data_provenance": {
+      "citation": "Marwayana dkk. 2022, Environmental DNA, doi:10.1002/edn3.257",
+      "dataset_id": "marwayana2022_mifishu",
+      "doi": "10.5068/D12T1B",
+      "label": "Data eDNA asli terumbu karang Indonesia",
+      "license": "CC0",
+      "limitations": [
+        "Dataset terumbu karang menguji alur pada data Indonesia; bukan validasi lapangan Malili.",
+        "Koordinat dan tanggal belum ditranskripsi dari Tabel S1; nilai kosong tidak ditebak.",
+        "Batch ekstraksi dan jenis blank tidak dinyatakan sumber; semua blank diperlakukan sebagai kontrol satu batch. Ini asumsi analisis, bukan metadata terkonfirmasi.",
+        "Checklist LAUT_INDONESIA berskala negara; tidak membuktikan keberadaan di tiap lokasi.",
+        "Identitas lab dipakai untuk perbandingan, bukan kebenaran acuan untuk menghitung akurasi."
+      ]
+    },
+    "marker": "12S_MiFish_U",
+    "rules": {
+      "blast": {
+        "dust": "no",
+        "evalue": 1e-05,
+        "max_target_seqs": 500,
+        "perc_identity": 80,
+        "task": "blastn"
+      },
+      "causes": {
+        "reference_cause_p_missing": 0.5
+      },
+      "curation": {
+        "conflict_policy": "accepted_with_flag",
+        "forward_primer": "GTCGGTAAAACTCGTGCCAGC",
+        "max_n_fraction": 0.01,
+        "min_length_fraction": 0.9,
+        "primer_max_mismatches": 3,
+        "reverse_primer": "CATAGTGGGGTATCTAATCCCAGTTTG"
+      },
+      "evidence": {
+        "foreign_specimen_policy": "flag",
+        "secondary_source_cap": true
+      },
+      "interpretation_limit": "Deteksi DNA bukan bukti pasti ikan hidup di lokasi.",
+      "labels": {
+        "partial_sensitive_label": true
+      },
+      "marker_default": "12S_MiFish_U",
+      "naming": {
+        "congener_gap_policy": "strict",
+        "hit_window_pct": 0.5,
+        "min_query_coverage": 0.9,
+        "species_min_pct": 98.0,
+        "unknown_below_pct": 95.0
+      },
+      "preprocess": {
+        "tag_jump_fraction": 0.001
+      },
+      "priorities": {
+        "endemic": 3,
+        "invasive": 1,
+        "observed_reference_gap": 2,
+        "threatened": 2
+      },
+      "reference": {
+        "allowed_voucher_levels": [
+          "V1",
+          "V2",
+          "V3"
+        ]
+      },
+      "rules_version": "r0.4",
+      "scoring": {
+        "grade_map": {
+          "0": "D",
+          "1": "D",
+          "2": "C",
+          "3": "C",
+          "4": "B",
+          "5": "A"
+        },
+        "l1_high_gap": 1.0,
+        "l1_high_pct": 99.0,
+        "l1_mid_gap": 0.5,
+        "l1_mid_pct": 98.0,
+        "l1_penalty_ref_fraction_below": 0.5,
+        "l4_full": 1.0,
+        "l4_partial": 0.66,
+        "l4_single_replicate_score": 1,
+        "min_total_reads": 10
+      },
+      "status": "usulan tim, belum dikalibrasi ahli",
+      "validation": {
+        "baseline_species_pct": 97.0
+      }
+    },
+    "uses_fasta": true
+  },
+  "reasons_hash": "19f1372ba56d9754366c0321ebd581e1e7f06e6475e6d6007c1c34d3c6ed489c",
+  "reference_manifest_hash": "e2862af213a2d73a2a6a9fe33b36382d5bed70ebdedf5783bb4819976862c221",
+  "reference_version": "v0.5",
+  "report_fingerprint": "fa3006dabe4e026631bfaeba5536619dc9ab78986bbba5ba264ed12fbde24fa0",
+  "result_payload_hash": "91381f3a383a36fd4589b7553c288b1e07b107cf57ad68e8a31b4b189da5608a",
+  "rules_hash": "b8bd6113deb3a898c48492796f4745ecbdfa4fc11a2cc71c58f7ce33ce59e0c1",
+  "rules_version": "r0.4",
+  "run_fingerprint": "ad89b745a5936e520b1e038d0c81480d48e378da39fedb0b8408ab5d368bc1bc",
+  "started_at": "2026-10-25T01:02:55.829302+00:00"
+}

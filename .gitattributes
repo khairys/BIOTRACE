@@ -2,4 +2,7 @@
 precomputed/** -text
 data/** -text
 raw/** -text
+biotrace_core/rules/*.yaml -text
+validation/jury/** -text
+validation/results/*.json -text
 *.pdf binary

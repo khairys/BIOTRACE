@@ -22,7 +22,7 @@ from reportlab.platypus import (
 
 from biotrace_core.config import load_rules
 from biotrace_core.decision import DECISIONS
-from biotrace_core.models import RunResult
+from biotrace_core.models import DataProvenance, RunResult
 
 TEAL = colors.HexColor("#0F766E")
 INK = colors.HexColor("#14212B")
@@ -48,7 +48,9 @@ LABELS = {
 }
 
 
-def render_report(result: RunResult, sources: list[dict], destination: Path) -> None:
+def render_report(
+    result: RunResult, sources: list[dict], destination: Path, *, brief: bool = False
+) -> None:
     """A10/A11/A2. Escape all uploaded text; no external assets or network."""
     styles = getSampleStyleSheet()
     styles.add(
@@ -162,6 +164,14 @@ def render_report(result: RunResult, sources: list[dict], destination: Path) -> 
         author="BioTrace Indonesia",
     )
     story = []
+    if brief:
+        story.append(
+            para(
+                "RINGKASAN PEMERIKSAAN - angka ringkasan memakai seluruh klaim. "
+                "Tabel menampilkan paling banyak 20 contoh klaim, 6 kartu bukti, dan 20 genus. "
+                "Seluruh klaim dan kartu tersedia pada laporan lengkap serta ekspor CSV."
+            )
+        )
     if result.summary.is_simulated:
         story.extend(
             [
@@ -243,9 +253,31 @@ def render_report(result: RunResult, sources: list[dict], destination: Path) -> 
                 "Deteksi DNA bukan bukti pasti ikan hidup di lokasi. Laporan ini merupakan verifikasi pendukung, bukan dokumen AMDAL resmi."
             ),
             PageBreak(),
-            para("Daftar klaim", "HeadingID"),
         ]
     )
+    provenance = result.manifest.parameters.get("data_provenance")
+    if provenance:
+        source = DataProvenance.model_validate(provenance)
+        story.extend(
+            [
+                para("Sumber data dan batas analisis", "HeadingID"),
+                para(source.label),
+                para(source.citation),
+                para(f"Dataset doi:{source.doi} | Lisensi: {source.license}"),
+                para(
+                    f"Kamus {result.manifest.reference_version} | Aturan {result.manifest.rules_version} "
+                    f"| Engine {result.manifest.engine_version}"
+                ),
+            ]
+        )
+        story.extend(para(f"- {item}") for item in source.limitations)
+        story.extend(
+            [
+                para("Nilai A bukan kepastian. Ambang usulan tim, belum dikalibrasi ahli."),
+                PageBreak(),
+            ]
+        )
+    story.append(para("Daftar klaim", "HeadingID"))
     order = {"must_verify": 0, "do_not_use": 1, "with_note": 2, "safe": 3}
     ordered = sorted(result.claims, key=lambda c: (order[c.decision], c.site_id, c.asv_id))
     story.append(
@@ -261,13 +293,15 @@ def render_report(result: RunResult, sources: list[dict], destination: Path) -> 
                     DECISIONS[c.decision][0],
                     ", ".join(CAUSES.get(x, x) for x in c.causes) or "-",
                 ]
-                for c in ordered
+                for c in (ordered[:20] if brief else ordered)
             ],
             [22 * mm, 29 * mm, 32 * mm, 17 * mm, 10 * mm, 29 * mm, 35 * mm],
         )
     )
     story.extend([PageBreak(), para("Lampiran A - Evidence Card", "HeadingID")])
     selected = [c for c in ordered if c.decision in {"must_verify", "do_not_use"}]
+    if brief:
+        selected = selected[:6]
     if not selected:
         story.append(para("Tidak ada kartu wajib verifikasi/jangan dipakai."))
     for i, c in enumerate(selected):
@@ -310,7 +344,7 @@ def render_report(result: RunResult, sources: list[dict], destination: Path) -> 
                 ["Perairan", "Genus", "Punya referensi / tercatat", "Fraksi celah"],
                 [
                     [r.waterbody_id, r.genus, f"{r.r} / {r.n}", f"{r.p_missing:.0%}"]
-                    for r in result.coverage
+                    for r in (result.coverage[:20] if brief else result.coverage)
                 ],
                 [30 * mm, 50 * mm, 60 * mm, 34 * mm],
             ),
@@ -368,12 +402,13 @@ def render_report(result: RunResult, sources: list[dict], destination: Path) -> 
                 "SmallID",
             )
         )
-    story.append(para("Batas interpretasi", "HeadingID"))
-    story.append(
-        para(
-            "Deteksi DNA bukan bukti pasti ikan hidup di lokasi. Nilai A bukan kepastian. Laporan ini adalah verifikasi pendukung, bukan dokumen AMDAL resmi."
+    if not brief:
+        story.append(para("Batas interpretasi", "HeadingID"))
+        story.append(
+            para(
+                "Deteksi DNA bukan bukti pasti ikan hidup di lokasi. Nilai A bukan kepastian. Laporan ini adalah verifikasi pendukung, bukan dokumen AMDAL resmi."
+            )
         )
-    )
     doc.build(
         story,
         onFirstPage=decorate,

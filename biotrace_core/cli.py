@@ -6,7 +6,7 @@ import sys
 from pathlib import Path
 
 from biotrace_core.audit import read_run, verify_run
-from biotrace_core.config import DEFAULT_RULES, ROOT, load_rules
+from biotrace_core.config import DEFAULT_REFERENCE, DEFAULT_RULES, ROOT, load_rules
 from biotrace_core.io.loaders import write_table
 from biotrace_core.pipeline import run_analysis
 from biotrace_core.records import (
@@ -30,7 +30,7 @@ def parser() -> argparse.ArgumentParser:
     run.add_argument("--fasta", type=Path)
     run.add_argument("--taxonomy", type=Path)
     run.add_argument("--site-context", type=Path)
-    run.add_argument("--ref", type=Path, default=ROOT / "data/reference/v0.4")
+    run.add_argument("--ref", type=Path, default=DEFAULT_REFERENCE)
     run.add_argument("--rules", type=Path, default=DEFAULT_RULES)
     run.add_argument("--out", type=Path, default=ROOT / "runs")
     run.add_argument("--mode", choices=["normal", "simulation", "validation"], default="normal")

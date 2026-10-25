@@ -129,7 +129,7 @@ BioTrace punya tiga lapis yang saling memperkuat. Urutan pentingnya adalah aset 
 | D-008 | Cari penasihat ahli taksonomi ikan sebelum klaim tingkat spesies dipakai di luar demo |
 | D-009 | Stack: Python `biotrace_core` + BLAST+ + FastAPI + React/Vite/TS + penyimpanan berbasis file |
 | D-010 | Penyimpanan dokumen: repo `docs/` untuk 01–06 dan 09; Project GENOHACK untuk 07 lengkap dan 08 |
-| D-011 | Kamus dibangun bertahap v0.1 → v2.0; data luar Indonesia disimpan per wilayah dan tidak mendukung klaim Indonesia |
+| D-011 | Kamus dibangun bertahap; modul luar per wilayah hanya untuk validasi. D-033/D-038: sekuens spesimen luar/asal kosong dari spesies tercatat Indonesia boleh masuk modul ID dengan label; bukti yang hanya bertumpu padanya tidak pernah `safe` |
 | D-012 | "Kompleks" adalah tingkat nama yang sah dan dianggap jawaban benar |
 | D-013 | Level voucher V1–V4; V4 (eDNA) tidak pernah menjadi referensi |
 | D-014 | Tanpa machine learning di MVP |
@@ -143,9 +143,9 @@ BioTrace punya tiga lapis yang saling memperkuat. Urutan pentingnya adalah aset 
 
 | Tahap | Waktu | Isi | Tag |
 |---|---|---|---|
-| **Prototipe hackathon** | s.d. 25 Okt 2026, 10:00 WIB | Mesin cek + dashboard + kamus awal Malili v0.1 + data demo SIMULASI + uji mesin dasar + LOSO pustaka Guyana (K-009) | `[MVP]` |
+| **Prototipe hackathon** | s.d. 25 Okt 2026, 10:00 WIB | Mesin cek + dashboard + snapshot kamus v0.5 (checklist Malili dan nasional) + demo SIMULASI dan alur eDNA asli terumbu Indonesia + uji mesin dan LOSO pustaka berversi (D-038) | `[MVP]` |
 | Validasi masalah | Bulan 1–2 | Wawancara 5–8 perusahaan/konsultan lingkungan. Gerbang 1: ≥5 menyatakan masalah nyata | `[P1]` |
-| Paper 1 + kamus v0.2 | Bulan 1–4 | Analisis celah 12S ikan air tawar Indonesia per pulau/famili/genus | `[P1]` |
+| Paper 1 + snapshot kurasi berikutnya | Bulan 1–4 | Analisis celah 12S ikan air tawar Indonesia per pulau/famili/genus; bukan klaim snapshot awal sudah lengkap | `[P1]` |
 | Validasi mesin | Bulan 3–4 | Uji presisi di Lake St. Pierre (LOSO Guyana sudah masuk MVP, K-009) | `[P1]` |
 | Tinjauan ahli | Bulan 7–9 | 50 klaim diperiksa ahli ikan. Gerbang 2: ≥80% disetujui | `[P1]` |
 | Pilot | Bulan 10–12 | Analisis ulang data proyek nyata bersama mitra; ≥1 pilot berbayar atau LOI | `[P1]` |
@@ -180,10 +180,12 @@ Angka di tabel §2.3 dan di `07_REGISTRI_BUKTI_RINGKAS.md` §2 dengan status **T
 
 1. Tim tanpa ahli taksonomi ikan.
 2. Marker MiFish tidak bisa membedakan kelompok *Telmatherina*/*Oryzias* di Malili. Mitigasi: "kompleks" dijadikan fitur.
-3. Data eDNA Indonesia hampir tidak ada yang publik. Mitigasi: kontak penulis; uji dulu dengan dataset luar.
+3. Data eDNA Malili belum tersedia di repo. Mitigasi: konfirmasi sumber/penulis; gunakan dataset luar untuk validasi pustaka dan data terumbu Indonesia untuk demo alur, tanpa mengklaim validasi lapangan Malili.
 4. Izin akses sumber daya genetik. Mitigasi: tidak memegang spesimen.
 5. Belum ada kewajiban regulasi. Mitigasi: masuk lewat kolaborasi riset.
 6. Kamus Malili sangat bolong, sehingga banyak hasil berupa genus atau "tidak dikenal". Mitigasi: tampilkan sebagai peta celah yang bisa ditindaklanjuti, bukan kegagalan.
+
+Pembaruan implementasi D-038 (25 Oktober 2026, atas instruksi Agathan): snapshot aktif v0.5 dan persetujuan usulan bukan pengesahan ahli. Isi snapshot, asumsi dataset, status validasi, dan solusi untuk bahan belum selesai dirinci di [17 — Kesiapan Juri](17_KESIAPAN_JURI.md). Semua ambang tetap usulan tim, belum dikalibrasi ahli; endemik Malili berreferensi tetap 0/19 pada snapshot ini.
 
 ---
 

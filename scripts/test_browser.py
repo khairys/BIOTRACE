@@ -1,13 +1,14 @@
 """UI-01..08 [MVP] browser workflow against a running local server."""
 
 import json
+import os
 from pathlib import Path
 from urllib.parse import urlparse
 
 from playwright.sync_api import expect, sync_playwright
 
 ROOT = Path(__file__).resolve().parents[1]
-BASE = "http://127.0.0.1:8000"
+BASE = os.environ.get("BIOTRACE_TEST_URL", "http://127.0.0.1:8000")
 
 
 def main() -> None:
@@ -99,16 +100,51 @@ def main() -> None:
         page.get_by_role("button", name="Jalankan analisis").click()
         page.wait_for_url("**/runs/**", timeout=60000)
         expect(page.get_by_role("heading", name="Hasil verifikasi eDNA")).to_be_visible()
+        page.goto(BASE)
+        page.get_by_role("button", name="Muat data eDNA asli Indonesia", exact=True).click()
+        page.wait_for_url("**/runs/**", timeout=60000)
+        page.wait_for_load_state("networkidle")
+        expect(page.locator(".real-data-banner")).to_be_visible()
+        expect(page.locator(".simulation-banner")).to_have_count(0)
+        real_url = page.url.split("?")[0]
+        page.goto(real_url)  # Provenance must survive a shared URL without query-string labels.
+        expect(page.locator(".real-data-banner")).to_contain_text("v0.5")
+        run_id = real_url.rsplit("/", 1)[-1]
+        real_run = page.request.get(f"{BASE}/api/runs/{run_id}").json()
+        assert real_run["summary"]["total_claims"] == 4354
+        assert real_run["manifest"]["reference_version"] == "v0.5"
+        assert (
+            real_run["manifest"]["parameters"]["data_provenance"]["dataset_id"]
+            == "marwayana2022_mifishu"
+        )
+        page.screenshot(path=str(output / "06-real-data.png"))
+        with page.expect_download() as download:
+            page.get_by_role("link", name="Ringkasan PDF", exact=True).click()
+        download.value.save_as(str(output / "ringkasan_asli.pdf"))
+        assert (output / "ringkasan_asli.pdf").read_bytes().startswith(b"%PDF")
+        page.set_viewport_size({"width": 390, "height": 844})
+        assert page.evaluate("document.documentElement.scrollWidth<=window.innerWidth")
+        page.screenshot(path=str(output / "07-real-data-mobile.png"))
+        verification = page.request.post(
+            f"{BASE}/api/verify",
+            data={"report_fingerprint": real_run["manifest"]["report_fingerprint"]},
+        ).json()
+        assert verification["found"] and verification["valid"]
         assert not errors, errors
         assert not external, external
         result = {
             "workflow": "passed",
             "console_errors": errors,
             "external_requests": external,
-            "viewports": [1440, 1280],
+            "viewports": [1440, 1280, 390],
             "upload_files": 3,
             "pdf_download": True,
             "zip_download": True,
+            "real_demo_claims": 4354,
+            "real_reference": "v0.5",
+            "provenance_survives_reload": True,
+            "report_verification": True,
+            "brief_pdf_download": True,
         }
         (output / "browser_results.json").write_text(
             json.dumps(result, indent=2) + "\n", encoding="utf-8"

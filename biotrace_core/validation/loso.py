@@ -5,8 +5,9 @@ import tempfile
 import time
 from pathlib import Path
 
+from biotrace_core import __version__
 from biotrace_core.assessment import assess
-from biotrace_core.audit import sha256
+from biotrace_core.audit import fingerprint, sha256
 from biotrace_core.config import DEFAULT_RULES, load_reasons, load_rules
 from biotrace_core.naming.blast import blast_version, match_sequences
 from biotrace_core.preprocess import Signal
@@ -55,8 +56,38 @@ def run_loso(
         "correct_species": 0,
         "unnecessary_lower": 0,
     }
+    if output.exists():
+        raise ValueError("Hasil LOSO sudah ada; pilih nama output baru.")
+    identity = {
+        "reference_manifest_hash": sha256(manifest_path(reference_dir).read_bytes()),
+        "rules_hash": sha256(rules_path.read_bytes()),
+        "engine_version": __version__,
+        "blast_version": blast_version(),
+        "species": species,
+    }
+    checkpoint = output.with_suffix(".checkpoint")
+    completed: list[str] = []
+    previous_duration = 0.0
+    if checkpoint.exists():
+        state = json.loads(checkpoint.read_text(encoding="utf-8"))
+        digest = state.pop("payload_hash", "")
+        if fingerprint(state) != digest or state.get("identity") != identity:
+            raise ValueError("Checkpoint LOSO berubah atau versinya berbeda; pilih output baru.")
+        completed = state["completed_species"]
+        saved_counts = state["counts"]
+        if (
+            completed != species[: len(completed)]
+            or saved_counts.keys() != counts.keys()
+            or any(not isinstance(v, int) or v < 0 for v in saved_counts.values())
+        ):
+            raise ValueError("Isi checkpoint LOSO tidak sah.")
+        counts = saved_counts
+        previous_duration = float(state.get("duration_seconds", 0))
+        print(f"Melanjutkan LOSO setelah {len(completed)}/{len(species)} spesies.", flush=True)
     started = time.perf_counter()
     for index, name in enumerate(species):
+        if index < len(completed):
+            continue
         queries = {r.seq_id: ref.fasta[r.seq_id] for r in ref.eligible if r.species_valid == name}
         remaining = [r for r in ref.eligible if r.species_valid != name]
         hidden = ReferenceIndex(
@@ -104,6 +135,18 @@ def run_loso(
                             claim.reported_rank, claim.reported_name, claim.complex_id, name, ref
                         )
                     )
+        # Only complete species are checkpointed; partial work never becomes published metrics.
+        state = {
+            "identity": identity,
+            "completed_species": species[: index + 1],
+            "counts": counts,
+            "duration_seconds": previous_duration + time.perf_counter() - started,
+        }
+        state["payload_hash"] = fingerprint(state)
+        checkpoint.parent.mkdir(parents=True, exist_ok=True)
+        temporary = checkpoint.with_suffix(".checkpoint.tmp")
+        temporary.write_text(json.dumps(state, sort_keys=True) + "\n", encoding="utf-8")
+        temporary.replace(checkpoint)
         if index % 20 == 0 or index == len(species) - 1:
             print(f"LOSO {index + 1}/{len(species)} spesies; {counts['n']} query", flush=True)
     n, m = counts["n"], counts["complete_n"]
@@ -131,16 +174,18 @@ def run_loso(
         "reference_manifest_hash": sha256(manifest_path(reference_dir).read_bytes()),
         "rules_hash": sha256(rules_path.read_bytes()),
         "blast_version": blast_version(),
-        "duration_seconds": round(time.perf_counter() - started, 3),
+        "duration_seconds": round(previous_duration + time.perf_counter() - started, 3),
         "notes": [
             "L4 diset maksimum untuk mengisolasi logika penamaan; bukan hasil sampel lapangan.",
             "Parameter belum dikalibrasi untuk marker ini; hasil tidak membuktikan akurasi MiFish Indonesia.",
             "M4/M5 hanya query spesies dengan lebih dari satu sekuens; bukan komplemen matematis.",
             "LOSO menghapus semua referensi X sebelum BLAST; checklist tetap memuat X.",
+            "Checkpoint hanya menyimpan spesies selesai. Durasi kumulatif segmen berhasil; jeda/interupsi tidak dihitung sebagai bukti kinerja.",
         ],
     }
     output.parent.mkdir(parents=True, exist_ok=True)
     with output.open("x", encoding="utf-8") as stream:
         json.dump(result, stream, ensure_ascii=False, sort_keys=True, indent=2)
         stream.write("\n")
+    checkpoint.unlink(missing_ok=True)
     return result

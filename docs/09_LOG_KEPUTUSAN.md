@@ -157,7 +157,7 @@ Templat:
 ### K-001 — Angka "4 → 34" Roussel dkk. 2026
 - Tanggal: 2026-10-24
 - Isi: Pembacaan halaman bioRxiv v2 pada sesi perencanaan menemukan kalimat "only four species were detected by all four eDNA companies" dan peningkatan ke 34 setelah analisis ulang. Laporan deep research menyatakan angka itu tidak ditemukan.
-- Status: Ditunda (tetap). Tidak dipakai di pitch 25 Okt. Bukti utama pitch memakai hasil LOSO Guyana (`validation/results/2026-10-24_GF_r0.2.json`). Pemilik: Ketua. Cek teks penuh setelah lomba.
+- Status: Ditutup untuk rilis MVP oleh D-038: angka dikeluarkan dari klaim. Verifikasi ilmiahnya belum dilakukan. Tidak dipakai di pitch 25 Okt. Bukti utama pitch memakai hasil LOSO Guyana (`validation/results/2026-10-24_GF_r0.2.json`). Pemilik: Ketua. Cek teks penuh setelah lomba.
 - Pemilik: Ketua.
 
 ### K-002 — "Sekitar 630 endemik"
@@ -267,7 +267,7 @@ Rincian bukti dan gerbang implementasi: [11 — Audit Kesiapan](11_AUDIT_KESIAPA
 - Status ilmiah: usulan tim, belum dikalibrasi ahli.
 
 ### D-034 — Kamus Indonesia v0.3: data 12S dan checklist repo Bagus digabung dengan label `[MVP]`
-- Tanggal: 2026-10-25 · Status: **Diusulkan** · Diusulkan oleh: Claude (agent) atas instruksi Bagus Athallah, menjalankan [13 — Prompt penggabungan data](13_PROMPT_PENGGABUNGAN_DATA.md). Disetujui oleh: —
+- Tanggal: 2026-10-25 · Status: **Disetujui** · Diusulkan oleh: Claude (agent) atas instruksi Bagus Athallah, menjalankan [13 — Prompt penggabungan data](13_PROMPT_PENGGABUNGAN_DATA.md). Disetujui oleh: Agathan (instruksi chat 25 Okt 2026: "Terima semua usulan tersebut"). Persetujuan integrasi prototipe; bukan tinjauan ahli atas taksonomi/status.
 - Konfirmasi pemilik area aturan: Bagus (Backend & data) mengonfirmasi D-033 dalam chat, 25 Okt 2026, dan mengotorisasi perbaikan R-CUR-04 di bawah. Konfirmasi ini bukan persetujuan D-034.
 - Sumber mentah (A13, salinan lokal dengan SHA-256 dicocokkan, bukan berkas turunan): `raw/malili12s_mitohelper/` (arsip mitohelper 12S, esummary, GBIF, dari repo BagusAth/BIOTRACE commit 5a407e4), `raw/bagus_ref_v0.1/` (tabel kurasi tim), header GenBank flat file untuk 592 aksesi yang esummary-nya tanpa `/specimen_voucher` atau `/country` (`fetch_data.py malili12s_genbank_headers`), dan `raw/lsp12s_mitohelper/` (esummary 1.158 aksesi, header 780 aksesi). Semua tercatat di `raw/DOWNLOAD_LOG.md`.
 - Keputusan voucher (13 §4a): V2 bila ada `/specimen_voucher`; V3 bila tanpa voucher tetapi ada REFERENCE terbit di jurnal (bukan Unpublished, Direct Submission, Submitted, tesis, paten, in press); selain itu ditolak `no_voucher`. Penyimpangan kecil dari teks 13: baris `no_voucher` dicatat di `curation_report.csv`, bukan di `sequences.csv`, karena enum `voucher_level` tidak punya nilai untuk kasus ini.
@@ -292,14 +292,14 @@ Rincian bukti dan gerbang implementasi: [11 — Audit Kesiapan](11_AUDIT_KESIAPA
 - Status ilmiah: usulan tim, belum dikalibrasi ahli.
 
 ### D-035 — Kamus Indonesia v0.4 nasional dari panen GenBank tropis `[MVP]`
-- Tanggal: 2026-10-25 · Status: **Diusulkan** · Dikerjakan: Claude Code atas instruksi Agathan ("saya tidak mau simulasi"). Perlu persetujuan Bagus (Backend & data) dan tinjauan ahli.
+- Tanggal: 2026-10-25 · Status: **Disetujui** · Dikerjakan: Claude Code atas instruksi Agathan ("saya tidak mau simulasi"). Disetujui oleh: Agathan (chat 25 Okt 2026: "Terima semua usulan tersebut"). Persetujuan penggunaan prototipe; tinjauan ahli tetap gerbang penggunaan ilmiah.
 - Isi: v0.3 diwarisi + sekuens GenBank hasil panen (docs/16) untuk spesies yang tercatat di Indonesia menurut FishBase v25.04. 966 sekuens 12S MiFish diterima dari 630 spesies; 100 dari spesimen bertanda Indonesia. Perairan baru `LAUT_INDONESIA` dengan checklist FishBase tingkat negara (spesies laut/payau, `source_quality = primer` karena file sumber ada di `raw/`). Status invasif dari transkripsi Permen KP 19/2020 (belum dicek manusia).
 - Aturan voucher: V2 hanya bila `/specimen_voucher` ada; rekaman tanpa voucher ditolak (5.423), karena header REFERENCE belum diunduh untuk menilai V3. 2.412 rekaman tanpa daerah MiFish ditandai. Pemotongan MiFish lewat `trim_mifish_fast`, diverifikasi identik dengan `trim_mifish` pada sampel setiap build.
 - Keterbatasan: panen GenBank per spesies air tawar/laut dan aksesi dari paper belum lengkap saat dibangun; checklist laut tingkat negara, bukan per lokasi; sinonimi FishBase–GenBank tanpa tinjauan ahli.
 - Kamus bawaan menjadi v0.4 (API, CLI). v0.1–v0.3 tidak diubah (A12). Builder: `scripts/prepare_v04.py`.
 
 ### D-036 — Data eDNA asli Indonesia untuk demo; koordinat/tanggal sampel boleh kosong `[MVP]`
-- Tanggal: 2026-10-25 · Status: **Diusulkan** · Instruksi: Agathan (demo dengan data asli, bukan simulasi).
+- Tanggal: 2026-10-25 · Status: **Disetujui** · Disetujui oleh: Agathan (chat 25 Okt 2026: "Terima semua usulan tersebut"). Instruksi: Agathan (demo dengan data asli, bukan simulasi). Asumsi blank/batch tetap diberi label dan bukan fakta pengambilan sampel.
 - Data: Marwayana dkk. 2022 (Dryad 10.5068/D12T1B, CC0), keluaran Anacapa MiFish-U dari 39 lokasi terumbu di 7 wilayah Indonesia. Adapter `scripts/import_marwayana2022.py` → `data/edna_asli/marwayana2022_mifishu/` (1.935 ASV ikan, 120 sampel termasuk 4 blank, penamaan lab asli sebagai `taxonomy.csv`).
 - Perubahan skema: `Sample.latitude`, `longitude`, `collection_date` boleh kosong (string kosong = tidak ada). V-06 menjadi satu peringatan ringkas "koordinat tidak tersedia"; peta melewati lokasi tanpa koordinat. Tidak ada nilai yang ditebak (A1).
 - Asumsi konservatif yang tercatat di README data: semua sampel dan blank satu batch ekstraksi (sumber tidak mencantumkan batch); jenis blank dicatat sebagai `kontrol_negatif_ekstraksi` (jenis tidak dinyatakan); sampel `.star` dibuang; ASV dengan total bacaan lapangan < `scoring.min_total_reads` dibuang.
@@ -308,7 +308,7 @@ Rincian bukti dan gerbang implementasi: [11 — Audit Kesiapan](11_AUDIT_KESIAPA
 - Perlu: transkripsi koordinat/tanggal dari Tabel S1 paper; konfirmasi batch dan jenis blank dari penulis.
 
 ### D-037 — Kamus v0.5: MiFish Rasborinae bervoucher (spesimen Indonesia via BOLD) + checklist air tawar nasional `[MVP]`
-- Tanggal: 2026-10-25 · Status: **Diusulkan** · Dikerjakan: Claude Code atas instruksi Agathan ("masukkan semua yang saya download"). Perlu persetujuan Bagus (Backend & data) dan tinjauan ahli.
+- Tanggal: 2026-10-25 · Status: **Disetujui** · Dikerjakan: Claude Code atas instruksi Agathan ("masukkan semua yang saya download"). Disetujui oleh: Agathan (chat 25 Okt 2026: "Terima semua usulan tersebut"). Tinjauan ahli tetap terpisah dari persetujuan implementasi.
 - Sumber: unduhan manual pengguna Dryad 10.5061/dryad.tb2rbp00g (Rasborinae of Sundaland, CC0). Daerah MiFish dipotong dari mitogenom (143 kandidat; `data/curation/rasborinae_sundaland_tb2rbp00g/`). Asal spesimen dan institusi **diambil dari rekaman BOLD** untuk kode voucher BIF yang sama (raw/tropis/bold; 38/47 voucher BIF unik tercatat Indonesia, institusi LIPI Pusat Penelitian Biologi), bukan ditebak (A1). Voucher V2.
 - Isi v0.5: v0.4 dikurasi ulang + 33 sekuens Rasborinae diterima (28 spesies); total 999 sekuens dari 630 spesies; spesimen bertanda Indonesia 100 → **133**. Dilewati: 62 tanpa voucher BIF, 15 voucher tidak ada di BOLD, 6 nama tidak cocok FishBase Indonesia (mis. "Rasbora sp1").
 - Perairan baru `AIR_TAWAR_INDONESIA`: checklist FishBase tingkat negara untuk spesies air tawar (pola `LAUT_INDONESIA` D-035), agar L2 tidak otomatis 0 untuk data air tawar nasional.
@@ -316,3 +316,18 @@ Rincian bukti dan gerbang implementasi: [11 — Audit Kesiapan](11_AUDIT_KESIAPA
 - Kamus bawaan **tetap v0.4** agar demo data asli D-036 (pra-hitung terverifikasi) tidak berubah; v0.5 dipakai lewat `--ref data/reference/v0.5` atau `BIOTRACE_REF_DIR` setelah disetujui.
 - Bahan lain dari unduhan yang sama dicatat di `data/curation/` tetapi **tidak** dimasukkan ke kamus: pustaka 12S Lengguru (primer teleo, bukan MiFish); checklist Raja Ampat S4 (2.534 baris; kode kategori sumber belum dipetakan ke origin_status); daftar spesies UVC/eDNA Raja Ampat (bahan validasi presisi); COI Jawa–Bali (1.046 spesimen MZB/LIPI, bukan 12S); Kottelat 2013 (belum diekstrak).
 - Status ilmiah: usulan tim, belum dikalibrasi ahli.
+
+### D-038 — Rilis penilaian juri: persetujuan usulan, v0.5 aktif, dan batas bukti `[MVP]`
+- Tanggal: 2026-10-25 · Status: **Disetujui** · Disetujui oleh: Agathan (instruksi chat: "Jadikan ini menjadi solid dan siap untuk dianalisa oleh juri ... Terima semua usulan tersebut"). Dicatat oleh: Codex sebagai pelaksana keputusan manusia.
+- Keputusan: D-034–D-037 disetujui untuk prototipe. v0.5 menjadi bawaan CLI, API, dan demo asli. Snapshot v0.1–v0.5 dan hasil pra-hitung lama dipertahankan; laporan/demo baru dibuat dalam folder baru. Persetujuan ini tidak mengisi nama ahli atau menggantikan kalibrasi ilmiah.
+- Keandalan: batas proses BLAST 120 detik terbukti menghentikan analisis penuh; anggaran eksekusi menjadi 600 detik, dapat diatur 1–3600 lewat `BIOTRACE_BLAST_TIMEOUT_SECONDS`, dengan galat terstruktur dan tanpa penerbitan hasil parsial. Anggaran ini dicatat sebagai parameter eksekusi, bukan ambang biologis. Versi engine naik ke 0.1.2; rules tetap r0.4, tanpa perubahan ambang/nilai/keputusan.
+- Ketahanan validasi: interupsi Windows Modern Standby terkonfirmasi lewat log sistem saat LOSO. Pembuatan database mendapat penanganan timeout yang sama; LOSO menyimpan checkpoint atomik per spesies dengan hash identitas/isi. Perintah yang sama melanjutkan hanya spesies yang belum selesai. Checkpoint bukan file hasil publik dan tidak dibaca halaman validasi.
+- Keterbacaan F24: laporan lengkap dipertahankan; endpoint tambahan `summary.pdf` menampilkan ringkasan seluruh data dengan paling banyak 20 contoh klaim, 6 kartu, dan 20 genus. Batas tampilan dicetak eksplisit, tidak memfilter data analisis. Ringkasan menggunakan fingerprint klaim lengkap dan tidak mengubah snapshot.
+- Reproduksibilitas: semua YAML aturan dan alasan dikunci byte LF melalui `.gitattributes`; hash snapshot lama tidak diubah. Sumber dataset dan asumsi demo baru masuk parameter analitis sehingga tercakup fingerprint dan ditampilkan di UI/PDF.
+- Keputusan untuk bahan belum selesai: panen parsial, COI, pustaka teleo, checklist belum terpetakan, dan sumber tanpa bukti voucher tetap bahan kurasi. Tidak dipromosikan diam-diam ke snapshot rilis. Rilis menyertakan inventaris dan daftar tindak lanjut berpenanggung jawab/gerbang; bukan klaim seluruh riset sudah selesai.
+- Keputusan konflik K-001: angka "4 → 34" dikeluarkan dari klaim rilis; ketidakpastian sumber tidak diselesaikan dengan tebakan. Keputusan ini menutup kebutuhan angka tersebut untuk penilaian MVP, bukan memverifikasi angkanya.
+- Tipe sumber `team_curation` dan `journal_unverified` diterima sebagai kategori provenance (D-034 butir 7); keduanya tidak menyatakan sumber sudah ditinjau ahli. Checklist berlabel sekunder/berita tetap dibatasi R-DEC-09.
+- Evaluasi: hasil LOSO selalu menyebut kamus/aturan/marker; M1 nol pada modul tanpa spesimen Indonesia bersifat struktural dan tidak dipakai sebagai bukti keamanan. UI menonjolkan M3 dan keterbatasan. Data terumbu Indonesia membuktikan alur data nyata, bukan validasi lapangan Malili.
+- Klarifikasi metrik: M5 dilaporkan sebagai "turun tingkat dengan takson benar", sesuai perhitungan yang sudah ada, bukan kepastian "turun tanpa perlu". Penyebut M4/M5 (`complete_n`) ditampilkan terpisah; membuktikan resolusi marker membutuhkan evaluasi tambahan. Tidak ada perubahan perhitungan untuk mengejar target.
+- Batas tetap: endemik Malili tanpa referensi, status/regulasi belum diperiksa manusia, sinonimi, koordinat/tanggal dan batch yang tidak dinyatakan sumber, validasi ahli/lapangan, serta lisensi komersial tidak boleh ditandai selesai tanpa bukti. Solusi/gerbang dirinci dalam `17_KESIAPAN_JURI.md`.
+- Menggantikan: bawaan v0.4 pada D-035/D-037; status menunggu persetujuan implementasi D-034–D-037. Tidak menggantikan A1/A5/A10/A11/A12/D-008.

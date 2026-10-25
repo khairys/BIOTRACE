@@ -1,0 +1,78 @@
+{
+  "brief_pdf_pages": 10,
+  "browser": {
+    "brief_pdf_download": true,
+    "console_errors": [],
+    "external_requests": [],
+    "pdf_download": true,
+    "provenance_survives_reload": true,
+    "real_demo_claims": 4354,
+    "real_reference": "v0.5",
+    "report_verification": true,
+    "upload_files": 3,
+    "viewports": [
+      1440,
+      1280,
+      390
+    ],
+    "workflow": "passed",
+    "zip_download": true
+  },
+  "build": "passed (TypeScript + Vite)",
+  "core_coverage_percent": 89.29347826086956,
+  "engine_version": "0.1.2",
+  "final_ui_checks": {
+    "M3_display": "7,5% vs 32,5%",
+    "M4_M5_denominator_display": 589,
+    "active_reference_loso": "v0.5",
+    "console_errors": [],
+    "mobile_routes_without_overflow": {
+      "/": true,
+      "/methods": true,
+      "/reference/propose": true,
+      "/validation": true,
+      "/verify": true
+    }
+  },
+  "human_hackathon_attribution": "Menunggu konfirmasi manusia sesuai 01 bagian 10; tidak dianggap disahkan oleh agent.",
+  "known_nonblocking_warning": "Starlette TestClient httpx deprecation; tes tetap lulus.",
+  "lint_and_format": "passed",
+  "loso": {
+    "M2_target_90_percent_passed": true,
+    "baseline": {
+      "M1": 0.3253253253253253,
+      "M3": 0.3253253253253253
+    },
+    "file": "validation/results/2026-10-25_ID_v0.5_r0.4.json",
+    "metrics": {
+      "M1": 0.0,
+      "M2": 0.924924924924925,
+      "M3": 0.07507507507507508,
+      "M4": 0.2037351443123939,
+      "M5": 0.7775891341256367
+    },
+    "queries": 999,
+    "sha256": "f836908ecf1c17ca9577d4f0dcacc4f43988464833f5e6b4ec30b4b4e9e6b3a5",
+    "species": 630
+  },
+  "performance": {
+    "asvs": 2000,
+    "blast_threads": 4,
+    "includes_pdf": true,
+    "is_simulated": true,
+    "reads_rows": 400000,
+    "reference_sequences": 2000,
+    "samples": 200,
+    "seconds": 37.74782429996412
+  },
+  "reference_version": "v0.5",
+  "regular_tests": {
+    "errors": 0,
+    "failures": 0,
+    "skipped": 0,
+    "tests": 123
+  },
+  "rules_version": "r0.4",
+  "schema_generation": "matches pydantic",
+  "scope": "Rilis prototipe untuk pemeriksaan juri; belum validasi ahli/lapangan"
+}

@@ -6,7 +6,7 @@ import subprocess
 import tempfile
 from pathlib import Path
 
-from biotrace_core.config import ROOT, RulesConfig
+from biotrace_core.config import ROOT, RulesConfig, blast_timeout
 from biotrace_core.io.loaders import write_fasta
 from biotrace_core.models import SpeciesHit
 from biotrace_core.reference.store import ReferenceIndex
@@ -65,14 +65,22 @@ def build_database(ref: ReferenceIndex, folder: Path) -> Path:
     write_fasta(fasta, {r.seq_id: ref.fasta[r.seq_id] for r in ref.eligible})
     prefix = folder / "ref"
     if ref.eligible:
-        subprocess.run(
-            [tool, "-in", fasta.name, "-dbtype", "nucl", "-out", prefix.name, "-parse_seqids"],
-            cwd=folder.resolve(),
-            check=True,
-            capture_output=True,
-            text=True,
-            timeout=120,
-        )
+        try:
+            subprocess.run(
+                [tool, "-in", fasta.name, "-dbtype", "nucl", "-out", prefix.name, "-parse_seqids"],
+                cwd=folder.resolve(),
+                check=True,
+                capture_output=True,
+                text=True,
+                timeout=blast_timeout(),
+            )
+        except subprocess.TimeoutExpired as exc:
+            raise ValueError(
+                "Pembuatan database BLAST melewati anggaran eksekusi. "
+                "Periksa proses lokal lalu ulangi; hasil parsial tidak diterbitkan."
+            ) from exc
+        except subprocess.CalledProcessError as exc:
+            raise ValueError("Pembuatan database BLAST gagal; periksa instalasi lokal.") from exc
     return prefix
 
 
@@ -107,9 +115,21 @@ def match_sequences(
     ]
     for key, value in cfg.blast.items():
         args.extend([f"-{key}", str(value)])
-    completed = subprocess.run(
-        args, cwd=folder.resolve(), check=True, capture_output=True, text=True, timeout=120
-    )
+    timeout = blast_timeout()
+    try:
+        completed = subprocess.run(
+            args, cwd=folder.resolve(), check=True, capture_output=True, text=True, timeout=timeout
+        )
+    except subprocess.TimeoutExpired as exc:
+        raise ValueError(
+            f"Pencocokan {len(query)} ASV belum selesai dalam {timeout} detik. "
+            "Hasil parsial tidak diterbitkan. Atur BIOTRACE_BLAST_TIMEOUT_SECONDS "
+            "(maksimal 3600) lalu ulangi analisis; ambang biologis tetap sama."
+        ) from exc
+    except subprocess.CalledProcessError as exc:
+        raise ValueError(
+            "BLAST gagal memproses data lokal; periksa instalasi dan berkas input."
+        ) from exc
     rows = [line.split("\t") for line in completed.stdout.splitlines() if line.strip()]
     rows.sort(key=lambda r: (r[0], -float(r[2]), -float(r[11]), r[1], int(r[6]), int(r[7])))
     seq_map = {r.seq_id: r.species_valid for r in ref.eligible}

@@ -44,7 +44,7 @@ export default function Upload(){
         const body=new FormData();entries.forEach(e=>body.append(e.role,e.file));body.append('mode',simulated?'simulation':'normal');
         result=await request<RunCreated>('/api/runs',{method:'POST',body});
       }
-      const flags=[demo==='asli'?'asli=marwayana2022':'',result.precomputed&&demo!=='asli'?'precomputed=1':''].filter(Boolean).join('&');
+      const flags=[demo==='asli'?'asli=marwayana2022':'',result.precomputed?'precomputed=1':''].filter(Boolean).join('&');
       navigate(`/runs/${result.run_id}${flags?`?${flags}`:''}`);
     }catch(cause){setError(cause instanceof Error?cause.message:'Analisis gagal.');if(cause instanceof ApiError)setValidation(cause.validation);}
     finally{setBusy(false);}
@@ -65,10 +65,10 @@ export default function Upload(){
       {validation?<ul className="validation-list">{validation.issues.map((i,index)=><li key={index}><strong>{i.code}</strong> {i.message}</li>)}</ul>:null}
       {busy?<div className="processing" role="status"><LoaderCircle size={18} className="spinner"/><div><strong>Analisis sedang berjalan…</strong><p>Validasi → Penamaan → Penilaian → Laporan</p></div></div>:null}
       <div className="upload-actions"><button className="button primary" disabled={!ready||busy} onClick={()=>void start()}>{busy?<LoaderCircle size={16} className="spinner"/>:<FolderUp size={17}/>}Jalankan analisis<ArrowRight size={16}/></button><span>atau</span><button className="button primary" disabled={busy} onClick={()=>void start('asli')}><Waves size={17}/>Muat data eDNA asli Indonesia</button><button className="button secondary" disabled={busy} onClick={()=>void start('sim')}><FlaskConical size={17}/>Muat data demo (SIMULASI)</button></div>
-      <p className="small muted">Data asli: eDNA MiFish-U terumbu karang di 7 wilayah Indonesia, Marwayana dkk. 2022 (Dryad <a className="text-button" href="https://doi.org/10.5068/D12T1B" target="_blank" rel="noreferrer">10.5068/D12T1B</a>, CC0), dicocokkan ke kamus nasional v0.4.</p>
+      <p className="small muted">Data asli: eDNA MiFish-U terumbu karang di 7 wilayah Indonesia, Marwayana dkk. 2022 (Dryad <a className="text-button" href="https://doi.org/10.5068/D12T1B" target="_blank" rel="noreferrer">10.5068/D12T1B</a>, CC0), dicocokkan ke kamus nasional v0.5. Hasil pra-hitung diverifikasi sebelum dibuka.</p>
     </section>
     <div className="upload-assurances"><div><ShieldCheck size={20}/><span><strong>Diproses secara lokal</strong><small>Berkas tidak dikirim ke layanan luar.</small></span></div><div><Check size={20}/><span><strong>Keputusan dapat ditelusuri</strong><small>Sumber, versi aturan, dan sidik jari file.</small></span></div></div>
-    <LosoEvidence/>
+    <LosoEvidence referenceVersion={health.data?.reference_version??undefined} rulesVersion={health.data?.rules_version}/>
     <div className="readiness-note"><span className={health.data?.reference_ready?'small-dot':'small-dot amber'}/><span>{health.loading?'Memeriksa lingkungan lokal…':health.data?.reference_ready?'Kamus referensi lokal tersedia.':'Kamus Indonesia nyata belum siap. Anda dapat menjalankan demo SIMULASI.'}</span></div>
     <LimitNotice/>
   </div>;

@@ -73,10 +73,12 @@ def test_T_INV_limits_labels_and_reasons(completed):
             assert claim.decision == "must_verify"
 
 
-def test_R_AUD_01_04_actual_threads_reproduce(completed, demo, tmp_path):
+def test_R_AUD_01_04_actual_threads_reproduce(completed, demo, tmp_path, monkeypatch):
     original, _ = completed
+    monkeypatch.setenv("BIOTRACE_BLAST_TIMEOUT_SECONDS", "1200")
     other = analyze(demo, tmp_path, threads=1)
     assert other.manifest.execution["blast_threads"] == 1
+    assert other.manifest.execution["blast_timeout_seconds"] == 1200
     assert other.manifest.report_fingerprint == original.manifest.report_fingerprint
     assert other.manifest.run_fingerprint == original.manifest.run_fingerprint
     assert verify_run(tmp_path / other.run_id)["valid"]

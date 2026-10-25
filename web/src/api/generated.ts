@@ -95,6 +95,14 @@ export interface CoverageRow {
   missing_species: Array<string>;
   is_simulated: boolean;
 }
+export interface DataProvenance {
+  dataset_id: string;
+  label: string;
+  citation: string;
+  doi: string;
+  license: string;
+  limitations: Array<string>;
+}
 export interface DatasetTable {
   rows: number;
   columns: Array<string>;

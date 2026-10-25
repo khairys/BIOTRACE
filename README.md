@@ -12,11 +12,14 @@ Dokumen acuan ada di [`docs/`](docs/README.md). Sumber kebenaran tertinggi: [01_
 |---|---|
 | Mesin inti, API, dashboard, PDF/CSV, jejak audit | Berjalan; tes `not slow` dan T-PERF lulus di perangkat tim |
 | Aturan | `r0.4` aktif (D-030, D-033); semua ambang **usulan tim, belum dikalibrasi ahli** |
-| Kamus Indonesia `data/reference/v0.4` (D-035, Diusulkan) | Kamus bawaan **nasional**: 966 sekuens 12S MiFish dari 630 spesies (100 dari spesimen bertanda Indonesia) + checklist Malili dan Laut Indonesia (FishBase). v0.1–v0.3 tetap utuh |
-| Kamus `data/reference/v0.5` (D-037, Diusulkan, belum bawaan) | v0.4 + 33 sekuens MiFish Rasborinae bervoucher LIPI (asal Indonesia via BOLD) + checklist air tawar nasional; 133 sekuens dari spesimen Indonesia; klaim *Rasbora* kini bisa `safe` (tingkat genus) |
+| Kamus Indonesia aktif `data/reference/v0.5` (D-037/D-038, Disetujui) | 999 sekuens 12S MiFish dari 630 spesies; 133 sekuens dari spesimen Indonesia. Tambahan 33 sekuens Rasborinae dari 28 spesies + checklist air tawar nasional. v0.1–v0.4 tetap utuh |
 | Demo | **Data eDNA asli** Marwayana dkk. 2022 (MiFish-U, terumbu Indonesia, CC0) lewat tombol "Muat data eDNA asli Indonesia" (D-036), dan demo **SIMULASI** Matano berlabel |
 | Fitur P1/P2 (D-031) | Verifikasi kode laporan, catatan ahli, usulan sekuens, peta lokasi tersamar, tampilan ponsel, CI, cocok ulang, agregasi celah, templat lab (`templates/`) |
 | Validasi | LOSO r0.4 di `validation/results/`: Malili v0.3 (n 65) M3 0,092 vs baseline BLAST-97% 0,462, M2 0,908; Lake St. Pierre `CA-QC` (mode validasi, n 234) M3 0,197 vs 0,419, M2 0,803. M1 = 0 bersifat struktural (tidak ada spesimen `ID`, D-034). Juga LOSO pustaka 12S Guyana (Teleo1/12S-V5). Bukan bukti akurasi MiFish Indonesia |
+
+Untuk pemeriksaan: **[Paket juri](docs/17_KESIAPAN_JURI.md)**. Persetujuan implementasi D-034–D-037 tercatat di D-038; tidak menggantikan tinjauan ahli. Celah endemik Malili tetap 0/19 spesies berreferensi. Snapshot sumber parsial dan bahan COI/teleo tidak otomatis masuk kamus MiFish.
+
+LOSO lengkap v0.5: 630 spesies/999 query; M2 92,49%, M3 7,51% vs baseline 32,53%. Pada uji tanpa sekuens dirinya sendiri (589 query), M4 20,37% dan M5 77,76% menunjukkan biaya kehati-hatian; ini eksperimen pustaka internal, bukan akurasi lapangan. Seluruh metrik, penyebut, dan batas dijelaskan di [paket juri](docs/17_KESIAPAN_JURI.md).
 
 ## Persiapan
 
@@ -48,6 +51,10 @@ uv run python scripts/project.py demo
 Buka http://127.0.0.1:8000, klik **Muat data demo (SIMULASI)**. Bila `blastn` tidak ditemukan, API memuat hasil dari `precomputed/matano_SIMULASI_v3_<versi aturan>/` dan dashboard menampilkan keterangan "Hasil pra-hitung". Cadangan ini hanya untuk data demo, bukan untuk unggahan pengguna.
 
 CLI tersedia sebagai `uv run biotrace {run,verify,ref,validate}`; lihat [05 §7](docs/05_ARSITEKTUR.md).
+
+Demo asli memakai kamus v0.5 dan hasil pra-hitung terverifikasi di `precomputed/edna_asli_marwayana2022_r0.4_v0.5/`. Sumber dan asumsi dataset masuk fingerprint serta tampil di UI/PDF. Untuk membangun ulang: `uv run python scripts/prepare_jury.py precompute`; untuk memeriksa aset: `uv run python scripts/prepare_jury.py check`.
+
+BLAST memiliki anggaran eksekusi 600 detik, dapat diatur lewat `BIOTRACE_BLAST_TIMEOUT_SECONDS` (1–3600). Dataset nyata tidak dijanjikan selalu selesai kurang dari dua menit; lihat durasi dalam manifest/ringkasan. Hasil parsial tidak diterbitkan saat timeout. Pengaturan ini tidak mengubah ambang biologis r0.4.
 
 ## Sebelum vs selama hackathon
 

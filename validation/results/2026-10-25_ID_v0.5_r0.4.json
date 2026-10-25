@@ -1,0 +1,42 @@
+{
+  "baseline_blast97": {
+    "M1": 0.3253253253253253,
+    "M3": 0.3253253253253253
+  },
+  "blast_version": "blastn: 2.17.0+",
+  "counts": {
+    "baseline_wrong": 325,
+    "complete_n": 589,
+    "correct_abstention": 924,
+    "correct_species": 120,
+    "n": 999,
+    "unnecessary_lower": 458,
+    "wrong_any": 75,
+    "wrong_safe": 0
+  },
+  "dataset": "ID",
+  "duration_seconds": 1262.615,
+  "is_simulated": false,
+  "marker": "12S_MiFish_U",
+  "metrics": {
+    "M1": 0.0,
+    "M2": 0.924924924924925,
+    "M3": 0.07507507507507508,
+    "M4": 0.2037351443123939,
+    "M5": 0.7775891341256367
+  },
+  "n_queries": 999,
+  "n_species": 630,
+  "notes": [
+    "L4 diset maksimum untuk mengisolasi logika penamaan; bukan hasil sampel lapangan.",
+    "Parameter belum dikalibrasi untuk marker ini; hasil tidak membuktikan akurasi MiFish Indonesia.",
+    "M4/M5 hanya query spesies dengan lebih dari satu sekuens; bukan komplemen matematis.",
+    "LOSO menghapus semua referensi X sebelum BLAST; checklist tetap memuat X.",
+    "Checkpoint hanya menyimpan spesies selesai. Durasi kumulatif segmen berhasil; jeda/interupsi tidak dihitung sebagai bukti kinerja."
+  ],
+  "partial": false,
+  "reference_manifest_hash": "e2862af213a2d73a2a6a9fe33b36382d5bed70ebdedf5783bb4819976862c221",
+  "reference_version": "v0.5",
+  "rules_hash": "b8bd6113deb3a898c48492796f4745ecbdfa4fc11a2cc71c58f7ce33ce59e0c1",
+  "rules_version": "r0.4"
+}

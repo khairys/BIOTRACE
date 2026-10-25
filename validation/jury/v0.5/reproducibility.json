@@ -1,0 +1,14 @@
+{
+  "dataset": "marwayana2022_mifishu",
+  "reference_version": "v0.5",
+  "threads": [
+    4,
+    1
+  ],
+  "claims": 4354,
+  "run_fingerprint": "ad89b745a5936e520b1e038d0c81480d48e378da39fedb0b8408ab5d368bc1bc",
+  "report_fingerprint": "fa3006dabe4e026631bfaeba5536619dc9ab78986bbba5ba264ed12fbde24fa0",
+  "identical": true,
+  "seconds_single_thread_run": 1301.842,
+  "timing_note": "Run satu thread mencakup Windows Modern Standby; durasi ini bukan benchmark kinerja."
+}

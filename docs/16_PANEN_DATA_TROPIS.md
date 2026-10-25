@@ -2,6 +2,8 @@
 
 Tanggal: 25 Oktober 2026 (WIB). Dikerjakan otomatis oleh Claude Code atas instruksi Agathan (P3 di docs/15). Branch: `integrasi/main-bagus`.
 
+> **Pembaruan rilis D-038:** sebagian bahan telah dikurasi ke kamus v0.4/v0.5. Status awal berikut dipertahankan sebagai catatan historis. Panen yang belum selesai tetap bahan kurasi dan bukan syarat menjalankan snapshot rilis; lihat docs/17.
+>
 > Status: **eksplorasi dan pengumpulan bahan mentah**, bukan kamus berversi. Tidak ada sekuens baru yang masuk `data/reference/`. Kamus berikutnya (v0.4) harus dibangun dari bahan ini lewat jalur kurasi R-CUR, dicatat di 09 sebagai Diusulkan, dan ditinjau manusia/ahli.
 
 ## 1. Gambaran besar

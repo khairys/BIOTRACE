@@ -190,6 +190,16 @@ def load_inputs(
             f"(mis. {', '.join(sorted(no_coordinates)[:3])}); tidak ditebak.",
             "warning",
         )
+    missing_dates = sum(
+        s.collection_date is None for s in data.samples if s.sample_type == "sampel"
+    )
+    if missing_dates:
+        issue(
+            data.report,
+            "V-06",
+            f"Tanggal pengambilan tidak tersedia pada {missing_dates} sampel lapangan; tidak ditebak.",
+            "warning",
+        )
     if any(len(values) > 1 for values in sites.values()):
         issue(data.report, "V-04", "Satu site_id memetakan lebih dari satu perairan.")
     if len(replicate_keys) != len(set(replicate_keys)):

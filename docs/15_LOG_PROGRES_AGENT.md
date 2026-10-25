@@ -1,5 +1,7 @@
 # 15 — Log progres agent (kerja otomatis malam 25 Okt 2026)
 
+> **Catatan kelanjutan:** instruksi rilis terbaru D-038 dan docs/17 menggantikan langkah aktif lama di bawah. Pengguna meminta rilis v0.5 siap diperiksa juri pada `main`; jangan melanjutkan panen otomatis hanya dari log historis ini.
+>
 > Dibaca PERTAMA oleh agent yang melanjutkan. Diperbarui setiap satu langkah selesai, lalu dikomit dan di-push ke branch `integrasi/main-bagus`. Waktu = waktu lokal laptop (WIB).
 
 ## Cara melanjutkan
@@ -75,3 +77,13 @@ Batasan yang tetap berlaku dari percakapan: tanpa Docker; hemat token tetapi sta
 - [ ] Isi docs/16 §5 dari `data/curation/tropis_gap_v1/summary.json`; komit `data/curation/tropis_gap_v1/*.csv` (kecuali cache)
 - [x] Transkripsi lampiran Permen KP 19/2020 dan status Kepmen (cek manusia masih perlu)
 - [ ] Catatan akhir untuk pengguna di bagian "Ringkasan akhir" dokumen ini; push; buka PR `integrasi/main-bagus` → `main` (jangan merge)
+
+## Ringkasan rilis D-038 — 25 Oct 2026 09:09 WIB
+
+- D-034–D-037 disetujui Agathan dalam chat; v0.5 aktif pada CLI/API/demo asli, engine 0.1.2, rules r0.4 tetap.
+- Data asli lengkap: 4.354 klaim, 152 taksa; analisis selesai 277,507 detik, hash terverifikasi. Reproduksi 1 vs 4 thread menghasilkan fingerprint sama.
+- LOSO v0.5 selesai: 630 spesies/999 query, M2 92,49%, M3 7,51% vs baseline 32,53%; M4 20,37% dan M5 77,76% pada 589 query disertakan sebagai biaya kehati-hatian.
+- 123 tes reguler lulus, cakupan inti sekitar 89%, tes kinerja lulus, build dan alur browser desktop/ponsel lulus.
+- Panduan, keputusan seluruh bahan tertunda, ringkasan PDF 10 halaman, dan bukti mesin ada di docs/17 dan validation/jury/v0.5.
+- Bulk raw/panen parsial tetap bahan kurasi. Ahli, metadata penulis, izin, dan atribusi manusia tidak dikarang selesai.
+- Demo aktif di http://127.0.0.1:8000. Langkah panen historis di atas bukan perintah aktif rilis ini.

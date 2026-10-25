@@ -144,8 +144,8 @@ def run_analysis(
     fasta_path: Path | None,
     taxonomy_path: Path | None,
     site_context_path: Path | None,
-    reference_dir: Path,            # data/reference/v0.1
-    rules_path: Path,               # biotrace_core/rules/rules_r0.1.yaml
+    reference_dir: Path,            # data/reference/v0.5
+    rules_path: Path,               # biotrace_core/rules/rules_r0.4.yaml
     out_root: Path,                 # runs/
     mode: Literal["normal", "validation"] = "normal",
 ) -> RunResult: ...
@@ -177,8 +177,8 @@ Model `Claim` harus memuat semua kolom `claims.csv` (04 §4.1). Nama field Pytho
 
 **Pembuatan database (sekali per versi kamus):**
 ```
-makeblastdb -in data/reference/v0.1/sequences.fasta -dbtype nucl \
-  -out data/reference/v0.1/blastdb/ref -parse_seqids
+makeblastdb -in data/reference/v0.5/sequences.fasta -dbtype nucl \
+  -out data/reference/v0.5/blastdb/ref -parse_seqids
 ```
 Hanya sekuens yang memenuhi R-NAME-01 yang ditulis ke `sequences.fasta` khusus BLAST (`blast_input.fasta`).
 
@@ -199,9 +199,9 @@ blastn -query asv.fasta -db .../blastdb/ref -task blastn \
 
 | Perintah | Fungsi | Tag |
 |---|---|---|
-| `biotrace run --reads R --meta M [--fasta F] [--taxonomy T] [--ref data/reference/v0.1] [--rules ...] [--out runs/]` | Jalankan analisis | `[MVP]` |
+| `biotrace run --reads R --meta M [--fasta F] [--taxonomy T] [--ref data/reference/v0.5] [--rules ...] [--out runs/]` | Jalankan analisis | `[MVP]` |
 | `biotrace ref import --fasta F --meta S.csv --from v0.1 --to v0.2` | Kurasi dan bangun versi kamus baru (R-CUR) | `[MVP]` |
-| `biotrace ref coverage --ref data/reference/v0.1` | Hitung ulang `coverage.csv` | `[MVP]` |
+| `biotrace ref coverage --ref data/reference/v0.5` | Hitung ulang `coverage.csv` | `[MVP]` |
 | `biotrace ref stats --ref ...` | Ringkasan kamus (R-COV-02) | `[MVP]` |
 | `biotrace validate loso --ref <dir> [--module <ext>]` | Uji leave-one-species-out vs baseline | `[MVP]` |
 | `biotrace verify --run runs/<id>` | Hitung ulang fingerprint dan bandingkan | `[MVP]` |
@@ -212,7 +212,7 @@ blastn -query asv.fasta -db .../blastdb/ref -task blastn \
 
 ## 8. API (FastAPI)
 
-Basis: `/api`. Semua respons JSON memakai model pydantic. Proses sinkron di MVP (< 2 menit).
+Basis: `/api`. Semua respons JSON memakai model pydantic. Proses sinkron di MVP, dipindah ke threadpool untuk unggahan/rematch. Target sintetis < 2 menit; data nyata dapat lebih lama. Demo memakai hasil pra-hitung terverifikasi.
 
 | Metode | Path | Input | Output | Tag |
 |---|---|---|---|---|
@@ -310,10 +310,11 @@ Variabel lingkungan (`.env`, opsional):
 
 | Nama | Default |
 |---|---|
-| `BIOTRACE_REF_DIR` | `data/reference/v0.1` |
-| `BIOTRACE_RULES` | `biotrace_core/rules/rules_r0.1.yaml` |
+| `BIOTRACE_REF_DIR` | `data/reference/v0.5` (unggahan API; CLI memakai `--ref`) |
+| Aturan aktif | `biotrace_core/rules/rules_r0.4.yaml` (CLI dapat memilih `--rules`) |
 | `BIOTRACE_RUNS_DIR` | `runs` |
-| `BIOTRACE_BLAST_THREADS` | `4` |
+| Thread BLAST | `4` (CLI: `--threads`) |
+| `BIOTRACE_BLAST_TIMEOUT_SECONDS` | `600` (integer 1–3600; parameter eksekusi) |
 | `BIOTRACE_MAX_UPLOAD_MB` | `200` |
 
 ## 12. Kualitas
@@ -352,3 +353,7 @@ Urutan disusun agar selalu ada demo yang jalan bila waktu habis.
 | 10 | README "Sebelum vs selama hackathon" | Manusia | Terisi |
 
 Titik aman: setelah langkah 5, demo sudah layak. Langkah 6–9 menambah kekuatan.
+
+## 15. Rilis juri D-038 (25 Oktober 2026)
+
+CLI, API bawaan, dan demo asli mengacu `DEFAULT_REFERENCE` v0.5. Demo tetap dipin ke snapshot rilis meskipun operator memilih override kamus unggahan; identitas versi selalu ditampilkan. Sumber dan asumsi dataset berada di parameter analitis yang terikat fingerprint. Parameter `execution.blast_timeout_seconds` tidak mengubah identitas analitis. Snapshot lama tidak ditimpa. Panduan dan tindak lanjut: [17](17_KESIAPAN_JURI.md).

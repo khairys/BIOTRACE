@@ -20,6 +20,8 @@ raw/downloads/
 data/**/blastdb/
 *.partial
 proposals/
+validation/results/*.checkpoint
+validation/results/*.checkpoint.tmp
 
 # PDF sumber disimpan lokal saja (hak cipta pihak ketiga); hash dicatat di raw/DOWNLOAD_LOG.md
 raw/checklists/*.pdf

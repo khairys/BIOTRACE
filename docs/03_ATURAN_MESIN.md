@@ -3,7 +3,7 @@
 | Atribut | Isi |
 |---|---|
 | Versi dokumen | 1.0 · 24 Oktober 2026 |
-| Versi aturan | **r0.1** (`biotrace_core/rules/rules_r0.1.yaml`) |
+| Versi aturan aktif | **r0.4** (`biotrace_core/rules/rules_r0.4.yaml`); r0.1–r0.3 dipertahankan untuk reproduksi |
 | Status ambang | **Usulan tim, belum dikalibrasi ahli.** Semua angka adalah parameter berversi |
 | Tunduk pada | `01_KONSEP_INDUK.md`, `09_LOG_KEPUTUSAN.md` |
 | Basis | PRD v2 (aturan penamaan, skor L1–L4, matriks keputusan), ditambah kompleks, level voucher, dan aturan celah kerabat dari riset 24 Oktober 2026 |

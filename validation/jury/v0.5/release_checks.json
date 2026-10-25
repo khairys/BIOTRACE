@@ -1,0 +1,272 @@
+{
+  "default_reference": "v0.5",
+  "engine_version": "0.1.2",
+  "harvest": [
+    {
+      "files_listed": 1,
+      "finished": "2026-10-25T02:45:13",
+      "manifest": "raw/tropis/bold/2026-10-25/manifest.json",
+      "manifest_sha256": "f38deebd75f40b66592fe1d45d43a9ab4a0dbcc6d7b93e6866df5a2382119cd9",
+      "summary": "423278 rekaman Teleostei global",
+      "usage": "Bahan mentah/kurasi; bukan bukti semua rekaman masuk kamus rilis."
+    },
+    {
+      "files_listed": 65,
+      "finished": "2026-10-25T03:05:23",
+      "manifest": "raw/tropis/brin_rin/2026-10-25/manifest.json",
+      "manifest_sha256": "7402cac1b345887441dd3626a64b6ca9fd0f6a315de033e104f89fe4777fe3f3",
+      "summary": "64 dataset BRIN terkait DNA ikan",
+      "usage": "Bahan mentah/kurasi; bukan bukti semua rekaman masuk kamus rilis."
+    },
+    {
+      "files_listed": 50,
+      "finished": "2026-10-25T05:34:42",
+      "manifest": "raw/tropis/brin_rin_files/2026-10-25/manifest.json",
+      "manifest_sha256": "c58f23a69a3f22209dfd21b8eca383575214f72cc40f6bd2cdbe9e6a4aca2c09",
+      "summary": "50 file terbuka dari dataset BRIN",
+      "usage": "Bahan mentah/kurasi; bukan bukti semua rekaman masuk kamus rilis."
+    },
+    {
+      "files_listed": 3,
+      "finished": "2026-10-25T03:12:50",
+      "manifest": "raw/tropis/europepmc/2026-10-25/manifest.json",
+      "manifest_sha256": "80f22d7c57fdfe23042336f793548b04c98d90969152ee92afb765e4d96d2f0c",
+      "summary": "3206 artikel OA, 3183 PMCID, 53240 aksesi nukleotida unik",
+      "usage": "Bahan mentah/kurasi; bukan bukti semua rekaman masuk kamus rilis."
+    },
+    {
+      "files_listed": 9,
+      "finished": "2026-10-25T02:39:21",
+      "manifest": "raw/tropis/fishbase/2026-10-25/manifest.json",
+      "manifest_sha256": "0ec1984ea73f0355ee99e504f87dc96c1bed379bec11f2438b342dee97f1a288",
+      "summary": "9 tabel parquet FishBase v25.04",
+      "usage": "Bahan mentah/kurasi; bukan bukti semua rekaman masuk kamus rilis."
+    },
+    {
+      "files_listed": 8,
+      "finished": "2026-10-25T05:32:20",
+      "manifest": "raw/tropis/gbif/2026-10-25/manifest.json",
+      "manifest_sha256": "84edc873e1012f05f19a8fa90674e9a6b4719935eea3c13e44f2e3883bc3efaa",
+      "summary": "jumlah per spesies untuk 7 negara; 8350 nama spesies",
+      "usage": "Bahan mentah/kurasi; bukan bukti semua rekaman masuk kamus rilis."
+    },
+    {
+      "files_listed": 117,
+      "finished": null,
+      "manifest": "raw/tropis/genbank_cited/2026-10-25/manifest.json",
+      "manifest_sha256": "ad0334bf4c143a85e5612ededaf193c2df7bb479d1cf6e7b7aa51ea683c6cbb3",
+      "summary": null,
+      "usage": "Bahan mentah/kurasi; bukan bukti semua rekaman masuk kamus rilis."
+    },
+    {
+      "files_listed": 64,
+      "finished": "2026-10-25T07:18:16",
+      "manifest": "raw/tropis/genbank_country/2026-10-25/manifest.json",
+      "manifest_sha256": "581a68198ca2d0495e614503ce4afd771dc3bf8580f0f9312b4e909faa163e59",
+      "summary": "6152 rekaman 12S/mitogenom dari 12 negara",
+      "usage": "Bahan mentah/kurasi; bukan bukti semua rekaman masuk kamus rilis."
+    },
+    {
+      "files_listed": 70,
+      "finished": null,
+      "manifest": "raw/tropis/genbank_species_freshwater/2026-10-25/manifest.json",
+      "manifest_sha256": "125ad91c4f47f15b7b2949a7a91153ce5465fd8ab750cdfd3911a8a79d5b1ca7",
+      "summary": null,
+      "usage": "Bahan mentah/kurasi; bukan bukti semua rekaman masuk kamus rilis."
+    },
+    {
+      "files_listed": 36,
+      "finished": null,
+      "manifest": "raw/tropis/genbank_species_marine/2026-10-25/manifest.json",
+      "manifest_sha256": "f6f34c8203b04f7bf3e20417d35dff3fbb5a832c8d1d5902c6e3aec03d044446",
+      "summary": null,
+      "usage": "Bahan mentah/kurasi; bukan bukti semua rekaman masuk kamus rilis."
+    },
+    {
+      "files_listed": 1,
+      "finished": "2026-10-25T03:02:13",
+      "manifest": "raw/tropis/literatur/2026-10-25/manifest.json",
+      "manifest_sha256": "1af53b0c80642ff651d81a492cd3de7f587cfce4425a3c89a6c4734ab31580b2",
+      "summary": "1 PDF literatur",
+      "usage": "Bahan mentah/kurasi; bukan bukti semua rekaman masuk kamus rilis."
+    },
+    {
+      "files_listed": 92,
+      "finished": "2026-10-25T02:59:50",
+      "manifest": "raw/tropis/oai_jurnal/2026-10-25/manifest.json",
+      "manifest_sha256": "5b5565fa9238c6c412ad9f17983d371b0865db89de1d98ccd18e6bb50402a9c5",
+      "summary": "metadata OAI 10/11 jurnal; gagal: ilmu_kelautan_undip",
+      "usage": "Bahan mentah/kurasi; bukan bukti semua rekaman masuk kamus rilis."
+    },
+    {
+      "files_listed": 2,
+      "finished": "2026-10-25T05:36:09",
+      "manifest": "raw/tropis/obis/2026-10-25/manifest.json",
+      "manifest_sha256": "a3c23d3295023ec1ac02e241875d48d5c341307b9b0157762e8a27d5458c67cf",
+      "summary": "checklist OBIS Indonesia, Indonesian Sea (LME)",
+      "usage": "Bahan mentah/kurasi; bukan bukti semua rekaman masuk kamus rilis."
+    },
+    {
+      "files_listed": 3,
+      "finished": "2026-10-25T02:43:16",
+      "manifest": "raw/tropis/regulasi/2026-10-25/manifest.json",
+      "manifest_sha256": "4246ab1249c0fd42d2152f8ac786a8f14af3eca6cfefe4ce8a1c08c4096effef",
+      "summary": "3 PDF regulasi",
+      "usage": "Bahan mentah/kurasi; bukan bukti semua rekaman masuk kamus rilis."
+    },
+    {
+      "files_listed": 19,
+      "finished": "2026-10-25T03:14:10",
+      "manifest": "raw/tropis/repositori/2026-10-25/manifest.json",
+      "manifest_sha256": "54ef9e4b1f34e4c1c2b1ae2eb9c22a50fec783bc75f40524c5db679ef666e457",
+      "summary": "penemuan dataset Zenodo, Dryad, Figshare",
+      "usage": "Bahan mentah/kurasi; bukan bukti semua rekaman masuk kamus rilis."
+    },
+    {
+      "files_listed": 9,
+      "finished": "2026-10-25T02:41:29",
+      "manifest": "raw/tropis/sra_edna/2026-10-25/manifest.json",
+      "manifest_sha256": "0c7bbf4bbebd8ec1a5837dcd65626b6e802c69d05277801eecab7e6b12afd84c",
+      "summary": "7 BioProject, 135 run, 147 FASTQ (9.7 GB)",
+      "usage": "Bahan mentah/kurasi; bukan bukti semua rekaman masuk kamus rilis."
+    },
+    {
+      "files_listed": 5,
+      "finished": "2026-10-25T02:53:36",
+      "manifest": "raw/tropis/zenodo_mifish_rcrux/2026-10-25/manifest.json",
+      "manifest_sha256": "b90ad55021b8563751811b1983b2689b388467fdf9a42cf591bccf09e81cadc0",
+      "summary": "5 file, lisensi cc-by-4.0",
+      "usage": "Bahan mentah/kurasi; bukan bukti semua rekaman masuk kamus rilis."
+    }
+  ],
+  "limitations": [
+    "Integritas file bukan verifikasi taksonomi, status konservasi, atau akurasi lapangan.",
+    "Panen parsial tidak dipakai untuk mengklaim cakupan nasional lengkap.",
+    "Lihat docs/17_KESIAPAN_JURI.md untuk gerbang ahli, data, dan rencana tindak lanjut."
+  ],
+  "precomputed": [
+    {
+      "errors": [],
+      "folder": "edna_asli_marwayana2022_r0.4_v0.4",
+      "report_fingerprint": "1ed0313b7c3d7c5bddd4074ad324788e15b8d2a1a27ad766847787615f9bac6a",
+      "valid": true
+    },
+    {
+      "errors": [],
+      "folder": "edna_asli_marwayana2022_r0.4_v0.5",
+      "report_fingerprint": "fa3006dabe4e026631bfaeba5536619dc9ab78986bbba5ba264ed12fbde24fa0",
+      "valid": true
+    },
+    {
+      "errors": [],
+      "folder": "matano_SIMULASI_v3_r0.2",
+      "report_fingerprint": "3acf028538d440d273566fa7188561960dd12fb363e4ac5117f08b301a086584",
+      "valid": true
+    },
+    {
+      "errors": [],
+      "folder": "matano_SIMULASI_v3_r0.3",
+      "report_fingerprint": "b5f12bba3474e24898b29eacc03261c5c21313b2e50cf0e347cb29e077b0e9b7",
+      "valid": true
+    },
+    {
+      "errors": [],
+      "folder": "matano_SIMULASI_v3_r0.4",
+      "report_fingerprint": "da30f429e67482402b896319ee8a4dc498b14b1695af59bcd2142d71814745bb",
+      "valid": true
+    }
+  ],
+  "real_demo": {
+    "claims": 4354,
+    "comparison_to_v04": {
+      "base_reference_version": "v0.4",
+      "base_rules_version": "r0.4",
+      "base_run_id": "3ee8ebc6e83a",
+      "changes": [],
+      "other_reference_version": "v0.5",
+      "other_rules_version": "r0.4",
+      "other_run_id": "ad89b745a593",
+      "unchanged": 4354
+    },
+    "decisions": {
+      "do_not_use": 2668,
+      "must_verify": 1,
+      "safe": 0,
+      "with_note": 1685
+    },
+    "duration_seconds": 277.507,
+    "folder": "edna_asli_marwayana2022_r0.4_v0.5",
+    "provenance": {
+      "citation": "Marwayana dkk. 2022, Environmental DNA, doi:10.1002/edn3.257",
+      "dataset_id": "marwayana2022_mifishu",
+      "doi": "10.5068/D12T1B",
+      "label": "Data eDNA asli terumbu karang Indonesia",
+      "license": "CC0",
+      "limitations": [
+        "Dataset terumbu karang menguji alur pada data Indonesia; bukan validasi lapangan Malili.",
+        "Koordinat dan tanggal belum ditranskripsi dari Tabel S1; nilai kosong tidak ditebak.",
+        "Batch ekstraksi dan jenis blank tidak dinyatakan sumber; semua blank diperlakukan sebagai kontrol satu batch. Ini asumsi analisis, bukan metadata terkonfirmasi.",
+        "Checklist LAUT_INDONESIA berskala negara; tidak membuktikan keberadaan di tiap lokasi.",
+        "Identitas lab dipakai untuk perbandingan, bukan kebenaran acuan untuk menghitung akurasi."
+      ]
+    },
+    "report_fingerprint": "fa3006dabe4e026631bfaeba5536619dc9ab78986bbba5ba264ed12fbde24fa0",
+    "run_id": "ad89b745a593",
+    "taxa": 152
+  },
+  "references": [
+    {
+      "eligible_sequences": 0,
+      "indonesian_specimen_sequences": 0,
+      "integrity": true,
+      "malili_endemic_species": 0,
+      "malili_endemic_with_reference": 0,
+      "manifest_sha256": "6f052eda11d5214ab0377dc4ec8d322fb384cd78448d6943815752ddf78baa5d",
+      "species_with_reference": 0,
+      "version": "v0.1"
+    },
+    {
+      "eligible_sequences": 0,
+      "indonesian_specimen_sequences": 0,
+      "integrity": true,
+      "malili_endemic_species": 0,
+      "malili_endemic_with_reference": 0,
+      "manifest_sha256": "0f12d21f64fd5bbb7fadfb147cff2bc60c71a80b35c06c53f60e40c3e70b9303",
+      "species_with_reference": 0,
+      "version": "v0.2"
+    },
+    {
+      "eligible_sequences": 65,
+      "indonesian_specimen_sequences": 0,
+      "integrity": true,
+      "malili_endemic_species": 19,
+      "malili_endemic_with_reference": 0,
+      "manifest_sha256": "a33f76e28317829fcb60e3c180073c833b9b0bfa235563d30ee5ef0251470518",
+      "species_with_reference": 38,
+      "version": "v0.3"
+    },
+    {
+      "eligible_sequences": 966,
+      "indonesian_specimen_sequences": 100,
+      "integrity": true,
+      "malili_endemic_species": 19,
+      "malili_endemic_with_reference": 0,
+      "manifest_sha256": "2e280c123b97460e856f64d25be6e655c6608d129749c5bc00f39decae7fde5e",
+      "species_with_reference": 630,
+      "version": "v0.4"
+    },
+    {
+      "eligible_sequences": 999,
+      "indonesian_specimen_sequences": 133,
+      "integrity": true,
+      "malili_endemic_species": 19,
+      "malili_endemic_with_reference": 0,
+      "manifest_sha256": "e2862af213a2d73a2a6a9fe33b36382d5bed70ebdedf5783bb4819976862c221",
+      "species_with_reference": 630,
+      "version": "v0.5"
+    }
+  ],
+  "release": "jury-v0.5",
+  "rules_version": "r0.4",
+  "scientific_status": "usulan tim, belum dikalibrasi ahli"
+}

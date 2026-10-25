@@ -13,6 +13,7 @@ Mulai dari `01_KONSEP_INDUK.md`. Agent wajib membaca `../AGENTS.md` dulu.
 | 10 | [Desain UI, PDF, Data Demo](10_DESAIN_UI_LAPORAN_DEMO.md) | Token desain, halaman Unggah drag & drop, dashboard satu halaman, PDF, skenario demo | Frontend, backend |
 | 07 | [Registri Bukti (ringkas)](07_REGISTRI_BUKTI_RINGKAS.md) | Klaim yang boleh dipakai, dataset | Semua |
 | 09 | [Log Keputusan](09_LOG_KEPUTUSAN.md) | Keputusan disetujui, diusulkan, konflik terbuka | Semua |
+| 17 | [Kesiapan Juri](17_KESIAPAN_JURI.md) | Jalur demo, bukti rilis, keputusan bahan tertunda, batas klaim, tindak lanjut | Juri, tim |
 
 Dokumen di Project GENOHACK (bukan repo): `07_REGISTRI_BUKTI.md` (lengkap) dan `08_BISNIS_DAN_MASUK_PASAR.md`.
 

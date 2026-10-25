@@ -11,7 +11,7 @@ from pathlib import Path
 from biotrace_core import __version__
 from biotrace_core.assessment import assess
 from biotrace_core.audit import fingerprint, read_run, report_fingerprint, sha256, verify_run
-from biotrace_core.config import DEFAULT_RULES, load_reasons, load_rules
+from biotrace_core.config import DEFAULT_RULES, blast_timeout, load_reasons, load_rules
 from biotrace_core.decision import DECISIONS
 from biotrace_core.gaps import barcode_priorities
 from biotrace_core.io.validate import InputError, issue, load_inputs
@@ -19,6 +19,7 @@ from biotrace_core.models import (
     BarcodePriorityRow,
     Claim,
     CoverageRow,
+    DataProvenance,
     DecisionCount,
     Mode,
     RunManifest,
@@ -42,6 +43,7 @@ def run_analysis(
     out_root: Path = Path("runs"),
     mode: Mode = "normal",
     threads: int = 4,
+    provenance: DataProvenance | None = None,
 ) -> RunResult:
     """Load → validate → R-PRE/NAME/SCORE/CAUSE/DEC/ORIG/GAP/AUD → persist atomically."""
     started = datetime.now(UTC).isoformat()
@@ -79,6 +81,8 @@ def run_analysis(
         "marker": marker,
         "uses_fasta": bool(fasta_path),
     }
+    if provenance is not None:
+        effective["data_provenance"] = provenance.model_dump(mode="json")
     # Original input bytes are preserved under canonical, role-based filenames.
     input_names = {
         role: artifact_name(
@@ -196,7 +200,7 @@ def run_analysis(
                 **identity,
                 run_fingerprint=run_hash,
                 report_fingerprint=report_fingerprint(csv_data, run_hash),
-                execution={"blast_threads": threads},
+                execution={"blast_threads": threads, "blast_timeout_seconds": blast_timeout()},
                 is_simulated=data.is_simulated,
                 started_at=started,
                 finished_at=datetime.now(UTC).isoformat(),

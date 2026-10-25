@@ -1,0 +1,1149 @@
+genus,is_simulated,missing_species,n,p_missing,r,waterbody_id
+Abalistes,false,Abalistes filamentosus,2,0.50,1,LAUT_INDONESIA
+Abantennarius,false,Abantennarius coccineus;Abantennarius dorehensis;Abantennarius duescus;Abantennarius nummifer;Abantennarius rosaceus,5,1.00,0,LAUT_INDONESIA
+Ablabys,false,Ablabys macracanthus,2,0.50,1,LAUT_INDONESIA
+Abudefduf,false,Abudefduf lorenzi,7,0.14,6,LAUT_INDONESIA
+Acanthaphritis,false,Acanthaphritis grandisquamis,1,1.00,0,LAUT_INDONESIA
+Acanthocepola,false,Acanthocepola abbreviata,3,0.33,2,LAUT_INDONESIA
+Acanthochromis,false,,1,0.00,1,LAUT_INDONESIA
+Acanthocybium,false,,1,0.00,1,LAUT_INDONESIA
+Acanthopagrus,false,,1,0.00,1,LAUT_INDONESIA
+Acanthoplesiops,false,Acanthoplesiops echinatus;Acanthoplesiops hiatti,2,1.00,0,LAUT_INDONESIA
+Acanthosphex,false,Acanthosphex leurynnis,1,1.00,0,LAUT_INDONESIA
+Acanthurus,false,Acanthurus auranticavus;Acanthurus fowleri;Acanthurus japonicus;Acanthurus leucosternon;Acanthurus tristis,25,0.20,20,LAUT_INDONESIA
+Acentrogobius,false,Acentrogobius audax;Acentrogobius cenderawasih;Acentrogobius chlorostigmatoides;Acentrogobius cyanomos;Acentrogobius limarius;Acentrogobius viridipunctatus,11,0.55,5,LAUT_INDONESIA
+Acentronura,false,Acentronura breviperula,1,1.00,0,LAUT_INDONESIA
+Achiroides,false,Achiroides leucorhynchos;Achiroides melanorhynchus,2,1.00,0,LAUT_INDONESIA
+Acreichthys,false,Acreichthys hajam;Acreichthys radiatus,3,0.67,1,LAUT_INDONESIA
+Acropoma,false,Acropoma musorstom,1,1.00,0,LAUT_INDONESIA
+Adelotremus,false,Adelotremus deloachi,1,1.00,0,LAUT_INDONESIA
+Aeoliscus,false,Aeoliscus strigatus,1,1.00,0,LAUT_INDONESIA
+Aesopia,false,Aesopia cornuta,1,1.00,0,LAUT_INDONESIA
+Aethaloperca,false,,1,0.00,1,LAUT_INDONESIA
+Aetobatus,false,Aetobatus flagellum;Aetobatus ocellatus,2,1.00,0,LAUT_INDONESIA
+Aetomylaeus,false,Aetomylaeus maculatus;Aetomylaeus milvus;Aetomylaeus nichofii;Aetomylaeus vespertilio,4,1.00,0,LAUT_INDONESIA
+Aioliops,false,Aioliops megastigma;Aioliops novaeguineae,2,1.00,0,LAUT_INDONESIA
+Akheilos,false,Akheilos suwartanai,1,1.00,0,LAUT_INDONESIA
+Albula,false,,2,0.00,2,LAUT_INDONESIA
+Albulichthys,false,Albulichthys albuloides,1,1.00,0,LAUT_INDONESIA
+Aldrovandia,false,Aldrovandia mediorostris,1,1.00,0,LAUT_INDONESIA
+Alectis,false,,1,0.00,1,LAUT_INDONESIA
+Alepes,false,Alepes melanoptera,4,0.25,3,LAUT_INDONESIA
+Alepisaurus,false,,1,0.00,1,LAUT_INDONESIA
+Alepocephalus,false,Alepocephalus bicolor,1,1.00,0,LAUT_INDONESIA
+Alionematichthys,false,Alionematichthys plicatosurculus;Alionematichthys riukiuensis,3,0.67,1,LAUT_INDONESIA
+Allenbatrachus,false,Allenbatrachus grunniens;Allenbatrachus reticulatus,2,1.00,0,LAUT_INDONESIA
+Allocyttus,false,Allocyttus verrucosus,1,1.00,0,LAUT_INDONESIA
+Alopias,false,,1,0.00,1,LAUT_INDONESIA
+Alticus,false,Alticus saliens,1,1.00,0,LAUT_INDONESIA
+Aluterus,false,,2,0.00,2,LAUT_INDONESIA
+Amanses,false,,1,0.00,1,LAUT_INDONESIA
+Ambassis,false,Ambassis agrammus;Ambassis dussumieri;Ambassis gymnocephalus;Ambassis kopsii;Ambassis miops;Ambassis nalua,11,0.55,5,LAUT_INDONESIA
+Amblycirrhitus,false,Amblycirrhitus bimacula;Amblycirrhitus oxyrhynchos;Amblycirrhitus pinos,3,1.00,0,LAUT_INDONESIA
+Amblyeleotris,false,Amblyeleotris arcupinna;Amblyeleotris aurora;Amblyeleotris diagonalis;Amblyeleotris gymnocephala;Amblyeleotris latifasciata;Amblyeleotris masuii;Amblyeleotris melanocephala;Amblyeleotris ogasawarensis;Amblyeleotris periophthalma;Amblyeleotris randalli;Amblyeleotris rhyax;Amblyeleotris rubrimarginata;Amblyeleotris steinitzi,18,0.72,5,LAUT_INDONESIA
+Amblygaster,false,Amblygaster clupeoides;Amblygaster leiogaster,3,0.67,1,LAUT_INDONESIA
+Amblyglyphidodon,false,Amblyglyphidodon batunaorum;Amblyglyphidodon flavopurpureus;Amblyglyphidodon indicus;Amblyglyphidodon ternatensis,7,0.57,3,LAUT_INDONESIA
+Amblygobius,false,Amblygobius albimaculatus;Amblygobius buanensis;Amblygobius bynoensis;Amblygobius cheraphilus;Amblygobius decussatus;Amblygobius linki;Amblygobius semicinctus;Amblygobius sphynx;Amblygobius stethophthalmus,12,0.75,3,LAUT_INDONESIA
+Amblypomacentrus,false,Amblypomacentrus tricinctus,4,0.25,3,LAUT_INDONESIA
+Amioides,false,,1,0.00,1,LAUT_INDONESIA
+Amphiprion,false,Amphiprion ephippium;Amphiprion leucokranos;Amphiprion percula;Amphiprion polymnus;Amphiprion sebae,14,0.36,9,LAUT_INDONESIA
+Amsichthys,false,Amsichthys knighti,1,1.00,0,LAUT_INDONESIA
+Anabas,false,,1,0.00,1,LAUT_INDONESIA
+Anacanthus,false,,1,0.00,1,LAUT_INDONESIA
+Anampses,false,Anampses lineatus,7,0.14,6,LAUT_INDONESIA
+Anaora,false,Anaora tentaculata,1,1.00,0,LAUT_INDONESIA
+Anarchias,false,Anarchias allardicei,1,1.00,0,LAUT_INDONESIA
+Ancistrogobius,false,Ancistrogobius dipus;Ancistrogobius yanoi,3,0.67,1,LAUT_INDONESIA
+Andamia,false,Andamia cyclocheilus;Andamia heteroptera;Andamia reyi,4,0.75,1,LAUT_INDONESIA
+Anguilla,false,Anguilla bengalensis;Anguilla bicolor;Anguilla celebesensis;Anguilla nebulosa;Anguilla obscura,7,0.71,2,LAUT_INDONESIA
+Anodontostoma,false,Anodontostoma chacunda;Anodontostoma selangkat;Anodontostoma thailandiae,3,1.00,0,LAUT_INDONESIA
+Anomalops,false,Anomalops katoptron,1,1.00,0,LAUT_INDONESIA
+Anoplogaster,false,,1,0.00,1,LAUT_INDONESIA
+Anoxypristis,false,Anoxypristis cuspidata,1,1.00,0,LAUT_INDONESIA
+Antennarius,false,Antennarius biocellatus;Antennarius commerson;Antennarius hispidus;Antennarius maculatus;Antennarius pictus;Antennarius randalli;Antennarius striatus,7,1.00,0,LAUT_INDONESIA
+Antennatus,false,Antennatus linearis,2,0.50,1,LAUT_INDONESIA
+Antigonia,false,Antigonia malayana,4,0.25,3,LAUT_INDONESIA
+Antipodocottus,false,Antipodocottus mesembrinus,1,1.00,0,LAUT_INDONESIA
+Anyperodon,false,,1,0.00,1,LAUT_INDONESIA
+Aphareus,false,,2,0.00,2,LAUT_INDONESIA
+Apistus,false,,1,0.00,1,LAUT_INDONESIA
+Aplocheilus,false,Aplocheilus panchax,1,1.00,0,LAUT_INDONESIA
+Apocryptodon,false,Apocryptodon madurensis,1,1.00,0,LAUT_INDONESIA
+Apogon,false,Apogon ceramensis;Apogon coccineus;Apogon dianthus;Apogon hypselonotus;Apogon indicus;Apogon posterofasciatus;Apogon seminigracaudus;Apogon semiornatus;Apogon talboti,11,0.82,2,LAUT_INDONESIA
+Apogonichthyoides,false,Apogonichthyoides brevicaudatus;Apogonichthyoides cantoris;Apogonichthyoides chrysurus;Apogonichthyoides erdmanni;Apogonichthyoides melas;Apogonichthyoides nigripinnis;Apogonichthyoides pseudotaeniatus;Apogonichthyoides timorensis;Apogonichthyoides umbratilis,9,1.00,0,LAUT_INDONESIA
+Apogonichthys,false,,2,0.00,2,LAUT_INDONESIA
+Apolemichthys,false,Apolemichthys trimaculatus,2,0.50,1,LAUT_INDONESIA
+Aprion,false,,1,0.00,1,LAUT_INDONESIA
+Apristurus,false,Apristurus platyrhynchus;Apristurus sibogae;Apristurus spongiceps,3,1.00,0,LAUT_INDONESIA
+Apterichtus,false,Apterichtus nariculus,2,0.50,1,LAUT_INDONESIA
+Apterygocampus,false,Apterygocampus epinnulatus,1,1.00,0,LAUT_INDONESIA
+Archamia,false,Archamia bleekeri,1,1.00,0,LAUT_INDONESIA
+Argyripnus,false,Argyripnus pharos,1,1.00,0,LAUT_INDONESIA
+Argyrops,false,Argyrops bleekeri;Argyrops spinifer,2,1.00,0,LAUT_INDONESIA
+Argyrosomus,false,Argyrosomus amoyensis,1,1.00,0,LAUT_INDONESIA
+Ariomma,false,,2,0.00,2,LAUT_INDONESIA
+Ariosoma,false,Ariosoma anago;Ariosoma anagoides,4,0.50,2,LAUT_INDONESIA
+Arius,false,Arius arius;Arius leptonotacanthus;Arius macronotacanthus;Arius microcephalus;Arius subrostratus;Arius sumatranus;Arius utik;Arius venosus,9,0.89,1,LAUT_INDONESIA
+Arnoglossus,false,Arnoglossus aspilos;Arnoglossus dalgleishi;Arnoglossus elongatus;Arnoglossus macrolophus;Arnoglossus polyspilus;Arnoglossus tapeinosoma,7,0.86,1,LAUT_INDONESIA
+Arothron,false,Arothron caeruleopunctatus,9,0.11,8,LAUT_INDONESIA
+Aseraggodes,false,Aseraggodes albidus;Aseraggodes beauforti;Aseraggodes chapleaui;Aseraggodes cyaneus;Aseraggodes dubius;Aseraggodes filiger;Aseraggodes kaianus;Aseraggodes longipinnis;Aseraggodes matsuurai;Aseraggodes melanostictus;Aseraggodes microlepidotus;Aseraggodes suzumotoi;Aseraggodes texturatus;Aseraggodes zizette,14,1.00,0,LAUT_INDONESIA
+Aspasmichthys,false,Aspasmichthys alorensis,1,1.00,0,LAUT_INDONESIA
+Aspericorvina,false,Aspericorvina jubata,1,1.00,0,LAUT_INDONESIA
+Aspidontus,false,,2,0.00,2,LAUT_INDONESIA
+Aspistor,false,Aspistor hardenbergi,1,1.00,0,LAUT_INDONESIA
+Assurger,false,,1,0.00,1,LAUT_INDONESIA
+Asterorhombus,false,Asterorhombus cocosensis;Asterorhombus intermedius,2,1.00,0,LAUT_INDONESIA
+Asterropteryx,false,Asterropteryx atripes;Asterropteryx bipunctata;Asterropteryx ensifera;Asterropteryx ovata;Asterropteryx profunda;Asterropteryx senoui;Asterropteryx spinosa;Asterropteryx striata,9,0.89,1,LAUT_INDONESIA
+Astronesthes,false,Astronesthes chrysophekadion;Astronesthes cyaneus;Astronesthes ijimai;Astronesthes indica;Astronesthes martensii;Astronesthes splendidus,6,1.00,0,LAUT_INDONESIA
+Ataxolepis,false,Ataxolepis apus,1,1.00,0,LAUT_INDONESIA
+Atelomycterus,false,Atelomycterus baliensis;Atelomycterus erdmanni,3,0.67,1,LAUT_INDONESIA
+Atherinomorus,false,Atherinomorus endrachtensis;Atherinomorus lineatus,4,0.50,2,LAUT_INDONESIA
+Atherion,false,,1,0.00,1,LAUT_INDONESIA
+Atrobucca,false,Atrobucca kyushini;Atrobucca nibe,2,1.00,0,LAUT_INDONESIA
+Atrophacanthus,false,Atrophacanthus japonicus,1,1.00,0,LAUT_INDONESIA
+Atropus,false,Atropus aurochs,5,0.20,4,LAUT_INDONESIA
+Atrosalarias,false,Atrosalarias holomelas,2,0.50,1,LAUT_INDONESIA
+Atule,false,,1,0.00,1,LAUT_INDONESIA
+Aulopareia,false,Aulopareia unicolor,1,1.00,0,LAUT_INDONESIA
+Aulostomus,false,,1,0.00,1,LAUT_INDONESIA
+Aulotrachichthys,false,Aulotrachichthys latus,1,1.00,0,LAUT_INDONESIA
+Aurigequula,false,Aurigequula longispinis,2,0.50,1,LAUT_INDONESIA
+Austronibea,false,Austronibea oedogenys,1,1.00,0,LAUT_INDONESIA
+Auxis,false,,2,0.00,2,LAUT_INDONESIA
+Avocettina,false,,1,0.00,1,LAUT_INDONESIA
+Awaous,false,,1,0.00,1,LAUT_INDONESIA
+Azurina,false,Azurina elerae,2,0.50,1,LAUT_INDONESIA
+Bahaba,false,Bahaba polykladiskos,1,1.00,0,LAUT_INDONESIA
+Bajacalifornia,false,Bajacalifornia calcarata,1,1.00,0,LAUT_INDONESIA
+Balistapus,false,,1,0.00,1,LAUT_INDONESIA
+Balistoides,false,,2,0.00,2,LAUT_INDONESIA
+Banjos,false,Banjos banjos,1,1.00,0,LAUT_INDONESIA
+Barathrodemus,false,Barathrodemus nasutus,1,1.00,0,LAUT_INDONESIA
+Barbuligobius,false,,1,0.00,1,LAUT_INDONESIA
+Bascanichthys,false,Bascanichthys filaria;Bascanichthys longipinnis;Bascanichthys sibogae,3,1.00,0,LAUT_INDONESIA
+Bassozetus,false,Bassozetus elongatus,1,1.00,0,LAUT_INDONESIA
+Bathophilus,false,Bathophilus novicki,1,1.00,0,LAUT_INDONESIA
+Bathycallionymus,false,Bathycallionymus kaianus,1,1.00,0,LAUT_INDONESIA
+Bathycongrus,false,Bathycongrus guttulatus;Bathycongrus odontostomus,2,1.00,0,LAUT_INDONESIA
+Bathygadus,false,Bathygadus dubiosus;Bathygadus spongiceps,2,1.00,0,LAUT_INDONESIA
+Bathygobius,false,Bathygobius laddi;Bathygobius meggitti;Bathygobius mero,9,0.33,6,LAUT_INDONESIA
+Bathylagoides,false,Bathylagoides argyrogaster,1,1.00,0,LAUT_INDONESIA
+Bathymyrus,false,Bathymyrus smithi,1,1.00,0,LAUT_INDONESIA
+Bathypterois,false,Bathypterois parini,1,1.00,0,LAUT_INDONESIA
+Bathyraja,false,Bathyraja andriashevi;Bathyraja tzinovskii,2,1.00,0,LAUT_INDONESIA
+Bathysauropsis,false,Bathysauropsis malayanus,1,1.00,0,LAUT_INDONESIA
+Bathysphyraenops,false,Bathysphyraenops declivifrons,1,1.00,0,LAUT_INDONESIA
+Bathytroctes,false,Bathytroctes pappenheimi;Bathytroctes zugmayeri,2,1.00,0,LAUT_INDONESIA
+Bathyuroconger,false,Bathyuroconger fowleri;Bathyuroconger parvibranchialis,3,0.67,1,LAUT_INDONESIA
+Batrachocephalus,false,Batrachocephalus mino,1,1.00,0,LAUT_INDONESIA
+Batrachomoeus,false,Batrachomoeus trispinosus,1,1.00,0,LAUT_INDONESIA
+Beaglichthys,false,Beaglichthys bleekeri,1,1.00,0,LAUT_INDONESIA
+Belobranchus,false,,1,0.00,1,LAUT_INDONESIA
+Belonepterygion,false,,1,0.00,1,LAUT_INDONESIA
+Belonoperca,false,,1,0.00,1,LAUT_INDONESIA
+Bembradium,false,Bembradium roseum,1,1.00,0,LAUT_INDONESIA
+Bembras,false,Bembras megacephala,1,1.00,0,LAUT_INDONESIA
+Bembrops,false,Bembrops filiferus;Bembrops nelsoni,4,0.50,2,LAUT_INDONESIA
+Benthenchelys,false,Benthenchelys indicus,1,1.00,0,LAUT_INDONESIA
+Benthodesmus,false,Benthodesmus macrophthalmus;Benthodesmus neglectus;Benthodesmus tuckeri;Benthodesmus vityazi,5,0.80,1,LAUT_INDONESIA
+Benthosema,false,Benthosema fibulatum,3,0.33,2,LAUT_INDONESIA
+Bertella,false,Bertella idiomorpha,1,1.00,0,LAUT_INDONESIA
+Bhanotia,false,Bhanotia fasciolata;Bhanotia pauciradiata,2,1.00,0,LAUT_INDONESIA
+Biendongella,false,Biendongella hemilissa,1,1.00,0,LAUT_INDONESIA
+Bleekeria,false,Bleekeria mitsukurii;Bleekeria viridianguilla,2,1.00,0,LAUT_INDONESIA
+Blenniella,false,Blenniella bilitonensis;Blenniella caudolineata;Blenniella chrysospilos;Blenniella cyanostigma;Blenniella interrupta;Blenniella leopardus;Blenniella paula;Blenniella periophthalmus,8,1.00,0,LAUT_INDONESIA
+Bodianus,false,Bodianus anthioides;Bodianus bilunulatus;Bodianus bimaculatus;Bodianus dictynna;Bodianus izuensis;Bodianus leucosticticus;Bodianus masudai;Bodianus mesothorax;Bodianus rubrisos;Bodianus sepiacaudus,12,0.83,2,LAUT_INDONESIA
+Boehlkenchelys,false,Boehlkenchelys longidentata,1,1.00,0,LAUT_INDONESIA
+Boesemania,false,Boesemania microlepis,1,1.00,0,LAUT_INDONESIA
+Bolbometopon,false,Bolbometopon muricatum,1,1.00,0,LAUT_INDONESIA
+Boleophthalmus,false,Boleophthalmus boddarti,1,1.00,0,LAUT_INDONESIA
+Bolinichthys,false,Bolinichthys pyrsobolus,1,1.00,0,LAUT_INDONESIA
+Bostrychus,false,Bostrychus zonatus,2,0.50,1,LAUT_INDONESIA
+Bothus,false,Bothus mancus;Bothus ocellatus;Bothus pantherinus,4,0.75,1,LAUT_INDONESIA
+Brachaluteres,false,Brachaluteres taylori;Brachaluteres ulvarum,2,1.00,0,LAUT_INDONESIA
+Brachirus,false,Brachirus aspilos;Brachirus macrolepis;Brachirus orientalis;Brachirus panoides,4,1.00,0,LAUT_INDONESIA
+Brachyamblyopus,false,Brachyamblyopus brachysoma,1,1.00,0,LAUT_INDONESIA
+Brachypleura,false,Brachypleura novaezeelandiae,1,1.00,0,LAUT_INDONESIA
+Brachypterois,false,Brachypterois serrulata,1,1.00,0,LAUT_INDONESIA
+Brachysomophis,false,Brachysomophis cirrocheilos;Brachysomophis crocodilinus;Brachysomophis henshawi;Brachysomophis umbonis,4,1.00,0,LAUT_INDONESIA
+Brama,false,,1,0.00,1,LAUT_INDONESIA
+Branchiostegus,false,Branchiostegus australiensis;Branchiostegus gloerfelti,2,1.00,0,LAUT_INDONESIA
+Bregmaceros,false,Bregmaceros anchovia;Bregmaceros nectabanus,2,1.00,0,LAUT_INDONESIA
+Brevitrygon,false,Brevitrygon heterura;Brevitrygon imbricata;Brevitrygon javaensis,3,1.00,0,LAUT_INDONESIA
+Brosmophyciops,false,Brosmophyciops pautzkei,1,1.00,0,LAUT_INDONESIA
+Brotula,false,Brotula multibarbata,1,1.00,0,LAUT_INDONESIA
+Bryaninops,false,Bryaninops amplus;Bryaninops annella;Bryaninops isis;Bryaninops loki;Bryaninops natans;Bryaninops nexus;Bryaninops tigris;Bryaninops translucens;Bryaninops yongei,9,1.00,0,LAUT_INDONESIA
+Bufoceratias,false,Bufoceratias microcephalus;Bufoceratias thele,2,1.00,0,LAUT_INDONESIA
+Bulbonaricus,false,Bulbonaricus brauni;Bulbonaricus davaoensis,2,1.00,0,LAUT_INDONESIA
+Butis,false,Butis amboinensis;Butis gymnopomus;Butis humeralis,4,0.75,1,LAUT_INDONESIA
+Cabillus,false,Cabillus lacertops;Cabillus macrophthalmus;Cabillus tongarevae,3,1.00,0,LAUT_INDONESIA
+Caesio,false,Caesio caerulaurea;Caesio lunaris;Caesio teres;Caesio varilineata;Caesio xanthonota,6,0.83,1,LAUT_INDONESIA
+Callechelys,false,Callechelys catostoma;Callechelys marmorata,2,1.00,0,LAUT_INDONESIA
+Callionymus,false,Callionymus amboina;Callionymus annulatus;Callionymus bleekeri;Callionymus brevianalis;Callionymus delicatulus;Callionymus enneactis;Callionymus filamentosus;Callionymus hindsii;Callionymus japonicus;Callionymus keeleyi;Callionymus macdonaldi;Callionymus melanotopterus;Callionymus mortenseni;Callionymus neptunius;Callionymus obscurus;Callionymus pleurostictus;Callionymus schaapii;Callionymus semeiophor;Callionymus simplicicornis;Callionymus superbus;Callionymus whiteheadi;Callionymus zythros,24,0.92,2,LAUT_INDONESIA
+Callogobius,false,Callogobius centrolepis;Callogobius clitellus;Callogobius crassus;Callogobius maculipinnis;Callogobius okinawae;Callogobius sclateri;Callogobius snelliusi;Callogobius stellatus,9,0.89,1,LAUT_INDONESIA
+Calloplesiops,false,Calloplesiops altivelis;Calloplesiops argus,2,1.00,0,LAUT_INDONESIA
+Calotomus,false,Calotomus carolinus,2,0.50,1,LAUT_INDONESIA
+Calumia,false,Calumia eilperinae;Calumia godeffroyi;Calumia papuensis;Calumia profunda,4,1.00,0,LAUT_INDONESIA
+Cantherhines,false,Cantherhines dumerilii;Cantherhines fronticinctus,3,0.67,1,LAUT_INDONESIA
+Canthidermis,false,Canthidermis maculata,1,1.00,0,LAUT_INDONESIA
+Canthigaster,false,Canthigaster amboinensis;Canthigaster bennetti;Canthigaster cyanospilota;Canthigaster investigatoris;Canthigaster janthinoptera;Canthigaster leoparda;Canthigaster ocellicincta;Canthigaster papua;Canthigaster petersii;Canthigaster rivulata;Canthigaster solandri;Canthigaster tyleri;Canthigaster valentini,16,0.81,3,LAUT_INDONESIA
+Caracanthus,false,Caracanthus maculatus;Caracanthus unipinna,2,1.00,0,LAUT_INDONESIA
+Caragobius,false,,1,0.00,1,LAUT_INDONESIA
+Carangichthys,false,Carangichthys dinema;Carangichthys humerosus;Carangichthys oblongus,3,1.00,0,LAUT_INDONESIA
+Carangoides,false,Carangoides praeustus,1,1.00,0,LAUT_INDONESIA
+Caranx,false,Caranx bucculentus;Caranx lugubris;Caranx melampygus;Caranx tille,8,0.50,4,LAUT_INDONESIA
+Carapus,false,Carapus mourlani;Carapus sluiteri,2,1.00,0,LAUT_INDONESIA
+Carcharhinus,false,Carcharhinus albimarginatus;Carcharhinus amblyrhynchoides;Carcharhinus amblyrhynchos;Carcharhinus amboinensis;Carcharhinus borneensis;Carcharhinus brevipinna;Carcharhinus cautus;Carcharhinus falciformis;Carcharhinus hemiodon;Carcharhinus leucas;Carcharhinus longimanus;Carcharhinus macloti;Carcharhinus plumbeus;Carcharhinus sealei;Carcharhinus sorrah;Carcharhinus tjutjot,18,0.89,2,LAUT_INDONESIA
+Carcharias,false,Carcharias taurus,1,1.00,0,LAUT_INDONESIA
+Caulophryne,false,Caulophryne pelagica,1,1.00,0,LAUT_INDONESIA
+Centriscus,false,Centriscus cristatus;Centriscus scutatus,2,1.00,0,LAUT_INDONESIA
+Centrodraco,false,Centrodraco rubellus,1,1.00,0,LAUT_INDONESIA
+Centrogenys,false,Centrogenys vaigiensis,1,1.00,0,LAUT_INDONESIA
+Centrophorus,false,Centrophorus longipinnis;Centrophorus moluccensis;Centrophorus squamosus,3,1.00,0,LAUT_INDONESIA
+Centropyge,false,Centropyge abei;Centropyge argi;Centropyge aurantia;Centropyge bispinosa;Centropyge colini;Centropyge flavipectoralis;Centropyge flavissima;Centropyge multispinis;Centropyge vrolikii,15,0.60,6,LAUT_INDONESIA
+Centroscymnus,false,Centroscymnus owstonii,1,1.00,0,LAUT_INDONESIA
+Cephalocassis,false,Cephalocassis borneensis;Cephalocassis melanochir,2,1.00,0,LAUT_INDONESIA
+Cephalopholis,false,Cephalopholis aitha;Cephalopholis cyanostigma;Cephalopholis formosa;Cephalopholis leopardus;Cephalopholis microprion;Cephalopholis miniata;Cephalopholis polleni;Cephalopholis polyspila;Cephalopholis sexmaculata;Cephalopholis sonnerati;Cephalopholis spiloparaea;Cephalopholis urodeta,15,0.80,3,LAUT_INDONESIA
+Cephaloscyllium,false,Cephaloscyllium cooki;Cephaloscyllium pictum,2,1.00,0,LAUT_INDONESIA
+Cepola,false,Cepola schlegelii,1,1.00,0,LAUT_INDONESIA
+Ceratias,false,Ceratias uranoscopus,1,1.00,0,LAUT_INDONESIA
+Ceratobregma,false,Ceratobregma helenae,1,1.00,0,LAUT_INDONESIA
+Cercamia,false,Cercamia cladara;Cercamia eremia;Cercamia melanogaster,3,1.00,0,LAUT_INDONESIA
+Cestraeus,false,Cestraeus goldiei;Cestraeus oxyrhyncus;Cestraeus plicatilis,3,1.00,0,LAUT_INDONESIA
+Cetonurus,false,Cetonurus globiceps,1,1.00,0,LAUT_INDONESIA
+Cetoscarus,false,Cetoscarus ocellatus,1,1.00,0,LAUT_INDONESIA
+Chaenogaleus,false,Chaenogaleus macrostoma,1,1.00,0,LAUT_INDONESIA
+Chaetodermis,false,Chaetodermis penicilligerus,1,1.00,0,LAUT_INDONESIA
+Chaetodon,false,Chaetodon adiergastos;Chaetodon andamanensis;Chaetodon assarius;Chaetodon aureofasciatus;Chaetodon baronessa;Chaetodon bennetti;Chaetodon burgessi;Chaetodon citrinellus;Chaetodon collare;Chaetodon decussatus;Chaetodon ephippium;Chaetodon falcula;Chaetodon gardineri;Chaetodon guentheri;Chaetodon guttatissimus;Chaetodon interruptus;Chaetodon kleinii;Chaetodon lineolatus;Chaetodon lunula;Chaetodon lunulatus;Chaetodon madagaskariensis;Chaetodon melannotus;Chaetodon mertensii;Chaetodon meyeri;Chaetodon ocellicaudus;Chaetodon octofasciatus;Chaetodon ornatissimus;Chaetodon oxycephalus;Chaetodon pelewensis;Chaetodon plebeius;Chaetodon punctatofasciatus;Chaetodon reticulatus;Chaetodon selene;Chaetodon semeion;Chaetodon speculum;Chaetodon triangulum;Chaetodon trifascialis;Chaetodon trifasciatus;Chaetodon ulietensis;Chaetodon unimaculatus;Chaetodon vagabundus;Chaetodon wiebeli;Chaetodon xanthocephalus;Chaetodon xanthurus,46,0.96,2,LAUT_INDONESIA
+Chaetodontoplus,false,Chaetodontoplus chrysocephalus;Chaetodontoplus dimidiatus;Chaetodontoplus duboulayi;Chaetodontoplus melanosoma;Chaetodontoplus mesoleucus,6,0.83,1,LAUT_INDONESIA
+Champsodon,false,Champsodon atridorsalis;Champsodon guentheri;Champsodon longipinnis;Champsodon nudivittis;Champsodon sagittus;Champsodon vorax,6,1.00,0,LAUT_INDONESIA
+Channomuraena,false,Channomuraena vittata,1,1.00,0,LAUT_INDONESIA
+Chanos,false,Chanos chanos,1,1.00,0,LAUT_INDONESIA
+Chascanopsetta,false,Chascanopsetta lugubris,1,1.00,0,LAUT_INDONESIA
+Chauliodus,false,Chauliodus sloani,1,1.00,0,LAUT_INDONESIA
+Chaunax,false,Chaunax brachysomus;Chaunax gomoni;Chaunax nebulosus;Chaunax penicillatus,4,1.00,0,LAUT_INDONESIA
+Cheilinus,false,Cheilinus chlorourus;Cheilinus fasciatus;Cheilinus oxycephalus;Cheilinus trilobatus;Cheilinus undulatus,5,1.00,0,LAUT_INDONESIA
+Cheilio,false,Cheilio inermis,1,1.00,0,LAUT_INDONESIA
+Cheilodipterus,false,Cheilodipterus alleni;Cheilodipterus artus;Cheilodipterus intermedius;Cheilodipterus isostigma;Cheilodipterus nigrotaeniatus;Cheilodipterus parazonatus;Cheilodipterus quinquelineatus;Cheilodipterus singapurensis;Cheilodipterus zonatus,10,0.90,1,LAUT_INDONESIA
+Cheilopogon,false,Cheilopogon arcticeps;Cheilopogon atrisignis;Cheilopogon furcatus;Cheilopogon katoptron;Cheilopogon unicolor,7,0.71,2,LAUT_INDONESIA
+Cheiloprion,false,Cheiloprion labiatus,1,1.00,0,LAUT_INDONESIA
+Chelidoperca,false,Chelidoperca flavolineata;Chelidoperca hirundinacea;Chelidoperca maculicauda,3,1.00,0,LAUT_INDONESIA
+Chelmon,false,Chelmon muelleri;Chelmon rostratus,2,1.00,0,LAUT_INDONESIA
+Chelonodontops,false,,1,0.00,1,LAUT_INDONESIA
+Chiasmodon,false,Chiasmodon braueri,1,1.00,0,LAUT_INDONESIA
+Chilomycterus,false,Chilomycterus reticulatus,1,1.00,0,LAUT_INDONESIA
+Chiloscyllium,false,Chiloscyllium hasseltii;Chiloscyllium indicum;Chiloscyllium plagiosum;Chiloscyllium punctatum,4,1.00,0,LAUT_INDONESIA
+Chimaera,false,Chimaera ogilbyi,1,1.00,0,LAUT_INDONESIA
+Chirocentrus,false,Chirocentrus dorab;Chirocentrus nudus,2,1.00,0,LAUT_INDONESIA
+Chlorophthalmus,false,Chlorophthalmus agassizi;Chlorophthalmus albatrossis;Chlorophthalmus corniger;Chlorophthalmus nigromarginatus,4,1.00,0,LAUT_INDONESIA
+Chlorurus,false,Chlorurus bleekeri;Chlorurus bowersi;Chlorurus enneacanthus;Chlorurus japanensis;Chlorurus microrhinos;Chlorurus oedema;Chlorurus rhakoura;Chlorurus sordidus;Chlorurus spilurus;Chlorurus strongylocephalus;Chlorurus troschelii,12,0.92,1,LAUT_INDONESIA
+Choerodon,false,Choerodon anchorago;Choerodon cephalotes;Choerodon gomoni;Choerodon jordani;Choerodon monostigma;Choerodon oligacanthus;Choerodon robustus;Choerodon schoenleinii;Choerodon vitta;Choerodon zamboangae,11,0.91,1,LAUT_INDONESIA
+Choeroichthys,false,Choeroichthys brachysoma;Choeroichthys cinctus;Choeroichthys hadiatyae;Choeroichthys sculptus,4,1.00,0,LAUT_INDONESIA
+Choridactylus,false,,1,0.00,1,LAUT_INDONESIA
+Chrionema,false,Chrionema chlorotaenia,1,1.00,0,LAUT_INDONESIA
+Chromileptes,false,,1,0.00,1,LAUT_INDONESIA
+Chromis,false,Chromis albicauda;Chromis athena;Chromis atripectoralis;Chromis cinerascens;Chromis earina;Chromis monochroma;Chromis nigroanalis;Chromis opercularis;Chromis pura;Chromis scotochiloptera;Chromis unipa;Chromis viridis;Chromis weberi;Chromis xanthochira;Chromis xanthura;Chromis xouthos,19,0.84,3,LAUT_INDONESIA
+Chrysiptera,false,Chrysiptera arnazae;Chrysiptera biocellata;Chrysiptera bleekeri;Chrysiptera brownriggii;Chrysiptera caeruleolineata;Chrysiptera caesifrons;Chrysiptera cyanea;Chrysiptera ellenae;Chrysiptera giti;Chrysiptera glauca;Chrysiptera hemicyanea;Chrysiptera maurineae;Chrysiptera oxycephala;Chrysiptera parasema;Chrysiptera pricei;Chrysiptera rex;Chrysiptera rollandi;Chrysiptera springeri;Chrysiptera talboti;Chrysiptera unimaculata;Chrysiptera uswanasi,21,1.00,0,LAUT_INDONESIA
+Chrysochir,false,Chrysochir aurea,1,1.00,0,LAUT_INDONESIA
+Cirrhilabrus,false,Cirrhilabrus adornatus;Cirrhilabrus aquamarinus;Cirrhilabrus aurantidorsalis;Cirrhilabrus brunneus;Cirrhilabrus cenderawasih;Cirrhilabrus chaliasi;Cirrhilabrus condei;Cirrhilabrus cyanogularis;Cirrhilabrus exquisitus;Cirrhilabrus filamentosus;Cirrhilabrus flavidorsalis;Cirrhilabrus humanni;Cirrhilabrus joanallenae;Cirrhilabrus lubbocki;Cirrhilabrus marinda;Cirrhilabrus naokoae;Cirrhilabrus pylei;Cirrhilabrus rubrimarginatus;Cirrhilabrus rubripinnis;Cirrhilabrus ryukyuensis;Cirrhilabrus solorensis;Cirrhilabrus tonozukai,24,0.92,2,LAUT_INDONESIA
+Cirrhimuraena,false,Cirrhimuraena chinensis;Cirrhimuraena tapeinoptera,2,1.00,0,LAUT_INDONESIA
+Cirrhitichthys,false,Cirrhitichthys aureus;Cirrhitichthys guichenoti,5,0.40,3,LAUT_INDONESIA
+Cirrhitus,false,Cirrhitus pinnulatus,1,1.00,0,LAUT_INDONESIA
+Cirripectes,false,Cirripectes auritus;Cirripectes castaneus;Cirripectes filamentosus;Cirripectes gilberti;Cirripectes perustus;Cirripectes polyzona;Cirripectes quagga;Cirripectes springeri;Cirripectes stigmaticus,9,1.00,0,LAUT_INDONESIA
+Cociella,false,Cociella punctata,2,0.50,1,LAUT_INDONESIA
+Cocotropus,false,Cocotropus dermacanthus;Cocotropus larvatus,2,1.00,0,LAUT_INDONESIA
+Coelophrys,false,Coelophrys arca;Coelophrys brevicaudata;Coelophrys brevipes;Coelophrys micropus,4,1.00,0,LAUT_INDONESIA
+Coelorinchus,false,Coelorinchus argentatus;Coelorinchus argus;Coelorinchus commutabilis;Coelorinchus posteromaculatus;Coelorinchus spinifer,5,1.00,0,LAUT_INDONESIA
+Coilia,false,Coilia borneensis;Coilia coomansi;Coilia dussumieri;Coilia lindmani;Coilia macrognathos;Coilia neglecta;Coilia rebentischii,7,1.00,0,LAUT_INDONESIA
+Conger,false,Conger cinereus,1,1.00,0,LAUT_INDONESIA
+Congresox,false,Congresox talabon;Congresox talabonoides,2,1.00,0,LAUT_INDONESIA
+Congrogadus,false,Congrogadus malayanus;Congrogadus subducens,2,1.00,0,LAUT_INDONESIA
+Conidens,false,Conidens laticephalus,1,1.00,0,LAUT_INDONESIA
+Cookeolus,false,,1,0.00,1,LAUT_INDONESIA
+Coradion,false,Coradion altivelis;Coradion chrysozonus;Coradion melanopus,3,1.00,0,LAUT_INDONESIA
+Corica,false,Corica laciniata;Corica soborna,2,1.00,0,LAUT_INDONESIA
+Coris,false,Coris aygula;Coris caudimacula;Coris cuvieri;Coris gaimard;Coris julis,8,0.62,3,LAUT_INDONESIA
+Coryphaena,false,Coryphaena equiselis,2,0.50,1,LAUT_INDONESIA
+Coryphaenoides,false,Coryphaenoides asprellus;Coryphaenoides orthogrammus;Coryphaenoides sibogae;Coryphaenoides tydemani,4,1.00,0,LAUT_INDONESIA
+Corythoichthys,false,Corythoichthys amplexus;Corythoichthys benedetto;Corythoichthys flavofasciatus;Corythoichthys haematopterus;Corythoichthys intestinalis;Corythoichthys nigripectus;Corythoichthys ocellatus;Corythoichthys polynotatus;Corythoichthys schultzi,9,1.00,0,LAUT_INDONESIA
+Cosmocampus,false,Cosmocampus banneri;Cosmocampus darrosanus;Cosmocampus maxweberi,3,1.00,0,LAUT_INDONESIA
+Cottapistus,false,Cottapistus cottoides,1,1.00,0,LAUT_INDONESIA
+Craterognathus,false,Craterognathus plagiotaenia,1,1.00,0,LAUT_INDONESIA
+Cristatogobius,false,Cristatogobius lophius;Cristatogobius rubripectoralis,2,1.00,0,LAUT_INDONESIA
+Crossorhombus,false,Crossorhombus azureus,1,1.00,0,LAUT_INDONESIA
+Crossosalarias,false,Crossosalarias macrospilus,1,1.00,0,LAUT_INDONESIA
+Cryptarius,false,Cryptarius truncatus,1,1.00,0,LAUT_INDONESIA
+Cryptocentroides,false,,1,0.00,1,LAUT_INDONESIA
+Cryptocentrus,false,Cryptocentrus albidorsus;Cryptocentrus caeruleomaculatus;Cryptocentrus cebuanus;Cryptocentrus cinctus;Cryptocentrus cyanospilotus;Cryptocentrus cyanotaenia;Cryptocentrus diproctotaenia;Cryptocentrus fasciatus;Cryptocentrus inexplicatus;Cryptocentrus leptocephalus;Cryptocentrus leucostictus;Cryptocentrus maudae;Cryptocentrus multicinctus;Cryptocentrus nigrocellatus;Cryptocentrus niveatus;Cryptocentrus octofasciatus;Cryptocentrus pavoninoides;Cryptocentrus polyophthalmus;Cryptocentrus sericus;Cryptocentrus strigilliceps,20,1.00,0,LAUT_INDONESIA
+Cryptopsaras,false,Cryptopsaras couesii,1,1.00,0,LAUT_INDONESIA
+Ctenochaetus,false,Ctenochaetus cyanocheilus;Ctenochaetus tominiensis;Ctenochaetus truncatus,5,0.60,2,LAUT_INDONESIA
+Ctenogobiops,false,Ctenogobiops aurocingulus;Ctenogobiops crocineus;Ctenogobiops feroculus;Ctenogobiops mitodes;Ctenogobiops pomastictus;Ctenogobiops tangaroai,6,1.00,0,LAUT_INDONESIA
+Ctenotrypauchen,false,Ctenotrypauchen chinensis,1,1.00,0,LAUT_INDONESIA
+Cubiceps,false,Cubiceps kotlyari;Cubiceps whiteleggii,3,0.67,1,LAUT_INDONESIA
+Cyclichthys,false,Cyclichthys spilostylus,2,0.50,1,LAUT_INDONESIA
+Cymatognathus,false,Cymatognathus aureolateralis,1,1.00,0,LAUT_INDONESIA
+Cymbacephalus,false,Cymbacephalus beauforti;Cymbacephalus bosschei;Cymbacephalus nematophthalmus,3,1.00,0,LAUT_INDONESIA
+Cymolutes,false,Cymolutes praetextatus,2,0.50,1,LAUT_INDONESIA
+Cynoglossus,false,Cynoglossus abbreviatus;Cynoglossus arel;Cynoglossus bilineatus;Cynoglossus cynoglossus;Cynoglossus itinus;Cynoglossus kopsii;Cynoglossus lida;Cynoglossus lingua;Cynoglossus macrolepidotus;Cynoglossus oligolepis;Cynoglossus suyeni;Cynoglossus trulla,14,0.86,2,LAUT_INDONESIA
+Cypho,false,Cypho zaps,1,1.00,0,LAUT_INDONESIA
+Cyprinocirrhites,false,Cyprinocirrhites polyactis,1,1.00,0,LAUT_INDONESIA
+Cypselurus,false,Cypselurus hexazona;Cypselurus oligolepis;Cypselurus opisthopus;Cypselurus poecilopterus,4,1.00,0,LAUT_INDONESIA
+Cyttopsis,false,Cyttopsis cypho,1,1.00,0,LAUT_INDONESIA
+Dactylanthias,false,Dactylanthias aplodactylus,1,1.00,0,LAUT_INDONESIA
+Dactyloptena,false,Dactyloptena gilberti;Dactyloptena peterseni,4,0.50,2,LAUT_INDONESIA
+Dactylopus,false,Dactylopus kuiteri,2,0.50,1,LAUT_INDONESIA
+Dascyllus,false,Dascyllus aruanus;Dascyllus carneus;Dascyllus melanurus;Dascyllus reticulatus;Dascyllus trimaculatus,5,1.00,0,LAUT_INDONESIA
+Dasyscopelus,false,Dasyscopelus asper,1,1.00,0,LAUT_INDONESIA
+Datnioides,false,Datnioides campbelli,1,1.00,0,LAUT_INDONESIA
+Decapterus,false,Decapterus kurroides;Decapterus macarellus;Decapterus macrosoma;Decapterus russelli;Decapterus smithvanizi;Decapterus tabl,6,1.00,0,LAUT_INDONESIA
+Demissolinea,false,Demissolinea novaeguineensis,1,1.00,0,LAUT_INDONESIA
+Dendrochirus,false,Dendrochirus brachypterus;Dendrochirus zebra,3,0.67,1,LAUT_INDONESIA
+Dendrophysa,false,Dendrophysa russelii,1,1.00,0,LAUT_INDONESIA
+Dentatherina,false,Dentatherina merceri,1,1.00,0,LAUT_INDONESIA
+Dentex,false,Dentex spariformis,1,1.00,0,LAUT_INDONESIA
+Dermogenys,false,Dermogenys montana;Dermogenys orientalis;Dermogenys sumatrana;Dermogenys vogti,5,0.80,1,LAUT_INDONESIA
+Desmodema,false,Desmodema polystictum,1,1.00,0,LAUT_INDONESIA
+Deveximentum,false,Deveximentum hanedai;Deveximentum interruptum;Deveximentum megalolepis,6,0.50,3,LAUT_INDONESIA
+Dexillus,false,Dexillus muelleri,1,1.00,0,LAUT_INDONESIA
+Diademichthys,false,Diademichthys lineatus,1,1.00,0,LAUT_INDONESIA
+Diagramma,false,Diagramma melanacrum,2,0.50,1,LAUT_INDONESIA
+Diancistrus,false,Diancistrus alleni;Diancistrus altidorsalis;Diancistrus beateae;Diancistrus karinae;Diancistrus machidai;Diancistrus niger;Diancistrus novaeguineae;Diancistrus springeri;Diancistrus typhlops,9,1.00,0,LAUT_INDONESIA
+Diaphenchelys,false,Diaphenchelys pelonates,1,1.00,0,LAUT_INDONESIA
+Diaphus,false,Diaphus chrysorhynchus;Diaphus coeruleus;Diaphus diademophilus;Diaphus effulgens;Diaphus fragilis;Diaphus garmani;Diaphus impostor;Diaphus lucidus;Diaphus megalops;Diaphus signatus;Diaphus splendidus;Diaphus suborbitalis;Diaphus thiollierei;Diaphus watasei,14,1.00,0,LAUT_INDONESIA
+Dibrachichthys,false,Dibrachichthys melanurus,1,1.00,0,LAUT_INDONESIA
+Diceratias,false,Diceratias bispinosus,1,1.00,0,LAUT_INDONESIA
+Dichichthys,false,Dichichthys nigripalatum,1,1.00,0,LAUT_INDONESIA
+Dichotomyctere,false,Dichotomyctere erythrotaenia,1,1.00,0,LAUT_INDONESIA
+Dinematichthys,false,Dinematichthys iluocoeteoides,1,1.00,0,LAUT_INDONESIA
+Diodon,false,Diodon eydouxii;Diodon liturosus,4,0.50,2,LAUT_INDONESIA
+Diploconger,false,Diploconger polystigmatus,1,1.00,0,LAUT_INDONESIA
+Diplogrammus,false,Diplogrammus goramensis;Diplogrammus xenicus,2,1.00,0,LAUT_INDONESIA
+Diploprion,false,Diploprion bifasciatum,1,1.00,0,LAUT_INDONESIA
+Diplospinus,false,Diplospinus multistriatus,1,1.00,0,LAUT_INDONESIA
+Diproctacanthus,false,Diproctacanthus xanthurus,1,1.00,0,LAUT_INDONESIA
+Dipterygonotus,false,Dipterygonotus balteatus,1,1.00,0,LAUT_INDONESIA
+Diretmoides,false,Diretmoides veriginae,1,1.00,0,LAUT_INDONESIA
+Dischistodus,false,Dischistodus chrysopoecilus;Dischistodus fasciatus;Dischistodus melanotus;Dischistodus prosopotaenia;Dischistodus pseudochrysopoecilus,6,0.83,1,LAUT_INDONESIA
+Discordipinna,false,Discordipinna griessingeri,1,1.00,0,LAUT_INDONESIA
+Discotrema,false,Discotrema crinophilum;Discotrema monogrammum,2,1.00,0,LAUT_INDONESIA
+Doboatherina,false,Doboatherina duodecimalis,2,0.50,1,LAUT_INDONESIA
+Doederleinia,false,Doederleinia berycoides,1,1.00,0,LAUT_INDONESIA
+Dolopichthys,false,Dolopichthys pullatus,1,1.00,0,LAUT_INDONESIA
+Doryrhamphus,false,Doryrhamphus excisus;Doryrhamphus janssi;Doryrhamphus japonicus;Doryrhamphus negrosensis,4,1.00,0,LAUT_INDONESIA
+Dotsugobius,false,Dotsugobius bleekeri,1,1.00,0,LAUT_INDONESIA
+Drepane,false,Drepane longimana,2,0.50,1,LAUT_INDONESIA
+Drombus,false,Drombus kranjiensis;Drombus triangularis,2,1.00,0,LAUT_INDONESIA
+Dunckerocampus,false,Dunckerocampus baldwini;Dunckerocampus boylei;Dunckerocampus dactyliophorus;Dunckerocampus naia;Dunckerocampus pessuliferus,5,1.00,0,LAUT_INDONESIA
+Dussumieria,false,Dussumieria acuta;Dussumieria albulina;Dussumieria elopsoides;Dussumieria hasseltii,4,1.00,0,LAUT_INDONESIA
+Dysomma,false,Dysomma anguillare,1,1.00,0,LAUT_INDONESIA
+Ebinania,false,Ebinania gyrinoides,1,1.00,0,LAUT_INDONESIA
+Ebosia,false,Ebosia bleekeri,1,1.00,0,LAUT_INDONESIA
+Echeneis,false,Echeneis naucrates,1,1.00,0,LAUT_INDONESIA
+Echidna,false,Echidna amblyodon;Echidna delicatula;Echidna nebulosa;Echidna xanthospilos,6,0.67,2,LAUT_INDONESIA
+Echinogobius,false,Echinogobius hayashii,1,1.00,0,LAUT_INDONESIA
+Echiostoma,false,Echiostoma barbatum,1,1.00,0,LAUT_INDONESIA
+Ecsenius,false,Ecsenius axelrodi;Ecsenius bandanus;Ecsenius bathi;Ecsenius bicolor;Ecsenius bimaculatus;Ecsenius caeruliventris;Ecsenius lineatus;Ecsenius lividanalis;Ecsenius lubbocki;Ecsenius melarchus;Ecsenius midas;Ecsenius monoculus;Ecsenius namiyei;Ecsenius oculus;Ecsenius ops;Ecsenius paroculus;Ecsenius pictus;Ecsenius polystictus;Ecsenius randalli;Ecsenius schroederi;Ecsenius shirleyae;Ecsenius stigmatura;Ecsenius tricolor;Ecsenius trilineatus;Ecsenius yaeyamaensis,25,1.00,0,LAUT_INDONESIA
+Ectreposebastes,false,Ectreposebastes imus,1,1.00,0,LAUT_INDONESIA
+Elagatis,false,Elagatis bipinnulata,1,1.00,0,LAUT_INDONESIA
+Elates,false,Elates ransonnettii,1,1.00,0,LAUT_INDONESIA
+Eleotris,false,Eleotris macrocephala;Eleotris macrolepis,5,0.40,3,LAUT_INDONESIA
+Eleutherochir,false,,1,0.00,1,LAUT_INDONESIA
+Eleutheronema,false,Eleutheronema tetradactylum;Eleutheronema tridactylum,2,1.00,0,LAUT_INDONESIA
+Ellochelon,false,,1,0.00,1,LAUT_INDONESIA
+Elops,false,Elops machnata,2,0.50,1,LAUT_INDONESIA
+Ematops,false,Ematops randalli,1,1.00,0,LAUT_INDONESIA
+Encheliophis,false,Encheliophis boraborensis;Encheliophis gracilis;Encheliophis homei;Encheliophis vermicularis,4,1.00,0,LAUT_INDONESIA
+Enchelybrotula,false,Enchelybrotula paucidens,1,1.00,0,LAUT_INDONESIA
+Enchelycore,false,Enchelycore schismatorhynchus,2,0.50,1,LAUT_INDONESIA
+Enchelynassa,false,Enchelynassa canina,1,1.00,0,LAUT_INDONESIA
+Enchelyurus,false,Enchelyurus flavipes;Enchelyurus kraussii,2,1.00,0,LAUT_INDONESIA
+Encrasicholina,false,Encrasicholina devisi;Encrasicholina heteroloba;Encrasicholina integra;Encrasicholina oligobranchus;Encrasicholina punctifer;Encrasicholina sigma,6,1.00,0,LAUT_INDONESIA
+Engraulis,false,Engraulis japonicus,1,1.00,0,LAUT_INDONESIA
+Engyprosopon,false,Engyprosopon grandisquama;Engyprosopon maldivense;Engyprosopon mogkii;Engyprosopon xystrias,4,1.00,0,LAUT_INDONESIA
+Enneapterygius,false,Enneapterygius bahasa;Enneapterygius elegans;Enneapterygius fasciatus;Enneapterygius flavoccipitis;Enneapterygius hemimelas;Enneapterygius minutus;Enneapterygius mirabilis;Enneapterygius nanus;Enneapterygius philippinus;Enneapterygius rubicauda;Enneapterygius sericus;Enneapterygius similis;Enneapterygius unimaculatus;Enneapterygius viridicauda;Enneapterygius ziegleri,16,0.94,1,LAUT_INDONESIA
+Entomacrodus,false,Entomacrodus caudofasciatus;Entomacrodus epalzeocheilos;Entomacrodus thalassinus;Entomacrodus vermiculatus;Entomacrodus williamsi,6,0.83,1,LAUT_INDONESIA
+Ephippus,false,Ephippus orbis,1,1.00,0,LAUT_INDONESIA
+Epibulus,false,Epibulus brevis;Epibulus insidiator,2,1.00,0,LAUT_INDONESIA
+Epigonus,false,Epigonus macrops;Epigonus pectinifer,2,1.00,0,LAUT_INDONESIA
+Epinephelus,false,Epinephelus amblycephalus;Epinephelus bleekeri;Epinephelus bontoides;Epinephelus coeruleopunctatus;Epinephelus cyanopodus;Epinephelus erythrurus;Epinephelus faveatus;Epinephelus flavocaeruleus;Epinephelus fuscoguttatus;Epinephelus heniochus;Epinephelus hexagonatus;Epinephelus howlandi;Epinephelus insularis;Epinephelus kupangensis;Epinephelus longispinis;Epinephelus macrospilos;Epinephelus maculatus;Epinephelus miliaris;Epinephelus multinotatus;Epinephelus polyphekadion;Epinephelus polystigma;Epinephelus quoyanus;Epinephelus retouti;Epinephelus rivulatus;Epinephelus sexfasciatus;Epinephelus spilotoceps;Epinephelus stictus;Epinephelus tauvina;Epinephelus tukula;Epinephelus undulosus,42,0.71,12,LAUT_INDONESIA
+Equulites,false,Equulites berbis;Equulites elongatus;Equulites laterofenestra;Equulites leuciscus;Equulites oblongus;Equulites popei,6,1.00,0,LAUT_INDONESIA
+Eretmichthys,false,Eretmichthys pinnatus,1,1.00,0,LAUT_INDONESIA
+Erisphex,false,Erisphex aniarus;Erisphex philippinus,2,1.00,0,LAUT_INDONESIA
+Erosa,false,Erosa erosa,1,1.00,0,LAUT_INDONESIA
+Escualosa,false,,1,0.00,1,LAUT_INDONESIA
+Etelis,false,Etelis carbunculus;Etelis coruscans,3,0.67,1,LAUT_INDONESIA
+Etmopterus,false,Etmopterus evansi,1,1.00,0,LAUT_INDONESIA
+Eubleekeria,false,Eubleekeria jonesi;Eubleekeria kupanensis;Eubleekeria rapsoni;Eubleekeria splendens,4,1.00,0,LAUT_INDONESIA
+Eucrossorhinus,false,Eucrossorhinus dasypogon,1,1.00,0,LAUT_INDONESIA
+Eugnathogobius,false,Eugnathogobius variegatus,1,1.00,0,LAUT_INDONESIA
+Eupleurogrammus,false,Eupleurogrammus glossodon;Eupleurogrammus muticus,2,1.00,0,LAUT_INDONESIA
+Euristhmus,false,Euristhmus lepturus;Euristhmus microphthalmus,2,1.00,0,LAUT_INDONESIA
+Eurypegasus,false,Eurypegasus draconis,1,1.00,0,LAUT_INDONESIA
+Eusphyra,false,Eusphyra blochii,1,1.00,0,LAUT_INDONESIA
+Eustomias,false,Eustomias bertelseni;Eustomias bifilis;Eustomias crossotus;Eustomias flagellifer;Eustomias monoclonus;Eustomias paxtoni,6,1.00,0,LAUT_INDONESIA
+Eusurculus,false,Eusurculus andamanensis,1,1.00,0,LAUT_INDONESIA
+Euthynnus,false,,1,0.00,1,LAUT_INDONESIA
+Eviota,false,Eviota afelei;Eviota algida;Eviota ancora;Eviota angustifascia;Eviota asymbasia;Eviota atriventris;Eviota bifasciata;Eviota bipunctata;Eviota distigma;Eviota epistigmata;Eviota erdmanni;Eviota fallax;Eviota fasciola;Eviota flaviarma;Eviota fluctiphila;Eviota gunawanae;Eviota herrei;Eviota imitata;Eviota jewettae;Eviota korechika;Eviota lachdeberei;Eviota latifasciata;Eviota longirostris;Eviota maculosa;Eviota melasma;Eviota mikiae;Eviota nebulosa;Eviota nigrispina;Eviota nigriventris;Eviota oculineata;Eviota pamae;Eviota pictifacies;Eviota pinocchioi;Eviota piperata;Eviota prasina;Eviota prasites;Eviota pseudaprica;Eviota punyit;Eviota queenslandica;Eviota raja;Eviota rubriceps;Eviota rubrisparsa;Eviota samota;Eviota sebreei;Eviota shimadai;Eviota singula;Eviota sparsa;Eviota spilota;Eviota storthynx;Eviota teresae;Eviota tetha;Eviota winterbottomi;Eviota zonura,54,0.98,1,LAUT_INDONESIA
+Exallias,false,Exallias brevis,1,1.00,0,LAUT_INDONESIA
+Exyrias,false,Exyrias akihito;Exyrias belissimus;Exyrias ferrarisi,4,0.75,1,LAUT_INDONESIA
+Favonigobius,false,Favonigobius melanobranchus,2,0.50,1,LAUT_INDONESIA
+Feia,false,Feia nympha,1,1.00,0,LAUT_INDONESIA
+Fenestraja,false,Fenestraja sibogae,1,1.00,0,LAUT_INDONESIA
+Ferdauia,false,Ferdauia orthogrammus,2,0.50,1,LAUT_INDONESIA
+Festucalex,false,Festucalex erythraeus;Festucalex gibbsi;Festucalex kulbickii;Festucalex prolixus;Festucalex rufus,5,1.00,0,LAUT_INDONESIA
+Fibramia,false,Fibramia thermalis,3,0.33,2,LAUT_INDONESIA
+Filimanus,false,Filimanus heptadactyla;Filimanus hexanema;Filimanus perplexa;Filimanus sealei;Filimanus xanthonema,5,1.00,0,LAUT_INDONESIA
+Fistularia,false,,2,0.00,2,LAUT_INDONESIA
+Flabellicauda,false,Flabellicauda akiko;Flabellicauda alleni,2,1.00,0,LAUT_INDONESIA
+Flavocaranx,false,Flavocaranx bajad,1,1.00,0,LAUT_INDONESIA
+Foa,false,Foa fo;Foa hyalina,2,1.00,0,LAUT_INDONESIA
+Forcipiger,false,Forcipiger flavissimus;Forcipiger longirostris;Forcipiger wanai,3,1.00,0,LAUT_INDONESIA
+Fowleria,false,Fowleria amblyuroptera;Fowleria aurita;Fowleria flammea;Fowleria isostigma;Fowleria marmorata;Fowleria punctulata,8,0.75,2,LAUT_INDONESIA
+Fusigobius,false,Fusigobius aureus;Fusigobius duospilus;Fusigobius gracilis;Fusigobius humeralis;Fusigobius inframaculatus;Fusigobius longispinus;Fusigobius maximus;Fusigobius melacron;Fusigobius neophytus;Fusigobius pallidus;Fusigobius signipinnis,11,1.00,0,LAUT_INDONESIA
+Galeocerdo,false,,1,0.00,1,LAUT_INDONESIA
+Gargariscus,false,Gargariscus prionocephalus,1,1.00,0,LAUT_INDONESIA
+Gavialiceps,false,Gavialiceps javanicus,1,1.00,0,LAUT_INDONESIA
+Gazza,false,Gazza achlamys;Gazza dentex;Gazza rhombea,4,0.75,1,LAUT_INDONESIA
+Gempylus,false,,1,0.00,1,LAUT_INDONESIA
+Genicanthus,false,Genicanthus bellus;Genicanthus caudovittatus,4,0.50,2,LAUT_INDONESIA
+Gerres,false,Gerres limbatus;Gerres longirostris;Gerres macracanthus;Gerres oblongus;Gerres shima,8,0.62,3,LAUT_INDONESIA
+Gigantactis,false,Gigantactis perlatus,1,1.00,0,LAUT_INDONESIA
+Giganthias,false,Giganthias serratospinosus,1,1.00,0,LAUT_INDONESIA
+Gladiogobius,false,Gladiogobius brevispinis;Gladiogobius ensifer;Gladiogobius rex,3,1.00,0,LAUT_INDONESIA
+Glaucostegus,false,Glaucostegus thouin;Glaucostegus typus,2,1.00,0,LAUT_INDONESIA
+Glossogobius,false,,1,0.00,1,LAUT_INDONESIA
+Glyphis,false,,1,0.00,1,LAUT_INDONESIA
+Glyptoparus,false,Glyptoparus delicatulus,1,1.00,0,LAUT_INDONESIA
+Glyptophidium,false,Glyptophidium lucidum;Glyptophidium macropus,2,1.00,0,LAUT_INDONESIA
+Gnathanodon,false,Gnathanodon speciosus,1,1.00,0,LAUT_INDONESIA
+Gnathodentex,false,Gnathodentex aureolineatus,1,1.00,0,LAUT_INDONESIA
+Gnatholepis,false,Gnatholepis anjerensis;Gnatholepis ophthalmotaenia,3,0.67,1,LAUT_INDONESIA
+Gobiodon,false,Gobiodon acicularis;Gobiodon albofasciatus;Gobiodon aoyagii;Gobiodon ceramensis;Gobiodon citrinus;Gobiodon erythrospilus;Gobiodon heterospilos;Gobiodon histrio;Gobiodon okinawae;Gobiodon quinquestrigatus;Gobiodon spilophthalmus;Gobiodon unicolor,12,1.00,0,LAUT_INDONESIA
+Gobiopsis,false,Gobiopsis angustifrons;Gobiopsis bravoi;Gobiopsis liolepis;Gobiopsis malekulae;Gobiopsis springeri;Gobiopsis uranophilus,6,1.00,0,LAUT_INDONESIA
+Gobius,false,Gobius bontii,1,1.00,0,LAUT_INDONESIA
+Gomphosus,false,Gomphosus caeruleus;Gomphosus varius,2,1.00,0,LAUT_INDONESIA
+Gorgasia,false,Gorgasia barnesi;Gorgasia galzini;Gorgasia japonica;Gorgasia maculata;Gorgasia naeocepaea;Gorgasia preclara;Gorgasia taiwanensis,7,1.00,0,LAUT_INDONESIA
+Gracila,false,,1,0.00,1,LAUT_INDONESIA
+Grallenia,false,Grallenia baliensis;Grallenia lipi,2,1.00,0,LAUT_INDONESIA
+Grammatobothus,false,Grammatobothus polyophthalmus,1,1.00,0,LAUT_INDONESIA
+Grammatonotus,false,Grammatonotus roseus,1,1.00,0,LAUT_INDONESIA
+Grammatorcynus,false,Grammatorcynus bilineatus,1,1.00,0,LAUT_INDONESIA
+Grammistes,false,Grammistes sexlineatus,1,1.00,0,LAUT_INDONESIA
+Grammistops,false,Grammistops ocellatus,1,1.00,0,LAUT_INDONESIA
+Grammonus,false,Grammonus thielei,1,1.00,0,LAUT_INDONESIA
+Grammoplites,false,,1,0.00,1,LAUT_INDONESIA
+Gunnellichthys,false,Gunnellichthys curiosus;Gunnellichthys monostigma;Gunnellichthys pleurotaenia;Gunnellichthys viridescens,4,1.00,0,LAUT_INDONESIA
+Gymnapogon,false,Gymnapogon annona;Gymnapogon philippinus;Gymnapogon urospilotus,3,1.00,0,LAUT_INDONESIA
+Gymnocaesio,false,Gymnocaesio gymnoptera,1,1.00,0,LAUT_INDONESIA
+Gymnochanda,false,Gymnochanda filamentosa,1,1.00,0,LAUT_INDONESIA
+Gymnocranius,false,Gymnocranius elongatus;Gymnocranius frenatus;Gymnocranius grandoculis;Gymnocranius griseus;Gymnocranius indicus;Gymnocranius microdon;Gymnocranius satoi,7,1.00,0,LAUT_INDONESIA
+Gymnomuraena,false,Gymnomuraena zebra,1,1.00,0,LAUT_INDONESIA
+Gymnosarda,false,,1,0.00,1,LAUT_INDONESIA
+Gymnothorax,false,Gymnothorax albimarginatus;Gymnothorax angusticauda;Gymnothorax buroensis;Gymnothorax castlei;Gymnothorax chilospilus;Gymnothorax chlamydatus;Gymnothorax davidsmithi;Gymnothorax favagineus;Gymnothorax flavimarginatus;Gymnothorax formosus;Gymnothorax fuscomaculatus;Gymnothorax herrei;Gymnothorax isingteena;Gymnothorax javanicus;Gymnothorax longinaris;Gymnothorax margaritophorus;Gymnothorax melatremus;Gymnothorax meleagris;Gymnothorax microstictus;Gymnothorax moluccensis;Gymnothorax monochrous;Gymnothorax nudivomer;Gymnothorax paucivertebralis;Gymnothorax pictus;Gymnothorax pindae;Gymnothorax polyuranodon;Gymnothorax pseudoherrei;Gymnothorax pseudothyrsoideus;Gymnothorax punctatofasciatus;Gymnothorax randalli;Gymnothorax reticularis;Gymnothorax richardsonii;Gymnothorax robinsi;Gymnothorax rueppelliae;Gymnothorax tile;Gymnothorax undulatus;Gymnothorax zonipectis,40,0.93,3,LAUT_INDONESIA
+Gymnura,false,Gymnura australis;Gymnura poecilura;Gymnura zonura,3,1.00,0,LAUT_INDONESIA
+Halaelurus,false,Halaelurus maculosus,1,1.00,0,LAUT_INDONESIA
+Halicampus,false,Halicampus brocki;Halicampus dunckeri;Halicampus grayi;Halicampus mataafae;Halicampus nitidus;Halicampus spinirostris,7,0.86,1,LAUT_INDONESIA
+Halichoeres,false,Halichoeres argus;Halichoeres bicolor;Halichoeres binotopsis;Halichoeres biocellatus;Halichoeres chlorocephalus;Halichoeres chloropterus;Halichoeres claudia;Halichoeres cosmetus;Halichoeres erdmanni;Halichoeres hortulanus;Halichoeres kallochroma;Halichoeres kneri;Halichoeres leucoxanthus;Halichoeres margaritaceus;Halichoeres marginatus;Halichoeres melanurus;Halichoeres melasmapomus;Halichoeres miniatus;Halichoeres nigrescens;Halichoeres ornatissimus;Halichoeres pallidus;Halichoeres papilionaceus;Halichoeres pardaleocephalus;Halichoeres rubricephalus;Halichoeres scapularis;Halichoeres solorensis;Halichoeres timorensis;Halichoeres trimaculatus;Halichoeres trispilus;Halichoeres vrolikii;Halichoeres zeylonicus,39,0.79,8,LAUT_INDONESIA
+Halieutaea,false,Halieutaea coccinea;Halieutaea fumosa;Halieutaea indica;Halieutaea stellata,4,1.00,0,LAUT_INDONESIA
+Halieutopsis,false,Halieutopsis kawaii;Halieutopsis nasuta;Halieutopsis nudiventer;Halieutopsis oblonga;Halieutopsis simula;Halieutopsis stellifera,6,1.00,0,LAUT_INDONESIA
+Haliichthys,false,Haliichthys taeniophorus,1,1.00,0,LAUT_INDONESIA
+Halimochirurgus,false,Halimochirurgus alcocki;Halimochirurgus centriscoides,2,1.00,0,LAUT_INDONESIA
+Haliophis,false,Haliophis aethiopus,1,1.00,0,LAUT_INDONESIA
+Halophryne,false,Halophryne diemensis;Halophryne hutchinsi,2,1.00,0,LAUT_INDONESIA
+Harpadon,false,Harpadon microchir;Harpadon mortenseni,3,0.67,1,LAUT_INDONESIA
+Hazeus,false,Hazeus ammophilus;Hazeus otakii;Hazeus profusus,3,1.00,0,LAUT_INDONESIA
+Helcogramma,false,Helcogramma capidata;Helcogramma ellioti;Helcogramma fuscipectoris;Helcogramma gymnauchen;Helcogramma hudsoni;Helcogramma kranos;Helcogramma obtusirostris;Helcogramma randalli;Helcogramma rhinoceros;Helcogramma solorensis;Helcogramma springeri;Helcogramma striata;Helcogramma trigloides;Helcogramma vulcana,14,1.00,0,LAUT_INDONESIA
+Hemerorhinus,false,Hemerorhinus heyningi,1,1.00,0,LAUT_INDONESIA
+Hemiarius,false,Hemiarius stormii,1,1.00,0,LAUT_INDONESIA
+Hemibagrus,false,Hemibagrus hoevenii,1,1.00,0,LAUT_INDONESIA
+Hemigaleus,false,Hemigaleus microstoma,1,1.00,0,LAUT_INDONESIA
+Hemiglyphidodon,false,,1,0.00,1,LAUT_INDONESIA
+Hemigobius,false,Hemigobius mingi,1,1.00,0,LAUT_INDONESIA
+Hemigymnus,false,Hemigymnus melapterus,2,0.50,1,LAUT_INDONESIA
+Heminodus,false,Heminodus philippinus,1,1.00,0,LAUT_INDONESIA
+Hemiramphus,false,Hemiramphus archipelagicus;Hemiramphus convexus,4,0.50,2,LAUT_INDONESIA
+Hemirhamphodon,false,Hemirhamphodon chrysopunctatus;Hemirhamphodon kapuasensis;Hemirhamphodon pogonognathus,3,1.00,0,LAUT_INDONESIA
+Hemiscyllium,false,Hemiscyllium freycineti;Hemiscyllium galei;Hemiscyllium halmahera;Hemiscyllium henryi;Hemiscyllium ocellatum,5,1.00,0,LAUT_INDONESIA
+Hemitaurichthys,false,Hemitaurichthys polylepis;Hemitaurichthys zoster,2,1.00,0,LAUT_INDONESIA
+Hemitriakis,false,Hemitriakis indroyonoi,1,1.00,0,LAUT_INDONESIA
+Hemitrygon,false,Hemitrygon bennettii;Hemitrygon longicauda,2,1.00,0,LAUT_INDONESIA
+Heniochus,false,Heniochus acuminatus;Heniochus chrysostomus;Heniochus diphreutes;Heniochus monoceros;Heniochus pleurotaenia;Heniochus varius,7,0.86,1,LAUT_INDONESIA
+Heptranchias,false,Heptranchias perlo,1,1.00,0,LAUT_INDONESIA
+Herklotsichthys,false,Herklotsichthys dispilonotus;Herklotsichthys gotoi,3,0.67,1,LAUT_INDONESIA
+Heteroconger,false,Heteroconger enigmaticus;Heteroconger guttatus;Heteroconger hassi;Heteroconger lentiginosus;Heteroconger mercyae;Heteroconger perissodon;Heteroconger polyzona;Heteroconger taylori;Heteroconger tricia,9,1.00,0,LAUT_INDONESIA
+Heterodontus,false,Heterodontus zebra,1,1.00,0,LAUT_INDONESIA
+Heteromycteris,false,Heteromycteris hartzfeldii,1,1.00,0,LAUT_INDONESIA
+Heteropriacanthus,false,,1,0.00,1,LAUT_INDONESIA
+Hexanchus,false,Hexanchus griseus;Hexanchus nakamurai,2,1.00,0,LAUT_INDONESIA
+Hexanematichthys,false,Hexanematichthys sagor,1,1.00,0,LAUT_INDONESIA
+Hilsa,false,,1,0.00,1,LAUT_INDONESIA
+Himantolophus,false,Himantolophus brevirostris;Himantolophus danae;Himantolophus macroceratoides;Himantolophus rostratus;Himantolophus sagamius,5,1.00,0,LAUT_INDONESIA
+Himantura,false,Himantura alcockii;Himantura fava;Himantura leoparda;Himantura pareh;Himantura tutul;Himantura uarnak;Himantura undulata,7,1.00,0,LAUT_INDONESIA
+Hime,false,Hime caudizoma,1,1.00,0,LAUT_INDONESIA
+Hippichthys,false,,4,0.00,4,LAUT_INDONESIA
+Hippocampus,false,Hippocampus barbouri;Hippocampus bargibanti;Hippocampus comes;Hippocampus denise;Hippocampus histrix;Hippocampus kelloggi;Hippocampus kuda;Hippocampus pontohi;Hippocampus satomiae;Hippocampus spinosissimus;Hippocampus trimaculatus,11,1.00,0,LAUT_INDONESIA
+Hipposcarus,false,Hipposcarus harid;Hipposcarus longiceps,2,1.00,0,LAUT_INDONESIA
+Hipposcorpaena,false,Hipposcorpaena filamentosa,1,1.00,0,LAUT_INDONESIA
+Hirundichthys,false,Hirundichthys albimaculatus;Hirundichthys indicus;Hirundichthys oxycephalus,3,1.00,0,LAUT_INDONESIA
+Hispidoberyx,false,Hispidoberyx ambagiosus,1,1.00,0,LAUT_INDONESIA
+Histiophryne,false,Histiophryne cryptacanthus;Histiophryne pogonia;Histiophryne psychedelica,3,1.00,0,LAUT_INDONESIA
+Histiopterus,false,,1,0.00,1,LAUT_INDONESIA
+Histrio,false,Histrio histrio,1,1.00,0,LAUT_INDONESIA
+Holcomycteronus,false,Holcomycteronus aequatoris,1,1.00,0,LAUT_INDONESIA
+Hologymnosus,false,Hologymnosus rhodonotus,3,0.33,2,LAUT_INDONESIA
+Holtbyrnia,false,Holtbyrnia conocephala,1,1.00,0,LAUT_INDONESIA
+Homostolus,false,Homostolus acer,1,1.00,0,LAUT_INDONESIA
+Hoplichthys,false,Hoplichthys gilberti;Hoplichthys regani,2,1.00,0,LAUT_INDONESIA
+Hoplolatilus,false,Hoplolatilus chlupatyi;Hoplolatilus cuniculus;Hoplolatilus erdmanni;Hoplolatilus fourmanoiri;Hoplolatilus fronticinctus;Hoplolatilus marcosi;Hoplolatilus pohle;Hoplolatilus purpureus;Hoplolatilus randalli;Hoplolatilus starcki,10,1.00,0,LAUT_INDONESIA
+Hoplostethus,false,Hoplostethus melanopus;Hoplostethus platynotus;Hoplostethus rubellopterus;Hoplostethus shubnikovi,4,1.00,0,LAUT_INDONESIA
+Hymenocephalus,false,Hymenocephalus grimaldii;Hymenocephalus nascens,2,1.00,0,LAUT_INDONESIA
+Hypoatherina,false,Hypoatherina barnesi;Hypoatherina celebesensis;Hypoatherina lunata;Hypoatherina ovalaua;Hypoatherina valenciennei,6,0.83,1,LAUT_INDONESIA
+Hypopleuron,false,Hypopleuron caninum,1,1.00,0,LAUT_INDONESIA
+Hyporhamphus,false,Hyporhamphus affinis;Hyporhamphus balinensis;Hyporhamphus dussumieri;Hyporhamphus melanopterus;Hyporhamphus neglectissimus;Hyporhamphus neglectus,7,0.86,1,LAUT_INDONESIA
+Hypseleotris,false,Hypseleotris leuciscus,1,1.00,0,LAUT_INDONESIA
+Iago,false,Iago garricki,1,1.00,0,LAUT_INDONESIA
+Ichthyapus,false,,1,0.00,1,LAUT_INDONESIA
+Ichthyocampus,false,Ichthyocampus carce,1,1.00,0,LAUT_INDONESIA
+Ichthyscopus,false,Ichthyscopus malacopterus,1,1.00,0,LAUT_INDONESIA
+Ilisha,false,Ilisha elongata;Ilisha filigera;Ilisha kampeni;Ilisha macrogaster;Ilisha megaloptera;Ilisha melastoma;Ilisha pristigastroides;Ilisha sirishae,8,1.00,0,LAUT_INDONESIA
+Inegocia,false,,1,0.00,1,LAUT_INDONESIA
+Iniistius,false,Iniistius aneitensis;Iniistius bimaculatus;Iniistius celebicus;Iniistius dea;Iniistius pavo;Iniistius pentadactylus;Iniistius spilonotus;Iniistius twistii,9,0.89,1,LAUT_INDONESIA
+Inimicus,false,Inimicus didactylus,3,0.33,2,LAUT_INDONESIA
+Ipnops,false,Ipnops agassizii,1,1.00,0,LAUT_INDONESIA
+Iracundus,false,Iracundus signifer,1,1.00,0,LAUT_INDONESIA
+Istiblennius,false,Istiblennius dussumieri;Istiblennius edentulus;Istiblennius lineatus;Istiblennius muelleri,4,1.00,0,LAUT_INDONESIA
+Istigobius,false,Istigobius diadema;Istigobius goldmanni;Istigobius murdyi;Istigobius nigroocellatus;Istigobius rigilius;Istigobius spence,8,0.75,2,LAUT_INDONESIA
+Istiompax,false,Istiompax indica,1,1.00,0,LAUT_INDONESIA
+Istiophorus,false,Istiophorus platypterus,1,1.00,0,LAUT_INDONESIA
+Isurus,false,Isurus oxyrinchus,1,1.00,0,LAUT_INDONESIA
+Javichthys,false,Javichthys kailolae,1,1.00,0,LAUT_INDONESIA
+Jaydia,false,Jaydia argyrogaster;Jaydia ellioti;Jaydia melanopus;Jaydia photogaster;Jaydia poeciloptera;Jaydia smithi;Jaydia striata,7,1.00,0,LAUT_INDONESIA
+Johnius,false,Johnius amblycephalus;Johnius australis;Johnius belangerii;Johnius borneensis;Johnius coitor;Johnius heterolepis;Johnius hypostoma;Johnius latifrons;Johnius macropterus;Johnius macrorhynus;Johnius novaeguineae;Johnius pacificus;Johnius plagiostoma;Johnius trachycephalus;Johnius weberi,16,0.94,1,LAUT_INDONESIA
+Kajikia,false,Kajikia audax,1,1.00,0,LAUT_INDONESIA
+Kalyptatherina,false,Kalyptatherina helodes,1,1.00,0,LAUT_INDONESIA
+Kamoharaia,false,Kamoharaia megastoma,1,1.00,0,LAUT_INDONESIA
+Kanekonia,false,Kanekonia pelta,1,1.00,0,LAUT_INDONESIA
+Karalla,false,Karalla daura;Karalla dussumieri,2,1.00,0,LAUT_INDONESIA
+Karsten,false,Karsten totoyensis,1,1.00,0,LAUT_INDONESIA
+Katsuwonus,false,,1,0.00,1,LAUT_INDONESIA
+Kaupichthys,false,Kaupichthys atronasus;Kaupichthys brachychirus;Kaupichthys diodontus,3,1.00,0,LAUT_INDONESIA
+Ketengus,false,Ketengus typus,1,1.00,0,LAUT_INDONESIA
+Koumansetta,false,Koumansetta hectori;Koumansetta rainfordi,2,1.00,0,LAUT_INDONESIA
+Kuhlia,false,Kuhlia mugil;Kuhlia rupestris,2,1.00,0,LAUT_INDONESIA
+Kumococius,false,Kumococius rodericensis,1,1.00,0,LAUT_INDONESIA
+Kurtus,false,Kurtus gulliveri;Kurtus indicus,2,1.00,0,LAUT_INDONESIA
+Kyataphisa,false,Kyataphisa caelata,1,1.00,0,LAUT_INDONESIA
+Kyonemichthys,false,Kyonemichthys rumengani,1,1.00,0,LAUT_INDONESIA
+Kyphosus,false,Kyphosus bigibbus;Kyphosus cinerascens,3,0.67,1,LAUT_INDONESIA
+Labracinus,false,Labracinus cyclophthalmus,1,1.00,0,LAUT_INDONESIA
+Labrichthys,false,Labrichthys unilineatus,1,1.00,0,LAUT_INDONESIA
+Labroides,false,Labroides bicolor;Labroides dimidiatus;Labroides pectoralis,3,1.00,0,LAUT_INDONESIA
+Labropsis,false,Labropsis alleni;Labropsis xanthonota,3,0.67,1,LAUT_INDONESIA
+Lactarius,false,Lactarius lactarius,1,1.00,0,LAUT_INDONESIA
+Lactoria,false,Lactoria diaphana,3,0.33,2,LAUT_INDONESIA
+Lagocephalus,false,Lagocephalus gloveri;Lagocephalus lagocephalus;Lagocephalus lunaris;Lagocephalus sceleratus,6,0.67,2,LAUT_INDONESIA
+Lagusia,false,Lagusia micracanthus,1,1.00,0,LAUT_INDONESIA
+Laiphognathus,false,Laiphognathus multimaculatus,1,1.00,0,LAUT_INDONESIA
+Lamiopsis,false,Lamiopsis tephrodes,1,1.00,0,LAUT_INDONESIA
+Lamnostoma,false,Lamnostoma orientale,1,1.00,0,LAUT_INDONESIA
+Lampadena,false,Lampadena luminosa,1,1.00,0,LAUT_INDONESIA
+Lampanyctus,false,Lampanyctus lineatus;Lampanyctus niger,2,1.00,0,LAUT_INDONESIA
+Lampris,false,Lampris megalopsis,1,1.00,0,LAUT_INDONESIA
+Lamprogrammus,false,Lamprogrammus brunswigi,1,1.00,0,LAUT_INDONESIA
+Lates,false,,1,0.00,1,LAUT_INDONESIA
+Latimeria,false,Latimeria chalumnae;Latimeria menadoensis,2,1.00,0,LAUT_INDONESIA
+Leiognathus,false,Leiognathus equula,1,1.00,0,LAUT_INDONESIA
+Leiuranus,false,Leiuranus semicinctus;Leiuranus versicolor,2,1.00,0,LAUT_INDONESIA
+Lepadichthys,false,Lepadichthys minor,1,1.00,0,LAUT_INDONESIA
+Lepidamia,false,Lepidamia kalosoma,1,1.00,0,LAUT_INDONESIA
+Lepidoblepharon,false,Lepidoblepharon ophthalmolepis,1,1.00,0,LAUT_INDONESIA
+Lepidocybium,false,Lepidocybium flavobrunneum,1,1.00,0,LAUT_INDONESIA
+Lepidotrigla,false,Lepidotrigla japonica;Lepidotrigla longipinnis;Lepidotrigla macracaina;Lepidotrigla maculapinna;Lepidotrigla punctipectoralis;Lepidotrigla spiloptera;Lepidotrigla tanydactyla,7,1.00,0,LAUT_INDONESIA
+Lepidozygus,false,Lepidozygus tapeinosoma,1,1.00,0,LAUT_INDONESIA
+Leptojulis,false,Leptojulis chrysotaenia;Leptojulis cyanopleura;Leptojulis polylepis;Leptojulis urostigma,4,1.00,0,LAUT_INDONESIA
+Leptomelanosoma,false,Leptomelanosoma indicum,1,1.00,0,LAUT_INDONESIA
+Leptoscarus,false,,1,0.00,1,LAUT_INDONESIA
+Leptosynanceia,false,Leptosynanceia asteroblepa,1,1.00,0,LAUT_INDONESIA
+Lepturacanthus,false,Lepturacanthus roelandti;Lepturacanthus savala,2,1.00,0,LAUT_INDONESIA
+Lestidiops,false,Lestidiops mirabilis,1,1.00,0,LAUT_INDONESIA
+Lestidium,false,Lestidium atlanticum,1,1.00,0,LAUT_INDONESIA
+Lestrolepis,false,Lestrolepis intermedia,1,1.00,0,LAUT_INDONESIA
+Lethrinus,false,Lethrinus atkinsoni;Lethrinus conchyliatus;Lethrinus erythropterus;Lethrinus harak;Lethrinus laticaudis;Lethrinus microdon;Lethrinus obsoletus;Lethrinus ravus;Lethrinus rubrioperculatus;Lethrinus variegatus;Lethrinus xanthochilus,20,0.55,9,LAUT_INDONESIA
+Liachirus,false,Liachirus melanospilos,1,1.00,0,LAUT_INDONESIA
+Limnichthys,false,Limnichthys fasciatus;Limnichthys nitidus,2,1.00,0,LAUT_INDONESIA
+Linophryne,false,Linophryne bipennata;Linophryne trewavasae,2,1.00,0,LAUT_INDONESIA
+Liocranium,false,Liocranium pleurostigma,1,1.00,0,LAUT_INDONESIA
+Liopropoma,false,Liopropoma africanum;Liopropoma collettei;Liopropoma dorsoluteum;Liopropoma lemniscatum;Liopropoma multilineatum;Liopropoma randalli;Liopropoma susumi;Liopropoma swalesi;Liopropoma tonstrinum,10,0.90,1,LAUT_INDONESIA
+Lioscorpius,false,Lioscorpius longiceps,1,1.00,0,LAUT_INDONESIA
+Lipocheilus,false,,1,0.00,1,LAUT_INDONESIA
+Litobranchus,false,Litobranchus fowleri,1,1.00,0,LAUT_INDONESIA
+Lobotes,false,Lobotes surinamensis,1,1.00,0,LAUT_INDONESIA
+Lobulogobius,false,Lobulogobius morrigu,1,1.00,0,LAUT_INDONESIA
+Lophichthys,false,Lophichthys boschmai,1,1.00,0,LAUT_INDONESIA
+Lophiocharon,false,Lophiocharon hutchinsi;Lophiocharon lithinostomus;Lophiocharon trisignatus,3,1.00,0,LAUT_INDONESIA
+Lophiodes,false,Lophiodes gracilimanus;Lophiodes lugubris;Lophiodes mutilus,3,1.00,0,LAUT_INDONESIA
+Lophocampus,false,Lophocampus ocellatus,1,1.00,0,LAUT_INDONESIA
+Lophodiodon,false,Lophodiodon calori,1,1.00,0,LAUT_INDONESIA
+Lotilia,false,Lotilia klausewitzi,1,1.00,0,LAUT_INDONESIA
+Loxodon,false,Loxodon macrorhinus,1,1.00,0,LAUT_INDONESIA
+Lubbockichthys,false,Lubbockichthys multisquamatus;Lubbockichthys tanakai,2,1.00,0,LAUT_INDONESIA
+Lubricogobius,false,Lubricogobius dinah;Lubricogobius exiguus;Lubricogobius ornatus,3,1.00,0,LAUT_INDONESIA
+Lucigadus,false,Lucigadus microlepis,1,1.00,0,LAUT_INDONESIA
+Luposicya,false,Luposicya lupus,1,1.00,0,LAUT_INDONESIA
+Lutjanus,false,Lutjanus biguttatus;Lutjanus bitaeniatus;Lutjanus bohar;Lutjanus boutton;Lutjanus carponotatus;Lutjanus decussatus;Lutjanus dodecacanthoides;Lutjanus ehrenbergii;Lutjanus erythropterus;Lutjanus fulvus;Lutjanus fuscescens;Lutjanus johnii;Lutjanus kasmira;Lutjanus lemniscatus;Lutjanus lunulatus;Lutjanus malabaricus;Lutjanus maxweberi;Lutjanus mizenkoi;Lutjanus monostigma;Lutjanus papuensis;Lutjanus rivulatus;Lutjanus rufolineatus;Lutjanus sebae;Lutjanus semicinctus;Lutjanus timoriensis;Lutjanus vitta,34,0.76,8,LAUT_INDONESIA
+Luzonichthys,false,Luzonichthys taeniatus;Luzonichthys waitei,2,1.00,0,LAUT_INDONESIA
+Lycothrissa,false,Lycothrissa crocodilus,1,1.00,0,LAUT_INDONESIA
+Lythrichthys,false,Lythrichthys cypho;Lythrichthys eulabes;Lythrichthys longimanus,3,1.00,0,LAUT_INDONESIA
+Macolor,false,Macolor macularis,2,0.50,1,LAUT_INDONESIA
+Macrocephenchelys,false,Macrocephenchelys brachialis;Macrocephenchelys brevirostris,2,1.00,0,LAUT_INDONESIA
+Macrodontogobius,false,Macrodontogobius wilburi,1,1.00,0,LAUT_INDONESIA
+Macrognathus,false,Macrognathus aculeatus,1,1.00,0,LAUT_INDONESIA
+Macropharyngodon,false,Macropharyngodon meleagris;Macropharyngodon ornatus,3,0.67,1,LAUT_INDONESIA
+Macrorhamphosodes,false,Macrorhamphosodes platycheilus,1,1.00,0,LAUT_INDONESIA
+Maculabatis,false,Maculabatis astra;Maculabatis gerrardi;Maculabatis macrura;Maculabatis pastinacoides;Maculabatis toshi,5,1.00,0,LAUT_INDONESIA
+Magnisudis,false,Magnisudis indica,1,1.00,0,LAUT_INDONESIA
+Mahidolia,false,Mahidolia mystacina,1,1.00,0,LAUT_INDONESIA
+Makaira,false,Makaira mazara,1,1.00,0,LAUT_INDONESIA
+Malacanthus,false,Malacanthus brevirostris,2,0.50,1,LAUT_INDONESIA
+Malacocephalus,false,Malacocephalus laevis,1,1.00,0,LAUT_INDONESIA
+Malacosteus,false,Malacosteus niger,1,1.00,0,LAUT_INDONESIA
+Malakichthys,false,Malakichthys elegans,1,1.00,0,LAUT_INDONESIA
+Malthopsis,false,Malthopsis kobayashii,1,1.00,0,LAUT_INDONESIA
+Manducus,false,Manducus greyae,1,1.00,0,LAUT_INDONESIA
+Manonichthys,false,Manonichthys alleni;Manonichthys jamali;Manonichthys polynemus;Manonichthys splendens,4,1.00,0,LAUT_INDONESIA
+Marilyna,false,Marilyna meraukensis,1,1.00,0,LAUT_INDONESIA
+Mastigopterus,false,Mastigopterus imperator,1,1.00,0,LAUT_INDONESIA
+Mataeocephalus,false,Mataeocephalus adustus,1,1.00,0,LAUT_INDONESIA
+Maurolicus,false,Maurolicus javanicus;Maurolicus muelleri,2,1.00,0,LAUT_INDONESIA
+Megachasma,false,Megachasma pelagios,1,1.00,0,LAUT_INDONESIA
+Megalaspis,false,,1,0.00,1,LAUT_INDONESIA
+Megalops,false,Megalops cyprinoides,1,1.00,0,LAUT_INDONESIA
+Megatrygon,false,Megatrygon microps,1,1.00,0,LAUT_INDONESIA
+Meiacanthus,false,Meiacanthus abditus;Meiacanthus abruptus;Meiacanthus anema;Meiacanthus crinitus;Meiacanthus cyanopterus;Meiacanthus ditrema;Meiacanthus erdmanni;Meiacanthus geminatus;Meiacanthus grammistes;Meiacanthus limbatus;Meiacanthus smithi;Meiacanthus urostigma;Meiacanthus vicinus;Meiacanthus vittatus,15,0.93,1,LAUT_INDONESIA
+Melamphaes,false,Melamphaes danae;Melamphaes eulepis;Melamphaes longivelis,3,1.00,0,LAUT_INDONESIA
+Melanostigma,false,Melanostigma vitiazi,1,1.00,0,LAUT_INDONESIA
+Melanostomias,false,Melanostomias macrophotus;Melanostomias nigroaxialis;Melanostomias valdiviae,3,1.00,0,LAUT_INDONESIA
+Melapedalion,false,Melapedalion breve,1,1.00,0,LAUT_INDONESIA
+Melichthys,false,Melichthys indicus;Melichthys niger;Melichthys vidua,3,1.00,0,LAUT_INDONESIA
+Mene,false,Mene maculata,1,1.00,0,LAUT_INDONESIA
+Mesopristes,false,Mesopristes argenteus;Mesopristes iravi,3,0.67,1,LAUT_INDONESIA
+Microbrotula,false,Microbrotula bentleyi;Microbrotula geraldalleni,2,1.00,0,LAUT_INDONESIA
+Micrognathus,false,Micrognathus andersonii;Micrognathus micronotopterus;Micrognathus natans;Micrognathus pygmaeus,4,1.00,0,LAUT_INDONESIA
+Microlipophrys,false,Microlipophrys nigriceps,1,1.00,0,LAUT_INDONESIA
+Microphis,false,Microphis argulus;Microphis brachyurus;Microphis leiaspis;Microphis manadensis;Microphis mento,5,1.00,0,LAUT_INDONESIA
+Microphotolepis,false,Microphotolepis multipunctata;Microphotolepis schmidti,2,1.00,0,LAUT_INDONESIA
+Mimoblennius,false,Mimoblennius atrocinctus,1,1.00,0,LAUT_INDONESIA
+Minous,false,Minous coccineus;Minous groeneveldi;Minous pusillus;Minous roseus,6,0.67,2,LAUT_INDONESIA
+Minyichthys,false,Minyichthys brachyrhinus;Minyichthys myersi,2,1.00,0,LAUT_INDONESIA
+Mirolabrichthys,false,Mirolabrichthys evansi;Mirolabrichthys pascalus;Mirolabrichthys tuka,3,1.00,0,LAUT_INDONESIA
+Mobula,false,Mobula alfredi;Mobula birostris;Mobula eregoodoo;Mobula kuhlii;Mobula mobular,5,1.00,0,LAUT_INDONESIA
+Mola,false,Mola mola,1,1.00,0,LAUT_INDONESIA
+Monacanthus,false,,1,0.00,1,LAUT_INDONESIA
+Monocentris,false,Monocentris japonica,1,1.00,0,LAUT_INDONESIA
+Monochirus,false,Monochirus trichodactylus,1,1.00,0,LAUT_INDONESIA
+Monodactylus,false,Monodactylus argenteus,1,1.00,0,LAUT_INDONESIA
+Monomitopus,false,Monomitopus garmani;Monomitopus longiceps,2,1.00,0,LAUT_INDONESIA
+Monotaxis,false,Monotaxis grandoculis,2,0.50,1,LAUT_INDONESIA
+Moolgarda,false,Moolgarda buchanani;Moolgarda crenilabis;Moolgarda heterocheilos;Moolgarda pedaraki,5,0.80,1,LAUT_INDONESIA
+Moringua,false,Moringua abbreviata;Moringua bicolor;Moringua ferruginea;Moringua javanica;Moringua macrochir;Moringua microchir;Moringua raitaborua,7,1.00,0,LAUT_INDONESIA
+Mugil,false,Mugil cephalus,1,1.00,0,LAUT_INDONESIA
+Mugilogobius,false,Mugilogobius cavifrons;Mugilogobius notospilus;Mugilogobius platystoma;Mugilogobius rambaiae,4,1.00,0,LAUT_INDONESIA
+Mulloidichthys,false,Mulloidichthys flavolineatus;Mulloidichthys pfluegeri;Mulloidichthys vanicolensis,3,1.00,0,LAUT_INDONESIA
+Muraenesox,false,Muraenesox bagio;Muraenesox cinereus,2,1.00,0,LAUT_INDONESIA
+Muraenichthys,false,Muraenichthys gymnopterus;Muraenichthys schultzei;Muraenichthys sibogae,3,1.00,0,LAUT_INDONESIA
+Mustelus,false,Mustelus stevensi;Mustelus widodoi,2,1.00,0,LAUT_INDONESIA
+Myctophum,false,Myctophum brachygnathum;Myctophum lunatum,2,1.00,0,LAUT_INDONESIA
+Myersina,false,Myersina filifer;Myersina lachneri;Myersina macrostoma;Myersina nigrivirgata;Myersina papuanus,5,1.00,0,LAUT_INDONESIA
+Myliobatis,false,Myliobatis hamlyni,1,1.00,0,LAUT_INDONESIA
+Myrichthys,false,Myrichthys colubrinus;Myrichthys maculosus,2,1.00,0,LAUT_INDONESIA
+Myripristis,false,Myripristis adusta;Myripristis amaena;Myripristis aulacodes;Myripristis berndti;Myripristis chryseres;Myripristis hexagona;Myripristis kuntee;Myripristis murdjan;Myripristis pralinia;Myripristis trachyacron;Myripristis violacea;Myripristis vittata,13,0.92,1,LAUT_INDONESIA
+Mystus,false,Mystus gulio,1,1.00,0,LAUT_INDONESIA
+Nandus,false,Nandus nebulosus,1,1.00,0,LAUT_INDONESIA
+Nannocampus,false,Nannocampus weberi,1,1.00,0,LAUT_INDONESIA
+Nannosalarias,false,Nannosalarias nativitatis,1,1.00,0,LAUT_INDONESIA
+Narcine,false,Narcine baliensis;Narcine brunnea;Narcine lingula;Narcine maculata;Narcine prodorsalis;Narcine timlei,6,1.00,0,LAUT_INDONESIA
+Narcinops,false,Narcinops lasti,1,1.00,0,LAUT_INDONESIA
+Narke,false,Narke dipterygia,1,1.00,0,LAUT_INDONESIA
+Naso,false,Naso annulatus;Naso brachycentron;Naso elegans;Naso fageni;Naso lopezi;Naso mcdadei;Naso minor;Naso unicornis;Naso vlamingii,16,0.56,7,LAUT_INDONESIA
+Naucrates,false,Naucrates ductor,1,1.00,0,LAUT_INDONESIA
+Nealotus,false,Nealotus tripes,1,1.00,0,LAUT_INDONESIA
+Neamia,false,Neamia articycla;Neamia notula;Neamia octospina,3,1.00,0,LAUT_INDONESIA
+Nebrius,false,Nebrius ferrugineus,1,1.00,0,LAUT_INDONESIA
+Nectamia,false,Nectamia bandanensis;Nectamia fusca;Nectamia savayensis;Nectamia similis;Nectamia viria,5,1.00,0,LAUT_INDONESIA
+Neenchelys,false,Neenchelys buitendijki;Neenchelys nudiceps;Neenchelys similis,3,1.00,0,LAUT_INDONESIA
+Negaprion,false,Negaprion acutidens,1,1.00,0,LAUT_INDONESIA
+Nemanthias,false,Nemanthias bicolor;Nemanthias dispar,2,1.00,0,LAUT_INDONESIA
+Nematalosa,false,Nematalosa come;Nematalosa erebi,2,1.00,0,LAUT_INDONESIA
+Nemateleotris,false,Nemateleotris decora;Nemateleotris magnifica,2,1.00,0,LAUT_INDONESIA
+Nematops,false,Nematops grandisquama;Nematops macrochirus,2,1.00,0,LAUT_INDONESIA
+Nemichthys,false,Nemichthys scolopaceus,1,1.00,0,LAUT_INDONESIA
+Nemipterus,false,Nemipterus aurora;Nemipterus balinensis;Nemipterus balinensoides;Nemipterus bathybius;Nemipterus bipunctatus;Nemipterus celebicus;Nemipterus furcosus;Nemipterus gracilis;Nemipterus isacanthus;Nemipterus japonicus;Nemipterus marginatus;Nemipterus mesoprion;Nemipterus nematophorus;Nemipterus nematopus;Nemipterus nemurus;Nemipterus peronii;Nemipterus sugillatus;Nemipterus tambuloides;Nemipterus thosaporni;Nemipterus virgatus;Nemipterus zysron,22,0.95,1,LAUT_INDONESIA
+Neoaploactis,false,Neoaploactis tridorsalis,1,1.00,0,LAUT_INDONESIA
+Neoarius,false,Neoarius graeffei;Neoarius hainesi;Neoarius pectoralis,3,1.00,0,LAUT_INDONESIA
+Neobathyclupea,false,Neobathyclupea gracilis;Neobathyclupea malayana,2,1.00,0,LAUT_INDONESIA
+Neobythites,false,Neobythites javaensis;Neobythites lombokensis;Neobythites longipes;Neobythites macrops;Neobythites malayanus;Neobythites purus,6,1.00,0,LAUT_INDONESIA
+Neocentropogon,false,Neocentropogon aeglefinus,1,1.00,0,LAUT_INDONESIA
+Neocirrhites,false,Neocirrhites armatus,1,1.00,0,LAUT_INDONESIA
+Neoepinnula,false,Neoepinnula orientalis,1,1.00,0,LAUT_INDONESIA
+Neoglyphidodon,false,Neoglyphidodon bonang;Neoglyphidodon crossi;Neoglyphidodon melas;Neoglyphidodon nigroris;Neoglyphidodon oxyodon;Neoglyphidodon thoracotaeniatus,6,1.00,0,LAUT_INDONESIA
+Neolaeops,false,Neolaeops microphthalmus,1,1.00,0,LAUT_INDONESIA
+Neomerinthe,false,Neomerinthe amplisquamiceps;Neomerinthe erostris;Neomerinthe megalepis;Neomerinthe procurva,4,1.00,0,LAUT_INDONESIA
+Neoniphon,false,Neoniphon argenteus;Neoniphon aurolineatus;Neoniphon opercularis,4,0.75,1,LAUT_INDONESIA
+Neopomacentrus,false,Neopomacentrus anabatoides;Neopomacentrus azysron;Neopomacentrus bankieri;Neopomacentrus cyanomos;Neopomacentrus filamentosus;Neopomacentrus nemurus;Neopomacentrus sororius;Neopomacentrus taeniurus,9,0.89,1,LAUT_INDONESIA
+Neostethus,false,Neostethus bicornis;Neostethus borneensis;Neostethus djajaorum;Neostethus lankesteri,4,1.00,0,LAUT_INDONESIA
+Neotrygon,false,Neotrygon annotata;Neotrygon australiae;Neotrygon bobwardi;Neotrygon caeruleopunctata;Neotrygon leylandi;Neotrygon malaccensis;Neotrygon moluccensis;Neotrygon orientalis;Neotrygon westpapuensis,9,1.00,0,LAUT_INDONESIA
+Neovespicula,false,Neovespicula depressifrons,1,1.00,0,LAUT_INDONESIA
+Nesiarchus,false,Nesiarchus nasutus,1,1.00,0,LAUT_INDONESIA
+Nettenchelys,false,Nettenchelys gephyra,1,1.00,0,LAUT_INDONESIA
+Netuma,false,Netuma bilineata;Netuma thalassina,2,1.00,0,LAUT_INDONESIA
+Nezumia,false,Nezumia merretti,1,1.00,0,LAUT_INDONESIA
+Nibea,false,Nibea coibor;Nibea soldado;Nibea squamosa,3,1.00,0,LAUT_INDONESIA
+Nielsenichthys,false,Nielsenichthys pullus,1,1.00,0,LAUT_INDONESIA
+Nomorhamphus,false,Nomorhamphus ebrardtii;Nomorhamphus megarrhamphus,2,1.00,0,LAUT_INDONESIA
+Norfolkia,false,,1,0.00,1,LAUT_INDONESIA
+Notograptus,false,Notograptus guttatus,1,1.00,0,LAUT_INDONESIA
+Notoscopelus,false,Notoscopelus resplendens,1,1.00,0,LAUT_INDONESIA
+Novaculichthys,false,Novaculichthys taeniourus,1,1.00,0,LAUT_INDONESIA
+Novaculoides,false,,1,0.00,1,LAUT_INDONESIA
+Novaculops,false,Novaculops halsteadi,1,1.00,0,LAUT_INDONESIA
+Nuchequula,false,Nuchequula glenysae,3,0.33,2,LAUT_INDONESIA
+Nudiantennarius,false,Nudiantennarius subteres,1,1.00,0,LAUT_INDONESIA
+Odontanthias,false,Odontanthias chrysostictus;Odontanthias randalli;Odontanthias rhodopeplus,4,0.75,1,LAUT_INDONESIA
+Odonteleotris,false,Odonteleotris canina;Odonteleotris macrodon,2,1.00,0,LAUT_INDONESIA
+Odonus,false,,1,0.00,1,LAUT_INDONESIA
+Okamejei,false,Okamejei cairae,1,1.00,0,LAUT_INDONESIA
+Oligolepis,false,Oligolepis acutipennis,1,1.00,0,LAUT_INDONESIA
+Omobranchus,false,Omobranchus elongatus;Omobranchus ferox;Omobranchus germaini;Omobranchus hikkaduwensis;Omobranchus obliquus;Omobranchus punctatus;Omobranchus zebra,7,1.00,0,LAUT_INDONESIA
+Omox,false,Omox biporos;Omox lupus,2,1.00,0,LAUT_INDONESIA
+Oneirodes,false,Oneirodes alius;Oneirodes amaokai;Oneirodes carlsbergi;Oneirodes cristatus;Oneirodes micronema;Oneirodes mirus;Oneirodes plagionema;Oneirodes pterurus;Oneirodes quadrinema;Oneirodes sabex;Oneirodes schistonema;Oneirodes schmidti,12,1.00,0,LAUT_INDONESIA
+Onigocia,false,Onigocia macrolepis;Onigocia oligolepis;Onigocia pedimacula;Onigocia sibogae;Onigocia spinosa,5,1.00,0,LAUT_INDONESIA
+Onuxodon,false,Onuxodon fowleri;Onuxodon parvibrachium,2,1.00,0,LAUT_INDONESIA
+Ophichthus,false,Ophichthus altipennis;Ophichthus apicalis;Ophichthus bonaparti;Ophichthus celebicus;Ophichthus cephalozona;Ophichthus macrochir;Ophichthus polyophthalmus;Ophichthus rutidoderma;Ophichthus urolophus,9,1.00,0,LAUT_INDONESIA
+Ophidion,false,Ophidion muraenolepis,1,1.00,0,LAUT_INDONESIA
+Ophiocara,false,Ophiocara gigas;Ophiocara ophicephalus;Ophiocara porocephala,3,1.00,0,LAUT_INDONESIA
+Ophisternon,false,Ophisternon bengalense,1,1.00,0,LAUT_INDONESIA
+Opisthopterus,false,Opisthopterus tardoore;Opisthopterus valenciennesi,2,1.00,0,LAUT_INDONESIA
+Opistognathus,false,Opistognathus albomaculatus;Opistognathus castelnaui;Opistognathus decorus;Opistognathus dendriticus;Opistognathus papuensis;Opistognathus randalli;Opistognathus rosenbergii;Opistognathus rufilineatus;Opistognathus solorensis;Opistognathus variabilis,11,0.91,1,LAUT_INDONESIA
+Oplopomops,false,Oplopomops diacanthus,1,1.00,0,LAUT_INDONESIA
+Oplopomus,false,Oplopomus caninoides;Oplopomus oplopomus,2,1.00,0,LAUT_INDONESIA
+Orectolobus,false,Orectolobus leptolineatus,1,1.00,0,LAUT_INDONESIA
+Oreochromis,false,,2,0.00,2,LAUT_INDONESIA
+Oryzias,false,,1,0.00,1,LAUT_INDONESIA
+Osteochilus,false,Osteochilus kuekenthali;Osteochilus serokan,2,1.00,0,LAUT_INDONESIA
+Osteogeneiosus,false,Osteogeneiosus militaris,1,1.00,0,LAUT_INDONESIA
+Osteomugil,false,Osteomugil cunnesius;Osteomugil engeli;Osteomugil speigleri,3,1.00,0,LAUT_INDONESIA
+Ostichthys,false,Ostichthys acanthorhinus;Ostichthys alamai;Ostichthys japonicus;Ostichthys kaianus,4,1.00,0,LAUT_INDONESIA
+Ostorhinchus,false,Ostorhinchus angustatus;Ostorhinchus apogonoides;Ostorhinchus bryx;Ostorhinchus cavitensis;Ostorhinchus cheni;Ostorhinchus chrysotaenia;Ostorhinchus cladophilos;Ostorhinchus compressus;Ostorhinchus cookii;Ostorhinchus cyanosoma;Ostorhinchus cyanotaenia;Ostorhinchus dispar;Ostorhinchus endekataenia;Ostorhinchus franssedai;Ostorhinchus griffini;Ostorhinchus hartzfeldii;Ostorhinchus hoevenii;Ostorhinchus holotaenia;Ostorhinchus jenkinsi;Ostorhinchus komodoensis;Ostorhinchus leptofasciatus;Ostorhinchus lineomaculatus;Ostorhinchus margaritophorus;Ostorhinchus melanoproctus;Ostorhinchus microspilos;Ostorhinchus moluccensis;Ostorhinchus monospilus;Ostorhinchus multilineatus;Ostorhinchus nanus;Ostorhinchus neotes;Ostorhinchus nigrocincta;Ostorhinchus nigrofasciatus;Ostorhinchus notatus;Ostorhinchus novemfasciatus;Ostorhinchus ocellicaudus;Ostorhinchus oxygrammus;Ostorhinchus parvulus;Ostorhinchus pleuron;Ostorhinchus properuptus;Ostorhinchus rubrimacula;Ostorhinchus rueppellii;Ostorhinchus schlegeli;Ostorhinchus sealei;Ostorhinchus selas;Ostorhinchus semilineatus;Ostorhinchus septemstriatus;Ostorhinchus taeniophorus;Ostorhinchus urostigmus;Ostorhinchus wassinki,53,0.92,4,LAUT_INDONESIA
+Ostracion,false,Ostracion meleagris;Ostracion solorense,4,0.50,2,LAUT_INDONESIA
+Otolithes,false,Otolithes ruber,1,1.00,0,LAUT_INDONESIA
+Otolithoides,false,Otolithoides biauritus;Otolithoides pama,2,1.00,0,LAUT_INDONESIA
+Owstonia,false,Owstonia grammodon;Owstonia nudibucca;Owstonia sarmiento,4,0.75,1,LAUT_INDONESIA
+Oxuderces,false,Oxuderces dentatus,1,1.00,0,LAUT_INDONESIA
+Oxycheilinus,false,Oxycheilinus arenatus;Oxycheilinus celebicus;Oxycheilinus samurai;Oxycheilinus unifasciatus,7,0.57,3,LAUT_INDONESIA
+Oxycirrhites,false,Oxycirrhites typus,1,1.00,0,LAUT_INDONESIA
+Oxyeleotris,false,Oxyeleotris marmorata;Oxyeleotris mertoni,2,1.00,0,LAUT_INDONESIA
+Oxymetopon,false,Oxymetopon compressus;Oxymetopon cyanoctenosum;Oxymetopon typus,3,1.00,0,LAUT_INDONESIA
+Oxymonacanthus,false,Oxymonacanthus longirostris,1,1.00,0,LAUT_INDONESIA
+Oxyporhamphus,false,Oxyporhamphus micropterus,1,1.00,0,LAUT_INDONESIA
+Oxyurichthys,false,Oxyurichthys auchenolepis;Oxyurichthys cornutus;Oxyurichthys lonchotus;Oxyurichthys microlepis;Oxyurichthys notonema;Oxyurichthys ophthalmonema;Oxyurichthys tentacularis;Oxyurichthys uronema,10,0.80,2,LAUT_INDONESIA
+Pachyula,false,Pachyula conorhynchus,1,1.00,0,LAUT_INDONESIA
+Pagrus,false,Pagrus auratus,1,1.00,0,LAUT_INDONESIA
+Palutrus,false,Palutrus scapulopunctatus,1,1.00,0,LAUT_INDONESIA
+Pampus,false,Pampus argenteus;Pampus chinensis,2,1.00,0,LAUT_INDONESIA
+Pandaka,false,Pandaka pusilla;Pandaka pygmaea,2,1.00,0,LAUT_INDONESIA
+Panna,false,Panna microdon;Panna perarmata,2,1.00,0,LAUT_INDONESIA
+Pantolabus,false,Pantolabus radiatus,1,1.00,0,LAUT_INDONESIA
+Papuengraulis,false,Papuengraulis micropinna,1,1.00,0,LAUT_INDONESIA
+Parabathymyrus,false,Parabathymyrus macrophthalmus,1,1.00,0,LAUT_INDONESIA
+Parabothus,false,Parabothus kiensis,1,1.00,0,LAUT_INDONESIA
+Paracaesio,false,Paracaesio kusakarii;Paracaesio sordida;Paracaesio xanthurus,3,1.00,0,LAUT_INDONESIA
+Paracanthurus,false,Paracanthurus hepatus,1,1.00,0,LAUT_INDONESIA
+Paracentropogon,false,Paracentropogon longispinis;Paracentropogon zonatus,2,1.00,0,LAUT_INDONESIA
+Paracentropyge,false,Paracentropyge multifasciata,1,1.00,0,LAUT_INDONESIA
+Parachaetodon,false,Parachaetodon ocellatus,1,1.00,0,LAUT_INDONESIA
+Parachaeturichthys,false,Parachaeturichthys polynema,1,1.00,0,LAUT_INDONESIA
+Paracheilinus,false,Paracheilinus alfiani;Paracheilinus angulatus;Paracheilinus bellae;Paracheilinus carpenteri;Paracheilinus cyaneus;Paracheilinus flavianalis;Paracheilinus nursalim;Paracheilinus paineorum;Paracheilinus rennyae;Paracheilinus togeanensis;Paracheilinus walton;Paracheilinus xanthocirritus,13,0.92,1,LAUT_INDONESIA
+Paracirrhites,false,Paracirrhites arcatus;Paracirrhites forsteri,2,1.00,0,LAUT_INDONESIA
+Paradiancistrus,false,Paradiancistrus lombokensis,1,1.00,0,LAUT_INDONESIA
+Paradoxodacna,false,Paradoxodacna piratica,1,1.00,0,LAUT_INDONESIA
+Paragobiodon,false,Paragobiodon echinocephalus;Paragobiodon xanthosoma,2,1.00,0,LAUT_INDONESIA
+Paraheminodus,false,Paraheminodus murrayi,1,1.00,0,LAUT_INDONESIA
+Paralticus,false,Paralticus amboinensis,1,1.00,0,LAUT_INDONESIA
+Paraluteres,false,Paraluteres prionurus,1,1.00,0,LAUT_INDONESIA
+Parambassis,false,Parambassis apogonoides,1,1.00,0,LAUT_INDONESIA
+Paramonacanthus,false,Paramonacanthus choirocephalus;Paramonacanthus cryptodon;Paramonacanthus curtorhynchos;Paramonacanthus japonicus;Paramonacanthus nipponensis;Paramonacanthus pusillus;Paramonacanthus sulcatus;Paramonacanthus tricuspis,8,1.00,0,LAUT_INDONESIA
+Paramugil,false,Paramugil parmatus,1,1.00,0,LAUT_INDONESIA
+Parapercis,false,Parapercis alboguttata;Parapercis bimacula;Parapercis clathrata;Parapercis compressa;Parapercis cylindrica;Parapercis diagonalis;Parapercis diplospilus;Parapercis filamentosa;Parapercis flavolineata;Parapercis hexophtalma;Parapercis lineopunctata;Parapercis millepunctata;Parapercis multiplicata;Parapercis pacifica;Parapercis sagma;Parapercis schauinslandii;Parapercis sexfasciata;Parapercis snyderi;Parapercis striolata;Parapercis tetracantha;Parapercis xanthozona,21,1.00,0,LAUT_INDONESIA
+Paraplagusia,false,Paraplagusia blochii,2,0.50,1,LAUT_INDONESIA
+Paraploactis,false,Paraploactis kagoshimensis;Paraploactis obbesi,2,1.00,0,LAUT_INDONESIA
+Paraplotosus,false,Paraplotosus albilabris,1,1.00,0,LAUT_INDONESIA
+Parapocryptes,false,Parapocryptes serperaster,1,1.00,0,LAUT_INDONESIA
+Parapolynemus,false,Parapolynemus verekeri,1,1.00,0,LAUT_INDONESIA
+Parapriacanthus,false,Parapriacanthus ransonneti,1,1.00,0,LAUT_INDONESIA
+Parapterois,false,Parapterois heterura,1,1.00,0,LAUT_INDONESIA
+Parascolopsis,false,Parascolopsis akatamae;Parascolopsis eriomma;Parascolopsis inermis;Parascolopsis melanophrys;Parascolopsis qantasi;Parascolopsis tanyactis;Parascolopsis tosensis,7,1.00,0,LAUT_INDONESIA
+Parascombrops,false,Parascombrops glossodon;Parascombrops parvidens;Parascombrops philippinensis,3,1.00,0,LAUT_INDONESIA
+Parascorpaena,false,Parascorpaena bandanensis;Parascorpaena mcadamsi;Parascorpaena mossambica;Parascorpaena picta,5,0.80,1,LAUT_INDONESIA
+Parastromateus,false,Parastromateus niger,1,1.00,0,LAUT_INDONESIA
+Parateleopus,false,Parateleopus indicus;Parateleopus microstomus,2,1.00,0,LAUT_INDONESIA
+Paratrypauchen,false,Paratrypauchen microcephalus,1,1.00,0,LAUT_INDONESIA
+Paraulopus,false,Paraulopus brevirostris;Paraulopus oblongus,2,1.00,0,LAUT_INDONESIA
+Pardachirus,false,Pardachirus pavoninus;Pardachirus poropterus,2,1.00,0,LAUT_INDONESIA
+Parenchelyurus,false,Parenchelyurus hepburni,1,1.00,0,LAUT_INDONESIA
+Parexocoetus,false,Parexocoetus brachypterus,1,1.00,0,LAUT_INDONESIA
+Parioglossus,false,Parioglossus aporos;Parioglossus formosus;Parioglossus interruptus;Parioglossus nudus;Parioglossus palustris;Parioglossus philippinus;Parioglossus rainfordi;Parioglossus raoi,8,1.00,0,LAUT_INDONESIA
+Parmaturus,false,Parmaturus lanatus,1,1.00,0,LAUT_INDONESIA
+Parupeneus,false,Parupeneus barberinus;Parupeneus chrysopleuron;Parupeneus ciliatus;Parupeneus crassilabris;Parupeneus cyclostomus;Parupeneus heptacantha;Parupeneus inayatae;Parupeneus indicus;Parupeneus jansenii;Parupeneus macronemus;Parupeneus pleurostigma;Parupeneus rubescens;Parupeneus spilurus;Parupeneus trifasciatus,16,0.88,2,LAUT_INDONESIA
+Pastinachus,false,Pastinachus ater;Pastinachus gracilicaudus;Pastinachus solocirostris;Pastinachus stellurostris,4,1.00,0,LAUT_INDONESIA
+Pateobatis,false,Pateobatis bleekeri;Pateobatis fai;Pateobatis hortlei;Pateobatis jenkinsii;Pateobatis uarnacoides,5,1.00,0,LAUT_INDONESIA
+Pegasus,false,Pegasus laternarius;Pegasus volitans,2,1.00,0,LAUT_INDONESIA
+Pelates,false,,1,0.00,1,LAUT_INDONESIA
+Pellona,false,Pellona ditchela,1,1.00,0,LAUT_INDONESIA
+Pempheris,false,Pempheris malabarica;Pempheris molucca;Pempheris otaitensis;Pempheris oualensis;Pempheris schwenkii;Pempheris vanicolensis,7,0.86,1,LAUT_INDONESIA
+Penetopteryx,false,Penetopteryx taeniocephalus,1,1.00,0,LAUT_INDONESIA
+Pennahia,false,Pennahia aneus;Pennahia macrocephalus;Pennahia pawak,3,1.00,0,LAUT_INDONESIA
+Pentapodus,false,Pentapodus aureofasciatus;Pentapodus bifasciatus;Pentapodus caninus;Pentapodus emeryii;Pentapodus komodoensis;Pentapodus nagasakiensis;Pentapodus numberii;Pentapodus porosus;Pentapodus trivittatus,10,0.90,1,LAUT_INDONESIA
+Pentaprion,false,Pentaprion longimanus,1,1.00,0,LAUT_INDONESIA
+Pentherichthys,false,Pentherichthys atratus,1,1.00,0,LAUT_INDONESIA
+Periophthalmodon,false,Periophthalmodon freycineti;Periophthalmodon schlosseri,2,1.00,0,LAUT_INDONESIA
+Periophthalmus,false,Periophthalmus argentilineatus;Periophthalmus chrysospilos;Periophthalmus gracilis;Periophthalmus kalolo;Periophthalmus malaccensis;Periophthalmus minutus;Periophthalmus novaeguineaensis;Periophthalmus pusing;Periophthalmus spilotus;Periophthalmus variabilis;Periophthalmus weberi,11,1.00,0,LAUT_INDONESIA
+Peristedion,false,Peristedion amblygenys;Peristedion liorhynchus;Peristedion richardsi;Peristedion riversandersoni,4,1.00,0,LAUT_INDONESIA
+Pervagor,false,Pervagor janthinosoma;Pervagor nigrolineatus,3,0.67,1,LAUT_INDONESIA
+Petroscirtes,false,Petroscirtes breviceps;Petroscirtes marginatus;Petroscirtes mitratus;Petroscirtes thepassii;Petroscirtes variabilis;Petroscirtes xestus,6,1.00,0,LAUT_INDONESIA
+Phenablennius,false,Phenablennius heyligeri,1,1.00,0,LAUT_INDONESIA
+Phenacoscorpius,false,Phenacoscorpius megalops,1,1.00,0,LAUT_INDONESIA
+Pherallodus,false,Pherallodus indicus,1,1.00,0,LAUT_INDONESIA
+Pholidichthys,false,Pholidichthys leucotaenia,1,1.00,0,LAUT_INDONESIA
+Pholidochromis,false,Pholidochromis cerasina;Pholidochromis marginatus,2,1.00,0,LAUT_INDONESIA
+Photoblepharon,false,Photoblepharon palpebratum,1,1.00,0,LAUT_INDONESIA
+Photolateralis,false,,1,0.00,1,LAUT_INDONESIA
+Photonectes,false,Photonectes albipennis;Photonectes litvinovi,2,1.00,0,LAUT_INDONESIA
+Photopectoralis,false,Photopectoralis aureus;Photopectoralis bindus;Photopectoralis hataii,3,1.00,0,LAUT_INDONESIA
+Photostomias,false,Photostomias liemi,1,1.00,0,LAUT_INDONESIA
+Phoxocampus,false,Phoxocampus belcheri;Phoxocampus diacanthus;Phoxocampus tetrophthalmus,3,1.00,0,LAUT_INDONESIA
+Phyllichthys,false,Phyllichthys punctatus,1,1.00,0,LAUT_INDONESIA
+Phyllogobius,false,Phyllogobius platycephalops,1,1.00,0,LAUT_INDONESIA
+Phyllophichthus,false,Phyllophichthus xenodontus,1,1.00,0,LAUT_INDONESIA
+Physiculus,false,Physiculus longifilis;Physiculus nigrescens;Physiculus peregrinus;Physiculus roseus,4,1.00,0,LAUT_INDONESIA
+Pictichromis,false,Pictichromis aurifrons;Pictichromis caitlinae;Pictichromis diadema;Pictichromis dinar;Pictichromis ephippiata;Pictichromis paccagnellorum;Pictichromis porphyrea,7,1.00,0,LAUT_INDONESIA
+Pinjalo,false,Pinjalo lewisi;Pinjalo pinjalo,2,1.00,0,LAUT_INDONESIA
+Pisodonophis,false,Pisodonophis boro;Pisodonophis cancrivorus;Pisodonophis hoevenii;Pisodonophis hypselopterus,4,1.00,0,LAUT_INDONESIA
+Plagiotremus,false,Plagiotremus laudandus;Plagiotremus phenax;Plagiotremus rhinorhynchos;Plagiotremus spilistius;Plagiotremus tapeinosoma,5,1.00,0,LAUT_INDONESIA
+Planiliza,false,Planiliza alata;Planiliza macrolepis;Planiliza melinoptera;Planiliza planiceps;Planiliza subviridis,5,1.00,0,LAUT_INDONESIA
+Platax,false,Platax batavianus;Platax boersii;Platax orbicularis;Platax teira,5,0.80,1,LAUT_INDONESIA
+Platycaranx,false,Platycaranx chrysophrys;Platycaranx malabaricus;Platycaranx talamparoides,3,1.00,0,LAUT_INDONESIA
+Platycephalus,false,Platycephalus endrachtensis;Platycephalus indicus;Platycephalus westraliae,3,1.00,0,LAUT_INDONESIA
+Platygobiopsis,false,Platygobiopsis akihito;Platygobiopsis hadiatyae,2,1.00,0,LAUT_INDONESIA
+Plectorhinchus,false,Plectorhinchus albovittatus;Plectorhinchus chrysotaenia;Plectorhinchus chubbi;Plectorhinchus flavomaculatus;Plectorhinchus gibbosus;Plectorhinchus lessonii;Plectorhinchus lineatus;Plectorhinchus obscurus;Plectorhinchus pictus;Plectorhinchus picus;Plectorhinchus polytaenia;Plectorhinchus schotaf,14,0.86,2,LAUT_INDONESIA
+Plectranthias,false,Plectranthias anthioides;Plectranthias fourmanoiri;Plectranthias inermis;Plectranthias japonicus;Plectranthias kamii;Plectranthias longimanus;Plectranthias megalepis;Plectranthias sagamiensis;Plectranthias wheeleri;Plectranthias whiteheadi;Plectranthias winniensis,11,1.00,0,LAUT_INDONESIA
+Plectroglyphidodon,false,Plectroglyphidodon dickii;Plectroglyphidodon fasciolatus;Plectroglyphidodon johnstonianus;Plectroglyphidodon leucozonus;Plectroglyphidodon obreptus;Plectroglyphidodon phoenixensis,6,1.00,0,LAUT_INDONESIA
+Plectropomus,false,Plectropomus areolatus;Plectropomus laevis;Plectropomus leopardus;Plectropomus maculatus;Plectropomus pessuliferus,6,0.83,1,LAUT_INDONESIA
+Plectrypops,false,Plectrypops lima,1,1.00,0,LAUT_INDONESIA
+Plesiops,false,Plesiops auritus;Plesiops cephalotaenia;Plesiops coeruleolineatus;Plesiops corallicola;Plesiops facicavus;Plesiops gracilis;Plesiops oxycephalus;Plesiops thysanopterus;Plesiops verecundus,9,1.00,0,LAUT_INDONESIA
+Pleurosicya,false,Pleurosicya annandalei;Pleurosicya bilobata;Pleurosicya boldinghi;Pleurosicya carolinensis;Pleurosicya elongata;Pleurosicya labiata;Pleurosicya micheli;Pleurosicya muscarum;Pleurosicya plicata;Pleurosicya spongicola,12,0.83,2,LAUT_INDONESIA
+Plicofollis,false,Plicofollis argyropleuron;Plicofollis nella;Plicofollis polystaphylodon;Plicofollis tonggol,4,1.00,0,LAUT_INDONESIA
+Plicomugil,false,Plicomugil labiosus,1,1.00,0,LAUT_INDONESIA
+Plotosus,false,Plotosus canius;Plotosus lineatus,2,1.00,0,LAUT_INDONESIA
+Poecilia,false,Poecilia latipinna,1,1.00,0,LAUT_INDONESIA
+Poecilopsetta,false,Poecilopsetta colorata;Poecilopsetta praelonga,2,1.00,0,LAUT_INDONESIA
+Pogonoperca,false,Pogonoperca ocellata;Pogonoperca punctata,2,1.00,0,LAUT_INDONESIA
+Pollichthys,false,Pollichthys mauli,1,1.00,0,LAUT_INDONESIA
+Polydactylus,false,Polydactylus bifurcus;Polydactylus macrochir;Polydactylus microstoma;Polydactylus multiradiatus;Polydactylus nigripinnis;Polydactylus plebeius;Polydactylus sexfilis;Polydactylus sextarius,8,1.00,0,LAUT_INDONESIA
+Polyipnus,false,Polyipnus meteori;Polyipnus soelae;Polyipnus spinosus;Polyipnus triphanos;Polyipnus unispinus,5,1.00,0,LAUT_INDONESIA
+Polymetme,false,Polymetme corythaeola;Polymetme surugaensis,2,1.00,0,LAUT_INDONESIA
+Polynemus,false,Polynemus dubius;Polynemus melanochir;Polynemus multifilis,3,1.00,0,LAUT_INDONESIA
+Pomacanthus,false,Pomacanthus annularis;Pomacanthus navarchus;Pomacanthus semicirculatus;Pomacanthus sexstriatus;Pomacanthus xanthometopon,6,0.83,1,LAUT_INDONESIA
+Pomacentrus,false,Pomacentrus adelus;Pomacentrus albimaculus;Pomacentrus alexanderae;Pomacentrus amboinensis;Pomacentrus andamanensis;Pomacentrus armillatus;Pomacentrus auriventris;Pomacentrus azuremaculatus;Pomacentrus bankanensis;Pomacentrus bellipictus;Pomacentrus bintanensis;Pomacentrus burroughi;Pomacentrus chrysurus;Pomacentrus coelestis;Pomacentrus cuneatus;Pomacentrus emarginatus;Pomacentrus fakfakensis;Pomacentrus geminospilus;Pomacentrus grammorhynchus;Pomacentrus javanicus;Pomacentrus komodoensis;Pomacentrus lepidogenys;Pomacentrus littoralis;Pomacentrus melanochir;Pomacentrus micronesicus;Pomacentrus moluccensis;Pomacentrus nagasakiensis;Pomacentrus nigromanus;Pomacentrus nigromarginatus;Pomacentrus novaeguineae;Pomacentrus opisthostigma;Pomacentrus pavo;Pomacentrus reidi;Pomacentrus saksonoi;Pomacentrus similis;Pomacentrus simsiang;Pomacentrus smithi;Pomacentrus stigma;Pomacentrus taeniometopon;Pomacentrus tripunctatus;Pomacentrus umbratilus;Pomacentrus xanthosternus,45,0.93,3,LAUT_INDONESIA
+Pomadasys,false,Pomadasys argenteus;Pomadasys argyreus;Pomadasys furcatus;Pomadasys kaakan,5,0.80,1,LAUT_INDONESIA
+Pontinus,false,Pontinus macrocephalus;Pontinus rhodochrous,2,1.00,0,LAUT_INDONESIA
+Poromitra,false,Poromitra oscitans,1,1.00,0,LAUT_INDONESIA
+Praealticus,false,Praealticus bilineatus;Praealticus oortii;Praealticus semicrenatus;Praealticus triangulus,4,1.00,0,LAUT_INDONESIA
+Priacanthus,false,Priacanthus blochii;Priacanthus fitchi;Priacanthus hamrur;Priacanthus macracanthus;Priacanthus sagittarius;Priacanthus tayenus,6,1.00,0,LAUT_INDONESIA
+Priolepis,false,Priolepis aithiops;Priolepis compita;Priolepis fallacincta;Priolepis inhaca;Priolepis kappa;Priolepis nocturna;Priolepis nuchifasciata;Priolepis pallidicincta;Priolepis profunda;Priolepis semidoliata;Priolepis sticta;Priolepis vexilla,13,0.92,1,LAUT_INDONESIA
+Prionace,false,Prionace glauca,1,1.00,0,LAUT_INDONESIA
+Prionurus,false,Prionurus chrysurus,1,1.00,0,LAUT_INDONESIA
+Pristiapogon,false,Pristiapogon abrogramma;Pristiapogon exostigma;Pristiapogon fraenatus,4,0.75,1,LAUT_INDONESIA
+Pristicon,false,Pristicon rhodopterus;Pristicon rufus;Pristicon trimaculatus,3,1.00,0,LAUT_INDONESIA
+Pristigenys,false,Pristigenys meyeri;Pristigenys niphonia;Pristigenys refulgens,3,1.00,0,LAUT_INDONESIA
+Pristipomoides,false,Pristipomoides argyrogrammicus;Pristipomoides auricilla;Pristipomoides filamentosus;Pristipomoides flavipinnis;Pristipomoides multidens;Pristipomoides typus,8,0.75,2,LAUT_INDONESIA
+Pristis,false,Pristis microdon;Pristis pectinata;Pristis zijsron,3,1.00,0,LAUT_INDONESIA
+Pristotis,false,Pristotis obtusirostris,1,1.00,0,LAUT_INDONESIA
+Promethichthys,false,Promethichthys prometheus,1,1.00,0,LAUT_INDONESIA
+Promyllantor,false,Promyllantor purpureus,1,1.00,0,LAUT_INDONESIA
+Proscyllium,false,Proscyllium habereri,1,1.00,0,LAUT_INDONESIA
+Proteracanthus,false,Proteracanthus sarissophorus,1,1.00,0,LAUT_INDONESIA
+Protonibea,false,Protonibea diacanthus,1,1.00,0,LAUT_INDONESIA
+Psammodiscus,false,Psammodiscus ocellatus,1,1.00,0,LAUT_INDONESIA
+Psammogobius,false,Psammogobius biocellatus,1,1.00,0,LAUT_INDONESIA
+Psammoperca,false,Psammoperca waigiensis,1,1.00,0,LAUT_INDONESIA
+Psenes,false,Psenes arafurensis;Psenes cyanophrys;Psenes maculatus;Psenes pellucidus,4,1.00,0,LAUT_INDONESIA
+Psenopsis,false,Psenopsis humerosa;Psenopsis obscura,2,1.00,0,LAUT_INDONESIA
+Psettina,false,Psettina brevirictis;Psettina gigantea;Psettina iijimae;Psettina profunda,4,1.00,0,LAUT_INDONESIA
+Psettodes,false,Psettodes erumei,1,1.00,0,LAUT_INDONESIA
+Pseudalutarius,false,Pseudalutarius nasicornis,1,1.00,0,LAUT_INDONESIA
+Pseudamia,false,Pseudamia amblyuroptera;Pseudamia gelatinosa;Pseudamia hayashii;Pseudamia zonata,4,1.00,0,LAUT_INDONESIA
+Pseudamiops,false,Pseudamiops gracilicauda,1,1.00,0,LAUT_INDONESIA
+Pseudanthias,false,Pseudanthias bimaculatus;Pseudanthias charleneae;Pseudanthias cichlops;Pseudanthias cooperi;Pseudanthias engelhardi;Pseudanthias fasciatus;Pseudanthias huchtii;Pseudanthias hutomoi;Pseudanthias hypselosoma;Pseudanthias ignitus;Pseudanthias lunulatus;Pseudanthias luzonensis;Pseudanthias manadensis;Pseudanthias mica;Pseudanthias randalli;Pseudanthias rubrizonatus;Pseudanthias squamipinnis;Pseudanthias ventralis,19,0.95,1,LAUT_INDONESIA
+Pseudapocryptes,false,Pseudapocryptes borneensis;Pseudapocryptes elongatus,2,1.00,0,LAUT_INDONESIA
+Pseudechidna,false,Pseudechidna brummeri,1,1.00,0,LAUT_INDONESIA
+Pseudobalistes,false,Pseudobalistes fuscus,2,0.50,1,LAUT_INDONESIA
+Pseudocarcharias,false,Pseudocarcharias kamoharai,1,1.00,0,LAUT_INDONESIA
+Pseudocheilinops,false,Pseudocheilinops ataenia,1,1.00,0,LAUT_INDONESIA
+Pseudocheilinus,false,Pseudocheilinus hexataenia;Pseudocheilinus octotaenia,3,0.67,1,LAUT_INDONESIA
+Pseudochromis,false,Pseudochromis alticaudex;Pseudochromis ammeri;Pseudochromis andamanensis;Pseudochromis aurulentus;Pseudochromis bitaeniatus;Pseudochromis coccinicauda;Pseudochromis cometes;Pseudochromis elongatus;Pseudochromis erdmanni;Pseudochromis flavopunctatus;Pseudochromis fowleri;Pseudochromis fuscus;Pseudochromis jace;Pseudochromis litus;Pseudochromis marshallensis;Pseudochromis matahari;Pseudochromis mooii;Pseudochromis moorei;Pseudochromis oligochrysus;Pseudochromis perspicillatus;Pseudochromis pictus;Pseudochromis pylei;Pseudochromis quinquedentatus;Pseudochromis ransonneti;Pseudochromis rutilus;Pseudochromis steenei;Pseudochromis stellatus;Pseudochromis tapeinosoma;Pseudochromis tonozukai,30,0.97,1,LAUT_INDONESIA
+Pseudocoris,false,Pseudocoris aurantiofasciata;Pseudocoris bleekeri;Pseudocoris heteroptera;Pseudocoris petila,5,0.80,1,LAUT_INDONESIA
+Pseudodax,false,Pseudodax moluccanus,1,1.00,0,LAUT_INDONESIA
+Pseudogobiopsis,false,Pseudogobiopsis oligactis,1,1.00,0,LAUT_INDONESIA
+Pseudogobius,false,Pseudogobius avicennia;Pseudogobius hoesei;Pseudogobius melanosticta;Pseudogobius poicilosoma,4,1.00,0,LAUT_INDONESIA
+Pseudogramma,false,Pseudogramma astigma;Pseudogramma megamyctera,3,0.67,1,LAUT_INDONESIA
+Pseudojuloides,false,Pseudojuloides kaleidos;Pseudojuloides mesostigma;Pseudojuloides severnsi;Pseudojuloides splendens,4,1.00,0,LAUT_INDONESIA
+Pseudomonacanthus,false,Pseudomonacanthus macrurus;Pseudomonacanthus peroni,2,1.00,0,LAUT_INDONESIA
+Pseudomugil,false,Pseudomugil inconspicuus,1,1.00,0,LAUT_INDONESIA
+Pseudonezumia,false,Pseudonezumia parvipes,1,1.00,0,LAUT_INDONESIA
+Pseudoplesiops,false,Pseudoplesiops annae;Pseudoplesiops collare;Pseudoplesiops immaculatus;Pseudoplesiops rosae;Pseudoplesiops typus;Pseudoplesiops wassi,6,1.00,0,LAUT_INDONESIA
+Pseudorhombus,false,Pseudorhombus argus;Pseudorhombus cinnamoneus;Pseudorhombus diplospilus;Pseudorhombus dupliciocellatus;Pseudorhombus elevatus;Pseudorhombus javanicus;Pseudorhombus malayanus;Pseudorhombus megalops;Pseudorhombus neglectus;Pseudorhombus pentophthalmus;Pseudorhombus quinquocellatus;Pseudorhombus triocellatus,13,0.92,1,LAUT_INDONESIA
+Pseudosciades,false,Pseudosciades sona,1,1.00,0,LAUT_INDONESIA
+Pseudoscopelus,false,Pseudoscopelus altipinnis;Pseudoscopelus bothrorrhinos;Pseudoscopelus cordilluminatus;Pseudoscopelus obtusifrons;Pseudoscopelus sagamianus,5,1.00,0,LAUT_INDONESIA
+Pseudotriacanthus,false,Pseudotriacanthus strigilifer,1,1.00,0,LAUT_INDONESIA
+Pseudotrichonotus,false,Pseudotrichonotus caeruleoflavus,1,1.00,0,LAUT_INDONESIA
+Psilogobius,false,Psilogobius prolatus,1,1.00,0,LAUT_INDONESIA
+Pteragogus,false,Pteragogus enneacanthus;Pteragogus flagellifer;Pteragogus guttatus;Pteragogus turdus,4,1.00,0,LAUT_INDONESIA
+Pterapogon,false,Pterapogon kauderni,1,1.00,0,LAUT_INDONESIA
+Ptereleotris,false,Ptereleotris evides;Ptereleotris grammica;Ptereleotris hanae;Ptereleotris heteroptera;Ptereleotris microlepis;Ptereleotris monoptera;Ptereleotris rubristigma;Ptereleotris uroditaenia;Ptereleotris zebra,9,1.00,0,LAUT_INDONESIA
+Pterocaesio,false,Pterocaesio digramma;Pterocaesio flavifasciata;Pterocaesio lativittata;Pterocaesio marri;Pterocaesio monikae;Pterocaesio pisang;Pterocaesio randalli;Pterocaesio tessellata;Pterocaesio tile;Pterocaesio trilineata,11,0.91,1,LAUT_INDONESIA
+Pteroidichthys,false,Pteroidichthys amboinensis,1,1.00,0,LAUT_INDONESIA
+Pterois,false,Pterois andover;Pterois antennata;Pterois miles;Pterois mombasae;Pterois radiata;Pterois russelii;Pterois volitans,7,1.00,0,LAUT_INDONESIA
+Pteropsaron,false,Pteropsaron longipinnis;Pteropsaron springeri,2,1.00,0,LAUT_INDONESIA
+Pterotolithus,false,Pterotolithus lateoides;Pterotolithus maculatus,2,1.00,0,LAUT_INDONESIA
+Pterygotrigla,false,Pterygotrigla cajorarori;Pterygotrigla hemisticta;Pterygotrigla leptacanthus;Pterygotrigla ryukyuensis,4,1.00,0,LAUT_INDONESIA
+Pycnochromis,false,Pycnochromis caudalis;Pycnochromis delta;Pycnochromis fieldi;Pycnochromis flavipectoralis;Pycnochromis leucurus;Pycnochromis lineatus;Pycnochromis margaritifer;Pycnochromis nigrurus;Pycnochromis retrofasciatus,11,0.82,2,LAUT_INDONESIA
+Pygoplites,false,Pygoplites diacanthus,1,1.00,0,LAUT_INDONESIA
+Pyramodon,false,Pyramodon ventralis,1,1.00,0,LAUT_INDONESIA
+Pyronotanthias,false,Pyronotanthias bimarginatus;Pyronotanthias flavoguttatus;Pyronotanthias lori;Pyronotanthias parvirostris;Pyronotanthias smithvanizi,5,1.00,0,LAUT_INDONESIA
+Rabaulichthys,false,Rabaulichthys altipinnis,1,1.00,0,LAUT_INDONESIA
+Rachycentron,false,,1,0.00,1,LAUT_INDONESIA
+Raconda,false,Raconda russeliana,1,1.00,0,LAUT_INDONESIA
+Rajella,false,Rajella annandalei,1,1.00,0,LAUT_INDONESIA
+Rastrelliger,false,Rastrelliger brachysoma;Rastrelliger faughni,3,0.67,1,LAUT_INDONESIA
+Redigobius,false,Redigobius amblyrhynchus;Redigobius bikolanus;Redigobius chrysosoma;Redigobius isognathus;Redigobius tambujon,5,1.00,0,LAUT_INDONESIA
+Remora,false,Remora albescens;Remora remora,2,1.00,0,LAUT_INDONESIA
+Rexea,false,Rexea bengalensis;Rexea nakamurai,3,0.67,1,LAUT_INDONESIA
+Rhabdamia,false,Rhabdamia gracilis;Rhabdamia novaluna;Rhabdamia spilota,3,1.00,0,LAUT_INDONESIA
+Rhabdosargus,false,Rhabdosargus niger;Rhabdosargus sarba,2,1.00,0,LAUT_INDONESIA
+Rhina,false,Rhina ancylostomus,1,1.00,0,LAUT_INDONESIA
+Rhincodon,false,Rhincodon typus,1,1.00,0,LAUT_INDONESIA
+Rhinecanthus,false,Rhinecanthus aculeatus;Rhinecanthus rectangulus,3,0.67,1,LAUT_INDONESIA
+Rhinobatos,false,Rhinobatos jimbaranensis;Rhinobatos penggali;Rhinobatos schlegelii,3,1.00,0,LAUT_INDONESIA
+Rhinolepadichthys,false,Rhinolepadichthys geminus;Rhinolepadichthys lineatus,2,1.00,0,LAUT_INDONESIA
+Rhinomuraena,false,Rhinomuraena quaesita,1,1.00,0,LAUT_INDONESIA
+Rhinopias,false,Rhinopias aphanes;Rhinopias eschmeyeri;Rhinopias frondosa,3,1.00,0,LAUT_INDONESIA
+Rhinoptera,false,Rhinoptera javanica;Rhinoptera jayakari,2,1.00,0,LAUT_INDONESIA
+Rhizoprionodon,false,Rhizoprionodon acutus;Rhizoprionodon oligolinx,2,1.00,0,LAUT_INDONESIA
+Rhynchobatus,false,Rhynchobatus australiae;Rhynchobatus cooki;Rhynchobatus springeri,3,1.00,0,LAUT_INDONESIA
+Rhynchorhamphus,false,Rhynchorhamphus georgii,1,1.00,0,LAUT_INDONESIA
+Rhynchostracion,false,Rhynchostracion nasus,1,1.00,0,LAUT_INDONESIA
+Richardsonichthys,false,Richardsonichthys leucogaster,1,1.00,0,LAUT_INDONESIA
+Roa,false,Roa modesta,1,1.00,0,LAUT_INDONESIA
+Robia,false,Robia legula,1,1.00,0,LAUT_INDONESIA
+Rogadius,false,Rogadius asper;Rogadius pristiger;Rogadius serratus;Rogadius welanderi,5,0.80,1,LAUT_INDONESIA
+Rouleina,false,Rouleina livida;Rouleina nuda,2,1.00,0,LAUT_INDONESIA
+Rudarius,false,Rudarius excelsus;Rudarius minutus,2,1.00,0,LAUT_INDONESIA
+Ruvettus,false,Ruvettus pretiosus,1,1.00,0,LAUT_INDONESIA
+Sacura,false,Sacura speciosa,1,1.00,0,LAUT_INDONESIA
+Salarias,false,Salarias ceramensis;Salarias fasciatus;Salarias guttatus;Salarias obscurus;Salarias patzneri;Salarias ramosus;Salarias segmentatus;Salarias sexfilum;Salarias sibogai;Salarias sinuosus,10,1.00,0,LAUT_INDONESIA
+Samaris,false,Samaris cristatus,1,1.00,0,LAUT_INDONESIA
+Samariscus,false,Samariscus huysmani;Samariscus maculatus;Samariscus sunieri;Samariscus triocellatus,4,1.00,0,LAUT_INDONESIA
+Sarda,false,,1,0.00,1,LAUT_INDONESIA
+Sardinella,false,Sardinella albella;Sardinella atricauda;Sardinella brachysoma;Sardinella fimbriata;Sardinella gibbosa;Sardinella lemuru;Sardinella melanura,7,1.00,0,LAUT_INDONESIA
+Sargocentron,false,Sargocentron caudimaculatum;Sargocentron cornutum;Sargocentron diadema;Sargocentron iota;Sargocentron ittodai;Sargocentron melanospilos;Sargocentron microstoma;Sargocentron praslin;Sargocentron punctatissimum;Sargocentron shimizui;Sargocentron spiniferum;Sargocentron tiere;Sargocentron tiereoides,15,0.87,2,LAUT_INDONESIA
+Satyrichthys,false,Satyrichthys clavilapis;Satyrichthys milleri;Satyrichthys moluccensis;Satyrichthys rieffeli,5,0.80,1,LAUT_INDONESIA
+Saurida,false,Saurida argentea;Saurida elongata;Saurida longimanus;Saurida micropectoralis;Saurida nebulosa;Saurida tumbil;Saurida undosquamis;Saurida wanieso,9,0.89,1,LAUT_INDONESIA
+Scalicus,false,Scalicus paucibarbatus,2,0.50,1,LAUT_INDONESIA
+Scartelaos,false,Scartelaos histophorus,1,1.00,0,LAUT_INDONESIA
+Scarus,false,Scarus chameleon;Scarus dimidiatus;Scarus festivus;Scarus flavipectoralis;Scarus forsteni;Scarus frenatus;Scarus fuscocaudalis;Scarus globiceps;Scarus hypselopterus;Scarus maculipinna;Scarus niger;Scarus oviceps;Scarus psittacus;Scarus quoyi;Scarus rubroviolaceus;Scarus russelii;Scarus scaber;Scarus spinus;Scarus tricolor;Scarus viridifucatus;Scarus xanthopleura,25,0.84,4,LAUT_INDONESIA
+Scatophagus,false,,1,0.00,1,LAUT_INDONESIA
+Schindleria,false,Schindleria macrodentata,1,1.00,0,LAUT_INDONESIA
+Scolecenchelys,false,Scolecenchelys acutirostris;Scolecenchelys gymnota;Scolecenchelys laticaudata;Scolecenchelys macroptera,4,1.00,0,LAUT_INDONESIA
+Scoliodon,false,Scoliodon laticaudus;Scoliodon macrorhynchos,2,1.00,0,LAUT_INDONESIA
+Scolopsis,false,Scolopsis affinis;Scolopsis aurata;Scolopsis japonica;Scolopsis lineata;Scolopsis margaritifera;Scolopsis monogramma;Scolopsis taenioptera;Scolopsis temporalis;Scolopsis trilineata;Scolopsis xenochrous,13,0.77,3,LAUT_INDONESIA
+Scomber,false,Scomber australasicus,1,1.00,0,LAUT_INDONESIA
+Scomberoides,false,Scomberoides commersonnianus;Scomberoides lysan;Scomberoides tala;Scomberoides tol,4,1.00,0,LAUT_INDONESIA
+Scomberomorus,false,Scomberomorus commerson;Scomberomorus guttatus;Scomberomorus koreanus;Scomberomorus lineolatus,4,1.00,0,LAUT_INDONESIA
+Scopeloberyx,false,Scopeloberyx malayanus,1,1.00,0,LAUT_INDONESIA
+Scopelogadus,false,Scopelogadus mizolepis;Scopelogadus unispinis,2,1.00,0,LAUT_INDONESIA
+Scopelopsis,false,Scopelopsis multipunctatus,1,1.00,0,LAUT_INDONESIA
+Scorpaenodes,false,Scorpaenodes albaiensis;Scorpaenodes bathycolus;Scorpaenodes corallinus;Scorpaenodes evides;Scorpaenodes guamensis;Scorpaenodes hirsutus;Scorpaenodes smithi;Scorpaenodes varipinnis,11,0.73,3,LAUT_INDONESIA
+Scorpaenopsis,false,Scorpaenopsis cotticeps;Scorpaenopsis diabolus;Scorpaenopsis macrochir;Scorpaenopsis obtusa;Scorpaenopsis oxycephalus;Scorpaenopsis ramaraoi;Scorpaenopsis vittapinna,11,0.64,4,LAUT_INDONESIA
+Scuticaria,false,Scuticaria okinawae;Scuticaria tigrina,2,1.00,0,LAUT_INDONESIA
+Scyris,false,Scyris indica,1,1.00,0,LAUT_INDONESIA
+Searsioides,false,Searsioides calvala,1,1.00,0,LAUT_INDONESIA
+Sebastapistes,false,Sebastapistes fowleri;Sebastapistes mauritiana;Sebastapistes strongia,4,0.75,1,LAUT_INDONESIA
+Sebastiscus,false,Sebastiscus tertius,1,1.00,0,LAUT_INDONESIA
+Selar,false,Selar boops,2,0.50,1,LAUT_INDONESIA
+Selaroides,false,,1,0.00,1,LAUT_INDONESIA
+Selenotoca,false,Selenotoca multifasciata;Selenotoca papuensis,2,1.00,0,LAUT_INDONESIA
+Seriola,false,Seriola dumerili;Seriola rivoliana,2,1.00,0,LAUT_INDONESIA
+Seriolina,false,,1,0.00,1,LAUT_INDONESIA
+Serranocirrhitus,false,Serranocirrhitus latus,1,1.00,0,LAUT_INDONESIA
+Setarches,false,Setarches guentheri,1,1.00,0,LAUT_INDONESIA
+Setipinna,false,Setipinna breviceps;Setipinna melanochir;Setipinna taty;Setipinna tenuifilis,4,1.00,0,LAUT_INDONESIA
+Sicyopterus,false,Sicyopterus lagocephalus,1,1.00,0,LAUT_INDONESIA
+Siganus,false,Siganus argenteus;Siganus corallinus;Siganus doliatus;Siganus fuscescens;Siganus javus;Siganus labyrinthodes;Siganus lineatus;Siganus magnificus;Siganus puellus;Siganus punctatissimus;Siganus stellatus;Siganus sutor,19,0.63,7,LAUT_INDONESIA
+Sigmops,false,Sigmops elongatus,1,1.00,0,LAUT_INDONESIA
+Signigobius,false,Signigobius biocellatus,1,1.00,0,LAUT_INDONESIA
+Sillaginopodys,false,Sillaginopodys chondropus,1,1.00,0,LAUT_INDONESIA
+Sillaginops,false,Sillaginops macrolepis,1,1.00,0,LAUT_INDONESIA
+Sillaginopsis,false,Sillaginopsis panijus,1,1.00,0,LAUT_INDONESIA
+Sillago,false,Sillago burrus;Sillago nierstraszi;Sillago sihama,4,0.75,1,LAUT_INDONESIA
+Sinobatis,false,Sinobatis borneensis;Sinobatis bulbicauda,2,1.00,0,LAUT_INDONESIA
+Siokunichthys,false,Siokunichthys bentuviai;Siokunichthys breviceps;Siokunichthys herrei;Siokunichthys nigrolineatus,4,1.00,0,LAUT_INDONESIA
+Siphamia,false,Siphamia argentea;Siphamia corallicola;Siphamia cyanophthalma;Siphamia elongata;Siphamia fistulosa;Siphamia fuscolineata;Siphamia jebbi;Siphamia majimai;Siphamia papuensis;Siphamia spinicola;Siphamia stenotes;Siphamia tubifer;Siphamia tubulata,13,1.00,0,LAUT_INDONESIA
+Sirembo,false,Sirembo jerdoni,1,1.00,0,LAUT_INDONESIA
+Skythrenchelys,false,Skythrenchelys macrostomus;Skythrenchelys zabra,2,1.00,0,LAUT_INDONESIA
+Snyderina,false,Snyderina yamanokami,1,1.00,0,LAUT_INDONESIA
+Solea,false,Solea ovata,1,1.00,0,LAUT_INDONESIA
+Solegnathus,false,Solegnathus lettiensis,1,1.00,0,LAUT_INDONESIA
+Soleichthys,false,Soleichthys heterorhinos,1,1.00,0,LAUT_INDONESIA
+Solenostomus,false,Solenostomus armatus;Solenostomus cyanopterus;Solenostomus halimeda;Solenostomus leptosoma;Solenostomus paegnius;Solenostomus paradoxus,6,1.00,0,LAUT_INDONESIA
+Sonorolux,false,Sonorolux fluminis,1,1.00,0,LAUT_INDONESIA
+Sorsogona,false,Sorsogona tuberculata,1,1.00,0,LAUT_INDONESIA
+Sphaeramia,false,Sphaeramia nematoptera,2,0.50,1,LAUT_INDONESIA
+Sphagemacrurus,false,Sphagemacrurus richardi,1,1.00,0,LAUT_INDONESIA
+Sphoeroides,false,Sphoeroides pachygaster,1,1.00,0,LAUT_INDONESIA
+Sphyraena,false,Sphyraena barracuda;Sphyraena flavicauda;Sphyraena forsteri;Sphyraena jello;Sphyraena obtusata;Sphyraena qenie,8,0.75,2,LAUT_INDONESIA
+Sphyrna,false,Sphyrna lewini;Sphyrna mokarran,2,1.00,0,LAUT_INDONESIA
+Spratelloides,false,Spratelloides delicatulus;Spratelloides lewisi,3,0.67,1,LAUT_INDONESIA
+Springeratus,false,Springeratus xanthosoma,1,1.00,0,LAUT_INDONESIA
+Squalomugil,false,Squalomugil nasutus,1,1.00,0,LAUT_INDONESIA
+Squalus,false,Squalus edmundsi;Squalus hemipinnis;Squalus montalbani,3,1.00,0,LAUT_INDONESIA
+Squatina,false,Squatina legnota,1,1.00,0,LAUT_INDONESIA
+Stalix,false,Stalix histrio;Stalix moenensis;Stalix versluysi,3,1.00,0,LAUT_INDONESIA
+Stanulus,false,Stanulus seychellensis,1,1.00,0,LAUT_INDONESIA
+Steeneichthys,false,Steeneichthys nativitatus,1,1.00,0,LAUT_INDONESIA
+Stegastes,false,Stegastes albifasciatus;Stegastes lacrymatus;Stegastes nigricans,4,0.75,1,LAUT_INDONESIA
+Stegostoma,false,Stegostoma tigrinum,1,1.00,0,LAUT_INDONESIA
+Stemonosudis,false,Stemonosudis distans;Stemonosudis elegans;Stemonosudis miscella;Stemonosudis multifasciata;Stemonosudis retrodorsalis;Stemonosudis rothschildi;Stemonosudis similis,7,1.00,0,LAUT_INDONESIA
+Stenatherina,false,,1,0.00,1,LAUT_INDONESIA
+Stenogobius,false,Stenogobius genivittatus;Stenogobius gymnopomus;Stenogobius marinus,3,1.00,0,LAUT_INDONESIA
+Stethojulis,false,Stethojulis albovittata;Stethojulis bandanensis,5,0.40,3,LAUT_INDONESIA
+Stigmatogobius,false,Stigmatogobius borneensis;Stigmatogobius sadanundio;Stigmatogobius sella,3,1.00,0,LAUT_INDONESIA
+Stolephorus,false,Stolephorus andhraensis;Stolephorus baganensis;Stolephorus brevis;Stolephorus carpentariae;Stolephorus commersonnii;Stolephorus dubiosus;Stolephorus eclipsis;Stolephorus eldorado;Stolephorus grandis;Stolephorus indicus;Stolephorus insignus;Stolephorus insularis;Stolephorus leopardus;Stolephorus rex;Stolephorus teguhi;Stolephorus tri;Stolephorus waitei,18,0.94,1,LAUT_INDONESIA
+Stomias,false,Stomias nebulosus,1,1.00,0,LAUT_INDONESIA
+Stonogobiops,false,Stonogobiops nematodes;Stonogobiops xanthorhinicus;Stonogobiops yasha,3,1.00,0,LAUT_INDONESIA
+Strongylura,false,Strongylura incisa;Strongylura leiurus;Strongylura strongylura;Strongylura urvillii,4,1.00,0,LAUT_INDONESIA
+Strophidon,false,,1,0.00,1,LAUT_INDONESIA
+Sueviota,false,Sueviota aprica;Sueviota atrinasa;Sueviota bryozophila;Sueviota minersorum,4,1.00,0,LAUT_INDONESIA
+Sufflamen,false,Sufflamen bursa,3,0.33,2,LAUT_INDONESIA
+Suggrundus,false,Suggrundus macracanthus,1,1.00,0,LAUT_INDONESIA
+Sunagocia,false,Sunagocia arenicola;Sunagocia carbunculus;Sunagocia otaitensis,3,1.00,0,LAUT_INDONESIA
+Sundasalanx,false,Sundasalanx megalops,1,1.00,0,LAUT_INDONESIA
+Suttonia,false,Suttonia lineata,1,1.00,0,LAUT_INDONESIA
+Symphorichthys,false,Symphorichthys spilurus,1,1.00,0,LAUT_INDONESIA
+Symphorus,false,Symphorus nematophorus,1,1.00,0,LAUT_INDONESIA
+Symphurus,false,Symphurus bathyspilus;Symphurus fallax;Symphurus gilesii;Symphurus microrhynchus;Symphurus orientalis;Symphurus regani,6,1.00,0,LAUT_INDONESIA
+Symphysanodon,false,Symphysanodon typus,3,0.33,2,LAUT_INDONESIA
+Synagrops,false,Synagrops japonicus,1,1.00,0,LAUT_INDONESIA
+Synanceia,false,Synanceia horrida;Synanceia platyrhynchus;Synanceia quinque;Synanceia verrucosa,4,1.00,0,LAUT_INDONESIA
+Synaptura,false,Synaptura commersonnii,1,1.00,0,LAUT_INDONESIA
+Synchiropus,false,Synchiropus bartelsi;Synchiropus circularis;Synchiropus delandi;Synchiropus grinnelli;Synchiropus laddi;Synchiropus lineolatus;Synchiropus morrisoni;Synchiropus moyeri;Synchiropus ocellatus;Synchiropus picturatus;Synchiropus splendidus;Synchiropus stellatus;Synchiropus tudorjonesi,14,0.93,1,LAUT_INDONESIA
+Syngnathoides,false,Syngnathoides biaculeatus,1,1.00,0,LAUT_INDONESIA
+Synodus,false,Synodus dermatogenys;Synodus fasciapelvicus;Synodus hoshinonis;Synodus indicus;Synodus kaianus;Synodus macrocephalus;Synodus macrops;Synodus nigrotaeniatus;Synodus oculeus;Synodus rubromarmoratus;Synodus sageneus;Synodus sanguineus;Synodus tectus;Synodus ulae;Synodus usitatus;Synodus variegatus,17,0.94,1,LAUT_INDONESIA
+Taeniamia,false,Taeniamia ataenia;Taeniamia biguttata;Taeniamia buruensis;Taeniamia fucata;Taeniamia macroptera;Taeniamia melasma;Taeniamia zosterophora,7,1.00,0,LAUT_INDONESIA
+Taenianotus,false,Taenianotus triacanthus,1,1.00,0,LAUT_INDONESIA
+Taenioides,false,Taenioides anguillaris;Taenioides cirratus;Taenioides eruptionis,3,1.00,0,LAUT_INDONESIA
+Taeniura,false,Taeniura lymma,1,1.00,0,LAUT_INDONESIA
+Taeniurops,false,Taeniurops meyeni,1,1.00,0,LAUT_INDONESIA
+Takifugu,false,,1,0.00,1,LAUT_INDONESIA
+Talismania,false,Talismania kotlyari,1,1.00,0,LAUT_INDONESIA
+Taractes,false,Taractes rubescens,1,1.00,0,LAUT_INDONESIA
+Tathicarpus,false,Tathicarpus butleri,1,1.00,0,LAUT_INDONESIA
+Telatrygon,false,Telatrygon biasa;Telatrygon zugei,2,1.00,0,LAUT_INDONESIA
+Tentoriceps,false,Tentoriceps cristatus,1,1.00,0,LAUT_INDONESIA
+Tenualosa,false,Tenualosa macrura;Tenualosa toli,2,1.00,0,LAUT_INDONESIA
+Terapon,false,,3,0.00,3,LAUT_INDONESIA
+Terelabrus,false,Terelabrus dewapyle;Terelabrus rubrovittatus,2,1.00,0,LAUT_INDONESIA
+Tetrabrachium,false,Tetrabrachium ocellatum,1,1.00,0,LAUT_INDONESIA
+Tetragondacnus,false,Tetragondacnus spilotus,1,1.00,0,LAUT_INDONESIA
+Tetrapturus,false,Tetrapturus angustirostris,1,1.00,0,LAUT_INDONESIA
+Tetraroge,false,Tetraroge barbata;Tetraroge nigra,2,1.00,0,LAUT_INDONESIA
+Tetrosomus,false,Tetrosomus concatenatus;Tetrosomus gibbosus;Tetrosomus reipublicae,3,1.00,0,LAUT_INDONESIA
+Thalassoma,false,Thalassoma amblycephalum;Thalassoma jansenii;Thalassoma lunare;Thalassoma lutescens;Thalassoma purpureum;Thalassoma trilobatum,8,0.75,2,LAUT_INDONESIA
+Thamnaconus,false,Thamnaconus striatus;Thamnaconus tessellatus,2,1.00,0,LAUT_INDONESIA
+Thaumatichthys,false,Thaumatichthys pagidostomus,1,1.00,0,LAUT_INDONESIA
+Thrissina,false,Thrissina baelama,1,1.00,0,LAUT_INDONESIA
+Thryssa,false,Thryssa dussumieri;Thryssa encrasicholoides;Thryssa hamiltonii;Thryssa kammalensis;Thryssa mystax;Thryssa setirostris,6,1.00,0,LAUT_INDONESIA
+Thunnus,false,Thunnus alalunga;Thunnus albacares;Thunnus maccoyii;Thunnus obesus,5,0.80,1,LAUT_INDONESIA
+Thyrsitoides,false,,1,0.00,1,LAUT_INDONESIA
+Thysanophrys,false,Thysanophrys celebica,2,0.50,1,LAUT_INDONESIA
+Tinca,false,Tinca tinca,1,1.00,0,LAUT_INDONESIA
+Tomiyamichthys,false,Tomiyamichthys alleni;Tomiyamichthys emilyae;Tomiyamichthys eyreae;Tomiyamichthys lanceolatus;Tomiyamichthys latruncularius;Tomiyamichthys nudus;Tomiyamichthys oni;Tomiyamichthys tanyspilus,9,0.89,1,LAUT_INDONESIA
+Torquigener,false,Torquigener brevipinnis;Torquigener gloerfelti;Torquigener hicksi;Torquigener hypselogeneion;Torquigener pallimaculatus;Torquigener parcuspinus;Torquigener tuberculiferus,7,1.00,0,LAUT_INDONESIA
+Toxotes,false,Toxotes chatareus;Toxotes jaculatrix;Toxotes microlepis,3,1.00,0,LAUT_INDONESIA
+Trachicephalus,false,,1,0.00,1,LAUT_INDONESIA
+Trachinocephalus,false,Trachinocephalus trachinus,1,1.00,0,LAUT_INDONESIA
+Trachinotus,false,Trachinotus africanus;Trachinotus baillonii;Trachinotus blochii;Trachinotus botla;Trachinotus mookalee,5,1.00,0,LAUT_INDONESIA
+Trachipterus,false,Trachipterus trachypterus,1,1.00,0,LAUT_INDONESIA
+Trachyrhamphus,false,Trachyrhamphus bicoarctatus;Trachyrhamphus longirostris,2,1.00,0,LAUT_INDONESIA
+Triacanthodes,false,Triacanthodes ethiops,1,1.00,0,LAUT_INDONESIA
+Triacanthus,false,Triacanthus biaculeatus;Triacanthus nieuhofii,2,1.00,0,LAUT_INDONESIA
+Triaenodon,false,Triaenodon obesus,1,1.00,0,LAUT_INDONESIA
+Trichiurus,false,Trichiurus auriga,2,0.50,1,LAUT_INDONESIA
+Trichonotus,false,Trichonotus elegans;Trichonotus filamentosus;Trichonotus halstead;Trichonotus setiger,4,1.00,0,LAUT_INDONESIA
+Trimma,false,Trimma abyssum;Trimma agrena;Trimma anaima;Trimma annosum;Trimma aturirii;Trimma benjamini;Trimma caesiura;Trimma capostriatum;Trimma caudomaculatum;Trimma cheni;Trimma corerefum;Trimma emeryi;Trimma erdmanni;Trimma fangi;Trimma flavatrum;Trimma fucatum;Trimma gigantum;Trimma griffithsi;Trimma habrum;Trimma haimassum;Trimma halonevum;Trimma hayashii;Trimma helenae;Trimma hoesei;Trimma hollemani;Trimma imaii;Trimma kardium;Trimma kitrinum;Trimma lantana;Trimma macrophthalmus;Trimma maiandros;Trimma marinae;Trimma meityae;Trimma meranyx;Trimma milta;Trimma nasa;Trimma naudei;Trimma nomurai;Trimma okinawae;Trimma pajama;Trimma papayum;Trimma preclarum;Trimma putrai;Trimma randalli;Trimma rubromaculatum;Trimma sanguinellum;Trimma sheppardi;Trimma stobbsi;Trimma striatum;Trimma taylori;Trimma tevegae;Trimma trioculatum;Trimma xanthochrum;Trimma yanoi;Trimma zurae,55,1.00,0,LAUT_INDONESIA
+Trimmatom,false,Trimmatom nanus;Trimmatom pharus;Trimmatom sagma;Trimmatom zapotes,4,1.00,0,LAUT_INDONESIA
+Triodon,false,Triodon macropterus,1,1.00,0,LAUT_INDONESIA
+Tripodichthys,false,Tripodichthys angustifrons;Tripodichthys oxycephalus,3,0.67,1,LAUT_INDONESIA
+Tripterophycis,false,Tripterophycis gilchristi,1,1.00,0,LAUT_INDONESIA
+Trixiphichthys,false,Trixiphichthys weberi,1,1.00,0,LAUT_INDONESIA
+Trypauchen,false,,1,0.00,1,LAUT_INDONESIA
+Trypauchenichthys,false,Trypauchenichthys sumatrensis,1,1.00,0,LAUT_INDONESIA
+Tryssogobius,false,Tryssogobius colini;Tryssogobius flavolineatus;Tryssogobius longipes;Tryssogobius nigrolineatus;Tryssogobius sarah,5,1.00,0,LAUT_INDONESIA
+Turrum,false,Turrum fulvoguttatum;Turrum gymnostethus,3,0.67,1,LAUT_INDONESIA
+Tydemania,false,Tydemania navigatoris,1,1.00,0,LAUT_INDONESIA
+Tylerius,false,Tylerius spinosissimus,1,1.00,0,LAUT_INDONESIA
+Tylosurus,false,Tylosurus crocodilus;Tylosurus melanotus;Tylosurus punctulatus,3,1.00,0,LAUT_INDONESIA
+Typhlachirus,false,Typhlachirus caecus,1,1.00,0,LAUT_INDONESIA
+Tyson,false,Tyson belos,1,1.00,0,LAUT_INDONESIA
+Ucla,false,Ucla xenogrammus,1,1.00,0,LAUT_INDONESIA
+Ungusurculus,false,Ungusurculus komodoensis;Ungusurculus riauensis;Ungusurculus sundaensis,3,1.00,0,LAUT_INDONESIA
+Upeneus,false,Upeneus asymmetricus;Upeneus farnis;Upeneus lombok;Upeneus luzonius;Upeneus mascareinsis;Upeneus moluccensis;Upeneus quadrilineatus;Upeneus spottocaudalis;Upeneus subvittatus;Upeneus sulphureus;Upeneus sundaicus;Upeneus taeniopterus;Upeneus torres;Upeneus vittatus;Upeneus willwhite,16,0.94,1,LAUT_INDONESIA
+Uranoscopus,false,Uranoscopus arafurensis;Uranoscopus brunneus;Uranoscopus cognatus;Uranoscopus kaianus;Uranoscopus kishimotoi;Uranoscopus oligolepis;Uranoscopus sulphureus,8,0.88,1,LAUT_INDONESIA
+Uraspis,false,Uraspis uraspis,1,1.00,0,LAUT_INDONESIA
+Uroconger,false,Uroconger lepturus,1,1.00,0,LAUT_INDONESIA
+Urogymnus,false,Urogymnus asperrimus;Urogymnus granulatus;Urogymnus lobistoma,3,1.00,0,LAUT_INDONESIA
+Urolophus,false,Urolophus javanicus;Urolophus kaianus,2,1.00,0,LAUT_INDONESIA
+Uropterygius,false,Uropterygius fasciolatus;Uropterygius fuscoguttatus;Uropterygius inornatus;Uropterygius kamar;Uropterygius macrocephalus;Uropterygius marmoratus;Uropterygius micropterus;Uropterygius nagoensis;Uropterygius xanthopterus;Uropterygius xenodontus,11,0.91,1,LAUT_INDONESIA
+Valenciennea,false,Valenciennea bella;Valenciennea helsdingenii;Valenciennea immaculata;Valenciennea limicola;Valenciennea longipinnis;Valenciennea muralis;Valenciennea parva;Valenciennea puellaris;Valenciennea randalli;Valenciennea sexguttata;Valenciennea strigata;Valenciennea wardii;Valenciennea yanoi,13,1.00,0,LAUT_INDONESIA
+Vanderhorstia,false,Vanderhorstia ambanoro;Vanderhorstia attenuata;Vanderhorstia auronotata;Vanderhorstia cyanolineata;Vanderhorstia dawnarnallae;Vanderhorstia lepidobucca;Vanderhorstia longimanus;Vanderhorstia macropteryx;Vanderhorstia nobilis;Vanderhorstia ornatissima;Vanderhorstia papilio;Vanderhorstia phaeosticta;Vanderhorstia stegauchenia;Vanderhorstia wayag,15,0.93,1,LAUT_INDONESIA
+Variola,false,Variola albimarginata;Variola louti,2,1.00,0,LAUT_INDONESIA
+Velifer,false,Velifer hypselopterus,1,1.00,0,LAUT_INDONESIA
+Ventrifossa,false,Ventrifossa divergens;Ventrifossa nigrodorsalis;Ventrifossa petersonii,3,1.00,0,LAUT_INDONESIA
+Verulux,false,Verulux cypselurus,1,1.00,0,LAUT_INDONESIA
+Vespicula,false,Vespicula trachinoides;Vespicula zollingeri,2,1.00,0,LAUT_INDONESIA
+Wattsia,false,Wattsia mossambica,1,1.00,0,LAUT_INDONESIA
+Wetmorella,false,Wetmorella albofasciata;Wetmorella nigropinnata;Wetmorella tanakai,3,1.00,0,LAUT_INDONESIA
+Xanthichthys,false,Xanthichthys auromarginatus;Xanthichthys caeruleolineatus,2,1.00,0,LAUT_INDONESIA
+Xenisthmus,false,Xenisthmus eirospilus;Xenisthmus polyzonatus,2,1.00,0,LAUT_INDONESIA
+Xenocephalus,false,Xenocephalus elongatus,1,1.00,0,LAUT_INDONESIA
+Xenodermichthys,false,Xenodermichthys copei,1,1.00,0,LAUT_INDONESIA
+Xenojulis,false,Xenojulis margaritacea,1,1.00,0,LAUT_INDONESIA
+Xenophthalmichthys,false,Xenophthalmichthys danae,1,1.00,0,LAUT_INDONESIA
+Xestochilus,false,Xestochilus nebulosus,1,1.00,0,LAUT_INDONESIA
+Xiphasia,false,Xiphasia matsubarai;Xiphasia setifer,2,1.00,0,LAUT_INDONESIA
+Xiphias,false,Xiphias gladius,1,1.00,0,LAUT_INDONESIA
+Xiphocheilus,false,Xiphocheilus typus,1,1.00,0,LAUT_INDONESIA
+Xyrichtys,false,Xyrichtys javanicus,1,1.00,0,LAUT_INDONESIA
+Yarica,false,Yarica hyalosoma,1,1.00,0,LAUT_INDONESIA
+Yirrkala,false,Yirrkala lumbricoides;Yirrkala misolensis;Yirrkala moluccensis,3,1.00,0,LAUT_INDONESIA
+Yongeichthys,false,Yongeichthys criniger,1,1.00,0,LAUT_INDONESIA
+Zabidius,false,Zabidius novemaculeatus,1,1.00,0,LAUT_INDONESIA
+Zagadkogobius,false,Zagadkogobius ourlazon,1,1.00,0,LAUT_INDONESIA
+Zanclus,false,,1,0.00,1,LAUT_INDONESIA
+Zapogon,false,Zapogon evermanni,1,1.00,0,LAUT_INDONESIA
+Zappa,false,Zappa confluentus,1,1.00,0,LAUT_INDONESIA
+Zebrasoma,false,Zebrasoma desjardinii;Zebrasoma velifer,3,0.67,1,LAUT_INDONESIA
+Zebrias,false,Zebrias altipinnis;Zebrias quagga;Zebrias zebra,3,1.00,0,LAUT_INDONESIA
+Zenarchopterus,false,Zenarchopterus buffonis;Zenarchopterus dunckeri;Zenarchopterus dux;Zenarchopterus gilli;Zenarchopterus pappenheimi;Zenarchopterus quadrimaculatus;Zenarchopterus rasori;Zenarchopterus xiphophorus,9,0.89,1,LAUT_INDONESIA
+Zenion,false,Zenion hololepis,1,1.00,0,LAUT_INDONESIA
+Zenopsis,false,Zenopsis conchifer,2,0.50,1,LAUT_INDONESIA
+Zoramia,false,Zoramia fragilis;Zoramia gilberti;Zoramia leptacanthus;Zoramia perlita;Zoramia viridiventer,5,1.00,0,LAUT_INDONESIA

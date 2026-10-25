@@ -41,8 +41,8 @@ ASV_0001,MAT_S1_R2,611
 | `sample_id` | string | ya | Unik |
 | `site_id` | string | ya | Lokasi pengambilan |
 | `waterbody_id` | string | ya | Harus ada di `waterbodies.csv` kamus aktif (mis. `MATANO`) |
-| `latitude`, `longitude` | float | ya | WGS84 |
-| `collection_date` | date | ya | |
+| `latitude`, `longitude` | float/null | tidak (D-036/D-038) | WGS84; kosong bila sumber tidak menyediakan, peringatan V-06 |
+| `collection_date` | date/null | tidak (D-036/D-038) | Kosong bila sumber tidak menyediakan; jangan ditebak |
 | `sample_type` | enum | ya | `sampel`, `kontrol_negatif_lapangan`, `kontrol_negatif_ekstraksi`, `kontrol_negatif_pcr`, `kontrol_positif` |
 | `replicate` | integer | ya untuk `sampel` | Nomor replikat di lokasi |
 | `extraction_batch` | string | ya | Dipakai untuk mencocokkan kontrol negatif |
@@ -94,7 +94,7 @@ Dipakai untuk R-ORIG-01 (kemungkinan sumber DNA lain).
 | V-03 | `waterbody_id` tidak dikenal kamus | Galat |
 | V-04 | Satu `site_id` dengan >1 `waterbody_id` | Galat |
 | V-05 | Batch tanpa kontrol negatif | Peringatan |
-| V-06 | Koordinat di luar rentang | Peringatan |
+| V-06 | Koordinat di luar rentang atau koordinat/tanggal tidak tersedia | Peringatan |
 | V-07 | FASTA tanpa ASV yang ada di reads, atau sebaliknya | Peringatan |
 | V-08 | Tanpa FASTA dan tanpa taxonomy | Galat |
 | V-09 | Marker di metadata tidak sama untuk semua sampel | Galat (r0.1 hanya satu marker per run) |
@@ -266,7 +266,7 @@ Isi v0.1 adalah **draf** berdasarkan literatur (introgresi *Telmatherina* "sharp
 | `source_id` | Mis. `SRC_STELBRINK2014` |
 | `citation` | Sitasi lengkap |
 | `doi_or_url` | |
-| `type` | `peer_reviewed`, `preprint`, `book`, `database`, `regulation`, `news`, `simulated` |
+| `type` | `peer_reviewed`, `preprint`, `book`, `database`, `regulation`, `news`, `simulated`, `team_curation`, `journal_unverified` (D-038; label provenance, bukan pengesahan ahli) |
 | `license` | |
 | `accessed_date` | |
 
