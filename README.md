@@ -13,6 +13,7 @@ Dokumen acuan ada di [`docs/`](docs/README.md). Sumber kebenaran tertinggi: [01_
 | Mesin inti, API, dashboard, PDF/CSV, jejak audit | Berjalan; tes `not slow` dan T-PERF lulus di perangkat tim |
 | Aturan | `r0.4` aktif (D-030, D-033); semua ambang **usulan tim, belum dikalibrasi ahli** |
 | Kamus Indonesia `data/reference/v0.4` (D-035, Diusulkan) | Kamus bawaan **nasional**: 966 sekuens 12S MiFish dari 630 spesies (100 dari spesimen bertanda Indonesia) + checklist Malili dan Laut Indonesia (FishBase). v0.1–v0.3 tetap utuh |
+| Kamus `data/reference/v0.5` (D-037, Diusulkan, belum bawaan) | v0.4 + 33 sekuens MiFish Rasborinae bervoucher LIPI (asal Indonesia via BOLD) + checklist air tawar nasional; 133 sekuens dari spesimen Indonesia; klaim *Rasbora* kini bisa `safe` (tingkat genus) |
 | Demo | **Data eDNA asli** Marwayana dkk. 2022 (MiFish-U, terumbu Indonesia, CC0) lewat tombol "Muat data eDNA asli Indonesia" (D-036), dan demo **SIMULASI** Matano berlabel |
 | Fitur P1/P2 (D-031) | Verifikasi kode laporan, catatan ahli, usulan sekuens, peta lokasi tersamar, tampilan ponsel, CI, cocok ulang, agregasi celah, templat lab (`templates/`) |
 | Validasi | LOSO r0.4 di `validation/results/`: Malili v0.3 (n 65) M3 0,092 vs baseline BLAST-97% 0,462, M2 0,908; Lake St. Pierre `CA-QC` (mode validasi, n 234) M3 0,197 vs 0,419, M2 0,803. M1 = 0 bersifat struktural (tidak ada spesimen `ID`, D-034). Juga LOSO pustaka 12S Guyana (Teleo1/12S-V5). Bukan bukti akurasi MiFish Indonesia |

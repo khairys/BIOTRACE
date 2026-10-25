@@ -1,0 +1,41 @@
+{
+  "changelog": "CHANGELOG.md",
+  "contains_simulated": false,
+  "counts": {
+    "sequences_accepted": 999,
+    "species_with_reference": 630,
+    "waterbodies": 7
+  },
+  "created": "2026-10-25",
+  "files": {
+    "CHANGELOG.md": "5f5b01f0a31adc877a7afc9b7013dc626082a1aa8bf06ffda22448384de05b38",
+    "aliases.csv": "8b0edbc0c002f505b4b64ab63720f27455fb81232e2359dc008d5f8a933cd073",
+    "checklist.csv": "d1cc32cb3f21530302155fd19e408ef736e5cb6b0b8634c30a331b7cd1a177ee",
+    "complexes.csv": "f6db5247aff1b01ec5aa88f24c7204a524a23efcdf81fb1bd13ca234533c090f",
+    "coverage.csv": "5245b4a1a8347fc460384743c6238f099bc08d9f137873b30b612be9a6992b0b",
+    "curation_report.csv": "74ee72de0c79ec880da6eeca072adb472639b2eede4a680c9f5df6762547e23c",
+    "introductions.csv": "7bf6adea81da309a0d8d088d4bbfe07c0244da8fef8c6316385674c728b43cf3",
+    "sequences.csv": "c6c2a3bf2fa8d93202858bb74a693be8bfd674122d617c9a67e166ac21a2a655",
+    "sequences.fasta": "75a52d8e36eb9eaeb93881387f46e213ef07ac68419e8d60a965ec7e55209416",
+    "sources.csv": "7379f2d2a8fbaa789f92748c2a9378e56c8c9c1b28b6474bdc5c3bf118642806",
+    "status.csv": "ab2012ed7fd23be048cade1890f7fea179e48c8e5d95cb72b4a3fbb5dc4a1615",
+    "taxa.csv": "3584fedc100d63b200de3a6cc83a417420b7b2ba0acb490659f8d71d7ecf7d16",
+    "waterbodies.csv": "5ea7e99fd87daa4163c07cea1bc97ac5ba469fefd142662b6273a97e3a1faedc"
+  },
+  "marker": "12S_MiFish_U",
+  "module": "ID",
+  "reference_version": "v0.5",
+  "table_files": {
+    "aliases": "aliases.csv",
+    "checklist": "checklist.csv",
+    "complexes": "complexes.csv",
+    "coverage": "coverage.csv",
+    "curation_report": "curation_report.csv",
+    "introductions": "introductions.csv",
+    "sequences": "sequences.csv",
+    "sources": "sources.csv",
+    "status": "status.csv",
+    "taxa": "taxa.csv",
+    "waterbodies": "waterbodies.csv"
+  }
+}

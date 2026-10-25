@@ -138,3 +138,16 @@ Cara manual `scripts/fetch_instructions.md` §6, untuk `docs/13_PROMPT_PENGGABUN
 | raw/edna_indonesia_dryad_D12T1B/anacapa_output.zip | Dryad doi:10.5068/D12T1B (Marwayana dkk. 2022, *Environmental DNA* doi:10.1002/edn3.257); diunduh manual oleh pengguna karena API unduhan Dryad membalas 401 | feffb8f06d9d966193c9c526922eaf7dc54e5d04faff762cd685ce7f2507615c | CC0 1.0 |
 
 Diolah oleh `scripts/import_marwayana2022.py` ke `data/edna_asli/marwayana2022_mifishu/` (D-036).
+
+## Unduhan manual pengguna 25 Oktober 2026, ±07:10–07:25 WIB (fetch_instructions §6)
+
+Diunduh Agathan lewat browser (Dryad menolak unduhan skrip, LKCNHM memakai proteksi anti-bot), lalu dipindah agent dari akar repo ke `raw/` tanpa mengubah byte. Pengguna menyatakan izin pemakaian dari pihak terkait sudah diperoleh. Dataset Dryad berlisensi CC0.
+
+| File | Sumber | SHA-256 | Lisensi | Catatan |
+|---|---|---|---|---|
+| raw/dryad_sqv9s4n6f_rajaampat/doi_10_5061_dryad_sqv9s4n6f__v20220706.zip | Juhel dkk. 2022, Dryad doi:10.5061/dryad.sqv9s4n6f | d1e2ca8a7bf68d1e21a7fa6c4ff306dfc4f2a6c7d4c9b7a4d3dd3c7ccaa59b06 | CC0 | 324 MB, tidak dikomit (batas GitHub 100 MB); ekstraksi di data/curation/rajaampat_juhel2022_sqv9s4n6f/ |
+| raw/dryad_tb2rbp00g_rasborinae/doi_10_5061_dryad_tb2rbp00g__v20220327.zip | Rasborinae of Sundaland, Dryad doi:10.5061/dryad.tb2rbp00g (paper doi:10.1111/jbi.14141) | 337130e93609afefcc5b826a558233505bf53cbe21f49c15ae0f9f39b2bd3890 | CC0 | MiFish dari mitogenom → data/curation/rasborinae_sundaland_tb2rbp00g/ |
+| raw/dryad_tk5rj_jawabali/doi_10_5061_dryad_tk5rj__v20160321.zip | Dahruddin dkk. 2017, Dryad doi:10.5061/dryad.tk5rj | ae0ad152e3fcd5079de8299598fbf84664caf3f2be48a494a4d1643f0d9f818f | CC0 | 1.046 COI → data/curation/jawabali_dahruddin2017_tk5rj/ |
+| raw/checklists/kottelat2013_raffles_suppl27.pdf | Kottelat 2013, Raffles Bull. Zool. Suppl. 27: 1–663 (LKCNHM) | 4a6a24336f732467d62511daa8f319455c2cf99e1486889941d9e967b8c9be04 | hak cipta penerbit; PDF tidak dikomit | 667 halaman, teks terbaca; ekstraksi checklist belum dilakukan |
+
+Tidak diunduh (tidak tersedia bagi pengguna): Dryad 10.5061/dryad.8cz8w9gr2, teks lengkap Herder dkk. 2006, Hubert dkk. 2015. Token IUCN yang diberikan ditolak server (401) — perlu aktivasi akun IUCN.

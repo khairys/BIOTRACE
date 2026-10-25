@@ -29,3 +29,5 @@ raw/tropis/**
 !raw/tropis/**/
 !raw/tropis/**/manifest.json
 *.partial
+# Arsip > 100 MB (batas GitHub); hash di raw/DOWNLOAD_LOG.md
+raw/dryad_sqv9s4n6f_rajaampat/*.zip

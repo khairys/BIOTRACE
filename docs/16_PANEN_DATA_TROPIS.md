@@ -126,3 +126,15 @@ Alat yang dipakai: NCBI E-utilities, OBIS API, IUCN API v4 (dicek tanpa token), 
 - **"12S"** di kueri GenBank juga menangkap fragmen 12S–16S dan teks "small subunit ribosomal RNA"; setiap rekaman diuji daerah MiFish sebelum dihitung.
 - **Kandidat regulasi** diekstrak otomatis dari teks PDF dan dicocokkan ke nama FishBase; wajib dicek terhadap lampiran (kolom `checked_by_human`).
 - Ini bukan validasi ilmiah; angka cakupan menggambarkan ketersediaan data publik, bukan keberadaan ikan.
+
+## 8. Unduhan manual yang sudah masuk (25 Okt 2026, ±07:10–07:30)
+
+| Sumber (docs/16 §4) | Disimpan | Dipakai untuk | Hasil |
+|---|---|---|---|
+| M6 Rasborinae Sundaland (Dryad tb2rbp00g) | `raw/dryad_tb2rbp00g_rasborinae/` | **Kamus v0.5** (D-037) | 143 sekuens MiFish dari mitogenom; asal spesimen dicocokkan ke BOLD lewat kode voucher BIF (38/47 voucher = Indonesia, LIPI); 33 sekuens diterima; klaim *Rasbora* kini bisa `safe` pada tingkat genus |
+| M6 Barcode Jawa–Bali (Dryad tk5rj) | `raw/dryad_tk5rj_jawabali/` | Lapis COI dan voucher | 1.046 spesimen COI dari 159 spesies, semuanya Indonesia (MZB/LIPI) menurut BOLD → `data/curation/jawabali_dahruddin2017_tk5rj/` |
+| M6 Raja Ampat/Lengguru (Dryad sqv9s4n6f) | `raw/dryad_sqv9s4n6f_rajaampat/` (zip tidak dikomit, 324 MB) | Bahan checklist dan validasi | Checklist ikan laut Raja Ampat 2.534 baris; pustaka 12S **teleo** Lengguru 1.419 sekuens (bukan MiFish, tidak masuk kamus); daftar spesies UVC 402 dan eDNA 475 → `data/curation/rajaampat_juhel2022_sqv9s4n6f/` |
+| M1 Kottelat 2013 | `raw/checklists/kottelat2013_raffles_suppl27.pdf` | Penyebut checklist (belum diekstrak) | 667 halaman, teks terbaca |
+| M10 Token IUCN | — | Status terancam | Ditolak server (401); perlu aktivasi akun IUCN, lalu jalankan `tropis_iucn` |
+
+Skrip: `scripts/import_manual_downloads.py` (ekstraksi ke `data/curation/`), `scripts/prepare_v05.py` (kamus v0.5).
