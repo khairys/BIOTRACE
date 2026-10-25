@@ -138,3 +138,4 @@ Cara manual `scripts/fetch_instructions.md` §6, untuk `docs/13_PROMPT_PENGGABUN
 | raw/edna_indonesia_dryad_D12T1B/anacapa_output.zip | Dryad doi:10.5068/D12T1B (Marwayana dkk. 2022, *Environmental DNA* doi:10.1002/edn3.257); diunduh manual oleh pengguna karena API unduhan Dryad membalas 401 | feffb8f06d9d966193c9c526922eaf7dc54e5d04faff762cd685ce7f2507615c | CC0 1.0 |
 
 Diolah oleh `scripts/import_marwayana2022.py` ke `data/edna_asli/marwayana2022_mifishu/` (D-036).
+| genbank_country | tropis\genbank_country\2026-10-25\manifest.json | NCBI GenBank nuccore (E-utilities) | 2026-10-25 | manifest 581a68198ca2d0495e614503ce4afd771dc3bf8580f0f9312b4e909faa163e59 | Kebijakan NCBI: tanpa batasan pemakaian, tanpa jaminan hak pihak ketiga | 6152 rekaman 12S/mitogenom dari 12 negara |
