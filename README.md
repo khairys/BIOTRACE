@@ -1,168 +1,218 @@
 # BioTrace Indonesia
 
-**Pemeriksa fakta untuk hasil eDNA ikan Indonesia.** BioTrace memeriksa setiap nama ikan dari hasil lab eDNA (metabarcoding 12S MiFish) terhadap kamus DNA berversi dan aturan tertulis. Hasilnya tingkat nama yang aman, nilai bukti A–D, penyebab ketidakpastian, dan satu dari empat keputusan: **Aman dilaporkan**, **Dengan catatan**, **Wajib verifikasi**, atau **Jangan dipakai**. Setiap laporan memiliki jejak audit SHA-256.
+**Pemeriksa fakta untuk hasil eDNA ikan Indonesia.**
 
-> BioTrace menghasilkan **laporan verifikasi pendukung**, bukan dokumen AMDAL resmi. Deteksi DNA bukan bukti pasti ikan hidup di lokasi. Semua ambang adalah usulan tim dan belum dikalibrasi ahli.
+BioTrace memeriksa setiap nama ikan dari hasil lab eDNA (metabarcoding 12S MiFish) terhadap kamus DNA berversi dan aturan yang tertulis. Untuk setiap nama, BioTrace menentukan tingkat nama yang didukung bukti, nilai bukti A–D, penyebab ketidakpastian, dan satu dari empat keputusan: **Aman dilaporkan**, **Dengan catatan**, **Wajib verifikasi**, atau **Jangan dipakai**. Setiap laporan memiliki jejak audit yang bisa diverifikasi ulang.
 
-GENOHACK 2026 · Track 2: Genomics for Food Security & Biodiversity · Tim Exastra
+> BioTrace menghasilkan **laporan verifikasi pendukung**, bukan dokumen AMDAL resmi. Deteksi DNA bukan bukti pasti ikan hidup di lokasi. Semua ambang adalah usulan tim dan belum dikalibrasi ahli taksonomi.
 
 ---
 
-## Mulai cepat (juri)
+## Mengapa BioTrace
+
+eDNA memungkinkan survei ikan hanya dari sampel air: lab menyaring DNA, memperbanyak potongan gen 12S dengan primer MiFish, membacanya, lalu mencocokkannya ke kamus DNA. Masalahnya, penamaan spesies hanya seandal kamus itu. Kamus DNA ikan Indonesia masih banyak celahnya. Bila spesies yang benar belum ada di kamus, pencocokan biasa (misalnya BLAST dengan ambang ≥97%) tetap memberi nama spesies lain yang paling mirip, dengan yakin. Nama keliru itu bisa masuk ke laporan pemantauan dan dokumen lingkungan.
+
+BioTrace tidak menebak. Bila bukti tidak cukup, nama diturunkan ke tingkat yang aman (spesies → kompleks → genus → "tidak dikenal") dan alasannya dituliskan. Setiap "tidak dikenal" menjadi masukan untuk daftar prioritas barcode, yaitu ikan yang perlu dibaca DNA-nya berikutnya.
+
+## Fitur utama
+
+- **Penamaan yang jujur**: tingkat nama aman, nilai A–D, empat keputusan, dan tindak lanjut tertulis untuk setiap klaim (pasangan ASV × lokasi).
+- **Evidence Card**: kartu bukti per klaim berisi nama dari lab dan nama aman, kandidat, skor L1/L2/L4, penyebab, voucher pendukung, asal-usul, dan alasan dalam Bahasa Indonesia dan Inggris.
+- **Unggah fleksibel**: kolom CSV/TSV dikenali otomatis (mis. `otu_id`, `site_name`, `waterbody`, `pident`); perairan dan marker yang kosong dipilih pengguna, bukan ditebak.
+- **Kamus berversi**: sekuens 12S MiFish dengan level voucher, checklist ikan per perairan, status IUCN/invasif, dan alias hibrida; setiap versi dikunci dengan SHA-256.
+- **Peta celah dan prioritas barcode**: per genus per perairan, berapa spesies tercatat dibanding yang sudah punya referensi.
+- **Jejak audit**: sidik jari SHA-256 dari input, versi kamus, aturan, dan engine; laporan bisa diverifikasi lewat kode sidik jari.
+- **Laporan**: PDF lengkap, ringkasan PDF, CSV/ZIP, catatan peninjau ahli, pencocokan ulang ke versi kamus lain, dan perbandingan antar-run.
+- **Lokal dan offline**: tidak ada machine learning dan tidak ada panggilan internet saat analisis; hasil deterministik.
+
+## Cara kerja
+
+```
+CSV/TSV/FASTA ─► pengenalan kolom + validasi input
+                    │
+                    ▼
+  Tahap 0  Pra-proses     format panjang, filter data nyasar (tag-jumping), kontrol negatif, klaim ASV × lokasi
+  Tahap 1  Penamaan       BLAST+ lokal ke kamus berversi (atau taksonomi dari lab) → tingkat nama aman
+  Tahap 2  Penilaian      L1 kamus (0–2) + L2 lokasi (0–1) + L4 sinyal lab (0–2) → nilai A–D; L3 = label status
+  Tahap 3  Penyebab       reference · marker · sample · location
+  Tahap 4  Keputusan      safe · with_note · must_verify · do_not_use, beserta tindak lanjut
+  Tahap 5  Asal-usul      kemungkinan sumber DNA lain (hulu, keramba, pasar)
+  Tahap 6  Celah          peta kelengkapan kamus + daftar prioritas barcode
+  Tahap 7  Audit          SHA-256 input dan versi, sidik jari laporan
+                    │
+                    ▼
+  runs/<run_id>/   claims.csv · summary.json · report.pdf · run_manifest.json · validation_report.json
+```
+
+| Lapis | Dasar penilaian | Aturan (r0.4) |
+|---|---|---|
+| L1 Kamus (0–2) | Kemiripan terbaik dan selisih ke kandidat di luar jendela 0,5% | 2 bila ≥99% dan selisih ≥1,0%; 1 bila ≥98% dan selisih ≥0,5%; dikurangi 1 bila <50% spesies segenus di perairan itu sudah punya referensi |
+| L2 Lokasi (0–1) | Checklist ikan perairan | 1 bila takson tercatat di perairan klaim |
+| L3 Label | Checklist, status IUCN/invasif, alias | Endemik, terancam, invasif, hibrida; tidak menambah skor tetapi mengetatkan keputusan |
+| L4 Sinyal lab (0–2) | Replikat positif per lokasi | 2 bila muncul di semua replikat; 1 bila ≥66% atau hanya satu replikat |
+| Batas D | Kontrol negatif dan jumlah bacaan | Nilai D bila DNA juga ada di kontrol negatif batch yang sama atau total bacaan <10 |
+
+Total L1+L2+L4: 5 = A, 4 = B, 2–3 = C, 0–1 = D. Klaim yang hanya didukung spesimen dari luar Indonesia atau checklist bersumber sekunder tidak pernah diberi keputusan "Aman". Rincian aturan: [`docs/03_ATURAN_MESIN.md`](docs/03_ATURAN_MESIN.md).
+
+## Mulai cepat
+
+**Prasyarat:** [uv](https://docs.astral.sh/uv/) (memasang Python 3.11 otomatis), Node.js 22 + npm, dan NCBI BLAST+ 2.14+. Di Windows, BLAST+ dipasang otomatis ke `.tools/` oleh perintah `setup`.
 
 ```bash
-uv run python scripts/project.py setup     # dependensi Python + npm, BLAST+ (Windows otomatis ke .tools/)
-uv run python scripts/project.py demo      # build web + API di http://127.0.0.1:8000
+git clone https://github.com/khairys/BIOTRACE.git
+cd BIOTRACE
+uv run python scripts/project.py setup
+uv run python scripts/project.py demo
 ```
 
-1. Buka http://127.0.0.1:8000 → klik **Muat data eDNA asli Indonesia** (hasil pra-hitung terverifikasi, tanpa menunggu BLAST).
-2. Gulir ke **Evidence Card** atau klik **Lihat bukti** di Daftar klaim untuk melihat alasan setiap keputusan.
-3. Unduh **Ringkasan PDF** / ZIP, salin sidik jari laporan, dan periksa di halaman **Verifikasi**.
-4. Demo **SIMULASI** Matano memperlihatkan keempat keputusan, kompleks spesies, dan alias louhan.
+Buka http://127.0.0.1:8000, lalu pilih:
 
-Tanpa menjalankan aplikasi: baca [`validation/jury/v0.5/ringkasan_juri.pdf`](validation/jury/v0.5/ringkasan_juri.pdf). Panduan pemeriksaan lengkap: [`docs/17_KESIAPAN_JURI.md`](docs/17_KESIAPAN_JURI.md).
+- **Muat data eDNA asli Indonesia**: data MiFish-U terumbu karang Indonesia (Marwayana dkk. 2022), memakai hasil pra-hitung terverifikasi sehingga langsung tampil.
+- **Muat data demo (SIMULASI)**: skenario Danau Matano fiktif yang memperlihatkan keempat keputusan, kompleks spesies, dan alias hibrida.
 
----
+> Di Windows, jalankan perintah `uv` dari PowerShell. Biarkan laptop tetap aktif selama analisis BLAST berjalan.
 
-## Masalah yang diselesaikan
+## Menggunakan BioTrace
 
-Penamaan spesies dari eDNA hanya seandal kamus referensinya. Untuk ikan Indonesia, kamus itu masih bolong: bila spesies yang benar belum ada di kamus, pencocokan biasa (BLAST ≥97%) tetap memberi nama spesies lain dengan yakin. Nama keliru itu bisa masuk dokumen lingkungan perusahaan. BioTrace menurunkan nama ke tingkat yang didukung bukti (spesies → kompleks → genus → "tidak dikenal") dan menuliskan alasannya, alih-alih menebak.
+### Lewat dashboard
 
-## Cara kerja (alur satu run)
+1. **Unggah** tabel bacaan, metadata sampel, dan FASTA ASV atau taksonomi lab. Peran tiap file dan nama kolomnya dikenali otomatis.
+2. Bila metadata tidak mencantumkan perairan atau marker, **pilih** di kotak "Lengkapi metadata". Pilihan ini tercatat di jejak audit.
+3. Baca **ringkasan keputusan**, lalu buka **Evidence Card** lewat tombol **Lihat bukti** di daftar klaim.
+4. Unduh **PDF** (lengkap atau ringkasan) atau **CSV/ZIP**, lalu salin sidik jari laporan untuk diperiksa di halaman **Verifikasi**.
 
-```
-upload CSV/TSV/FASTA ─► pengenalan kolom otomatis + validasi (V-01..V-10)
-                          │
-                          ▼
-   Tahap 0  Pra-proses     tabel panjang, filter tag-jumping, kontrol negatif, klaim = ASV × lokasi
-   Tahap 1  Penamaan       BLAST+ lokal ke kamus berversi (atau taksonomi lab) → tingkat nama aman
-   Tahap 2  Penilaian      L1 kamus (0–2) + L2 lokasi (0–1) + L4 sinyal lab (0–2) → nilai A–D; L3 = label
-   Tahap 3  Penyebab       reference / marker / sample / location
-   Tahap 4  Keputusan      safe / with_note / must_verify / do_not_use + tindak lanjut (R-DEC-01..09)
-   Tahap 5  Asal-usul      kemungkinan sumber DNA lain
-   Tahap 6  Celah          peta kelengkapan kamus + daftar prioritas barcode
-   Tahap 7  Audit          SHA-256 input, versi kamus/aturan/engine, sidik jari laporan
-                          │
-                          ▼
-   runs/<run_id>/  claims.csv · summary.json · report.pdf · run_manifest.json · validation_report.json
-```
+### Format data input
 
-Ringkas aturan penilaian (`biotrace_core/rules/rules_r0.4.yaml`):
-
-| Lapis | Dasar | Aturan utama |
+| File | Wajib | Kolom utama |
 |---|---|---|
-| L1 Kamus (0–2) | Kemiripan terbaik dan selisih ke kandidat di luar jendela 0,5% | 2 bila ≥99% dan selisih ≥1,0%; 1 bila ≥98% dan ≥0,5%; −1 bila <50% spesies segenus di perairan punya referensi |
-| L2 Lokasi (0–1) | Checklist perairan di kamus | 1 bila takson tercatat di perairan klaim |
-| L3 Label | Checklist + status IUCN/invasif + alias | endemik, terancam, invasif, hibrida; tidak menambah skor, mengetatkan keputusan |
-| L4 Sinyal lab (0–2) | Replikat positif per lokasi | 2 bila muncul di semua replikat; 1 bila ≥66% atau satu replikat |
-| Batas D | Kontrol negatif / bacaan | Nilai D bila DNA ada di kontrol negatif batch yang sama atau total bacaan <10 |
+| Tabel bacaan (CSV/TSV) | Ya | `asv_id`, `sample_id`, `reads` (format panjang), atau format lebar: kolom pertama ASV, kolom lain sampel |
+| Metadata sampel | Ya | `sample_id`, `site_id`, `waterbody_id`, `sample_type`, `replicate`, `extraction_batch`, `marker`; opsional `latitude`, `longitude`, `collection_date` |
+| FASTA ASV | Salah satu | `>asv_id` diikuti urutan; dicocokkan ulang ke kamus BioTrace dengan BLAST+ |
+| Taksonomi lab | Salah satu | `asv_id`, `taxon`, `rank`, `pct_identity`, opsional `runner_up_taxon`, `runner_up_pct_identity` |
 
-Total L1+L2+L4: 5 = A, 4 = B, 2–3 = C, 0–1 = D. Klaim yang hanya didukung spesimen luar Indonesia atau checklist sekunder tidak pernah "Aman" (R-DEC-09). Rincian: [`docs/03_ATURAN_MESIN.md`](docs/03_ATURAN_MESIN.md).
+Nama kolom lain dikenali lewat sinonim atau isinya, kolom tambahan diabaikan, dan semua pemetaan dilaporkan sebagai peringatan. Templat tersedia di [`templates/`](templates/). Spesifikasi lengkap: [`docs/04_SPESIFIKASI_DATA.md`](docs/04_SPESIFIKASI_DATA.md).
+
+### Lewat baris perintah
+
+```bash
+uv run biotrace run --reads reads.csv --meta metadata.csv --taxonomy taxonomy.csv --out runs
+uv run biotrace run --reads reads.csv --meta metadata.csv --fasta asv.fasta --ref data/reference/v0.5 --out runs
+uv run biotrace verify --run runs/<run_id>
+uv run biotrace validate loso --ref data/reference/v0.5 --out loso.json
+```
+
+Subperintah lain: `rematch` (cocokkan ulang ke kamus/aturan lain), `compare` (bandingkan dua run), `gaps` (gabungkan celah lintas run), `ref` (kelola kamus).
+
+### Lewat API
+
+API FastAPI berjalan bersama dashboard; dokumentasi interaktif tersedia di http://127.0.0.1:8000/docs.
+
+| Endpoint | Fungsi |
+|---|---|
+| `POST /api/inputs/inspect` | Kenali peran file dan pemetaan kolom |
+| `POST /api/runs` | Jalankan analisis (opsional `waterbody_id`, `marker` untuk sel kosong) |
+| `GET /api/runs/{id}` | Hasil lengkap; turunan `/claims`, `/coverage`, `/barcode-priority`, `/sites` |
+| `GET /api/runs/{id}/report.pdf`, `/summary.pdf`, `/export.zip` | Laporan dan ekspor |
+| `POST /api/runs/{id}/rematch`, `GET /api/runs/{id}/compare/{other}` | Cocok ulang dan banding run |
+| `POST /api/verify` | Periksa laporan dari sidik jari |
+| `GET /api/reference`, `/api/methods`, `/api/validation/latest` | Isi kamus, metode, hasil validasi |
+
+## Kamus referensi dan data
+
+| Komponen | Isi | Lokasi |
+|---|---|---|
+| Kamus aktif v0.5 | 999 sekuens 12S MiFish dari 630 spesies (133 dari spesimen Indonesia); checklist Danau Malili, laut, dan air tawar Indonesia; status IUCN/invasif; alias | [`data/reference/v0.5`](data/reference/v0.5) |
+| Kamus sebelumnya | v0.1–v0.4, dipertahankan agar hasil lama bisa direproduksi | [`data/reference/`](data/reference/) |
+| Data eDNA asli | Marwayana dkk. 2022, MiFish-U, 39 lokasi terumbu Indonesia (Dryad 10.5068/D12T1B, CC0) | [`data/edna_asli/`](data/edna_asli/) |
+| Data demo | Skenario Danau Matano, berlabel SIMULASI di nama file dan setiap baris | [`data/demo/`](data/demo/) |
+| Modul validasi luar | Lake St. Pierre (Kanada), Guyana Prancis; hanya untuk uji mesin | [`data/external/`](data/external/) |
+| Data mentah | Unduhan bersumber, hash SHA-256, dan log unduhan | [`raw/`](raw/), [`raw/DOWNLOAD_LOG.md`](raw/DOWNLOAD_LOG.md) |
+
+Celah yang masih terbuka: belum ada satu pun dari 19 spesies endemik Danau Malili dalam checklist yang punya referensi MiFish layak. BioTrace menampilkan celah ini sebagai peta celah dan prioritas barcode, bukan menyembunyikannya.
+
+## Validasi
+
+Uji *leave-one-species-out*: semua sekuens spesies X dihapus dari kamus, lalu DNA X dicocokkan ke kamus yang tersisa. Karena X sudah tidak ada, jawaban yang benar hanyalah takson yang memuat X (misalnya genusnya) atau "tidak dikenal"; nama spesies apa pun adalah nama keliru.
+
+| Kamus v0.5, aturan r0.4 (630 spesies, 999 uji) | BioTrace | BLAST ≥97% saja |
+|---|---:|---:|
+| Nama keliru di tingkat apa pun | **7,51%** | 32,53% |
+| Menahan diri dengan benar | 92,49% | — |
+| Nama spesies benar saat referensi lain tersedia | 20,37% | — |
+
+Angka terakhir menunjukkan biaya kehati-hatian: BioTrace sering berhenti di tingkat genus. Ini uji pustaka internal dengan sinyal lab ideal, **bukan akurasi lapangan**. Hasil lengkap: [`validation/results/`](validation/results/); bukti reproduksibilitas rilis v0.5: [`validation/jury/v0.5/`](validation/jury/v0.5/).
 
 ## Arsitektur dan teknologi
 
 ```
-Browser ── React dashboard (web/) ──► FastAPI (api/main.py) ──► biotrace_core (mesin murni, offline)
-                                                                   ├─ data/reference/vX   kamus DNA berversi + manifest SHA-256
-                                                                   ├─ biotrace_core/rules  aturan r0.4 (YAML)
-                                                                   ├─ BLAST+ (blastn, makeblastdb) lokal
-                                                                   └─ runs/<run_id>/       hasil + jejak audit
+Browser ── dashboard React (web/) ──► FastAPI (api/) ──► biotrace_core (mesin aturan, offline)
+                                                            ├─ data/reference/vX    kamus berversi + manifest SHA-256
+                                                            ├─ biotrace_core/rules   aturan r0.4 (YAML)
+                                                            ├─ BLAST+ lokal          blastn, makeblastdb
+                                                            └─ runs/<run_id>/        hasil + jejak audit
 ```
 
 | Lapisan | Teknologi |
 |---|---|
-| Mesin inti | Python 3.11, pydantic v2, PyYAML, pandas, Biopython; fungsi murni deterministik, **tanpa ML, tanpa internet saat analisis** |
-| Pencocokan sekuens | NCBI BLAST+ 2.14+ (`blastn`, `makeblastdb`), dijalankan lokal dengan anggaran waktu 600 dtk (`BIOTRACE_BLAST_TIMEOUT_SECONDS`) |
-| API | FastAPI + Uvicorn, `python-multipart`; menyajikan API sekaligus build web |
-| Laporan | ReportLab (PDF lengkap dan ringkasan), CSV/ZIP, sidik jari SHA-256 |
+| Mesin inti | Python 3.11, pydantic v2, PyYAML, pandas, Biopython; fungsi murni dan deterministik |
+| Pencocokan sekuens | NCBI BLAST+ 2.14+, lokal; batas waktu 600 detik (`BIOTRACE_BLAST_TIMEOUT_SECONDS`, 1–3600) |
+| API | FastAPI, Uvicorn, python-multipart |
+| Laporan | ReportLab (PDF), CSV/ZIP, SHA-256 |
 | Dashboard | React 18, Vite 6, TypeScript 5 (strict), Tailwind CSS 4, Recharts 3, TanStack Table 8, React Router 7, react-dropzone, lucide-react |
-| Kontrak data | Skema pydantic diekspor ke TypeScript (`scripts/export_schemas.py` → `web/src/api/generated.ts`) |
-| Penyimpanan | Berbasis file berversi (tanpa basis data): kamus, aturan, dan hasil run adalah folder |
-| Kualitas | pytest (+ uji kinerja T-PERF), ruff format/check, Playwright (`scripts/test_browser.py`), GitHub Actions (`.github/workflows`) |
-| Paket | uv (Python), npm (web), Node.js 22 |
-
-## Data
-
-| Komponen | Isi | Lokasi |
-|---|---|---|
-| Kamus aktif | **v0.5**: 999 sekuens 12S MiFish, 630 spesies, 133 sekuens dari spesimen Indonesia; checklist Malili, laut, dan air tawar Indonesia; status IUCN/invasif; alias | `data/reference/v0.5` |
-| Kamus lama | v0.1–v0.4 tetap utuh untuk reproduksi | `data/reference/` |
-| Data eDNA asli | Marwayana dkk. 2022, MiFish-U terumbu Indonesia (Dryad 10.5068/D12T1B, CC0); 4.354 klaim, 152 taksa | `data/edna_asli/`, `precomputed/edna_asli_marwayana2022_r0.4_v0.5/` |
-| Demo SIMULASI | Danau Matano fiktif, 16 skenario, berlabel SIMULASI | `data/demo/matano_SIMULASI_v3/` |
-| Modul validasi luar | Lake St. Pierre (Kanada), Guyana Prancis; hanya mode validasi | `data/external/` |
-| Data mentah | Unduhan bersumber dengan SHA-256 dan log | `raw/`, `raw/DOWNLOAD_LOG.md`, `scripts/fetch_data.py` |
-
-Celah yang diakui: **0 dari 19 spesies endemik Malili** di checklist sudah punya referensi MiFish yang layak. Celah ini ditampilkan sebagai peta celah dan prioritas barcode.
-
-## Format input
-
-| File | Wajib | Kolom utama |
-|---|---|---|
-| Tabel bacaan (CSV/TSV) | Ya | `asv_id`, `sample_id`, `reads` (format panjang atau lebar) |
-| Metadata sampel | Ya | `sample_id`, `site_id`, `waterbody_id`, `sample_type`, `replicate`, `extraction_batch`, `marker` |
-| FASTA ASV | Salah satu | `>asv_id` + urutan; dicocokkan ulang ke kamus BioTrace |
-| Taksonomi lab | Salah satu | `asv_id`, `taxon`, `rank`, `pct_identity`, `runner_up_*` |
-
-Nama kolom lain dikenali otomatis (mis. `otu_id`, `site_name`, `waterbody`, `pident`); kolom tambahan diabaikan dan dilaporkan. Perairan dan marker yang kosong dipilih di formulir unggah; koordinat dan tanggal yang kosong tidak ditebak. Templat lab: `templates/`. Spesifikasi: [`docs/04_SPESIFIKASI_DATA.md`](docs/04_SPESIFIKASI_DATA.md).
-
-## Validasi
-
-Uji *leave-one-species-out* (LOSO): semua sekuens spesies X dihapus dari kamus, lalu X dicocokkan ke kamus sisanya. Jawaban benar hanyalah takson yang memuat X atau "tidak dikenal".
-
-| Kamus v0.5, r0.4 (630 spesies, 999 query) | BioTrace | BLAST ≥97% saja |
-|---|---:|---:|
-| Nama keliru di tingkat apa pun (M3) | **7,51%** | 32,53% |
-| Menahan diri dengan benar (M2) | 92,49% | — |
-| Nama spesies benar saat referensi lain tersedia (M4) | 20,37% | — |
-
-M4 yang rendah adalah biaya kehati-hatian dan keterbatasan nyata. Ini eksperimen pustaka internal dengan sinyal lab ideal, **bukan akurasi lapangan**. Hasil: `validation/results/`, bukti rilis: `validation/jury/v0.5/`.
-
-## Perintah
-
-| Perintah (`uv run python scripts/project.py <tugas>` = `make <tugas>`) | Isi |
-|---|---|
-| `setup` | Pasang dependensi Python/npm, BLAST (Windows), siapkan data |
-| `test` | `ruff format --check`, `ruff check`, `pytest -m "not slow"` |
-| `test-slow` | Uji kinerja T-PERF (200 sampel × 2.000 ASV) |
-| `build` | Ekspor skema → TypeScript, build `web/dist` |
-| `demo` | Build web dan jalankan API di http://127.0.0.1:8000 |
-| `dev` | API `--reload` + Vite dev server |
-| `precompute` / `ref-build` | Simpan run demo terverifikasi / bangun blastdb kamus demo |
-
-Pemeriksaan rilis juri: `uv run python scripts/prepare_jury.py check|audit|quality` dan `uv run biotrace verify --run precomputed/edna_asli_marwayana2022_r0.4_v0.5`.
-
-CLI: `uv run biotrace {run,verify,rematch,compare,gaps,ref,validate}`. Contoh:
-
-```bash
-uv run biotrace run --reads reads.csv --meta metadata.csv --taxonomy taxonomy.csv --out runs
-uv run biotrace validate loso --ref data/reference/v0.5 --out validation/results/loso.json
-```
-
-API utama (FastAPI, dokumentasi otomatis di `/docs`): `POST /api/runs`, `POST /api/inputs/inspect`, `POST /api/runs/demo/{id}`, `GET /api/runs/{id}` (+ `/claims`, `/coverage`, `/barcode-priority`, `/report.pdf`, `/export.zip`, `/sites`), `POST /api/runs/{id}/rematch`, `POST /api/verify`, `GET /api/reference`, `GET /api/methods`, `GET /api/validation/latest`.
+| Kontrak data | Skema pydantic diekspor ke TypeScript (`scripts/export_schemas.py`) |
+| Penyimpanan | Berbasis file berversi, tanpa basis data |
+| Kualitas | pytest, ruff, Playwright, GitHub Actions |
 
 ## Struktur repo
 
 ```
-api/              FastAPI: endpoint, unggah, demo
+api/              API FastAPI: unggah, analisis, laporan, verifikasi
 biotrace_core/    mesin: io (validasi, pengenalan kolom), naming, scoring, causes, decision,
                   reference (kurasi, kamus), report (PDF/CSV), audit, validation (LOSO), rules/
-web/              dashboard React + Vite (Unggah, Hasil, Evidence Card, Metode, Validasi, Verifikasi)
-data/             kamus berversi, data demo SIMULASI, data eDNA asli, modul validasi luar, kurasi
-precomputed/      run demo terverifikasi (cadangan tanpa BLAST)
-raw/              data mentah bersumber + DOWNLOAD_LOG.md
-validation/       hasil LOSO dan bukti rilis juri
-scripts/          setup/demo/build, unduh data, builder kamus, pemeriksaan rilis
-templates/        templat lapangan dan permintaan lab
-tests/            pytest per aturan (R-*), API, rilis
-docs/             konsep, aturan mesin, spesifikasi data, arsitektur, validasi, registri bukti, paket juri
+web/              dashboard React + Vite
+data/             kamus berversi, data demo, data eDNA asli, modul validasi luar, kurasi
+precomputed/      hasil run demo terverifikasi
+raw/              data mentah bersumber dan log unduhan
+validation/       hasil uji validasi dan bukti reproduksibilitas
+scripts/          setup, demo, build, unduh data, builder kamus, pemeriksaan rilis
+templates/        templat data lapangan dan lab
+tests/            pengujian per aturan, API, dan rilis
+docs/             konsep, aturan mesin, spesifikasi data, arsitektur, validasi, registri bukti
 ```
 
-## Batas
+## Pengembangan
 
-- Bekerja setelah lab selesai: tidak mengambil sampel, tidak memproses FASTQ, tidak memegang spesimen.
-- Barcode 12S mengenali spesies, bukan populasi; jumlah bacaan bukan kelimpahan.
+| Perintah (`uv run python scripts/project.py <tugas>`, atau `make <tugas>`) | Isi |
+|---|---|
+| `setup` | Pasang dependensi Python/npm, BLAST+ (Windows), siapkan data |
+| `test` | `ruff format --check`, `ruff check`, `pytest -m "not slow"` |
+| `test-slow` | Uji kinerja (200 sampel × 2.000 ASV) |
+| `build` | Ekspor skema ke TypeScript, build `web/dist` |
+| `demo` | Build dashboard dan jalankan di http://127.0.0.1:8000 |
+| `dev` | API dengan reload + Vite dev server |
+| `precompute` / `ref-build` | Simpan run demo terverifikasi / bangun database BLAST kamus demo |
+
+Pemeriksaan rilis: `uv run python scripts/prepare_jury.py check|audit|quality`. Aturan kontribusi (termasuk untuk AI agent) ada di [`AGENTS.md`](AGENTS.md); setiap perubahan aturan, skema, atau kamus dicatat di [`docs/09_LOG_KEPUTUSAN.md`](docs/09_LOG_KEPUTUSAN.md). Indeks dokumentasi: [`docs/README.md`](docs/README.md).
+
+## Batasan dan penggunaan yang bertanggung jawab
+
+- BioTrace bekerja setelah lab selesai: tidak mengambil sampel, tidak mengolah FASTQ mentah, dan tidak memegang spesimen.
+- Barcode 12S mengenali spesies, bukan populasi; jumlah bacaan bukan ukuran kelimpahan.
 - Nilai A bukan kepastian. Status taksonomi, endemik, invasif, dan regulasi dalam kamus belum ditinjau ahli.
-- Tidak menyatakan kepatuhan AMDAL/RKL-RPL dan tidak menyebut mitra yang belum setuju tertulis.
+- Laporan BioTrace adalah verifikasi pendukung, tidak menyatakan kepatuhan AMDAL/RKL-RPL.
+- Data pihak ketiga mengikuti lisensi sumbernya (antara lain GenBank/NCBI, FishBase, Dryad CC0); rincian per dataset ada di `raw/DOWNLOAD_LOG.md` dan `sources.csv` setiap kamus. Lisensi kode belum ditetapkan.
+
+## Rujukan utama
+
+- Miya M. dkk. 2015. MiFish, universal PCR primers for metabarcoding environmental DNA from fishes. *Royal Society Open Science* 2:150088. https://doi.org/10.1098/rsos.150088
+- Altschul S. F. dkk. 1990. Basic local alignment search tool. *Journal of Molecular Biology* 215:403–410.
+- Polanco F. A. dkk. 2025. *Environmental DNA* 7(2):e70077 (konsep skor keyakinan berlapis). https://doi.org/10.1002/edn3.70077
+- Marwayana O. dkk. 2022. *Environmental DNA*. https://doi.org/10.1002/edn3.257; data Dryad https://doi.org/10.5068/D12T1B
+- Daftar lengkap rujukan dan klaim yang boleh dipakai: [`docs/07_REGISTRI_BUKTI_RINGKAS.md`](docs/07_REGISTRI_BUKTI_RINGKAS.md).
+
+## Tim
+
+Tim Exastra: Bramantyo Kunni Nurrisqi (produk & validasi), Bagus Athallah (backend & data), Agathan Khairy Bowo Laksono (frontend & laporan).
 
 ## Sebelum vs selama hackathon
 
@@ -175,9 +225,3 @@ docs/             konsep, aturan mesin, spesifikasi data, arsitektur, validasi, 
 **Dibuat selama hackathon:**
 
 - _(diisi tim)_
-
-## Tim
-
-Tim Exastra: Bramantyo Kunni Nurrisqi (produk & validasi), Bagus Athallah (backend & data), Agathan Khairy Bowo Laksono (frontend & laporan).
-
-Dokumentasi lengkap: [`docs/`](docs/README.md). Aturan kontributor dan agent: [`AGENTS.md`](AGENTS.md). Keputusan: [`docs/09_LOG_KEPUTUSAN.md`](docs/09_LOG_KEPUTUSAN.md).
