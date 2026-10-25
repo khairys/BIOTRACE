@@ -80,6 +80,18 @@
   "b011_s20k": {
    "term": "(\"Lagocephalus lunaris\"[Organism] OR \"Lagusia micracanthus\"[Organism] OR \"Laides hexanema\"[Organism] OR \"Lamnostoma kampeni\"[Organism] OR \"Lamnostoma mindora\"[Organism] OR \"Lamnostoma orientale\"[Organism] OR \"Lates calcarifer\"[Organism] OR \"Laubuka laubuca\"[Organism] OR \"Leiocassis aculeata\"[Organism] OR \"Leiocassis bekantan\"[Organism] OR \"Leiocassis hosii\"[Organism] OR \"Leiocassis micropogon\"[Organism] OR \"Leiocassis poeciloptera\"[Organism] OR \"Leiocassis rudicula\"[Organism] OR \"Leiocassis saravacensis\"[Organism] OR \"Leiocassis tenebrica\"[Organism] OR \"Leiognathus equula\"[Organism] OR \"Lentipes adelphizonus\"[Organism] OR \"Lentipes argenteus\"[Organism] OR \"Lentipes crittersius\"[Organism] OR \"Lentipes dimetrodon\"[Organism] OR \"Lentipes ikeae\"[Organism] OR \"Lentipes mekonggaensis\"[Organism] OR \"Lentipes multiradiatus\"[Organism] OR \"Lentipes niasensis\"[Organism] OR \"Lentipes whittenorum\"[Organism] OR \"Lepidocephalichthys barbatuloides\"[Organism] OR \"Lepidocephalichthys hasselti\"[Organism] OR \"Lepidocephalichthys lorentzi\"[Organism] OR \"Lepidocephalichthys tomaculum\"[Organism] OR \"Lepidocephalus macrochir\"[Organism] OR \"Lepidocephalus spectrum\"[Organism] OR \"Leptachirus alleni\"[Organism] OR \"Leptachirus klunzingeri\"[Organism] OR \"Leptachirus lorentz\"[Organism] OR \"Leptobarbus hoevenii\"[Organism] OR \"Leptobarbus hosii\"[Organism] OR \"Leptobarbus melanopterus\"[Organism] OR \"Leptobarbus melanotaenia\"[Organism] OR \"Leptomelanosoma indicum\"[Organism] OR \"Leptosynanceia asteroblepa\"[Organism] OR \"Lethrinus genivittatus\"[Organism] OR \"Lethrinus laticaudis\"[Organism] OR \"Lobocheilos bo\"[Organism] OR \"Lobocheilos erinaceus\"[Organism] OR \"Lobocheilos falcifer\"[Organism] OR \"Lobocheilos ixocheilos\"[Organism] OR \"Lobocheilos kajanensis\"[Organism] OR \"Lobocheilos lehat\"[Organism] OR \"Lobocheilos schwanenfeldii\"[Organism] OR \"Lobocheilos tenura\"[Organism] OR \"Lobotes surinamensis\"[Organism] OR \"Lophocampus brevidorsalis\"[Organism] OR \"Lophocampus ocellatus\"[Organism] OR \"Luciocephalus aura\"[Organism] OR \"Luciocephalus pulcher\"[Organism] OR \"Luciosoma pellegrinii\"[Organism] OR \"Luciosoma setigerum\"[Organism] OR \"Luciosoma spilopleura\"[Organism] OR \"Luciosoma trinema\"[Organism]) AND (((12S[All Fields] OR \"12S ribosomal RNA\"[All Fields] OR \"small subunit ribosomal RNA\"[All Fields]) OR (mitochondrion[filter] AND 14000:20000[SLEN]))) AND 50:20000[SLEN]",
    "count": 103
+  },
+  "b012_s20k": {
+   "term": "(\"Lutjanus argentimaculatus\"[Organism] OR \"Lutjanus fulviflamma\"[Organism] OR \"Lutjanus fulvus\"[Organism] OR \"Lutjanus fuscescens\"[Organism] OR \"Lutjanus maxweberi\"[Organism] OR \"Lycothrissa crocodilus\"[Organism] OR \"Macrochirichthys macrochirus\"[Organism] OR \"Macrognathus aculeatus\"[Organism] OR \"Macrognathus circumcinctus\"[Organism] OR \"Macrognathus keithi\"[Organism] OR \"Macrognathus maculatus\"[Organism] OR \"Macrognathus tapirus\"[Organism] OR \"Mahidolia mystacina\"[Organism] OR \"Malayochela maassi\"[Organism] OR \"Mangarinus waterousi\"[Organism] OR \"Marilyna meraukensis\"[Organism] OR \"Marosatherina ladigesi\"[Organism] OR \"Mastacembelus armatus\"[Organism] OR \"Mastacembelus erythrotaenia\"[Organism] OR \"Mastacembelus notophthalmus\"[Organism] OR \"Mastacembelus unicolor\"[Organism] OR \"Megalops cyprinoides\"[Organism] OR \"Meiacanthus anema\"[Organism] OR \"Melanotaenia affinis\"[Organism] OR \"Melanotaenia ajamaruensis\"[Organism] OR \"Melanotaenia albimarginata\"[Organism] OR \"Melanotaenia ammeri\"[Organism] OR \"Melanotaenia angfa\"[Organism] OR \"Melanotaenia arfakensis\"[Organism] OR \"Melanotaenia arguni\"[Organism] OR \"Melanotaenia aruensis\"[Organism] OR \"Melanotaenia batanta\"[Organism] OR \"Melanotaenia boesemani\"[Organism] OR \"Melanotaenia bowmani\"[Organism] OR \"Melanotaenia catherinae\"[Organism] OR \"Melanotaenia corona\"[Organism] OR \"Melanotaenia dumasi\"[Organism] OR \"Melanotaenia ericrobertsi\"[Organism] OR \"Melanotaenia etnaensis\"[Organism] OR \"Melanotaenia fasinensis\"[Organism] OR \"Melanotaenia flavipinnis\"[Organism] OR \"Melanotaenia fredericki\"[Organism] OR \"Melanotaenia garylangei\"[Organism] OR \"Melanotaenia goldiei\"[Organism] OR \"Melanotaenia grunwaldi\"[Organism] OR \"Melanotaenia irianjaya\"[Organism] OR \"Melanotaenia jakora\"[Organism] OR \"Melanotaenia japenensis\"[Organism] OR \"Melanotaenia kamaka\"[Organism] OR \"Melanotaenia klasioensis\"[Organism] OR \"Melanotaenia kokasensis\"[Organism] OR \"Melanotaenia kolaensis\"[Organism] OR \"Melanotaenia lacunosa\"[Organism] OR \"Melanotaenia lakamora\"[Organism] OR \"Melanotaenia laticlavia\"[Organism] OR \"Melanotaenia longispina\"[Organism] OR \"Melanotaenia mairasi\"[Organism] OR \"Melanotaenia mamahensis\"[Organism] OR \"Melanotaenia manibuii\"[Organism] OR \"Melanotaenia maylandi\"[Organism]) AND (((12S[All Fields] OR \"12S ribosomal RNA\"[All Fields] OR \"small subunit ribosomal RNA\"[All Fields]) OR (mitochondrion[filter] AND 14000:20000[SLEN]))) AND 50:20000[SLEN]",
+   "count": 176
+  },
+  "b013_s20k": {
+   "term": "(\"Melanotaenia misoolensis\"[Organism] OR \"Melanotaenia multiradiata\"[Organism] OR \"Melanotaenia naramasae\"[Organism] OR \"Melanotaenia ogilbyi\"[Organism] OR \"Melanotaenia parva\"[Organism] OR \"Melanotaenia patoti\"[Organism] OR \"Melanotaenia picta\"[Organism] OR \"Melanotaenia pierucciae\"[Organism] OR \"Melanotaenia praecox\"[Organism] OR \"Melanotaenia rubripinnis\"[Organism] OR \"Melanotaenia rubrivittata\"[Organism] OR \"Melanotaenia rubrostriata\"[Organism] OR \"Melanotaenia rumberponensis\"[Organism] OR \"Melanotaenia sahulensis\"[Organism] OR \"Melanotaenia salawati\"[Organism] OR \"Melanotaenia sembrae\"[Organism] OR \"Melanotaenia senckenbergiana\"[Organism] OR \"Melanotaenia sikuensis\"[Organism] OR \"Melanotaenia sneideri\"[Organism] OR \"Melanotaenia susii\"[Organism] OR \"Melanotaenia synergos\"[Organism] OR \"Melanotaenia urisa\"[Organism] OR \"Melanotaenia vanheurni\"[Organism] OR \"Melanotaenia veoliae\"[Organism] OR \"Melanotaenia wanoma\"[Organism] OR \"Melanotaenia wokamensis\"[Organism] OR \"Mesopristes argenteus\"[Organism] OR \"Mesopristes cancellatus\"[Organism] OR \"Mesopristes iravi\"[Organism] OR \"Micronema hexapterus\"[Organism] OR \"Microphis argulus\"[Organism] OR \"Microphis arrakisae\"[Organism] OR \"Microphis brachyurus\"[Organism] OR \"Microphis caudocarinatus\"[Organism] OR \"Microphis leiaspis\"[Organism] OR \"Microphis manadensis\"[Organism] OR \"Microphis mento\"[Organism] OR \"Microphis retzii\"[Organism] OR \"Mogurnda aiwasoensis\"[Organism] OR \"Mogurnda arguni\"[Organism] OR \"Mogurnda aurifodinae\"[Organism] OR \"Mogurnda cingulata\"[Organism] OR \"Mogurnda kaifayama\"[Organism] OR \"Mogurnda kaimana\"[Organism] OR \"Mogurnda magna\"[Organism] OR \"Mogurnda mbuta\"[Organism] OR \"Mogurnda pardalis\"[Organism] OR \"Mogurnda wapoga\"[Organism] OR \"Monodactylus argenteus\"[Organism] OR \"Monopterus albus\"[Organism] OR \"Moolgarda buchanani\"[Organism] OR \"Moolgarda heterocheilos\"[Organism] OR \"Moolgarda seheli\"[Organism] OR \"Moringua javanica\"[Organism] OR \"Moringua raitaborua\"[Organism] OR \"Mugil cephalus\"[Organism] OR \"Mugilogobius adeia\"[Organism] OR \"Mugilogobius amadi\"[Organism] OR \"Mugilogobius cavifrons\"[Organism] OR \"Mugilogobius chulae\"[Organism]) AND (((12S[All Fields] OR \"12S ribosomal RNA\"[All Fields] OR \"small subunit ribosomal RNA\"[All Fields]) OR (mitochondrion[filter] AND 14000:20000[SLEN]))) AND 50:20000[SLEN]",
+   "count": 184
+  },
+  "b014_s20k": {
+   "term": "(\"Mugilogobius hitam\"[Organism] OR \"Mugilogobius karatunensis\"[Organism] OR \"Mugilogobius latifrons\"[Organism] OR \"Mugilogobius lepidotus\"[Organism] OR \"Mugilogobius mertoni\"[Organism] OR \"Mugilogobius notospilus\"[Organism] OR \"Mugilogobius platystoma\"[Organism] OR \"Mugilogobius rambaiae\"[Organism] OR \"Mugilogobius rexi\"[Organism] OR \"Mugilogobius sarasinorum\"[Organism] OR \"Mugilogobius zebra\"[Organism] OR \"Muraenesox bagio\"[Organism] OR \"Muraenesox cinereus\"[Organism] OR \"Muraenichthys gymnopterus\"[Organism] OR \"Mystacoleucus marginatus\"[Organism] OR \"Mystacoleucus padangensis\"[Organism] OR \"Mystus abbreviatus\"[Organism] OR \"Mystus alasensis\"[Organism] OR \"Mystus bimaculatus\"[Organism] OR \"Mystus bleekeri\"[Organism] OR \"Mystus castaneus\"[Organism] OR \"Mystus gulio\"[Organism] OR \"Mystus impluviatus\"[Organism] OR \"Mystus nigriceps\"[Organism] OR \"Mystus punctifer\"[Organism] OR \"Mystus singaringan\"[Organism] OR \"Mystus wolffii\"[Organism] OR \"Nagaichthys filipes\"[Organism] OR \"Nandus mercatus\"[Organism] OR \"Nandus nebulosus\"[Organism] OR \"Nanobagrus armatus\"[Organism] OR \"Nanobagrus fuscus\"[Organism] OR \"Nanobagrus immaculatus\"[Organism] OR \"Nanobagrus stellatus\"[Organism] OR \"Nanobagrus torquatus\"[Organism] OR \"Nedystoma dayi\"[Organism] OR \"Negaprion acutidens\"[Organism] OR \"Nemacheilus chrysolaimos\"[Organism] OR \"Nemacheilus fasciatus\"[Organism] OR \"Nemacheilus jaklesii\"[Organism] OR \"Nemacheilus kapuasensis\"[Organism] OR \"Nemacheilus lactogeneus\"[Organism] OR \"Nemacheilus longipectoralis\"[Organism] OR \"Nemacheilus longipinnis\"[Organism] OR \"Nemacheilus marang\"[Organism] OR \"Nemacheilus olivaceus\"[Organism] OR \"Nemacheilus papillos\"[Organism] OR \"Nemacheilus pfeifferae\"[Organism] OR \"Nemacheilus saravacensis\"[Organism] OR \"Nemacheilus selangoricus\"[Organism] OR \"Nemacheilus spiniferus\"[Organism] OR \"Nemacheilus tebo\"[Organism] OR \"Nemacheilus tuberigum\"[Organism] OR \"Nematabramis alestes\"[Organism] OR \"Nematabramis borneensis\"[Organism] OR \"Nematabramis steindachnerii\"[Organism] OR \"Nematalosa erebi\"[Organism] OR \"Neoarius graeffei\"[Organism] OR \"Neoarius hainesi\"[Organism] OR \"Neoarius pectoralis\"[Organism]) AND (((12S[All Fields] OR \"12S ribosomal RNA\"[All Fields] OR \"small subunit ribosomal RNA\"[All Fields]) OR (mitochondrion[filter] AND 14000:20000[SLEN]))) AND 50:20000[SLEN]",
+   "count": 101
   }
  },
  "files": {
@@ -572,9 +584,51 @@
    "sha256": "47be6d10ac5dcafba396e96c0587b2555fa9b3dc7ef8e613c9feb36fb2ee7063",
    "records": 103,
    "query": "b011_s20k"
+  },
+  "b011_s20k_0000.fasta": {
+   "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi",
+   "bytes": 689346,
+   "sha256": "3865850bb294507a2940b16c91585d7ac98190911d1a8399d383580916b8ea10",
+   "records": 103,
+   "query": "b011_s20k"
+  },
+  "b012_s20k_0000.esummary.json": {
+   "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi",
+   "bytes": 127924,
+   "sha256": "1cef88301a8d6b122adc9a48d3eecda603cc758856cdf2978794d2db560f7cbc",
+   "records": 176,
+   "query": "b012_s20k"
+  },
+  "b012_s20k_0000.fasta": {
+   "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi",
+   "bytes": 959512,
+   "sha256": "f534a725b70483cf7cb3d23bd2bb8e950876f7194b896988efb721fb3e832a27",
+   "records": 176,
+   "query": "b012_s20k"
+  },
+  "b013_s20k_0000.esummary.json": {
+   "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi",
+   "bytes": 132867,
+   "sha256": "288a85376fdc2b38c58e4248b29117d89578f78cda1931b2d23cf3971a9e57ac",
+   "records": 184,
+   "query": "b013_s20k"
+  },
+  "b013_s20k_0000.fasta": {
+   "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi",
+   "bytes": 883542,
+   "sha256": "3a7bcddf49d23f421a66826513f11530aa7486fb1139ae0b7dc7e1e0811df9f2",
+   "records": 184,
+   "query": "b013_s20k"
+  },
+  "b014_s20k_0000.esummary.json": {
+   "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi",
+   "bytes": 71451,
+   "sha256": "2a939dfd78cef9bb5397ef21ec6a6ae2f8c1b5f430640592f7702a6b65a2bd6a",
+   "records": 101,
+   "query": "b014_s20k"
   }
  },
  "notes": [],
  "target_species": 1605,
- "updated": "2026-10-25T07:18:50"
+ "updated": "2026-10-25T08:51:22"
 }

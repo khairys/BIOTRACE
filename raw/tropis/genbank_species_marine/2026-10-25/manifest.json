@@ -56,6 +56,34 @@
   "b007_s20k": {
    "term": "(\"Bulbonaricus davaoensis\"[Organism] OR \"Cabillus lacertops\"[Organism] OR \"Cabillus macrophthalmus\"[Organism] OR \"Cabillus tongarevae\"[Organism] OR \"Caesio caerulaurea\"[Organism] OR \"Caesio cuning\"[Organism] OR \"Caesio lunaris\"[Organism] OR \"Caesio teres\"[Organism] OR \"Caesio varilineata\"[Organism] OR \"Caesio xanthonota\"[Organism] OR \"Callechelys catostoma\"[Organism] OR \"Callechelys marmorata\"[Organism] OR \"Callionymus amboina\"[Organism] OR \"Callionymus annulatus\"[Organism] OR \"Callionymus bleekeri\"[Organism] OR \"Callionymus brevianalis\"[Organism] OR \"Callionymus delicatulus\"[Organism] OR \"Callionymus enneactis\"[Organism] OR \"Callionymus filamentosus\"[Organism] OR \"Callionymus hindsii\"[Organism] OR \"Callionymus japonicus\"[Organism] OR \"Callionymus keeleyi\"[Organism] OR \"Callionymus meridionalis\"[Organism] OR \"Callionymus mortenseni\"[Organism] OR \"Callionymus neptunius\"[Organism] OR \"Callionymus obscurus\"[Organism] OR \"Callionymus pleurostictus\"[Organism] OR \"Callionymus sagitta\"[Organism] OR \"Callionymus schaapii\"[Organism] OR \"Callionymus semeiophor\"[Organism] OR \"Callionymus simplicicornis\"[Organism] OR \"Callionymus superbus\"[Organism] OR \"Callionymus whiteheadi\"[Organism] OR \"Callionymus zythros\"[Organism] OR \"Callogobius centrolepis\"[Organism] OR \"Callogobius clitellus\"[Organism] OR \"Callogobius crassus\"[Organism] OR \"Callogobius maculipinnis\"[Organism] OR \"Callogobius okinawae\"[Organism] OR \"Callogobius sclateri\"[Organism] OR \"Callogobius snelliusi\"[Organism] OR \"Calloplesiops altivelis\"[Organism] OR \"Calloplesiops argus\"[Organism] OR \"Calotomus carolinus\"[Organism] OR \"Calotomus spinidens\"[Organism] OR \"Calumia eilperinae\"[Organism] OR \"Calumia godeffroyi\"[Organism] OR \"Calumia papuensis\"[Organism] OR \"Calumia profunda\"[Organism] OR \"Cantherhines dumerilii\"[Organism] OR \"Cantherhines fronticinctus\"[Organism] OR \"Cantherhines pardalis\"[Organism] OR \"Canthidermis maculata\"[Organism] OR \"Canthigaster amboinensis\"[Organism] OR \"Canthigaster axiologus\"[Organism] OR \"Canthigaster bennetti\"[Organism] OR \"Canthigaster compressa\"[Organism] OR \"Canthigaster cyanospilota\"[Organism] OR \"Canthigaster epilampra\"[Organism] OR \"Canthigaster investigatoris\"[Organism]) AND (((12S[All Fields] OR \"12S ribosomal RNA\"[All Fields] OR \"small subunit ribosomal RNA\"[All Fields]) OR (mitochondrion[filter] AND 14000:20000[SLEN]))) AND 50:20000[SLEN]",
    "count": 176
+  },
+  "b008_s20k": {
+   "term": "(\"Canthigaster janthinoptera\"[Organism] OR \"Canthigaster leoparda\"[Organism] OR \"Canthigaster ocellicincta\"[Organism] OR \"Canthigaster papua\"[Organism] OR \"Canthigaster petersii\"[Organism] OR \"Canthigaster rivulata\"[Organism] OR \"Canthigaster solandri\"[Organism] OR \"Canthigaster tyleri\"[Organism] OR \"Canthigaster valentini\"[Organism] OR \"Caracanthus maculatus\"[Organism] OR \"Caracanthus unipinna\"[Organism] OR \"Carangichthys dinema\"[Organism] OR \"Carangichthys humerosus\"[Organism] OR \"Carangichthys oblongus\"[Organism] OR \"Carangoides praeustus\"[Organism] OR \"Caranx ignobilis\"[Organism] OR \"Caranx lugubris\"[Organism] OR \"Caranx melampygus\"[Organism] OR \"Caranx tille\"[Organism] OR \"Carapus mourlani\"[Organism] OR \"Carapus sluiteri\"[Organism] OR \"Carcharhinus albimarginatus\"[Organism] OR \"Carcharhinus amblyrhynchoides\"[Organism] OR \"Carcharhinus amblyrhynchos\"[Organism] OR \"Carcharhinus amboinensis\"[Organism] OR \"Carcharhinus borneensis\"[Organism] OR \"Carcharhinus brevipinna\"[Organism] OR \"Carcharhinus cautus\"[Organism] OR \"Carcharhinus falciformis\"[Organism] OR \"Carcharhinus hemiodon\"[Organism] OR \"Carcharhinus longimanus\"[Organism] OR \"Carcharhinus macloti\"[Organism] OR \"Carcharhinus plumbeus\"[Organism] OR \"Carcharhinus sealei\"[Organism] OR \"Carcharhinus sorrah\"[Organism] OR \"Carcharhinus tjutjot\"[Organism] OR \"Carcharias taurus\"[Organism] OR \"Caulophryne pelagica\"[Organism] OR \"Centriscus cristatus\"[Organism] OR \"Centrodraco rubellus\"[Organism] OR \"Centrogenys vaigiensis\"[Organism] OR \"Centrophorus longipinnis\"[Organism] OR \"Centrophorus moluccensis\"[Organism] OR \"Centrophorus squamosus\"[Organism] OR \"Centropyge abei\"[Organism] OR \"Centropyge argi\"[Organism] OR \"Centropyge aurantia\"[Organism] OR \"Centropyge bicolor\"[Organism] OR \"Centropyge bispinosa\"[Organism] OR \"Centropyge colini\"[Organism] OR \"Centropyge eibli\"[Organism] OR \"Centropyge fisheri\"[Organism] OR \"Centropyge flavipectoralis\"[Organism] OR \"Centropyge flavissima\"[Organism] OR \"Centropyge heraldi\"[Organism] OR \"Centropyge multispinis\"[Organism] OR \"Centropyge nox\"[Organism] OR \"Centropyge tibicen\"[Organism] OR \"Centropyge vrolikii\"[Organism] OR \"Centroscymnus owstonii\"[Organism]) AND (((12S[All Fields] OR \"12S ribosomal RNA\"[All Fields] OR \"small subunit ribosomal RNA\"[All Fields]) OR (mitochondrion[filter] AND 14000:20000[SLEN]))) AND 50:20000[SLEN]",
+   "count": 366
+  },
+  "b009_s20k": {
+   "term": "(\"Cephalopholis aitha\"[Organism] OR \"Cephalopholis argus\"[Organism] OR \"Cephalopholis aurantia\"[Organism] OR \"Cephalopholis boenak\"[Organism] OR \"Cephalopholis cyanostigma\"[Organism] OR \"Cephalopholis formosa\"[Organism] OR \"Cephalopholis leopardus\"[Organism] OR \"Cephalopholis microprion\"[Organism] OR \"Cephalopholis miniata\"[Organism] OR \"Cephalopholis polleni\"[Organism] OR \"Cephalopholis polyspila\"[Organism] OR \"Cephalopholis sexmaculata\"[Organism] OR \"Cephalopholis sonnerati\"[Organism] OR \"Cephalopholis spiloparaea\"[Organism] OR \"Cephalopholis urodeta\"[Organism] OR \"Cephaloscyllium cooki\"[Organism] OR \"Cephaloscyllium pictum\"[Organism] OR \"Cepola schlegelii\"[Organism] OR \"Ceratias uranoscopus\"[Organism] OR \"Ceratobregma helenae\"[Organism] OR \"Cercamia cladara\"[Organism] OR \"Cercamia eremia\"[Organism] OR \"Cercamia melanogaster\"[Organism] OR \"Cetonurus globiceps\"[Organism] OR \"Cetoscarus ocellatus\"[Organism] OR \"Chaenogaleus macrostoma\"[Organism] OR \"Chaetodermis penicilligerus\"[Organism] OR \"Chaetodon adiergastos\"[Organism] OR \"Chaetodon andamanensis\"[Organism] OR \"Chaetodon assarius\"[Organism] OR \"Chaetodon aureofasciatus\"[Organism] OR \"Chaetodon auriga\"[Organism] OR \"Chaetodon baronessa\"[Organism] OR \"Chaetodon bennetti\"[Organism] OR \"Chaetodon burgessi\"[Organism] OR \"Chaetodon citrinellus\"[Organism] OR \"Chaetodon collare\"[Organism] OR \"Chaetodon decussatus\"[Organism] OR \"Chaetodon ephippium\"[Organism] OR \"Chaetodon falcula\"[Organism] OR \"Chaetodon gardineri\"[Organism] OR \"Chaetodon guentheri\"[Organism] OR \"Chaetodon guttatissimus\"[Organism] OR \"Chaetodon interruptus\"[Organism] OR \"Chaetodon kleinii\"[Organism] OR \"Chaetodon lineolatus\"[Organism] OR \"Chaetodon lunula\"[Organism] OR \"Chaetodon lunulatus\"[Organism] OR \"Chaetodon madagaskariensis\"[Organism] OR \"Chaetodon melannotus\"[Organism] OR \"Chaetodon mertensii\"[Organism] OR \"Chaetodon meyeri\"[Organism] OR \"Chaetodon ocellicaudus\"[Organism] OR \"Chaetodon octofasciatus\"[Organism] OR \"Chaetodon ornatissimus\"[Organism] OR \"Chaetodon oxycephalus\"[Organism] OR \"Chaetodon pelewensis\"[Organism] OR \"Chaetodon plebeius\"[Organism] OR \"Chaetodon punctatofasciatus\"[Organism] OR \"Chaetodon rafflesii\"[Organism]) AND (((12S[All Fields] OR \"12S ribosomal RNA\"[All Fields] OR \"small subunit ribosomal RNA\"[All Fields]) OR (mitochondrion[filter] AND 14000:20000[SLEN]))) AND 50:20000[SLEN]",
+   "count": 447
+  },
+  "b010_s20k": {
+   "term": "(\"Chaetodon reticulatus\"[Organism] OR \"Chaetodon selene\"[Organism] OR \"Chaetodon semeion\"[Organism] OR \"Chaetodon speculum\"[Organism] OR \"Chaetodon triangulum\"[Organism] OR \"Chaetodon trifascialis\"[Organism] OR \"Chaetodon trifasciatus\"[Organism] OR \"Chaetodon ulietensis\"[Organism] OR \"Chaetodon unimaculatus\"[Organism] OR \"Chaetodon vagabundus\"[Organism] OR \"Chaetodon wiebeli\"[Organism] OR \"Chaetodon xanthocephalus\"[Organism] OR \"Chaetodon xanthurus\"[Organism] OR \"Chaetodontoplus chrysocephalus\"[Organism] OR \"Chaetodontoplus dimidiatus\"[Organism] OR \"Chaetodontoplus duboulayi\"[Organism] OR \"Chaetodontoplus melanosoma\"[Organism] OR \"Chaetodontoplus mesoleucus\"[Organism] OR \"Chaetodontoplus poliourus\"[Organism] OR \"Champsodon atridorsalis\"[Organism] OR \"Champsodon guentheri\"[Organism] OR \"Champsodon longipinnis\"[Organism] OR \"Champsodon nudivittis\"[Organism] OR \"Champsodon sagittus\"[Organism] OR \"Champsodon vorax\"[Organism] OR \"Channomuraena vittata\"[Organism] OR \"Chascanopsetta lugubris\"[Organism] OR \"Chauliodus sloani\"[Organism] OR \"Chaunax brachysomus\"[Organism] OR \"Chaunax gomoni\"[Organism] OR \"Chaunax nebulosus\"[Organism] OR \"Chaunax penicillatus\"[Organism] OR \"Cheilinus chlorourus\"[Organism] OR \"Cheilinus fasciatus\"[Organism] OR \"Cheilinus oxycephalus\"[Organism] OR \"Cheilinus trilobatus\"[Organism] OR \"Cheilinus undulatus\"[Organism] OR \"Cheilio inermis\"[Organism] OR \"Cheilodipterus alleni\"[Organism] OR \"Cheilodipterus artus\"[Organism] OR \"Cheilodipterus intermedius\"[Organism] OR \"Cheilodipterus isostigma\"[Organism] OR \"Cheilodipterus macrodon\"[Organism] OR \"Cheilodipterus nigrotaeniatus\"[Organism] OR \"Cheilodipterus parazonatus\"[Organism] OR \"Cheilodipterus quinquelineatus\"[Organism] OR \"Cheilodipterus singapurensis\"[Organism] OR \"Cheilodipterus zonatus\"[Organism] OR \"Cheilopogon abei\"[Organism] OR \"Cheilopogon arcticeps\"[Organism] OR \"Cheilopogon atrisignis\"[Organism] OR \"Cheilopogon furcatus\"[Organism] OR \"Cheilopogon intermedius\"[Organism] OR \"Cheilopogon katoptron\"[Organism] OR \"Cheilopogon unicolor\"[Organism] OR \"Cheiloprion labiatus\"[Organism] OR \"Chelidoperca flavolineata\"[Organism] OR \"Chelidoperca hirundinacea\"[Organism] OR \"Chelidoperca maculicauda\"[Organism] OR \"Chelmon muelleri\"[Organism]) AND (((12S[All Fields] OR \"12S ribosomal RNA\"[All Fields] OR \"small subunit ribosomal RNA\"[All Fields]) OR (mitochondrion[filter] AND 14000:20000[SLEN]))) AND 50:20000[SLEN]",
+   "count": 315
+  },
+  "b011_s20k": {
+   "term": "(\"Chelmon rostratus\"[Organism] OR \"Chiasmodon braueri\"[Organism] OR \"Chilomycterus reticulatus\"[Organism] OR \"Chiloscyllium hasseltii\"[Organism] OR \"Chiloscyllium indicum\"[Organism] OR \"Chiloscyllium plagiosum\"[Organism] OR \"Chiloscyllium punctatum\"[Organism] OR \"Chimaera ogilbyi\"[Organism] OR \"Chirocentrus dorab\"[Organism] OR \"Chirocentrus nudus\"[Organism] OR \"Chlorophthalmus agassizi\"[Organism] OR \"Chlorophthalmus albatrossis\"[Organism] OR \"Chlorophthalmus corniger\"[Organism] OR \"Chlorophthalmus nigromarginatus\"[Organism] OR \"Chlorurus bleekeri\"[Organism] OR \"Chlorurus bowersi\"[Organism] OR \"Chlorurus capistratoides\"[Organism] OR \"Chlorurus enneacanthus\"[Organism] OR \"Chlorurus japanensis\"[Organism] OR \"Chlorurus microrhinos\"[Organism] OR \"Chlorurus oedema\"[Organism] OR \"Chlorurus rhakoura\"[Organism] OR \"Chlorurus sordidus\"[Organism] OR \"Chlorurus spilurus\"[Organism] OR \"Chlorurus strongylocephalus\"[Organism] OR \"Chlorurus troschelii\"[Organism] OR \"Choerodon anchorago\"[Organism] OR \"Choerodon cephalotes\"[Organism] OR \"Choerodon gomoni\"[Organism] OR \"Choerodon jordani\"[Organism] OR \"Choerodon monostigma\"[Organism] OR \"Choerodon oligacanthus\"[Organism] OR \"Choerodon robustus\"[Organism] OR \"Choerodon schoenleinii\"[Organism] OR \"Choerodon vitta\"[Organism] OR \"Choerodon zamboangae\"[Organism] OR \"Choerodon zosterophorus\"[Organism] OR \"Choeroichthys brachysoma\"[Organism] OR \"Choeroichthys cinctus\"[Organism] OR \"Choeroichthys hadiatyae\"[Organism] OR \"Choeroichthys sculptus\"[Organism] OR \"Choridactylus multibarbus\"[Organism] OR \"Chrionema chlorotaenia\"[Organism] OR \"Chromileptes altivelis\"[Organism] OR \"Chromis albicauda\"[Organism] OR \"Chromis alpha\"[Organism] OR \"Chromis analis\"[Organism] OR \"Chromis athena\"[Organism] OR \"Chromis atripectoralis\"[Organism] OR \"Chromis cinerascens\"[Organism] OR \"Chromis earina\"[Organism] OR \"Chromis monochroma\"[Organism] OR \"Chromis nigroanalis\"[Organism] OR \"Chromis opercularis\"[Organism] OR \"Chromis pura\"[Organism] OR \"Chromis scotochiloptera\"[Organism] OR \"Chromis ternatensis\"[Organism] OR \"Chromis unipa\"[Organism] OR \"Chromis viridis\"[Organism] OR \"Chromis weberi\"[Organism]) AND (((12S[All Fields] OR \"12S ribosomal RNA\"[All Fields] OR \"small subunit ribosomal RNA\"[All Fields]) OR (mitochondrion[filter] AND 14000:20000[SLEN]))) AND 50:20000[SLEN]",
+   "count": 261
+  },
+  "b012_s20k": {
+   "term": "(\"Chromis xanthochira\"[Organism] OR \"Chromis xanthura\"[Organism] OR \"Chromis xouthos\"[Organism] OR \"Chrysiptera arnazae\"[Organism] OR \"Chrysiptera biocellata\"[Organism] OR \"Chrysiptera bleekeri\"[Organism] OR \"Chrysiptera brownriggii\"[Organism] OR \"Chrysiptera caeruleolineata\"[Organism] OR \"Chrysiptera caesifrons\"[Organism] OR \"Chrysiptera cyanea\"[Organism] OR \"Chrysiptera ellenae\"[Organism] OR \"Chrysiptera giti\"[Organism] OR \"Chrysiptera glauca\"[Organism] OR \"Chrysiptera hemicyanea\"[Organism] OR \"Chrysiptera maurineae\"[Organism] OR \"Chrysiptera oxycephala\"[Organism] OR \"Chrysiptera parasema\"[Organism] OR \"Chrysiptera pricei\"[Organism] OR \"Chrysiptera rex\"[Organism] OR \"Chrysiptera rollandi\"[Organism] OR \"Chrysiptera springeri\"[Organism] OR \"Chrysiptera talboti\"[Organism] OR \"Chrysiptera unimaculata\"[Organism] OR \"Chrysiptera uswanasi\"[Organism] OR \"Chrysochir aurea\"[Organism] OR \"Cirrhilabrus adornatus\"[Organism] OR \"Cirrhilabrus aquamarinus\"[Organism] OR \"Cirrhilabrus aurantidorsalis\"[Organism] OR \"Cirrhilabrus brunneus\"[Organism] OR \"Cirrhilabrus cenderawasih\"[Organism] OR \"Cirrhilabrus chaliasi\"[Organism] OR \"Cirrhilabrus condei\"[Organism] OR \"Cirrhilabrus cyanogularis\"[Organism] OR \"Cirrhilabrus cyanopleura\"[Organism] OR \"Cirrhilabrus exquisitus\"[Organism] OR \"Cirrhilabrus filamentosus\"[Organism] OR \"Cirrhilabrus flavidorsalis\"[Organism] OR \"Cirrhilabrus humanni\"[Organism] OR \"Cirrhilabrus joanallenae\"[Organism] OR \"Cirrhilabrus lubbocki\"[Organism] OR \"Cirrhilabrus marinda\"[Organism] OR \"Cirrhilabrus naokoae\"[Organism] OR \"Cirrhilabrus pylei\"[Organism] OR \"Cirrhilabrus rubrimarginatus\"[Organism] OR \"Cirrhilabrus rubripinnis\"[Organism] OR \"Cirrhilabrus ryukyuensis\"[Organism] OR \"Cirrhilabrus solorensis\"[Organism] OR \"Cirrhilabrus temminckii\"[Organism] OR \"Cirrhilabrus tonozukai\"[Organism] OR \"Cirrhimuraena tapeinoptera\"[Organism] OR \"Cirrhitichthys aprinus\"[Organism] OR \"Cirrhitichthys aureus\"[Organism] OR \"Cirrhitichthys falco\"[Organism] OR \"Cirrhitichthys guichenoti\"[Organism] OR \"Cirrhitichthys oxycephalus\"[Organism] OR \"Cirrhitus pinnulatus\"[Organism] OR \"Cirripectes auritus\"[Organism] OR \"Cirripectes castaneus\"[Organism] OR \"Cirripectes filamentosus\"[Organism] OR \"Cirripectes gilberti\"[Organism]) AND (((12S[All Fields] OR \"12S ribosomal RNA\"[All Fields] OR \"small subunit ribosomal RNA\"[All Fields]) OR (mitochondrion[filter] AND 14000:20000[SLEN]))) AND 50:20000[SLEN]",
+   "count": 183
+  },
+  "b013_s20k": {
+   "term": "(\"Cirripectes perustus\"[Organism] OR \"Cirripectes polyzona\"[Organism] OR \"Cirripectes quagga\"[Organism] OR \"Cirripectes springeri\"[Organism] OR \"Cirripectes stigmaticus\"[Organism] OR \"Cociella punctata\"[Organism] OR \"Cocotropus dermacanthus\"[Organism] OR \"Cocotropus larvatus\"[Organism] OR \"Coelophrys arca\"[Organism] OR \"Coelophrys brevicaudata\"[Organism] OR \"Coelophrys brevipes\"[Organism] OR \"Coelophrys micropus\"[Organism] OR \"Coelorinchus argentatus\"[Organism] OR \"Coelorinchus argus\"[Organism] OR \"Coelorinchus commutabilis\"[Organism] OR \"Coelorinchus posteromaculatus\"[Organism] OR \"Coelorinchus spinifer\"[Organism] OR \"Conger cinereus\"[Organism] OR \"Congrogadus malayanus\"[Organism] OR \"Congrogadus subducens\"[Organism] OR \"Conidens laticephalus\"[Organism] OR \"Cookeolus japonicus\"[Organism] OR \"Coradion altivelis\"[Organism] OR \"Coradion chrysozonus\"[Organism] OR \"Coradion melanopus\"[Organism] OR \"Coris aygula\"[Organism] OR \"Coris batuensis\"[Organism] OR \"Coris caudimacula\"[Organism] OR \"Coris cuvieri\"[Organism] OR \"Coris dorsomacula\"[Organism] OR \"Coris gaimard\"[Organism] OR \"Coris julis\"[Organism] OR \"Coris pictoides\"[Organism] OR \"Coryphaena equiselis\"[Organism] OR \"Coryphaenoides asprellus\"[Organism] OR \"Coryphaenoides orthogrammus\"[Organism] OR \"Coryphaenoides sibogae\"[Organism] OR \"Coryphaenoides tydemani\"[Organism] OR \"Corythoichthys amplexus\"[Organism] OR \"Corythoichthys benedetto\"[Organism] OR \"Corythoichthys flavofasciatus\"[Organism] OR \"Corythoichthys haematopterus\"[Organism] OR \"Corythoichthys intestinalis\"[Organism] OR \"Corythoichthys nigripectus\"[Organism] OR \"Corythoichthys ocellatus\"[Organism] OR \"Corythoichthys polynotatus\"[Organism] OR \"Corythoichthys schultzi\"[Organism] OR \"Cosmocampus banneri\"[Organism] OR \"Cosmocampus darrosanus\"[Organism] OR \"Cosmocampus maxweberi\"[Organism] OR \"Cottapistus cottoides\"[Organism] OR \"Craterognathus plagiotaenia\"[Organism] OR \"Cristatogobius lophius\"[Organism] OR \"Crossorhombus azureus\"[Organism] OR \"Crossosalarias macrospilus\"[Organism] OR \"Cryptocentrus albidorsus\"[Organism] OR \"Cryptocentrus caeruleomaculatus\"[Organism] OR \"Cryptocentrus cebuanus\"[Organism] OR \"Cryptocentrus cinctus\"[Organism] OR \"Cryptocentrus cyanospilotus\"[Organism]) AND (((12S[All Fields] OR \"12S ribosomal RNA\"[All Fields] OR \"small subunit ribosomal RNA\"[All Fields]) OR (mitochondrion[filter] AND 14000:20000[SLEN]))) AND 50:20000[SLEN]",
+   "count": 206
+  },
+  "b014_s20k": {
+   "term": "(\"Cryptocentrus cyanotaenia\"[Organism] OR \"Cryptocentrus fasciatus\"[Organism] OR \"Cryptocentrus inexplicatus\"[Organism] OR \"Cryptocentrus leptocephalus\"[Organism] OR \"Cryptocentrus leucostictus\"[Organism] OR \"Cryptocentrus maudae\"[Organism] OR \"Cryptocentrus multicinctus\"[Organism] OR \"Cryptocentrus nigrocellatus\"[Organism] OR \"Cryptocentrus niveatus\"[Organism] OR \"Cryptocentrus octofasciatus\"[Organism] OR \"Cryptocentrus pavoninoides\"[Organism] OR \"Cryptocentrus polyophthalmus\"[Organism] OR \"Cryptocentrus sericus\"[Organism] OR \"Cryptocentrus strigilliceps\"[Organism] OR \"Cryptopsaras couesii\"[Organism] OR \"Ctenochaetus binotatus\"[Organism] OR \"Ctenochaetus cyanocheilus\"[Organism] OR \"Ctenochaetus striatus\"[Organism] OR \"Ctenochaetus tominiensis\"[Organism] OR \"Ctenochaetus truncatus\"[Organism] OR \"Ctenogobiops aurocingulus\"[Organism] OR \"Ctenogobiops crocineus\"[Organism] OR \"Ctenogobiops feroculus\"[Organism] OR \"Ctenogobiops mitodes\"[Organism] OR \"Ctenogobiops pomastictus\"[Organism] OR \"Ctenogobiops tangaroai\"[Organism] OR \"Ctenotrypauchen chinensis\"[Organism] OR \"Cubiceps kotlyari\"[Organism] OR \"Cubiceps pauciradiatus\"[Organism] OR \"Cubiceps whiteleggii\"[Organism] OR \"Cyclichthys orbicularis\"[Organism] OR \"Cyclichthys spilostylus\"[Organism] OR \"Cymatognathus aureolateralis\"[Organism] OR \"Cymbacephalus beauforti\"[Organism] OR \"Cymbacephalus bosschei\"[Organism] OR \"Cymbacephalus nematophthalmus\"[Organism] OR \"Cymolutes praetextatus\"[Organism] OR \"Cymolutes torquatus\"[Organism] OR \"Cynoglossus abbreviatus\"[Organism] OR \"Cynoglossus arel\"[Organism] OR \"Cynoglossus bilineatus\"[Organism] OR \"Cynoglossus itinus\"[Organism] OR \"Cynoglossus kopsii\"[Organism] OR \"Cynoglossus lida\"[Organism] OR \"Cynoglossus macrolepidotus\"[Organism] OR \"Cynoglossus monopus\"[Organism] OR \"Cynoglossus oligolepis\"[Organism] OR \"Cynoglossus suyeni\"[Organism] OR \"Cypho zaps\"[Organism] OR \"Cyprinocirrhites polyactis\"[Organism] OR \"Cypselurus hexazona\"[Organism] OR \"Cypselurus oligolepis\"[Organism] OR \"Cypselurus opisthopus\"[Organism] OR \"Cypselurus poecilopterus\"[Organism] OR \"Cyttopsis cypho\"[Organism] OR \"Dactylanthias aplodactylus\"[Organism] OR \"Dactyloptena gilberti\"[Organism] OR \"Dactyloptena macracantha\"[Organism] OR \"Dactyloptena orientalis\"[Organism] OR \"Dactyloptena peterseni\"[Organism]) AND (((12S[All Fields] OR \"12S ribosomal RNA\"[All Fields] OR \"small subunit ribosomal RNA\"[All Fields]) OR (mitochondrion[filter] AND 14000:20000[SLEN]))) AND 50:20000[SLEN]",
+   "count": 194
   }
  },
  "files": {
@@ -310,9 +338,163 @@
    "sha256": "dcc7a62f3e632de5abb6946e9871d47f7470d1da78d5fe68953baf1be41046d6",
    "records": 176,
    "query": "b007_s20k"
+  },
+  "b007_s20k_0000.fasta": {
+   "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi",
+   "bytes": 1008003,
+   "sha256": "af0c3e8aee6e937558d95cb927556ccb544f424102adc7003c340635af477ede",
+   "records": 176,
+   "query": "b007_s20k"
+  },
+  "b008_s20k_0000.esummary.json": {
+   "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi",
+   "bytes": 186021,
+   "sha256": "ff5f61d09f514bef27a2bff23b9adf109f1c77c1843f1df569e52b9468c4e989",
+   "records": 250,
+   "query": "b008_s20k"
+  },
+  "b008_s20k_0000.fasta": {
+   "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi",
+   "bytes": 1677543,
+   "sha256": "386dbe48a3b08a24083f8e633123dd7d400bc653998521b97b1d7c56b43c4ddf",
+   "records": 250,
+   "query": "b008_s20k"
+  },
+  "b008_s20k_0001.esummary.json": {
+   "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi",
+   "bytes": 79653,
+   "sha256": "5ebe0320f439b5ae1e40d723c1169530d79ccf7c46d8b97e1997b8f2c624d734",
+   "records": 116,
+   "query": "b008_s20k"
+  },
+  "b008_s20k_0001.fasta": {
+   "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi",
+   "bytes": 682780,
+   "sha256": "0c2ab97e19ed6d202c778ed15a6dac52f43675b829dfca0dd35fc009764653c9",
+   "records": 116,
+   "query": "b008_s20k"
+  },
+  "b009_s20k_0000.esummary.json": {
+   "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi",
+   "bytes": 189877,
+   "sha256": "9d0d24c03cfd2c0b458687188b61c13f1c6234ad6e73808b906ecdaa54113793",
+   "records": 250,
+   "query": "b009_s20k"
+  },
+  "b009_s20k_0000.fasta": {
+   "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi",
+   "bytes": 1651437,
+   "sha256": "e475ec342180f4152770b9575cd24c76c5c9a9048116f54dd6a47d959343a8e0",
+   "records": 250,
+   "query": "b009_s20k"
+  },
+  "b009_s20k_0001.esummary.json": {
+   "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi",
+   "bytes": 133803,
+   "sha256": "dfbddceeede8d9408b10a7016e45e74de64fa19284597bcb0e0bd0304986f21c",
+   "records": 197,
+   "query": "b009_s20k"
+  },
+  "b009_s20k_0001.fasta": {
+   "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi",
+   "bytes": 365951,
+   "sha256": "e51f1206f9c918bb0b43e6efaaac7683c90bed56e89c5bff5e0937d7f3bb3f70",
+   "records": 197,
+   "query": "b009_s20k"
+  },
+  "b010_s20k_0000.esummary.json": {
+   "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi",
+   "bytes": 185213,
+   "sha256": "e42a015f7572f54dfe35baf9b5cc1347a25517bafebd35de2cc425c218377830",
+   "records": 250,
+   "query": "b010_s20k"
+  },
+  "b010_s20k_0000.fasta": {
+   "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi",
+   "bytes": 1472026,
+   "sha256": "e144165f62fe6d4a00da7cb183575b60b42eff5e07b40e602853875ed0d549fd",
+   "records": 250,
+   "query": "b010_s20k"
+  },
+  "b010_s20k_0001.esummary.json": {
+   "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi",
+   "bytes": 42407,
+   "sha256": "f85351c5f9cac918e700848da6cc7377ceb36fad21ee4cb11e2861388d3c22f0",
+   "records": 65,
+   "query": "b010_s20k"
+  },
+  "b010_s20k_0001.fasta": {
+   "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi",
+   "bytes": 245014,
+   "sha256": "83ed3b450355300e3449a1020b4fc50ab13a7b54ec18a79018c07022bf27324d",
+   "records": 65,
+   "query": "b010_s20k"
+  },
+  "b011_s20k_0000.esummary.json": {
+   "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi",
+   "bytes": 181546,
+   "sha256": "e37a08469617eccbd13f5c06e0cd9f97bd11251e61c5e5ff03a4eea5cd177e1e",
+   "records": 250,
+   "query": "b011_s20k"
+  },
+  "b011_s20k_0000.fasta": {
+   "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi",
+   "bytes": 1629322,
+   "sha256": "114dbbc3bd02dade106f9952fd77b0afad339e30a5e7b35a5455d742cce26c1e",
+   "records": 250,
+   "query": "b011_s20k"
+  },
+  "b011_s20k_0001.esummary.json": {
+   "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi",
+   "bytes": 6909,
+   "sha256": "9fd73443ebc1fb1cc8c1415aef84ec88d84fa61ff872ff162d16dadfce9f9f7f",
+   "records": 11,
+   "query": "b011_s20k"
+  },
+  "b011_s20k_0001.fasta": {
+   "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi",
+   "bytes": 55538,
+   "sha256": "e0b9efb00524aa5abc006ecb3bb5ebfac9e83abb39eafe9fcaf77af274b19d80",
+   "records": 11,
+   "query": "b011_s20k"
+  },
+  "b012_s20k_0000.esummary.json": {
+   "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi",
+   "bytes": 135126,
+   "sha256": "a9cda6c2b757e691f56cdceb793e671942ec9892a11f250ef211971eca5870ea",
+   "records": 183,
+   "query": "b012_s20k"
+  },
+  "b012_s20k_0000.fasta": {
+   "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi",
+   "bytes": 1109507,
+   "sha256": "13fec81240f1112f10a4036b693a0fc87f8e65974fd47a056f7b1e8f09ae98b7",
+   "records": 183,
+   "query": "b012_s20k"
+  },
+  "b013_s20k_0000.esummary.json": {
+   "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi",
+   "bytes": 150214,
+   "sha256": "191884120a5c6162706706db14dd5d20182e19e05a98b9b0db3a6d81e2e1def4",
+   "records": 206,
+   "query": "b013_s20k"
+  },
+  "b013_s20k_0000.fasta": {
+   "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi",
+   "bytes": 1073189,
+   "sha256": "f868a491aecf56e101b70b5395182409c847175434a69a99c40c8d05672c9561",
+   "records": 206,
+   "query": "b013_s20k"
+  },
+  "b014_s20k_0000.esummary.json": {
+   "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi",
+   "bytes": 140826,
+   "sha256": "46a8acafe9198e07590c88f1f57a24d395ddefcd21233fc9b4b235d4a3cb315c",
+   "records": 194,
+   "query": "b014_s20k"
   }
  },
  "notes": [],
  "target_species": 3364,
- "updated": "2026-10-25T07:24:29"
+ "updated": "2026-10-25T08:57:26"
 }
