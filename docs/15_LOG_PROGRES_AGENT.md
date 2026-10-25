@@ -59,6 +59,9 @@ Batasan yang tetap berlaku dari percakapan: tanpa Docker; hemat token tetapi sta
 | 25 Okt 05:38 | Lanjutan setelah jeda | GBIF selesai (7 negara, 8.350 nama); antrean NCBI dijalankan ulang (batas 20 kb); dataset baru: BRIN file terbuka (50 file), OBIS (4.411 takson area Indonesia), IUCN (siap, butuh token); analisis uji dijalankan (be5c3e6..bc63886) |
 | 25 Okt 05:50 | Uji analisis end-to-end lulus | trim_mifish_fast identik dengan trim_mifish (120 sampel); semua keluaran `data/curation/tropis_gap_v1/` terbentuk; angka SEMENTARA (GenBank belum lengkap), belum dikomit |
 | 25 Okt 05:59 | NCBI gangguan berkala (efetch 5xx > 7 menit) | Diagnosis: kueri benar (uji manual 250 rekaman 7,8 dtk). Dijalankan dalam putaran ulang otomatis (maks 10x, jeda 5 menit), lanjut dari batch terakhir. Efek samping: tiap putaran menambah baris log ganda di DOWNLOAD_LOG |
+| 25 Okt 06:45 | Sinkron ulang branch Bagus | 6 commit baru Bagus (Lake St. Pierre CA-QC, LOSO r0.4, D-034) digabung; konflik README/09 pakai versi Bagus (ff3181b) |
+| 25 Okt 07:10 | Kamus nasional v0.4 (D-035) | 966 sekuens MiFish, 630 spesies, 100 spesimen bertanda Indonesia; LAUT_INDONESIA dari FishBase |
+| 25 Okt 07:19 | Demo DATA ASLI (D-036) | Marwayana 2022 (Dryad CC0, MiFish-U, 39 lokasi terumbu Indonesia): 4.354 klaim, 152 taksa; tombol "Muat data eDNA asli Indonesia" + pra-hitung terverifikasi; diuji di browser (292f17f + pra-hitung) |
 
 ## Langkah berikutnya
 

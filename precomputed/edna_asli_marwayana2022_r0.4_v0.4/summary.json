@@ -1,0 +1,94 @@
+{
+  "decisions": [
+    {
+      "claims": 0,
+      "decision": "safe",
+      "follow_up": "Boleh dimasukkan ke dokumen pada tingkat nama yang tertera.",
+      "label": "Aman dilaporkan",
+      "taxa": 0
+    },
+    {
+      "claims": 1685,
+      "decision": "with_note",
+      "follow_up": "Tulis pada tingkat nama yang aman; sertakan catatan penyebab dan cek kemungkinan sumber DNA lain.",
+      "label": "Dengan catatan",
+      "taxa": 133
+    },
+    {
+      "claims": 1,
+      "decision": "must_verify",
+      "follow_up": "Jangan dijadikan kesimpulan sebelum dicek: marker kedua (COI/16S), survei tangkap, atau barcode spesimen voucher.",
+      "label": "Wajib verifikasi",
+      "taxa": 1
+    },
+    {
+      "claims": 2668,
+      "decision": "do_not_use",
+      "follow_up": "Tinjau batch ekstraksi dan kontrol; ulang PCR; abaikan data nyasar.",
+      "label": "Jangan dipakai",
+      "taxa": 106
+    }
+  ],
+  "duration_seconds": 220.088,
+  "is_simulated": false,
+  "must_verify_count": 1,
+  "precomputed": false,
+  "reference_by_voucher": {
+    "V2": 924,
+    "V3": 42
+  },
+  "reference_coverage": 0.1329032258064516,
+  "reference_sequences": 966,
+  "reference_species": 630,
+  "safe_percent": 0.0,
+  "sites": [
+    "AG",
+    "AP",
+    "BA",
+    "BM",
+    "BTM01",
+    "BTM02",
+    "BTM03",
+    "CC",
+    "CD",
+    "CK",
+    "KL",
+    "KPP",
+    "KS.S01",
+    "KS.S02",
+    "KS.S03",
+    "MG",
+    "PL",
+    "PLK",
+    "PP",
+    "PPG",
+    "SB.01",
+    "SB.02",
+    "SB.03",
+    "SB.04",
+    "SB.05",
+    "SL",
+    "SP",
+    "SR",
+    "SW",
+    "TK",
+    "TKS",
+    "TL",
+    "TTE.1",
+    "TTE.2",
+    "TTE.3",
+    "WKTB.01",
+    "WKTB.2",
+    "WKTB.3",
+    "WM"
+  ],
+  "tag_jump_removed": 118,
+  "total_claims": 4354,
+  "total_taxa": 152,
+  "warnings": [
+    "Koordinat tidak tersedia pada 116 sampel lapangan (mis. AG.1, AG.2, AG.3); tidak ditebak."
+  ],
+  "waterbodies": [
+    "LAUT_INDONESIA"
+  ]
+}

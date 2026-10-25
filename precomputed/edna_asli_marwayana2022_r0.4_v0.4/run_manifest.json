@@ -1,0 +1,114 @@
+{
+  "blast_version": "blastn: 2.17.0+",
+  "engine_version": "0.1.1",
+  "execution": {
+    "blast_threads": 4
+  },
+  "finished_at": "2026-10-25T00:17:05.612050+00:00",
+  "input_hashes": {
+    "fasta.fasta": "3ad4b331cb7751dde16e584285d9c8da9e2383485820876042810d6e3063e58d",
+    "metadata.csv": "8e1f8aa89e5de24b9e649e2ec27d8aee3720c88e1f568d4d3d3f25b1da1911e0",
+    "reads.csv": "e439ee6eb460bfe8ef62b25e441a5b9d96c9598f0e9a17686e327b55545a0b45",
+    "taxonomy.csv": "b5fb6d0e2176344d1059f0d572fc9815b9b5eb615db95a85f6fe41b7b1587405"
+  },
+  "is_simulated": false,
+  "mode": "normal",
+  "output_hashes": {
+    "barcode_priority.csv": "d3a0c57db71b05153f8ed0e15e8da2141992e2bf2bfbf619f2d67120b69ba795",
+    "blast_hits.tsv": "b9c4c886e13ab17fb519caf6f075426c8d7ad9025569e2cbbd42fc70b45bf585",
+    "claims.csv": "7cceb565ff926972fcd4a9ca7d75eeaa0c8245866b7c447398c8a09d100b5614",
+    "coverage.csv": "c52771df054de3fa5f1d2e92df6ebbaeff8579d89d74926257f59c302f968f69",
+    "report.pdf": "a6c8ddd33e7dc520413420b65d0c723d365214b131f9462bf6854f91008c7391",
+    "summary.json": "0e0a5de05fc2389480943b0fbc164b67402631c5cbb1fa0b96dcd86003fc6e44",
+    "validation_report.json": "cd24633dad61267decb3dd635afc9a2b2465421020c1313c56aa60a593bb8cd6"
+  },
+  "parameters": {
+    "marker": "12S_MiFish_U",
+    "rules": {
+      "blast": {
+        "dust": "no",
+        "evalue": 1e-05,
+        "max_target_seqs": 500,
+        "perc_identity": 80,
+        "task": "blastn"
+      },
+      "causes": {
+        "reference_cause_p_missing": 0.5
+      },
+      "curation": {
+        "conflict_policy": "accepted_with_flag",
+        "forward_primer": "GTCGGTAAAACTCGTGCCAGC",
+        "max_n_fraction": 0.01,
+        "min_length_fraction": 0.9,
+        "primer_max_mismatches": 3,
+        "reverse_primer": "CATAGTGGGGTATCTAATCCCAGTTTG"
+      },
+      "evidence": {
+        "foreign_specimen_policy": "flag",
+        "secondary_source_cap": true
+      },
+      "interpretation_limit": "Deteksi DNA bukan bukti pasti ikan hidup di lokasi.",
+      "labels": {
+        "partial_sensitive_label": true
+      },
+      "marker_default": "12S_MiFish_U",
+      "naming": {
+        "congener_gap_policy": "strict",
+        "hit_window_pct": 0.5,
+        "min_query_coverage": 0.9,
+        "species_min_pct": 98.0,
+        "unknown_below_pct": 95.0
+      },
+      "preprocess": {
+        "tag_jump_fraction": 0.001
+      },
+      "priorities": {
+        "endemic": 3,
+        "invasive": 1,
+        "observed_reference_gap": 2,
+        "threatened": 2
+      },
+      "reference": {
+        "allowed_voucher_levels": [
+          "V1",
+          "V2",
+          "V3"
+        ]
+      },
+      "rules_version": "r0.4",
+      "scoring": {
+        "grade_map": {
+          "0": "D",
+          "1": "D",
+          "2": "C",
+          "3": "C",
+          "4": "B",
+          "5": "A"
+        },
+        "l1_high_gap": 1.0,
+        "l1_high_pct": 99.0,
+        "l1_mid_gap": 0.5,
+        "l1_mid_pct": 98.0,
+        "l1_penalty_ref_fraction_below": 0.5,
+        "l4_full": 1.0,
+        "l4_partial": 0.66,
+        "l4_single_replicate_score": 1,
+        "min_total_reads": 10
+      },
+      "status": "usulan tim, belum dikalibrasi ahli",
+      "validation": {
+        "baseline_species_pct": 97.0
+      }
+    },
+    "uses_fasta": true
+  },
+  "reasons_hash": "19e52c69982c77cdcd946abab1a9ad4d965d99e26160d9918e5ee36816d78009",
+  "reference_manifest_hash": "2e280c123b97460e856f64d25be6e655c6608d129749c5bc00f39decae7fde5e",
+  "reference_version": "v0.4",
+  "report_fingerprint": "1ed0313b7c3d7c5bddd4074ad324788e15b8d2a1a27ad766847787615f9bac6a",
+  "result_payload_hash": "d6cc21c825e76e9d89ec1ec57a0264fa0ac1822b9c310ca5d3c9d4b2478a8504",
+  "rules_hash": "e528682547b9b02d0b375f8896a48a974f5279ffa50bcfc2b5252ee867f6be92",
+  "rules_version": "r0.4",
+  "run_fingerprint": "3ee8ebc6e83aa228795573ec2aa9ee473df860c997819f0307158eae9e40767b",
+  "started_at": "2026-10-25T00:13:25.279044+00:00"
+}
