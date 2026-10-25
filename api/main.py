@@ -1,5 +1,6 @@
 """FastAPI local adapter [MVP]; same-origin static React and bounded file input."""
 
+import csv
 import io
 import json
 import logging
@@ -21,6 +22,7 @@ from starlette.exceptions import HTTPException as StarletteHTTPException
 from api.contracts import (
     DatasetsResponse,
     HealthResponse,
+    InspectResponse,
     MethodsResponse,
     NoteRequest,
     ProposalResponse,
@@ -32,6 +34,8 @@ from api.contracts import (
 from biotrace_core import __version__
 from biotrace_core.audit import read_run, verify_run
 from biotrace_core.config import DEFAULT_RULES, ROOT, load_rules
+from biotrace_core.io.columns import ALIASES, detect_role, map_table, prepare_metadata
+from biotrace_core.io.loaders import read_table
 from biotrace_core.io.validate import ALLOWED_EXTENSIONS, MAX_UPLOAD_BYTES, InputError
 from biotrace_core.models import (
     BarcodePriorityRow,
@@ -190,6 +194,8 @@ async def create_run(
     taxonomy: Annotated[UploadFile | None, File()] = None,
     site_context: Annotated[UploadFile | None, File()] = None,
     mode: Annotated[str, Form()] = "normal",
+    waterbody_id: Annotated[str, Form()] = "",
+    marker: Annotated[str, Form()] = "",
 ) -> RunCreated:
     if mode not in {"normal", "simulation"}:
         raise HTTPException(
@@ -233,10 +239,62 @@ async def create_run(
             DEFAULT_RULES,
             runs_root(),
             mode,
+            4,
+            {"waterbody_id": waterbody_id.strip(), "marker": marker.strip()},
         )
     return RunCreated(
         run_id=result.run_id, validation=result.validation, is_simulated=result.summary.is_simulated
     )
+
+
+INSPECT_BYTES = 256 * 1024
+
+
+@app.post("/api/inputs/inspect", response_model=InspectResponse)
+async def inspect_input(file: Annotated[UploadFile, File()]) -> dict:
+    """D-038: recognise a file's role and columns from its first rows (nothing is stored)."""
+    head = (await file.read(INSPECT_BYTES)).decode("utf-8-sig", errors="replace")
+    waterbodies = {
+        r["waterbody_id"]: r.get("name", "")
+        for r in read_table(reference_root() / "waterbodies.csv")
+    }
+    options = [{"waterbody_id": k, "name": v} for k, v in sorted(waterbodies.items())]
+    empty = {"columns": {}, "ignored": [], "notes": [], "needs": [], "waterbodies": options}
+    if head.lstrip().startswith(">"):
+        return {**empty, "role": "fasta"}
+    lines = head.splitlines()
+    if len(head) >= INSPECT_BYTES:
+        lines = lines[:-1]
+    if not lines:
+        return {**empty, "role": "unknown"}
+    tsv = (file.filename or "").lower().endswith(".tsv") or "\t" in lines[0]
+    reader = csv.reader(lines, delimiter="\t" if tsv else ",")
+    headers = [h.strip() for h in next(reader)]
+    # Short rows are padded; cells beyond the header are dropped (inspection only).
+    padded = [[c.strip() for c in cells] + [""] * len(headers) for cells in reader]
+    rows = [
+        dict(zip(headers, cells[: len(headers)], strict=True)) for cells in padded if any(cells)
+    ]
+    role = detect_role(headers, rows)
+    if role not in ALIASES or not rows:
+        return {**empty, "role": role}
+    mapped, mapping = map_table(rows, role)
+    notes, needs = mapping.changes(), []
+    if role == "metadata" and "sample_id" in mapped[0]:
+        prepared, extra = prepare_metadata(mapped, waterbodies, {})
+        notes += extra
+        if any(r["sample_type"] == "sampel" and not r["waterbody_id"] for r in prepared):
+            needs.append("waterbody_id")
+        if any(not r["marker"] for r in prepared):
+            needs.append("marker")
+    return {
+        **empty,
+        "role": role,
+        "columns": mapping.columns,
+        "ignored": mapping.ignored,
+        "notes": notes,
+        "needs": needs,
+    }
 
 
 def _from_precomputed(folder: Path) -> RunResult:

@@ -7,6 +7,7 @@ from api.contracts import (
     DatasetsResponse,
     ErrorResponse,
     HealthResponse,
+    InspectResponse,
     MethodsResponse,
     ProposalResponse,
     ReferenceStats,
@@ -62,6 +63,7 @@ def generate(destination: Path = ROOT / "web/src/api/generated.ts") -> str:
             SitePoint,
             RunComparison,
             ProposalResponse,
+            InspectResponse,
         )
     ]
     definitions = {}
