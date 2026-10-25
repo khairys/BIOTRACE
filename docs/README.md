@@ -1,6 +1,6 @@
 # Dokumentasi BioTrace Indonesia
 
-Mulai dari `01_KONSEP_INDUK.md`. Agent wajib membaca `../AGENTS.md` dulu.
+Juri: mulai dari [17 — Kesiapan Juri](17_KESIAPAN_JURI.md). Pembaca umum: mulai dari `01_KONSEP_INDUK.md`. Kontributor dan agent wajib membaca `../AGENTS.md`.
 
 | # | Dokumen | Isi | Pembaca utama |
 |---|---|---|---|

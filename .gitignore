@@ -33,3 +33,19 @@ raw/tropis/**
 *.partial
 # Arsip > 100 MB (batas GitHub); hash di raw/DOWNLOAD_LOG.md
 raw/dryad_sqv9s4n6f_rajaampat/*.zip
+
+# Dokumen internal pengembangan (tidak untuk pengguna/juri; tetap ada di salinan lokal tim)
+CLAUDE.md
+docs/11_AUDIT_KESIAPAN_*.md
+docs/12_BASELINE_IMPLEMENTASI.md
+docs/13_PROMPT_PENGGABUNGAN_DATA.md
+docs/14_RISET_DATASET_TROPIS.md
+docs/15_LOG_PROGRES_AGENT.md
+docs/16_PANEN_DATA_TROPIS.md
+docs/18_AUDIT_DASHBOARD.md
+
+# Artefak lokal
+__pycache__/
+*.pyc
+.claude/
+output/
