@@ -56,12 +56,7 @@ def main() -> None:
             .get_by_text("Deteksi DNA bukan bukti pasti ikan hidup di lokasi.", exact=True)
             .last
         ).to_be_visible()
-        page.get_by_role("dialog").get_by_role("button", name="English", exact=True).click()
-        expect(
-            page.get_by_text(
-                "DNA detection is not proof that the fish lives at the site.", exact=True
-            )
-        ).to_be_visible()
+        expect(page.get_by_role("dialog").get_by_text("Tindak lanjut", exact=True)).to_be_visible()
         page.screenshot(path=str(output / "03-evidence.png"))
         page.keyboard.press("Escape")
         expect(page.get_by_role("dialog")).to_have_count(0)
@@ -75,6 +70,7 @@ def main() -> None:
         assert "SIMULASI" in pdf.suggested_filename
         pdf.save_as(str(output / "report_SIMULASI.pdf"))
         assert (output / "report_SIMULASI.pdf").read_bytes().startswith(b"%PDF")
+        page.locator(".download-menu > summary").click()
         with page.expect_download() as download:
             page.get_by_role("link", name="Unduh CSV").click()
         download.value.save_as(str(output / "export_SIMULASI.zip"))
