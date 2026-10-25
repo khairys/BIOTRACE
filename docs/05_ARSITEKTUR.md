@@ -335,25 +335,6 @@ Variabel lingkungan (`.env`, opsional):
 - Validasi ekstensi dan ukuran sebelum diproses.
 - Nama file pengguna tidak dipakai sebagai path (simpan dengan nama baku).
 
-## 14. Rencana kerja malam hackathon `[MVP]`
-
-Urutan disusun agar selalu ada demo yang jalan bila waktu habis.
-
-| # | Pekerjaan | Pemilik | Selesai bila |
-|---|---|---|---|
-| 1 | Kerangka repo, `models.py`, `config.py`, rules YAML, fixture FX-1 | Backend | `make test` jalan |
-| 2 | `preprocess`, `naming/rules`, `scoring`, `causes`, `decision` + tes E1–E12 (mode taksonomi lab dulu, tanpa BLAST) | Backend | E1–E12 lulus |
-| 3 | `make_demo_data.py` → `data/demo/matano_sim_v1/` (SIMULASI) sesuai 10 §6 | Backend | 16 skenario menghasilkan keputusan target |
-| 4 | API minimal: `/api/runs/demo`, `/claims`, `/coverage` | Backend | JSON keluar |
-| 5 | Halaman Unggah (drag & drop) dan Hasil bagian ①–④ sesuai 10 §3–4 | Frontend | Alur demo berjalan dari unggah sampai Evidence Card |
-| 6 | Modul BLAST + kamus v0.1 (publik bila sudah terunduh; bila belum, sintetis SIMULASI) | Backend | Mode FASTA jalan |
-| 7 | Hasil bagian ⑤–⑦ | Frontend | Grafik cakupan dan audit tampil |
-| 8 | Audit + PDF | Backend/Frontend | PDF terunduh dengan fingerprint |
-| 9 | `make precompute` + P7 Metode + P8 Validasi (statis) | Semua | Demo bisa jalan offline tanpa BLAST |
-| 10 | README "Sebelum vs selama hackathon" | Manusia | Terisi |
-
-Titik aman: setelah langkah 5, demo sudah layak. Langkah 6–9 menambah kekuatan.
-
-## 15. Rilis juri D-038 (25 Oktober 2026)
+## 14. Kamus bawaan dan pin demo
 
 CLI, API bawaan, dan demo asli mengacu `DEFAULT_REFERENCE` v0.5. Demo tetap dipin ke snapshot rilis meskipun operator memilih override kamus unggahan; identitas versi selalu ditampilkan. Sumber dan asumsi dataset berada di parameter analitis yang terikat fingerprint. Parameter `execution.blast_timeout_seconds` tidak mengubah identitas analitis. Snapshot lama tidak ditimpa. Panduan dan tindak lanjut: [17](17_KESIAPAN_JURI.md).

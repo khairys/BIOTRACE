@@ -192,7 +192,7 @@ docs/             konsep, aturan mesin, spesifikasi data, arsitektur, validasi, 
 | `dev` | API dengan reload + Vite dev server |
 | `precompute` / `ref-build` | Simpan run demo terverifikasi / bangun database BLAST kamus demo |
 
-Pemeriksaan rilis: `uv run python scripts/prepare_jury.py check|audit|quality`. Aturan kontribusi (termasuk untuk AI agent) ada di [`AGENTS.md`](AGENTS.md); setiap perubahan aturan, skema, atau kamus dicatat di [`docs/09_LOG_KEPUTUSAN.md`](docs/09_LOG_KEPUTUSAN.md). Indeks dokumentasi: [`docs/README.md`](docs/README.md).
+Pemeriksaan rilis: `uv run python scripts/prepare_jury.py check|audit|quality`. Aturan kontribusi ada di [`AGENTS.md`](AGENTS.md); setiap perubahan aturan, skema, atau kamus dibuat sebagai versi baru dan tidak menimpa versi lama. Indeks dokumentasi: [`docs/README.md`](docs/README.md).
 
 ## Batasan dan penggunaan yang bertanggung jawab
 
